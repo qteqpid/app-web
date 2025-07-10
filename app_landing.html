@@ -1,0 +1,397 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>轻松学汉字 App</title>
+    <style>
+        body {
+            background: #fafaf6;
+            font-family: 'Helvetica Neue', Helvetica, Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+            margin: 0;
+            padding: 0;
+            color: #444;
+            transition: background 0.4s;
+        }
+        .container {
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+            min-height: 80vh;
+            max-width: 900px;
+            margin: 40px auto 0 auto;
+            background: #fff;
+            border-radius: 18px;
+            box-shadow: 0 4px 24px rgba(0,0,0,0.07);
+            padding: 40px 32px 32px 32px;
+            position: relative;
+        }
+        .arrow-btn {
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+            width: 60px;
+            height: 60px;
+            background: rgba(230,237,234,0.55);
+            border: none;
+            border-radius: 50%;
+            box-shadow: 0 4px 16px rgba(0,0,0,0.13);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            z-index: 2;
+            transition: background 0.2s, opacity 0.18s, transform 0.18s;
+        }
+        .arrow-btn:hover {
+            background: rgba(198,215,185,0.75);
+            transform: translateY(-50%) scale(1.08);
+        }
+        .arrow-left {
+            left: -70px;
+        }
+        .arrow-right {
+            right: -70px;
+        }
+        .arrow-icon {
+            width: 36px;
+            height: 36px;
+            display: block;
+        }
+        .arrow-svg {
+            width: 100%;
+            height: 100%;
+            stroke: #4a5c3c;
+            stroke-width: 4.5;
+            stroke-linecap: round;
+            stroke-linejoin: round;
+            fill: none;
+        }
+        .left {
+            flex: 1;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .app-mockup {
+            width: 260px;
+            /* height: 540px; */
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            position: relative;
+        }
+        .app-mockup img {
+            width: 260px;
+            height: 520px;
+            border-radius: 0;
+            object-fit: contain;
+            margin: 0;
+            box-shadow: none;
+            background: none;
+            display: block;
+        }
+        .right {
+            flex: 1.2;
+            padding-left: 48px;
+            padding-top: 48px;
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-start;
+        }
+        .app-title {
+            font-size: 2.1rem;
+            font-weight: bold;
+            color: #3a4d3f;
+            margin-bottom: 10px;
+            letter-spacing: 1px;
+        }
+        .app-desc {
+            font-size: 1.1rem;
+            color: #6b7a6a;
+            margin-bottom: 4px;
+        }
+        .features {
+            margin-bottom: 32px;
+        }
+        .features li {
+            margin-bottom: 8px;
+            font-size: 1rem;
+            line-height: 1.7;
+            padding-left: 0;
+        }
+        .download-section {
+            margin-top: 18px;
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+        }
+        .download-label {
+            font-size: 1rem;
+            color: #3a4d3f;
+            margin-bottom: 8px;
+            font-weight: 500;
+        }
+        .qr-code {
+            width: 120px;
+            height: 120px;
+            background: #f3f3f3;
+            border-radius: 12px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            box-shadow: 0 1px 6px rgba(0,0,0,0.06);
+        }
+        .qr-code img {
+            width: 100px;
+            height: 100px;
+        }
+        footer {
+            margin-top: 48px;
+            text-align: center;
+            color: #fff;
+            font-size: 0.98rem;
+            padding-bottom: 24px;
+        }
+        .footer-links {
+            margin-bottom: 8px;
+        }
+        .footer-links a {
+            color: #fff;
+            text-decoration: none;
+            margin: 0 16px;
+            font-weight: 500;
+            transition: color 0.2s;
+        }
+        .footer-links a:hover {
+            color: #000;
+        }
+        @media (max-width: 1000px) {
+            .arrow-left { left: -24px; }
+            .arrow-right { right: -24px; }
+        }
+        @media (max-width: 800px) {
+            .container {
+                flex-direction: column;
+                padding: 24px 8px;
+            }
+            .right {
+                padding-left: 0;
+                margin-top: 32px;
+            }
+            .left, .right {
+                width: 100%;
+            }
+            .arrow-left, .arrow-right {
+                top: unset;
+                bottom: -60px;
+                left: 30%;
+                right: 30%;
+                transform: none;
+            }
+        }
+        .modal-page {
+            display: none;
+            position: fixed;
+            z-index: 9999;
+            left: 0; top: 0; right: 0; bottom: 0;
+            width: 100vw;
+            height: 100vh;
+            background: #fff;
+            color: #222;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            padding: 0 16px;
+        }
+        .modal-page.active {
+            display: flex;
+        }
+        .modal-title {
+            font-size: 2.1rem;
+            font-weight: bold;
+            margin-bottom: 18px;
+            margin-top: 0;
+            text-align: center;
+        }
+        .modal-content {
+            font-size: 1.15rem;
+            text-align: center;
+            margin-bottom: 32px;
+            max-width: 480px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        .modal-back {
+            display: inline-block;
+            margin: 0 auto;
+            padding: 10px 28px;
+            background: #fdbf0a;
+            color: #222;
+            border-radius: 22px;
+            font-size: 1.08rem;
+            font-weight: 500;
+            text-decoration: none;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+            transition: background 0.18s;
+        }
+        .modal-back:hover {
+            background: #ffe066;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <button class="arrow-btn arrow-left" onclick="prevApp()" title="上一个App">
+            <span class="arrow-icon">
+                <svg class="arrow-svg" viewBox="0 0 36 36">
+                    <polyline points="24,6 12,18 24,30" />
+                </svg>
+            </span>
+        </button>
+        <div class="left">
+            <div class="app-mockup">
+                <img id="app-img" src="https://via.placeholder.com/220x440.png?text=App+Screenshot" alt="App Screenshot" />
+            </div>
+        </div>
+        <div class="right">
+            <div class="app-title" id="app-title">生字天天练</div>
+            <div class="app-desc" id="app-desc">面向儿童和家长的现代化汉字学习App，科学管理学习进度，丰富字库，趣味动画，助力高效掌握常用汉字和基础英语词汇。</div>
+            <ul class="features" id="app-features">
+                <li>《四五快读》精选汉字</li>
+                <li>KET、PET常见词汇</li>
+                <li>语音朗读生字和例句</li>
+                <li>科学学习进度管理</li>
+            </ul>
+            <div class="download-section">
+                <div class="download-label">扫码下载 App</div>
+                <div class="qr-code">
+                    <img id="app-qr" src="https://api.qrserver.com/v1/create-qr-code/?size=100x100&data=https://your-app-download-link.com" alt="下载二维码" />
+                </div>
+            </div>
+        </div>
+        <button class="arrow-btn arrow-right" onclick="nextApp()" title="下一个App">
+            <span class="arrow-icon">
+                <svg class="arrow-svg" viewBox="0 0 36 36">
+                    <polyline points="12,6 24,18 12,30" />
+                </svg>
+            </span>
+        </button>
+    </div>
+    <footer>
+        <div class="footer-links">
+            <a href="#about">关于网站</a> |
+            <a href="#contact">联系作者</a> |
+            <a href="#privacy">隐私保护</a>
+        </div>
+        <div>© 2025 轻松学汉字. All rights reserved.</div>
+    </footer>
+    <div id="modalPage" class="modal-page">
+        <div>
+            <h2 class="modal-title" id="modalTitle">标题</h2>
+            <div class="modal-content" id="modalContent">内容</div>
+            <a href="#" class="modal-back" onclick="closeModal();return false;">返回首页</a>
+        </div>
+    </div>
+    <script>
+        // 假设有多个App信息
+        const apps = [
+            {
+                title: '生字天天练',
+                desc: '面向儿童的现代化英汉学习App，科学管理学习进度，丰富字库，助力高效掌握常用汉字和基础英语词汇。',
+                img: './app2.png',
+                qr: 'https://api.qrserver.com/v1/create-qr-code/?size=100x100&data=https://your-app-download-link.com',
+                features: [
+                    '精选《四五快读》字库',
+                    'KET、PET常见词汇',
+                    '语音朗读生字和例句',
+                    '科学学习进度管理'
+                ],
+                bg: '#fdbf0a'
+            },
+            {
+                title: '口算天天练',
+                desc: '专为儿童设计的口算练习App，互动口算、趣味排行榜，轻松掌握四则运算。',
+                img: './app1.png',
+                qr: '',
+                features: [
+                    '加减乘除全支持',
+                    '积分激励更有动力',
+                    '界面友好孩子喜欢'
+                ],
+                bg: '#8aae36'
+            }
+        ];
+        let current = 0;
+        function renderApp(idx) {
+            const app = apps[idx];
+            document.getElementById('app-title').textContent = app.title;
+            document.getElementById('app-desc').textContent = app.desc;
+            document.getElementById('app-img').src = app.img;
+            document.getElementById('app-img').alt = app.title + ' 截图';
+            const downloadSection = document.querySelector('.download-section');
+            if (app.qr && app.qr.trim() !== '') {
+                downloadSection.style.display = '';
+                document.getElementById('app-qr').src = app.qr;
+                document.getElementById('app-qr').alt = app.title + ' 下载二维码';
+            } else {
+                downloadSection.style.display = 'none';
+            }
+            const features = document.getElementById('app-features');
+            features.innerHTML = '';
+            app.features.forEach(f => {
+                const li = document.createElement('li');
+                li.textContent = f;
+                features.appendChild(li);
+            });
+            // 设置背景色
+            document.body.style.background = app.bg || '#fafaf6';
+        }
+        function prevApp() {
+            current = (current - 1 + apps.length) % apps.length;
+            renderApp(current);
+        }
+        function nextApp() {
+            current = (current + 1) % apps.length;
+            renderApp(current);
+        }
+        // 初始化
+        renderApp(current);
+
+        const modalData = {
+            about: {
+                title: '关于网站',
+                content: '本网站致力于为儿童和家长提供高效、科学、有趣的学习工具。所有内容均为原创设计，欢迎体验和反馈。'
+            },
+            contact: {
+                title: '联系作者',
+                content: '如有建议、合作或问题，欢迎通过邮箱联系作者：example@email.com。我们期待您的宝贵意见！'
+            },
+            privacy: {
+                title: '隐私保护',
+                content: '我们非常重视您的隐私。所有学习数据仅存储在本地，不会上传服务器。详情请参见隐私政策。'
+            }
+        };
+        function openModal(type) {
+            document.getElementById('modalTitle').textContent = modalData[type].title;
+            document.getElementById('modalContent').textContent = modalData[type].content;
+            document.getElementById('modalPage').classList.add('active');
+            document.body.style.overflow = 'hidden';
+        }
+        function closeModal() {
+            document.getElementById('modalPage').classList.remove('active');
+            document.body.style.overflow = '';
+        }
+        document.querySelectorAll('.footer-links a').forEach(a => {
+            a.addEventListener('click', function(e) {
+                const href = this.getAttribute('href');
+                if (href.startsWith('#')) {
+                    e.preventDefault();
+                    openModal(href.slice(1));
+                }
+            });
+        });
+    </script>
+</body>
+</html> 
