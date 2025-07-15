@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>隐私政策 - 轻松学汉字 App</title>
+    <style>
+        body { font-family: 'Helvetica Neue', Helvetica, Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif; background: #fafaf6; color: #222; margin: 0; padding: 0; }
+        .container { max-width: 700px; margin: 60px auto; background: #fff; border-radius: 16px; box-shadow: 0 4px 24px rgba(0,0,0,0.07); padding: 40px 32px; }
+        h1 { text-align: center; color: #3a4d3f; }
+        .app-list { display: flex; justify-content: center; margin-bottom: 32px; gap: 16px; }
+        .app-tab { padding: 8px 22px; border-radius: 18px; border: none; background: #f3f3f3; color: #3a4d3f; font-size: 1.08rem; cursor: pointer; transition: background 0.18s, color 0.18s; }
+        .app-tab.active { background: #fdbf0a; color: #222; font-weight: bold; }
+        .policy-section { display: none; }
+        .policy-section.active { display: block; }
+        p, ul { font-size: 1.15rem; line-height: 1.8; }
+        .section-title { font-weight: bold; margin-top: 1.5em; }
+        a { color: #3a4d3f; text-decoration: underline; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>隐私政策</h1>
+        <div class="app-list">
+            <button class="app-tab active" data-app="0" data-hash="kousuan">开心学口算</button>
+            <button class="app-tab" data-app="1" data-hash="lingguang">灵光一现</button>
+            <button class="app-tab" data-app="2" data-hash="shengzi">生字天天练</button>
+        </div>
+        <div id="policy-0" class="policy-section active">
+            <p>开心学口算高度重视您的隐私和数据安全。本应用严格遵循以下隐私保护原则：</p>
+            <p class="section-title">纯本地存储</p>
+            <p>您在本应用中记录的所有口算数据，均仅保存在您的本地设备上。应用不会将任何数据上传至服务器或第三方平台。</p>
+            <p class="section-title">不收集用户信息</p>
+            <p>本应用不会收集、存储、分析或分享您的任何个人信息，包括但不限于姓名、联系方式、位置信息、设备信息等。</p>
+            <p class="section-title">无账号、无云同步</p>
+            <p>您无需注册账号即可使用本应用，所有功能均可离线使用，无需联网。</p>
+            <p class="section-title">权限说明</p>
+            <p>应用仅在您主动使用语音相关功能时请求麦克风权限，相关数据仅用于本地处理，不会被上传或存储在云端。</p>
+            <p class="section-title">第三方服务</p>
+            <p>本应用不集成任何第三方分析、广告或数据统计服务。</p>
+            <p class="section-title">联系我们</p>
+            <p>如您有任何关于隐私的疑问或建议，请通过应用内反馈或开发者邮箱与我们联系。我们承诺持续为您提供安全、可靠、无忧的使用体验。</p>
+        </div>
+        <div id="policy-1" class="policy-section">
+            <p>灵光一现高度重视您的隐私和数据安全。本应用严格遵循以下隐私保护原则：</p>
+            <p class="section-title">纯本地存储</p>
+            <p>您在本应用中记录的所有想法、语音和文本内容，均仅保存在您的本地设备上。应用不会将任何数据上传至服务器或第三方平台。</p>
+            <p class="section-title">不收集用户信息</p>
+            <p>本应用不会收集、存储、分析或分享您的任何个人信息，包括但不限于姓名、联系方式、位置信息、设备信息等。</p>
+            <p class="section-title">无账号、无云同步</p>
+            <p>您无需注册账号即可使用本应用，所有功能均可离线使用，无需联网。</p>
+            <p class="section-title">权限说明</p>
+            <p>应用仅在您主动使用语音转文字功能时请求麦克风和语音识别权限，相关数据仅用于本地语音转文字处理，不会被上传或存储在云端。</p>
+            <p class="section-title">第三方服务</p>
+            <p>本应用不集成任何第三方分析、广告或数据统计服务。</p>
+            <p class="section-title">联系我们</p>
+            <p>如您有任何关于隐私的疑问或建议，请通过应用内反馈或开发者邮箱与我们联系。我们承诺持续为您提供安全、可靠、无忧的使用体验。</p>
+        </div>
+        <div id="policy-2" class="policy-section">
+            <p>生字天天练高度重视您的隐私和数据安全。本应用严格遵循以下隐私保护原则：</p>
+            <p class="section-title">纯本地存储</p>
+            <p>您在本应用中记录的所有学习数据，均仅保存在您的本地设备上。应用不会将任何数据上传至服务器或第三方平台。</p>
+            <p class="section-title">不收集用户信息</p>
+            <p>本应用不会收集、存储、分析或分享您的任何个人信息，包括但不限于姓名、联系方式、位置信息、设备信息等。</p>
+            <p class="section-title">无账号、无云同步</p>
+            <p>您无需注册账号即可使用本应用，所有功能均可离线使用，无需联网。</p>
+            <p class="section-title">权限说明</p>
+            <p>应用仅在您主动使用语音朗读等功能时请求麦克风权限，相关数据仅用于本地处理，不会被上传或存储在云端。</p>
+            <p class="section-title">第三方服务</p>
+            <p>本应用不集成任何第三方分析、广告或数据统计服务。</p>
+            <p class="section-title">联系我们</p>
+            <p>如您有任何关于隐私的疑问或建议，请通过应用内反馈或开发者邮箱与我们联系。我们承诺持续为您提供安全、可靠、无忧的使用体验。</p>
+        </div>
+        <p style="text-align:center;"><a href="index.html">返回首页</a></p>
+    </div>
+    <script>
+        const tabs = document.querySelectorAll('.app-tab');
+        const policies = document.querySelectorAll('.policy-section');
+        const hashToIdx = { kousuan: 0, lingguang: 1, shengzi: 2 };
+        const idxToHash = ['kousuan', 'lingguang', 'shengzi'];
+
+        function activateTab(idx) {
+            tabs.forEach(t => t.classList.remove('active'));
+            policies.forEach(p => p.classList.remove('active'));
+            tabs[idx].classList.add('active');
+            policies[idx].classList.add('active');
+        }
+
+        tabs.forEach(tab => {
+            tab.addEventListener('click', function() {
+                const idx = parseInt(this.getAttribute('data-app'));
+                activateTab(idx);
+                // 更新URL锚点
+                location.hash = idxToHash[idx];
+            });
+        });
+
+        // 页面加载时根据锚点激活tab
+        window.addEventListener('DOMContentLoaded', function() {
+            const hash = location.hash.replace('#', '');
+            if (hashToIdx.hasOwnProperty(hash)) {
+                activateTab(hashToIdx[hash]);
+            }
+        });
+
+        // 响应用户手动修改锚点
+        window.addEventListener('hashchange', function() {
+            const hash = location.hash.replace('#', '');
+            if (hashToIdx.hasOwnProperty(hash)) {
+                activateTab(hashToIdx[hash]);
+            }
+        });
+    </script>
+</body>
+</html> 
