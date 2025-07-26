@@ -28,6 +28,7 @@
             <button class="app-tab" data-app="3" data-hash="mima">密码柜</button>
             <button class="app-tab" data-app="4" data-hash="cleaner">相册清理助手</button>
             <button class="app-tab" data-app="5" data-hash="kecheng">简易课程表</button>
+            <button class="app-tab" data-app="6" data-hash="huihua">绘图白板</button>
         </div>
         <div id="policy-0" class="policy-section active">
             <p>开心学口算高度重视您的隐私和数据安全。本应用严格遵循以下隐私保护原则：</p>
@@ -119,13 +120,28 @@
             <p class="section-title">联系我们</p>
             <p>如您有任何关于隐私的疑问或建议，请通过开发者邮箱（glloveyp@163.com）与我们联系。我们承诺持续为您提供安全、可靠、无忧的使用体验。</p>
         </div>
+        <div id="policy-6" class="policy-section">
+            <p>绘图白板高度重视您的隐私和数据安全。本应用严格遵循以下隐私保护原则：</p>
+            <p class="section-title">纯本地存储</p>
+            <p>您在本应用中记录的所有数据，均仅保存在您的本地设备上。应用不会将任何数据上传至服务器或第三方平台。</p>
+            <p class="section-title">不收集用户信息</p>
+            <p>本应用不会收集、存储、分析或分享您的任何个人信息，包括但不限于姓名、联系方式、位置信息、设备信息等。</p>
+            <p class="section-title">无账号、无云同步</p>
+            <p>您无需注册账号即可使用本应用，所有功能均可离线使用，无需联网。</p>
+            <p class="section-title">权限说明</p>
+            <p>应用仅在您主动使用导出功能时请求相册访问权限，相关数据仅用于本地处理，不会被上传或存储在云端。</p>
+            <p class="section-title">第三方服务</p>
+            <p>本应用不集成任何第三方分析、广告或数据统计服务。</p>
+            <p class="section-title">联系我们</p>
+            <p>如您有任何关于隐私的疑问或建议，请通过开发者邮箱（glloveyp@163.com）与我们联系。我们承诺持续为您提供安全、可靠、无忧的使用体验。</p>
+        </div>
         <p style="text-align:center;"><a href="index.html">返回首页</a></p>
     </div>
     <script>
         const tabs = document.querySelectorAll('.app-tab');
         const policies = document.querySelectorAll('.policy-section');
-        const hashToIdx = { kousuan: 0, lingguang: 1, shengzi: 2, mima: 3, cleaner: 4, kecheng: 5};
-        const idxToHash = ['kousuan', 'lingguang', 'shengzi', 'mima', 'cleaner', 'kecheng'];
+        const hashToIdx = { kousuan: 0, lingguang: 1, shengzi: 2, mima: 3, cleaner: 4, kecheng: 5, huihua: 6};
+        const idxToHash = ['kousuan', 'lingguang', 'shengzi', 'mima', 'cleaner', 'kecheng', 'huihua'];
 
         function activateTab(idx) {
             tabs.forEach(t => t.classList.remove('active'));
