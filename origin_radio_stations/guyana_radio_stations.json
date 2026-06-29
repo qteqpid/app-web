@@ -1,0 +1,932 @@
+[
+  {
+    "id": "guyana-hj-boom-fm-941",
+    "name": "HJ Boom FM 94.1",
+    "url": "http://192.99.8.192:3630/stream",
+    "genre": "Music",
+    "city": "Georgetown",
+    "country": "Guyana",
+    "lat": 6.8032561,
+    "lng": -58.1455403
+  },
+  {
+    "id": "guyana-mix-fm-901",
+    "name": "Mix FM 90.1",
+    "url": "https://audio-edge-jfbmv.sin.d.radiomast.io/aa758625-6c37-4a31-8262-b2bf84bbe17f",
+    "genre": "Music",
+    "city": "Georgetown",
+    "country": "Guyana",
+    "lat": 6.8032561,
+    "lng": -58.1455403
+  },
+  {
+    "id": "guyana-ishara-radio-1007-fm",
+    "name": "Ishara Radio 100.7 FM",
+    "url": "https://a8.asurahosting.com:7030/radio.mp3",
+    "genre": "Music",
+    "city": "Georgetown",
+    "country": "Guyana",
+    "lat": 6.8032561,
+    "lng": -58.1455403
+  },
+  {
+    "id": "guyana-radio-guyana-international",
+    "name": "Radio Guyana International",
+    "url": "https://a6.asurahosting.com:7940/radio.mp3",
+    "genre": "Music",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.5074456,
+    "lng": -0.1277653
+  },
+  {
+    "id": "guyana-guyana-lite-fm-1041",
+    "name": "Guyana Lite FM 104.1",
+    "url": "http://n0b.radiojar.com/nh42m158d4duv?rj-ttl=5&rj-tok=AAABm_miVsAAlK5Zchtf4jC9GQ",
+    "genre": "Music",
+    "city": "Georgetown",
+    "country": "Guyana",
+    "lat": 6.8032561,
+    "lng": -58.1455403
+  },
+  {
+    "id": "guyana-select-radio-944-fm",
+    "name": "Select Radio 94.4 FM",
+    "url": "http://149.255.60.194:8027/stream",
+    "genre": "Music",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.5074456,
+    "lng": -0.1277653
+  },
+  {
+    "id": "guyana-voice-of-guyana-fm-1025",
+    "name": "Voice of Guyana FM 102.5",
+    "url": "https://cast4.asurahosting.com/proxy/ncn1025/stream",
+    "genre": "Music",
+    "city": "Georgetown",
+    "country": "Guyana",
+    "lat": 6.8032561,
+    "lng": -58.1455403
+  },
+  {
+    "id": "guyana-vybz-1001-fm",
+    "name": "Vybz 100.1 FM",
+    "url": "https://cast4.asurahosting.com/proxy/ncn1001/stream",
+    "genre": "Music",
+    "city": "Georgetown",
+    "country": "Guyana",
+    "lat": 6.8032561,
+    "lng": -58.1455403
+  },
+  {
+    "id": "guyana-hot-fm-981",
+    "name": "Hot FM 98.1",
+    "url": "https://cast4.asurahosting.com/proxy/ncn981/stream",
+    "genre": "Music",
+    "city": "Georgetown",
+    "country": "Guyana",
+    "lat": 6.8032561,
+    "lng": -58.1455403
+  },
+  {
+    "id": "guyana-edu-fm",
+    "name": "Edu FM",
+    "url": "http://n07.radiojar.com/xpgemc39cxhvv?rj-ttl=5&rj-tok=AAABm_miVr8AJBC8RKmLvnCsuw",
+    "genre": "Music",
+    "city": "Georgetown",
+    "country": "Guyana",
+    "lat": 6.8032561,
+    "lng": -58.1455403
+  },
+  {
+    "id": "guyana-trk-radio",
+    "name": "TRK Radio",
+    "url": "https://streamingned.com:7230/stream/",
+    "genre": "Music",
+    "city": "Georgetown",
+    "country": "Guyana",
+    "lat": 6.8032561,
+    "lng": -58.1455403
+  },
+  {
+    "id": "guyana-monte-roraima-fm-1079",
+    "name": "Monte Roraima FM 107.9",
+    "url": "https://whd1.webradios.com.br:18556/8556",
+    "genre": "Music",
+    "city": "Georgetown",
+    "country": "Guyana",
+    "lat": 6.8032561,
+    "lng": -58.1455403
+  },
+  {
+    "id": "guyana-ntn-radio-fm-891",
+    "name": "NTN Radio FM 89.1",
+    "url": "https://auds1.intacs.com/ntnradio",
+    "genre": "Music",
+    "city": "Georgetown",
+    "country": "Guyana",
+    "lat": 6.8032561,
+    "lng": -58.1455403
+  },
+  {
+    "id": "guyana-wack-radio-901-fm",
+    "name": "WACK Radio 90.1 FM",
+    "url": "https://stream-141.zeno.fm/4h2xb1zme3vtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0aDJ4YjF6bWUzdnR2IiwiaG9zdCI6InN0cmVhbS0xNDEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiV091WTVVdVBSUHFMVkU4RElOYU5HdyIsImlhdCI6MTc2OTQxOTEyNCwiZXhwIjoxNzY5NDE5MTg0fQ.-mSR50FKjk59EsU_5fHg2f_9i71gMtrJxGoeP1hAoos",
+    "genre": "Music",
+    "city": "Georgetown",
+    "country": "Guyana",
+    "lat": 6.8032561,
+    "lng": -58.1455403
+  },
+  {
+    "id": "guyana-lbc-london",
+    "name": "LBC London",
+    "url": "https://media-the.musicradio.com/LBCLondon",
+    "genre": "Music",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.5074456,
+    "lng": -0.1277653
+  },
+  {
+    "id": "guyana-capital-xtra",
+    "name": "Capital Xtra",
+    "url": "https://media-ice.musicradio.com/CapitalXTRANationalMP3?.mp3",
+    "genre": "Music",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.5074456,
+    "lng": -0.1277653
+  },
+  {
+    "id": "guyana-heart-80s-radio",
+    "name": "Heart 80s Radio",
+    "url": "https://media-ssl.musicradio.com/Heart80s",
+    "genre": "Music",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.5074456,
+    "lng": -0.1277653
+  },
+  {
+    "id": "guyana-lbc-uk",
+    "name": "LBC UK",
+    "url": "https://media-ice.musicradio.com/LBCUKMP3Low",
+    "genre": "Music",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.5074456,
+    "lng": -0.1277653
+  },
+  {
+    "id": "guyana-classic-fm",
+    "name": "Classic FM",
+    "url": "https://media-ice.musicradio.com/ClassicFMMP3",
+    "genre": "Music",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.5074456,
+    "lng": -0.1277653
+  },
+  {
+    "id": "guyana-surrey-hills-radio",
+    "name": "Surrey Hills Radio",
+    "url": "http://philae.shoutca.st:9035/stream",
+    "genre": "Music",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.5074456,
+    "lng": -0.1277653
+  },
+  {
+    "id": "guyana-radio-guyana-fm-895",
+    "name": "Radio Guyana FM 89.5",
+    "url": "https://stream.radio.co/s9668e2ab5/listen",
+    "genre": "Music",
+    "city": "Georgetown",
+    "country": "Guyana",
+    "lat": 6.8032561,
+    "lng": -58.1455403
+  },
+  {
+    "id": "guyana-maad-fm-975",
+    "name": "Maad FM 97.5",
+    "url": "https://streaming.broadcastradio.com:8870/maad975fm",
+    "genre": "Music",
+    "city": "Georgetown",
+    "country": "Guyana",
+    "lat": 6.8032561,
+    "lng": -58.1455403
+  },
+  {
+    "id": "guyana-panjab-radio-am-558",
+    "name": "Panjab Radio AM 558",
+    "url": "https://lunar.citrus3.com:8016/stream",
+    "genre": "Music",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.5074456,
+    "lng": -0.1277653
+  },
+  {
+    "id": "guyana-boogaloo-radio",
+    "name": "Boogaloo Radio",
+    "url": "https://streams.radio.co/sb88c742f0/listen",
+    "genre": "Music",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.5074456,
+    "lng": -0.1277653
+  },
+  {
+    "id": "guyana-wilsaf-radio",
+    "name": "WilSAF Radio",
+    "url": "https://radio.djwilsaf.com/listen/wilsaf_radio/radio.mp3",
+    "genre": "Music",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.5074456,
+    "lng": -0.1277653
+  },
+  {
+    "id": "guyana-forest-one",
+    "name": "Forest One",
+    "url": "https://c2.prostream365.com:8010/live",
+    "genre": "Music",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.5074456,
+    "lng": -0.1277653
+  },
+  {
+    "id": "guyana-birdsong-radio",
+    "name": "Birdsong Radio",
+    "url": "https://a1.radio.co/s5c5da6a36/listen",
+    "genre": "Music",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.5074456,
+    "lng": -0.1277653
+  },
+  {
+    "id": "guyana-reinforced-radio",
+    "name": "Reinforced Radio",
+    "url": "https://broadcast.shoutstream.co.uk:8012/stream",
+    "genre": "Music",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.5074456,
+    "lng": -0.1277653
+  },
+  {
+    "id": "guyana-moon-phase-radio",
+    "name": "Moon Phase Radio",
+    "url": "https://cp12.serverse.com/proxy/moonphase/stream",
+    "genre": "Music",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.5074456,
+    "lng": -0.1277653
+  },
+  {
+    "id": "guyana-bbc-world-service",
+    "name": "BBC World Service",
+    "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
+    "genre": "Music",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.5074456,
+    "lng": -0.1277653
+  },
+  {
+    "id": "guyana-bandera-fm-1057",
+    "name": "Bandera FM 105.7",
+    "url": "https://streamingned.com:7148/stream",
+    "genre": "Music",
+    "city": "Guayana City",
+    "country": "Venezuela",
+    "lat": 6.8129486,
+    "lng": -58.1579962
+  },
+  {
+    "id": "guyana-funradio-guyane-fm-1029",
+    "name": "Funradio Guyane FM 102.9",
+    "url": "http://manager2.streaming-ingenierie.fr:8050/stream/",
+    "genre": "Music",
+    "city": "Cayenne",
+    "country": "French Guiana",
+    "lat": 4.9371544,
+    "lng": -52.3258736
+  },
+  {
+    "id": "guyana-we-get-lifted-radio",
+    "name": "We Get Lifted Radio",
+    "url": "https://s3.radio.co/sa80d22794/listen",
+    "genre": "Music",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.5074456,
+    "lng": -0.1277653
+  },
+  {
+    "id": "guyana-rumba-981-fm",
+    "name": "Rumba 98.1 FM",
+    "url": "https://cast20.plugstreaming.com:2020/stream/r981/",
+    "genre": "Music",
+    "city": "Guayana City",
+    "country": "Venezuela",
+    "lat": 6.8129486,
+    "lng": -58.1579962
+  },
+  {
+    "id": "guyana-guasacaca-radio",
+    "name": "Guasacaca Radio",
+    "url": "https://sp4.colombiatelecom.com.co/8096/stream",
+    "genre": "Music",
+    "city": "Guayana City",
+    "country": "Venezuela",
+    "lat": 6.8129486,
+    "lng": -58.1579962
+  },
+  {
+    "id": "guyana-turistica-fm-927",
+    "name": "Turistica FM 92.7",
+    "url": "https://streamingned.com:7128/stream//stream",
+    "genre": "Music",
+    "city": "Guayana City",
+    "country": "Venezuela",
+    "lat": 6.8129486,
+    "lng": -58.1579962
+  },
+  {
+    "id": "guyana-fe-y-alegria-anaco-1039-fm",
+    "name": "Fe y Alegria Anaco 103.9 FM",
+    "url": "https://tx.feyalegrianoticias.com/listen/anaco-fm/radio.mp3",
+    "genre": "Music",
+    "city": "Guayana City",
+    "country": "Venezuela",
+    "lat": 6.8129486,
+    "lng": -58.1579962
+  },
+  {
+    "id": "guyana-bhajans-radio-guyana",
+    "name": "Bhajans Radio Guyana",
+    "url": "https://s5.citrus3.com:8148/stream",
+    "genre": "Music",
+    "city": "Georgetown",
+    "country": "Guyana",
+    "lat": 6.8032561,
+    "lng": -58.1455403
+  },
+  {
+    "id": "guyana-bblack-radio-969-fm",
+    "name": "Bblack Radio 96.9 FM",
+    "url": "https://stunnel1.cyber-streaming.com:9162/stream/",
+    "genre": "Music",
+    "city": "Cayenne",
+    "country": "French Guiana",
+    "lat": 4.9371544,
+    "lng": -52.3258736
+  },
+  {
+    "id": "guyana-electrik-977",
+    "name": "Electrik 97.7",
+    "url": "https://streamingned.com:7046/stream",
+    "genre": "Music",
+    "city": "Guayana City",
+    "country": "Venezuela",
+    "lat": 6.8129486,
+    "lng": -58.1579962
+  },
+  {
+    "id": "guyana-la-fm-mundial-937",
+    "name": "La FM Mundial 93.7",
+    "url": "https://streamingned.com:7074/stream",
+    "genre": "Music",
+    "city": "Guayana City",
+    "country": "Venezuela",
+    "lat": 6.8129486,
+    "lng": -58.1579962
+  },
+  {
+    "id": "guyana-la-salsera-fm",
+    "name": "La Salsera FM",
+    "url": "https://stream-152.zeno.fm/4qbzbrvdmy8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0cWJ6YnJ2ZG15OHV2IiwiaG9zdCI6InN0cmVhbS0xNTIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiSU1oWHFDUlhSWi1Tb1FBNHM5bjZGZyIsImlhdCI6MTc2OTQxOTEyOSwiZXhwIjoxNzY5NDE5MTg5fQ.T25oXO2b8H2DBK1DvJZWlFr2vEb9FHWW9GI-gCvHZpI",
+    "genre": "Music",
+    "city": "Guayana City",
+    "country": "Venezuela",
+    "lat": 6.8129486,
+    "lng": -58.1579962
+  },
+  {
+    "id": "guyana-festiva-999-fm",
+    "name": "Festiva 99.9 FM",
+    "url": "https://acp2.lorini.net:28018/stream",
+    "genre": "Music",
+    "city": "Guayana City",
+    "country": "Venezuela",
+    "lat": 6.8129486,
+    "lng": -58.1579962
+  },
+  {
+    "id": "guyana-fiesta-latina-fm-1061",
+    "name": "Fiesta Latina FM 106.1",
+    "url": "https://stream-140.zeno.fm/e2kzfpr34d0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJlMmt6ZnByMzRkMHV2IiwiaG9zdCI6InN0cmVhbS0xNDAuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiRDVSSXhRdUpSMTJWaW96MEI4cy11ZyIsImlhdCI6MTc2OTQxOTEzMCwiZXhwIjoxNzY5NDE5MTkwfQ.9TZucONhSEPj_fjmijq_kxPt5D1JwBzNKGbpWojeGeE",
+    "genre": "Music",
+    "city": "Guayana City",
+    "country": "Venezuela",
+    "lat": 6.8129486,
+    "lng": -58.1579962
+  },
+  {
+    "id": "guyana-kfm-guyane-916-fm",
+    "name": "KFM Guyane 91.6 FM",
+    "url": "http://10191.go2stream.fr:8000/stream",
+    "genre": "Music",
+    "city": "Cayenne",
+    "country": "French Guiana",
+    "lat": 4.9371544,
+    "lng": -52.3258736
+  },
+  {
+    "id": "guyana-news-1055-fm",
+    "name": "News 105.5 FM",
+    "url": "https://server6.globalhostla.com:9350/stream",
+    "genre": "Music",
+    "city": "Guayana City",
+    "country": "Venezuela",
+    "lat": 6.8129486,
+    "lng": -58.1579962
+  },
+  {
+    "id": "guyana-ainda-há-esperança",
+    "name": "Ainda há Esperança",
+    "url": "http://stm3.srvstm.com:7380/index.html",
+    "genre": "Music",
+    "city": "Cayenne",
+    "country": "French Guiana",
+    "lat": 4.9371544,
+    "lng": -52.3258736
+  },
+  {
+    "id": "guyana-ritmo-969-fm",
+    "name": "Ritmo 96.9 FM",
+    "url": "https://server6.globalhostla.com:8032/stream",
+    "genre": "Music",
+    "city": "Guayana City",
+    "country": "Venezuela",
+    "lat": 6.8129486,
+    "lng": -58.1579962
+  },
+  {
+    "id": "guyana-exitos-fm-999",
+    "name": "Exitos FM 99.9",
+    "url": "https://acp4.lorini.net:2070/stream",
+    "genre": "Music",
+    "city": "Guayana City",
+    "country": "Venezuela",
+    "lat": 6.8129486,
+    "lng": -58.1579962
+  },
+  {
+    "id": "guyana-chwitiweb",
+    "name": "Chwitiweb",
+    "url": "https://listen.radioking.com/radio/190309/stream/232540",
+    "genre": "Music",
+    "city": "Cayenne",
+    "country": "French Guiana",
+    "lat": 4.9371544,
+    "lng": -52.3258736
+  },
+  {
+    "id": "guyana-onda-la-superestación-1073-fm",
+    "name": "Onda La Superestación 107.3 FM",
+    "url": "https://acp4.lorini.net:2060/stream",
+    "genre": "Music",
+    "city": "Guayana City",
+    "country": "Venezuela",
+    "lat": 6.8129486,
+    "lng": -58.1579962
+  },
+  {
+    "id": "guyana-radio-peyi",
+    "name": "Radio Péyi",
+    "url": "https://radiopeyiguyane.ice.infomaniak.ch/radiopeyiguyane-64.aac",
+    "genre": "Music",
+    "city": "Cayenne",
+    "country": "French Guiana",
+    "lat": 4.9371544,
+    "lng": -52.3258736
+  },
+  {
+    "id": "guyana-rádio-cultura-de-guanambi-ltda",
+    "name": "Rádio Cultura de Guanambi Ltda",
+    "url": "https://stm14.xcast.com.br:10388/stream/",
+    "genre": "Music",
+    "city": "Guanambi BA",
+    "country": "Brazil",
+    "lat": -14.2188071,
+    "lng": -42.7847663
+  },
+  {
+    "id": "guyana-rádio-star-fm-1059",
+    "name": "Rádio Star FM 105.9",
+    "url": "http://streaming.star105fm.com.br:8000/stream",
+    "genre": "Music",
+    "city": "Guanambi BA",
+    "country": "Brazil",
+    "lat": -14.2188071,
+    "lng": -42.7847663
+  },
+  {
+    "id": "guyana-radio-immanuël-fm-959",
+    "name": "Radio Immanuël FM 95.9",
+    "url": "https://surilive.com:8030/index.html?sid=1",
+    "genre": "Music",
+    "city": "Cayenne",
+    "country": "French Guiana",
+    "lat": 4.9371544,
+    "lng": -52.3258736
+  },
+  {
+    "id": "guyana-106-fm",
+    "name": "106 FM",
+    "url": "https://r13.ciclano.io/proxy/rdiofm12/stream",
+    "genre": "Music",
+    "city": "Guanambi BA",
+    "country": "Brazil",
+    "lat": -14.2188071,
+    "lng": -42.7847663
+  },
+  {
+    "id": "guyana-guanambi-fm-963",
+    "name": "Guanambi FM 96.3",
+    "url": "https://radio.webfrequencia.com.br/listen/guanambi/guanambi",
+    "genre": "Music",
+    "city": "Guanambi BA",
+    "country": "Brazil",
+    "lat": -14.2188071,
+    "lng": -42.7847663
+  },
+  {
+    "id": "guyana-rfo-guyane-1ere-fm-920",
+    "name": "RFO Guyane 1ère FM 92.0",
+    "url": "https://guyane.ice.infomaniak.ch/guyane-128.mp3",
+    "genre": "Music",
+    "city": "Cayenne",
+    "country": "French Guiana",
+    "lat": 4.9371544,
+    "lng": -52.3258736
+  },
+  {
+    "id": "guyana-radio-105-fm",
+    "name": "Radio 105 FM",
+    "url": "http://str.hdsolucoes.com:8220/stream",
+    "genre": "Music",
+    "city": "Guanambi BA",
+    "country": "Brazil",
+    "lat": -14.2188071,
+    "lng": -42.7847663
+  },
+  {
+    "id": "guyana-pontal-fm-915",
+    "name": "Pontal FM 91.5",
+    "url": "https://on.sucesso.fm/pontal",
+    "genre": "Music",
+    "city": "Guanambi BA",
+    "country": "Brazil",
+    "lat": -14.2188071,
+    "lng": -42.7847663
+  },
+  {
+    "id": "guyana-zeta-93-fm",
+    "name": "Zeta 93 FM",
+    "url": "https://liveaudio.lamusica.com/PR_WZNT_icy",
+    "genre": "Music",
+    "city": "Guaynabo",
+    "country": "Puerto Rico",
+    "lat": 18.3591596,
+    "lng": -66.1156802
+  },
+  {
+    "id": "guyana-la-nueva-94fm--woda",
+    "name": "La Nueva 94FM - WODA",
+    "url": "https://liveaudio.lamusica.com/PR_WODA_icy",
+    "genre": "Music",
+    "city": "Guaynabo",
+    "country": "Puerto Rico",
+    "lat": 18.3591596,
+    "lng": -66.1156802
+  },
+  {
+    "id": "guyana-radio-metis-fm",
+    "name": "Radio Metis FM",
+    "url": "https://str0.creacast.com/metisfm",
+    "genre": "Music",
+    "city": "Cayenne",
+    "country": "French Guiana",
+    "lat": 4.9371544,
+    "lng": -52.3258736
+  },
+  {
+    "id": "guyana-rádio-web-jovem-garcia",
+    "name": "Rádio Web Jovem Garcia",
+    "url": "https://ssl.xcast.com.br:9342/index.html?sid=1",
+    "genre": "Music",
+    "city": "Guanambi BA",
+    "country": "Brazil",
+    "lat": -14.2188071,
+    "lng": -42.7847663
+  },
+  {
+    "id": "guyana-noti-uno-630",
+    "name": "Noti Uno 630",
+    "url": "http://68.235.35.243:9027/;stream.mp3",
+    "genre": "Music",
+    "city": "Guaynabo",
+    "country": "Puerto Rico",
+    "lat": 18.3591596,
+    "lng": -66.1156802
+  },
+  {
+    "id": "guyana-victoria-840",
+    "name": "Victoria 840",
+    "url": "http://server10.servistreaming.com:9039/;stream.mp3",
+    "genre": "Music",
+    "city": "Guaynabo",
+    "country": "Puerto Rico",
+    "lat": 18.3591596,
+    "lng": -66.1156802
+  },
+  {
+    "id": "guyana-rádio-itatiaia",
+    "name": "Rádio Itatiaia",
+    "url": "https://8903.brasilstream.com.br/stream",
+    "genre": "Music",
+    "city": "Guanambi BA",
+    "country": "Brazil",
+    "lat": -14.2188071,
+    "lng": -42.7847663
+  },
+  {
+    "id": "guyana-rádio-portal-sudoeste-1043-fm",
+    "name": "Rádio Portal Sudoeste 104.3 FM",
+    "url": "https://srv1.relampagoweb.com.br:8020/radio.mp3",
+    "genre": "Music",
+    "city": "Guanambi BA",
+    "country": "Brazil",
+    "lat": -14.2188071,
+    "lng": -42.7847663
+  },
+  {
+    "id": "guyana-antena-1",
+    "name": "Antena 1",
+    "url": "https://antenaone.crossradio.com.br/stream",
+    "genre": "Music",
+    "city": "Guanambi BA",
+    "country": "Brazil",
+    "lat": -14.2188071,
+    "lng": -42.7847663
+  },
+  {
+    "id": "guyana-magic-fm-973",
+    "name": "Magic FM 97.3",
+    "url": "https://a4.asurahosting.com:6760/radio.mp3",
+    "genre": "Music",
+    "city": "Guaynabo",
+    "country": "Puerto Rico",
+    "lat": 18.3591596,
+    "lng": -66.1156802
+  },
+  {
+    "id": "guyana-inspira-881-fm--wcrp",
+    "name": "Inspira 88.1 FM - WCRP",
+    "url": "https://stream-14.aiir.com/rublzaim1cyvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJydWJsemFpbTFjeXZ2IiwiaG9zdCI6InN0cmVhbS0xNC5haWlyLmNvbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiWjJpZmxqSndUVS1JMkZ1T1U2SHFrUSIsImlhdCI6MTc2OTQxOTEzNiwiZXhwIjoxNzY5NDE5MTk2fQ.rp2ffMEEiWrkWrw-2cSRMYX3pdtp8PdTUPOE-PAT4Jw",
+    "genre": "Music",
+    "city": "Guaynabo",
+    "country": "Puerto Rico",
+    "lat": 18.3591596,
+    "lng": -66.1156802
+  },
+  {
+    "id": "guyana-radio-eternity-91",
+    "name": "Radio Eternity 91",
+    "url": "https://stream-178.zeno.fm/s3dnm5ntn8quv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzM2RubTVudG44cXV2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiMDF3enFvWWRSMTY3UC1VV0RHOTVkUSIsImlhdCI6MTc2OTQxOTEzNiwiZXhwIjoxNzY5NDE5MTk2fQ.bxWhbbVJK6n4JNDncnEgYi87HPIwzWy1jxoUNnZIEh0",
+    "genre": "Music",
+    "city": "Guaynabo",
+    "country": "Puerto Rico",
+    "lat": 18.3591596,
+    "lng": -66.1156802
+  },
+  {
+    "id": "guyana-cumbre-1470-am--wkum",
+    "name": "Cumbre 1470 AM - WKUM",
+    "url": "https://sp.unoredcdn.net/8158/stream",
+    "genre": "Music",
+    "city": "Guaynabo",
+    "country": "Puerto Rico",
+    "lat": 18.3591596,
+    "lng": -66.1156802
+  },
+  {
+    "id": "guyana-radio-tecnológico-de-celaya-fm-899",
+    "name": "Radio Tecnológico de Celaya FM 89.9",
+    "url": "http://51.81.185.143:8282/",
+    "genre": "Music",
+    "city": "Guanajuato",
+    "country": "Mexico",
+    "lat": 20.9876996,
+    "lng": -101.0
+  },
+  {
+    "id": "guyana-radio-santa-fe-907-fm",
+    "name": "Radio Santa Fe 90.7 FM",
+    "url": "http://www.icecasthd.net:8274/xhfl",
+    "genre": "Music",
+    "city": "Guanajuato",
+    "country": "Mexico",
+    "lat": 20.9876996,
+    "lng": -101.0
+  },
+  {
+    "id": "guyana-alpha-fm-1017",
+    "name": "Alpha FM 101.7",
+    "url": "https://27693.live.streamtheworld.com:443/RADIO_ALPHAFMAAC.aac",
+    "genre": "Music",
+    "city": "Guanambi BA",
+    "country": "Brazil",
+    "lat": -14.2188071,
+    "lng": -42.7847663
+  },
+  {
+    "id": "guyana-radio-universidad-de-guanajuato-1007-fm",
+    "name": "Radio Universidad de Guanajuato 100.7 FM",
+    "url": "https://streamingcwsradio30.com/8290/stream",
+    "genre": "Music",
+    "city": "Guanajuato",
+    "country": "Mexico",
+    "lat": 20.9876996,
+    "lng": -101.0
+  },
+  {
+    "id": "guyana-cloud-radio-102",
+    "name": "Cloud Radio 102",
+    "url": "https://audio.livecastnet.com:1205/stream",
+    "genre": "Music",
+    "city": "Guaynabo",
+    "country": "Puerto Rico",
+    "lat": 18.3591596,
+    "lng": -66.1156802
+  },
+  {
+    "id": "guyana-rádio-jb-fm-99,9",
+    "name": "Rádio JB FM 99,9",
+    "url": "https://26683.live.streamtheworld.com:443/JBFMAAC.aac",
+    "genre": "Music",
+    "city": "Guanambi BA",
+    "country": "Brazil",
+    "lat": -14.2188071,
+    "lng": -42.7847663
+  },
+  {
+    "id": "guyana-salsa-pal-mundo",
+    "name": "Salsa Pal Mundo",
+    "url": "https://usa18.fastcast4u.com/proxy/hrodri02?mp=/1",
+    "genre": "Music",
+    "city": "Guaynabo",
+    "country": "Puerto Rico",
+    "lat": 18.3591596,
+    "lng": -66.1156802
+  },
+  {
+    "id": "guyana-salmantina-xeemm-am810",
+    "name": "Salmantina XEEMM AM810",
+    "url": "https://stream9.mexiserver.com/8422/stream",
+    "genre": "Music",
+    "city": "Guanajuato",
+    "country": "Mexico",
+    "lat": 20.9876996,
+    "lng": -101.0
+  },
+  {
+    "id": "guyana-radio-alegria-957-fm",
+    "name": "Radio Alegria 95.7 FM",
+    "url": "https://cento02.mipanelradio.com/proxy/moroleon?mp=/stream",
+    "genre": "Music",
+    "city": "Guanajuato",
+    "country": "Mexico",
+    "lat": 20.9876996,
+    "lng": -101.0
+  },
+  {
+    "id": "guyana-sacra-fm",
+    "name": "Sacra FM",
+    "url": "https://stream.eleden.com:8110/rsacrab.aac",
+    "genre": "Music",
+    "city": "Guaynabo",
+    "country": "Puerto Rico",
+    "lat": 18.3591596,
+    "lng": -66.1156802
+  },
+  {
+    "id": "guyana-easy-rock-pr",
+    "name": "Easy Rock PR",
+    "url": "https://audio.livecastnet.com:1475/stream",
+    "genre": "Music",
+    "city": "Guaynabo",
+    "country": "Puerto Rico",
+    "lat": 18.3591596,
+    "lng": -66.1156802
+  },
+  {
+    "id": "guyana-arroba-fm-993-fm",
+    "name": "Arroba FM 99.3 FM",
+    "url": "https://stream-152.zeno.fm/883nc8g9d78uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI4ODNuYzhnOWQ3OHV2IiwiaG9zdCI6InN0cmVhbS0xNTIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoicW56X1NmRTRTM0tNcWQ4ZGhtblBqZyIsImlhdCI6MTc2OTQxOTEzOCwiZXhwIjoxNzY5NDE5MTk4fQ.9xoKVaTsQNG6hWVNIqEHD3MB3aED1tCbTXRB9fEYjGM",
+    "genre": "Music",
+    "city": "Guanajuato",
+    "country": "Mexico",
+    "lat": 20.9876996,
+    "lng": -101.0
+  },
+  {
+    "id": "guyana-cascabel-radio-social-921-fm",
+    "name": "Cascabel Radio Social 92.1 FM",
+    "url": "https://stream-178.zeno.fm/7dpomkzwcpytv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI3ZHBvbWt6d2NweXR2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoia0x1LUg5Z1dRVVNHa3liYk8zNkxHZyIsImlhdCI6MTc2OTQxOTEzOCwiZXhwIjoxNzY5NDE5MTk4fQ.rgVsZjO-zZbefc1qvltHd9lO8UT5FXfmoxJ7VCMRwUY",
+    "genre": "Music",
+    "city": "Guanajuato",
+    "country": "Mexico",
+    "lat": 20.9876996,
+    "lng": -101.0
+  },
+  {
+    "id": "guyana-cafe-romantico-radio",
+    "name": "Cafe Romantico Radio",
+    "url": "https://panel.retrolandigital.com/radio/8110/listen",
+    "genre": "Music",
+    "city": "Guanajuato",
+    "country": "Mexico",
+    "lat": 20.9876996,
+    "lng": -101.0
+  },
+  {
+    "id": "guyana-love-fm-1015",
+    "name": "Love FM 101.5",
+    "url": "https://ss1.audiorama.com.mx:6632/stream/",
+    "genre": "Music",
+    "city": "Guanajuato",
+    "country": "Mexico",
+    "lat": 20.9876996,
+    "lng": -101.0
+  },
+  {
+    "id": "guyana-agave-radio",
+    "name": "Agave Radio",
+    "url": "https://stream-159.zeno.fm/ylcqezjoswftv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5bGNxZXpqb3N3ZnR2IiwiaG9zdCI6InN0cmVhbS0xNTkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiaTRVWTF2QmdTSHlRWUN0Z3hBT1A0QSIsImlhdCI6MTc2OTQxOTEzOSwiZXhwIjoxNzY5NDE5MTk5fQ.2mwMIMZWkT8z0rwxld5yzRXCO265xnboTSvWY6jrc30",
+    "genre": "Music",
+    "city": "Guanajuato",
+    "country": "Mexico",
+    "lat": 20.9876996,
+    "lng": -101.0
+  },
+  {
+    "id": "guyana-radio-centro-el-fonografo-am-690",
+    "name": "Radio Centro El Fonografo AM 690",
+    "url": "https://26143.live.streamtheworld.com:443/XEN_AMAAC.aac",
+    "genre": "Music",
+    "city": "Guanajuato",
+    "country": "Mexico",
+    "lat": 20.9876996,
+    "lng": -101.0
+  },
+  {
+    "id": "guyana-universal-881",
+    "name": "Universal 88.1",
+    "url": "https://18863.live.streamtheworld.com:443/XHRED_FMAAC.aac",
+    "genre": "Music",
+    "city": "Guanajuato",
+    "country": "Mexico",
+    "lat": 20.9876996,
+    "lng": -101.0
+  },
+  {
+    "id": "guyana-w-radio-fm-969",
+    "name": "W Radio FM 96.9",
+    "url": "https://22063.live.streamtheworld.com:443/W_RADIOAAC.aac",
+    "genre": "Music",
+    "city": "Guanajuato",
+    "country": "Mexico",
+    "lat": 20.9876996,
+    "lng": -101.0
+  },
+  {
+    "id": "guyana-stereorey",
+    "name": "Stereorey",
+    "url": "https://26183.live.streamtheworld.com:443/STEREOREYAAC.aac",
+    "genre": "Music",
+    "city": "Guanajuato",
+    "country": "Mexico",
+    "lat": 20.9876996,
+    "lng": -101.0
+  }
+]

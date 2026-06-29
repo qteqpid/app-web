@@ -1,0 +1,1542 @@
+[
+  {
+    "id": "south-music-city-1075-fm",
+    "name": "Music City 107.5 FM",
+    "url": "http://sci.streamingmurah.com:8003/stream/",
+    "genre": "Music",
+    "city": "South Jakarta",
+    "country": "Indonesia",
+    "lat": -6.2838694,
+    "lng": 106.8048297
+  },
+  {
+    "id": "south-kantor-berita-radio",
+    "name": "Kantor Berita Radio",
+    "url": "https://pu.klikhost.com/proxy/kbr/kbr",
+    "genre": "Music",
+    "city": "South Jakarta",
+    "country": "Indonesia",
+    "lat": -6.2838694,
+    "lng": 106.8048297
+  },
+  {
+    "id": "south-aje-radio-jakarta",
+    "name": "Aje Radio Jakarta",
+    "url": "https://pu.klikhost.com/proxy/arman/stream",
+    "genre": "Music",
+    "city": "South Jakarta",
+    "country": "Indonesia",
+    "lat": -6.2838694,
+    "lng": 106.8048297
+  },
+  {
+    "id": "south-1034-dfm-jakarta",
+    "name": "103.4 DFM Jakarta",
+    "url": "https://i.klikhost.com/9000/stream",
+    "genre": "Music",
+    "city": "South Jakarta",
+    "country": "Indonesia",
+    "lat": -6.2838694,
+    "lng": 106.8048297
+  },
+  {
+    "id": "south-gospel-radio-east-africa",
+    "name": "Gospel Radio East Africa",
+    "url": "https://c32.radioboss.fm:8451/stream",
+    "genre": "Music",
+    "city": "Juba",
+    "country": "South Sudan",
+    "lat": 4.8459246,
+    "lng": 31.5959173
+  },
+  {
+    "id": "south-radio-sayang-quran",
+    "name": "Radio Sayang Quran",
+    "url": "https://radio.sayangquran.com/listen/radiosq/radio.mp3",
+    "genre": "Music",
+    "city": "South Jakarta",
+    "country": "Indonesia",
+    "lat": -6.2838694,
+    "lng": 106.8048297
+  },
+  {
+    "id": "south-be-radio-indonesia-1028-fm",
+    "name": "BE Radio Indonesia 102.8 FM",
+    "url": "https://beradio.mfsdev.net:8000/radio.mp3",
+    "genre": "Music",
+    "city": "South Jakarta",
+    "country": "Indonesia",
+    "lat": -6.2838694,
+    "lng": 106.8048297
+  },
+  {
+    "id": "south-895-speak-fm",
+    "name": "89.5 Speak FM",
+    "url": "https://www.radiocomnetu.org/speakfm-stream",
+    "genre": "Music",
+    "city": "Juba",
+    "country": "South Sudan",
+    "lat": 4.8459246,
+    "lng": 31.5959173
+  },
+  {
+    "id": "south-o-radio--luo",
+    "name": "O Radio - Luo",
+    "url": "http://n0f.radiojar.com/xwy6byka3f3vv?rj-ttl=5&rj-tok=AAABm_nfI5EAlHC52G-K6cTIxg",
+    "genre": "Music",
+    "city": "Juba",
+    "country": "South Sudan",
+    "lat": 4.8459246,
+    "lng": 31.5959173
+  },
+  {
+    "id": "south-eye-radio-986-fm",
+    "name": "Eye Radio 98.6 FM",
+    "url": "https://media.streambrothers.com:8000/stream",
+    "genre": "Music",
+    "city": "Juba",
+    "country": "South Sudan",
+    "lat": 4.8459246,
+    "lng": 31.5959173
+  },
+  {
+    "id": "south-aywa-fm",
+    "name": "Aywa FM",
+    "url": "https://cast4.asurahosting.com/proxy/aywafm/stream",
+    "genre": "Music",
+    "city": "Malakal",
+    "country": "South Sudan",
+    "lat": 9.5388487,
+    "lng": 31.6584168
+  },
+  {
+    "id": "south-malakal-press-radio",
+    "name": "Malakal Press Radio",
+    "url": "https://s20.reliastream.com/stream/8124",
+    "genre": "Music",
+    "city": "Juba",
+    "country": "South Sudan",
+    "lat": 4.8459246,
+    "lng": 31.5959173
+  },
+  {
+    "id": "south-radio-pacis-fm-945",
+    "name": "Radio Pacis FM 94.5",
+    "url": "https://radiopacisuganda2-radiopacisugand2.radioca.st/stream",
+    "genre": "Music",
+    "city": "Juba",
+    "country": "South Sudan",
+    "lat": 4.8459246,
+    "lng": 31.5959173
+  },
+  {
+    "id": "south-miraya-fm-1011",
+    "name": "Miraya FM 101.1",
+    "url": "https://s3.myradiostream.com:15919/listen.mp3",
+    "genre": "Music",
+    "city": "Juba",
+    "country": "South Sudan",
+    "lat": 4.8459246,
+    "lng": 31.5959173
+  },
+  {
+    "id": "south-radio-gentara",
+    "name": "Radio Gentara",
+    "url": "https://stream-n1.gntr.net/listen/radio_gentara/gentara.mp3",
+    "genre": "Music",
+    "city": "South Jakarta",
+    "country": "Indonesia",
+    "lat": -6.2838694,
+    "lng": 106.8048297
+  },
+  {
+    "id": "south-suara-masjid-mekarindah",
+    "name": "Suara Masjid Mekarindah",
+    "url": "https://stream-151.zeno.fm/gkvbmtw4kkeuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJna3ZibXR3NGtrZXV2IiwiaG9zdCI6InN0cmVhbS0xNTEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiekNnbmpEakpRVW1PeXJiUkstQ1JpQSIsImlhdCI6MTc2OTQyMzEwOCwiZXhwIjoxNzY5NDIzMTY4fQ.y97n2L_nJsi4v7ydOa8jDNuiY9a3Bp9zS623E6MIM2U",
+    "genre": "Music",
+    "city": "South Jakarta",
+    "country": "Indonesia",
+    "lat": -6.2838694,
+    "lng": 106.8048297
+  },
+  {
+    "id": "south-radio-cbb-1054-fm",
+    "name": "Radio CBB 105.4 FM",
+    "url": "https://stream01-ssl.arenastreaming.com:8056/live",
+    "genre": "Music",
+    "city": "South Jakarta",
+    "country": "Indonesia",
+    "lat": -6.2838694,
+    "lng": 106.8048297
+  },
+  {
+    "id": "south-delta-fm-991",
+    "name": "Delta FM 99.1",
+    "url": "https://s1.cloudmu.id/listen/delta_fm/stream",
+    "genre": "Music",
+    "city": "South Jakarta",
+    "country": "Indonesia",
+    "lat": -6.2838694,
+    "lng": 106.8048297
+  },
+  {
+    "id": "south-prambors-fm-1022",
+    "name": "Prambors FM 102.2",
+    "url": "https://s2.cloudmu.id/listen/prambors/radio.aac",
+    "genre": "Music",
+    "city": "South Jakarta",
+    "country": "Indonesia",
+    "lat": -6.2838694,
+    "lng": 106.8048297
+  },
+  {
+    "id": "south-radio-paidha-fm-878",
+    "name": "Radio Paidha FM 87.8",
+    "url": "https://stream-164.zeno.fm/cxhyxmawdzsvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjeGh5eG1hd2R6c3Z2IiwiaG9zdCI6InN0cmVhbS0xNjQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiMnFZUVRvaHdTU0dDcTFEV0pKY0sxQSIsImlhdCI6MTc2OTQyMzEwOSwiZXhwIjoxNzY5NDIzMTY5fQ.rBe9RKTQ1mubzXR12OJQDlqWLvHe8kqX_tkoGiReEU4",
+    "genre": "Music",
+    "city": "Juba",
+    "country": "South Sudan",
+    "lat": 4.8459246,
+    "lng": 31.5959173
+  },
+  {
+    "id": "south-tk-radio",
+    "name": "TK Radio",
+    "url": "https://stream-177.zeno.fm/z7vcqhps7whvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ6N3ZjcWhwczd3aHZ2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoicDFjakgwQmNTcHVYakh1b29hR1FDZyIsImlhdCI6MTc2OTQyMzEwOCwiZXhwIjoxNzY5NDIzMTY4fQ.SQiaP7cBiqk2vuznX9Wy8CVyVPvOwMGxA1_fQDnig4Y",
+    "genre": "Music",
+    "city": "Juba",
+    "country": "South Sudan",
+    "lat": 4.8459246,
+    "lng": 31.5959173
+  },
+  {
+    "id": "south-amhara-fm-bahir-dar-969",
+    "name": "Amhara FM Bahir Dar 96.9",
+    "url": "https://stream-176.zeno.fm/cxf4zy74em0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjeGY0enk3NGVtMHV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiVXVEVUxrQTJUWXlFdGgtQUhteDBlUSIsImlhdCI6MTc2OTQyMzEwOSwiZXhwIjoxNzY5NDIzMTY5fQ.xLAdXYxVR59K8Y4D0h_ok50LTndN5fZcyx-rKNcPcXk",
+    "genre": "Music",
+    "city": "Malakal",
+    "country": "South Sudan",
+    "lat": 9.5388487,
+    "lng": 31.6584168
+  },
+  {
+    "id": "south-۩-الزاوية-التجانية-۩",
+    "name": "۩ الزاوية التجانية ۩",
+    "url": "https://tijaniyyah.asuscomm.com:8000/stream/1/",
+    "genre": "Music",
+    "city": "Malakal",
+    "country": "South Sudan",
+    "lat": 9.5388487,
+    "lng": 31.6584168
+  },
+  {
+    "id": "south-suara-surabaya-fm-100",
+    "name": "Suara Surabaya FM 100",
+    "url": "https://c5.siar.us/proxy/ssfm/stream",
+    "genre": "Music",
+    "city": "South Jakarta",
+    "country": "Indonesia",
+    "lat": -6.2838694,
+    "lng": 106.8048297
+  },
+  {
+    "id": "south-jozi-fm-1058",
+    "name": "Jozi FM 105.8",
+    "url": "https://edge.iono.fm/xice/51_medium.aac",
+    "genre": "Music",
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "lat": -26.205,
+    "lng": 28.049722
+  },
+  {
+    "id": "south-kofifi-fm-972",
+    "name": "kofifi FM 97.2",
+    "url": "http://102.68.115.115:8000/kofifi",
+    "genre": "Music",
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "lat": -26.205,
+    "lng": 28.049722
+  },
+  {
+    "id": "south-platinum-gold-radio",
+    "name": "Platinum Gold Radio",
+    "url": "http://s2.voscast.com:10128/;stream.mp3",
+    "genre": "Music",
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "lat": -26.205,
+    "lng": 28.049722
+  },
+  {
+    "id": "south-hot-fm-1027",
+    "name": "HOT FM 102.7",
+    "url": "https://edge.iono.fm/xice/57_medium.aac",
+    "genre": "Music",
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "lat": -26.205,
+    "lng": 28.049722
+  },
+  {
+    "id": "south-kaya-fm-959",
+    "name": "Kaya FM 95.9",
+    "url": "https://edge.iono.fm/xice/82_medium.mp3",
+    "genre": "Music",
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "lat": -26.205,
+    "lng": 28.049722
+  },
+  {
+    "id": "south-ubuntufm-dance-radio",
+    "name": "UbuntuFM Dance Radio",
+    "url": "https://streaming.coollective.nl:8443/UbuntuFMdance",
+    "genre": "Music",
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "lat": -26.205,
+    "lng": 28.049722
+  },
+  {
+    "id": "south-lm-radio-am-702",
+    "name": "LM Radio AM 702",
+    "url": "https://ukwesta.streaming.broadcast.radio/lmradio",
+    "genre": "Music",
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "lat": -26.205,
+    "lng": 28.049722
+  },
+  {
+    "id": "south-chai-fm-1019",
+    "name": "Chai FM 101.9",
+    "url": "https://zas1.ndx.co.za:8008/stream",
+    "genre": "Music",
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "lat": -26.205,
+    "lng": 28.049722
+  },
+  {
+    "id": "south-elshinta-fm-90",
+    "name": "Elshinta FM 90",
+    "url": "https://stream-ssl.arenastreaming.com:8000/jakarta",
+    "genre": "Music",
+    "city": "South Jakarta",
+    "country": "Indonesia",
+    "lat": -6.2838694,
+    "lng": 106.8048297
+  },
+  {
+    "id": "south-joyous-radio",
+    "name": "Joyous Radio",
+    "url": "https://fm1.cvdrbroadcastsolutions.com:8443/joyous_radio.aac",
+    "genre": "Music",
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "lat": -26.205,
+    "lng": 28.049722
+  },
+  {
+    "id": "south-sa-fm-104-107",
+    "name": "SA FM 104-107",
+    "url": "https://25293.live.streamtheworld.com:443/SAFM.mp3",
+    "genre": "Music",
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "lat": -26.205,
+    "lng": 28.049722
+  },
+  {
+    "id": "south-ubiquity-radio",
+    "name": "Ubiquity Radio",
+    "url": "https://strw2.openstream.co/613",
+    "genre": "Music",
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "lat": -26.205,
+    "lng": 28.049722
+  },
+  {
+    "id": "south-kasie-fm-971",
+    "name": "Kasie FM 97.1",
+    "url": "https://s44.myradiostream.com/sc1/:9128/listen.mp3/",
+    "genre": "Music",
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "lat": -26.205,
+    "lng": 28.049722
+  },
+  {
+    "id": "south-rsg-fm-1000",
+    "name": "RSG FM 100.0",
+    "url": "https://28993.live.streamtheworld.com:443/RSGAAC.aac",
+    "genre": "Music",
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "lat": -26.205,
+    "lng": 28.049722
+  },
+  {
+    "id": "south-metro-fm-930",
+    "name": "Metro FM 93.0",
+    "url": "https://27863.live.streamtheworld.com:443/METROFMAAC.aac",
+    "genre": "Music",
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "lat": -26.205,
+    "lng": 28.049722
+  },
+  {
+    "id": "south-music-radio-sa",
+    "name": "Music Radio SA",
+    "url": "https://musicradiosa.radioca.st/stream",
+    "genre": "Music",
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "lat": -26.205,
+    "lng": 28.049722
+  },
+  {
+    "id": "south-talk-radio-702",
+    "name": "Talk Radio 702",
+    "url": "https://25503.live.streamtheworld.com:443/FM702AAC.aac",
+    "genre": "Music",
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "lat": -26.205,
+    "lng": 28.049722
+  },
+  {
+    "id": "south-air-fm",
+    "name": "Air FM",
+    "url": "https://edge.iono.fm/xice/257_medium.mp3",
+    "genre": "Music",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "lat": -33.9288301,
+    "lng": 18.4172197
+  },
+  {
+    "id": "south-smile-904-fm",
+    "name": "Smile 90.4 FM",
+    "url": "https://edge.iono.fm/xice/212_medium.aac",
+    "genre": "Music",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "lat": -33.9288301,
+    "lng": 18.4172197
+  },
+  {
+    "id": "south-classic-central-radio",
+    "name": "Classic Central Radio",
+    "url": "https://stream-175.zeno.fm/bp1pwy8mky8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJicDFwd3k4bWt5OHV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiUVBYQWdFOTNSWkdDejFOOE1JVU9OUSIsImlhdCI6MTc2OTQyMzExMywiZXhwIjoxNzY5NDIzMTczfQ.sG94qOD4FGBRpxdg1ZWoQk8KNGlCQDc8B0fsaXaWbbk",
+    "genre": "Music",
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "lat": -26.205,
+    "lng": 28.049722
+  },
+  {
+    "id": "south-bat-radio-pskd-indonesia",
+    "name": "BAT Radio PSKD Indonesia",
+    "url": "https://servidor14-3.brlogic.com:7696/live",
+    "genre": "Music",
+    "city": "South Jakarta",
+    "country": "Indonesia",
+    "lat": -6.2838694,
+    "lng": 106.8048297
+  },
+  {
+    "id": "south-magic-828",
+    "name": "Magic 828",
+    "url": "http://cast.fabrik.fm:8106/",
+    "genre": "Music",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "lat": -33.9288301,
+    "lng": 18.4172197
+  },
+  {
+    "id": "south-hope-fm-1062",
+    "name": "Hope FM 106.2",
+    "url": "https://zas7.ndx.co.za:8020/stream",
+    "genre": "Music",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "lat": -33.9288301,
+    "lng": 18.4172197
+  },
+  {
+    "id": "south-fine-music-radio-fm-1013",
+    "name": "Fine Music Radio FM 101.3",
+    "url": "https://edge.iono.fm/xice/fmr_live_medium.aac",
+    "genre": "Music",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "lat": -33.9288301,
+    "lng": 18.4172197
+  },
+  {
+    "id": "south-radio-786-fm-1004",
+    "name": "Radio 786 FM 100.4",
+    "url": "http://102.221.216.42:8040/stream/",
+    "genre": "Music",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "lat": -33.9288301,
+    "lng": 18.4172197
+  },
+  {
+    "id": "south-whale-coast-fm-96",
+    "name": "Whale Coast FM 96",
+    "url": "https://edge.iono.fm/xice/309_medium.aac",
+    "genre": "Music",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "lat": -33.9288301,
+    "lng": 18.4172197
+  },
+  {
+    "id": "south-6pazzi-radio",
+    "name": "6Pazzi Radio",
+    "url": "https://stream.radio.co/s51967244c/listen",
+    "genre": "Music",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "lat": -33.9288301,
+    "lng": 18.4172197
+  },
+  {
+    "id": "south-jacaranda",
+    "name": "Jacaranda",
+    "url": "https://live.jacarandafm.com/jacarandahigh.mp3",
+    "genre": "Music",
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "lat": -26.205,
+    "lng": 28.049722
+  },
+  {
+    "id": "south-wake-up-dc",
+    "name": "Wake UP DC",
+    "url": "https://edge.iono.fm/xice/366_medium.aac",
+    "genre": "Music",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "lat": -33.9288301,
+    "lng": 18.4172197
+  },
+  {
+    "id": "south-kfm-945",
+    "name": "Kfm 94.5",
+    "url": "https://27823.live.streamtheworld.com:443/KFMAAC.aac",
+    "genre": "Music",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "lat": -33.9288301,
+    "lng": 18.4172197
+  },
+  {
+    "id": "south-jou-stasie",
+    "name": "Jou Stasie",
+    "url": "https://uslradio.net/8010/stream",
+    "genre": "Music",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "lat": -33.9288301,
+    "lng": 18.4172197
+  },
+  {
+    "id": "south-radio-al-ansaar-fm-904",
+    "name": "Radio Al-Ansaar FM 90.4",
+    "url": "https://al-ansaar.simplestreaming.co.za:8010/radio.mp3",
+    "genre": "Music",
+    "city": "Durban",
+    "country": "South Africa",
+    "lat": -29.861825,
+    "lng": 31.009909
+  },
+  {
+    "id": "south-izwelenala-fm",
+    "name": "iZwelenala FM",
+    "url": "https://edge.iono.fm/xice/izwelenala_live_medium.aac",
+    "genre": "Music",
+    "city": "Durban",
+    "country": "South Africa",
+    "lat": -29.861825,
+    "lng": 31.009909
+  },
+  {
+    "id": "south-radio-free-tankwa-fm-999",
+    "name": "Radio Free Tankwa FM 99.9",
+    "url": "https://19213.live.streamtheworld.com:443/SAM09AAC213.aac",
+    "genre": "Music",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "lat": -33.9288301,
+    "lng": 18.4172197
+  },
+  {
+    "id": "south-cape-talk-am-567",
+    "name": "Cape Talk AM 567",
+    "url": "https://22733.live.streamtheworld.com:443/CAPE_TALKAAC.aac",
+    "genre": "Music",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "lat": -33.9288301,
+    "lng": 18.4172197
+  },
+  {
+    "id": "south-perron-fm-951",
+    "name": "Perron FM 95.1",
+    "url": "https://zas4.ndx.co.za:9000/stream/",
+    "genre": "Music",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "lat": -33.9288301,
+    "lng": 18.4172197
+  },
+  {
+    "id": "south-gagasi-fm",
+    "name": "Gagasi FM",
+    "url": "http://cast.fabrik.fm:8102/medium",
+    "genre": "Music",
+    "city": "Durban",
+    "country": "South Africa",
+    "lat": -29.861825,
+    "lng": 31.009909
+  },
+  {
+    "id": "south-hindvani",
+    "name": "Hindvani",
+    "url": "https://edge.iono.fm/xice/129_medium.aac",
+    "genre": "Music",
+    "city": "Durban",
+    "country": "South Africa",
+    "lat": -29.861825,
+    "lng": 31.009909
+  },
+  {
+    "id": "south-megazone-bollywood",
+    "name": "Megazone Bollywood",
+    "url": "https://vm65162.streamerr.co/listen/megazone_bollywood_/radio.mp3",
+    "genre": "Music",
+    "city": "Durban",
+    "country": "South Africa",
+    "lat": -29.861825,
+    "lng": 31.009909
+  },
+  {
+    "id": "south-good-hope-fm-94-97",
+    "name": "Good Hope FM 94-97",
+    "url": "https://22183.live.streamtheworld.com:443/GOODHOPEFMAAC_SC",
+    "genre": "Music",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "lat": -33.9288301,
+    "lng": 18.4172197
+  },
+  {
+    "id": "south-good-news-cr-fm-936",
+    "name": "Good News CR FM 93.6",
+    "url": "https://edge.iono.fm/xice/155_medium.aac",
+    "genre": "Music",
+    "city": "Durban",
+    "country": "South Africa",
+    "lat": -29.861825,
+    "lng": 31.009909
+  },
+  {
+    "id": "south-88fm-radio-life-style",
+    "name": "88FM Radio Life & Style",
+    "url": "https://edge.iono.fm/xice/165_medium.aac",
+    "genre": "Music",
+    "city": "Durban",
+    "country": "South Africa",
+    "lat": -29.861825,
+    "lng": 31.009909
+  },
+  {
+    "id": "south-vibe-fm-947",
+    "name": "Vibe FM 94.7",
+    "url": "https://zas3.ndx.co.za:8016/stream",
+    "genre": "Music",
+    "city": "Durban",
+    "country": "South Africa",
+    "lat": -29.861825,
+    "lng": 31.009909
+  },
+  {
+    "id": "south-playzn",
+    "name": "PlayZN",
+    "url": "https://fm1.cvdrbroadcastsolutions.com:8443/playzn.aac",
+    "genre": "Music",
+    "city": "Durban",
+    "country": "South Africa",
+    "lat": -29.861825,
+    "lng": 31.009909
+  },
+  {
+    "id": "south-maluti-fm-971",
+    "name": "Maluti FM 97.1",
+    "url": "https://cast3.my-control-panel.com/proxy/malutifm/stream",
+    "genre": "Music",
+    "city": "Durban",
+    "country": "South Africa",
+    "lat": -29.861825,
+    "lng": 31.009909
+  },
+  {
+    "id": "south-gaan-groot-radio",
+    "name": "Gaan Groot Radio",
+    "url": "https://14223.live.streamtheworld.com:443/SP_R2982692.aac",
+    "genre": "Music",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "lat": -33.9288301,
+    "lng": 18.4172197
+  },
+  {
+    "id": "south-east-coast-gold",
+    "name": "East Coast Gold",
+    "url": "https://live.ecr.co.za/ecrgoldhigh.mp3",
+    "genre": "Music",
+    "city": "Durban",
+    "country": "South Africa",
+    "lat": -29.861825,
+    "lng": 31.009909
+  },
+  {
+    "id": "south-southside-fm-1072",
+    "name": "SouthSide FM 107.2",
+    "url": "https://southsidefmkzn.out.airtime.pro/southsidefmkzn_a",
+    "genre": "Music",
+    "city": "Durban",
+    "country": "South Africa",
+    "lat": -29.861825,
+    "lng": 31.009909
+  },
+  {
+    "id": "south-sauk-radio",
+    "name": "Sauk Radio",
+    "url": "https://nl1.streamingpulse.com/ssl/7068",
+    "genre": "Music",
+    "city": "Pretoria",
+    "country": "South Africa",
+    "lat": -25.7459277,
+    "lng": 28.1879101
+  },
+  {
+    "id": "south-ukhozi-fm",
+    "name": "UKhozi FM",
+    "url": "https://29103.live.streamtheworld.com:443/UKHOZIFMAAC.aac",
+    "genre": "Music",
+    "city": "Durban",
+    "country": "South Africa",
+    "lat": -29.861825,
+    "lng": 31.009909
+  },
+  {
+    "id": "south-groot-fm-905",
+    "name": "Groot FM 90.5",
+    "url": "https://edge.iono.fm/xice/330_medium.aac",
+    "genre": "Music",
+    "city": "Pretoria",
+    "country": "South Africa",
+    "lat": -25.7459277,
+    "lng": 28.1879101
+  },
+  {
+    "id": "south-pretoria-fm-1042",
+    "name": "Pretoria FM 104.2",
+    "url": "https://edge.iono.fm/xice/362_medium.aac",
+    "genre": "Music",
+    "city": "Pretoria",
+    "country": "South Africa",
+    "lat": -25.7459277,
+    "lng": 28.1879101
+  },
+  {
+    "id": "south-dyr-fm-1051-durban-youth-radio",
+    "name": "DYR FM 105.1 Durban Youth Radio",
+    "url": "https://zas4.ndx.co.za:9072/stream",
+    "genre": "Music",
+    "city": "Durban",
+    "country": "South Africa",
+    "lat": -29.861825,
+    "lng": 31.009909
+  },
+  {
+    "id": "south-vuka-online-radio",
+    "name": "Vuka Online Radio",
+    "url": "http://s5.voscast.com:8542/index.html?sid=1",
+    "genre": "Music",
+    "city": "Pretoria",
+    "country": "South Africa",
+    "lat": -25.7459277,
+    "lng": 28.1879101
+  },
+  {
+    "id": "south-radio-pulpit-fm-972",
+    "name": "Radio Pulpit FM 97.2",
+    "url": "https://edge.iono.fm/xice/189_medium.mp3",
+    "genre": "Music",
+    "city": "Pretoria",
+    "country": "South Africa",
+    "lat": -25.7459277,
+    "lng": 28.1879101
+  },
+  {
+    "id": "south-pheli-fm-950",
+    "name": "Pheli FM 95.0",
+    "url": "https://cast3.my-control-panel.com/proxy/phelifm/stream",
+    "genre": "Music",
+    "city": "Pretoria",
+    "country": "South Africa",
+    "lat": -25.7459277,
+    "lng": 28.1879101
+  },
+  {
+    "id": "south-lotus-fm-877",
+    "name": "Lotus FM 87.7",
+    "url": "https://28513.live.streamtheworld.com:443/LOTUSFMAAC.aac",
+    "genre": "Music",
+    "city": "Durban",
+    "country": "South Africa",
+    "lat": -29.861825,
+    "lng": 31.009909
+  },
+  {
+    "id": "south-impact-fm-103",
+    "name": "Impact FM 103",
+    "url": "https://edge.iono.fm/xice/204_medium.aac",
+    "genre": "Music",
+    "city": "Pretoria",
+    "country": "South Africa",
+    "lat": -25.7459277,
+    "lng": 28.1879101
+  },
+  {
+    "id": "south-lekker-fm-983",
+    "name": "Lekker FM 98.3",
+    "url": "https://zas3.ndx.co.za:8002/stream",
+    "genre": "Music",
+    "city": "Pretoria",
+    "country": "South Africa",
+    "lat": -25.7459277,
+    "lng": 28.1879101
+  },
+  {
+    "id": "south-markaz-sahaba",
+    "name": "Markaz Sahaba",
+    "url": "https://zas4.ndx.co.za:9088/stream",
+    "genre": "Music",
+    "city": "Durban",
+    "country": "South Africa",
+    "lat": -29.861825,
+    "lng": 31.009909
+  },
+  {
+    "id": "south-kruiskyk-radio",
+    "name": "Kruiskyk Radio",
+    "url": "https://streams.radio.co/s8e33c10c7/listen",
+    "genre": "Music",
+    "city": "Pretoria",
+    "country": "South Africa",
+    "lat": -25.7459277,
+    "lng": 28.1879101
+  },
+  {
+    "id": "south-ebis-2-fm",
+    "name": "EBIS 2 FM",
+    "url": "http://ebisradio.zapto.org:8002/stream",
+    "genre": "Music",
+    "city": "Nelspruit",
+    "country": "South Africa",
+    "lat": -25.4729094,
+    "lng": 30.9772719
+  },
+  {
+    "id": "south-mams-radio-fm-929",
+    "name": "Mams Radio FM 92.9",
+    "url": "https://s2.radio.co/s5c8377e1d/listen",
+    "genre": "Music",
+    "city": "Pretoria",
+    "country": "South Africa",
+    "lat": -25.7459277,
+    "lng": 28.1879101
+  },
+  {
+    "id": "south-rise-fm",
+    "name": "Rise FM",
+    "url": "https://edge.iono.fm/xice/73_medium.mp3",
+    "genre": "Music",
+    "city": "Nelspruit",
+    "country": "South Africa",
+    "lat": -25.4729094,
+    "lng": 30.9772719
+  },
+  {
+    "id": "south-radio-veritas-am-576",
+    "name": "Radio Veritas AM 576",
+    "url": "https://zas5.ndx.co.za:9618/stream",
+    "genre": "Music",
+    "city": "Pretoria",
+    "country": "South Africa",
+    "lat": -25.7459277,
+    "lng": 28.1879101
+  },
+  {
+    "id": "south-hfm964",
+    "name": "HFM964",
+    "url": "https://edge.iono.fm/xice/327_medium.mp3",
+    "genre": "Music",
+    "city": "Nelspruit",
+    "country": "South Africa",
+    "lat": -25.4729094,
+    "lng": 30.9772719
+  },
+  {
+    "id": "south-capricorn-fm-899",
+    "name": "Capricorn FM 89.9",
+    "url": "https://edge.iono.fm/xice/67_medium.aac",
+    "genre": "Music",
+    "city": "Polokwane",
+    "country": "South Africa",
+    "lat": -23.9058333,
+    "lng": 29.4613889
+  },
+  {
+    "id": "south-naas-top-stereo",
+    "name": "Naas Top Stereo",
+    "url": "https://live.exertion.in/radio/8070/radio.mp3",
+    "genre": "Music",
+    "city": "Nelspruit",
+    "country": "South Africa",
+    "lat": -25.4729094,
+    "lng": 30.9772719
+  },
+  {
+    "id": "south-ub-fm-live",
+    "name": "UB FM Live",
+    "url": "https://stream.hero24.org:7098/stream",
+    "genre": "Music",
+    "city": "Nelspruit",
+    "country": "South Africa",
+    "lat": -25.4729094,
+    "lng": 30.9772719
+  },
+  {
+    "id": "south-voc-fm-siswati",
+    "name": "VOC FM Siswati",
+    "url": "https://edge.iono.fm/xice/350_high.aac",
+    "genre": "Music",
+    "city": "Nelspruit",
+    "country": "South Africa",
+    "lat": -25.4729094,
+    "lng": 30.9772719
+  },
+  {
+    "id": "south-global-fm",
+    "name": "Global FM",
+    "url": "https://play.globalfm.co.za/8010/stream",
+    "genre": "Music",
+    "city": "Nelspruit",
+    "country": "South Africa",
+    "lat": -25.4729094,
+    "lng": 30.9772719
+  },
+  {
+    "id": "south-jouradio-fm-910",
+    "name": "JouRadio FM 91.0",
+    "url": "https://audio-edge-jfbmv.sin.d.radiomast.io/a425e29b-a485-4b55-9e77-a501be8d1ee7",
+    "genre": "Music",
+    "city": "Polokwane",
+    "country": "South Africa",
+    "lat": -23.9058333,
+    "lng": 29.4613889
+  },
+  {
+    "id": "south-gateway-fm",
+    "name": "Gateway FM",
+    "url": "https://edge.iono.fm/xice/216_medium.mp3?ref=https%3A%2F%2Fiono.fm%2Fs%2F216&adToken=",
+    "genre": "Music",
+    "city": "Polokwane",
+    "country": "South Africa",
+    "lat": -23.9058333,
+    "lng": 29.4613889
+  },
+  {
+    "id": "south-dinaledi-community-radio",
+    "name": "Dinaledi Community Radio",
+    "url": "https://stream-178.zeno.fm/t6226dgc2d0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0NjIyNmRnYzJkMHV2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiTW9EM0wwX05RVmF6M3ZMcU9yMkhzQSIsImlhdCI6MTc2OTQyMzEyMiwiZXhwIjoxNzY5NDIzMTgyfQ.R984J4i6AG2q13LeViapm434PPtcIZv4OvIHmUaYGdU",
+    "genre": "Music",
+    "city": "Pretoria",
+    "country": "South Africa",
+    "lat": -25.7459277,
+    "lng": 28.1879101
+  },
+  {
+    "id": "south-ligwalagwala-fm-925",
+    "name": "Ligwalagwala FM 92.5",
+    "url": "https://22183.live.streamtheworld.com:443/LIGWALAGWALAAAC.aac",
+    "genre": "Music",
+    "city": "Nelspruit",
+    "country": "South Africa",
+    "lat": -25.4729094,
+    "lng": 30.9772719
+  },
+  {
+    "id": "south-voice-of-hope-fm-905",
+    "name": "Voice of Hope FM 90.5",
+    "url": "https://zas3.ndx.co.za:8024/stream",
+    "genre": "Music",
+    "city": "Nelspruit",
+    "country": "South Africa",
+    "lat": -25.4729094,
+    "lng": 30.9772719
+  },
+  {
+    "id": "south-radio-kuber-kontrei",
+    "name": "Radio Kuber Kontrei",
+    "url": "https://s5.radio.co/s725f4a2b5/listen",
+    "genre": "Music",
+    "city": "Pretoria",
+    "country": "South Africa",
+    "lat": -25.7459277,
+    "lng": 28.1879101
+  },
+  {
+    "id": "south-kosmos-fm-993",
+    "name": "Kosmos FM 99.3",
+    "url": "https://edge.iono.fm/xice/296_medium.aac",
+    "genre": "Music",
+    "city": "Polokwane",
+    "country": "South Africa",
+    "lat": -23.9058333,
+    "lng": 29.4613889
+  },
+  {
+    "id": "south-ekse-school-radio",
+    "name": "Ekse School Radio",
+    "url": "http://protostar.shoutca.st:8161/stream/",
+    "genre": "Music",
+    "city": "Port Elizabeth",
+    "country": "South Africa",
+    "lat": -33.9618598,
+    "lng": 25.6186731
+  },
+  {
+    "id": "south-algoa-fm",
+    "name": "Algoa FM",
+    "url": "https://edge.iono.fm/xice/54_high.mp3",
+    "genre": "Music",
+    "city": "Port Elizabeth",
+    "country": "South Africa",
+    "lat": -33.9618598,
+    "lng": 25.6186731
+  },
+  {
+    "id": "south-waterberg-stereo-fm-1049",
+    "name": "Waterberg Stereo FM 104.9",
+    "url": "https://fm1.cvdrbroadcastsolutions.com:8443/waterberg_stereo.aac",
+    "genre": "Music",
+    "city": "Polokwane",
+    "country": "South Africa",
+    "lat": -23.9058333,
+    "lng": 29.4613889
+  },
+  {
+    "id": "south-luister-fm-906",
+    "name": "Luister FM 90.6",
+    "url": "http://stream2.luisterfm.co.za:8000/LuisterFM",
+    "genre": "Music",
+    "city": "Port Elizabeth",
+    "country": "South Africa",
+    "lat": -33.9618598,
+    "lng": 25.6186731
+  },
+  {
+    "id": "south-harties-fm",
+    "name": "Harties FM",
+    "url": "https://s5.radio.co/s68c6f4028/listen",
+    "genre": "Music",
+    "city": "Pretoria",
+    "country": "South Africa",
+    "lat": -25.7459277,
+    "lng": 28.1879101
+  },
+  {
+    "id": "south-radio-laeveld-fm-1005",
+    "name": "Radio Laeveld FM 100.5",
+    "url": "https://zas2.ndx.co.za:8046/stream",
+    "genre": "Music",
+    "city": "Nelspruit",
+    "country": "South Africa",
+    "lat": -25.4729094,
+    "lng": 30.9772719
+  },
+  {
+    "id": "south-radio-ifm-883",
+    "name": "Radio IFM 88.3",
+    "url": "https://fm1.cvdrbroadcastsolutions.com:8443/ifm.aac",
+    "genre": "Music",
+    "city": "Port Elizabeth",
+    "country": "South Africa",
+    "lat": -33.9618598,
+    "lng": 25.6186731
+  },
+  {
+    "id": "south-tribe-fm",
+    "name": "TriBe FM",
+    "url": "https://stream-175.zeno.fm/7rqke7pczueuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI3cnFrZTdwY3p1ZXV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiS2FQQVpuci1TeXV5Sy1Xc29oNnBQdyIsImlhdCI6MTc2OTQyMzEyNSwiZXhwIjoxNzY5NDIzMTg1fQ.JzXNFOMILxP9-YYZb7NtADpQ5XKhj0p23B20eGFCUgY",
+    "genre": "Music",
+    "city": "Polokwane",
+    "country": "South Africa",
+    "lat": -23.9058333,
+    "lng": 29.4613889
+  },
+  {
+    "id": "south-keith-ngesi-radio",
+    "name": "Keith Ngesi Radio",
+    "url": "https://edge.iono.fm/xice/285_high.aac",
+    "genre": "Music",
+    "city": "Port Elizabeth",
+    "country": "South Africa",
+    "lat": -33.9618598,
+    "lng": 25.6186731
+  },
+  {
+    "id": "south-munghana-lonene-fm",
+    "name": "Munghana Lonene FM",
+    "url": "https://25443.live.streamtheworld.com:443/MUNGANALONENEAAC.aac",
+    "genre": "Music",
+    "city": "Polokwane",
+    "country": "South Africa",
+    "lat": -23.9058333,
+    "lng": 29.4613889
+  },
+  {
+    "id": "south-bay-fm-1079",
+    "name": "Bay FM 107.9",
+    "url": "https://zas7.ndx.co.za:8032/stream",
+    "genre": "Music",
+    "city": "Port Elizabeth",
+    "country": "South Africa",
+    "lat": -33.9618598,
+    "lng": 25.6186731
+  },
+  {
+    "id": "south-kingfisher-fm-1075",
+    "name": "Kingfisher FM 107.5",
+    "url": "https://zas4-5-7.ndx.co.za:8034/stream",
+    "genre": "Music",
+    "city": "Port Elizabeth",
+    "country": "South Africa",
+    "lat": -33.9618598,
+    "lng": 25.6186731
+  },
+  {
+    "id": "south-thobela-fm",
+    "name": "Thobela FM",
+    "url": "https://22183.live.streamtheworld.com:443/THOBELAAAC.aac",
+    "genre": "Music",
+    "city": "Polokwane",
+    "country": "South Africa",
+    "lat": -23.9058333,
+    "lng": 29.4613889
+  },
+  {
+    "id": "south-phalaphala-fm",
+    "name": "Phalaphala FM",
+    "url": "https://23543.live.streamtheworld.com:443/PHALAPHALAAAC.aac",
+    "genre": "Music",
+    "city": "Polokwane",
+    "country": "South Africa",
+    "lat": -23.9058333,
+    "lng": 29.4613889
+  },
+  {
+    "id": "south-latin-mix-masters-bachata-radio",
+    "name": "Latin Mix Masters Bachata Radio",
+    "url": "https://lmmradiocast.com/bachataradio",
+    "genre": "Music",
+    "city": "South Plainfield NJ",
+    "country": "United States",
+    "lat": 40.5786287,
+    "lng": -74.4096955
+  },
+  {
+    "id": "south-latin-mix-masters-reggaeton-radio",
+    "name": "Latin Mix Masters Reggaeton Radio",
+    "url": "https://lmmradiocast.com/reggaetonradio",
+    "genre": "Music",
+    "city": "South Plainfield NJ",
+    "country": "United States",
+    "lat": 40.5786287,
+    "lng": -74.4096955
+  },
+  {
+    "id": "south-ambient-sleeping-pill",
+    "name": "Ambient Sleeping Pill",
+    "url": "https://radio.stereoscenic.com/asp-s",
+    "genre": "Music",
+    "city": "South Plainfield NJ",
+    "country": "United States",
+    "lat": 40.5786287,
+    "lng": -74.4096955
+  },
+  {
+    "id": "south-mbhashe-fm",
+    "name": "Mbhashe FM",
+    "url": "https://stream-164.zeno.fm/u5hrk66sxxquv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1NWhyazY2c3h4cXV2IiwiaG9zdCI6InN0cmVhbS0xNjQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiTzgyTFJDRFZRVU9mVE14T1VYTWdSQSIsImlhdCI6MTc2OTQyMzEyNiwiZXhwIjoxNzY5NDIzMTg2fQ.LulWryR9BOWQ6zTf81KNUz3shGWu1nQaA67T9BUk5aM",
+    "genre": "Music",
+    "city": "Port Elizabeth",
+    "country": "South Africa",
+    "lat": -33.9618598,
+    "lng": 25.6186731
+  },
+  {
+    "id": "south-latin-mix-masters-radio",
+    "name": "Latin Mix Masters Radio",
+    "url": "https://lmmradiocast.com/lmmradio",
+    "genre": "Music",
+    "city": "South Plainfield NJ",
+    "country": "United States",
+    "lat": 40.5786287,
+    "lng": -74.4096955
+  },
+  {
+    "id": "south-wold-lp-fm-1079",
+    "name": "WOLD-LP FM 107.9",
+    "url": "http://192.99.41.102:5032/stream/",
+    "genre": "Music",
+    "city": "South Plainfield NJ",
+    "country": "United States",
+    "lat": 40.5786287,
+    "lng": -74.4096955
+  },
+  {
+    "id": "south-latin-mix-masters-salsa-radio",
+    "name": "Latin Mix Masters Salsa Radio",
+    "url": "https://lmmradiocast.com/salsaradio",
+    "genre": "Music",
+    "city": "South Plainfield NJ",
+    "country": "United States",
+    "lat": 40.5786287,
+    "lng": -74.4096955
+  },
+  {
+    "id": "south-tojikon",
+    "name": "Tojikon",
+    "url": "https://c13.radioboss.fm:18038/stream",
+    "genre": "Music",
+    "city": "South Plainfield NJ",
+    "country": "United States",
+    "lat": 40.5786287,
+    "lng": -74.4096955
+  },
+  {
+    "id": "south-smooth-jazz-247",
+    "name": "Smooth Jazz 24/7",
+    "url": "https://ais-edge89-dal02.cdnstream.com/2124_128.mp3",
+    "genre": "Music",
+    "city": "South Plainfield NJ",
+    "country": "United States",
+    "lat": 40.5786287,
+    "lng": -74.4096955
+  },
+  {
+    "id": "south-abn-old-time-radio-am-1610",
+    "name": "ABN Old-Time Radio AM 1610",
+    "url": "https://s6.yesstreaming.net:18000/listen",
+    "genre": "Music",
+    "city": "South Plainfield NJ",
+    "country": "United States",
+    "lat": 40.5786287,
+    "lng": -74.4096955
+  },
+  {
+    "id": "south-radio-dil",
+    "name": "Radio Dil",
+    "url": "https://us3.streamingpulse.com/ssl/radiodil2",
+    "genre": "Music",
+    "city": "South Plainfield NJ",
+    "country": "United States",
+    "lat": 40.5786287,
+    "lng": -74.4096955
+  },
+  {
+    "id": "south-kbrw-am-680",
+    "name": "KBRW-AM 680",
+    "url": "https://tektite.streamguys1.com:5345/live",
+    "genre": "Music",
+    "city": "South Plainfield NJ",
+    "country": "United States",
+    "lat": 40.5786287,
+    "lng": -74.4096955
+  },
+  {
+    "id": "south-trufm",
+    "name": "trufm",
+    "url": "https://27743.live.streamtheworld.com:443/TRUFMAAC.aac",
+    "genre": "Music",
+    "city": "Port Elizabeth",
+    "country": "South Africa",
+    "lat": -33.9618598,
+    "lng": 25.6186731
+  },
+  {
+    "id": "south-mus-radio",
+    "name": "MUS Radio",
+    "url": "http://n05.radiojar.com/n7ta5x16x2wtv?rj-ttl=5&rj-tok=AAABm_nfcFsAIepSCCgJWmBjJw",
+    "genre": "Music",
+    "city": "South Plainfield NJ",
+    "country": "United States",
+    "lat": 40.5786287,
+    "lng": -74.4096955
+  },
+  {
+    "id": "south-seongnam-fm-907",
+    "name": "Seongnam FM 90.7",
+    "url": "http://115.85.182.39/seongnamfm",
+    "genre": "Music",
+    "city": "Seoul",
+    "country": "South Korea",
+    "lat": 37.5666791,
+    "lng": 126.9782914
+  },
+  {
+    "id": "south-good-news-radio-online",
+    "name": "Good News Radio Online",
+    "url": "https://18213.live.streamtheworld.com:443/SAM09AAC244.mp3",
+    "genre": "Music",
+    "city": "Port Elizabeth",
+    "country": "South Africa",
+    "lat": -33.9618598,
+    "lng": 25.6186731
+  },
+  {
+    "id": "south-koko-lp-radio-963-fm",
+    "name": "KOKO LP Radio 96.3 FM",
+    "url": "https://s2.yesstreaming.net:7031/stream",
+    "genre": "Music",
+    "city": "South Plainfield NJ",
+    "country": "United States",
+    "lat": 40.5786287,
+    "lng": -74.4096955
+  },
+  {
+    "id": "south-knysna-fm-970",
+    "name": "Knysna FM 97.0",
+    "url": "https://zas4.ndx.co.za:9066/stream",
+    "genre": "Music",
+    "city": "Port Elizabeth",
+    "country": "South Africa",
+    "lat": -33.9618598,
+    "lng": 25.6186731
+  },
+  {
+    "id": "south-mapo-fm-1007",
+    "name": "Mapo FM 100.7",
+    "url": "http://onair.mapofm.net/mapofm",
+    "genre": "Music",
+    "city": "Seoul",
+    "country": "South Korea",
+    "lat": 37.5666791,
+    "lng": 126.9782914
+  },
+  {
+    "id": "south-wbs-fm-897",
+    "name": "WBS FM 89.7",
+    "url": "https://wbsradio.kr/wbs-seoul",
+    "genre": "Music",
+    "city": "Seoul",
+    "country": "South Korea",
+    "lat": 37.5666791,
+    "lng": 126.9782914
+  },
+  {
+    "id": "south-fox-news-radio",
+    "name": "Fox News Radio",
+    "url": "https://prod-54-162-2-81.amperwave.net/foxnewsradio-foxnewsradioaac-imc?session-id=5bad57cfc111e133207e2a5136b807bf",
+    "genre": "Music",
+    "city": "South Plainfield NJ",
+    "country": "United States",
+    "lat": 40.5786287,
+    "lng": -74.4096955
+  },
+  {
+    "id": "south-ofm-fm-962",
+    "name": "OFM FM 96.2",
+    "url": "https://edge.iono.fm/xice/ofm_live_medium.mp3",
+    "genre": "Music",
+    "city": "Bloemfontein",
+    "country": "South Africa",
+    "lat": -29.116395,
+    "lng": 26.215496
+  },
+  {
+    "id": "south-magic-983--wmgq",
+    "name": "Magic 98.3 - WMGQ",
+    "url": "https://23103.live.streamtheworld.com:443/WMGQFMAACIHR.aac",
+    "genre": "Music",
+    "city": "South Plainfield NJ",
+    "country": "United States",
+    "lat": 40.5786287,
+    "lng": -74.4096955
+  },
+  {
+    "id": "south-free-state-fm",
+    "name": "Free State FM",
+    "url": "http://167.114.156.116:8670/stream",
+    "genre": "Music",
+    "city": "Bloemfontein",
+    "country": "South Africa",
+    "lat": -29.116395,
+    "lng": 26.215496
+  },
+  {
+    "id": "south-wbs-광주원음방송-1079",
+    "name": "WBS 광주원음방송 107.9",
+    "url": "https://wbsradio2.kr/wbs-g",
+    "genre": "Music",
+    "city": "Seoul",
+    "country": "South Korea",
+    "lat": 37.5666791,
+    "lng": 126.9782914
+  },
+  {
+    "id": "south-rosestad-fm-1006",
+    "name": "Rosestad FM 100.6",
+    "url": "https://edge.iono.fm/xice/122_medium.aac",
+    "genre": "Music",
+    "city": "Bloemfontein",
+    "country": "South Africa",
+    "lat": -29.116395,
+    "lng": 26.215496
+  },
+  {
+    "id": "south-wbs-부산원음방송-1049",
+    "name": "WBS 부산원음방송 104.9",
+    "url": "https://wbsradio2.kr/wbs-b",
+    "genre": "Music",
+    "city": "Seoul",
+    "country": "South Korea",
+    "lat": 37.5666791,
+    "lng": 126.9782914
+  },
+  {
+    "id": "south-rainbow-gospel-radio",
+    "name": "Rainbow Gospel Radio",
+    "url": "http://102.130.114.184:8000/index.html;audio.mp3",
+    "genre": "Music",
+    "city": "Bloemfontein",
+    "country": "South Africa",
+    "lat": -29.116395,
+    "lng": 26.215496
+  },
+  {
+    "id": "south-radio-maria-fm-1033",
+    "name": "Radio Maria FM 103.3",
+    "url": "https://dreamsiteradiocp5.com/proxy/rmlesotho?mp=/stream?ver=714555",
+    "genre": "Music",
+    "city": "Bloemfontein",
+    "country": "South Africa",
+    "lat": -29.116395,
+    "lng": 26.215496
+  },
+  {
+    "id": "south-gold-fm-1043",
+    "name": "Gold FM 104.3",
+    "url": "http://88.198.119.244:8000/stream.mp3?_=1",
+    "genre": "Music",
+    "city": "Bloemfontein",
+    "country": "South Africa",
+    "lat": -29.116395,
+    "lng": 26.215496
+  },
+  {
+    "id": "south-pyongyang-fm-1052",
+    "name": "Pyongyang FM 105.2",
+    "url": "https://listen7.myradio24.com/69366",
+    "genre": "Music",
+    "city": "Seoul",
+    "country": "South Korea",
+    "lat": 37.5666791,
+    "lng": 126.9782914
+  },
+  {
+    "id": "south-my-hangul-cafe-online-radio",
+    "name": "My Hangul Cafe Online Radio",
+    "url": "https://stream-176.zeno.fm/4zhg2xz4138uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0emhnMnh6NDEzOHV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoia3A1aEZYQjVTQ0tvUWZKVVB2TU9EQSIsImlhdCI6MTc2OTQyMzEzMCwiZXhwIjoxNzY5NDIzMTkwfQ.9v26bQvpkNRR6CY49x20e9xtc11WzBKEojyIOvzx7FU",
+    "genre": "Music",
+    "city": "Seoul",
+    "country": "South Korea",
+    "lat": 37.5666791,
+    "lng": 126.9782914
+  },
+  {
+    "id": "south-overvaal-stereo",
+    "name": "Overvaal Stereo",
+    "url": "https://cast3.my-control-panel.com/proxy/overvaalstereo/stream",
+    "genre": "Music",
+    "city": "Bloemfontein",
+    "country": "South Africa",
+    "lat": -29.116395,
+    "lng": 26.215496
+  },
+  {
+    "id": "south-afn-sasebo-fm-931",
+    "name": "AFN Sasebo FM 93.1",
+    "url": "https://28563.live.streamtheworld.com:443/AFNP_SBO.mp3",
+    "genre": "Music",
+    "city": "Seoul",
+    "country": "South Korea",
+    "lat": 37.5666791,
+    "lng": 126.9782914
+  },
+  {
+    "id": "south-radio-bloem",
+    "name": "Radio Bloem",
+    "url": "https://stream-165.zeno.fm/9fg1eqywrf9uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI5ZmcxZXF5d3JmOXV2IiwiaG9zdCI6InN0cmVhbS0xNjUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiOTVrV1BQZnpRWWFHSkxWWWpSVFBRdyIsImlhdCI6MTc2OTQyMzEzMiwiZXhwIjoxNzY5NDIzMTkyfQ.-xuHdQctyu1NyOBoBeNdPBRgQH0kJODjfakxr7mouSM",
+    "genre": "Music",
+    "city": "Bloemfontein",
+    "country": "South Africa",
+    "lat": -29.116395,
+    "lng": 26.215496
+  },
+  {
+    "id": "south-lesedi-fm",
+    "name": "Lesedi FM",
+    "url": "https://28993.live.streamtheworld.com:443/LESEDIAAC.aac",
+    "genre": "Music",
+    "city": "Bloemfontein",
+    "country": "South Africa",
+    "lat": -29.116395,
+    "lng": 26.215496
+  },
+  {
+    "id": "south-yahweh-radio",
+    "name": "Yahweh Radio",
+    "url": "https://s3.radio.co/s22189b87c/listen",
+    "genre": "Music",
+    "city": "Seoul",
+    "country": "South Korea",
+    "lat": 37.5666791,
+    "lng": 126.9782914
+  },
+  {
+    "id": "south-arirang-radio-fm-914",
+    "name": "Arirang Radio FM 91.4",
+    "url": "https://lhttp.qingting.fm/live/5022144/64k.mp3",
+    "genre": "Music",
+    "city": "Seoul",
+    "country": "South Korea",
+    "lat": 37.5666791,
+    "lng": 126.9782914
+  }
+]

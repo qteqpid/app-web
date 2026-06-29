@@ -1,0 +1,572 @@
+[
+    {
+        "name": "Best On Top Radio",
+        "city": "Riyadh",
+        "country": "Saudi Arabia",
+        "url": "http://198.7.62.157:10008/stream"
+    },
+    {
+        "name": "Radio Hof Eilat",
+        "city": "Jeddah",
+        "country": "Saudi Arabia",
+        "url": "https://ec1.yesstreaming.net:3815/stream"
+    },
+    {
+        "name": "Times Square Radio 102.5 FM",
+        "city": "Riyadh",
+        "country": "Saudi Arabia",
+        "url": "https://edge.mixlr.com/channel/slpyo"
+    },
+    {
+        "name": "Alif Alif FM",
+        "city": "Riyadh",
+        "country": "Saudi Arabia",
+        "url": "https://alifalifjobs.com/radio/8000/AlifAlifLive.mp3"
+    },
+    {
+        "name": "Radio Asharq with Bloomberg",
+        "city": "Riyadh",
+        "country": "Saudi Arabia",
+        "url": "https://l3.itworkscdn.net/asharqradioalive/asharqradioa/icecast.audio"
+    },
+    {
+        "name": "Aywa FM",
+        "city": "Radio Sunna",
+        "country": "Mecca, Saudi Arabia",
+        "url": "https://cast4.asurahosting.com/proxy/aywafm/stream"
+    },
+    {
+        "name": "Sudan Hope Radio",
+        "city": "Jeddah",
+        "country": "Saudi Arabia",
+        "url": "https://a1.asurahosting.com/listen/hope_radio_/radio.mp3"
+    },
+    {
+        "name": "Voice of Ummah",
+        "city": "Riyadh",
+        "country": "Saudi Arabia",
+        "url": "https://mediati.me/radio/8010/radio.mp3"
+    },
+    {
+        "name": "Miraath Al Anbiyya",
+        "city": "Riyadh",
+        "country": "Saudi Arabia",
+        "url": "https://radio.al7eah.net/8010/stream"
+    },
+    {
+        "name": "Radio Sunna",
+        "city": "Riyadh",
+        "country": "Saudi Arabia",
+        "url": "http://andromeda.shoutca.st:8189/stream"
+    },
+    {
+        "name": "Mareb Radio 89.5 FM",
+        "city": "Radio Sunna",
+        "country": "Mecca, Saudi Arabia",
+        "url": "https://radio.al7eah.net/8034/stream"
+    },
+    {
+        "name": "Live FM 107.2",
+        "city": "Riyadh",
+        "country": "Saudi Arabia",
+        "url": "https://stream-14.aiir.com/dbv0rxpwp6ytv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJkYnYwcnhwd3A2eXR2IiwiaG9zdCI6InN0cmVhbS0xNC5haWlyLmNvbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiM0dVa0hIN2FUR092ejB4OTk4OXpVUSIsImlhdCI6MTc2OTQyMjY3NiwiZXhwIjoxNzY5NDIyNzM2fQ.bIBNd1_iQZVfdYHbJZJ6EmoJ2ycEYTbQcvG_bmfRLVc"
+    },
+    {
+        "name": "Radio UFM 90.0",
+        "city": "Riyadh",
+        "country": "Saudi Arabia",
+        "url": "https://stream.ufmradio.com:8003/"
+    },
+    {
+        "name": "۩ السيادة ۩",
+        "city": "Jeddah",
+        "country": "Saudi Arabia",
+        "url": "https://tijaniyyah.asuscomm.com:8000/stream/6/"
+    },
+    {
+        "name": "❦ أهل الصفا ❦ Clubhouse",
+        "city": "Radio Sunna",
+        "country": "Mecca, Saudi Arabia",
+        "url": "https://tijaniyyah.asuscomm.com:8000/stream/4/"
+    },
+    {
+        "name": "Sauti Ya Pwani FM 94.2",
+        "city": "Sauti Ya Pwani FM 94.2",
+        "country": "Mombasa, Kenya",
+        "url": "https://sapircast.caster.fm:15853/QtKG2"
+    },
+    {
+        "name": "MDLBeast Radio",
+        "city": "Riyadh",
+        "country": "Saudi Arabia",
+        "url": "https://n08.rcs.revma.com/4ygprgzk0a3vv?rj-ttl=5&rj-tok=AAABm_nYjz0AxuCuqDHMg6qtBg"
+    },
+    {
+        "name": "Radio Rahma FM 91.5",
+        "city": "Sauti Ya Pwani FM 94.2",
+        "country": "Mombasa, Kenya",
+        "url": "https://stream-153.zeno.fm/2rhabq5yc5zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIycmhhYnE1eWM1enV2IiwiaG9zdCI6InN0cmVhbS0xNTMuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiR2M5SGRDa3FST1dNRVFQaTdjMlhlUSIsImlhdCI6MTc2OTQyMjY3OCwiZXhwIjoxNzY5NDIyNzM4fQ.Ml0iY03Sm6Ercft0pF-ynEdJp9pbI1Q5xzCtcLqeuEw"
+    },
+    {
+        "name": "Sifa FM Voi 107.7",
+        "city": "Sauti Ya Pwani FM 94.2",
+        "country": "Mombasa, Kenya",
+        "url": "https://audio-edge-fvq45.ams.d.radiomast.io/55362b64-fae9-4901-af1f-2a5912e27073"
+    },
+    {
+        "name": "Hope FM 93.3",
+        "city": "Sauti Ya Pwani FM 94.2",
+        "country": "Mombasa, Kenya",
+        "url": "https://a5.asurahosting.com:7530/radio.mp3"
+    },
+    {
+        "name": "Radio Kaya FM 93.1",
+        "city": "Sauti Ya Pwani FM 94.2",
+        "country": "Mombasa, Kenya",
+        "url": "https://usa9-vn.mixstream.net/:8084/index.html?sid=1"
+    },
+    {
+        "name": "Shalom Radio FM 97.3",
+        "city": "Sauti Ya Pwani FM 94.2",
+        "country": "Mombasa, Kenya",
+        "url": "https://uk3-vn.mixstream.net/:8144/listen.mp3"
+    },
+    {
+        "name": "NRG Radio 97.1 FM",
+        "city": "Sauti Ya Pwani FM 94.2",
+        "country": "Mombasa, Kenya",
+        "url": "https://uksouth.streaming.broadcast.radio/nrg"
+    },
+    {
+        "name": "Mjini FM 92.5",
+        "city": "Sauti Ya Quran FM",
+        "country": "Dar es Salaam, Tanzania",
+        "url": "http://196.200.227.154:8000/mjinifm.mp3"
+    },
+    {
+        "name": "Radio Kaya FM 91.3",
+        "city": "Sauti Ya Pwani FM 94.2",
+        "country": "Mombasa, Kenya",
+        "url": "https://usa9-vn.mixstream.net/:8084/listen.mp3"
+    },
+    {
+        "name": "Boresha Radio",
+        "city": "Sauti Ya Quran FM",
+        "country": "Dar es Salaam, Tanzania",
+        "url": "https://halo.streamerr.co/listen/radio_boresha/radio.mp3"
+    },
+    {
+        "name": "Coco FM Radio 98.9",
+        "city": "Sauti Ya Pwani FM 94.2",
+        "country": "Mombasa, Kenya",
+        "url": "https://stream-146.zeno.fm/ki2jypviprwuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJraTJqeXB2aXByd3V2IiwiaG9zdCI6InN0cmVhbS0xNDYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoidGxRcFQ5ZlpTa1dXeU1Oa2hZaGI3dyIsImlhdCI6MTc2OTQyMjY3OSwiZXhwIjoxNzY5NDIyNzM5fQ.RrSisWA7-uT_tiNW2WpDsYehh7gUolNXK0ncv-YgFJQ"
+    },
+    {
+        "name": "Midundo Online Radio",
+        "city": "Sauti Ya Quran FM",
+        "country": "Dar es Salaam, Tanzania",
+        "url": "http://midundo.fauluhost.co.tz:8000/_a"
+    },
+    {
+        "name": "Sauti Ya Quran FM",
+        "city": "Sauti Ya Pwani FM 94.2",
+        "country": "Mombasa, Kenya",
+        "url": "https://stream-177.zeno.fm/igtk1anecmcvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJpZ3RrMWFuZWNtY3Z2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiYk1kbFNSZl9RNnFtcVE5eVY2azlXZyIsImlhdCI6MTc2OTQyMjY3OSwiZXhwIjoxNzY5NDIyNzM5fQ.v7TJMCgtIIPANnHhaApC5Qd5kbWuRxw3eZnQCY6qsu4"
+    },
+    {
+        "name": "Kitime Zama Zile Radio",
+        "city": "Sauti Ya Quran FM",
+        "country": "Dar es Salaam, Tanzania",
+        "url": "https://cast1.asurahosting.com/proxy/kitimemu/stream"
+    },
+    {
+        "name": "Swahilipot FM 91.7",
+        "city": "Sauti Ya Pwani FM 94.2",
+        "country": "Mombasa, Kenya",
+        "url": "https://swahilipotfm.out.airtime.pro:8000/swahilipotfm_a"
+    },
+    {
+        "name": "Nuru Naiangaze Radio",
+        "city": "Sauti Ya Quran FM",
+        "country": "Dar es Salaam, Tanzania",
+        "url": "https://a2.asurahosting.com:6110/radio.mp3"
+    },
+    {
+        "name": "KBC English Service FM 95.6",
+        "city": "Sauti Ya Pwani FM 94.2",
+        "country": "Mombasa, Kenya",
+        "url": "https://stream-159.zeno.fm/mhmwnyyst5quv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJtaG13bnl5c3Q1cXV2IiwiaG9zdCI6InN0cmVhbS0xNTkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiRmR0VmgyX0dTd3l0dDdtWktpZFpqUSIsImlhdCI6MTc2OTQyMjY4MCwiZXhwIjoxNzY5NDIyNzQwfQ.o0q6vlLylyn-_1bmCOOrj9Hw8eOO3VjxasfjxoUHzis"
+    },
+    {
+        "name": "Crown FM 92.1",
+        "city": "Sauti Ya Quran FM",
+        "country": "Dar es Salaam, Tanzania",
+        "url": "https://radio.crownmedia.co.tz:8443/crown"
+    },
+    {
+        "name": "Radio Maria Tanzania FM 89.1",
+        "city": "Sauti Ya Quran FM",
+        "country": "Dar es Salaam, Tanzania",
+        "url": "https://dreamsiteradiocp2.com/proxy/rmtanzania2?mp=/stream"
+    },
+    {
+        "name": "Clouds FM 88.5",
+        "city": "Sauti Ya Quran FM",
+        "country": "Dar es Salaam, Tanzania",
+        "url": "https://eu6.fastcast4u.com/proxy/cloudsfm?mp=/1"
+    },
+    {
+        "name": "Jesus Is Lord FM 105.9",
+        "city": "Sauti Ya Pwani FM 94.2",
+        "country": "Mombasa, Kenya",
+        "url": "https://s3.radio.co/s97f38db97/listen"
+    },
+    {
+        "name": "DAYO Radio",
+        "city": "Sauti Ya Pwani FM 94.2",
+        "country": "Mombasa, Kenya",
+        "url": "https://servidor40-5.brlogic.com:7120/live"
+    },
+    {
+        "name": "Blue Radio",
+        "city": "Sauti Ya Pwani FM 94.2",
+        "country": "Mombasa, Kenya",
+        "url": "https://servidor24.brlogic.com:7630/live"
+    },
+    {
+        "name": "Bongo FM",
+        "city": "Sauti Ya Quran FM",
+        "country": "Dar es Salaam, Tanzania",
+        "url": "https://a7.asurahosting.com:8660/radio.mp3"
+    },
+    {
+        "name": "Clip 80's Music",
+        "city": "Radio Aussel Pró Saúde",
+        "country": "São José dos Campos SP, Brazil",
+        "url": "https://radioclipfm.com:8000/radio.mp3"
+    },
+    {
+        "name": "UFM 107.3",
+        "city": "Sauti Ya Quran FM",
+        "country": "Dar es Salaam, Tanzania",
+        "url": "https://stream-168.zeno.fm/nzr36a3un0hvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJuenIzNmEzdW4waHZ2IiwiaG9zdCI6InN0cmVhbS0xNjguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiRU14WlVLd0FUNFNBUF90Zk9ncTZvdyIsImlhdCI6MTc2OTQyMjY4MywiZXhwIjoxNzY5NDIyNzQzfQ.tGHsEY6WvaALvNKPStpF9tpeYxJrw6oyVaOMpNTmh54"
+    },
+    {
+        "name": "Radio Joseense",
+        "city": "Radio Aussel Pró Saúde",
+        "country": "São José dos Campos SP, Brazil",
+        "url": "https://sv16.hdradios.net:7248/stream"
+    },
+    {
+        "name": "012 News",
+        "city": "Radio Aussel Pró Saúde",
+        "country": "São José dos Campos SP, Brazil",
+        "url": "https://9881.brasilstream.com.br/stream"
+    },
+    {
+        "name": "Pwani FM 103.1",
+        "city": "Sauti Ya Quran FM",
+        "country": "Dar es Salaam, Tanzania",
+        "url": "https://stream-152.zeno.fm/smhmfr1a94zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzbWhtZnIxYTk0enV2IiwiaG9zdCI6InN0cmVhbS0xNTIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoibFhpOWxvMUVUMmFJTHdIX2JFLVY1ZyIsImlhdCI6MTc2OTQyMjY4MywiZXhwIjoxNzY5NDIyNzQzfQ.tczuq_PbAyM_LHnCAYdYQfsjwKa4JUablnQB-z3JZH8"
+    },
+    {
+        "name": "Radio Tumaini 92.9 FM",
+        "city": "Sauti Ya Quran FM",
+        "country": "Dar es Salaam, Tanzania",
+        "url": "https://stream-163.zeno.fm/nu9qfhxx9reuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJudTlxZmh4eDlyZXV2IiwiaG9zdCI6InN0cmVhbS0xNjMuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiRjM0RGxNYVJSRjY2MHVJUU1BWTItQSIsImlhdCI6MTc2OTQyMjY4MywiZXhwIjoxNzY5NDIyNzQzfQ.mVhWIfSyzbLTbRS2eSHJ3Y5SpqLDDYcw5MhrE1_jwS0"
+    },
+    {
+        "name": "Radio Aussel Pró Saúde",
+        "city": "Radio Aussel Pró Saúde",
+        "country": "São José dos Campos SP, Brazil",
+        "url": "https://hts04.brascast.com:8696/live"
+    },
+    {
+        "name": "ImbaNasi",
+        "city": "Sauti Ya Quran FM",
+        "country": "Dar es Salaam, Tanzania",
+        "url": "https://stream-161.zeno.fm/dsfhivkawjiuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJkc2ZoaXZrYXdqaXV2IiwiaG9zdCI6InN0cmVhbS0xNjEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiVmhiWk1UWUZRODJGM213LUEzV0VPQSIsImlhdCI6MTc2OTQyMjY4MywiZXhwIjoxNzY5NDIyNzQzfQ.hHwFvU-bVpbhicE37hiT2MEYRnZ8O9EWW5hDtmKmimc"
+    },
+    {
+        "name": "Rádio Musical Net",
+        "city": "Radio Aussel Pró Saúde",
+        "country": "São José dos Campos SP, Brazil",
+        "url": "https://ssl.xcast.com.br:11148/"
+    },
+    {
+        "name": "Jambeiro FM 104.9",
+        "city": "Radio Aussel Pró Saúde",
+        "country": "São José dos Campos SP, Brazil",
+        "url": "https://cast4.hoost.com.br:20010/stream"
+    },
+    {
+        "name": "Rádio Vivência Espírita",
+        "city": "Radio Aussel Pró Saúde",
+        "country": "São José dos Campos SP, Brazil",
+        "url": "https://radio.vivenciaespirita.org/listen/vivenciaespirita/radio.mp3"
+    },
+    {
+        "name": "Otima FM 90.3",
+        "city": "Radio Aussel Pró Saúde",
+        "country": "São José dos Campos SP, Brazil",
+        "url": "https://f108.fabricahost.com.br/otimafm903?f=1769422685N01KFWWZ1CTRZA9S71JFD7P27EJ&tid=01KFWWZ1CTYQPBWTZNEC81TNDX"
+    },
+    {
+        "name": "Stereo Vale FM 103.9",
+        "city": "Radio Aussel Pró Saúde",
+        "country": "São José dos Campos SP, Brazil",
+        "url": "https://stm11.xcast.com.br:12086/stream"
+    },
+    {
+        "name": "Radio Free Africa FM 89.8",
+        "city": "Sauti Ya Quran FM",
+        "country": "Dar es Salaam, Tanzania",
+        "url": "https://s3.radio.co/s8df0149e0/listen"
+    },
+    {
+        "name": "Rádio Web Horizonte",
+        "city": "Radio Aussel Pró Saúde",
+        "country": "São José dos Campos SP, Brazil",
+        "url": "https://stream1.svrdedicado.org/8568/stream"
+    },
+    {
+        "name": "Jovem Pan 94.3 FM",
+        "city": "Radio Aussel Pró Saúde",
+        "country": "São José dos Campos SP, Brazil",
+        "url": "https://r15.ciclano.io/proxy/radiomu1/stream"
+    },
+    {
+        "name": "Rádio Missionários de Cristo",
+        "city": "Radio Aussel Pró Saúde",
+        "country": "São José dos Campos SP, Brazil",
+        "url": "https://hts05.brascast.com:12486/live"
+    },
+    {
+        "name": "East Africa Radio FM 88.1",
+        "city": "Sauti Ya Quran FM",
+        "country": "Dar es Salaam, Tanzania",
+        "url": "https://eatv.radioca.st/stream"
+    },
+    {
+        "name": "Capital FM 88.5",
+        "city": "Radio Aussel Pró Saúde",
+        "country": "São José dos Campos SP, Brazil",
+        "url": "https://f100.fabricahost.com.br/capitalfm885?f=1769422686N01KFWWZ27P63RG8FVHV4C5325F&tid=01KFWWZ27PB95EJ6K11YVGJGX1"
+    },
+    {
+        "name": "8 FM",
+        "city": "Radio Aussel Pró Saúde",
+        "country": "São José dos Campos SP, Brazil",
+        "url": "https://server24.srvsh.com.br:7050/stream"
+    },
+    {
+        "name": "Radio Classic Hits",
+        "city": "Radio Aussel Pró Saúde",
+        "country": "São José dos Campos SP, Brazil",
+        "url": "https://stm.srvaudio.com.br:9790/index.html?sid=1"
+    },
+    {
+        "name": "WETF 105.7 FM",
+        "city": "South Bend IN",
+        "country": "United States",
+        "url": "https://ssl-proxy.icastcenter.com/get.php?type=Icecast&server=199.180.72.2&port=9007&mount=/stream&data=mp3"
+    },
+    {
+        "name": "U93 - WNDV-FM 92.9",
+        "city": "South Bend IN",
+        "country": "United States",
+        "url": "https://soundmanagement.streamguys1.com/WNDV"
+    },
+    {
+        "name": "Rádio Itatiaia",
+        "city": "Radio Aussel Pró Saúde",
+        "country": "São José dos Campos SP, Brazil",
+        "url": "https://8903.brasilstream.com.br/stream"
+    },
+    {
+        "name": "Rock 97.7",
+        "city": "South Bend IN",
+        "country": "United States",
+        "url": "https://soundmanagement.streamguys1.com/WYXX"
+    },
+    {
+        "name": "Smooth Jazz 24/7",
+        "city": "South Bend IN",
+        "country": "United States",
+        "url": "https://ais-edge89-dal02.cdnstream.com/2124_128.mp3"
+    },
+    {
+        "name": "ABN Old-Time Radio AM 1610",
+        "city": "South Bend IN",
+        "country": "United States",
+        "url": "https://s6.yesstreaming.net:18000/listen"
+    },
+    {
+        "name": "Antena 1",
+        "city": "Radio Aussel Pró Saúde",
+        "country": "São José dos Campos SP, Brazil",
+        "url": "https://antenaone.crossradio.com.br/stream"
+    },
+    {
+        "name": "KBRW-AM 680",
+        "city": "South Bend IN",
+        "country": "United States",
+        "url": "https://tektite.streamguys1.com:5345/live"
+    },
+    {
+        "name": "KOKO LP Radio 96.3 FM",
+        "city": "South Bend IN",
+        "country": "United States",
+        "url": "https://s2.yesstreaming.net:7031/stream"
+    },
+    {
+        "name": "Radijo Klubas 99.4 FM",
+        "city": "Šiauliai",
+        "country": "Lithuania",
+        "url": "http://didzdvaris.vinlita.lt:8009/stream.aac"
+    },
+    {
+        "name": "Rado la Raza FM 98.1",
+        "city": "South Bend IN",
+        "country": "United States",
+        "url": "https://casthd.net/8010/stream"
+    },
+    {
+        "name": "Saules Radijas 102.5 FM",
+        "city": "Šiauliai",
+        "country": "Lithuania",
+        "url": "https://saule-mp3.vinlita.lt/stream"
+    },
+    {
+        "name": "Latvijas Radio 5 - Pieci Latgalieši",
+        "city": "Šiauliai",
+        "country": "Lithuania",
+        "url": "https://live.pieci.lv/live22-hq.mp3"
+    },
+    {
+        "name": "Puko Radijas 2 FM 100.9",
+        "city": "Šiauliai",
+        "country": "Lithuania",
+        "url": "http://212.95.39.164:8074/stream"
+    },
+    {
+        "name": "Rádio JB FM 99,9",
+        "city": "Radio Aussel Pró Saúde",
+        "country": "São José dos Campos SP, Brazil",
+        "url": "https://27343.live.streamtheworld.com:443/JBFMAAC.aac"
+    },
+    {
+        "name": "Grace Today",
+        "city": "South Bend IN",
+        "country": "United States",
+        "url": "https://gracetoday.out.airtime.pro/gracetoday_a"
+    },
+    {
+        "name": "Fox News Radio",
+        "city": "South Bend IN",
+        "country": "United States",
+        "url": "https://prod-3-86-26-249.amperwave.net/foxnewsradio-foxnewsradioaac-imc?session-id=796167fac66e3fea4fac19bd24182b4e"
+    },
+    {
+        "name": "Alpha FM 101.7",
+        "city": "Radio Aussel Pró Saúde",
+        "country": "São José dos Campos SP, Brazil",
+        "url": "https://26523.live.streamtheworld.com:443/RADIO_ALPHAFMAAC.aac"
+    },
+    {
+        "name": "Rádio Planície",
+        "city": "Évora",
+        "country": "Portugal",
+        "url": "http://109.71.41.6:8026/stream/"
+    },
+    {
+        "name": "97.5 Y Country - WYTZ",
+        "city": "South Bend IN",
+        "country": "United States",
+        "url": "https://14223.live.streamtheworld.com:443/WYTZFMAAC.aac"
+    },
+    {
+        "name": "Relax FM",
+        "city": "Šiauliai",
+        "country": "Lithuania",
+        "url": "https://stream2.relaxfm.lt/relaxfm128.mp3"
+    },
+    {
+        "name": "Gold FM 102.6",
+        "city": "Šiauliai",
+        "country": "Lithuania",
+        "url": "https://stream.goldfm.lt/goldfm.mp3"
+    },
+    {
+        "name": "TSF Rádio Notícias 89.5 FM",
+        "city": "Évora",
+        "country": "Portugal",
+        "url": "https://directo.tsf.pt/tsfdirecto.mp3"
+    },
+    {
+        "name": "Rádio Nova Antena",
+        "city": "Évora",
+        "country": "Portugal",
+        "url": "https://radios2.justweb.pt/8068/stream"
+    },
+    {
+        "name": "Power Hit Radio FM 95.9",
+        "city": "Šiauliai",
+        "country": "Lithuania",
+        "url": "https://n11.rcs.revma.com/f31w7e0fveuvv?rj-ttl=5&rj-tok=AAABm_nYxyQAt7EeYDlQXi0jbg"
+    },
+    {
+        "name": "FM99",
+        "city": "Šiauliai",
+        "country": "Lithuania",
+        "url": "https://securestream.casthost.net:8617/fm99"
+    },
+    {
+        "name": "Radijo Stotis M-1",
+        "city": "Šiauliai",
+        "country": "Lithuania",
+        "url": "https://stream.m-1.fm/m1/aacp64"
+    },
+    {
+        "name": "Antena Sul",
+        "city": "Évora",
+        "country": "Portugal",
+        "url": "https://nl.digitalrm.pt:8022/stream"
+    },
+    {
+        "name": "Rádio ESDG",
+        "city": "Évora",
+        "country": "Portugal",
+        "url": "https://stream-177.zeno.fm/0emqj6gcjpzvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwZW1xajZnY2pwenZ2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiQXRBY1AxOHVSSmlvNmN4OGs5RlNaUSIsImlhdCI6MTc2OTQyMjY5MywiZXhwIjoxNzY5NDIyNzUzfQ.qjZj-eLqKJ7UOI7DAfiHHZXdPIVOKVMMTw-dtxdhC6w"
+    },
+    {
+        "name": "WAUS FM 90.7",
+        "city": "South Bend IN",
+        "country": "United States",
+        "url": "https://waus.streamguys1.com/live"
+    },
+    {
+        "name": "Antena 1",
+        "city": "Évora",
+        "country": "Portugal",
+        "url": "https://radiocast.rtp.pt/antena180a.mp3"
+    },
+    {
+        "name": "RFM",
+        "city": "Évora",
+        "country": "Portugal",
+        "url": "https://27903.live.streamtheworld.com:443/RFMAAC.aac"
+    },
+    {
+        "name": "Rádio Renascença",
+        "city": "Évora",
+        "country": "Portugal",
+        "url": "https://22183.live.streamtheworld.com:443/RADIO_RENASCENCAAAC.aac"
+    },
+    {
+        "name": "Rádio Observador FM 98.7",
+        "city": "Évora",
+        "country": "Portugal",
+        "url": "https://centova.radio.com.pt/proxy/455?mp=/stream"
+    }
+]

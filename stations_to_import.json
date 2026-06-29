@@ -1,0 +1,4572 @@
+[
+  {
+    "id": "cn-bj1",
+    "name": "北京新闻广播 FM100.6",
+    "url": "http://ls.qingting.fm/live/339.m3u8",
+    "genre": "News",
+    "city": "Beijing",
+    "country": "China",
+    "lat": 39.9042,
+    "lng": 116.4074
+  },
+  {
+    "id": "cn-bj2",
+    "name": "北京音乐广播 FM97.4",
+    "url": "http://ls.qingting.fm/live/332.m3u8",
+    "genre": "News",
+    "city": "Beijing",
+    "country": "China",
+    "lat": 39.9042,
+    "lng": 116.4074
+  },
+  {
+    "id": "cn-bj3",
+    "name": "北京交通广播 FM103.9",
+    "url": "http://ls.qingting.fm/live/336.m3u8",
+    "genre": "News",
+    "city": "Beijing",
+    "country": "China",
+    "lat": 39.9042,
+    "lng": 116.4074
+  },
+  {
+    "id": "cn-bj4",
+    "name": "中国之声",
+    "url": "http://ngcdn001.cnr.cn/live/zgzs/index.m3u8",
+    "genre": "News",
+    "city": "Beijing",
+    "country": "China",
+    "lat": 39.9042,
+    "lng": 116.4074
+  },
+  {
+    "id": "cn-sh1",
+    "name": "上海人民广播电台 FM93.4",
+    "url": "http://ls.qingting.fm/live/270.m3u8",
+    "genre": "Pop Music",
+    "city": "Shanghai",
+    "country": "China",
+    "lat": 31.2304,
+    "lng": 121.4737
+  },
+  {
+    "id": "cn-gd1",
+    "name": "广东新闻频道 FM91.4",
+    "url": "http://ls.qingting.fm/live/1254.m3u8",
+    "genre": "Cantonese Pop",
+    "city": "Guangzhou",
+    "country": "China",
+    "lat": 23.1291,
+    "lng": 113.2644
+  },
+  {
+    "id": "us-kexp",
+    "name": "KEXP 90.3 FM",
+    "url": "https://kexp-mp3-128.streamguys1.com/kexp128.mp3",
+    "genre": "Alternative / Indie",
+    "city": "Seattle",
+    "country": "United States",
+    "lat": 47.6062,
+    "lng": -122.3321
+  },
+  {
+    "id": "us-wfmu",
+    "name": "WFMU 91.1 FM",
+    "url": "https://stream0.wfmu.org/freeform-128k.mp3",
+    "genre": "Freeform",
+    "city": "Jersey City",
+    "country": "United States",
+    "lat": 40.7282,
+    "lng": -74.0776
+  },
+  {
+    "id": "us-wxpn",
+    "name": "WXPN 88.5 FM",
+    "url": "https://wxpnhi.xpn.org/xpnhi",
+    "genre": "Adult Album Alternative",
+    "city": "Philadelphia",
+    "country": "United States",
+    "lat": 39.9526,
+    "lng": -75.1652
+  },
+  {
+    "id": "us-kqed",
+    "name": "KQED 88.5 FM",
+    "url": "https://streams.kqed.org/kqedradio",
+    "genre": "Public Radio / News",
+    "city": "San Francisco",
+    "country": "United States",
+    "lat": 37.7749,
+    "lng": -122.4194
+  },
+  {
+    "id": "love-radio-fm1037",
+    "name": "Love Radio FM103.7",
+    "url": "http://ls.qingting.fm/live/273.m3u8",
+    "genre": "Music",
+    "city": "Shanghai",
+    "country": "China",
+    "lat": 31.2304,
+    "lng": 121.4737
+  },
+  {
+    "id": "my-fm-xian-fm1055",
+    "name": "MY FM 西安 FM105.5",
+    "url": "http://ls.qingting.fm/live/4885.m3u8",
+    "genre": "Music",
+    "city": "Xian",
+    "country": "China",
+    "lat": 34.2658,
+    "lng": 108.9542
+  },
+  {
+    "id": "beijing-city-fm1073",
+    "name": "北京城市广播 FM107.3",
+    "url": "http://ls.qingting.fm/live/345.m3u8",
+    "genre": "News",
+    "city": "Beijing",
+    "country": "China",
+    "lat": 39.9042,
+    "lng": 116.4074
+  },
+  {
+    "id": "beijing-sports-fm1025",
+    "name": "北京体育广播 FM102.5",
+    "url": "http://ls.qingting.fm/live/335.m3u8",
+    "genre": "Sports",
+    "city": "Beijing",
+    "country": "China",
+    "lat": 39.9042,
+    "lng": 116.4074
+  },
+  {
+    "id": "beijing-literature-fm876",
+    "name": "北京文艺广播 FM87.6",
+    "url": "http://ls.qingting.fm/live/333.m3u8",
+    "genre": "Arts",
+    "city": "Beijing",
+    "country": "China",
+    "lat": 39.9042,
+    "lng": 116.4074
+  },
+  {
+    "id": "beijing-good-music-fm959",
+    "name": "北京好音乐 FM95.9",
+    "url": "http://ls.qingting.fm/live/2131011.m3u8",
+    "genre": "Music",
+    "city": "Beijing",
+    "country": "China",
+    "lat": 39.9042,
+    "lng": 116.4074
+  },
+  {
+    "id": "beijing-sunshine-fm986",
+    "name": "北京阳光调频 FM98.6",
+    "url": "http://ls.qingting.fm/live/2507637.m3u8",
+    "genre": "Music",
+    "city": "Beijing",
+    "country": "China",
+    "lat": 39.9042,
+    "lng": 116.4074
+  },
+  {
+    "id": "chongqing-news-fm968",
+    "name": "重庆新闻广播 FM96.8",
+    "url": "http://ls.qingting.fm/live/1498.m3u8",
+    "genre": "News",
+    "city": "Chongqing",
+    "country": "China",
+    "lat": 29.4316,
+    "lng": 106.9123
+  },
+  {
+    "id": "chongqing-economic-fm1015",
+    "name": "重庆经济广播 FM101.5",
+    "url": "http://ls.qingting.fm/live/1499.m3u8",
+    "genre": "News",
+    "city": "Chongqing",
+    "country": "China",
+    "lat": 29.4316,
+    "lng": 106.9123
+  },
+  {
+    "id": "chongqing-traffic-fm955",
+    "name": "重庆交通广播 FM95.5",
+    "url": "http://ls.qingting.fm/live/1500.m3u8",
+    "genre": "Traffic",
+    "city": "Chongqing",
+    "country": "China",
+    "lat": 29.4316,
+    "lng": 106.9123
+  },
+  {
+    "id": "chongqing-music-fm881",
+    "name": "重庆音乐广播 FM88.1",
+    "url": "http://ls.qingting.fm/live/647.m3u8",
+    "genre": "Music",
+    "city": "Chongqing",
+    "country": "China",
+    "lat": 29.4316,
+    "lng": 106.9123
+  },
+  {
+    "id": "chongqing-city-fm938",
+    "name": "重庆都市广播 FM93.8",
+    "url": "http://ls.qingting.fm/live/1502.m3u8",
+    "genre": "News",
+    "city": "Chongqing",
+    "country": "China",
+    "lat": 29.4316,
+    "lng": 106.9123
+  },
+  {
+    "id": "bayu-voice-fm1045",
+    "name": "巴渝之声 FM104.5",
+    "url": "http://ls.qingting.fm/live/3545693.m3u8",
+    "genre": "News",
+    "city": "Chongqing",
+    "country": "China",
+    "lat": 29.4316,
+    "lng": 106.9123
+  },
+  {
+    "id": "jiangsu-traffic-fm1011",
+    "name": "江苏交通广播 FM101.1",
+    "url": "http://ls.qingting.fm/live/4054.m3u8",
+    "genre": "Traffic",
+    "city": "Nanjing",
+    "country": "China",
+    "lat": 32.0603,
+    "lng": 118.7969
+  },
+  {
+    "id": "jiangsu-news-fm937",
+    "name": "江苏新闻广播 FM93.7",
+    "url": "http://ls.qingting.fm/live/4944.m3u8",
+    "genre": "News",
+    "city": "Nanjing",
+    "country": "China",
+    "lat": 32.0603,
+    "lng": 118.7969
+  },
+  {
+    "id": "nantong-traffic-fm929",
+    "name": "南通交通广播 FM92.9",
+    "url": "http://ls.qingting.fm/live/2216385.m3u8",
+    "genre": "Traffic",
+    "city": "Nantong",
+    "country": "China",
+    "lat": 32.0617,
+    "lng": 120.8726
+  },
+  {
+    "id": "nantong-private-fm1061",
+    "name": "南通私家车广播 FM106.1",
+    "url": "http://ls.qingting.fm/live/1738915.m3u8",
+    "genre": "Music",
+    "city": "Nantong",
+    "country": "China",
+    "lat": 32.0617,
+    "lng": 120.8726
+  },
+  {
+    "id": "nantong-news-fm970",
+    "name": "南通新闻广播 FM97.0",
+    "url": "http://ls.qingting.fm/live/1611381.m3u8",
+    "genre": "News",
+    "city": "Nantong",
+    "country": "China",
+    "lat": 32.0617,
+    "lng": 120.8726
+  },
+  {
+    "id": "nantong-music-fm918",
+    "name": "南通音乐广播 FM91.8",
+    "url": "http://ls.qingting.fm/live/1606731.m3u8",
+    "genre": "Music",
+    "city": "Nantong",
+    "country": "China",
+    "lat": 32.0617,
+    "lng": 120.8726
+  },
+  {
+    "id": "wansheng-tourism-traffic-fm922",
+    "name": "万盛旅游交通广播 FM92.2",
+    "url": "http://ls.qingting.fm/live/5359760.m3u8",
+    "genre": "Traffic",
+    "city": "Chongqing",
+    "country": "China",
+    "lat": 29.4316,
+    "lng": 106.9123
+  },
+  {
+    "id": "fujian-news-fm1036",
+    "name": "福建新闻广播 FM103.6",
+    "url": "http://ls.qingting.fm/live/1731.m3u8",
+    "genre": "News",
+    "city": "Fuzhou",
+    "country": "China",
+    "lat": 26.0745,
+    "lng": 119.2965
+  },
+  {
+    "id": "fujian-music-fm913",
+    "name": "福建音乐广播 FM91.3",
+    "url": "http://ls.qingting.fm/live/4585.m3u8",
+    "genre": "Music",
+    "city": "Fuzhou",
+    "country": "China",
+    "lat": 26.0745,
+    "lng": 119.2965
+  },
+  {
+    "id": "fujian-traffic-fm1007",
+    "name": "福建交通广播 FM100.7",
+    "url": "http://ls.qingting.fm/live/1733.m3u8",
+    "genre": "Traffic",
+    "city": "Fuzhou",
+    "country": "China",
+    "lat": 26.0745,
+    "lng": 119.2965
+  },
+  {
+    "id": "fujian-private-fm987",
+    "name": "福建私家车广播 FM98.7",
+    "url": "http://ls.qingting.fm/live/1736.m3u8",
+    "genre": "Music",
+    "city": "Fuzhou",
+    "country": "China",
+    "lat": 26.0745,
+    "lng": 119.2965
+  },
+  {
+    "id": "xiamen-music",
+    "name": "厦门音乐广播",
+    "url": "http://ls.qingting.fm/live/1739.m3u8",
+    "genre": "Music",
+    "city": "Xiamen",
+    "country": "China",
+    "lat": 24.4798,
+    "lng": 118.0819
+  },
+  {
+    "id": "xiamen-news",
+    "name": "厦门新闻广播",
+    "url": "http://ls.qingting.fm/live/1737.m3u8",
+    "genre": "News",
+    "city": "Xiamen",
+    "country": "China",
+    "lat": 24.4798,
+    "lng": 118.0819
+  },
+  {
+    "id": "xiamen-economic-traffic",
+    "name": "厦门经济交通广播",
+    "url": "http://ls.qingting.fm/live/1738.m3u8",
+    "genre": "Traffic",
+    "city": "Xiamen",
+    "country": "China",
+    "lat": 24.4798,
+    "lng": 118.0819
+  },
+  {
+    "id": "xiamen-minnan-voice",
+    "name": "厦门广播闽南之声",
+    "url": "http://ls.qingting.fm/live/1740.m3u8",
+    "genre": "News",
+    "city": "Xiamen",
+    "country": "China",
+    "lat": 24.4798,
+    "lng": 118.0819
+  },
+  {
+    "id": "us-wqxr",
+    "name": "WQXR 105.9",
+    "url": "https://stream.wqxr.org/wqxr",
+    "genre": "Classical",
+    "city": "New York",
+    "country": "United States",
+    "lat": 40.7128,
+    "lng": -74.006
+  },
+  {
+    "id": "us-wfmu-2",
+    "name": "WFMU 91.1",
+    "url": "https://stream.wfmu.org/freeform-128k",
+    "genre": "Freeform",
+    "city": "Jersey City",
+    "country": "United States",
+    "lat": 40.7282,
+    "lng": -74.0776
+  },
+  {
+    "id": "us-wxpn-2",
+    "name": "WXPN 88.5",
+    "url": "https://wxpn.xpn.org/xpnmp3hi",
+    "genre": "Adult Alternative",
+    "city": "Philadelphia",
+    "country": "United States",
+    "lat": 39.9526,
+    "lng": -75.1652
+  },
+  {
+    "id": "us-somafm-groove",
+    "name": "SomaFM: Groove Salad",
+    "url": "https://ice1.somafm.com/groovesalad-128-mp3",
+    "genre": "Downtempo",
+    "city": "San Francisco",
+    "country": "United States",
+    "lat": 37.7749,
+    "lng": -122.4194
+  },
+  {
+    "id": "us-somafm-drone",
+    "name": "SomaFM: Drone Zone",
+    "url": "https://ice1.somafm.com/dronezone-128-mp3",
+    "genre": "Ambient",
+    "city": "San Francisco",
+    "country": "United States",
+    "lat": 37.7849,
+    "lng": -122.4094
+  },
+  {
+    "id": "us-wwoz",
+    "name": "WWOZ 90.7",
+    "url": "https://wwoz-sc.streamguys1.com/wwoz-hi.mp3",
+    "genre": "Jazz/Blues",
+    "city": "New Orleans",
+    "country": "United States",
+    "lat": 29.9511,
+    "lng": -90.0715
+  },
+  {
+    "id": "us-kexp-intl",
+    "name": "KEXP International",
+    "url": "https://kexp.streamguys1.com/kexp128.mp3",
+    "genre": "World",
+    "city": "Seattle",
+    "country": "United States",
+    "lat": 47.6,
+    "lng": -122.33
+  },
+  {
+    "id": "ca-cjsw",
+    "name": "CJSW 90.9",
+    "url": "https://stream.cjsw.com/cjsw.mp3",
+    "genre": "Community",
+    "city": "Calgary",
+    "country": "Canada",
+    "lat": 51.0447,
+    "lng": -114.0719
+  },
+  {
+    "id": "uk-bbc-world",
+    "name": "BBC World Service",
+    "url": "http://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
+    "genre": "News",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.5074,
+    "lng": -0.1278
+  },
+  {
+    "id": "uk-radio-caroline",
+    "name": "Radio Caroline",
+    "url": "http://sc3.radiocaroline.net:8030/listen.pls",
+    "genre": "Rock",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.51,
+    "lng": -0.13
+  },
+  {
+    "id": "uk-lbc",
+    "name": "LBC 97.3",
+    "url": "https://media-ice.musicradio.com/LBCUK",
+    "genre": "Talk",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.52,
+    "lng": -0.11
+  },
+  {
+    "id": "uk-capital",
+    "name": "Capital FM",
+    "url": "https://media-ice.musicradio.com/CapitalUK",
+    "genre": "Pop",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.53,
+    "lng": -0.1
+  },
+  {
+    "id": "uk-classic-fm",
+    "name": "Classic FM",
+    "url": "https://media-ice.musicradio.com/ClassicFM",
+    "genre": "Classical",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.54,
+    "lng": -0.12
+  },
+  {
+    "id": "uk-heart",
+    "name": "Heart UK",
+    "url": "https://media-ice.musicradio.com/HeartUK",
+    "genre": "Pop",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.5,
+    "lng": -0.15
+  },
+  {
+    "id": "uk-nts1",
+    "name": "NTS Radio 1",
+    "url": "https://stream-relay-geo.ntslive.net/stream",
+    "genre": "Underground",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.54,
+    "lng": -0.07
+  },
+  {
+    "id": "fr-nova",
+    "name": "Radio Nova",
+    "url": "https://novazz.ice.infomaniak.ch/novazz-128.mp3",
+    "genre": "World/Indie",
+    "city": "Paris",
+    "country": "France",
+    "lat": 48.85,
+    "lng": 2.37
+  },
+  {
+    "id": "fr-tsf",
+    "name": "TSF Jazz",
+    "url": "https://tsfjazz.ice.infomaniak.ch/tsfjazz-high.mp3",
+    "genre": "Jazz",
+    "city": "Paris",
+    "country": "France",
+    "lat": 48.88,
+    "lng": 2.32
+  },
+  {
+    "id": "de-1live",
+    "name": "1LIVE",
+    "url": "https://wdr-1live-live.icecastssl.wdr.de/wdr/1live/live/mp3/128/stream.mp3",
+    "genre": "Pop",
+    "city": "Cologne",
+    "country": "Germany",
+    "lat": 50.9375,
+    "lng": 6.9603
+  },
+  {
+    "id": "de-klassik",
+    "name": "Klassik Radio",
+    "url": "https://stream.klassikradio.de/live/mp3-128/stream.klassikradio.de",
+    "genre": "Classical",
+    "city": "Hamburg",
+    "country": "Germany",
+    "lat": 53.55,
+    "lng": 10.0
+  },
+  {
+    "id": "nl-npo1",
+    "name": "NPO Radio 1",
+    "url": "https://icecast.omroep.nl/radio1-bb-mp3",
+    "genre": "News",
+    "city": "Hilversum",
+    "country": "Netherlands",
+    "lat": 52.2292,
+    "lng": 5.1669
+  },
+  {
+    "id": "nl-538",
+    "name": "Radio 538",
+    "url": "https://22543.live.streamtheworld.com/RADIO538.mp3",
+    "genre": "Pop",
+    "city": "Hilversum",
+    "country": "Netherlands",
+    "lat": 52.23,
+    "lng": 5.17
+  },
+  {
+    "id": "ch-srf3",
+    "name": "SRF 3",
+    "url": "https://stream.srg-ssr.ch/m/drs3/mp3_128",
+    "genre": "Pop/Rock",
+    "city": "Zurich",
+    "country": "Switzerland",
+    "lat": 47.3769,
+    "lng": 8.5417
+  },
+  {
+    "id": "ch-jazz",
+    "name": "Radio Swiss Jazz",
+    "url": "https://stream.srg-ssr.ch/m/rsj/mp3_128",
+    "genre": "Jazz",
+    "city": "Bern",
+    "country": "Switzerland",
+    "lat": 46.948,
+    "lng": 7.4474
+  },
+  {
+    "id": "tw-ner-taitung",
+    "name": "國立教育 台東",
+    "url": "https://cast.ner.gov.tw/7",
+    "genre": "Educational",
+    "city": "Taitung",
+    "country": "Taiwan",
+    "lat": 22.7539,
+    "lng": 121.1474
+  },
+  {
+    "id": "tw-ner-kaohsiung",
+    "name": "国立教育 高雄",
+    "url": "https://cast.ner.gov.tw/5",
+    "genre": "Educational",
+    "city": "Kaohsiung",
+    "country": "Taiwan",
+    "lat": 22.6273,
+    "lng": 120.3014
+  },
+  {
+    "id": "tw-icradio",
+    "name": "IC 之音",
+    "url": "https://stream.rcs.revma.com/7mnq8rt7k5zuv",
+    "genre": "Music",
+    "city": "Hsinchu",
+    "country": "Taiwan",
+    "lat": 24.8015,
+    "lng": 120.9661
+  },
+  {
+    "id": "tw-gogoradio",
+    "name": "GoGoRadio 桃園",
+    "url": "https://fm1043.hr9d.com/gogoradio-fm1043",
+    "genre": "Music",
+    "city": "Taoyuan",
+    "country": "Taiwan",
+    "lat": 24.9916,
+    "lng": 121.3
+  },
+  {
+    "id": "tw-bcc-ilike",
+    "name": "中廣流行網 I Like Radio",
+    "url": "https://stream.rcs.revma.com/aw9uqyxy2tzuv",
+    "genre": "Pop",
+    "city": "Taipei",
+    "country": "Taiwan",
+    "lat": 25.033,
+    "lng": 121.5654
+  },
+  {
+    "id": "tw-iradio",
+    "name": "i-radio 任意門計劃",
+    "url": "https://n05a-eu.rcs.revma.com/ndk05tyy2tzuv",
+    "genre": "Music",
+    "city": "Taipei",
+    "country": "Taiwan",
+    "lat": 25.033,
+    "lng": 121.5654
+  },
+  {
+    "id": "tw-bcc-news",
+    "name": "中廣新聞網",
+    "url": "https://n07a-eu.rcs.revma.com/78fm9wyy2tzuv",
+    "genre": "News",
+    "city": "Taipei",
+    "country": "Taiwan",
+    "lat": 25.033,
+    "lng": 121.5654
+  },
+  {
+    "id": "sg-love972",
+    "name": "Love 972",
+    "url": "https://22893.live.streamtheworld.com/LOVE972FM.mp3?dist=radiogarden",
+    "genre": "Music",
+    "city": "Singapore",
+    "country": "Singapore",
+    "lat": 1.3521,
+    "lng": 103.8198
+  },
+  {
+    "id": "sg-kiss92",
+    "name": "Kiss 92 FM",
+    "url": "https://22243.live.streamtheworld.com/KISS_92AAC.aac",
+    "genre": "Music",
+    "city": "Singapore",
+    "country": "Singapore",
+    "lat": 1.3521,
+    "lng": 103.8198
+  },
+  {
+    "id": "sg-oli968",
+    "name": "Oli 968",
+    "url": "https://22903.live.streamtheworld.com/OLI968FM_PREM.aac",
+    "genre": "Music",
+    "city": "Singapore",
+    "country": "Singapore",
+    "lat": 1.3521,
+    "lng": 103.8198
+  },
+  {
+    "id": "sg-varna942",
+    "name": "Varna 94.2 FM",
+    "url": "https://28383.live.streamtheworld.com/WARNA942FM.mp3?dist=radiogarden",
+    "genre": "Music",
+    "city": "Singapore",
+    "country": "Singapore",
+    "lat": 1.3521,
+    "lng": 103.8198
+  },
+  {
+    "id": "sg-radiochutney",
+    "name": "Radio Chutney",
+    "url": "https://streamer.radio.co/sf30c61bda/listen",
+    "genre": "Music",
+    "city": "Singapore",
+    "country": "Singapore",
+    "lat": 1.3521,
+    "lng": 103.8198
+  },
+  {
+    "id": "sg-power98",
+    "name": "Power 98 Love Songs",
+    "url": "https://22283.live.streamtheworld.com/POWER98_LOVESONGS_SC",
+    "genre": "Music",
+    "city": "Singapore",
+    "country": "Singapore",
+    "lat": 1.3521,
+    "lng": 103.8198
+  },
+  {
+    "id": "sg-axr",
+    "name": "AXR Singapore",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/AXR_SINGAPOREAAC.aac",
+    "genre": "Music",
+    "city": "Singapore",
+    "country": "Singapore",
+    "lat": 1.3521,
+    "lng": 103.8198
+  },
+  {
+    "id": "sg-883jia",
+    "name": "88.3 JIA",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/883JIA_SC",
+    "genre": "Music",
+    "city": "Singapore",
+    "country": "Singapore",
+    "lat": 1.3521,
+    "lng": 103.8198
+  },
+  {
+    "id": "us-wnyc",
+    "name": "WNYC FM 93.9",
+    "url": "https://fm939.wnyc.org/wnycfm-mobile.aac",
+    "genre": "Public Radio",
+    "city": "New York",
+    "country": "United States",
+    "lat": 40.7128,
+    "lng": -74.006
+  },
+  {
+    "id": "uk-smooth",
+    "name": "Smooth Radio",
+    "url": "https://media-ice.musicradio.com/SmoothUK",
+    "genre": "Relaxing",
+    "city": "Manchester",
+    "country": "United Kingdom",
+    "lat": 53.4808,
+    "lng": -2.2426
+  },
+  {
+    "id": "fr-fip",
+    "name": "FIP",
+    "url": "https://icecast.radiofrance.fr/fip-midfi.mp3",
+    "genre": "Eclectic",
+    "city": "Paris",
+    "country": "France",
+    "lat": 48.8566,
+    "lng": 2.3522
+  },
+  {
+    "id": "fr-inter",
+    "name": "France Inter",
+    "url": "https://icecast.radiofrance.fr/franceinter-midfi.mp3",
+    "genre": "Talk/Music",
+    "city": "Paris",
+    "country": "France",
+    "lat": 48.86,
+    "lng": 2.34
+  },
+  {
+    "id": "fr-meuh",
+    "name": "Radio Meuh",
+    "url": "https://radiomeuh.ice.infomaniak.ch/radiomeuh-128.mp3",
+    "genre": "Electronic",
+    "city": "La Clusaz",
+    "country": "France",
+    "lat": 45.9046,
+    "lng": 6.4235
+  },
+  {
+    "id": "de-ndr",
+    "name": "NDR Info",
+    "url": "https://icecast.ndr.de/ndr/ndrinfo/niedersachsen/mp3/128/stream.mp3",
+    "genre": "News",
+    "city": "Hamburg",
+    "country": "Germany",
+    "lat": 53.5511,
+    "lng": 9.9937
+  },
+  {
+    "id": "it-rai1",
+    "name": "Rai Radio 1",
+    "url": "https://icestreaming.rai.it/1.mp3",
+    "genre": "News/Talk",
+    "city": "Rome",
+    "country": "Italy",
+    "lat": 41.9028,
+    "lng": 12.4964
+  },
+  {
+    "id": "jp-shonan",
+    "name": "Shonan Beach FM",
+    "url": "https://shonanbeachfm.out.airtime.pro/shonanbeachfm_a",
+    "genre": "Jazz/Relax",
+    "city": "Zushi",
+    "country": "Japan",
+    "lat": 35.2954,
+    "lng": 139.5804
+  },
+  {
+    "id": "jp-ottava",
+    "name": "OTTAVA",
+    "url": "https://ottava-live.stream.ne.jp/ottava-live_mp3",
+    "genre": "Classical",
+    "city": "Tokyo",
+    "country": "Japan",
+    "lat": 35.65,
+    "lng": 139.75
+  },
+  {
+    "id": "kr-bigb",
+    "name": "Big B Radio",
+    "url": "http://198.58.98.83:8253/stream",
+    "genre": "K-Pop",
+    "city": "Seoul",
+    "country": "South Korea",
+    "lat": 37.5665,
+    "lng": 126.978
+  },
+  {
+    "id": "jp-gotanno",
+    "name": "Gotanno 89.2",
+    "url": "https://radio.gotanno.love/",
+    "genre": "Music",
+    "city": "Adachi",
+    "country": "Japan",
+    "lat": 35.7546,
+    "lng": 139.8178
+  },
+  {
+    "id": "jp-j1radio",
+    "name": "J1 Radio",
+    "url": "https://jenny.torontocast.com:2000/stream/J1HITS/",
+    "genre": "J-Pop",
+    "city": "Tokyo",
+    "country": "Japan",
+    "lat": 35.6762,
+    "lng": 139.6503
+  },
+  {
+    "id": "jp-j1radio-gold",
+    "name": "J1 Radio Gold",
+    "url": "https://jenny.torontocast.com:2000/stream/J1GOLD",
+    "genre": "Classic Hits",
+    "city": "Tokyo",
+    "country": "Japan",
+    "lat": 35.6762,
+    "lng": 139.6503
+  },
+  {
+    "id": "jp-listenmoe",
+    "name": "Listen.moe",
+    "url": "https://listen.moe/fallback",
+    "genre": "Anime",
+    "city": "Tokyo",
+    "country": "Japan",
+    "lat": 35.6762,
+    "lng": 139.6503
+  },
+  {
+    "id": "jp-nfrs",
+    "name": "NFRS",
+    "url": "https://securestreams.autopo.st:2592/stream",
+    "genre": "Music",
+    "city": "Nishinari Ward",
+    "country": "Japan",
+    "lat": 34.6594,
+    "lng": 135.4434
+  },
+  {
+    "id": "jp-ottava-2",
+    "name": "Ottava",
+    "url": "https://ottava2.out.airtime.pro:8000/ottava2_a",
+    "genre": "Classical",
+    "city": "Tokyo",
+    "country": "Japan",
+    "lat": 35.6762,
+    "lng": 139.6503
+  },
+  {
+    "id": "jp-radio-shiga",
+    "name": "Radio Shiga",
+    "url": "https://sv10.hdradios.net:21920/",
+    "genre": "Music",
+    "city": "Koka",
+    "country": "Japan",
+    "lat": 34.8117,
+    "lng": 136.1133
+  },
+  {
+    "id": "jp-wrep",
+    "name": "WREP Live",
+    "url": "https://c13.radioboss.fm:8200/stream",
+    "genre": "Music",
+    "city": "Tokyo",
+    "country": "Japan",
+    "lat": 35.6762,
+    "lng": 139.6503
+  },
+  {
+    "id": "kr-bigb-2",
+    "name": "Big B Radio - Kpop",
+    "url": "https://antares.dribbcast.com/proxy/kpop?mp=/s",
+    "genre": "K-Pop",
+    "city": "Seoul",
+    "country": "South Korea",
+    "lat": 37.5665,
+    "lng": 126.978
+  },
+  {
+    "id": "kr-wbs-busan",
+    "name": "WBS 부산원음방송 104.9",
+    "url": "https://wbsradio2.kr/wbs-b",
+    "genre": "Music",
+    "city": "Busan",
+    "country": "South Korea",
+    "lat": 35.1796,
+    "lng": 129.0756
+  },
+  {
+    "id": "kr-wbs-gwangju",
+    "name": "WBS 광주원음방송 107.9",
+    "url": "https://wbsradio2.kr/wbs-g",
+    "genre": "Music",
+    "city": "Gwangju",
+    "country": "South Korea",
+    "lat": 35.1667,
+    "lng": 126.8333
+  },
+  {
+    "id": "kr-jeonju",
+    "name": "Jeonju Community Radio 93.5 FM",
+    "url": "https://radiostream.communityradio.kr/jcfm1",
+    "genre": "Community",
+    "city": "Jeonju-si",
+    "country": "South Korea",
+    "lat": 35.8243,
+    "lng": 127.1484
+  },
+  {
+    "id": "kr-hangul",
+    "name": "My Hangul Cafe Online Radio",
+    "url": "https://stream.zeno.fm/4zhg2xz4138uv",
+    "genre": "Music",
+    "city": "Ulsan",
+    "country": "South Korea",
+    "lat": 35.5396,
+    "lng": 129.3114
+  },
+  {
+    "id": "br-alpha",
+    "name": "Alpha FM 101.7",
+    "url": "https://24063.live.streamtheworld.com/RADIO_ALPHAFMAAC.aac",
+    "genre": "Music",
+    "city": "São Paulo SP",
+    "country": "Brazil",
+    "lat": -23.5505,
+    "lng": -46.6333
+  },
+  {
+    "id": "br-alvorada",
+    "name": "Alvorada FM 94.9",
+    "url": "https://27383.live.streamtheworld.com/RADIO_ALVORADAAAC.aac",
+    "genre": "Music",
+    "city": "Belo Horizonte MG",
+    "country": "Brazil",
+    "lat": -19.9167,
+    "lng": -43.9345
+  },
+  {
+    "id": "br-antena1",
+    "name": "Antena 1",
+    "url": "https://antenaone.crossradio.com.br/stream",
+    "genre": "Music",
+    "city": "Florianópolis SC",
+    "country": "Brazil",
+    "lat": -27.6102,
+    "lng": -48.5643
+  },
+  {
+    "id": "br-antena1-rio",
+    "name": "Antena 1 Rio FM 103.7",
+    "url": "https://antena1campanha.crossradio.com.br:29090/camp3",
+    "genre": "Music",
+    "city": "Rio de Janeiro RJ",
+    "country": "Brazil",
+    "lat": -22.9068,
+    "lng": -43.1729
+  },
+  {
+    "id": "br-classicpan",
+    "name": "Classic Pan 76.7 FM",
+    "url": "https://stream.zeno.fm/rtk4pzcome3vv",
+    "genre": "Classical",
+    "city": "São Paulo SP",
+    "country": "Brazil",
+    "lat": -23.5505,
+    "lng": -46.6333
+  },
+  {
+    "id": "br-continental",
+    "name": "Continental 98.3 FM",
+    "url": "https://cast3.my-control-panel.com/proxy/rede/mp3",
+    "genre": "Music",
+    "city": "Porto Alegre RS",
+    "country": "Brazil",
+    "lat": -30.0346,
+    "lng": -51.2177
+  },
+  {
+    "id": "br-fmodia",
+    "name": "FM o Dia 100.5",
+    "url": "https://streaming.livespanel.com:20000/live",
+    "genre": "Music",
+    "city": "Rio de Janeiro RJ",
+    "country": "Brazil",
+    "lat": -22.9068,
+    "lng": -43.1729
+  },
+  {
+    "id": "br-jovempan",
+    "name": "Jovem Pan FM 100.9",
+    "url": "https://stream.zeno.fm/c45wbq2us3buv",
+    "genre": "Music",
+    "city": "São Paulo SP",
+    "country": "Brazil",
+    "lat": -23.5505,
+    "lng": -46.6333
+  },
+  {
+    "id": "br-bhfm",
+    "name": "Rádio BH FM",
+    "url": "https://19253.live.streamtheworld.com/BHFMAAC.aac",
+    "genre": "Music",
+    "city": "Belo Horizonte MG",
+    "country": "Brazil",
+    "lat": -19.9167,
+    "lng": -43.9345
+  },
+  {
+    "id": "br-itatiaia",
+    "name": "Rádio Itatiaia",
+    "url": "https://8903.brasilstream.com.br/stream",
+    "genre": "News/Music",
+    "city": "Belo Horizonte MG",
+    "country": "Brazil",
+    "lat": -19.9167,
+    "lng": -43.9345
+  },
+  {
+    "id": "br-liberdade",
+    "name": "Radio Liberdade 92.9 FM",
+    "url": "https://8335.brasilstream.com.br/stream",
+    "genre": "Music",
+    "city": "Belo Horizonte MG",
+    "country": "Brazil",
+    "lat": -19.9167,
+    "lng": -43.9345
+  },
+  {
+    "id": "br-modaowisley",
+    "name": "Radio Modão Com Wisley Souto",
+    "url": "https://centova5.transmissaodigital.com:20024/",
+    "genre": "Music",
+    "city": "Goiânia GO",
+    "country": "Brazil",
+    "lat": -16.6869,
+    "lng": -49.2648
+  },
+  {
+    "id": "us-smoothjazz",
+    "name": "101 Smooth Jazz",
+    "url": "https://ais-sa2.cdnstream1.com/2329_128.mp3",
+    "genre": "Jazz",
+    "city": "Los Angeles CA",
+    "country": "United States",
+    "lat": 34.0522,
+    "lng": -118.2437
+  },
+  {
+    "id": "us-eightball",
+    "name": "8 Ball Radio",
+    "url": "https://eightball.out.airtime.pro/eightball_a",
+    "genre": "Music",
+    "city": "New York NY",
+    "country": "United States",
+    "lat": 40.7128,
+    "lng": -74.006
+  },
+  {
+    "id": "us-abn-oldtime",
+    "name": "ABN Old-Time Radio AM 1610",
+    "url": "https://s6.yesstreaming.net:18000/listen",
+    "genre": "Oldies",
+    "city": "Antioch IL",
+    "country": "United States",
+    "lat": 42.4915,
+    "lng": -88.0819
+  },
+  {
+    "id": "us-ambient-sleeping",
+    "name": "Ambient Sleeping Pill",
+    "url": "https://radio.stereoscenic.com/asp-s",
+    "genre": "Ambient",
+    "city": "South Plainfield NJ",
+    "country": "United States",
+    "lat": 40.5598,
+    "lng": -74.4061
+  },
+  {
+    "id": "us-christmas-365",
+    "name": "Christmas 365 - Santa's Radio",
+    "url": "https://us3.streamingpulse.com/ssl/7038",
+    "genre": "Christmas",
+    "city": "Higdon AL",
+    "country": "United States",
+    "lat": 34.6204,
+    "lng": -85.6774
+  },
+  {
+    "id": "us-cladrite",
+    "name": "Cladrite Radio",
+    "url": "https://das-edge63-live365-dal03.cdnstream.com/a43564",
+    "genre": "Oldies",
+    "city": "New York NY",
+    "country": "United States",
+    "lat": 40.7128,
+    "lng": -74.006
+  },
+  {
+    "id": "us-classical-wcri",
+    "name": "Classical 95.9 - WCRI",
+    "url": "https://wcri.streamguys1.com/live-aac",
+    "genre": "Classical",
+    "city": "New Shoreham RI",
+    "country": "United States",
+    "lat": 41.4925,
+    "lng": -71.3128
+  },
+  {
+    "id": "us-classical-king",
+    "name": "Classical Calm by King FM",
+    "url": "https://classicalking.streamguys1.com/evergreen-aac-128k",
+    "genre": "Classical",
+    "city": "Seattle WA",
+    "country": "United States",
+    "lat": 47.6062,
+    "lng": -122.3321
+  },
+  {
+    "id": "us-folk-notebook",
+    "name": "Folk Music Notebook",
+    "url": "https://s3.radio.co/s0b5d4adb5/listen",
+    "genre": "Folk",
+    "city": "Bergenfield NJ",
+    "country": "United States",
+    "lat": 40.9353,
+    "lng": -74.0083
+  },
+  {
+    "id": "us-fox-news",
+    "name": "Fox News Radio",
+    "url": "https://live.amperwave.net/direct/foxnewsradio-foxnewsradioaac-imc",
+    "genre": "News",
+    "city": "New York NY",
+    "country": "United States",
+    "lat": 40.7128,
+    "lng": -74.006
+  },
+  {
+    "id": "us-happy-christmas",
+    "name": "Happy Christmas Radio",
+    "url": "https://listen.happychristmasradio.net/",
+    "genre": "Christmas",
+    "city": "New York NY",
+    "country": "United States",
+    "lat": 40.7128,
+    "lng": -74.006
+  },
+  {
+    "id": "us-hot97",
+    "name": "Hot 97.1 - WQHT",
+    "url": "https://14153.live.streamtheworld.com/WQHTFMAAC.aac",
+    "genre": "Hip Hop",
+    "city": "New York NY",
+    "country": "United States",
+    "lat": 40.7128,
+    "lng": -74.006
+  },
+  {
+    "id": "us-kcuk",
+    "name": "KCUK FM 88.1",
+    "url": "https://16643.live.streamtheworld.com/KCUKFMAAC.aac",
+    "genre": "Music",
+    "city": "Chevak AK",
+    "country": "United States",
+    "lat": 61.9241,
+    "lng": -162.6697
+  },
+  {
+    "id": "us-koko",
+    "name": "KOKO LP Radio 96.3 FM",
+    "url": "https://s2.yesstreaming.net:7031/stream",
+    "genre": "Music",
+    "city": "Hana HI",
+    "country": "United States",
+    "lat": 20.7329,
+    "lng": -155.9957
+  },
+  {
+    "id": "us-kqed-2",
+    "name": "KQED FM 88.5",
+    "url": "https://streams.kqed.org/",
+    "genre": "Public",
+    "city": "San Francisco CA",
+    "country": "United States",
+    "lat": 37.7749,
+    "lng": -122.4194
+  },
+  {
+    "id": "us-krud",
+    "name": "KRUD-DB Rudeboy Radio 808",
+    "url": "https://s47.myradiostream.com:14460/listen.mp3",
+    "genre": "Hip Hop",
+    "city": "Pearl City HI",
+    "country": "United States",
+    "lat": 21.3906,
+    "lng": -157.9677
+  },
+  {
+    "id": "us-la-mega",
+    "name": "La Mega 97.9 WSKQ-FM",
+    "url": "https://liveaudio.lamusica.com/NY_WSKQ_icy",
+    "genre": "Latin",
+    "city": "New York NY",
+    "country": "United States",
+    "lat": 40.7128,
+    "lng": -74.006
+  },
+  {
+    "id": "us-npr",
+    "name": "NPR 24 Hour Program Stream",
+    "url": "https://npr-ice.streamguys1.com/live.mp3",
+    "genre": "Public",
+    "city": "Washington DC",
+    "country": "United States",
+    "lat": 38.9072,
+    "lng": -77.0369
+  },
+  {
+    "id": "us-oldies-boston",
+    "name": "Oldies 103 FM Boston",
+    "url": "https://das-edge11-live365-dal03.cdnstream.com/a88248",
+    "genre": "Oldies",
+    "city": "Boston MA",
+    "country": "United States",
+    "lat": 42.3601,
+    "lng": -71.0589
+  },
+  {
+    "id": "us-powerhitz",
+    "name": "Powerhitz - Hits & Hip Hop",
+    "url": "https://live.powerhitz.com/1power",
+    "genre": "Hip Hop",
+    "city": "New York NY",
+    "country": "United States",
+    "lat": 40.7128,
+    "lng": -74.006
+  },
+  {
+    "id": "us-news-wsb",
+    "name": "News 95.5 AM 750 WSB",
+    "url": "https://ad-oom-cmg.streamguys1.com/atl750/atl750-sgplayer-aac",
+    "genre": "News",
+    "city": "Atlanta GA",
+    "country": "United States",
+    "lat": 33.749,
+    "lng": -84.388
+  },
+  {
+    "id": "us-mpr-news",
+    "name": "MPR News FM 91.1",
+    "url": "https://nis.stream.publicradio.org/nis.mp3",
+    "genre": "News",
+    "city": "Saint Paul MN",
+    "country": "United States",
+    "lat": 44.9537,
+    "lng": -93.09
+  },
+  {
+    "id": "us-news-wokv",
+    "name": "News 104.5 WOKV",
+    "url": "https://ad-oom-cmg.streamguys1.com/jac1045/jac1045-sgplayer-aac",
+    "genre": "News",
+    "city": "Atlantic Beach FL",
+    "country": "United States",
+    "lat": 30.3373,
+    "lng": -81.3918
+  },
+  {
+    "id": "us-federal-news",
+    "name": "Federal News Radio AM1500",
+    "url": "https://27053.live.streamtheworld.com/WFEDAM.mp3",
+    "genre": "News",
+    "city": "Washington DC",
+    "country": "United States",
+    "lat": 38.9072,
+    "lng": -77.0369
+  },
+  {
+    "id": "us-news-koh",
+    "name": "News Talk 780 KOH - KKOH",
+    "url": "https://17793.live.streamtheworld.com/KKOHAMAAC.aac",
+    "genre": "News/Talk",
+    "city": "Reno NV",
+    "country": "United States",
+    "lat": 39.5296,
+    "lng": -119.8138
+  },
+  {
+    "id": "us-kut-bbc",
+    "name": "KUT 90.5 HD2 BBC World News",
+    "url": "https://streams.kut.org/4427_56?aw_0_1st.playerid=kuthd2-free",
+    "genre": "News",
+    "city": "Austin TX",
+    "country": "United States",
+    "lat": 30.2672,
+    "lng": -97.7431
+  },
+  {
+    "id": "us-news-wnnc",
+    "name": "News Radio 570 AM - WWNC",
+    "url": "https://stream.revma.ihrhls.com/zc1593",
+    "genre": "News",
+    "city": "Asheville NC",
+    "country": "United States",
+    "lat": 35.5951,
+    "lng": -82.5515
+  },
+  {
+    "id": "us-stus-show",
+    "name": "Stu's Show.Com",
+    "url": "https://securestreams3.autopo.st:1405/stream/1/",
+    "genre": "Talk",
+    "city": "Los Angeles CA",
+    "country": "United States",
+    "lat": 34.0522,
+    "lng": -118.2437
+  },
+  {
+    "id": "ca-660news",
+    "name": "660 News",
+    "url": "https://rogers-hls.leanstream.co/rogers/cal660.stream/icy",
+    "genre": "News",
+    "city": "Calgary",
+    "country": "Canada",
+    "lat": 51.0447,
+    "lng": -114.0719
+  },
+  {
+    "id": "ca-680news",
+    "name": "680 News",
+    "url": "https://rogers-hls.leanstream.co/rogers/tor680.stream/icy",
+    "genre": "News",
+    "city": "Toronto",
+    "country": "Canada",
+    "lat": 43.6532,
+    "lng": -79.3832
+  },
+  {
+    "id": "ca-80snewwave",
+    "name": "80's New Wave Radio",
+    "url": "https://puma.streemlion.com:2910/stream",
+    "genre": "80s",
+    "city": "Vancouver",
+    "country": "Canada",
+    "lat": 49.2827,
+    "lng": -123.1207
+  },
+  {
+    "id": "ca-cfax",
+    "name": "CFAX 1070 AM",
+    "url": "https://16603.live.streamtheworld.com/CFAXAMAAC.aac",
+    "genre": "News/Talk",
+    "city": "Victoria",
+    "country": "Canada",
+    "lat": 48.4284,
+    "lng": -123.3656
+  },
+  {
+    "id": "ca-cfim",
+    "name": "CFIM 92.7 FM",
+    "url": "https://stream02.ustream.ca/cfim128.mp3",
+    "genre": "Music",
+    "city": "Cap-aux-Meules",
+    "country": "Canada",
+    "lat": 47.3984,
+    "lng": -61.8636
+  },
+  {
+    "id": "ca-cfmf",
+    "name": "CFMF-FM 103.1",
+    "url": "https://stream.statsradio.com:8068/stream",
+    "genre": "Music",
+    "city": "Fermont",
+    "country": "Canada",
+    "lat": 51.4333,
+    "lng": -64.3333
+  },
+  {
+    "id": "ca-cfmi",
+    "name": "CFMI-FM Rock 101",
+    "url": "https://corus.leanstream.co/CFMIFM",
+    "genre": "Rock",
+    "city": "Vancouver",
+    "country": "Canada",
+    "lat": 49.2827,
+    "lng": -123.1207
+  },
+  {
+    "id": "ca-cfmj",
+    "name": "CFMJ - AM640",
+    "url": "https://corus.leanstream.co/CFIQAM-MP3",
+    "genre": "News/Talk",
+    "city": "Toronto",
+    "country": "Canada",
+    "lat": 43.6532,
+    "lng": -79.3832
+  },
+  {
+    "id": "ca-cfrb",
+    "name": "CFRB 1010 AM Toronto",
+    "url": "https://18503.live.streamtheworld.com/CFRBAMAAC.aac",
+    "genre": "News/Talk",
+    "city": "Toronto",
+    "country": "Canada",
+    "lat": 43.6532,
+    "lng": -79.3832
+  },
+  {
+    "id": "ca-choi",
+    "name": "CHOI - Radio X 98.1 FM",
+    "url": "https://lb0-stream.radiox981.ca/choi.aac",
+    "genre": "Talk",
+    "city": "Québec City",
+    "country": "Canada",
+    "lat": 46.8139,
+    "lng": -71.208
+  },
+  {
+    "id": "ca-news1130",
+    "name": "News 1130",
+    "url": "https://rogers-hls.leanstream.co/rogers/van1130.stream/icy",
+    "genre": "News",
+    "city": "Vancouver",
+    "country": "Canada",
+    "lat": 49.2827,
+    "lng": -123.1207
+  },
+  {
+    "id": "ca-news-talk-650",
+    "name": "News Talk 650 - CKOM",
+    "url": "https://rawlco.leanstream.co/CKOMAM",
+    "genre": "News/Talk",
+    "city": "Saskatoon",
+    "country": "Canada",
+    "lat": 52.1332,
+    "lng": -106.67
+  },
+  {
+    "id": "ca-sportsnet",
+    "name": "Sportsnet AM 650",
+    "url": "https://rogers.leanstream.co/rogers/van650.stream/icy",
+    "genre": "Sports",
+    "city": "Richmond",
+    "country": "Canada",
+    "lat": 49.1711,
+    "lng": -123.1342
+  },
+  {
+    "id": "ca-kiss",
+    "name": "KISS 92.5",
+    "url": "https://rogers-hls.leanstream.co/rogers/tor925.stream/icy",
+    "genre": "Pop",
+    "city": "Toronto",
+    "country": "Canada",
+    "lat": 43.6532,
+    "lng": -79.3832
+  },
+  {
+    "id": "hk-belowground",
+    "name": "FM Belowground",
+    "url": "https://listen.belowground.fm/radio/8000/radio.mp3",
+    "genre": "Music",
+    "city": "Hong Kong",
+    "country": "Hong Kong",
+    "lat": 22.3193,
+    "lng": 114.1694
+  },
+  {
+    "id": "hk-talkonly",
+    "name": "講台 talkonly",
+    "url": "https://live.talkonly.net:8443/talkonly.mp3",
+    "genre": "Talk",
+    "city": "Hong Kong",
+    "country": "Hong Kong",
+    "lat": 22.3193,
+    "lng": 114.1694
+  },
+  {
+    "id": "hk-mandarin-hits",
+    "name": "華語 Hits",
+    "url": "https://das-edge14-live365-dal02.cdnstream.com/a57743_2",
+    "genre": "Mandarin Pop",
+    "city": "Hong Kong",
+    "country": "Hong Kong",
+    "lat": 22.3193,
+    "lng": 114.1694
+  },
+  {
+    "id": "th-green",
+    "name": "104 Green FM",
+    "url": "https://radio14.plathong.net/7072/;stream.mp3",
+    "genre": "Music",
+    "city": "Loei",
+    "country": "Thailand",
+    "lat": 17.4183,
+    "lng": 101.7194
+  },
+  {
+    "id": "th-chanthaburi",
+    "name": "AM 1170 kHz ส.ทร.4 จันทบุรี.",
+    "url": "https://radio12.plathong.net/7358/;stream.mp3",
+    "genre": "News/Music",
+    "city": "Chanthaburi",
+    "country": "Thailand",
+    "lat": 12.6173,
+    "lng": 102.1174
+  },
+  {
+    "id": "th-artillery",
+    "name": "Artillery Center สถานี วศป. AM 612",
+    "url": "https://radio12.plathong.net/7116/;stream.mp3",
+    "genre": "Music",
+    "city": "Lopburi",
+    "country": "Thailand",
+    "lat": 14.7467,
+    "lng": 100.5425
+  },
+  {
+    "id": "th-bangkok",
+    "name": "Bangkok FM",
+    "url": "https://audio-edge-fvq45.ams.d.radiomast.io/b4328177-eee1-4fb1-8b28-94009a331613",
+    "genre": "Music",
+    "city": "Bangkok",
+    "country": "Thailand",
+    "lat": 13.7563,
+    "lng": 100.5018
+  },
+  {
+    "id": "th-binhla",
+    "name": "Binhla Radio FM 99.0",
+    "url": "https://siamtoday.in.th/8008/;stream.mp3",
+    "genre": "Music",
+    "city": "Trang",
+    "country": "Thailand",
+    "lat": 7.5552,
+    "lng": 99.6547
+  },
+  {
+    "id": "th-buengkan",
+    "name": "buengkan radio",
+    "url": "https://c16.radioboss.fm:8332/stream",
+    "genre": "Music",
+    "city": "Bueng Kan",
+    "country": "Thailand",
+    "lat": 18.375,
+    "lng": 103.5833
+  },
+  {
+    "id": "th-chiangmai",
+    "name": "Chiang Mai Radio FM 93.75",
+    "url": "https://80.hostpleng.com/api.php?url=http://112.121.151.133:8124/live",
+    "genre": "Music",
+    "city": "Chiang Mai",
+    "country": "Thailand",
+    "lat": 18.7883,
+    "lng": 98.9853
+  },
+  {
+    "id": "th-chili",
+    "name": "ChiliRADIO Pop",
+    "url": "https://stream.chiliradio.app/chilipop",
+    "genre": "Pop",
+    "city": "Chiang Mai",
+    "country": "Thailand",
+    "lat": 18.7883,
+    "lng": 98.9853
+  },
+  {
+    "id": "th-chorsaard",
+    "name": "Chorsaard",
+    "url": "https://radio12.plathong.net/9999/;stream.mp3",
+    "genre": "Music",
+    "city": "Nonthaburi",
+    "country": "Thailand",
+    "lat": 13.8103,
+    "lng": 100.5111
+  },
+  {
+    "id": "th-sunshine",
+    "name": "Sunshine FM 107.75",
+    "url": "https://cdn-th2.livestreaming.in.th/shoutcast/8030",
+    "genre": "Music",
+    "city": "Pattaya City",
+    "country": "Thailand",
+    "lat": 12.9243,
+    "lng": 100.8803
+  },
+  {
+    "id": "th-samui",
+    "name": "Samui Island Radio",
+    "url": "https://us2new.listen2myradio.com:2199/listen.php?port=10040&type=s2&mount=/stream.ogg",
+    "genre": "Music",
+    "city": "Koh Samui",
+    "country": "Thailand",
+    "lat": 9.538,
+    "lng": 99.9337
+  },
+  {
+    "id": "th-spot",
+    "name": "The Spot Thailand",
+    "url": "https://rsas.bkk.fm/spot",
+    "genre": "Music",
+    "city": "Pattaya City",
+    "country": "Thailand",
+    "lat": 12.9243,
+    "lng": 100.8803
+  },
+  {
+    "id": "th-passion",
+    "name": "Passion FM",
+    "url": "https://media.onair.one:8170/my",
+    "genre": "Music",
+    "city": "Pattaya City",
+    "country": "Thailand",
+    "lat": 12.9243,
+    "lng": 100.8803
+  },
+  {
+    "id": "th-wow",
+    "name": "Wow Radio Online",
+    "url": "https://panel.wowradiohit.com/listen/looktung/radio.mp3",
+    "genre": "Music",
+    "city": "Phrae",
+    "country": "Thailand",
+    "lat": 18.15,
+    "lng": 100.15
+  },
+  {
+    "id": "sg-987",
+    "name": "987",
+    "url": "https://28383.live.streamtheworld.com/987FM.mp3?dist=radiogarden",
+    "genre": "Music",
+    "city": "Singapore",
+    "country": "Singapore",
+    "lat": 1.3521,
+    "lng": 103.8198
+  },
+  {
+    "id": "sg-hao",
+    "name": "96.3 好FM",
+    "url": "https://28153.live.streamtheworld.com/HAO_963AAC.aac",
+    "genre": "Music",
+    "city": "Singapore",
+    "country": "Singapore",
+    "lat": 1.3521,
+    "lng": 103.8198
+  },
+  {
+    "id": "sg-capital",
+    "name": "Capital FM 95.8",
+    "url": "https://22403.live.streamtheworld.com/CAPITAL958FMAAC.aac",
+    "genre": "Music",
+    "city": "Singapore",
+    "country": "Singapore",
+    "lat": 1.3521,
+    "lng": 103.8198
+  },
+  {
+    "id": "sg-class95",
+    "name": "Class 95 95.0 FM",
+    "url": "https://28453.live.streamtheworld.com/CLASS95_PREM.aac",
+    "genre": "Music",
+    "city": "Singapore",
+    "country": "Singapore",
+    "lat": 1.3521,
+    "lng": 103.8198
+  },
+  {
+    "id": "sg-money",
+    "name": "Money FM 89.3",
+    "url": "https://22283.live.streamtheworld.com/MONEY_893AAC.aac",
+    "genre": "News/Business",
+    "city": "Singapore",
+    "country": "Singapore",
+    "lat": 1.3521,
+    "lng": 103.8198
+  },
+  {
+    "id": "my-988",
+    "name": "988",
+    "url": "https://28093.live.streamtheworld.com/988_FMAAC.aac",
+    "genre": "Music",
+    "city": "Kuala Lumpur",
+    "country": "Malaysia",
+    "lat": 3.139,
+    "lng": 101.6869
+  },
+  {
+    "id": "my-aifm",
+    "name": "Ai FM 89.3",
+    "url": "https://28093.live.streamtheworld.com/AI_FMAAC.aac",
+    "genre": "Music",
+    "city": "Kuala Lumpur",
+    "country": "Malaysia",
+    "lat": 3.139,
+    "lng": 101.6869
+  },
+  {
+    "id": "my-bintulu",
+    "name": "Bintulu FM",
+    "url": "https://28103.live.streamtheworld.com/BINTULU_FMAAC.aac",
+    "genre": "Music",
+    "city": "Bintulu",
+    "country": "Malaysia",
+    "lat": 3.1667,
+    "lng": 113.0333
+  },
+  {
+    "id": "my-cats",
+    "name": "Cats FM",
+    "url": "https://n10.rcs.revma.com/51qe53rv0y3vv.m4a?rj-ttl=5&rj-tok=AAABm9B7Eq0A5U_K6yL8IwK2Qw",
+    "genre": "Music",
+    "city": "Kuching",
+    "country": "Malaysia",
+    "lat": 1.55,
+    "lng": 110.3333
+  },
+  {
+    "id": "my-mutiara",
+    "name": "Mutiara FM",
+    "url": "https://22283.live.streamtheworld.com/MUTIARA_FMAAC.aac",
+    "genre": "Music",
+    "city": "George Town",
+    "country": "Malaysia",
+    "lat": 5.4167,
+    "lng": 100.3333
+  },
+  {
+    "id": "tw-ufo",
+    "name": "飛碟聯播網 Ufo Network",
+    "url": "https://n10a-eu.rcs.revma.com/4yevzvbeewzuv",
+    "genre": "Music",
+    "city": "Taipei",
+    "country": "Taiwan",
+    "lat": 25.033,
+    "lng": 121.5654
+  },
+  {
+    "id": "tw-news98",
+    "name": "News 98 時時刻刻報新聞",
+    "url": "https://n05a-eu.rcs.revma.com/55tyxsy4qtzuv.m4a/;",
+    "genre": "News",
+    "city": "Taipei",
+    "country": "Taiwan",
+    "lat": 25.033,
+    "lng": 121.5654
+  },
+  {
+    "id": "in-kishore",
+    "name": "Kishore Kumar Radio",
+    "url": "https://stream.zeno.fm/0ghtfp8ztm0uv",
+    "genre": "Oldies",
+    "city": "Mumbai",
+    "country": "India",
+    "lat": 19.076,
+    "lng": 72.8777
+  },
+  {
+    "id": "in-radiocity",
+    "name": "Radio City Hindi",
+    "url": "https://stream.zeno.fm/mrkzzr5uyc9uv",
+    "genre": "Hindi",
+    "city": "Mumbai",
+    "country": "India",
+    "lat": 19.076,
+    "lng": 72.8777
+  },
+  {
+    "id": "fr-beur",
+    "name": "Beur FM",
+    "url": "https://beurfm.ice.infomaniak.ch/beurfm-high.mp3",
+    "genre": "Music",
+    "city": "Paris",
+    "country": "France",
+    "lat": 48.8566,
+    "lng": 2.3522
+  },
+  {
+    "id": "fr-bfm",
+    "name": "BFM Radio",
+    "url": "https://audio.bfmtv.com/bfmradio_128.mp3",
+    "genre": "News",
+    "city": "Paris",
+    "country": "France",
+    "lat": 48.8566,
+    "lng": 2.3522
+  },
+  {
+    "id": "fr-cherie",
+    "name": "Chérie FM",
+    "url": "https://streaming.nrjaudio.fm/ouuku85n3nje?origine=radiogarden",
+    "genre": "Music",
+    "city": "Paris",
+    "country": "France",
+    "lat": 48.8566,
+    "lng": 2.3522
+  },
+  {
+    "id": "fr-europe1",
+    "name": "Europe 1",
+    "url": "https://europe1.lmn.fm/europe1.mp3",
+    "genre": "News/Talk",
+    "city": "Paris",
+    "country": "France",
+    "lat": 48.8566,
+    "lng": 2.3522
+  },
+  {
+    "id": "fr-latina",
+    "name": "Latina.fr",
+    "url": "https://start-latina.ice.infomaniak.ch/start-latina-high.mp3",
+    "genre": "Latin",
+    "city": "Paris",
+    "country": "France",
+    "lat": 48.8566,
+    "lng": 2.3522
+  },
+  {
+    "id": "fr-francemusique-classique",
+    "name": "France Musique - Classique Plus",
+    "url": "https://icecast.radiofrance.fr/francemusiqueclassiqueplus-midfi.mp3",
+    "genre": "Classical",
+    "city": "Paris",
+    "country": "France",
+    "lat": 48.8566,
+    "lng": 2.3522
+  },
+  {
+    "id": "fr-francemusique-baroque",
+    "name": "France Musique - La Baroque",
+    "url": "https://icecast.radiofrance.fr/francemusiquebaroque-hifi.aac",
+    "genre": "Classical",
+    "city": "Paris",
+    "country": "France",
+    "lat": 48.8566,
+    "lng": 2.3522
+  },
+  {
+    "id": "fr-francemusique-jazz",
+    "name": "France Musique - La Jazz",
+    "url": "https://icecast.radiofrance.fr/francemusiquelajazz-midfi.mp3",
+    "genre": "Jazz",
+    "city": "Paris",
+    "country": "France",
+    "lat": 48.8566,
+    "lng": 2.3522
+  },
+  {
+    "id": "fr-mradio",
+    "name": "M Radio Comédies Musicales",
+    "url": "https://mfmwr-014.ice.infomaniak.ch/mfmwr-014.mp3",
+    "genre": "Music",
+    "city": "Paris",
+    "country": "France",
+    "lat": 48.8566,
+    "lng": 2.3522
+  },
+  {
+    "id": "fr-franceinfo",
+    "name": "France Info 105.7",
+    "url": "https://icecast.radiofrance.fr/franceinfo-midfi.mp3",
+    "genre": "News",
+    "city": "Paris",
+    "country": "France",
+    "lat": 48.8566,
+    "lng": 2.3522
+  },
+  {
+    "id": "de-80s80s",
+    "name": "80s80s",
+    "url": "https://regiocast.streamabc.net/regc-80s80smweb2517500-mp3-192-1672667",
+    "genre": "80s, Pop",
+    "city": "Berlin",
+    "country": "Germany",
+    "lat": 52.52,
+    "lng": 13.405
+  },
+  {
+    "id": "de-90s90s--techno",
+    "name": "90s90s - Techno",
+    "url": "https://streams.90s90s.de/techno/mp3-192/streams.90s90s.de/",
+    "genre": "Techno, 90s",
+    "city": "Berlin",
+    "country": "Germany",
+    "lat": 52.52,
+    "lng": 13.405
+  },
+  {
+    "id": "de-absolute-chillout",
+    "name": "Absolute Chillout",
+    "url": "https://edge1.peta.live365.net/b05055_128mp3",
+    "genre": "Chillout, Ambient",
+    "city": "Berlin",
+    "country": "Germany",
+    "lat": 52.52,
+    "lng": 13.405
+  },
+  {
+    "id": "de-absolut-relax",
+    "name": "Absolut Relax",
+    "url": "https://edge03.live-sm.absolutradio.de/absolut-relax/stream/mp3",
+    "genre": "Easy Listening, Relax",
+    "city": "Garching bei München",
+    "country": "Germany",
+    "lat": 48.2667,
+    "lng": 11.6167
+  },
+  {
+    "id": "de-antenne-bayern",
+    "name": "Antenne Bayern",
+    "url": "https://s3-webradio.antenne.de/antenne",
+    "genre": "Pop, Rock",
+    "city": "Ismaning",
+    "country": "Germany",
+    "lat": 48.2333,
+    "lng": 11.6333
+  },
+  {
+    "id": "de-ballermann-radio",
+    "name": "Ballermann Radio",
+    "url": "https://stream.bmr-radio.de/ballermann-radio.mp3",
+    "genre": "Schlager, Party",
+    "city": "Krefeld",
+    "country": "Germany",
+    "lat": 51.3333,
+    "lng": 6.5667
+  },
+  {
+    "id": "de-br24",
+    "name": "BR24",
+    "url": "https://dispatcher.rndfnk.com/br/br24/live/mp3/mid",
+    "genre": "News, Talk",
+    "city": "Munich",
+    "country": "Germany",
+    "lat": 48.1351,
+    "lng": 11.582
+  },
+  {
+    "id": "de-dasding",
+    "name": "DASDING",
+    "url": "https://dispatcher.rndfnk.com/swr/dasding/live/mp3/128/stream.mp3?aggregator=web",
+    "genre": "Alternative, Youth",
+    "city": "Baden-Baden",
+    "country": "Germany",
+    "lat": 48.7667,
+    "lng": 8.25
+  },
+  {
+    "id": "de-deutschlandfunk",
+    "name": "Deutschlandfunk",
+    "url": "https://st01.sslstream.dlf.de/dlf/01/128/mp3/stream.mp3",
+    "genre": "News, Culture",
+    "city": "Cologne",
+    "country": "Germany",
+    "lat": 50.9375,
+    "lng": 6.9603
+  },
+  {
+    "id": "de-kiss-fm-988",
+    "name": "Kiss FM 98.8",
+    "url": "https://topradio.stream01.radiohost.de/kissfm_mp3-192",
+    "genre": "Pop, Dance",
+    "city": "Berlin",
+    "country": "Germany",
+    "lat": 52.52,
+    "lng": 13.405
+  },
+  {
+    "id": "de-ndr-2",
+    "name": "NDR 2",
+    "url": "https://icecast.ndr.de/ndr/ndr2/hamburg/mp3/128/stream.mp3",
+    "genre": "Pop, Rock",
+    "city": "Hamburg",
+    "country": "Germany",
+    "lat": 53.5511,
+    "lng": 9.9937
+  },
+  {
+    "id": "de-ndr-info",
+    "name": "NDR Info",
+    "url": "https://icecast.ndr.de/ndr/ndrinfo/hamburg/mp3/128/stream.mp3",
+    "genre": "News, Talk",
+    "city": "Hamburg",
+    "country": "Germany",
+    "lat": 53.5511,
+    "lng": 9.9937
+  },
+  {
+    "id": "in-adirai-fm-904",
+    "name": "Adirai FM 90.4",
+    "url": "https://listen.radioking.com/radio/188161/stream/230320",
+    "genre": "Music",
+    "city": "Adirampattinam",
+    "country": "India",
+    "lat": 9.5833,
+    "lng": 79.3667
+  },
+  {
+    "id": "in-anbu-fm",
+    "name": "Anbu FM",
+    "url": "https://stream.zeno.fm/5csru2np4bruv",
+    "genre": "Music",
+    "city": "Avinashi",
+    "country": "India",
+    "lat": 11.0,
+    "lng": 77.5
+  },
+  {
+    "id": "in-arni-city-fm",
+    "name": "Arni City FM",
+    "url": "https://usa9.fastcast4u.com/proxy/arnifm?mp=/1",
+    "genre": "Music",
+    "city": "Arani",
+    "country": "India",
+    "lat": 12.9333,
+    "lng": 79.35
+  },
+  {
+    "id": "in-arumbu",
+    "name": "Arumbu",
+    "url": "https://stream.zeno.fm/22db1xmde2zuv",
+    "genre": "Music",
+    "city": "Aruppukkottai",
+    "country": "India",
+    "lat": 9.8333,
+    "lng": 78.3
+  },
+  {
+    "id": "in-bhakti-sangeet",
+    "name": "Bhakti Sangeet",
+    "url": "https://stream.zeno.fm/ut3kgm1vsa0uv",
+    "genre": "Music",
+    "city": "Kalaburagi",
+    "country": "India",
+    "lat": 17.3333,
+    "lng": 76.8333
+  },
+  {
+    "id": "in-breezy-fm",
+    "name": "Breezy FM",
+    "url": "https://stream.zeno.fm/pb91axd747zuv",
+    "genre": "Music",
+    "city": "Narsampet",
+    "country": "India",
+    "lat": 18.0667,
+    "lng": 79.3667
+  },
+  {
+    "id": "in-hits-of-bollywood",
+    "name": "Hits Of Bollywood",
+    "url": "https://stream.zeno.fm/8ty8szwpwfeuv",
+    "genre": "Music",
+    "city": "Surat",
+    "country": "India",
+    "lat": 21.1702,
+    "lng": 72.8311
+  },
+  {
+    "id": "in-kadal-osai-904-fm",
+    "name": "Kadal Osai 90.4 FM",
+    "url": "https://streamasiacdn.atc-labs.com/kadalosaifm.aac",
+    "genre": "Music",
+    "city": "Ramanathapuram",
+    "country": "India",
+    "lat": 9.3833,
+    "lng": 78.8
+  },
+  {
+    "id": "in-madhafm",
+    "name": "MadhaFM",
+    "url": "https://madhafm.out.airtime.pro/madhafm_a",
+    "genre": "Music",
+    "city": "Madurai",
+    "country": "India",
+    "lat": 9.9252,
+    "lng": 78.1198
+  },
+  {
+    "id": "in-magizh-fm",
+    "name": "Magizh FM",
+    "url": "https://magizhfm-prabak78.radioca.st/stream",
+    "genre": "Music",
+    "city": "Paramakudi",
+    "country": "India",
+    "lat": 9.45,
+    "lng": 78.8
+  },
+  {
+    "id": "in-marathi-tarang",
+    "name": "Marathi Tarang",
+    "url": "https://silverstream.radioca.st/;",
+    "genre": "Music",
+    "city": "Sangli",
+    "country": "India",
+    "lat": 16.85,
+    "lng": 74.5833
+  },
+  {
+    "id": "in-mgm-fm-908",
+    "name": "MGM FM 90.8",
+    "url": "https://streamasiacdn.atc-labs.com/mgmradio.aac",
+    "genre": "Music",
+    "city": "Aurangabad",
+    "country": "India",
+    "lat": 19.8762,
+    "lng": 75.3433
+  },
+  {
+    "id": "in-mjoy-fm",
+    "name": "Mjoy FM",
+    "url": "https://stream.zeno.fm/fknner8931zuv",
+    "genre": "Music",
+    "city": "Vellore",
+    "country": "India",
+    "lat": 12.9141,
+    "lng": 79.1325
+  },
+  {
+    "id": "in-om-namasivaya-radio",
+    "name": "Om Namasivaya Radio",
+    "url": "https://stream.zeno.fm/sy5732veyy8uv",
+    "genre": "Music",
+    "city": "Nagercoil",
+    "country": "India",
+    "lat": 8.1777,
+    "lng": 77.4131
+  },
+  {
+    "id": "uk-60-north-radio",
+    "name": "60 North Radio",
+    "url": "https://cdn1.zetcast.net/stream",
+    "genre": "Music",
+    "city": "Hillswick",
+    "country": "United Kingdom",
+    "lat": 60.3333,
+    "lng": -1.3333
+  },
+  {
+    "id": "uk-bbc-world-service",
+    "name": "BBC World Service",
+    "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
+    "genre": "News",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.5074,
+    "lng": -0.1278
+  },
+  {
+    "id": "uk-caithness-fm-1065",
+    "name": "Caithness FM 106.5",
+    "url": "https://streamer.radio.co/s2b0b90cfe/listen",
+    "genre": "Music",
+    "city": "Thurso",
+    "country": "United Kingdom",
+    "lat": 58.5928,
+    "lng": -3.4316
+  },
+  {
+    "id": "uk-capital-dance",
+    "name": "Capital Dance",
+    "url": "https://media-ssl.musicradio.com/CapitalDance",
+    "genre": "Dance, Electronic",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.5074,
+    "lng": -0.1278
+  },
+  {
+    "id": "uk-capital-fm-manchester",
+    "name": "Capital FM Manchester",
+    "url": "https://media-ice.musicradio.com/CapitalManchesterMP3?.mp3",
+    "genre": "Music",
+    "city": "Manchester",
+    "country": "United Kingdom",
+    "lat": 53.4808,
+    "lng": -2.2426
+  },
+  {
+    "id": "uk-capital-xtra",
+    "name": "Capital Xtra",
+    "url": "https://media-ice.musicradio.com/CapitalXTRANationalMP3?.mp3",
+    "genre": "Music",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.5074,
+    "lng": -0.1278
+  },
+  {
+    "id": "uk-capital-xtra-reloaded",
+    "name": "Capital Xtra Reloaded",
+    "url": "https://media-ssl.musicradio.com/CapitalXTRAReloaded",
+    "genre": "Music",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.5074,
+    "lng": -0.1278
+  },
+  {
+    "id": "uk-chill-digital-radio",
+    "name": "Chill Digital Radio",
+    "url": "https://ice-sov.musicradio.com/ChillMP3",
+    "genre": "Easy Listening",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.5074,
+    "lng": -0.1278
+  },
+  {
+    "id": "uk-classic-fm-2",
+    "name": "Classic FM",
+    "url": "https://media-ice.musicradio.com/ClassicFMMP3",
+    "genre": "Classical",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.5074,
+    "lng": -0.1278
+  },
+  {
+    "id": "uk-gb-news",
+    "name": "GB News",
+    "url": "https://listen-gbnews.sharp-stream.com/gbnews.mp3",
+    "genre": "News",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.5074,
+    "lng": -0.1278
+  },
+  {
+    "id": "uk-gold-radio",
+    "name": "Gold Radio",
+    "url": "https://media-ssl.musicradio.com/Gold",
+    "genre": "Music",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.5074,
+    "lng": -0.1278
+  },
+  {
+    "id": "uk-heart-1062-fm",
+    "name": "Heart 106.2 FM",
+    "url": "https://ice-sov.musicradio.com/HeartLondonMP3",
+    "genre": "Music",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.5074,
+    "lng": -0.1278
+  },
+  {
+    "id": "uk-heart-90s-radio",
+    "name": "Heart 90s Radio",
+    "url": "https://media-ssl.musicradio.com/Heart90s",
+    "genre": "90s, Pop",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.5074,
+    "lng": -0.1278
+  },
+  {
+    "id": "uk-heart-80s-radio",
+    "name": "Heart 80s Radio",
+    "url": "https://media-ssl.musicradio.com/Heart80s",
+    "genre": "80s, Pop",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.5074,
+    "lng": -0.1278
+  },
+  {
+    "id": "uk-heart-xmas",
+    "name": "Heart Xmas",
+    "url": "https://media-ssl.musicradio.com/HeartXmasMP3",
+    "genre": "Music",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.5074,
+    "lng": -0.1278
+  },
+  {
+    "id": "uk-highland-hospital-radio",
+    "name": "Highland Hospital Radio",
+    "url": "https://uksoutha.streaming.broadcast.radio/invernesshr",
+    "genre": "Music",
+    "city": "Inverness",
+    "country": "United Kingdom",
+    "lat": 57.4778,
+    "lng": -4.2247
+  },
+  {
+    "id": "uk-islands-fm-1079",
+    "name": "Islands FM 107.9",
+    "url": "https://radio.canstream.co.uk:8040/live.mp3",
+    "genre": "Music",
+    "city": "Isles of Scilly",
+    "country": "United Kingdom",
+    "lat": 49.9167,
+    "lng": -6.3333
+  },
+  {
+    "id": "uk-lbc-london",
+    "name": "LBC London",
+    "url": "https://media-the.musicradio.com/LBCLondon",
+    "genre": "News",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.5074,
+    "lng": -0.1278
+  },
+  {
+    "id": "uk-lbc-london-news",
+    "name": "LBC London News",
+    "url": "https://media-the.musicradio.com/LBC1152",
+    "genre": "News",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.5074,
+    "lng": -0.1278
+  },
+  {
+    "id": "uk-lbc-uk",
+    "name": "LBC UK",
+    "url": "https://media-ice.musicradio.com/LBCUKMP3Low",
+    "genre": "News",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.5074,
+    "lng": -0.1278
+  },
+  {
+    "id": "uk-mi-soul",
+    "name": "Mi-Soul",
+    "url": "https://listen-misoul.sharp-stream.com/462_mi_soul_128_mp3",
+    "genre": "Music",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.5074,
+    "lng": -0.1278
+  },
+  {
+    "id": "uk-radio-x-london",
+    "name": "Radio X London",
+    "url": "https://media-the.musicradio.com/RadioXLondonMP3",
+    "genre": "Music",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.5074,
+    "lng": -0.1278
+  },
+  {
+    "id": "uk-sanskar-radio",
+    "name": "Sanskar Radio",
+    "url": "https://radio.canstream.co.uk:8024/live.mp3",
+    "genre": "Music",
+    "city": "Leicester",
+    "country": "United Kingdom",
+    "lat": 52.6369,
+    "lng": -1.1398
+  },
+  {
+    "id": "uk-sibc",
+    "name": "SIBC",
+    "url": "https://tx9.zetcast.net:8100/stream",
+    "genre": "Music",
+    "city": "Lerwick",
+    "country": "United Kingdom",
+    "lat": 60.1555,
+    "lng": -1.1433
+  },
+  {
+    "id": "uk-smooth-radio-1057",
+    "name": "Smooth Radio 105.7",
+    "url": "https://media-ice.musicradio.com/SmoothWestMidsMP3?.mp3",
+    "genre": "Easy Listening",
+    "city": "Birmingham",
+    "country": "United Kingdom",
+    "lat": 52.4862,
+    "lng": -1.8904
+  },
+  {
+    "id": "uk-smooth-radio-north-west",
+    "name": "Smooth Radio North West",
+    "url": "https://media-sov.musicradio.com/SmoothNorthWestMP3",
+    "genre": "Easy Listening",
+    "city": "Manchester",
+    "country": "United Kingdom",
+    "lat": 53.4808,
+    "lng": -2.2426
+  },
+  {
+    "id": "uk-supreme-fm-998",
+    "name": "Supreme FM 99.8",
+    "url": "https://supremefmwebsite-friskydj.radioca.st/stream",
+    "genre": "Music",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.5074,
+    "lng": -0.1278
+  },
+  {
+    "id": "uk-talkradio",
+    "name": "talkRADIO",
+    "url": "https://talk.live.stream.broadcasting.news/stream",
+    "genre": "News",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.5074,
+    "lng": -0.1278
+  },
+  {
+    "id": "uk-times-radio",
+    "name": "Times Radio",
+    "url": "https://times.live.stream.broadcasting.news/stream",
+    "genre": "News",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.5074,
+    "lng": -0.1278
+  },
+  {
+    "id": "uk-unique-radio",
+    "name": "Unique Radio",
+    "url": "https://securestreams.autopo.st:2530/;",
+    "genre": "Music",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.5074,
+    "lng": -0.1278
+  },
+  {
+    "id": "uk-vibes-fm",
+    "name": "Vibes FM",
+    "url": "https://a10.asurahosting.com:9040/radio.mp3",
+    "genre": "Music",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.5074,
+    "lng": -0.1278
+  },
+  {
+    "id": "uk-venture-fm",
+    "name": "Venture FM",
+    "url": "https://c20.radioboss.fm:8383/stream",
+    "genre": "Music",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.5074,
+    "lng": -0.1278
+  },
+  {
+    "id": "it-radio-105--zoo",
+    "name": "Radio 105 - Zoo",
+    "url": "https://icy.unitedradio.it/105Zoo.mp3",
+    "genre": "Music",
+    "city": "Milan",
+    "country": "Italy",
+    "lat": 45.4642,
+    "lng": 9.19
+  },
+  {
+    "id": "it-radio-80",
+    "name": "Radio 80",
+    "url": "https://sphera.fluidstream.eu/radio80.aac?FLID=5",
+    "genre": "80s, Pop",
+    "city": "Noventa Padovana",
+    "country": "Italy",
+    "lat": 45.3167,
+    "lng": 12.1333
+  },
+  {
+    "id": "it-radio-birikina",
+    "name": "Radio BiriKina",
+    "url": "https://wma01.fluidstream.net/birikina",
+    "genre": "Music",
+    "city": "Castelfranco Veneto",
+    "country": "Italy",
+    "lat": 45.6,
+    "lng": 11.9
+  },
+  {
+    "id": "it-radio-bruno",
+    "name": "Radio Bruno",
+    "url": "https://stream1.xdevel.com/audio4s975355-254/stream/icecast.audio",
+    "genre": "Music",
+    "city": "Carpi",
+    "country": "Italy",
+    "lat": 44.6667,
+    "lng": 10.9333
+  },
+  {
+    "id": "it-radio-capri",
+    "name": "Radio Capri",
+    "url": "https://stream10.xdevel.com/audio0s977359-1881/stream/icecast.audio",
+    "genre": "Music",
+    "city": "Capri",
+    "country": "Italy",
+    "lat": 40.55,
+    "lng": 14.2333
+  },
+  {
+    "id": "it-radio-cristiana-edap",
+    "name": "Radio Cristiana EDAP",
+    "url": "https://s7.yesstreaming.net/stream/8046/edap.mp3",
+    "genre": "Religious",
+    "city": "Marano di Napoli",
+    "country": "Italy",
+    "lat": 40.95,
+    "lng": 14.2333
+  },
+  {
+    "id": "it-radio-dimensione-musica-fm-953",
+    "name": "Radio Dimensione Musica FM 95.3",
+    "url": "https://shoutcast2.streamingmedia.it/proxy/rdm?mp=/stream",
+    "genre": "Music",
+    "city": "Fiumicino",
+    "country": "Italy",
+    "lat": 41.7606,
+    "lng": 12.2446
+  },
+  {
+    "id": "it-radio-italia-anni-60",
+    "name": "Radio Italia anni 60",
+    "url": "https://ice12.fluidstream.net/ria60_mi.aac",
+    "genre": "60s, Oldies",
+    "city": "Milan",
+    "country": "Italy",
+    "lat": 45.4642,
+    "lng": 9.19
+  },
+  {
+    "id": "it-radio-kiss-kiss",
+    "name": "Radio Kiss Kiss",
+    "url": "https://kisskiss.fluidstream.eu/KissKiss.aac",
+    "genre": "Music",
+    "city": "Naples",
+    "country": "Italy",
+    "lat": 40.8518,
+    "lng": 14.2681
+  },
+  {
+    "id": "it-radiolina",
+    "name": "Radiolina",
+    "url": "https://streaming.shoutcast.com/radiolina",
+    "genre": "Music",
+    "city": "Cagliari",
+    "country": "Italy",
+    "lat": 39.2239,
+    "lng": 9.1211
+  },
+  {
+    "id": "it-radio-mana-mana-sport-roma-909",
+    "name": "Radio Manà Manà Sport Roma 90.9",
+    "url": "https://stream10.xdevel.com/audio2s975363-2142/stream/icecast.audio",
+    "genre": "Music",
+    "city": "Rome",
+    "country": "Italy",
+    "lat": 41.9028,
+    "lng": 12.4964
+  },
+  {
+    "id": "it-radio-romanista-fm-977",
+    "name": "Radio Romanista FM 97.7",
+    "url": "https://romanista.newradio.it/stream",
+    "genre": "Music",
+    "city": "Rome",
+    "country": "Italy",
+    "lat": 41.9028,
+    "lng": 12.4964
+  },
+  {
+    "id": "it-radio-subasio-887",
+    "name": "Radio Subasio 88.7",
+    "url": "https://icy.unitedradio.it/Subasio.mp3",
+    "genre": "Music",
+    "city": "Assisi",
+    "country": "Italy",
+    "lat": 43.0624,
+    "lng": 12.6149
+  },
+  {
+    "id": "it-rai-radio-classica",
+    "name": "Rai Radio Classica",
+    "url": "https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S53422322/bTdUFhYMnnra/icecast",
+    "genre": "Classical",
+    "city": "Rome",
+    "country": "Italy",
+    "lat": 41.9028,
+    "lng": 12.4964
+  },
+  {
+    "id": "it-funky-radio",
+    "name": "Funky Radio",
+    "url": "https://funkyradio.streamingmedia.it/audio.aac",
+    "genre": "Funk, Soul",
+    "city": "Milan",
+    "country": "Italy",
+    "lat": 45.4642,
+    "lng": 9.19
+  },
+  {
+    "id": "it-lifegate-radio-fm-1051",
+    "name": "Lifegate Radio FM 105.1",
+    "url": "https://stream6.xdevel.com/audio0s975809-425/stream/icecast.audio",
+    "genre": "Music",
+    "city": "Milan",
+    "country": "Italy",
+    "lat": 45.4642,
+    "lng": 9.19
+  },
+  {
+    "id": "it-prl-fm-1017",
+    "name": "P.R.L. FM 101.7",
+    "url": "https://mpantusa-danidi01.radioca.st/stream",
+    "genre": "Music",
+    "city": "San Giovanni in Fiore",
+    "country": "Italy",
+    "lat": 39.75,
+    "lng": 16.5333
+  },
+  {
+    "id": "it-r101-fm-899",
+    "name": "R101 FM 89.9",
+    "url": "https://icecast.unitedradio.it/r101",
+    "genre": "Music",
+    "city": "Milan",
+    "country": "Italy",
+    "lat": 45.4642,
+    "lng": 9.19
+  },
+  {
+    "id": "it-radio-105-fm",
+    "name": "Radio 105 FM",
+    "url": "https://icecast.unitedradio.it/Radio105.mp3",
+    "genre": "Music",
+    "city": "Milan",
+    "country": "Italy",
+    "lat": 45.4642,
+    "lng": 9.19
+  },
+  {
+    "id": "es-cadena-100",
+    "name": "Cadena 100",
+    "url": "https://flucast01-o-cloud.flumotion.com/cope/cadena100.mp3",
+    "genre": "Music",
+    "city": "Madrid",
+    "country": "Spain",
+    "lat": 40.4168,
+    "lng": -3.7038
+  },
+  {
+    "id": "es-cadena-ser",
+    "name": "Cadena Ser",
+    "url": "https://25483.live.streamtheworld.com/CADENASERAAC.aac",
+    "genre": "News, Talk",
+    "city": "Madrid",
+    "country": "Spain",
+    "lat": 40.4168,
+    "lng": -3.7038
+  },
+  {
+    "id": "es-catalunya-radio",
+    "name": "Catalunya Ràdio",
+    "url": "https://shoutcast.ccma.cat/ccma/catalunyaradioHD.mp3",
+    "genre": "Music",
+    "city": "Barcelona",
+    "country": "Spain",
+    "lat": 41.3851,
+    "lng": 2.1734
+  },
+  {
+    "id": "es-flaixbac",
+    "name": "Flaixbac",
+    "url": "https://stream.flaixbac.cat/icecast",
+    "genre": "Music",
+    "city": "Barcelona",
+    "country": "Spain",
+    "lat": 41.3851,
+    "lng": 2.1734
+  },
+  {
+    "id": "es-ibiza-global-radio-fm-1008",
+    "name": "Ibiza Global Radio FM 100.8",
+    "url": "https://cdn-peer022.streaming-pro.com:8025/ibizaglobalradio.mp3",
+    "genre": "Dance, Electronic",
+    "city": "Ibiza",
+    "country": "Spain",
+    "lat": 38.9083,
+    "lng": 1.4333
+  },
+  {
+    "id": "es-ibiza-stardust-radio",
+    "name": "Ibiza Stardust Radio",
+    "url": "https://listen.radioking.com/radio/260965/stream/524456",
+    "genre": "Dance, Electronic",
+    "city": "Cala Llonga",
+    "country": "Spain",
+    "lat": 38.85,
+    "lng": 1.4667
+  },
+  {
+    "id": "es-loca-remember",
+    "name": "Loca Remember",
+    "url": "https://s02.fjperezdj.com:8035/live",
+    "genre": "Oldies, Pop",
+    "city": "Madrid",
+    "country": "Spain",
+    "lat": 40.4168,
+    "lng": -3.7038
+  },
+  {
+    "id": "es-radio-marca",
+    "name": "Radio Marca",
+    "url": "https://19993.live.streamtheworld.com/RADIOMARCA_NACIONAL.mp3",
+    "genre": "News, Talk",
+    "city": "Madrid",
+    "country": "Spain",
+    "lat": 40.4168,
+    "lng": -3.7038
+  },
+  {
+    "id": "es-rne-radio-clasica-fm-988",
+    "name": "RNE Radio Clásica FM 98.8",
+    "url": "https://dispatcher.rndfnk.com/crtve/rnerc/main/mp3/high",
+    "genre": "Classical",
+    "city": "Madrid",
+    "country": "Spain",
+    "lat": 40.4168,
+    "lng": -3.7038
+  },
+  {
+    "id": "es-ser-+-sevilla",
+    "name": "Ser + Sevilla",
+    "url": "https://29053.live.streamtheworld.com/SER_MAS_SEVILLA.mp3",
+    "genre": "News, Talk",
+    "city": "Seville",
+    "country": "Spain",
+    "lat": 37.3891,
+    "lng": -5.9845
+  },
+  {
+    "id": "ru-101ru--russkie-pesni",
+    "name": "101.RU - Русские Песни",
+    "url": "https://pub0202.101.ru:8443/stream/pro/aac/64/41",
+    "genre": "Russian Music",
+    "city": "Never",
+    "country": "Russia",
+    "lat": 56.5,
+    "lng": 38.2
+  },
+  {
+    "id": "ru-101ru--diskoteka-sssr",
+    "name": "101.RU - Дискотека СССР",
+    "url": "https://pub0202.101.ru:8443/stream/pro/aac/64/144",
+    "genre": "Retro, Oldies",
+    "city": "Moscow",
+    "country": "Russia",
+    "lat": 55.7558,
+    "lng": 37.6173
+  },
+  {
+    "id": "ru-avtoradio-fm-910",
+    "name": "Avtoradio FM 91.0",
+    "url": "https://srv01.gpmradio.ru/stream/reg/aac/64/region_avto_tz_0",
+    "genre": "Music",
+    "city": "Volokolamsk",
+    "country": "Russia",
+    "lat": 56.2333,
+    "lng": 36.3167
+  },
+  {
+    "id": "ru-europa-plus",
+    "name": "Europa Plus",
+    "url": "https://emgspb.hostingradio.ru/europaplusspb128.mp3",
+    "genre": "Music",
+    "city": "Saint Petersburg",
+    "country": "Russia",
+    "lat": 59.9343,
+    "lng": 30.3351
+  },
+  {
+    "id": "ru-kamchatka-live-dance",
+    "name": "Kamchatka Live Dance",
+    "url": "https://radio.kamchatkalive.ru:8103/dance",
+    "genre": "Dance, Electronic",
+    "city": "Petropavlovsk-Kamchatsky",
+    "country": "Russia",
+    "lat": 53.0333,
+    "lng": 158.65
+  },
+  {
+    "id": "ru-muzhi-fm-1034",
+    "name": "Muzhi FM 103.4",
+    "url": "https://srv11.gpmradio.ru:8443/stream/pro/aac/64/472",
+    "genre": "Music",
+    "city": "Muzhi",
+    "country": "Russia",
+    "lat": 56.75,
+    "lng": 38.15
+  },
+  {
+    "id": "ru-nashe-radio",
+    "name": "Nashe Radio",
+    "url": "https://nashe1.hostingradio.ru/nashe-128.mp3",
+    "genre": "Music",
+    "city": "Moscow",
+    "country": "Russia",
+    "lat": 55.7558,
+    "lng": 37.6173
+  },
+  {
+    "id": "ru-radio-chocolate-98-fm",
+    "name": "Radio Chocolate 98 FM",
+    "url": "https://choco.hostingradio.ru:10010/fm",
+    "genre": "Music",
+    "city": "Moscow",
+    "country": "Russia",
+    "lat": 55.7558,
+    "lng": 37.6173
+  },
+  {
+    "id": "ru-radio-energy",
+    "name": "Radio Energy",
+    "url": "https://srv12.gpmradio.ru:8443/stream/reg/aac/64/region_energy_tz_0",
+    "genre": "Music",
+    "city": "Akhtubinsk",
+    "country": "Russia",
+    "lat": 48.0833,
+    "lng": 46.2333
+  },
+  {
+    "id": "ru-radio-gora-fm-995",
+    "name": "Radio Gora FM 99.5",
+    "url": "https://skycaster.ru/8114/stream",
+    "genre": "Music",
+    "city": "Aldan",
+    "country": "Russia",
+    "lat": 58.6833,
+    "lng": 125.3
+  },
+  {
+    "id": "ru-radio-kolyma-1075-fm",
+    "name": "Radio Kolyma 107,5 FM",
+    "url": "https://icecast-kolymaplus.cdnvideo.ru/kolyma",
+    "genre": "Music",
+    "city": "Magadan",
+    "country": "Russia",
+    "lat": 59.5667,
+    "lng": 150.8
+  },
+  {
+    "id": "ru-radio-kp",
+    "name": "Radio KP",
+    "url": "https://kpradio.hostingradio.ru:8000/vologda.radiokp128.mp3",
+    "genre": "Music",
+    "city": "Vologda",
+    "country": "Russia",
+    "lat": 59.2222,
+    "lng": 39.8833
+  },
+  {
+    "id": "ru-radio-monte-carlo--sweet",
+    "name": "Radio Monte Carlo - Sweet",
+    "url": "https://mc-mcsweet.hostingradio.ru/mcsweet96.aacp",
+    "genre": "Music",
+    "city": "Moscow",
+    "country": "Russia",
+    "lat": 55.7558,
+    "lng": 37.6173
+  },
+  {
+    "id": "ru-relax-fm",
+    "name": "Relax FM",
+    "url": "https://pub0302.101.ru:8443/stream/air/aac/64/200",
+    "genre": "Easy Listening, Relax",
+    "city": "Moscow",
+    "country": "Russia",
+    "lat": 55.7558,
+    "lng": 37.6173
+  },
+  {
+    "id": "ru-retro-fm-moscow",
+    "name": "Retro FM Moscow",
+    "url": "https://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3",
+    "genre": "Retro, Oldies",
+    "city": "Moscow",
+    "country": "Russia",
+    "lat": 55.7558,
+    "lng": 37.6173
+  },
+  {
+    "id": "ru-ataman-fm-1059",
+    "name": "Атаман FM 105.9",
+    "url": "https://listen5.myradio24.com/ataman",
+    "genre": "Music",
+    "city": "Salsk",
+    "country": "Russia",
+    "lat": 47.6333,
+    "lng": 40.25
+  },
+  {
+    "id": "ru-pyatnika-kazhdogo-vechera",
+    "name": "Пятника каждого вечера",
+    "url": "https://listen1.myradio24.com/kralex",
+    "genre": "Music",
+    "city": "Pechora",
+    "country": "Russia",
+    "lat": 65.2833,
+    "lng": 57.6
+  },
+  {
+    "id": "ca-cfax-1070-am",
+    "name": "CFAX 1070 AM",
+    "url": "https://14103.live.streamtheworld.com/CFAXAMAAC.aac",
+    "genre": "Music",
+    "city": "Victoria",
+    "country": "Canada",
+    "lat": 48.4284,
+    "lng": -123.3656
+  },
+  {
+    "id": "ca-cfny-the-edge-1021-fm",
+    "name": "CFNY The Edge 102.1 FM",
+    "url": "https://live.leanstream.co/CFNYFM-MP3",
+    "genre": "Alternative, Rock",
+    "city": "Toronto",
+    "country": "Canada",
+    "lat": 43.6532,
+    "lng": -79.3832
+  },
+  {
+    "id": "ca-cfra-am-580",
+    "name": "CFRA AM 580",
+    "url": "https://15693.live.streamtheworld.com/CFRAAMAAC.aac",
+    "genre": "Music",
+    "city": "Ottawa",
+    "country": "Canada",
+    "lat": 45.4215,
+    "lng": -75.6972
+  },
+  {
+    "id": "ca-cfrb-1010-am-toronto",
+    "name": "CFRB 1010 AM Toronto",
+    "url": "https://18183.live.streamtheworld.com/CFRBAMAAC.aac",
+    "genre": "Music",
+    "city": "Toronto",
+    "country": "Canada",
+    "lat": 43.6532,
+    "lng": -79.3832
+  },
+  {
+    "id": "ca-cfyt-1069-fm",
+    "name": "CFYT 106.9 FM",
+    "url": "https://stream.cfyt.ca/listen/stream/radio.mp3",
+    "genre": "Music",
+    "city": "Dawson City",
+    "country": "Canada",
+    "lat": 64.0667,
+    "lng": -139.4333
+  },
+  {
+    "id": "ca-ched-880-am",
+    "name": "CHED 880 AM",
+    "url": "https://corus.leanstream.co/CHEDAM-MP3",
+    "genre": "Music",
+    "city": "Edmonton",
+    "country": "Canada",
+    "lat": 53.5344,
+    "lng": -113.4909
+  },
+  {
+    "id": "ca-chfi-fm-981",
+    "name": "CHFI FM 98.1",
+    "url": "https://rogers-hls.leanstream.co/rogers/tor981.stream/icy",
+    "genre": "Music",
+    "city": "Toronto",
+    "country": "Canada",
+    "lat": 43.6532,
+    "lng": -79.3832
+  },
+  {
+    "id": "ca-ciau-1031-fm",
+    "name": "CIAU 103,1 FM",
+    "url": "https://s47.myradiostream.com:15778/listen.mp3",
+    "genre": "Music",
+    "city": "Radisson",
+    "country": "Canada",
+    "lat": 53.8167,
+    "lng": -103.65
+  },
+  {
+    "id": "ca-cile-havre-saint-pierre",
+    "name": "CILE Havre-Saint-Pierre",
+    "url": "https://arcq.streamb.live/SB00263",
+    "genre": "Music",
+    "city": "Havre-Saint-Pierre",
+    "country": "Canada",
+    "lat": 50.2333,
+    "lng": -63.6833
+  },
+  {
+    "id": "ca-cilq--q107",
+    "name": "CILQ - Q107",
+    "url": "https://corus.leanstream.co/CILQFM",
+    "genre": "Music",
+    "city": "Toronto",
+    "country": "Canada",
+    "lat": 43.6532,
+    "lng": -79.3832
+  },
+  {
+    "id": "ca-cjob-am-680",
+    "name": "CJOB AM 680",
+    "url": "https://corus.leanstream.co/CJOBAM-MP3",
+    "genre": "Music",
+    "city": "Winnipeg",
+    "country": "Canada",
+    "lat": 49.8951,
+    "lng": -97.1384
+  },
+  {
+    "id": "ca-cjse-fm-country-89",
+    "name": "CJSE-FM Country 89",
+    "url": "https://stream2.statsradio.com:8008/stream",
+    "genre": "Country",
+    "city": "Shediac",
+    "country": "Canada",
+    "lat": 46.3167,
+    "lng": -64.4833
+  },
+  {
+    "id": "ca-cknw-980-am",
+    "name": "CKNW 980 AM",
+    "url": "https://live.leanstream.co/CKNWAM-MP3",
+    "genre": "Music",
+    "city": "Vancouver",
+    "country": "Canada",
+    "lat": 49.2827,
+    "lng": -123.1207
+  },
+  {
+    "id": "ca-ckuj-973-fm",
+    "name": "CKUJ 97.3 FM",
+    "url": "https://kuujjuamiut.streamb.live/SB00350",
+    "genre": "Music",
+    "city": "Kuujjuaq",
+    "country": "Canada",
+    "lat": 58.2,
+    "lng": -68.5333
+  },
+  {
+    "id": "ca-flow-987-fm",
+    "name": "Flow 98.7 FM",
+    "url": "https://ice64.securenetsystems.net/CKFG?playSessionID=E847938E-35B2-4362-B3815D52E79A1532",
+    "genre": "Music",
+    "city": "Toronto",
+    "country": "Canada",
+    "lat": 43.6532,
+    "lng": -79.3832
+  },
+  {
+    "id": "ca-sn590-the-fan",
+    "name": "SN590 The FAN",
+    "url": "https://rogers-hls.leanstream.co/rogers/tor590.stream/icy",
+    "genre": "Sports, Talk",
+    "city": "Toronto",
+    "country": "Canada",
+    "lat": 43.6532,
+    "lng": -79.3832
+  },
+  {
+    "id": "ca-tsn-1050-toronto",
+    "name": "TSN 1050 Toronto",
+    "url": "https://27033.live.streamtheworld.com/CHUMAMAAC.aac",
+    "genre": "Sports, Talk",
+    "city": "Toronto",
+    "country": "Canada",
+    "lat": 43.6532,
+    "lng": -79.3832
+  },
+  {
+    "id": "au-2sm-1269-am",
+    "name": "2SM 1269 AM",
+    "url": "https://cast4.asurahosting.com/proxy/2sm1269/stream",
+    "genre": "Music",
+    "city": "Sydney",
+    "country": "Australia",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "id": "au-6ix-am-1080",
+    "name": "6iX AM 1080",
+    "url": "https://23193.live.streamtheworld.com/6IXAAC.aac",
+    "genre": "Music",
+    "city": "Perth",
+    "country": "Australia",
+    "lat": -31.9505,
+    "lng": 115.8605
+  },
+  {
+    "id": "au-6pr-882",
+    "name": "6PR 882",
+    "url": "https://23163.live.streamtheworld.com/6PRAAC_O.aac",
+    "genre": "Music",
+    "city": "Perth",
+    "country": "Australia",
+    "lat": -31.9505,
+    "lng": 115.8605
+  },
+  {
+    "id": "au-8ccc-fm-1021",
+    "name": "8CCC FM 102.1",
+    "url": "https://28853.live.streamtheworld.com/8CCC.mp3",
+    "genre": "Music",
+    "city": "Alice Springs",
+    "country": "Australia",
+    "lat": -23.7,
+    "lng": 133.8833
+  },
+  {
+    "id": "au-abc-brisbane",
+    "name": "ABC Brisbane",
+    "url": "https://abc.streamguys1.com/live/localbrisbane/icecast.audio",
+    "genre": "Music",
+    "city": "Brisbane",
+    "country": "Australia",
+    "lat": -27.4698,
+    "lng": 153.0251
+  },
+  {
+    "id": "au-abc-classic",
+    "name": "ABC Classic",
+    "url": "https://abc.streamguys1.com/live/classicfmnsw/icecast.audio",
+    "genre": "Classical",
+    "city": "Sydney",
+    "country": "Australia",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "id": "au-abc-newsradio",
+    "name": "ABC NewsRadio",
+    "url": "https://abc.streamguys1.com/live/newsradio/icecast.audio",
+    "genre": "News",
+    "city": "Sydney",
+    "country": "Australia",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "id": "au-abc-north-west-wa",
+    "name": "ABC North West (WA)",
+    "url": "https://abc.streamguys1.com/live/localpilbara/icecast.audio",
+    "genre": "Music",
+    "city": "Karratha",
+    "country": "Australia",
+    "lat": -20.7377,
+    "lng": 116.8463
+  },
+  {
+    "id": "au-abc-radio-adelaide-am-891",
+    "name": "ABC Radio Adelaide AM 891",
+    "url": "https://abc.streamguys1.com/live/localadelaide/icecast.audio",
+    "genre": "Music",
+    "city": "Adelaide",
+    "country": "Australia",
+    "lat": -34.9285,
+    "lng": 138.6007
+  },
+  {
+    "id": "au-abc-radio-national",
+    "name": "ABC Radio National",
+    "url": "https://abc.streamguys1.com/live/rnnsw/icecast.audio",
+    "genre": "Music",
+    "city": "Sydney",
+    "country": "Australia",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "id": "au-abc-radio-sydney-am-702",
+    "name": "ABC Radio Sydney AM 702",
+    "url": "https://abc.streamguys1.com/live/localsydney/icecast.audio",
+    "genre": "Music",
+    "city": "Sydney",
+    "country": "Australia",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "id": "au-bay-islands-radio-fm88-sw5045",
+    "name": "Bay Islands Radio FM88 SW5045",
+    "url": "https://usa2.fastcast4u.com/proxy/kevinsch?mp=/1",
+    "genre": "Music",
+    "city": "Russell Island",
+    "country": "Australia",
+    "lat": -27.65,
+    "lng": 153.3
+  },
+  {
+    "id": "au-bunbury-cr-1037-fm",
+    "name": "Bunbury CR 103.7 FM",
+    "url": "https://23193.live.streamtheworld.com/6BCRAAC.aac",
+    "genre": "Music",
+    "city": "Bunbury",
+    "country": "Australia",
+    "lat": -33.3333,
+    "lng": 115.6667
+  },
+  {
+    "id": "au-caama-radio-fm-1005",
+    "name": "CAAMA Radio FM 100.5",
+    "url": "https://streamer.radio.co/sa67d9a81d/listen",
+    "genre": "Music",
+    "city": "Alice Springs",
+    "country": "Australia",
+    "lat": -23.7,
+    "lng": 133.8833
+  },
+  {
+    "id": "au-classic-876-fm",
+    "name": "Classic 87.6 FM",
+    "url": "https://stream.classic876.com:8000/sid=1",
+    "genre": "Classical",
+    "city": "Carnarvon",
+    "country": "Australia",
+    "lat": -24.8667,
+    "lng": 113.6333
+  },
+  {
+    "id": "au-coast-fm-973",
+    "name": "Coast FM 97.3",
+    "url": "https://tls1.coastdev.net/coast-mp3",
+    "genre": "Music",
+    "city": "Mandurah",
+    "country": "Australia",
+    "lat": -32.5333,
+    "lng": 115.75
+  },
+  {
+    "id": "au-double-j",
+    "name": "Double J",
+    "url": "https://abc.streamguys1.com/live/doublejnsw/icecast.audio",
+    "genre": "Alternative, Rock",
+    "city": "Sydney",
+    "country": "Australia",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "id": "au-hope-fm-1039",
+    "name": "Hope FM 103.9",
+    "url": "https://28853.live.streamtheworld.com/6ESPAAC.aac",
+    "genre": "Music",
+    "city": "Esperance",
+    "country": "Australia",
+    "lat": -33.8667,
+    "lng": 121.9
+  },
+  {
+    "id": "au-mayhem-radio-fm-1013",
+    "name": "Mayhem Radio FM 101.3",
+    "url": "https://memphis.radioca.st/;",
+    "genre": "Music",
+    "city": "Tweed Heads West",
+    "country": "Australia",
+    "lat": -28.1833,
+    "lng": 153.5333
+  },
+  {
+    "id": "au-nova-1003-fm",
+    "name": "Nova 100.3 FM",
+    "url": "https://23153.live.streamtheworld.com/NOVA_100_AAC48.aac",
+    "genre": "Music",
+    "city": "Melbourne",
+    "country": "Australia",
+    "lat": -37.8136,
+    "lng": 144.9631
+  },
+  {
+    "id": "au-nova-969",
+    "name": "Nova 96.9",
+    "url": "https://28793.live.streamtheworld.com/NOVA_969_AAC320.aac",
+    "genre": "Music",
+    "city": "Sydney",
+    "country": "Australia",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "id": "au-outback-radio-2web",
+    "name": "Outback Radio 2WEB",
+    "url": "https://ssl1.viastreaming.net:7230/stream",
+    "genre": "Music",
+    "city": "Bourke",
+    "country": "Australia",
+    "lat": -30.0333,
+    "lng": 145.9167
+  },
+  {
+    "id": "au-paradise-fm-1019",
+    "name": "Paradise FM 101.9",
+    "url": "https://stream2.cnmns.net/paradisefm",
+    "genre": "Music",
+    "city": "Ballina",
+    "country": "Australia",
+    "lat": -28.8667,
+    "lng": 153.5667
+  },
+  {
+    "id": "au-paw-radio-warlpiri",
+    "name": "PAW Radio Warlpiri",
+    "url": "https://firstnationsmedia.stream/8016/stream",
+    "genre": "Music",
+    "city": "Yuendumu",
+    "country": "Australia",
+    "lat": -22.0667,
+    "lng": 131.5
+  },
+  {
+    "id": "au-pbs-fm-1067",
+    "name": "PBS FM 106.7",
+    "url": "https://28863.live.streamtheworld.com/3PBS_FMAACHIGH.aac",
+    "genre": "Music",
+    "city": "Melbourne",
+    "country": "Australia",
+    "lat": -37.8136,
+    "lng": 144.9631
+  },
+  {
+    "id": "au-rfds-radio-qld",
+    "name": "RFDS Radio QLD",
+    "url": "https://onair7.xdevel.com/proxy/xautocloud_guww_1897?mp=/;1/",
+    "genre": "Music",
+    "city": "Mount Isa",
+    "country": "Australia",
+    "lat": -20.7333,
+    "lng": 139.5
+  },
+  {
+    "id": "au-sbs-chill",
+    "name": "SBS Chill",
+    "url": "https://sbs-ice.streamguys1.com/sbschill-sbs-web",
+    "genre": "Chillout, Ambient",
+    "city": "Sydney",
+    "country": "Australia",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "id": "au-sky-news-australia",
+    "name": "Sky News Australia",
+    "url": "https://22283.live.streamtheworld.com/NOVA_SKYNEWSAAC.aac",
+    "genre": "News",
+    "city": "Sydney",
+    "country": "Australia",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "id": "au-smooth-fm-915",
+    "name": "Smooth FM 91.5",
+    "url": "https://28793.live.streamtheworld.com/SMOOTH915_AAC48.aac",
+    "genre": "Easy Listening",
+    "city": "Melbourne",
+    "country": "Australia",
+    "lat": -37.8136,
+    "lng": 144.9631
+  },
+  {
+    "id": "au-sta-fm-919",
+    "name": "STA FM 91.9",
+    "url": "https://23163.live.streamtheworld.com/2STAAAC.aac",
+    "genre": "Music",
+    "city": "Inverell",
+    "country": "Australia",
+    "lat": -29.7833,
+    "lng": 151.1167
+  },
+  {
+    "id": "au-sunshine-fm-1049",
+    "name": "Sunshine FM 104.9",
+    "url": "https://28853.live.streamtheworld.com/4SFMAAC_SC",
+    "genre": "Music",
+    "city": "Sunshine Coast",
+    "country": "Australia",
+    "lat": -26.647,
+    "lng": 153.0963
+  },
+  {
+    "id": "au-totally-radio-greatest-hits",
+    "name": "Totally Radio Greatest Hits",
+    "url": "https://23093.live.streamtheworld.com/T_RAD_GRTST_HITS_S01AAC.aac",
+    "genre": "Oldies, Pop",
+    "city": "Sydney",
+    "country": "Australia",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "id": "au-triple-j",
+    "name": "Triple J",
+    "url": "https://abc.streamguys1.com/live/triplejnsw/icecast.audio",
+    "genre": "Alternative, Rock",
+    "city": "Sydney",
+    "country": "Australia",
+    "lat": -33.8688,
+    "lng": 151.2093
+  },
+  {
+    "id": "au-ugfm-1069",
+    "name": "UGFM 106.9",
+    "url": "https://streamer5.rightclickitservices.com:18905/aac",
+    "genre": "Music",
+    "city": "Alexandra",
+    "country": "Australia",
+    "lat": -37.0333,
+    "lng": 145.7167
+  },
+  {
+    "id": "nz-1074-bfm",
+    "name": "107.4 BFM",
+    "url": "https://s28.myradiostream.com/:21652/;",
+    "genre": "Music",
+    "city": "Christchurch",
+    "country": "New Zealand",
+    "lat": -43.5321,
+    "lng": 172.6362
+  },
+  {
+    "id": "nz-2xs-fm-1067",
+    "name": "2XS FM 106.7",
+    "url": "https://securestreams6.autopo.st:2465/listen.mp3/;",
+    "genre": "Music",
+    "city": "Palmerston North",
+    "country": "New Zealand",
+    "lat": -40.3582,
+    "lng": 175.6161
+  },
+  {
+    "id": "nz-8knz",
+    "name": "8K.NZ",
+    "url": "https://radio8k.out.airtime.pro/radio8k_a",
+    "genre": "Music",
+    "city": "Christchurch",
+    "country": "New Zealand",
+    "lat": -43.5321,
+    "lng": 172.6362
+  },
+  {
+    "id": "nz-95bfm",
+    "name": "95bFM",
+    "url": "https://streams.95bfm.com/stream128",
+    "genre": "Music",
+    "city": "Auckland",
+    "country": "New Zealand",
+    "lat": -36.8485,
+    "lng": 174.7633
+  },
+  {
+    "id": "nz-absolute-live-fm-882",
+    "name": "Absolute Live FM 88.2",
+    "url": "https://stream.rcs.revma.com/ge6x97c5km3vv",
+    "genre": "Music",
+    "city": "Rolleston",
+    "country": "New Zealand",
+    "lat": -43.5833,
+    "lng": 172.4333
+  },
+  {
+    "id": "nz-akaroa-radio",
+    "name": "Akaroa Radio",
+    "url": "https://stream.radiojar.com/k0t12bsns1duv",
+    "genre": "Music",
+    "city": "Akaroa",
+    "country": "New Zealand",
+    "lat": -43.8833,
+    "lng": 172.9167
+  },
+  {
+    "id": "nz-badradio",
+    "name": "Badradio",
+    "url": "https://s2.radio.co/s2b2b68744/listen",
+    "genre": "Music",
+    "city": "Auckland",
+    "country": "New Zealand",
+    "lat": -36.8485,
+    "lng": 174.7633
+  },
+  {
+    "id": "nz-beach-fm-1063",
+    "name": "Beach FM 106.3",
+    "url": "https://s8.myradiostream.com/58408/listen.mp3",
+    "genre": "Music",
+    "city": "Paraparaumu",
+    "country": "New Zealand",
+    "lat": -40.9167,
+    "lng": 175.1667
+  },
+  {
+    "id": "nz-brian-fm-marlborough",
+    "name": "Brian FM Marlborough",
+    "url": "https://ais-sa1.streamon.fm/7103_128k.aac",
+    "genre": "Music",
+    "city": "Blenheim",
+    "country": "New Zealand",
+    "lat": -41.5167,
+    "lng": 173.95
+  },
+  {
+    "id": "nz-cruize-fm-1052",
+    "name": "Cruize FM 105.2",
+    "url": "https://cruizefm.out.airtime.pro/cruizefm_a",
+    "genre": "Music",
+    "city": "New Plymouth",
+    "country": "New Zealand",
+    "lat": -39.0556,
+    "lng": 174.075
+  },
+  {
+    "id": "nz-drop-fm-877",
+    "name": "Drop FM 87.7",
+    "url": "https://s2.radio.co/s7649837db/listen",
+    "genre": "Music",
+    "city": "Queenstown",
+    "country": "New Zealand",
+    "lat": -45.0312,
+    "lng": 168.6626
+  },
+  {
+    "id": "nz-high-country-fm",
+    "name": "High Country FM",
+    "url": "https://s18.myradiostream.com/:13556/;",
+    "genre": "Country",
+    "city": "Omarama",
+    "country": "New Zealand",
+    "lat": -44.5667,
+    "lng": 169.9
+  },
+  {
+    "id": "nz-kiwifolk-radio",
+    "name": "KiwiFolk Radio",
+    "url": "https://streamer.radio.co/sde527a41e/listen",
+    "genre": "Folk",
+    "city": "Dunedin",
+    "country": "New Zealand",
+    "lat": -45.8742,
+    "lng": 170.5036
+  },
+  {
+    "id": "nz-life-fm-998",
+    "name": "Life FM 99.8",
+    "url": "https://rhema-radio.streamguys1.com/rhema-lifefm.mp3",
+    "genre": "Religious",
+    "city": "Auckland",
+    "country": "New Zealand",
+    "lat": -36.8485,
+    "lng": 174.7633
+  },
+  {
+    "id": "nz-mix-fm-879",
+    "name": "Mix FM 87.9",
+    "url": "https://stream.mixfm.nz/",
+    "genre": "Pop, Rock",
+    "city": "Wellington",
+    "country": "New Zealand",
+    "lat": -41.2865,
+    "lng": 174.7762
+  },
+  {
+    "id": "nz-new-zealand-country-music-radio",
+    "name": "New Zealand Country Music Radio",
+    "url": "https://usa10.fastcast4u.com:6010/;",
+    "genre": "Country",
+    "city": "Feilding",
+    "country": "New Zealand",
+    "lat": -40.2333,
+    "lng": 175.9167
+  },
+  {
+    "id": "nz-new-zealands-rhema",
+    "name": "New Zealand's Rhema",
+    "url": "https://rhema-radio.streamguys1.com/rhema.mp3",
+    "genre": "Religious",
+    "city": "Auckland",
+    "country": "New Zealand",
+    "lat": -36.8485,
+    "lng": 174.7633
+  },
+  {
+    "id": "nz-radio-control-994-fm",
+    "name": "Radio Control 99.4 fm",
+    "url": "https://michae14-gecko.radioca.st/stream",
+    "genre": "Music",
+    "city": "Palmerston North",
+    "country": "New Zealand",
+    "lat": -40.3582,
+    "lng": 175.6161
+  },
+  {
+    "id": "nz-switch-fm-879",
+    "name": "Switch FM 87.9",
+    "url": "https://s8.myradiostream.com/:56886/listen.m4a/;",
+    "genre": "Music",
+    "city": "Gisborne",
+    "country": "New Zealand",
+    "lat": -38.6628,
+    "lng": 178.0176
+  },
+  {
+    "id": "nz-the-rhythm-89fm",
+    "name": "The Rhythm 89FM",
+    "url": "https://stream.zeno.fm/7v9aaqeqhs8uv",
+    "genre": "R&B, Soul",
+    "city": "Waihi Beach",
+    "country": "New Zealand",
+    "lat": -37.3333,
+    "lng": 175.9833
+  },
+  {
+    "id": "nz-the-wireless-904fm",
+    "name": "The Wireless 90.4FM",
+    "url": "https://thewireless.radioca.st/stream",
+    "genre": "Music",
+    "city": "Mangawhai",
+    "country": "New Zealand",
+    "lat": -36.2333,
+    "lng": 174.5
+  },
+  {
+    "id": "nz-trunk-88fm",
+    "name": "Trunk 88FM",
+    "url": "https://a8.asurahosting.com:7760/radio.mp3",
+    "genre": "Music",
+    "city": "Taumarunui",
+    "country": "New Zealand",
+    "lat": -38.9167,
+    "lng": 175.55
+  },
+  {
+    "id": "cu-cadena-agramonte",
+    "name": "Cadena Agramonte",
+    "url": "https://icecast.teveo.cu/j99xztkT",
+    "genre": "Music",
+    "city": "Camaguey",
+    "country": "Cuba",
+    "lat": 21.3833,
+    "lng": -77.9667
+  },
+  {
+    "id": "cu-cmbq-radio-enciclopedia",
+    "name": "CMBQ Radio Enciclopedia",
+    "url": "https://icecast.teveo.cu/9Rnrbjzq",
+    "genre": "Talk, Educational",
+    "city": "Havana",
+    "country": "Cuba",
+    "lat": 23.1291,
+    "lng": -82.3899
+  },
+  {
+    "id": "cu-cmby-fm-1017-radio-caribe",
+    "name": "CMBY FM 101.7 Radio Caribe",
+    "url": "https://icecast.teveo.cu/dXhtHs4P",
+    "genre": "Latin, Caribbean",
+    "city": "Nueva Gerona",
+    "country": "Cuba",
+    "lat": 21.8833,
+    "lng": -82.7833
+  },
+  {
+    "id": "cu-cmkc-fm-951-radio-revolución",
+    "name": "CMKC FM 95.1 Radio Revolución",
+    "url": "https://icecast.teveo.cu/C9vVPN7h",
+    "genre": "Music",
+    "city": "Santiago de Cuba",
+    "country": "Cuba",
+    "lat": 20.0247,
+    "lng": -75.8219
+  },
+  {
+    "id": "cu-cmko-radio-angulo",
+    "name": "CMKO Radio Angulo",
+    "url": "https://icecast.teveo.cu/hmVcdgM7",
+    "genre": "Music",
+    "city": "Holguin",
+    "country": "Cuba",
+    "lat": 20.87,
+    "lng": -76.25
+  },
+  {
+    "id": "cu-cmkx-radio-bayamo-fm-986",
+    "name": "CMKX Radio Bayamo FM 98.6",
+    "url": "https://icecast.teveo.cu/7hdNcTbM",
+    "genre": "Music",
+    "city": "Bayamo",
+    "country": "Cuba",
+    "lat": 20.375,
+    "lng": -76.75
+  },
+  {
+    "id": "cu-estéreocentro-935-fm",
+    "name": "Estéreocentro 93.5 FM",
+    "url": "https://icecast.teveo.cu/mHFR9zFb",
+    "genre": "Music",
+    "city": "Santa Clara",
+    "country": "Cuba",
+    "lat": 22.4167,
+    "lng": -79.9667
+  },
+  {
+    "id": "cu-radio-habana-cuba",
+    "name": "Radio Habana Cuba",
+    "url": "https://icecast.teveo.cu/McW3fLhs",
+    "genre": "News, Talk",
+    "city": "Havana",
+    "country": "Cuba",
+    "lat": 23.1291,
+    "lng": -82.3899
+  },
+  {
+    "id": "co-baladas-romanticas",
+    "name": "Baladas Románticas",
+    "url": "https://stream.zeno.fm/unns06sxtfeuv",
+    "genre": "Latin, Romantic",
+    "city": "Bogotá",
+    "country": "Colombia",
+    "lat": 4.7109,
+    "lng": -74.0721
+  },
+  {
+    "id": "co-besame",
+    "name": "Besame",
+    "url": "https://26673.live.streamtheworld.com/BESAME_MEDELLINAAC.aac",
+    "genre": "Latin, Romantic",
+    "city": "Medellín",
+    "country": "Colombia",
+    "lat": 6.2442,
+    "lng": -75.5812
+  },
+  {
+    "id": "co-besame-bogota",
+    "name": "Bésame Bogotá",
+    "url": "https://27433.live.streamtheworld.com/BESAME_BOGOTAAAC.aac",
+    "genre": "Latin, Romantic",
+    "city": "Bogotá",
+    "country": "Colombia",
+    "lat": 4.7109,
+    "lng": -74.0721
+  },
+  {
+    "id": "co-besame-cali",
+    "name": "Bésame Cali",
+    "url": "https://24443.live.streamtheworld.com/BESAME_CALIAAC.aac",
+    "genre": "Latin, Romantic",
+    "city": "Cali",
+    "country": "Colombia",
+    "lat": 3.4372,
+    "lng": -76.5225
+  },
+  {
+    "id": "co-blu-radio-915-fm",
+    "name": "Blu Radio 91.5 FM",
+    "url": "https://26513.live.streamtheworld.com/BLU_CALI_SC",
+    "genre": "News, Talk",
+    "city": "Cali",
+    "country": "Colombia",
+    "lat": 3.4372,
+    "lng": -76.5225
+  },
+  {
+    "id": "co-candela-estereo",
+    "name": "Candela Estéreo",
+    "url": "https://13693.live.streamtheworld.com/CANDELAESTEREO.mp3",
+    "genre": "Latin, Tropical",
+    "city": "Bogotá",
+    "country": "Colombia",
+    "lat": 4.7109,
+    "lng": -74.0721
+  },
+  {
+    "id": "tr-alem-fm-892",
+    "name": "Alem FM 89.2",
+    "url": "https://turkmedya.radyotvonline.net/alemfmaac",
+    "genre": "Music",
+    "city": "İstanbul",
+    "country": "Türkiye",
+    "lat": 41.0082,
+    "lng": 28.9784
+  },
+  {
+    "id": "tr-ankara-cagdas-sanat-radyosu",
+    "name": "Ankara Çağdaş Sanat Radyosu",
+    "url": "https://ip169.ozelip.com:10838/stream",
+    "genre": "Classical, Art",
+    "city": "Ankara",
+    "country": "Türkiye",
+    "lat": 39.9255,
+    "lng": 32.8669
+  },
+  {
+    "id": "tr-damar-turk-fm",
+    "name": "Damar Türk FM",
+    "url": "https://live.radyositesihazir.com/7000/stream",
+    "genre": "Turkish Music",
+    "city": "İstanbul",
+    "country": "Türkiye",
+    "lat": 41.0082,
+    "lng": 28.9784
+  },
+  {
+    "id": "tr-elbistan-kent-fm-950",
+    "name": "Elbistan Kent FM 95.0",
+    "url": "https://radyo.arkacadde.org/4648/elbistankentfm.mp3",
+    "genre": "Music",
+    "city": "Elbistan",
+    "country": "Türkiye",
+    "lat": 37.4167,
+    "lng": 36.9167
+  },
+  {
+    "id": "tr-gireniz-fm",
+    "name": "Gireniz FM",
+    "url": "https://yayin.girenizfm.com:10805/stream",
+    "genre": "Music",
+    "city": "Acıpayam",
+    "country": "Türkiye",
+    "lat": 37.5833,
+    "lng": 30.4333
+  },
+  {
+    "id": "tr-gozde-fm-yalova-922",
+    "name": "Gözde Fm Yalova 92.2",
+    "url": "https://gozdefm.80.yayin.com.tr/stream/1/",
+    "genre": "Music",
+    "city": "Yalova",
+    "country": "Türkiye",
+    "lat": 40.65,
+    "lng": 29.2667
+  },
+  {
+    "id": "tr-mayday-records",
+    "name": "Mayday Records",
+    "url": "https://stream.maydayrecords.net/radio/8000/maydayrecords.mp3",
+    "genre": "Electronic, Dance",
+    "city": "Marmaris",
+    "country": "Türkiye",
+    "lat": 36.85,
+    "lng": 28.25
+  },
+  {
+    "id": "tr-mekke-fm",
+    "name": "Mekke FM",
+    "url": "https://radyodinle.cansuyufm.com/17175/stream",
+    "genre": "Religious",
+    "city": "İstanbul",
+    "country": "Türkiye",
+    "lat": 41.0082,
+    "lng": 28.9784
+  },
+  {
+    "id": "tr-metro-fm",
+    "name": "Metro FM",
+    "url": "https://28993.live.streamtheworld.com/METRO_FM128AAC.aac",
+    "genre": "Music",
+    "city": "İstanbul",
+    "country": "Türkiye",
+    "lat": 41.0082,
+    "lng": 28.9784
+  },
+  {
+    "id": "tr-show-radyo",
+    "name": "Show Radyo",
+    "url": "https://showradyo.radyotvonline.net/showradyoaac",
+    "genre": "Music",
+    "city": "İstanbul",
+    "country": "Türkiye",
+    "lat": 41.0082,
+    "lng": 28.9784
+  },
+  {
+    "id": "tr-super-fm",
+    "name": "Süper FM",
+    "url": "https://27823.live.streamtheworld.com/SUPER_FM128AAC.aac",
+    "genre": "Music",
+    "city": "İstanbul",
+    "country": "Türkiye",
+    "lat": 41.0082,
+    "lng": 28.9784
+  },
+  {
+    "id": "id-andika-fm-1057",
+    "name": "Andika FM 105.7",
+    "url": "https://r5.siar.us:1057/andikafm",
+    "genre": "Music",
+    "city": "Kediri",
+    "country": "Indonesia",
+    "lat": -7.8175,
+    "lng": 110.0329
+  },
+  {
+    "id": "id-1011-insania-fm-sumbawa",
+    "name": "101.1 Insania FM Sumbawa",
+    "url": "https://stream-sg1.galuhmedia.co.id/listen/insaniasumbawa/1011sumbawa",
+    "genre": "Music",
+    "city": "Sumbawa Besar",
+    "country": "Indonesia",
+    "lat": -8.6,
+    "lng": 117.4
+  },
+  {
+    "id": "id-ardan-fm-1059",
+    "name": "Ardan FM 105.9",
+    "url": "https://stream.rcs.revma.com/ugpyzu9n5k3vv",
+    "genre": "Music",
+    "city": "Bandung",
+    "country": "Indonesia",
+    "lat": -6.9147,
+    "lng": 107.6098
+  },
+  {
+    "id": "id-bahana-1045-fm",
+    "name": "Bahana 104.5 FM",
+    "url": "https://radiocast.my.id/proxy/bahanafm/live",
+    "genre": "Music",
+    "city": "Ngawi",
+    "country": "Indonesia",
+    "lat": -7.675,
+    "lng": 111.4833
+  },
+  {
+    "id": "id-banjar-fm-934",
+    "name": "Banjar FM 93.4",
+    "url": "https://stream.pasopatiradio.com/banjarfm",
+    "genre": "Music",
+    "city": "Banjarnegara",
+    "country": "Indonesia",
+    "lat": -7.3833,
+    "lng": 109.4167
+  },
+  {
+    "id": "id-campursari-fm-892",
+    "name": "Campursari FM 89.2",
+    "url": "https://streaming.campursarifm.com/listen/campursari/campursari892",
+    "genre": "Campursari, Traditional",
+    "city": "Jakarta",
+    "country": "Indonesia",
+    "lat": -6.2088,
+    "lng": 106.8456
+  },
+  {
+    "id": "id-delta-fm-991",
+    "name": "Delta FM 99.1",
+    "url": "https://s1.cloudmu.id/listen/delta_fm/stream",
+    "genre": "Music",
+    "city": "Jakarta",
+    "country": "Indonesia",
+    "lat": -6.2088,
+    "lng": 106.8456
+  },
+  {
+    "id": "id-elshinta-fm-90",
+    "name": "Elshinta FM 90",
+    "url": "https://stream-ssl.arenastreaming.com:8000/jakarta",
+    "genre": "Music",
+    "city": "Jakarta",
+    "country": "Indonesia",
+    "lat": -6.2088,
+    "lng": 106.8456
+  },
+  {
+    "id": "id-flamboyan-996-fm",
+    "name": "Flamboyan 99.6 FM",
+    "url": "https://i.klikhost.com/8236/stream/;",
+    "genre": "Music",
+    "city": "Karawang",
+    "country": "Indonesia",
+    "lat": -6.3265,
+    "lng": 107.3111
+  },
+  {
+    "id": "id-gajahmada-fm-1024",
+    "name": "Gajahmada FM 102.4",
+    "url": "https://server.radioimeldafm.co.id/radio/8040/gajahmadafm",
+    "genre": "Music",
+    "city": "Semarang",
+    "country": "Indonesia",
+    "lat": -6.9931,
+    "lng": 110.4232
+  },
+  {
+    "id": "id-gs-radio-bali",
+    "name": "GS Radio Bali",
+    "url": "https://s7.alhastream.com/radio/8440/radio",
+    "genre": "Music",
+    "city": "Gesing, Buleleng",
+    "country": "Indonesia",
+    "lat": -6.2088,
+    "lng": 106.8456
+  },
+  {
+    "id": "id-jcc-fm-radio",
+    "name": "JCC FM Radio",
+    "url": "https://ssg.streamingmurah.com:9494/stream/;",
+    "genre": "Music",
+    "city": "Wonosobo",
+    "country": "Indonesia",
+    "lat": -7.3333,
+    "lng": 109.95
+  },
+  {
+    "id": "id-pas-fm-101",
+    "name": "Pas FM 101",
+    "url": "https://ssg.streamingmurah.com:8886/mp3/;",
+    "genre": "Music",
+    "city": "Pati",
+    "country": "Indonesia",
+    "lat": -6.7667,
+    "lng": 111.0
+  },
+  {
+    "id": "id-mta-fm-1079",
+    "name": "MTA FM 107.9",
+    "url": "https://mta.urfan.id/",
+    "genre": "Music",
+    "city": "Surakarta",
+    "country": "Indonesia",
+    "lat": -7.5667,
+    "lng": 110.8167
+  },
+  {
+    "id": "id-1011-mgtradio",
+    "name": "101.1 MGTRadio",
+    "url": "https://sukmben.radiogentara.com/listen/mgtradio/mgtradio",
+    "genre": "Music",
+    "city": "Bandung",
+    "country": "Indonesia",
+    "lat": -6.9147,
+    "lng": 107.6098
+  },
+  {
+    "id": "id-urban-fm-1063",
+    "name": "Urban FM 106.3",
+    "url": "https://a1.siar.us/listen/urbanradio/stream",
+    "genre": "Urban, Hip Hop",
+    "city": "Bandung",
+    "country": "Indonesia",
+    "lat": -6.9147,
+    "lng": 107.6098
+  },
+  {
+    "id": "id-zora-901-fm",
+    "name": "Zora 90.1 FM",
+    "url": "https://s1.gntr.net/listen/zora_radio/zora",
+    "genre": "Music",
+    "city": "Bandung",
+    "country": "Indonesia",
+    "lat": -6.9147,
+    "lng": 107.6098
+  },
+  {
+    "id": "id-bass-fm",
+    "name": "Bass FM",
+    "url": "https://bassfm.radio.yufid.com/;",
+    "genre": "Electronic, Dance",
+    "city": "Salatiga",
+    "country": "Indonesia",
+    "lat": -7.3417,
+    "lng": 110.4933
+  },
+  {
+    "id": "id-suara-salatiga-999-fm",
+    "name": "Suara Salatiga 99.9 FM",
+    "url": "https://icecast.salatiga.go.id:8443/stream.ogg",
+    "genre": "Music",
+    "city": "Salatiga",
+    "country": "Indonesia",
+    "lat": -7.3417,
+    "lng": 110.4933
+  },
+  {
+    "id": "id-be-talk-surabaya",
+    "name": "Be Talk Surabaya",
+    "url": "https://sv7.alhastream.com/radio/8000/radio",
+    "genre": "Talk, News",
+    "city": "Surabaya",
+    "country": "Indonesia",
+    "lat": -7.2575,
+    "lng": 112.7521
+  },
+  {
+    "id": "id-suara-surabaya-fm-100",
+    "name": "Suara Surabaya FM 100",
+    "url": "https://c5.siar.us/proxy/ssfm/stream",
+    "genre": "Music",
+    "city": "Surabaya",
+    "country": "Indonesia",
+    "lat": -7.2575,
+    "lng": 112.7521
+  },
+  {
+    "id": "nl-100-nl",
+    "name": "100% NL",
+    "url": "https://28983.live.streamtheworld.com/100PNL_MP3_SC?_mp3=",
+    "genre": "Music",
+    "city": "Naarden",
+    "country": "Netherlands",
+    "lat": 52.2833,
+    "lng": 5.05
+  },
+  {
+    "id": "nl-arrow-classic-rock",
+    "name": "Arrow Classic Rock",
+    "url": "https://stream.player.arrow.nl/arrow",
+    "genre": "Classic Rock",
+    "city": "Noordwijk",
+    "country": "Netherlands",
+    "lat": 52.2351,
+    "lng": 4.4125
+  },
+  {
+    "id": "nl-blackwood-fm",
+    "name": "Blackwood FM",
+    "url": "https://server-27.stream-server.nl/stream/Blackwood_FM",
+    "genre": "Music",
+    "city": "Maarssen",
+    "country": "Netherlands",
+    "lat": 52.1243,
+    "lng": 5.0879
+  },
+  {
+    "id": "nl-beat-fm-den-haag",
+    "name": "Beat FM Den Haag",
+    "url": "https://solid41.streamupsolutions.com/proxy/toyfkozk?mp=/stream/2/",
+    "genre": "Music",
+    "city": "The Hague",
+    "country": "Netherlands",
+    "lat": 52.0705,
+    "lng": 4.3007
+  },
+  {
+    "id": "nl-radio-west",
+    "name": "Radio West",
+    "url": "https://d3jhv0ayn0z3fg.cloudfront.net/icecast/omroepwest/radio",
+    "genre": "Music",
+    "city": "The Hague",
+    "country": "Netherlands",
+    "lat": 52.0705,
+    "lng": 4.3007
+  },
+  {
+    "id": "nl-dancefm",
+    "name": "Dance.FM",
+    "url": "https://streams.dancefm.net/mp3",
+    "genre": "Dance, Electronic",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "lat": 52.3676,
+    "lng": 4.9041
+  },
+  {
+    "id": "nl-bnr-nieuwsradio",
+    "name": "BNR Nieuwsradio",
+    "url": "https://25453.live.streamtheworld.com/BNR_NIEUWSRADIO.mp3",
+    "genre": "News, Talk",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "lat": 52.3676,
+    "lng": 4.9041
+  },
+  {
+    "id": "nl-veronica",
+    "name": "Veronica",
+    "url": "https://22613.live.streamtheworld.com/VERONICA.mp3",
+    "genre": "Music",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "lat": 52.3676,
+    "lng": 4.9041
+  },
+  {
+    "id": "nl-npo-radio-2",
+    "name": "NPO Radio 2",
+    "url": "https://icecast.omroep.nl/radio2-bb-mp3",
+    "genre": "Pop, Music",
+    "city": "Hilversum",
+    "country": "Netherlands",
+    "lat": 52.2363,
+    "lng": 5.1625
+  },
+  {
+    "id": "nl-npo-radio-1",
+    "name": "NPO Radio 1",
+    "url": "https://icecast.omroep.nl/radio1-sb-mp3",
+    "genre": "News, Talk",
+    "city": "Hilversum",
+    "country": "Netherlands",
+    "lat": 52.2363,
+    "lng": 5.1625
+  },
+  {
+    "id": "nl-radio-m",
+    "name": "Radio M",
+    "url": "https://d18rwjdhpr8dcw.cloudfront.net/icecast/rtvutrecht/radiomutrecht-bb-mp3",
+    "genre": "Music",
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "lat": 52.0907,
+    "lng": 5.1214
+  },
+  {
+    "id": "nl-bingo-fm",
+    "name": "Bingo FM",
+    "url": "https://d18rwjdhpr8dcw.cloudfront.net/icecast/rtvutrecht/bingofm-bb-mp3",
+    "genre": "Music",
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "lat": 52.0907,
+    "lng": 5.1214
+  },
+  {
+    "id": "ae-al-khaleejiya--1009",
+    "name": "Al Khaleejiya FM 100.9",
+    "url": "https://stream.radiojar.com/5wpf9e4erxquv",
+    "genre": "Music",
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "lat": 25.2048,
+    "lng": 55.2708
+  },
+  {
+    "id": "ae-big--1062",
+    "name": "Big FM 106.2",
+    "url": "https://funasia.streamguys1.com/live4",
+    "genre": "Pop, Music",
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "lat": 25.2048,
+    "lng": 55.2708
+  },
+  {
+    "id": "ae-dilse--908",
+    "name": "Dilse FM 90.8",
+    "url": "https://a7.asurahosting.com:7440/radio.mp3",
+    "genre": "Indian, Bollywood",
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "lat": 25.2048,
+    "lng": 55.2708
+  },
+  {
+    "id": "ae-dubai-holy-quran--914",
+    "name": "Dubai Holy Quran FM 91.4",
+    "url": "https://uk5.internet-radio.com/proxy/dubaiholyquran?mp=/stream;",
+    "genre": "Religious",
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "lat": 25.2048,
+    "lng": 55.2708
+  },
+  {
+    "id": "ae-dubai",
+    "name": "Dubai Radio",
+    "url": "https://dmirdo.mangomolo.com/dubairdo.mp3",
+    "genre": "Music",
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "lat": 25.2048,
+    "lng": 55.2708
+  },
+  {
+    "id": "om-chaska",
+    "name": "Radio Chaska",
+    "url": "https://qurum.ddns.net:8000/radio.mp3",
+    "genre": "Indian, Music",
+    "city": "Muscat",
+    "country": "Oman",
+    "lat": 23.588,
+    "lng": 58.3829
+  },
+  {
+    "id": "om-t",
+    "name": "TFM",
+    "url": "https://stream.timesofoman.fm:9018/tfm",
+    "genre": "Pop, Music",
+    "city": "Muscat",
+    "country": "Oman",
+    "lat": 23.588,
+    "lng": 58.3829
+  },
+  {
+    "id": "za-947-fm",
+    "name": "947 FM",
+    "url": "https://27753.live.streamtheworld.com/FM947AAC.aac",
+    "genre": "Pop, Music",
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "lat": -26.2041,
+    "lng": 28.0473
+  },
+  {
+    "id": "za-5fm",
+    "name": "5FM",
+    "url": "https://25583.live.streamtheworld.com/5FMAAC.aac",
+    "genre": "Pop, Music",
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "lat": -26.2041,
+    "lng": 28.0473
+  },
+  {
+    "id": "za-algoa-fm",
+    "name": "Algoa FM",
+    "url": "https://edge.iono.fm/xice/54_high.mp3",
+    "genre": "Music",
+    "city": "Port Elizabeth",
+    "country": "South Africa",
+    "lat": -33.918,
+    "lng": 25.5701
+  },
+  {
+    "id": "za-channel-islam-international",
+    "name": "Channel Islam International",
+    "url": "https://edge.iono.fm/xice/109_medium.aac",
+    "genre": "Religious, Islamic",
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "lat": -26.2041,
+    "lng": 28.0473
+  },
+  {
+    "id": "za-jozi-fm-1058",
+    "name": "Jozi FM 105.8",
+    "url": "https://edge.iono.fm/xice/51_medium.aac",
+    "genre": "Urban, Local",
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "lat": -26.2041,
+    "lng": 28.0473
+  },
+  {
+    "id": "za-ccfm-fm-1075",
+    "name": "CCFM FM 107.5",
+    "url": "https://edge.iono.fm/xice/69_medium.mp3?p=embed",
+    "genre": "Christian, Religious",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "lat": -33.9249,
+    "lng": 18.4241
+  },
+  {
+    "id": "za-radio-eersteriver",
+    "name": "Radio Eersteriver",
+    "url": "https://servidor18-1.brlogic.com:8798/live",
+    "genre": "Music",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "lat": -33.9249,
+    "lng": 18.4241
+  },
+  {
+    "id": "vn-hanoi-community-radio",
+    "name": "Hanoi Community Radio",
+    "url": "https://ha-noi-community-radio.radiocult.fm/stream",
+    "genre": "Community, Talk",
+    "city": "Hanoi",
+    "country": "Vietnam",
+    "lat": 21.0285,
+    "lng": 105.8542
+  },
+  {
+    "id": "vn-saigoner--radio-co-don",
+    "name": "Saigoner - Radio Cô Đơn",
+    "url": "https://stream.zeno.fm/5cyfrgpebkhvv",
+    "genre": "Music, Talk",
+    "city": "Ho Chi Minh City",
+    "country": "Vietnam",
+    "lat": 10.8231,
+    "lng": 106.6297
+  },
+  {
+    "id": "vn-vov5-fm-1055",
+    "name": "VOV5 FM 105.5",
+    "url": "https://stream.vovmedia.vn/vov5",
+    "genre": "News, Talk",
+    "city": "Hanoi",
+    "country": "Vietnam",
+    "lat": 21.0285,
+    "lng": 105.8542
+  },
+  {
+    "id": "hk-rthk-putonghua-channel",
+    "name": "RTHK Putonghua Channel",
+    "url": "https://stm.rthk.hk/radiopth",
+    "genre": "News, Talk",
+    "city": "Hong Kong",
+    "country": "Hong Kong",
+    "lat": 22.3193,
+    "lng": 114.1694
+  },
+  {
+    "id": "ph-1007-my-bataan",
+    "name": "100.7 MyFM Bataan",
+    "url": "https://stream.zeno.fm/ra87k5qk7yzuv",
+    "genre": "Music",
+    "city": "City of Balanga",
+    "country": "Philippines",
+    "lat": 14.6733,
+    "lng": 120.5428
+  },
+  {
+    "id": "ph-1017-your-love",
+    "name": "101.7 Your Love FM",
+    "url": "https://chloreign.com/listen/sanibpwersa/radio.mp3",
+    "genre": "Romantic, Music",
+    "city": "Manila",
+    "country": "Philippines",
+    "lat": 14.5995,
+    "lng": 120.9842
+  },
+  {
+    "id": "ph-1041-yes-the-best-urdaneta",
+    "name": "104.1 Yes The Best Urdaneta",
+    "url": "https://yesfmurdaneta.radioca.st/;",
+    "genre": "Music",
+    "city": "Urdaneta",
+    "country": "Philippines",
+    "lat": 15.9764,
+    "lng": 120.5626
+  },
+  {
+    "id": "ph-919-easy-rock-baguio",
+    "name": "91.9 Easy Rock Baguio",
+    "url": "https://easyrockbaguio.radioca.st/;",
+    "genre": "Rock, Easy Listening",
+    "city": "Baguio",
+    "country": "Philippines",
+    "lat": 16.4074,
+    "lng": 120.5984
+  },
+  {
+    "id": "ph-941-love--tuguegarao",
+    "name": "94.1 Love Radio Tuguegarao",
+    "url": "https://lovetuguegarao.radioca.st/;",
+    "genre": "Romantic, Music",
+    "city": "Tuguegarao City",
+    "country": "Philippines",
+    "lat": 17.6078,
+    "lng": 121.7297
+  },
+  {
+    "id": "ph-963-wrock",
+    "name": "96.3 WRocK",
+    "url": "https://wrockceb-iradioph.radioca.st/;",
+    "genre": "Rock, Music",
+    "city": "Cebu City",
+    "country": "Philippines",
+    "lat": 10.2919,
+    "lng": 123.8907
+  },
+  {
+    "id": "ph-besh--818",
+    "name": "Besh FM 81.8",
+    "url": "https://usa1.bntworxtv.com/listen/beshfm_81.8/radio.mp3",
+    "genre": "Music, Talk",
+    "city": "Nasugbu",
+    "country": "Philippines",
+    "lat": 14.0667,
+    "lng": 120.75
+  },
+  {
+    "id": "ph-gv-991",
+    "name": "GV 99.1",
+    "url": "https://edge.mixlr.com/channel/gtqpn",
+    "genre": "Music, Talk",
+    "city": "Angeles",
+    "country": "Philippines",
+    "lat": 15.1477,
+    "lng": 120.5884
+  },
+  {
+    "id": "ph-lips-106---dwyg-1063",
+    "name": "LiPS 106 FM - DWYG 106.3 FM",
+    "url": "https://stream.zeno.fm/f3eha5qum7zuv",
+    "genre": "Pop, Music",
+    "city": "Imus City",
+    "country": "Philippines",
+    "lat": 14.4011,
+    "lng": 120.9056
+  },
+  {
+    "id": "ph-magic--899",
+    "name": "Magic FM 89.9",
+    "url": "https://stream.zeno.fm/hcbrvvfd938uv",
+    "genre": "Pop, Music",
+    "city": "Mandaluyong",
+    "country": "Philippines",
+    "lat": 14.5861,
+    "lng": 121.0437
+  }
+]

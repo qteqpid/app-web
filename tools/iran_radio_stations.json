@@ -1,0 +1,950 @@
+[
+    {
+        "name": "Naxçıvan Radio FM 104.1",
+        "city": "Tabriz",
+        "country": "Iran",
+        "url": "http://37.59.40.90:12782/;stream.mp3"
+    },
+    {
+        "name": "Radio Marshall FM 103.5",
+        "city": "Tabriz",
+        "country": "Iran",
+        "url": "http://eu.stream4cast.com:8030/;stream.mp3"
+    },
+    {
+        "name": "LBC London",
+        "city": "Iran International",
+        "country": "London, United Kingdom",
+        "url": "https://media-the.musicradio.com/LBCLondon"
+    },
+    {
+        "name": "LBC UK",
+        "city": "Iran International",
+        "country": "London, United Kingdom",
+        "url": "https://media-ice.musicradio.com/LBCUKMP3Low"
+    },
+    {
+        "name": "Javad Radio",
+        "city": "Tabriz",
+        "country": "Iran",
+        "url": "http://us1.internet-radio.com:8079/stream"
+    },
+    {
+        "name": "Jazz London Radio",
+        "city": "Iran International",
+        "country": "London, United Kingdom",
+        "url": "https://radio.canstream.co.uk:8075/live.mp3"
+    },
+    {
+        "name": "Kepez FM",
+        "city": "Tabriz",
+        "country": "Iran",
+        "url": "http://85.132.78.122:3344/now"
+    },
+    {
+        "name": "Times Square Radio 102.5 FM",
+        "city": "Javad Radio",
+        "country": "Tehran, Iran",
+        "url": "https://edge.mixlr.com/channel/slpyo"
+    },
+    {
+        "name": "Classic FM",
+        "city": "Iran International",
+        "country": "London, United Kingdom",
+        "url": "https://media-ice.musicradio.com/ClassicFMMP3"
+    },
+    {
+        "name": "Capital Xtra",
+        "city": "Iran International",
+        "country": "London, United Kingdom",
+        "url": "https://media-ice.musicradio.com/CapitalXTRANationalMP3?.mp3"
+    },
+    {
+        "name": "Hawa Dijlah Radio",
+        "city": "Javad Radio",
+        "country": "Tehran, Iran",
+        "url": "https://listen.radioking.com/radio/96766/stream/136027"
+    },
+    {
+        "name": "Barama Radyo",
+        "city": "Tabriz",
+        "country": "Iran",
+        "url": "https://cast4.asurahosting.com/proxy/azmtvmir/stream"
+    },
+    {
+        "name": "Matinee Radio",
+        "city": "Iran International",
+        "country": "London, United Kingdom",
+        "url": "https://stream-15.aiir.com/g5hfxonbbs0vv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJnNWhmeG9uYmJzMHZ2IiwiaG9zdCI6InN0cmVhbS0xNS5haWlyLmNvbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiTmRTRzRRUkxUYmFjRDliMGpYZUtBUSIsImlhdCI6MTc2OTQxOTQ1MSwiZXhwIjoxNzY5NDE5NTExfQ.CMfjLqQ26nNpLnyNpVE7inM53H4GB3UlaY8TSJoIfBg"
+    },
+    {
+        "name": "Heart 80s Radio",
+        "city": "Iran International",
+        "country": "London, United Kingdom",
+        "url": "https://media-ssl.musicradio.com/Heart80s"
+    },
+    {
+        "name": "Surrey Hills Radio",
+        "city": "Iran International",
+        "country": "London, United Kingdom",
+        "url": "http://philae.shoutca.st:9035/stream"
+    },
+    {
+        "name": "BBC World Service",
+        "city": "Iran International",
+        "country": "London, United Kingdom",
+        "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service"
+    },
+    {
+        "name": "Iran International",
+        "city": "Iran International",
+        "country": "London, United Kingdom",
+        "url": "https://n03.radiojar.com/dfnrphnr5f0uv?rj-ttl=5&rj-tok=AAABm_mnVfoAeBmAkVQ9pFSCZw"
+    },
+    {
+        "name": "Radio Duhok FM 88.9",
+        "city": "Tabriz",
+        "country": "Iran",
+        "url": "https://stream-153.zeno.fm/kfrrct64hoxuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJrZnJyY3Q2NGhveHV2IiwiaG9zdCI6InN0cmVhbS0xNTMuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiTzRPSmxCb0hRRWFWd3NjNGg0bjlvZyIsImlhdCI6MTc2OTQxOTQ1MSwiZXhwIjoxNzY5NDE5NTExfQ.bbpPNyumFx8pYL5ukPTXQh0A9pDSKA1BD2FohTQRkGY"
+    },
+    {
+        "name": "Ablazin Radio",
+        "city": "National Iranian Congress",
+        "country": "Washington DC, United States",
+        "url": "http://usa13.fastcast4u.com:5252/stream"
+    },
+    {
+        "name": "Forest One",
+        "city": "Iran International",
+        "country": "London, United Kingdom",
+        "url": "https://c2.prostream365.com:8010/live"
+    },
+    {
+        "name": "Westside Radio FM 89.6",
+        "city": "Iran International",
+        "country": "London, United Kingdom",
+        "url": "https://listen-westside.sharp-stream.com/westside.mp3"
+    },
+    {
+        "name": "Trucksim.FM",
+        "city": "Iran International",
+        "country": "London, United Kingdom",
+        "url": "https://strw3.openstream.co/2360"
+    },
+    {
+        "name": "Reinforced Radio",
+        "city": "Iran International",
+        "country": "London, United Kingdom",
+        "url": "https://broadcast.shoutstream.co.uk:8012/stream"
+    },
+    {
+        "name": "Moon Phase Radio",
+        "city": "Iran International",
+        "country": "London, United Kingdom",
+        "url": "https://cp12.serverse.com/proxy/moonphase/stream"
+    },
+    {
+        "name": "Blue-in-Green:RADIO",
+        "city": "Iran International",
+        "country": "London, United Kingdom",
+        "url": "https://stream.radio.co/s9e1625f13/listen"
+    },
+    {
+        "name": "Station FM",
+        "city": "Iran International",
+        "country": "London, United Kingdom",
+        "url": "https://stream2.hippynet.co.uk:8302/stream"
+    },
+    {
+        "name": "Honduradio",
+        "city": "National Iranian Congress",
+        "country": "Washington DC, United States",
+        "url": "https://cast.az-streamingserver.com/proxy/honduradio?mp=/stream"
+    },
+    {
+        "name": "WJON IP Radio",
+        "city": "National Iranian Congress",
+        "country": "Washington DC, United States",
+        "url": "https://radio.wjonip.org/wjonip"
+    },
+    {
+        "name": "WAMU Live FM 88.5",
+        "city": "National Iranian Congress",
+        "country": "Washington DC, United States",
+        "url": "https://wamu.cdnstream1.com/wamu.mp3"
+    },
+    {
+        "name": "UFDV Gospel",
+        "city": "National Iranian Congress",
+        "country": "Washington DC, United States",
+        "url": "http://us10a.serverse.com:8145/live"
+    },
+    {
+        "name": "National Iranian Congress",
+        "city": "National Iranian Congress",
+        "country": "Washington DC, United States",
+        "url": "https://stream-176.zeno.fm/kbt00r580feuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJrYnQwMHI1ODBmZXV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiU1lSZzVFa0xTM0dlVEh4Tmk3Q016QSIsImlhdCI6MTc2OTQxOTQ1NCwiZXhwIjoxNzY5NDE5NTE0fQ.fS8gUVuznOsr-oec8wV5pAbsAQvkD6UhBZJSQ1ywAa0"
+    },
+    {
+        "name": "ACB Treasure Trove",
+        "city": "National Iranian Congress",
+        "country": "Washington DC, United States",
+        "url": "http://stream.acbradio.org:8000/trove.mp3"
+    },
+    {
+        "name": "SLMTV Radio",
+        "city": "National Iranian Congress",
+        "country": "Washington DC, United States",
+        "url": "https://video2.getstreamhosting.com:2020/stream/8050"
+    },
+    {
+        "name": "NPR 24 Hour Program Stream",
+        "city": "National Iranian Congress",
+        "country": "Washington DC, United States",
+        "url": "https://npr-ice.streamguys1.com/live.mp3"
+    },
+    {
+        "name": "Smooth Jazz 24/7",
+        "city": "National Iranian Congress",
+        "country": "Washington DC, United States",
+        "url": "https://ais-edge89-dal02.cdnstream.com/2124_128.mp3"
+    },
+    {
+        "name": "Hot 99.5",
+        "city": "National Iranian Congress",
+        "country": "Washington DC, United States",
+        "url": "https://cloud.revma.ihrhls.com/zc2509?rj-org=n2cb-e2&rj-ttl=5&rj-tok=AAABm_mnY0oApGQ7ol0czfOvEA"
+    },
+    {
+        "name": "The Hip Hop Lounge",
+        "city": "National Iranian Congress",
+        "country": "Washington DC, United States",
+        "url": "https://das-edge16-live365-dal02.cdnstream.com/a34724"
+    },
+    {
+        "name": "ABN Old-Time Radio AM 1610",
+        "city": "National Iranian Congress",
+        "country": "Washington DC, United States",
+        "url": "https://s6.yesstreaming.net:18000/listen"
+    },
+    {
+        "name": "WMUC FM 90.5",
+        "city": "National Iranian Congress",
+        "country": "Washington DC, United States",
+        "url": "https://wmuc.umd.edu:8443/wmuc-hq"
+    },
+    {
+        "name": "KBRW-AM 680",
+        "city": "National Iranian Congress",
+        "country": "Washington DC, United States",
+        "url": "https://tektite.streamguys1.com:5345/live"
+    },
+    {
+        "name": "KOKO LP Radio 96.3 FM",
+        "city": "National Iranian Congress",
+        "country": "Washington DC, United States",
+        "url": "https://s2.yesstreaming.net:7031/stream"
+    },
+    {
+        "name": "We Act Radio - WPWC",
+        "city": "National Iranian Congress",
+        "country": "Washington DC, United States",
+        "url": "https://s4.radio.co/s2979221be/listen"
+    },
+    {
+        "name": "Speda FM",
+        "city": "Erbil",
+        "country": "Iraq",
+        "url": "https://radio.host247.net/spedafm"
+    },
+    {
+        "name": "East Coast Radio Jamming",
+        "city": "National Iranian Congress",
+        "country": "Washington DC, United States",
+        "url": "https://stream-178.zeno.fm/aigdzirqjz7tv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJhaWdkemlycWp6N3R2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiWkNqUkVKQjJUYW1wMU9TWnIyaXZaQSIsImlhdCI6MTc2OTQxOTQ1NiwiZXhwIjoxNzY5NDE5NTE2fQ.AfTJnEzeVmYFM_Wykwy6sgyR-CyBscjwzhLD2UpSLVA"
+    },
+    {
+        "name": "Teba FM",
+        "city": "Erbil",
+        "country": "Iraq",
+        "url": "https://radyo1.radyo-dinle.tc/8150/"
+    },
+    {
+        "name": "M Radio 105.5 FM",
+        "city": "Erbil",
+        "country": "Iraq",
+        "url": "https://usa13.fastcast4u.com/proxy/mradio02?mp=/1"
+    },
+    {
+        "name": "WMAL FM 105.9",
+        "city": "National Iranian Congress",
+        "country": "Washington DC, United States",
+        "url": "https://18163.live.streamtheworld.com:443/WMALFMAAC.aac"
+    },
+    {
+        "name": "C-Span Radio WCSP FM 90.1",
+        "city": "National Iranian Congress",
+        "country": "Washington DC, United States",
+        "url": "https://29243.live.streamtheworld.com:443/CSPANRADIO.mp3"
+    },
+    {
+        "name": "Fox News Radio",
+        "city": "National Iranian Congress",
+        "country": "Washington DC, United States",
+        "url": "https://prod-54-162-2-81.amperwave.net/foxnewsradio-foxnewsradioaac-imc?session-id=6e19e51391f1fe9c11d7fa59ecb26950"
+    },
+    {
+        "name": "Shafaq Radio",
+        "city": "Erbil",
+        "country": "Iraq",
+        "url": "https://radio.shafaq.com/radio"
+    },
+    {
+        "name": "Radio Alghad Hits",
+        "city": "Erbil",
+        "country": "Iraq",
+        "url": "http://s9.voscast.com:8984/live"
+    },
+    {
+        "name": "Sumer FM",
+        "city": "Erbil",
+        "country": "Iraq",
+        "url": "http://audiostreaming.itworkscdn.com:9012/index.html?sid=1"
+    },
+    {
+        "name": "Dicle FM",
+        "city": "Erbil",
+        "country": "Iraq",
+        "url": "https://dicle-rojavaradio.radioca.st/stream"
+    },
+    {
+        "name": "Alseraj Radio",
+        "city": "Erbil",
+        "country": "Iraq",
+        "url": "https://eu4.fastcast4u.com/proxy/aabdul00?mp=%2F1"
+    },
+    {
+        "name": "Alrasheed FM 91.5",
+        "city": "Erbil",
+        "country": "Iraq",
+        "url": "https://streaming.shoutcast.com/alrasheed-fm"
+    },
+    {
+        "name": "Radio Epirus FM 94.5",
+        "city": "Ioannina",
+        "country": "Greece",
+        "url": "https://neos.win:59454/stream"
+    },
+    {
+        "name": "Welat FM",
+        "city": "Erbil",
+        "country": "Iraq",
+        "url": "https://rasti.out.airtime.pro/rasti_a"
+    },
+    {
+        "name": "WAMU HD2 Bluegrass Country",
+        "city": "National Iranian Congress",
+        "country": "Washington DC, United States",
+        "url": "https://ice24.securenetsystems.net/WAMU"
+    },
+    {
+        "name": "New Life Radio",
+        "city": "Erbil",
+        "country": "Iraq",
+        "url": "https://s2.radio.co/sd3c7f8539/listen"
+    },
+    {
+        "name": "NRG Radio 101.5",
+        "city": "Ioannina",
+        "country": "Greece",
+        "url": "http://n09.radiojar.com/apb4wybq36duv?rj-ttl=5&rj-tok=AAABm_mnd84AzuDo5M_AXczx5A"
+    },
+    {
+        "name": "Sky Radio 99.2 FM",
+        "city": "Ioannina",
+        "country": "Greece",
+        "url": "https://media.skyradio.gr:9920/stream"
+    },
+    {
+        "name": "Yagrto Radio 93.5 FM",
+        "city": "Erbil",
+        "country": "Iraq",
+        "url": "https://stream-179.zeno.fm/ud0wera9hy2vv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1ZDB3ZXJhOWh5MnZ2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiT2thV3lLdDJUQ3FhNUJWUjJxdWdUQSIsImlhdCI6MTc2OTQxOTQ1OSwiZXhwIjoxNzY5NDE5NTE5fQ.9ytlAFNFssH-rBqWqjpsHpLU7QvTwVHD3fxBjgJSgl8"
+    },
+    {
+        "name": "Alpo Radio 94.1 FM",
+        "city": "Ioannina",
+        "country": "Greece",
+        "url": "https://cp1.sednastream.com/proxy/alporadio/stream"
+    },
+    {
+        "name": "Giga FM 105.4",
+        "city": "Ioannina",
+        "country": "Greece",
+        "url": "https://s46.myradiostream.com/:7322/index.html?sid=1"
+    },
+    {
+        "name": "Radio Stournareika 95.5 FM",
+        "city": "Ioannina",
+        "country": "Greece",
+        "url": "https://i8.streams.ovh:18051/stream"
+    },
+    {
+        "name": "Art FM 103.1",
+        "city": "Ioannina",
+        "country": "Greece",
+        "url": "https://i2.streams.ovh:2200/ssl/artfm?mp=/stream"
+    },
+    {
+        "name": "Radio Alegria",
+        "city": "Irapuato",
+        "country": "Mexico",
+        "url": "http://144.217.67.108:8049/stream/"
+    },
+    {
+        "name": "ERT Ioannina",
+        "city": "Ioannina",
+        "country": "Greece",
+        "url": "https://radiostreaming.ert.gr/ert-ioannina"
+    },
+    {
+        "name": "WE Radio 107.9 FM",
+        "city": "Irapuato",
+        "country": "Mexico",
+        "url": "https://stream9.mexiserver.com/8418/stream"
+    },
+    {
+        "name": "Exa FM 104.5 FM",
+        "city": "Irapuato",
+        "country": "Mexico",
+        "url": "http://144.217.67.108:9148/index.html?sid=1"
+    },
+    {
+        "name": "4U Radio FM 93.1",
+        "city": "Ioannina",
+        "country": "Greece",
+        "url": "https://netradio.live24.gr/4uradio931"
+    },
+    {
+        "name": "Sport FM 94.6",
+        "city": "Ioannina",
+        "country": "Greece",
+        "url": "https://sportfm.live24.gr/sportfm7712"
+    },
+    {
+        "name": "Stereo 95",
+        "city": "Irapuato",
+        "country": "Mexico",
+        "url": "https://stream9.mexiserver.com/8424/stream"
+    },
+    {
+        "name": "Real FM",
+        "city": "Ioannina",
+        "country": "Greece",
+        "url": "https://realfm.live24.gr/realfm?.mp3"
+    },
+    {
+        "name": "Los 40 Irapuato FM 88.5",
+        "city": "Irapuato",
+        "country": "Mexico",
+        "url": "https://stream9.mexiserver.com/8428/stream"
+    },
+    {
+        "name": "Campirana 102.7 FM",
+        "city": "Irapuato",
+        "country": "Mexico",
+        "url": "https://radios.radiohd.com.mx:7132/"
+    },
+    {
+        "name": "Salmantina XEEMM AM810",
+        "city": "Irapuato",
+        "country": "Mexico",
+        "url": "https://stream9.mexiserver.com/8422/stream"
+    },
+    {
+        "name": "Kosmos 93.6",
+        "city": "Ioannina",
+        "country": "Greece",
+        "url": "https://radiostreaming.ert.gr/ert-kosmos"
+    },
+    {
+        "name": "ERT Deftero",
+        "city": "Ioannina",
+        "country": "Greece",
+        "url": "https://radiostreaming.ert.gr/ert-deftero"
+    },
+    {
+        "name": "Radio Catolica de Irapuato",
+        "city": "Irapuato",
+        "country": "Mexico",
+        "url": "https://stream-155.zeno.fm/325s06zu59duv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIzMjVzMDZ6dTU5ZHV2IiwiaG9zdCI6InN0cmVhbS0xNTUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiUzcwSkdqUDdRYjZGN1VWejlCVWU2ZyIsImlhdCI6MTc2OTQxOTQ2MiwiZXhwIjoxNzY5NDE5NTIyfQ.ox5IMUwPkNEsNyb3g_i15Y1cM7R4RBJJG4QV9p8tskg"
+    },
+    {
+        "name": "Arroba FM 99.3 FM",
+        "city": "Irapuato",
+        "country": "Mexico",
+        "url": "https://stream-153.zeno.fm/883nc8g9d78uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI4ODNuYzhnOWQ3OHV2IiwiaG9zdCI6InN0cmVhbS0xNTMuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiU2hndW1iV2FTYXl1Ti02RlFOV0huZyIsImlhdCI6MTc2OTQxOTQ2MywiZXhwIjoxNzY5NDE5NTIzfQ.wMl2FtVvomsD_C-kqQGGFr5iaTBlC5IYC86qEfRdktg"
+    },
+    {
+        "name": "Khak FM 99.1",
+        "city": "Sulaymaniyah",
+        "country": "Iraq",
+        "url": "http://siliconvalley.servep2p.com:8000/khakfm"
+    },
+    {
+        "name": "Gorran Radio",
+        "city": "Sulaymaniyah",
+        "country": "Iraq",
+        "url": "https://radio.host247.net/dgoran"
+    },
+    {
+        "name": "Dange Islam 100.3 FM",
+        "city": "Sulaymaniyah",
+        "country": "Iraq",
+        "url": "https://radio.host247.net/dislam"
+    },
+    {
+        "name": "Cafe Romantico Radio",
+        "city": "Irapuato",
+        "country": "Mexico",
+        "url": "https://panel.retrolandigital.com/radio/8110/listen"
+    },
+    {
+        "name": "EXA Irapuato FM 93.5",
+        "city": "Irapuato",
+        "country": "Mexico",
+        "url": "https://14843.live.streamtheworld.com:443/XHNY.mp3"
+    },
+    {
+        "name": "Kurdsat",
+        "city": "Sulaymaniyah",
+        "country": "Iraq",
+        "url": "http://uk3.internet-radio.com:8011/stream"
+    },
+    {
+        "name": "Fiesta Mexicana 92.9 FM",
+        "city": "Irapuato",
+        "country": "Mexico",
+        "url": "https://stream-155.zeno.fm/ys3uakk6dkhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5czN1YWtrNmRraHZ2IiwiaG9zdCI6InN0cmVhbS0xNTUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoidU9KLU5IeEtTUmV0Y09tUXZLZEtWQSIsImlhdCI6MTc2OTQxOTQ2NCwiZXhwIjoxNzY5NDE5NTI0fQ.3BfM2azhsAcXtXMcd5Y6qA6wxXAo2fL4SHZGm_wwFOo"
+    },
+    {
+        "name": "Melodia FM 99.2",
+        "city": "Ioannina",
+        "country": "Greece",
+        "url": "https://n04.rcs.revma.com/8tdwa6ez1duvv?rj-ttl=5&rj-tok=AAABm_mnh9IAwUkc1DSQ7P9Zjw"
+    },
+    {
+        "name": "Leopard Radio 98.7 FM",
+        "city": "Duhok",
+        "country": "Iraq",
+        "url": "https://c2.radioboss.fm:8980/stream"
+    },
+    {
+        "name": "Radioi Sunnat 106.9 FM",
+        "city": "Sulaymaniyah",
+        "country": "Iraq",
+        "url": "https://a1.asurahosting.com:9380/radio.mp3"
+    },
+    {
+        "name": "ARTA FM",
+        "city": "Duhok",
+        "country": "Iraq",
+        "url": "https://edge.mixlr.com/channel/qtgru"
+    },
+    {
+        "name": "Waar Radio 95.1",
+        "city": "Duhok",
+        "country": "Iraq",
+        "url": "https://c2.radioboss.fm:8564/stream"
+    },
+    {
+        "name": "Radio Centro El Fonografo AM 690",
+        "city": "Irapuato",
+        "country": "Mexico",
+        "url": "https://19263.live.streamtheworld.com:443/XEN_AMAAC.aac"
+    },
+    {
+        "name": "Universal 88.1",
+        "city": "Irapuato",
+        "country": "Mexico",
+        "url": "https://29223.live.streamtheworld.com:443/XHRED_FMAAC.aac"
+    },
+    {
+        "name": "W Radio FM 96.9",
+        "city": "Irapuato",
+        "country": "Mexico",
+        "url": "https://27273.live.streamtheworld.com:443/W_RADIOAAC.aac"
+    },
+    {
+        "name": "Massa FM Canoinhas",
+        "city": "Irati PR",
+        "country": "Brazil",
+        "url": "http://live.paineldj.com.br:10406/stream"
+    },
+    {
+        "name": "Radyo Yüksel",
+        "city": "Duhok",
+        "country": "Iraq",
+        "url": "https://yayin2.canliyayin.org:8232/;stream"
+    },
+    {
+        "name": "Nhêl Radio",
+        "city": "Sulaymaniyah",
+        "country": "Iraq",
+        "url": "https://stream-177.zeno.fm/qk3immampzqvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxazNpbW1hbXB6cXZ2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiNWZ6SlFKb0xRSUNkWlM1cHh5TW1tZyIsImlhdCI6MTc2OTQxOTQ2NiwiZXhwIjoxNzY5NDE5NTI2fQ.mWrbAMbtPz_5jQEr42WFglXSX1pmsFhzm0-J7CWQRpA"
+    },
+    {
+        "name": "Stereorey",
+        "city": "Irapuato",
+        "country": "Mexico",
+        "url": "https://18323.live.streamtheworld.com:443/STEREOREYAAC.aac"
+    },
+    {
+        "name": "Radio Copas Verdes",
+        "city": "Irati PR",
+        "country": "Brazil",
+        "url": "http://servidor20.dnip.com.br:8540/;stream.mp3"
+    },
+    {
+        "name": "Rádio Unicentro Entre Rios FM 99.7",
+        "city": "Irati PR",
+        "country": "Brazil",
+        "url": "https://paineldj6.com.br:20030/stream"
+    },
+    {
+        "name": "One 95.7 FM",
+        "city": "Baghdad",
+        "country": "Iraq",
+        "url": "https://radio1.fortihost.com/stream"
+    },
+    {
+        "name": "Alvorada FM 102.5",
+        "city": "Irati PR",
+        "country": "Brazil",
+        "url": "https://hts05.brascast.com:9036/live"
+    },
+    {
+        "name": "Super Najuá 92.5 FM",
+        "city": "Irati PR",
+        "country": "Brazil",
+        "url": "https://f100.fabricahost.com.br/supernajua?f=1769419468N01KFWSWVENX5NEDWEXBN48Q3FM&tid=01KFWSWVENCY8BDEDBRTMFKJDT"
+    },
+    {
+        "name": "Cultura FM 87.9",
+        "city": "Irati PR",
+        "country": "Brazil",
+        "url": "https://f108.fabricahost.com.br/culturafmirati?f=1769419468N01KFWSWVDP2PG41GP1KG4E0KMR&tid=01KFWSWVDP67S49YCZVMNGZPRF"
+    },
+    {
+        "name": "Najuá FM 106.9",
+        "city": "Irati PR",
+        "country": "Brazil",
+        "url": "https://f108.fabricahost.com.br/najuafm?f=1769419468N01KFWSWVDY4TET25DG9VATMWQC&tid=01KFWSWVDY8EC1Y1W6PQ46HQBK"
+    },
+    {
+        "name": "Rádio Itatiaia",
+        "city": "Irati PR",
+        "country": "Brazil",
+        "url": "https://8903.brasilstream.com.br/stream"
+    },
+    {
+        "name": "Nadvirna FM 107.3",
+        "city": "Ivano-Frankivsk",
+        "country": "Ukraine",
+        "url": "http://195.114.96.114:7878/"
+    },
+    {
+        "name": "Studio Brasil",
+        "city": "Itanhaém SP",
+        "country": "Brazil",
+        "url": "https://ssl.xcast.com.br:11070/stream/"
+    },
+    {
+        "name": "TVA FM",
+        "city": "Ivano-Frankivsk",
+        "country": "Ukraine",
+        "url": "http://51.83.132.157/128"
+    },
+    {
+        "name": "Antena 1",
+        "city": "Irati PR",
+        "country": "Brazil",
+        "url": "https://antenaone.crossradio.com.br/stream"
+    },
+    {
+        "name": "Expressão Gospel",
+        "city": "Itanhaém SP",
+        "country": "Brazil",
+        "url": "https://stm18.xcast.com.br:7996/stream"
+    },
+    {
+        "name": "Türkmen FM 90.1",
+        "city": "Kirkuk",
+        "country": "Iraq",
+        "url": "https://radyo1.radyo-dinle.tc/8284/stream"
+    },
+    {
+        "name": "Radio Dango Qurani Peroz 107.1 FM",
+        "city": "Kirkuk",
+        "country": "Iraq",
+        "url": "https://a1.asurahosting.com/listen/quranradio/radio.mp3"
+    },
+    {
+        "name": "Rádio O Bom Samaritano",
+        "city": "Itanhaém SP",
+        "country": "Brazil",
+        "url": "https://live9.livemus.com.br:28106/stream"
+    },
+    {
+        "name": "Radio Mongagua 92.5 FM",
+        "city": "Itanhaém SP",
+        "country": "Brazil",
+        "url": "https://sonicpanel.oficialserver.com:7060/index.html?sid=1"
+    },
+    {
+        "name": "Alpha FM 101.7",
+        "city": "Irati PR",
+        "country": "Brazil",
+        "url": "https://24383.live.streamtheworld.com:443/RADIO_ALPHAFMAAC.aac"
+    },
+    {
+        "name": "Radio Vezha FM 107",
+        "city": "Ivano-Frankivsk",
+        "country": "Ukraine",
+        "url": "https://listen6.myradio24.com/69829"
+    },
+    {
+        "name": "Kalush FM",
+        "city": "Ivano-Frankivsk",
+        "country": "Ukraine",
+        "url": "http://195.182.22.130:8000/Streamogg"
+    },
+    {
+        "name": "Rádio JB FM 99,9",
+        "city": "Irati PR",
+        "country": "Brazil",
+        "url": "https://27693.live.streamtheworld.com:443/JBFMAAC.aac"
+    },
+    {
+        "name": "Радіо НВ",
+        "city": "Ivano-Frankivsk",
+        "country": "Ukraine",
+        "url": "http://91.218.212.84:8000/radionv.mp3"
+    },
+    {
+        "name": "Kirkuk FM 93.3",
+        "city": "Kirkuk",
+        "country": "Iraq",
+        "url": "https://video1.getstreamhosting.com:8154/stream"
+    },
+    {
+        "name": "Western Pole Radio FM 104.3",
+        "city": "Ivano-Frankivsk",
+        "country": "Ukraine",
+        "url": "https://online.z-polus.info/hq"
+    },
+    {
+        "name": "Vale do Mel FM 100.7",
+        "city": "Irati PR",
+        "country": "Brazil",
+        "url": "https://servidor22-2.brlogic.com:7034/live"
+    },
+    {
+        "name": "Hit FM Best",
+        "city": "Ivano-Frankivsk",
+        "country": "Ukraine",
+        "url": "https://online.hitfm.ua/HitFM_Best"
+    },
+    {
+        "name": "Kiss FM",
+        "city": "Ivano-Frankivsk",
+        "country": "Ukraine",
+        "url": "https://online.kissfm.ua/KissFM"
+    },
+    {
+        "name": "Hit FM",
+        "city": "Ivano-Frankivsk",
+        "country": "Ukraine",
+        "url": "https://online.hitfm.ua/HitFM"
+    },
+    {
+        "name": "Tvoe Radio 101.4 FM",
+        "city": "Ivano-Frankivsk",
+        "country": "Ukraine",
+        "url": "https://complex.in.ua/tvoeRadio"
+    },
+    {
+        "name": "Radio Syaivo",
+        "city": "Ivano-Frankivsk",
+        "country": "Ukraine",
+        "url": "https://stream.ntktv.ua/syaivo.mp3"
+    },
+    {
+        "name": "Web Rádio Difusão",
+        "city": "Itanhaém SP",
+        "country": "Brazil",
+        "url": "https://servidor40-5.brlogic.com:8236/live"
+    },
+    {
+        "name": "Kasese Guide FM 100.5",
+        "city": "Ibanda",
+        "country": "Uganda",
+        "url": "https://radio.julyhost.net/8240/stream"
+    },
+    {
+        "name": "New Day 101.9 FM",
+        "city": "Ivano-Frankivsk",
+        "country": "Ukraine",
+        "url": "https://stream-160.zeno.fm/5burvqocukruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI1YnVydnFvY3VrcnV2IiwiaG9zdCI6InN0cmVhbS0xNjAuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiaXN6U0RqYUZUcktXei1Md3lhaXRzdyIsImlhdCI6MTc2OTQxOTQ3NCwiZXhwIjoxNzY5NDE5NTM0fQ.CfZAxgCY1koparJn3jIj9n7mMDdvpgl0oA-ZfGSy5yE"
+    },
+    {
+        "name": "Boona FM 91.8",
+        "city": "Ibanda",
+        "country": "Uganda",
+        "url": "https://stream-158.zeno.fm/ndi9k9r4lp9uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJuZGk5azlyNGxwOXV2IiwiaG9zdCI6InN0cmVhbS0xNTguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiSzhQc1hNVXhSUVNmaEV0S3UwRlhXUSIsImlhdCI6MTc2OTQxOTQ3NSwiZXhwIjoxNzY5NDE5NTM1fQ.NYsyX9L43iXSusqnT3t54-huxwwBtW3AbKr4asqSB1w"
+    },
+    {
+        "name": "Rukundo FM 95.8",
+        "city": "Ibanda",
+        "country": "Uganda",
+        "url": "https://stream-154.zeno.fm/19wm8qq9ps8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIxOXdtOHFxOXBzOHV2IiwiaG9zdCI6InN0cmVhbS0xNTQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiTWlQT2Fna0tRZHF5Ul9CLXY0c1NfdyIsImlhdCI6MTc2OTQxOTQ3NCwiZXhwIjoxNzY5NDE5NTM0fQ.dYfy5_DzMppByiRLGud78NzTLzG5ZIvDwDoeiRXWoik"
+    },
+    {
+        "name": "MMU Radio FM 105.2",
+        "city": "Ibanda",
+        "country": "Uganda",
+        "url": "https://stream-161.zeno.fm/e7jm2atm4hfvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJlN2ptMmF0bTRoZnZ2IiwiaG9zdCI6InN0cmVhbS0xNjEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoidlNUM2VBR2JTMG11UEtOM2ZCT3Z5ZyIsImlhdCI6MTc2OTQxOTQ3NCwiZXhwIjoxNzY5NDE5NTM0fQ.CjUhU2thhC7-ybxT5f7VBvO0qGk6MW6RnNjsKftbTMY"
+    },
+    {
+        "name": "Rádio Web Cubatão",
+        "city": "Itanhaém SP",
+        "country": "Brazil",
+        "url": "https://servidor27-1.brlogic.com:8064/live"
+    },
+    {
+        "name": "Capital FM 91.3",
+        "city": "Ibanda",
+        "country": "Uganda",
+        "url": "https://capitalfm.cloudrad.io/index.html?sid=1"
+    },
+    {
+        "name": "Street Deejays",
+        "city": "Ibanda",
+        "country": "Uganda",
+        "url": "https://stream-151.zeno.fm/nbwdnxz7na0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJuYndkbnh6N25hMHV2IiwiaG9zdCI6InN0cmVhbS0xNTEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiZHgtT0tGWGhTeC16S1JOcGRqRFhJZyIsImlhdCI6MTc2OTQxOTQ3NSwiZXhwIjoxNzY5NDE5NTM1fQ.oa3WprMlYJo4g_AcxFSqW1NRAuZL4L0qOOkCwJjJwpg"
+    },
+    {
+        "name": "Radio Wa FM 89.8",
+        "city": "Ibanda",
+        "country": "Uganda",
+        "url": "https://nr8.newradio.it/proxy/radiowa?mp=/stream/"
+    },
+    {
+        "name": "Radio Ankole 99.3 FM",
+        "city": "Ibanda",
+        "country": "Uganda",
+        "url": "https://stream-179.zeno.fm/tx3pbguupg8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0eDNwYmd1dXBnOHV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoicF9KTFdUZnZSek9HR0s0Q3dWSWRMUSIsImlhdCI6MTc2OTQxOTQ3NSwiZXhwIjoxNzY5NDE5NTM1fQ.Mymp4DyCK9v_3X6h5B09v8mnXb0fiR2wrm6IE6FKzwY"
+    },
+    {
+        "name": "EWTN Global Catholic Radio",
+        "city": "Irondale AL",
+        "country": "United States",
+        "url": "https://ewtn-ice.streamguys1.com/english-aac"
+    },
+    {
+        "name": "Radio Unity FM 97.7",
+        "city": "Ibanda",
+        "country": "Uganda",
+        "url": "https://stream-151.zeno.fm/e4ru9m1x768uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJlNHJ1OW0xeDc2OHV2IiwiaG9zdCI6InN0cmVhbS0xNTEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoibGhSUl9ySjNReGVJcFg4dmFjWFotUSIsImlhdCI6MTc2OTQxOTQ3NiwiZXhwIjoxNzY5NDE5NTM2fQ.TlOGUObdxsZ2wk9X8zQJu8IMaOd65sqcnIgpfYs2C6s"
+    },
+    {
+        "name": "Voice of Lango 88.0 FM",
+        "city": "Ibanda",
+        "country": "Uganda",
+        "url": "https://stream-163.zeno.fm/gbp29ctt6rhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJnYnAyOWN0dDZyaHZ2IiwiaG9zdCI6InN0cmVhbS0xNjMuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoibDZfYk1ydmpRNEdzZFdKV1ExYkRSdyIsImlhdCI6MTc2OTQxOTQ3NiwiZXhwIjoxNzY5NDE5NTM2fQ.VvT8EVqNAyaMtLMNB-7mErScd01Gwo19fmoOf9Zo9qI"
+    },
+    {
+        "name": "Radio QFM 94.3",
+        "city": "Ibanda",
+        "country": "Uganda",
+        "url": "https://host.atenimedia.com/listen/radio_qfm_lira/radio.mp3"
+    },
+    {
+        "name": "WIEZ 1490 AM",
+        "city": "Irondale AL",
+        "country": "United States",
+        "url": "https://crystalout.surfernetwork.com:8001/WIEZ-AM_MP3"
+    },
+    {
+        "name": "WJUV 88.3 FM",
+        "city": "Irondale AL",
+        "country": "United States",
+        "url": "http://grn-stream-01.miriamtech.net:8000/secal.mp3"
+    },
+    {
+        "name": "Elijah Radio",
+        "city": "Irondale AL",
+        "country": "United States",
+        "url": "https://usa3-vn.mixstream.net/8016/index.html?sid=1"
+    },
+    {
+        "name": "WCUP FM 105.7",
+        "city": "Iron Mountain MI",
+        "country": "United States",
+        "url": "http://stream.up.net:8000/WCUP"
+    },
+    {
+        "name": "WGLI 98.7 The Rockin' Eagle",
+        "city": "Iron Mountain MI",
+        "country": "United States",
+        "url": "http://stream.up.net/WGLI"
+    },
+    {
+        "name": "Fun Radio 104.9 FM",
+        "city": "Irondale AL",
+        "country": "United States",
+        "url": "https://stream3.rcast.net/69135"
+    },
+    {
+        "name": "WYKX 104.7 FM",
+        "city": "Iron Mountain MI",
+        "country": "United States",
+        "url": "https://us9.maindigitalstream.com/ssl/WYKX"
+    },
+    {
+        "name": "Copper Line Radio",
+        "city": "Irondale AL",
+        "country": "United States",
+        "url": "https://streaming.radio.co/sb8ca4a232/listen"
+    },
+    {
+        "name": "Mix 102.9 - WKXX",
+        "city": "Irondale AL",
+        "country": "United States",
+        "url": "https://ice41.securenetsystems.net/MIX1029"
+    },
+    {
+        "name": "WIKB 99.1 FM",
+        "city": "Iron Mountain MI",
+        "country": "United States",
+        "url": "https://ice41.securenetsystems.net/WIKB"
+    },
+    {
+        "name": "K Rock 93.1 FM",
+        "city": "Iron Mountain MI",
+        "country": "United States",
+        "url": "https://ice23.securenetsystems.net/WIMK"
+    },
+    {
+        "name": "FM 106.9 The Lodge",
+        "city": "Iron Mountain MI",
+        "country": "United States",
+        "url": "https://ice26.securenetsystems.net/WLGE"
+    },
+    {
+        "name": "The Point 100.3 WUPT",
+        "city": "Iron Mountain MI",
+        "country": "United States",
+        "url": "https://ice64.securenetsystems.net/WUPT"
+    }
+]

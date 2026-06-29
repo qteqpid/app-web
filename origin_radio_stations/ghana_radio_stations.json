@@ -1,0 +1,792 @@
+[
+  {
+    "id": "ghana-rainbow-radio-ghana",
+    "name": "Rainbow Radio Ghana",
+    "url": "http://eu7.fastcast4u.com:6182/stream",
+    "genre": "Music",
+    "city": "Accra",
+    "country": "Ghana",
+    "lat": 5.5571096,
+    "lng": -0.2012376
+  },
+  {
+    "id": "ghana-eternal-life-broadcast",
+    "name": "Eternal Life Broadcast",
+    "url": "https://broadcast.eternallifeassembly.com/listen/ela_broadcast/radio.mp3",
+    "genre": "Music",
+    "city": "Accra",
+    "country": "Ghana",
+    "lat": 5.5571096,
+    "lng": -0.2012376
+  },
+  {
+    "id": "ghana-oroko-radio",
+    "name": "Oroko Radio",
+    "url": "https://oroko-radio.radiocult.fm/stream",
+    "genre": "Music",
+    "city": "Accra",
+    "country": "Ghana",
+    "lat": 5.5571096,
+    "lng": -0.2012376
+  },
+  {
+    "id": "ghana-victorious-radio",
+    "name": "Victorious Radio",
+    "url": "http://n0f.radiojar.com/q2u0895928quv?rj-ttl=5&rj-tok=AAABm_meWx0ApoCOTQLDUr_PMg",
+    "genre": "Music",
+    "city": "Accra",
+    "country": "Ghana",
+    "lat": 5.5571096,
+    "lng": -0.2012376
+  },
+  {
+    "id": "ghana-zed-1019-fm",
+    "name": "ZED 101.9 FM",
+    "url": "https://radio.zedmultimedia.com:8000/radio.mp3",
+    "genre": "Music",
+    "city": "Accra",
+    "country": "Ghana",
+    "lat": 5.5571096,
+    "lng": -0.2012376
+  },
+  {
+    "id": "ghana-citi-fm-973",
+    "name": "Citi FM 97.3",
+    "url": "https://citi973fm.radioca.st/index.html?sid=1",
+    "genre": "Music",
+    "city": "Accra",
+    "country": "Ghana",
+    "lat": 5.5571096,
+    "lng": -0.2012376
+  },
+  {
+    "id": "ghana-heaven-fm-901",
+    "name": "Heaven FM 90.1",
+    "url": "https://stream.lensnetworks.com/proxy/hop?mp=/stream",
+    "genre": "Music",
+    "city": "Kumasi",
+    "country": "Ghana",
+    "lat": 6.6985605,
+    "lng": -1.6233086
+  },
+  {
+    "id": "ghana-oyerepa-fm",
+    "name": "Oyerepa FM",
+    "url": "https://stream-154.zeno.fm/457dru9abnzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0NTdkcnU5YWJuenV2IiwiaG9zdCI6InN0cmVhbS0xNTQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiWGVJUE5VMFpULVc1TWI5T3lMSnZ2ZyIsImlhdCI6MTc2OTQxODg2MywiZXhwIjoxNzY5NDE4OTIzfQ.xOwZj6mVpTlrCiubEtA857qDnOFLpoqCGUiFMwxwA3w",
+    "genre": "Music",
+    "city": "Accra",
+    "country": "Ghana",
+    "lat": 5.5571096,
+    "lng": -0.2012376
+  },
+  {
+    "id": "ghana-oman-fm-1071",
+    "name": "Oman FM 107.1",
+    "url": "http://omanfm.atunwadigital.streamguys1.com/omanfm",
+    "genre": "Music",
+    "city": "Accra",
+    "country": "Ghana",
+    "lat": 5.5571096,
+    "lng": -0.2012376
+  },
+  {
+    "id": "ghana-hitz-fm-1039",
+    "name": "Hitz FM 103.9",
+    "url": "https://mmg.streamguys1.com/HitzFM-mp3?key=63d8990dfe4438ae984fd70d2d2b4bd31c842c474987bd810ac0e8e0fd62e8cf2015661105cced63ccfdca89a8422ab1",
+    "genre": "Music",
+    "city": "Accra",
+    "country": "Ghana",
+    "lat": 5.5571096,
+    "lng": -0.2012376
+  },
+  {
+    "id": "ghana-adom-fm-1063",
+    "name": "Adom FM 106.3",
+    "url": "https://mmg.streamguys1.com/AdomFM-mp3?key=63d8990dfe4438ae984fd70d2d2b4bd31c842c474987bd810ac0e8e0fd62e8cf2015661105cced63ccfdca89a8422ab1",
+    "genre": "Music",
+    "city": "Accra",
+    "country": "Ghana",
+    "lat": 5.5571096,
+    "lng": -0.2012376
+  },
+  {
+    "id": "ghana-joy-997-fm",
+    "name": "Joy 99.7 FM",
+    "url": "https://mmg.streamguys1.com/JoyFM-mp3?key=63d8990dfe4438ae984fd70d2d2b4bd31c842c474987bd810ac0e8e0fd62e8cf2015661105cced63ccfdca89a8422ab1",
+    "genre": "Music",
+    "city": "Accra",
+    "country": "Ghana",
+    "lat": 5.5571096,
+    "lng": -0.2012376
+  },
+  {
+    "id": "ghana-asempa-947-fm",
+    "name": "Asempa 94.7 FM",
+    "url": "https://mmg.streamguys1.com/AsempaFM-mp3?key=63d8990dfe4438ae984fd70d2d2b4bd31c842c474987bd810ac0e8e0fd62e8cf2015661105cced63ccfdca89a8422ab1",
+    "genre": "Music",
+    "city": "Accra",
+    "country": "Ghana",
+    "lat": 5.5571096,
+    "lng": -0.2012376
+  },
+  {
+    "id": "ghana-wigcs-radio",
+    "name": "WIGCS Radio",
+    "url": "https://stream-160.zeno.fm/xrhfg25zumzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ4cmhmZzI1enVtenV2IiwiaG9zdCI6InN0cmVhbS0xNjAuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiOFJMTnhXX0RRS3lPcE9UenQwSVEwUSIsImlhdCI6MTc2OTQxODg2MywiZXhwIjoxNzY5NDE4OTIzfQ.Po653E1xDyFRHi8ADJjE-p8G8zNHlGl12MXyo8T0eQQ",
+    "genre": "Music",
+    "city": "Accra",
+    "country": "Ghana",
+    "lat": 5.5571096,
+    "lng": -0.2012376
+  },
+  {
+    "id": "ghana-atlantis-radio-879-fm",
+    "name": "Atlantis Radio 87.9 FM",
+    "url": "https://stream-164.zeno.fm/zg36qa2t2bruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ6ZzM2cWEydDJicnV2IiwiaG9zdCI6InN0cmVhbS0xNjQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiaF9ER1QzZEpSTGl0UnBGRC1TTXhwQSIsImlhdCI6MTc2OTQxODg2MywiZXhwIjoxNzY5NDE4OTIzfQ.RiXgaz58OJEfhTsjBM6g-LNJSiPp24vvu8QUUjmWT30",
+    "genre": "Music",
+    "city": "Accra",
+    "country": "Ghana",
+    "lat": 5.5571096,
+    "lng": -0.2012376
+  },
+  {
+    "id": "ghana-golden-star-fm-893",
+    "name": "Golden Star FM 89.3",
+    "url": "https://stream-154.zeno.fm/08ub3cqrrhruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwOHViM2NxcnJocnV2IiwiaG9zdCI6InN0cmVhbS0xNTQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiREtpZVlvRkRRYUdFdk9aZG01QzF2QSIsImlhdCI6MTc2OTQxODg2MywiZXhwIjoxNzY5NDE4OTIzfQ.bOZbOKX2dQWJ9eNlyeVTk9MuvMDwoFpBlGbzVCDQGfc",
+    "genre": "Music",
+    "city": "Accra",
+    "country": "Ghana",
+    "lat": 5.5571096,
+    "lng": -0.2012376
+  },
+  {
+    "id": "ghana-spirit-music-plus",
+    "name": "Spirit Music Plus",
+    "url": "https://audiodigitalgh.com:2020/stream/spiritmusicplus",
+    "genre": "Music",
+    "city": "Kumasi",
+    "country": "Ghana",
+    "lat": 6.6985605,
+    "lng": -1.6233086
+  },
+  {
+    "id": "ghana-accra-fm-1005",
+    "name": "Accra FM 100.5",
+    "url": "https://accrafm-atunwadigital.streamguys1.com/accrafm",
+    "genre": "Music",
+    "city": "Accra",
+    "country": "Ghana",
+    "lat": 5.5571096,
+    "lng": -0.2012376
+  },
+  {
+    "id": "ghana-angel-fm-1029",
+    "name": "Angel FM 102.9",
+    "url": "https://angelfmaccra-atunwadigital.streamguys1.com/angelfmaccra",
+    "genre": "Music",
+    "city": "Accra",
+    "country": "Ghana",
+    "lat": 5.5571096,
+    "lng": -0.2012376
+  },
+  {
+    "id": "ghana-radio-gold-fm-905",
+    "name": "Radio Gold FM 90.5",
+    "url": "https://radiogold-atunwadigital.streamguys1.com/radiogold",
+    "genre": "Music",
+    "city": "Accra",
+    "country": "Ghana",
+    "lat": 5.5571096,
+    "lng": -0.2012376
+  },
+  {
+    "id": "ghana-abusua-fm-965",
+    "name": "Abusua FM 96.5",
+    "url": "https://abusuafm-atunwadigital.streamguys1.com/abusuafm",
+    "genre": "Music",
+    "city": "Kumasi",
+    "country": "Ghana",
+    "lat": 6.6985605,
+    "lng": -1.6233086
+  },
+  {
+    "id": "ghana-nhyira-fm-1045",
+    "name": "Nhyira FM 104.5",
+    "url": "https://mmg.streamguys1.com/NhyiraFM-mp3?key=63d8990dfe4438ae984fd70d2d2b4bd31c842c474987bd810ac0e8e0fd62e8cf2015661105cced63ccfdca89a8422ab1",
+    "genre": "Music",
+    "city": "Kumasi",
+    "country": "Ghana",
+    "lat": 6.6985605,
+    "lng": -1.6233086
+  },
+  {
+    "id": "ghana-truth-to-heaven-radio",
+    "name": "Truth to Heaven Radio",
+    "url": "https://shoutcast.k-planet.eu/9344/stream",
+    "genre": "Music",
+    "city": "Kumasi",
+    "country": "Ghana",
+    "lat": 6.6985605,
+    "lng": -1.6233086
+  },
+  {
+    "id": "ghana-sankofa-radio-fm-989",
+    "name": "Sankofa Radio FM 98.9",
+    "url": "http://s2.nexuscast.com:8074/stream",
+    "genre": "Music",
+    "city": "Takoradi",
+    "country": "Ghana",
+    "lat": 4.887401,
+    "lng": -1.7519316
+  },
+  {
+    "id": "ghana-luv-fm-995",
+    "name": "Luv FM 99.5",
+    "url": "https://mmg.streamguys1.com/LuvFM-mp3?key=63d8990dfe4438ae984fd70d2d2b4bd31c842c474987bd810ac0e8e0fd62e8cf2015661105cced63ccfdca89a8422ab1",
+    "genre": "Music",
+    "city": "Kumasi",
+    "country": "Ghana",
+    "lat": 6.6985605,
+    "lng": -1.6233086
+  },
+  {
+    "id": "ghana-akomapa-fm-893",
+    "name": "Akomapa FM 89.3",
+    "url": "http://mounthoreb1.primcast.com:8210/;;",
+    "genre": "Music",
+    "city": "Kumasi",
+    "country": "Ghana",
+    "lat": 6.6985605,
+    "lng": -1.6233086
+  },
+  {
+    "id": "ghana-otec-fm-1029",
+    "name": "Otec FM 102.9",
+    "url": "https://stream-157.zeno.fm/2dnt5ku7fxquv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIyZG50NWt1N2Z4cXV2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiR0F6eWoxdURRdE9nS3BlQkkwbkxudyIsImlhdCI6MTc2OTQxODg2NiwiZXhwIjoxNzY5NDE4OTI2fQ.OfroEMb9oTNFKnbzfGYstyoCfCfRSwzldISYon6si8E",
+    "genre": "Music",
+    "city": "Kumasi",
+    "country": "Ghana",
+    "lat": 6.6985605,
+    "lng": -1.6233086
+  },
+  {
+    "id": "ghana-kessben-fm-933",
+    "name": "Kessben FM 93.3",
+    "url": "https://kessben933fmkumasi-atunwadigital.streamguys1.com/kessben933fmkumasi",
+    "genre": "Music",
+    "city": "Kumasi",
+    "country": "Ghana",
+    "lat": 6.6985605,
+    "lng": -1.6233086
+  },
+  {
+    "id": "ghana-asantewaa-radio",
+    "name": "Asantewaa Radio",
+    "url": "https://cast4.my-control-panel.com/proxy/asantewa/stream",
+    "genre": "Music",
+    "city": "Kumasi",
+    "country": "Ghana",
+    "lat": 6.6985605,
+    "lng": -1.6233086
+  },
+  {
+    "id": "ghana-asanteman-radio-1073-fm",
+    "name": "Asanteman Radio 107.3 FM",
+    "url": "https://stream-152.zeno.fm/wmc216v8d4duv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ3bWMyMTZ2OGQ0ZHV2IiwiaG9zdCI6InN0cmVhbS0xNTIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoieUhQNGlNcmJRWVMzZG1WbmNGUXdSdyIsImlhdCI6MTc2OTQxODg2NiwiZXhwIjoxNzY5NDE4OTI2fQ.EoSvpxVfCYXA6AaaxgMcl09X-S3Ji4aSWtYpQZ7js5k",
+    "genre": "Music",
+    "city": "Kumasi",
+    "country": "Ghana",
+    "lat": 6.6985605,
+    "lng": -1.6233086
+  },
+  {
+    "id": "ghana-ahobraseye-fm-985",
+    "name": "Ahobraseye FM 98.5",
+    "url": "https://stream-179.zeno.fm/g1w127mqvuquv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJnMXcxMjdtcXZ1cXV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiNXFyY3pCU1RUNE9HRHlPZmx3MThrZyIsImlhdCI6MTc2OTQxODg2NywiZXhwIjoxNzY5NDE4OTI3fQ.sAsawjTQkY7q3j4nIaFU1d9hfY7ALnVHeUhSSnhD2ig",
+    "genre": "Music",
+    "city": "Kumasi",
+    "country": "Ghana",
+    "lat": 6.6985605,
+    "lng": -1.6233086
+  },
+  {
+    "id": "ghana-y979fm",
+    "name": "Y97.9FM",
+    "url": "https://yfm979takoradi-atunwadigital.streamguys1.com/yfm979takoradi",
+    "genre": "Music",
+    "city": "Takoradi",
+    "country": "Ghana",
+    "lat": 4.887401,
+    "lng": -1.7519316
+  },
+  {
+    "id": "ghana-connect-fm-971",
+    "name": "Connect FM 97.1",
+    "url": "https://connectfm-atunwadigital.streamguys1.com/connectfm",
+    "genre": "Music",
+    "city": "Takoradi",
+    "country": "Ghana",
+    "lat": 4.887401,
+    "lng": -1.7519316
+  },
+  {
+    "id": "ghana-tw-radio-889-fm",
+    "name": "TW Radio 88.9 FM",
+    "url": "https://a00.w3gradle.com/a21.mp3",
+    "genre": "Music",
+    "city": "Cape Coast",
+    "country": "Ghana",
+    "lat": 5.107467,
+    "lng": -1.2430793
+  },
+  {
+    "id": "ghana-nk-radio",
+    "name": "NK Radio",
+    "url": "https://stream-176.zeno.fm/88q96ky3enruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI4OHE5Nmt5M2VucnV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoidEh5ckRvbnBRanlXdjBkcFN1ckNCQSIsImlhdCI6MTc2OTQxODg2NywiZXhwIjoxNzY5NDE4OTI3fQ.6w55vqnTXYdN5_lPBvTva3WXh4w6BXSOx8d5yBmSe2Q",
+    "genre": "Music",
+    "city": "Kumasi",
+    "country": "Ghana",
+    "lat": 6.6985605,
+    "lng": -1.6233086
+  },
+  {
+    "id": "ghana-time-fm-969",
+    "name": "Time FM 96.9",
+    "url": "https://stream-176.zeno.fm/vz5t5566rrhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2ejV0NTU2NnJyaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiXzJKV2lhSHBUcXVVd0VlaW1lYVdMdyIsImlhdCI6MTc2OTQxODg2NywiZXhwIjoxNzY5NDE4OTI3fQ.wzpivoi0iOg4s3lRVVMFsWfx4R4DeJPV-P2-G-MAwyA",
+    "genre": "Music",
+    "city": "Kumasi",
+    "country": "Ghana",
+    "lat": 6.6985605,
+    "lng": -1.6233086
+  },
+  {
+    "id": "ghana-almighty-fm-1037",
+    "name": "Almighty FM 103.7",
+    "url": "https://almightyfm-atunwadigital.streamguys1.com/almightyfm",
+    "genre": "Music",
+    "city": "Takoradi",
+    "country": "Ghana",
+    "lat": 4.887401,
+    "lng": -1.7519316
+  },
+  {
+    "id": "ghana-skyy-power-935-fm",
+    "name": "Skyy Power 93.5 FM",
+    "url": "https://stream-159.zeno.fm/8ct99fxeq8quv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI4Y3Q5OWZ4ZXE4cXV2IiwiaG9zdCI6InN0cmVhbS0xNTkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiRE9zekNCM09TZy10Q2ZodDY1c25UZyIsImlhdCI6MTc2OTQxODg2NywiZXhwIjoxNzY5NDE4OTI3fQ.j-BFxsNn2Y_OxSu2KgNMkin-uMA3g4ZukKy-08lUlAc",
+    "genre": "Music",
+    "city": "Takoradi",
+    "country": "Ghana",
+    "lat": 4.887401,
+    "lng": -1.7519316
+  },
+  {
+    "id": "ghana-radio-maria",
+    "name": "Radio Maria",
+    "url": "http://dreamsiteradiocp2.com:8050/;stream.nsv",
+    "genre": "Music",
+    "city": "Bolgatanga",
+    "country": "Ghana",
+    "lat": 10.7853963,
+    "lng": -0.8487322
+  },
+  {
+    "id": "ghana-ogya-fm-983",
+    "name": "Ogya FM 98.3",
+    "url": "https://stream-177.zeno.fm/dub9mp72k0hvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJkdWI5bXA3MmswaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiYzEwRmJkdGxRZml6ZjRxVUJMYjVVdyIsImlhdCI6MTc2OTQxODg2OCwiZXhwIjoxNzY5NDE4OTI4fQ.0KA9Z1f7x7qoEpXVh9a0b04a2e5IZiM5kEOqD6Tt6BU",
+    "genre": "Music",
+    "city": "Takoradi",
+    "country": "Ghana",
+    "lat": 4.887401,
+    "lng": -1.7519316
+  },
+  {
+    "id": "ghana-omega-ge-radio",
+    "name": "omega GE radio",
+    "url": "https://stream-151.zeno.fm/puwca5c8hkeuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwdXdjYTVjOGhrZXV2IiwiaG9zdCI6InN0cmVhbS0xNTEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoic2dzemVWSVhUZUtYOVVUN0g2T1pUdyIsImlhdCI6MTc2OTQxODg2OCwiZXhwIjoxNzY5NDE4OTI4fQ.sMlx5BqwDj9USUjDxOoo6pf8sFp7he8esuSNXQcSeos",
+    "genre": "Music",
+    "city": "Takoradi",
+    "country": "Ghana",
+    "lat": 4.887401,
+    "lng": -1.7519316
+  },
+  {
+    "id": "ghana-kastle-fm-903",
+    "name": "Kastle FM 90.3",
+    "url": "https://stream-152.zeno.fm/evaq9ab4k0hvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJldmFxOWFiNGswaHZ2IiwiaG9zdCI6InN0cmVhbS0xNTIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiNjdvM1VNMWRSRmE5X3JDSzM0WlFqZyIsImlhdCI6MTc2OTQxODg2OSwiZXhwIjoxNzY5NDE4OTI5fQ.5ub50g_l9vsyWwxBpLnySp-bKkTuzAEqGlpG2VVdvBc",
+    "genre": "Music",
+    "city": "Cape Coast",
+    "country": "Ghana",
+    "lat": 5.107467,
+    "lng": -1.2430793
+  },
+  {
+    "id": "ghana-dreamz-1019-fm",
+    "name": "Dreamz 101.9 FM",
+    "url": "https://dreamzfm.radioca.st/index.html?sid=1",
+    "genre": "Music",
+    "city": "Bolgatanga",
+    "country": "Ghana",
+    "lat": 10.7853963,
+    "lng": -0.8487322
+  },
+  {
+    "id": "ghana-bankam-951-fm",
+    "name": "Bankam 95.1 FM",
+    "url": "https://stream-157.zeno.fm/w611nmv0zp8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ3NjExbm12MHpwOHV2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiRWRtNDhkSUpRVHE5bEttZG9VZ3JIZyIsImlhdCI6MTc2OTQxODg2OSwiZXhwIjoxNzY5NDE4OTI5fQ.SuuYeVPPzs--V_9RWXS-Etz1Xh6TlkMp9dGAbkuzdZI",
+    "genre": "Music",
+    "city": "Cape Coast",
+    "country": "Ghana",
+    "lat": 5.107467,
+    "lng": -1.2430793
+  },
+  {
+    "id": "ghana-blue-waves-radio-937-fm",
+    "name": "Blue Waves Radio 93.7 FM",
+    "url": "https://bluewaves.radioca.st/;stream.mp3",
+    "genre": "Music",
+    "city": "Bolgatanga",
+    "country": "Ghana",
+    "lat": 10.7853963,
+    "lng": -0.8487322
+  },
+  {
+    "id": "ghana-a1-radio-online",
+    "name": "A1 Radio Online",
+    "url": "https://s16.myradiostream.com:15482/listen.mp3?nocache=1769418869",
+    "genre": "Music",
+    "city": "Bolgatanga",
+    "country": "Ghana",
+    "lat": 10.7853963,
+    "lng": -0.8487322
+  },
+  {
+    "id": "ghana-the-original-word-radio",
+    "name": "The Original Word Radio",
+    "url": "https://eu8.fastcast4u.com/proxy/emmazy3?mp=/1",
+    "genre": "Music",
+    "city": "Tema",
+    "country": "Ghana",
+    "lat": 5.6596409,
+    "lng": -0.0096771
+  },
+  {
+    "id": "ghana-rich-radio",
+    "name": "Rich Radio",
+    "url": "https://strw3.openstream.co/1980?aw_0_1st.collectionid%3D5756%26stationId%3D5756%26publisherId%3D2004%26k%3D1769418868",
+    "genre": "Music",
+    "city": "Takoradi",
+    "country": "Ghana",
+    "lat": 4.887401,
+    "lng": -1.7519316
+  },
+  {
+    "id": "ghana-radio-motaog",
+    "name": "Radio Motaog",
+    "url": "https://cast6.my-control-panel.com/proxy/rtmdavid/stream",
+    "genre": "Music",
+    "city": "Tamale",
+    "country": "Ghana",
+    "lat": 9.4051992,
+    "lng": -0.8423986
+  },
+  {
+    "id": "ghana-zekoula-fm-880",
+    "name": "Zekoula FM 88.0",
+    "url": "https://stream-175.zeno.fm/u3z3e6c9yy8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1M3ozZTZjOXl5OHV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiSFhUeTlyUkFRazJhX3d0bU9sVlJOdyIsImlhdCI6MTc2OTQxODg3MCwiZXhwIjoxNzY5NDE4OTMwfQ.uKaFxUeKt-FWlu_n7nGzgHUB9fOSCeUZWZ5J9_BtUik",
+    "genre": "Music",
+    "city": "Bolgatanga",
+    "country": "Ghana",
+    "lat": 10.7853963,
+    "lng": -0.8487322
+  },
+  {
+    "id": "ghana-tin-tua-fada-1059-fm",
+    "name": "Tin Tua Fada 105.9 FM",
+    "url": "https://stream-176.zeno.fm/nve27vp8508uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJudmUyN3ZwODUwOHV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoia2lMRjdMVUVTRVNwMU1KMHQzazFTdyIsImlhdCI6MTc2OTQxODg3MCwiZXhwIjoxNzY5NDE4OTMwfQ.Rsxp4ytVE9HgMF_PEarmBuZ8im8rd3Re7HaUTeYERiA",
+    "genre": "Music",
+    "city": "Bolgatanga",
+    "country": "Ghana",
+    "lat": 10.7853963,
+    "lng": -0.8487322
+  },
+  {
+    "id": "ghana-horizon-fm-ouaga-1052",
+    "name": "Horizon FM Ouaga 105.2",
+    "url": "https://stream-175.zeno.fm/7861hrn4bf9uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI3ODYxaHJuNGJmOXV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiV3NJazhOWnBRR0N1UGtqbkF2QXotdyIsImlhdCI6MTc2OTQxODg3MCwiZXhwIjoxNzY5NDE4OTMwfQ.66A_oEHJ2OQk9fqtyrNHfwJ7JUhNSwCHHk4AoaWLM54",
+    "genre": "Music",
+    "city": "Bolgatanga",
+    "country": "Ghana",
+    "lat": 10.7853963,
+    "lng": -0.8487322
+  },
+  {
+    "id": "ghana-plan-b-fm-1045",
+    "name": "Plan B FM 104.5",
+    "url": "https://stream.lensnetworks.com/proxy/planb?mp=/stream",
+    "genre": "Music",
+    "city": "Tema",
+    "country": "Ghana",
+    "lat": 5.6596409,
+    "lng": -0.0096771
+  },
+  {
+    "id": "ghana-pognere-fm-1002",
+    "name": "Pognere FM 100.2",
+    "url": "https://stream-178.zeno.fm/74514wb9yy8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI3NDUxNHdiOXl5OHV2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiSDJZbDJINHpSNlc1akpzVVZqQmNmQSIsImlhdCI6MTc2OTQxODg3MSwiZXhwIjoxNzY5NDE4OTMxfQ.qDn7_tVQTNH8briqYw7zU58EhhX1KZKFPXc138_U8Jc",
+    "genre": "Music",
+    "city": "Bolgatanga",
+    "country": "Ghana",
+    "lat": 10.7853963,
+    "lng": -0.8487322
+  },
+  {
+    "id": "ghana-radio-xtra-897",
+    "name": "Radio Xtra 89.7",
+    "url": "https://stream-178.zeno.fm/4avdtf1gx98uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0YXZkdGYxZ3g5OHV2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiei01ZHBhSDdSNENlQmRYcFNSWDJGZyIsImlhdCI6MTc2OTQxODg3MSwiZXhwIjoxNzY5NDE4OTMxfQ.LfkYnOgKegiEIDi80ObM7NzWQW_gntIYlHbrhc4snHM",
+    "genre": "Music",
+    "city": "Tamale",
+    "country": "Ghana",
+    "lat": 9.4051992,
+    "lng": -0.8423986
+  },
+  {
+    "id": "ghana-info-radio-911-fm",
+    "name": "Info Radio 91.1 FM",
+    "url": "https://stream-176.zeno.fm/ey34mac27vzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJleTM0bWFjMjd2enV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiT3pRbGFqb3lTbkNhV3R4WkVEekRydyIsImlhdCI6MTc2OTQxODg3MiwiZXhwIjoxNzY5NDE4OTMyfQ.ovRQ_qzchGJ_dvPzGrup7mwGttHoAYIjOWF0ZKzzl2M",
+    "genre": "Music",
+    "city": "Tamale",
+    "country": "Ghana",
+    "lat": 9.4051992,
+    "lng": -0.8423986
+  },
+  {
+    "id": "ghana-radio-tamale-917",
+    "name": "Radio Tamale 91.7",
+    "url": "https://stream-153.zeno.fm/byefbt3crrhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJieWVmYnQzY3JyaHZ2IiwiaG9zdCI6InN0cmVhbS0xNTMuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoidkNvUTJ6VGNTV0tHVi1HU3NHMzdCZyIsImlhdCI6MTc2OTQxODg3MSwiZXhwIjoxNzY5NDE4OTMxfQ.bNHbRlAKJp0esGBh7SoXxuXMpFPLXoHq0HoKLJlvY4U",
+    "genre": "Music",
+    "city": "Tamale",
+    "country": "Ghana",
+    "lat": 9.4051992,
+    "lng": -0.8423986
+  },
+  {
+    "id": "ghana-radio-immaculee-conception-fm",
+    "name": "Radio Immaculée Conception FM",
+    "url": "http://de1.streamingpulse.com:9079/stream.mp3",
+    "genre": "Music",
+    "city": "Aflao",
+    "country": "Ghana",
+    "lat": 6.1160471,
+    "lng": 1.1914021
+  },
+  {
+    "id": "ghana-wiz-radio-gh",
+    "name": "Wiz Radio GH",
+    "url": "https://stream-178.zeno.fm/udqatyf31mzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1ZHFhdHlmMzFtenV2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoianNqdHMybjFROHFaR2o5bW5IYmNTdyIsImlhdCI6MTc2OTQxODg3MSwiZXhwIjoxNzY5NDE4OTMxfQ.NjFn390a-3HL4cIW35-kOZrrU074fRsQKyl_LNZabiA",
+    "genre": "Music",
+    "city": "Tamale",
+    "country": "Ghana",
+    "lat": 9.4051992,
+    "lng": -0.8423986
+  },
+  {
+    "id": "ghana-no1-fm-1053",
+    "name": "No.1 FM 105.3",
+    "url": "https://number1fm-atunwadigital.streamguys1.com/number1fm",
+    "genre": "Music",
+    "city": "Tema",
+    "country": "Ghana",
+    "lat": 5.6596409,
+    "lng": -0.0096771
+  },
+  {
+    "id": "ghana-kapital-radio-fm-971",
+    "name": "Kapital Radio FM 97.1",
+    "url": "https://shoutcast.k-planet.eu:10992/index.html?sid=1",
+    "genre": "Music",
+    "city": "Obuasi",
+    "country": "Ghana",
+    "lat": 6.211542,
+    "lng": -1.6894045
+  },
+  {
+    "id": "ghana-ortb-radio-nationale",
+    "name": "ORTB Radio Nationale",
+    "url": "https://listen.radioking.com/radio/47608/stream/84430",
+    "genre": "Music",
+    "city": "Aflao",
+    "country": "Ghana",
+    "lat": 6.1160471,
+    "lng": 1.1914021
+  },
+  {
+    "id": "ghana-bryt-fm-991",
+    "name": "Bryt FM 99.1",
+    "url": "https://stream-156.zeno.fm/kxw7vk7nq7zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJreHc3dms3bnE3enV2IiwiaG9zdCI6InN0cmVhbS0xNTYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiUHNVaFh5dXZTbEdfYUxmUkdYYUExZyIsImlhdCI6MTc2OTQxODg3MiwiZXhwIjoxNzY5NDE4OTMyfQ.EPFwML7BaTaSy0cYNZ6ky9SbFKHXijrstILVlWdvXSI",
+    "genre": "Music",
+    "city": "Tema",
+    "country": "Ghana",
+    "lat": 5.6596409,
+    "lng": -0.0096771
+  },
+  {
+    "id": "ghana-jet-radio-online",
+    "name": "Jet Radio Online",
+    "url": "https://stream-177.zeno.fm/9564yrw5v2quv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI5NTY0eXJ3NXYycXV2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiOENKZVp4cURTYS04Q0tLSjd3WEs0dyIsImlhdCI6MTc2OTQxODg3MywiZXhwIjoxNzY5NDE4OTMzfQ.fsfOOgNH7UOBx0p47KenmOjjtk617u9JugZKbirbQOo",
+    "genre": "Music",
+    "city": "Koforidua",
+    "country": "Ghana",
+    "lat": 6.100334,
+    "lng": -0.2614572
+  },
+  {
+    "id": "ghana-holy-fm-985",
+    "name": "Holy FM 98.5",
+    "url": "https://stream-154.zeno.fm/k3w7a462hxquv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJrM3c3YTQ2Mmh4cXV2IiwiaG9zdCI6InN0cmVhbS0xNTQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoielVJNmR0UmlSYzY4SlpyY3ZjODZxUSIsImlhdCI6MTc2OTQxODg3MywiZXhwIjoxNzY5NDE4OTMzfQ.D45ezl8hcx7eRmjlIjDBni9jQZ-iwXKMtqf1DauotSc",
+    "genre": "Music",
+    "city": "Aflao",
+    "country": "Ghana",
+    "lat": 6.1160471,
+    "lng": 1.1914021
+  },
+  {
+    "id": "ghana-flow-fm-ghana-899",
+    "name": "Flow FM Ghana 89.9",
+    "url": "https://stream-166.zeno.fm/brhzyfkcyh5tv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJicmh6eWZrY3loNXR2IiwiaG9zdCI6InN0cmVhbS0xNjYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiV1Ryc2NtdlRRc2V2Q2JKV0tQQjRzQSIsImlhdCI6MTc2OTQxODg3MywiZXhwIjoxNzY5NDE4OTMzfQ.g0qCIAeMrkkFQZdWTVI8g5O8d4kGMcpoTtMafyLtwUs",
+    "genre": "Music",
+    "city": "Aflao",
+    "country": "Ghana",
+    "lat": 6.1160471,
+    "lng": 1.1914021
+  },
+  {
+    "id": "ghana-radio-merveille",
+    "name": "Radio Merveille",
+    "url": "https://c3.radioboss.fm:18234/stream",
+    "genre": "Music",
+    "city": "Ho",
+    "country": "Ghana",
+    "lat": 6.6126598,
+    "lng": 0.4688932
+  },
+  {
+    "id": "ghana-y1079fm",
+    "name": "Y107.9FM",
+    "url": "https://atunwadigital.streamguys1.com/yfm1079accra",
+    "genre": "Music",
+    "city": "Asikuma-Odoben-Brakwa",
+    "country": "Ghana",
+    "lat": 5.5863942,
+    "lng": -0.993796
+  },
+  {
+    "id": "ghana-ahotor-fm-932",
+    "name": "Ahotor FM 93.2",
+    "url": "https://stream-158.zeno.fm/a20ku9pk21zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJhMjBrdTlwazIxenV2IiwiaG9zdCI6InN0cmVhbS0xNTguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiSG1RQXZvSFRTYnl6UTB0cTVhcVl1ZyIsImlhdCI6MTc2OTQxODg3NCwiZXhwIjoxNzY5NDE4OTM0fQ.uV_jfDI17RttjFjbbFAkA4J7aBLBadvq47JB_YOs9wQ",
+    "genre": "Music",
+    "city": "Aflao",
+    "country": "Ghana",
+    "lat": 6.1160471,
+    "lng": 1.1914021
+  },
+  {
+    "id": "ghana-radio-cotonou-943-fm",
+    "name": "Radio Cotonou 94.3 FM",
+    "url": "https://stream-151.zeno.fm/o9bspgm4y78vv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJvOWJzcGdtNHk3OHZ2IiwiaG9zdCI6InN0cmVhbS0xNTEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiYlJYMU9YMTRSVzJULU1MN2VrdTBTUSIsImlhdCI6MTc2OTQxODg3NCwiZXhwIjoxNzY5NDE4OTM0fQ.U4Aoh10G-BaVbGP49saYr71UDqPhpZcwoxDvuxd0vlU",
+    "genre": "Music",
+    "city": "Aflao",
+    "country": "Ghana",
+    "lat": 6.1160471,
+    "lng": 1.1914021
+  },
+  {
+    "id": "ghana-osagyefo-radio-931-fm",
+    "name": "Osagyefo Radio 93.1 FM",
+    "url": "https://stream-175.zeno.fm/hwezmqvf9e4uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJod2V6bXF2ZjllNHV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoibEd0b3drWW1ReDJSY0Z5RXhDbTFKQSIsImlhdCI6MTc2OTQxODg3NCwiZXhwIjoxNzY5NDE4OTM0fQ.-UHsVxBKMJWDmusI5SvDpnCn37leRUVMflRO4g6-LbU",
+    "genre": "Music",
+    "city": "Asikuma-Odoben-Brakwa",
+    "country": "Ghana",
+    "lat": 5.5863942,
+    "lng": -0.993796
+  },
+  {
+    "id": "ghana-mike-1053-fm",
+    "name": "Mike 105.3 FM",
+    "url": "https://mikefm.radioca.st/stream;mp3",
+    "genre": "Music",
+    "city": "Navrongo",
+    "country": "Ghana",
+    "lat": 10.8928117,
+    "lng": -1.0883729
+  },
+  {
+    "id": "ghana-radio-iqra-961-fm",
+    "name": "Radio Iqra 96.1 FM",
+    "url": "https://stream-179.zeno.fm/ghjewb6oraitv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJnaGpld2I2b3JhaXR2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoicUpyLXk2ZjNRS09vejhNOXpfSE11ZyIsImlhdCI6MTc2OTQxODg3NSwiZXhwIjoxNzY5NDE4OTM1fQ.aieWktR_OnGuIcPi7EsKfVcMds99ivWXv3fFbRTKKuY",
+    "genre": "Music",
+    "city": "Wa",
+    "country": "Ghana",
+    "lat": 10.0623261,
+    "lng": -2.5054273
+  },
+  {
+    "id": "ghana-palabre-fm-922",
+    "name": "Palabre FM 92.2",
+    "url": "https://stream-178.zeno.fm/581q2b6cay8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI1ODFxMmI2Y2F5OHV2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiT1Y1LTJpdFhUeHFuaHRhNjNHemJDUSIsImlhdCI6MTc2OTQxODg3NSwiZXhwIjoxNzY5NDE4OTM1fQ.WZzguu0ZPClevS7wo2YSfVdJCpq8K0_Di-IHWyTMooQ",
+    "genre": "Music",
+    "city": "Wa",
+    "country": "Ghana",
+    "lat": 10.0623261,
+    "lng": -2.5054273
+  },
+  {
+    "id": "ghana-christ-vine-radio",
+    "name": "Christ Vine Radio",
+    "url": "https://stream-178.zeno.fm/n3c83e5s8hhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJuM2M4M2U1czhoaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoielJFczZEWXZSVUtfdFBkQTd5ZmhQdyIsImlhdCI6MTc2OTQxODg3NSwiZXhwIjoxNzY5NDE4OTM1fQ.ce6e2UHd1JTMA4Fw9oiZAREaxRjuWs0VAZfRu-s4dMc",
+    "genre": "Music",
+    "city": "Suhum",
+    "country": "Ghana",
+    "lat": 6.035885,
+    "lng": -0.4552751
+  },
+  {
+    "id": "ghana-naagyei-fm-903",
+    "name": "Naagyei FM 90.3",
+    "url": "https://stream-178.zeno.fm/zytb665eukeuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ6eXRiNjY1ZXVrZXV2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiaXhIVkMyeXlSeXVVZ0dvYXcxOWRJQSIsImlhdCI6MTc2OTQxODg3NSwiZXhwIjoxNzY5NDE4OTM1fQ.SSJcYZB0BwT9kfNZIGWm4LSuDoVjw53f6eY5KofT-PI",
+    "genre": "Music",
+    "city": "Ejura",
+    "country": "Ghana",
+    "lat": 7.3846802,
+    "lng": -1.355945
+  },
+  {
+    "id": "ghana-ap-radio-1057",
+    "name": "AP Radio 105.7",
+    "url": "https://stream-164.zeno.fm/pazaaifkezmvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwYXphYWlma2V6bXZ2IiwiaG9zdCI6InN0cmVhbS0xNjQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiWmhnbkFGVGhSSi1UUkpEYjdUc2lxdyIsImlhdCI6MTc2OTQxODg3NSwiZXhwIjoxNzY5NDE4OTM1fQ.ca9ORS2kEH2eFlOtCHYNEqwDM3QB2ZCKyHxpFgmB8R4",
+    "genre": "Music",
+    "city": "Nkawkaw",
+    "country": "Ghana",
+    "lat": 6.552795,
+    "lng": -0.769811
+  },
+  {
+    "id": "ghana-revival-fm-993",
+    "name": "Revival FM 99.3",
+    "url": "https://stream-165.zeno.fm/efubwwgmx38uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJlZnVid3dnbXgzOHV2IiwiaG9zdCI6InN0cmVhbS0xNjUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiNkpodEl6UE5RcFNRQ29QV3o5cVlIZyIsImlhdCI6MTc2OTQxODg3NSwiZXhwIjoxNzY5NDE4OTM1fQ.NptVD-LM2lanuoftaDUO6DmbC-FkwqyEC2ULYq0i-l8",
+    "genre": "Music",
+    "city": "Tadzevu",
+    "country": "Ghana",
+    "lat": 6.1917471,
+    "lng": 0.8937021
+  },
+  {
+    "id": "ghana-ho-fm-925",
+    "name": "Ho FM 92.5",
+    "url": "https://stream-154.zeno.fm/6begbv0hberuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2YmVnYnYwaGJlcnV2IiwiaG9zdCI6InN0cmVhbS0xNTQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoia0dnUVZUOGVTdUdZR2d5NUhPVWROdyIsImlhdCI6MTc2OTQxODg3NiwiZXhwIjoxNzY5NDE4OTM2fQ.RicPccO7lyTbNEOjFWX2YZg5cYB2VNp5M3weFDEWnRU",
+    "genre": "Music",
+    "city": "Aflao",
+    "country": "Ghana",
+    "lat": 6.1160471,
+    "lng": 1.1914021
+  }
+]

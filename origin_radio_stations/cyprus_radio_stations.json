@@ -1,0 +1,352 @@
+[
+  {
+    "id": "cyprus-politeia-fm-1067",
+    "name": "Politeia FM 106.7",
+    "url": "http://23.29.119.99:8157/stream",
+    "genre": "Music",
+    "city": "Nicosia",
+    "country": "Cyprus",
+    "lat": 35.1746503,
+    "lng": 33.3638783
+  },
+  {
+    "id": "cyprus-radio-sfera-968",
+    "name": "Radio Sfera 96.8",
+    "url": "https://securestreams3.autopo.st:1417/sfera",
+    "genre": "Music",
+    "city": "Nicosia",
+    "country": "Cyprus",
+    "lat": 35.1746503,
+    "lng": 33.3638783
+  },
+  {
+    "id": "cyprus-ιερά-μητρόπολις-λεμεσού",
+    "name": "Ιερά Μητρόπολις Λεμεσού",
+    "url": "http://93.109.209.123:9080/stream.mp3",
+    "genre": "Music",
+    "city": "Limassol",
+    "country": "Cyprus",
+    "lat": 34.6852901,
+    "lng": 33.0332657
+  },
+  {
+    "id": "cyprus-kiss-fm-890",
+    "name": "Kiss FM 89.0",
+    "url": "https://securestreams3.autopo.st:1417/89FM",
+    "genre": "Music",
+    "city": "Nicosia",
+    "country": "Cyprus",
+    "lat": 35.1746503,
+    "lng": 33.3638783
+  },
+  {
+    "id": "cyprus-cool-radio-916-fm",
+    "name": "Cool Radio 91.6 FM",
+    "url": "https://live3.istoikona.net/proxy/cooleradio/stream",
+    "genre": "Music",
+    "city": "Nicosia",
+    "country": "Cyprus",
+    "lat": 35.1746503,
+    "lng": 33.3638783
+  },
+  {
+    "id": "cyprus-si̇m-radyo-986-fm",
+    "name": "Si̇m Radyo 98.6 FM",
+    "url": "https://play.simradyo.com/Sim",
+    "genre": "Music",
+    "city": "Nicosia",
+    "country": "Cyprus",
+    "lat": 35.1746503,
+    "lng": 33.3638783
+  },
+  {
+    "id": "cyprus-radio-sama",
+    "name": "Radio Sama",
+    "url": "https://radio.radiosama.org/sama_64",
+    "genre": "Music",
+    "city": "Nicosia",
+    "country": "Cyprus",
+    "lat": 35.1746503,
+    "lng": 33.3638783
+  },
+  {
+    "id": "cyprus-radio-joie",
+    "name": "Radio Joie",
+    "url": "https://charbyone.radioca.st/index.html?sid=1",
+    "genre": "Music",
+    "city": "Nicosia",
+    "country": "Cyprus",
+    "lat": 35.1746503,
+    "lng": 33.3638783
+  },
+  {
+    "id": "cyprus-zenith-964-fm",
+    "name": "Zenith 96.4 FM",
+    "url": "https://live3.istoikona.net:9836/stream",
+    "genre": "Music",
+    "city": "Nicosia",
+    "country": "Cyprus",
+    "lat": 35.1746503,
+    "lng": 33.3638783
+  },
+  {
+    "id": "cyprus-ράδιο-παντοκράτωρ",
+    "name": "Ράδιο Παντοκράτωρ",
+    "url": "https://a11.asurahosting.com:7720/radio.mp3?refresh=1750236322516",
+    "genre": "Music",
+    "city": "Nicosia",
+    "country": "Cyprus",
+    "lat": 35.1746503,
+    "lng": 33.3638783
+  },
+  {
+    "id": "cyprus-rock-fm-cyprus",
+    "name": "Rock FM Cyprus",
+    "url": "https://live3.istoikona.net/proxy/rockfm/stream",
+    "genre": "Music",
+    "city": "Limassol",
+    "country": "Cyprus",
+    "lat": 34.6852901,
+    "lng": 33.0332657
+  },
+  {
+    "id": "cyprus-russian-wave-fm-1057",
+    "name": "Russian Wave FM 105.7",
+    "url": "https://stream.veblot.net/proxy/russianradio/stream/",
+    "genre": "Music",
+    "city": "Limassol",
+    "country": "Cyprus",
+    "lat": 34.6852901,
+    "lng": 33.0332657
+  },
+  {
+    "id": "cyprus-kanali-6-jazz-soul",
+    "name": "Kanali 6 Jazz & Soul",
+    "url": "http://n01.radiojar.com/gddd94mshkhvv?rj-ttl=5&rj-tok=AAABm_mR5_sAD585y0urpgK8zg",
+    "genre": "Music",
+    "city": "Limassol",
+    "country": "Cyprus",
+    "lat": 34.6852901,
+    "lng": 33.0332657
+  },
+  {
+    "id": "cyprus-feelgoodfm",
+    "name": "Feelgood.FM",
+    "url": "https://radio.feelgood.fm/aac",
+    "genre": "Music",
+    "city": "Limassol",
+    "country": "Cyprus",
+    "lat": 34.6852901,
+    "lng": 33.0332657
+  },
+  {
+    "id": "cyprus-ruskaye-radio-kypro-99-fm",
+    "name": "Ruskaye Radio Kypro 99 FM",
+    "url": "https://stream.veblot.net/proxy/russianradio/stream/",
+    "genre": "Music",
+    "city": "Limassol",
+    "country": "Cyprus",
+    "lat": 34.6852901,
+    "lng": 33.0332657
+  },
+  {
+    "id": "cyprus-viva-fm",
+    "name": "Viva FM",
+    "url": "https://stream1.themediasite.co.uk/8060/stream",
+    "genre": "Music",
+    "city": "Limassol",
+    "country": "Cyprus",
+    "lat": 34.6852901,
+    "lng": 33.0332657
+  },
+  {
+    "id": "cyprus-kanali-7-fm-984",
+    "name": "Kanali 7 FM 98.4",
+    "url": "http://live.kanali7.com:4012/;stream.mp3",
+    "genre": "Music",
+    "city": "Nicosia",
+    "country": "Cyprus",
+    "lat": 35.1746503,
+    "lng": 33.3638783
+  },
+  {
+    "id": "cyprus-enerji-931-fm",
+    "name": "Enerji 93.1 FM",
+    "url": "https://live.enerjiplay.com/stream/enerji",
+    "genre": "Music",
+    "city": "Paphos",
+    "country": "Cyprus",
+    "lat": 34.7743988,
+    "lng": 32.4231586
+  },
+  {
+    "id": "cyprus-lbi-radio-hits",
+    "name": "LBI Radio Hits",
+    "url": "https://lbihits-lbnet2.radioca.st/stream",
+    "genre": "Music",
+    "city": "Limassol",
+    "country": "Cyprus",
+    "lat": 34.6852901,
+    "lng": 33.0332657
+  },
+  {
+    "id": "cyprus-radio-cosmos-fm-952",
+    "name": "Radio Cosmos FM 95.2",
+    "url": "https://sonic.streamhost.gr/8018/stream",
+    "genre": "Music",
+    "city": "Paphos",
+    "country": "Cyprus",
+    "lat": 34.7743988,
+    "lng": 32.4231586
+  },
+  {
+    "id": "cyprus-libano-հայազգի-ձայն",
+    "name": "Libano Հայազգի ձայն",
+    "url": "https://c7.radioboss.fm:8299/stream",
+    "genre": "Music",
+    "city": "Paralimni",
+    "country": "Cyprus",
+    "lat": 35.0391526,
+    "lng": 33.9828013
+  },
+  {
+    "id": "cyprus-radyo-juke-fm-909",
+    "name": "Radyo Juke FM 90.9",
+    "url": "https://stream.netradyom.com/listen/radyojuke/radio.mp3",
+    "genre": "Music",
+    "city": "Akrotiri",
+    "country": "Cyprus",
+    "lat": 34.6008434,
+    "lng": 32.9561709
+  },
+  {
+    "id": "cyprus-bayrak-international",
+    "name": "Bayrak International",
+    "url": "http://sc.brtk.net:8004/;*.mp3",
+    "genre": "Music",
+    "city": "Nicosia",
+    "country": "Cyprus",
+    "lat": 35.1746503,
+    "lng": 33.3638783
+  },
+  {
+    "id": "cyprus-olay-fm-935",
+    "name": "Olay FM 93.5",
+    "url": "https://netyayin.jsproduksiyon.com:9010/olayfm",
+    "genre": "Music",
+    "city": "Paphos",
+    "country": "Cyprus",
+    "lat": 34.7743988,
+    "lng": 32.4231586
+  },
+  {
+    "id": "cyprus-radyo-vatan-nihavent-1004",
+    "name": "Radyo Vatan Nihavent 100.4",
+    "url": "http://95.0.173.195:9001/nihavent",
+    "genre": "Music",
+    "city": "Nicosia",
+    "country": "Cyprus",
+    "lat": 35.1746503,
+    "lng": 33.3638783
+  },
+  {
+    "id": "cyprus-ruwave-94fm-alanya",
+    "name": "Ruwave 94FM Alanya",
+    "url": "https://listen4.myradio24.com/ruwave",
+    "genre": "Music",
+    "city": "Paphos",
+    "country": "Cyprus",
+    "lat": 34.7743988,
+    "lng": 32.4231586
+  },
+  {
+    "id": "cyprus-capital-radio-938-cyprus",
+    "name": "Capital Radio 93.8 Cyprus",
+    "url": "https://radyo1.radyo-dinle.tc/8256/stream",
+    "genre": "Music",
+    "city": "Nicosia",
+    "country": "Cyprus",
+    "lat": 35.1746503,
+    "lng": 33.3638783
+  },
+  {
+    "id": "cyprus-njoy",
+    "name": "Njoy",
+    "url": "http://n09.radiojar.com/mg7kftnzka3vv?rj-ttl=5&rj-tok=AAABm_mR9UYAPzwtJzSibKGlcA",
+    "genre": "Music",
+    "city": "Nicosia",
+    "country": "Cyprus",
+    "lat": 35.1746503,
+    "lng": 33.3638783
+  },
+  {
+    "id": "cyprus-active-1074",
+    "name": "Active 107.4",
+    "url": "http://phileradio.com:8193/active",
+    "genre": "Music",
+    "city": "Nicosia",
+    "country": "Cyprus",
+    "lat": 35.1746503,
+    "lng": 33.3638783
+  },
+  {
+    "id": "cyprus-old-town-radio",
+    "name": "Old Town Radio",
+    "url": "http://n06.radiojar.com/3emwf2xgam8uv?rj-ttl=5&rj-tok=AAABm_mR9iIAq8_luWqOgniEww",
+    "genre": "Music",
+    "city": "Nicosia",
+    "country": "Cyprus",
+    "lat": 35.1746503,
+    "lng": 33.3638783
+  },
+  {
+    "id": "cyprus-voice-of-hope-radio",
+    "name": "Voice of Hope Radio",
+    "url": "https://voh.radio.anharnet.org/voh_128",
+    "genre": "Music",
+    "city": "Nicosia",
+    "country": "Cyprus",
+    "lat": 35.1746503,
+    "lng": 33.3638783
+  },
+  {
+    "id": "cyprus-bfbs-cyprus",
+    "name": "BFBS Cyprus",
+    "url": "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs8.mp3?platform=radiogarden",
+    "genre": "Music",
+    "city": "Akrotiri",
+    "country": "Cyprus",
+    "lat": 34.6008434,
+    "lng": 32.9561709
+  },
+  {
+    "id": "cyprus-capital-turk-1071-fm",
+    "name": "Capital Turk 107.1 FM",
+    "url": "https://radyo1.radyo-dinle.tc/8210/stream",
+    "genre": "Music",
+    "city": "Nicosia",
+    "country": "Cyprus",
+    "lat": 35.1746503,
+    "lng": 33.3638783
+  },
+  {
+    "id": "cyprus-astra-fm-928",
+    "name": "Astra FM 92.8",
+    "url": "https://securestreams2.autopo.st:1106/stream",
+    "genre": "Music",
+    "city": "Nicosia",
+    "country": "Cyprus",
+    "lat": 35.1746503,
+    "lng": 33.3638783
+  },
+  {
+    "id": "cyprus-ucy-voice-952",
+    "name": "UCY Voice 95.2",
+    "url": "https://n0a.radiojar.com/sz94h2ykwhcwv?rj-ttl=5&rj-tok=AAABm_mR-WEATaA8fOT27tMpgQ",
+    "genre": "Music",
+    "city": "Nicosia",
+    "country": "Cyprus",
+    "lat": 35.1746503,
+    "lng": 33.3638783
+  }
+]

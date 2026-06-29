@@ -1,0 +1,302 @@
+[
+  {
+    "id": "libya-do-fm-radio-tripoli",
+    "name": "DO FM Radio Tripoli",
+    "url": "http://135.181.36.154:8004/live",
+    "genre": "Music",
+    "city": "Tripoli",
+    "country": "Libya",
+    "lat": 32.896672,
+    "lng": 13.1777923
+  },
+  {
+    "id": "libya-do-fm-1007-راديو-دو-إف-إم",
+    "name": "Do FM 100.7 راديو دو إف إم",
+    "url": "http://135.181.36.154:8000/live",
+    "genre": "Music",
+    "city": "Benghazi",
+    "country": "Libya",
+    "lat": 32.1200168,
+    "lng": 20.0812174
+  },
+  {
+    "id": "libya-salaf-way-1003-fm",
+    "name": "Salaf Way 100.3 FM",
+    "url": "http://160.19.99.214:8000/fm",
+    "genre": "Music",
+    "city": "Tripoli",
+    "country": "Libya",
+    "lat": 32.896672,
+    "lng": 13.1777923
+  },
+  {
+    "id": "libya-jm-online-radio",
+    "name": "J&M Online Radio",
+    "url": "http://65.109.81.143:8000/OnlineRadio",
+    "genre": "Music",
+    "city": "Tripoli",
+    "country": "Libya",
+    "lat": 32.896672,
+    "lng": 13.1777923
+  },
+  {
+    "id": "libya-imagine-fm",
+    "name": "Imagine FM",
+    "url": "http://stream.serverlibya.com:8888/stream",
+    "genre": "Music",
+    "city": "Benghazi",
+    "country": "Libya",
+    "lat": 32.1200168,
+    "lng": 20.0812174
+  },
+  {
+    "id": "libya-radju-marija-1023-fm",
+    "name": "Radju Marija 102.3 FM",
+    "url": "https://dreamsiteradiocp2.com/proxy/rmmalta2?mp=/stream",
+    "genre": "Music",
+    "city": "Tripoli",
+    "country": "Libya",
+    "lat": 32.896672,
+    "lng": 13.1777923
+  },
+  {
+    "id": "libya-dar-al-ifta-909-fm",
+    "name": "Dar al Ifta 90.9 FM",
+    "url": "https://cast1.my-control-panel.com/proxy/iftaly/stream",
+    "genre": "Music",
+    "city": "Tripoli",
+    "country": "Libya",
+    "lat": 32.896672,
+    "lng": 13.1777923
+  },
+  {
+    "id": "libya-radio-saraya-993-fm",
+    "name": "Radio Saraya 99.3 FM",
+    "url": "https://cast6.asurahosting.com/proxy/khaialfo/stream",
+    "genre": "Music",
+    "city": "Tripoli",
+    "country": "Libya",
+    "lat": 32.896672,
+    "lng": 13.1777923
+  },
+  {
+    "id": "libya-radio-al-ummah-939-fm",
+    "name": "Radio Al-Ummah 93.9 FM",
+    "url": "https://gaber.radioca.st/stream",
+    "genre": "Music",
+    "city": "Tripoli",
+    "country": "Libya",
+    "lat": 32.896672,
+    "lng": 13.1777923
+  },
+  {
+    "id": "libya-lehen-il-belt-giorgiana",
+    "name": "Lehen il-Belt Giorgiana",
+    "url": "https://s37.myradiostream.com/:9088/listen.mp3/",
+    "genre": "Music",
+    "city": "Tripoli",
+    "country": "Libya",
+    "lat": 32.896672,
+    "lng": 13.1777923
+  },
+  {
+    "id": "libya-radio-tataouine",
+    "name": "Radio Tataouine",
+    "url": "https://radio.radiotunisienne.tn/tataouine",
+    "genre": "Music",
+    "city": "Tripoli",
+    "country": "Libya",
+    "lat": 32.896672,
+    "lng": 13.1777923
+  },
+  {
+    "id": "libya-myra-radio",
+    "name": "Myra Radio",
+    "url": "https://listen.radioking.com/radio/562478/stream/624068",
+    "genre": "Music",
+    "city": "Tripoli",
+    "country": "Libya",
+    "lat": 32.896672,
+    "lng": 13.1777923
+  },
+  {
+    "id": "libya-ulysse-fm-1043",
+    "name": "Ulysse FM 104.3",
+    "url": "http://51.178.31.38:8000/stream",
+    "genre": "Music",
+    "city": "Sabhā",
+    "country": "Libya",
+    "lat": 27.0364864,
+    "lng": 14.4290398
+  },
+  {
+    "id": "libya-adelin-fm-1073",
+    "name": "Adelin FM 107.3",
+    "url": "https://cast.magicstreams.gr/sc/radioadelin/stream",
+    "genre": "Music",
+    "city": "Benghazi",
+    "country": "Libya",
+    "lat": 32.1200168,
+    "lng": 20.0812174
+  },
+  {
+    "id": "libya-sahab-889-fm",
+    "name": "Sahab 88.9 FM",
+    "url": "https://stream-175.zeno.fm/szbokjt2r9ouv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzemJva2p0MnI5b3V2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiLWlDLXdfY1JUSEd0eW84U2NyVWtCdyIsImlhdCI6MTc2OTQyMDI0OSwiZXhwIjoxNzY5NDIwMzA5fQ.p-UkFm7tiXNdbijAql2JUJoNEUxPdlTT7mY7UzKMq4c",
+    "genre": "Music",
+    "city": "Tripoli",
+    "country": "Libya",
+    "lat": 32.896672,
+    "lng": 13.1777923
+  },
+  {
+    "id": "libya-radio-nour-aleman-1057-fm-إذاعة-نور-الإيمان-المسموعة",
+    "name": "Radio Nour Aleman 105.7 FM إذاعة نور الإيمان المسموعة",
+    "url": "https://stream-154.zeno.fm/r6eprdta6nhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJyNmVwcmR0YTZuaHZ2IiwiaG9zdCI6InN0cmVhbS0xNTQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiWERBUlhCVTdSdXlpWDQxVFhJcXRQUSIsImlhdCI6MTc2OTQyMDI0OSwiZXhwIjoxNzY5NDIwMzA5fQ.aq3KL0CBIC_Wf2XkXXijzJXd5Ar29KK2JOac4egepAQ",
+    "genre": "Music",
+    "city": "Tripoli",
+    "country": "Libya",
+    "lat": 32.896672,
+    "lng": 13.1777923
+  },
+  {
+    "id": "libya-hala-sabratha-fm-890",
+    "name": "Hala Sabratha FM 89.0",
+    "url": "https://stream-153.zeno.fm/1dy2395z3k8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIxZHkyMzk1ejNrOHV2IiwiaG9zdCI6InN0cmVhbS0xNTMuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiR1IyVUFzSkNUWGlDZVlMUEtibXVGdyIsImlhdCI6MTc2OTQyMDI0OSwiZXhwIjoxNzY5NDIwMzA5fQ.nuNKjvec7BEJv88BNNHo0RsdFyReyv6d5S5j3HlwEQA",
+    "genre": "Music",
+    "city": "Tripoli",
+    "country": "Libya",
+    "lat": 32.896672,
+    "lng": 13.1777923
+  },
+  {
+    "id": "libya-zuwara-quran-1037-fm",
+    "name": "Zuwara Quran 103.7 FM",
+    "url": "https://stream-154.zeno.fm/fqzfedwpsg0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJmcXpmZWR3cHNnMHV2IiwiaG9zdCI6InN0cmVhbS0xNTQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiZUhvWXdhanZTRS0wN09BQnJHeEtrQSIsImlhdCI6MTc2OTQyMDI0OSwiZXhwIjoxNzY5NDIwMzA5fQ.SWebRezws41d_OQJdlcz3ihWrRB1IeISv2JzLHFM3EQ",
+    "genre": "Music",
+    "city": "Tripoli",
+    "country": "Libya",
+    "lat": 32.896672,
+    "lng": 13.1777923
+  },
+  {
+    "id": "libya-libyana-hits-1001-fm",
+    "name": "Libyana Hits 100.1 FM",
+    "url": "https://free.rcast.net/64694",
+    "genre": "Music",
+    "city": "Benghazi",
+    "country": "Libya",
+    "lat": 32.1200168,
+    "lng": 20.0812174
+  },
+  {
+    "id": "libya-kpax-κοινωνικό-ραδιόφωνο-χανίων",
+    "name": "KPaX Κοινωνικό Ραδιόφωνο Χανίων",
+    "url": "https://c32.radioboss.fm:8563/stream",
+    "genre": "Music",
+    "city": "Benghazi",
+    "country": "Libya",
+    "lat": 32.1200168,
+    "lng": 20.0812174
+  },
+  {
+    "id": "libya-the-salaf-way-fm-1003-إذاعة-طريق-السلف",
+    "name": "The Salaf Way FM 100.3 إذاعة طريق السلف",
+    "url": "https://airtime.salafwayfm.ly/",
+    "genre": "Music",
+    "city": "Tripoli",
+    "country": "Libya",
+    "lat": 32.896672,
+    "lng": 13.1777923
+  },
+  {
+    "id": "libya-radio-sfakia-fm-968",
+    "name": "Radio Sfakia FM 96.8",
+    "url": "https://ams-pioneer02.dedicateware.com:1215/stream",
+    "genre": "Music",
+    "city": "Benghazi",
+    "country": "Libya",
+    "lat": 32.1200168,
+    "lng": 20.0812174
+  },
+  {
+    "id": "libya-mfm-1055",
+    "name": "MFM 105.5",
+    "url": "https://mfmtunisie.toutech.net/mfmlive",
+    "genre": "Music",
+    "city": "Sabratah",
+    "country": "Libya",
+    "lat": 32.7543548,
+    "lng": 12.5733059
+  },
+  {
+    "id": "libya-ajwa-fm-885-راديو-اجواء",
+    "name": "Ajwa FM 88.5 راديو اجواء",
+    "url": "https://stream-179.zeno.fm/57nha7lsipstv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI1N25oYTdsc2lwc3R2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiNG9OT3huRmxURm1OQWJGUzhZdFEtUSIsImlhdCI6MTc2OTQyMDI1MiwiZXhwIjoxNzY5NDIwMzEyfQ.ejPAZTkZWLsfcCefUm3fGjwwhbaHyD3sPUTR7260pBo",
+    "genre": "Music",
+    "city": "Zliten",
+    "country": "Libya",
+    "lat": 32.467562,
+    "lng": 14.56564
+  },
+  {
+    "id": "libya-tanasuh-1021-fm",
+    "name": "Tanasuh 102.1 FM",
+    "url": "https://m3u.tanasuh.tv/radio",
+    "genre": "Music",
+    "city": "Tajoura",
+    "country": "Libya",
+    "lat": 32.8834447,
+    "lng": 13.3525476
+  },
+  {
+    "id": "libya-rtk103",
+    "name": "RTK103",
+    "url": "https://s2.radio.co/s955b1ced9/listen",
+    "genre": "Music",
+    "city": "Zliten",
+    "country": "Libya",
+    "lat": 32.467562,
+    "lng": 14.56564
+  },
+  {
+    "id": "libya-calypso-radio-fm-1018",
+    "name": "Calypso Radio FM 101.8",
+    "url": "https://s4.radio.co/sf3aa4c25a/listen",
+    "genre": "Music",
+    "city": "Zliten",
+    "country": "Libya",
+    "lat": 32.467562,
+    "lng": 14.56564
+  },
+  {
+    "id": "libya-ambiance-fm-1068",
+    "name": "Ambiance FM 106.8",
+    "url": "https://stream-157.zeno.fm/0rehsamc9xxtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwcmVoc2FtYzl4eHR2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoieHRCc0pfZnZRUjZWenB5WWhyV0tzdyIsImlhdCI6MTc2OTQyMDI1MywiZXhwIjoxNzY5NDIwMzEzfQ.yuORGPE7wNQcYX5yaFVw13oadhnzxBqyai0eNMp-0x0",
+    "genre": "Music",
+    "city": "Sabratah",
+    "country": "Libya",
+    "lat": 32.7543548,
+    "lng": 12.5733059
+  },
+  {
+    "id": "libya-radio-illizi",
+    "name": "Radio Illizi",
+    "url": "https://radioillizi.ice.infomaniak.ch/illizi.mp3",
+    "genre": "Music",
+    "city": "Sabhā",
+    "country": "Libya",
+    "lat": 27.0364864,
+    "lng": 14.4290398
+  },
+  {
+    "id": "libya-almunir-949-fm",
+    "name": "Almunir 94.9 FM",
+    "url": "https://live.dofm.ly/proxy/almunir/stream",
+    "genre": "Music",
+    "city": "Benghazi",
+    "country": "Libya",
+    "lat": 32.1200168,
+    "lng": 20.0812174
+  }
+]

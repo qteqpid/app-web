@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Isango Star FM 91.5",
+        "city": "Kigali",
+        "country": "Rwanda",
+        "url": "http://80.241.215.175:8000/;stream.mp3"
+    },
+    {
+        "name": "Radio Maria FM 97.3",
+        "city": "Kigali",
+        "country": "Rwanda",
+        "url": "http://dreamsiteradiocp2.com:8098/index.html?sid=1"
+    },
+    {
+        "name": "Hope Radio",
+        "city": "Kigali",
+        "country": "Rwanda",
+        "url": "https://edge.iono.fm/xice/318_medium.aac"
+    },
+    {
+        "name": "Royal FM 94.3",
+        "city": "Kigali",
+        "country": "Rwanda",
+        "url": "https://stream3.rcast.net/73260"
+    },
+    {
+        "name": "Radio Kwizera FM 97.9",
+        "city": "Kigali",
+        "country": "Rwanda",
+        "url": "https://uk4-vn.mixstream.net/:8052/;listen.mp3"
+    },
+    {
+        "name": "Radio Ankole 99.3 FM",
+        "city": "Gicumbi",
+        "country": "Rwanda",
+        "url": "https://stream-179.zeno.fm/tx3pbguupg8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0eDNwYmd1dXBnOHV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoianNkY1F2c3lTWGV1Um9qVmh6bll1ZyIsImlhdCI6MTc2OTQyMjMyMSwiZXhwIjoxNzY5NDIyMzgxfQ.t42rh4BBVvo_7Sirv5UY5aGNrDTjxQYXU5UdiS_CAFI"
+    },
+    {
+        "name": "Banyakigezi FM",
+        "city": "Kigali",
+        "country": "Rwanda",
+        "url": "https://stream-179.zeno.fm/2yabwhybs7zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIyeWFid2h5YnM3enV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiY1ZSTkpRNElUZXlwQ0xCNGJuWlB1USIsImlhdCI6MTc2OTQyMjMyMSwiZXhwIjoxNzY5NDIyMzgxfQ.4VsxY_FBqvCGCrJNHwANSiK76a3i2Nzf4icsGHOLTAc"
+    },
+    {
+        "name": "Radio IZUBA",
+        "city": "Ngoma",
+        "country": "Rwanda",
+        "url": "https://stream-165.zeno.fm/vbn7vhzh2v8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2Ym43dmh6aDJ2OHV2IiwiaG9zdCI6InN0cmVhbS0xNjUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiZDNkdC0wTnFRY0swaGJxZDRIZ0RJQSIsImlhdCI6MTc2OTQyMjMyMSwiZXhwIjoxNzY5NDIyMzgxfQ.ng5q2qC_1HK9-H7MoQayeIT-zn5XeoD53wVjnz19nLo"
+    },
+    {
+        "name": "SDA Radio station",
+        "city": "Gicumbi",
+        "country": "Rwanda",
+        "url": "https://stream-177.zeno.fm/cu7nmvnp4ehvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjdTdubXZucDRlaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiZjB0UEQ3RUZTUWVHWkpYVXJHS2J2ZyIsImlhdCI6MTc2OTQyMjMyMSwiZXhwIjoxNzY5NDIyMzgxfQ.aIYjZOmkNlU0la_zea-QWHBHhyV2OUyez8Obl82iRvI"
+    },
+    {
+        "name": "KT Radio FM 96.7",
+        "city": "Kigali",
+        "country": "Rwanda",
+        "url": "https://stream-152.zeno.fm/q84wt2xdf18uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxODR3dDJ4ZGYxOHV2IiwiaG9zdCI6InN0cmVhbS0xNTIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiUTEyaHFiN2tRdUdzaVhfc1ZaYTl5dyIsImlhdCI6MTc2OTQyMjMyMSwiZXhwIjoxNzY5NDIyMzgxfQ.wltuBYaw2fqAQzPpL-cslHgPXDGwzsrAhd20wupUOg0"
+    },
+    {
+        "name": "Radio Maendeleo 88.8 FM",
+        "city": "Karongi",
+        "country": "Rwanda",
+        "url": "https://cast.az-streamingserver.com/proxy/sazobvdl/stream"
+    },
+    {
+        "name": "Radio Rwanda 100.7",
+        "city": "Kigali",
+        "country": "Rwanda",
+        "url": "https://listen.rba.co.rw:8008/rwanda/"
+    },
+    {
+        "name": "Radio 10 FM 87.6",
+        "city": "Kigali",
+        "country": "Rwanda",
+        "url": "https://radio10rwanda-atunwadigital.streamguys1.com/Radio10Rwanda"
+    },
+    {
+        "name": "Kiss FM 102.3",
+        "city": "Kigali",
+        "country": "Rwanda",
+        "url": "https://kissfm-atunwadigital.streamguys1.com/kissfm"
+    },
+    {
+        "name": "Voice of Muhabura FM 88.9",
+        "city": "Gicumbi",
+        "country": "Rwanda",
+        "url": "https://s28.myradiostream.com:27018/listen.mp3?nocache=1769422322"
+    },
+    {
+        "name": "Radio Tayna RTCT",
+        "city": "Karongi",
+        "country": "Rwanda",
+        "url": "https://stream-176.zeno.fm/ide8zzvajbcvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJpZGU4enp2YWpiY3Z2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiNVA3bkE1YTZUaHVodFR3WlZDdU9ZdyIsImlhdCI6MTc2OTQyMjMyMywiZXhwIjoxNzY5NDIyMzgzfQ.cGPAmiTlYmV721YtbN9XAzfgxvrHY91DU9wgKPeNukI"
+    },
+    {
+        "name": "Radio Isangano 104.9 FM",
+        "city": "Karongi",
+        "country": "Rwanda",
+        "url": "https://stream-162.zeno.fm/iwfiuyt8ia2vv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJpd2ZpdXl0OGlhMnZ2IiwiaG9zdCI6InN0cmVhbS0xNjIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiaUdXWGRpRHpTRXlIbGxXVXV2T2RrZyIsImlhdCI6MTc2OTQyMjMyMywiZXhwIjoxNzY5NDIyMzgzfQ.lufB8dv4uTxfEofA6v6z18f9UtTtknjyz1DAL31Pas8"
+    },
+    {
+        "name": "Radio Voix d'Espoir FM 94.3",
+        "city": "RBA Radio Rusizi FM 89.8",
+        "country": "Rusizi, Rwanda",
+        "url": "https://stream4.rcast.net/65372"
+    },
+    {
+        "name": "Goma Webradio",
+        "city": "RBA Radio Rusizi FM 89.8",
+        "country": "Rusizi, Rwanda",
+        "url": "https://stream-176.zeno.fm/4d61wprrp7zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0ZDYxd3BycnA3enV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiQWhKd0pHcU9RaVNyOTl4S0xDendTdyIsImlhdCI6MTc2OTQyMjMyNCwiZXhwIjoxNzY5NDIyMzg0fQ.H9h6iFcMuI8k_hLcWmd5BR_o6f5bA6ujRwoGhwRET24"
+    },
+    {
+        "name": "Street Deejays",
+        "city": "Nyagatare FM 95.5",
+        "country": "Nyagatare, Rwanda",
+        "url": "https://stream-153.zeno.fm/nbwdnxz7na0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJuYndkbnh6N25hMHV2IiwiaG9zdCI6InN0cmVhbS0xNTMuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiTzJEcUpXLVNSSmlNOEp1RWFnYVpRQSIsImlhdCI6MTc2OTQyMjMyNCwiZXhwIjoxNzY5NDIyMzg0fQ.fFG5wFMWgofYmlhDwVijQDR1Q77sEUJV0fkIqzbDIso"
+    },
+    {
+        "name": "CONAFOHD Radio",
+        "city": "RBA Radio Rusizi FM 89.8",
+        "country": "Rusizi, Rwanda",
+        "url": "https://listen.radioking.com/radio/719807/stream/785618"
+    }
+]

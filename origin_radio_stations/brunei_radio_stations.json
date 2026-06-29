@@ -1,0 +1,282 @@
+[
+  {
+    "id": "brunei-radio-2000",
+    "name": "Radio 2000",
+    "url": "http://159.69.217.78:8000/",
+    "genre": "Music",
+    "city": "Bruneck",
+    "country": "Italy",
+    "lat": 46.7963194,
+    "lng": 11.9355121
+  },
+  {
+    "id": "brunei-rri-pro-1-fm-963",
+    "name": "RRI Pro 1 FM 96.3",
+    "url": "https://stream-node2.rri.co.id/streaming/36/9336/rrinunukanpro1.mp3",
+    "genre": "Music",
+    "city": "Bandar Seri Begawan",
+    "country": "Brunei",
+    "lat": 4.8895453,
+    "lng": 114.9417574
+  },
+  {
+    "id": "brunei-localized-fm",
+    "name": "Localized FM",
+    "url": "https://radio.bykiwicorp.com/stream",
+    "genre": "Music",
+    "city": "Bandar Seri Begawan",
+    "country": "Brunei",
+    "lat": 4.8895453,
+    "lng": 114.9417574
+  },
+  {
+    "id": "brunei-radio-cortina",
+    "name": "Radio Cortina",
+    "url": "https://streaming1.radiodatanet.it:8050/stream/",
+    "genre": "Music",
+    "city": "Bruneck",
+    "country": "Italy",
+    "lat": 46.7963194,
+    "lng": 11.9355121
+  },
+  {
+    "id": "brunei-radio-primiero",
+    "name": "Radio Primiero",
+    "url": "https://nr14.newradio.it:8649/stream",
+    "genre": "Music",
+    "city": "Bruneck",
+    "country": "Italy",
+    "lat": 46.7963194,
+    "lng": 11.9355121
+  },
+  {
+    "id": "brunei-radio-holiday",
+    "name": "Radio Holiday",
+    "url": "https://stream.radioholiday.it/?.mp3",
+    "genre": "Music",
+    "city": "Bruneck",
+    "country": "Italy",
+    "lat": 46.7963194,
+    "lng": 11.9355121
+  },
+  {
+    "id": "brunei-labuan-fm",
+    "name": "Labuan FM",
+    "url": "https://28153.live.streamtheworld.com:443/LABUAN_FMAAC.aac",
+    "genre": "Music",
+    "city": "Bandar Seri Begawan",
+    "country": "Brunei",
+    "lat": 4.8895453,
+    "lng": 114.9417574
+  },
+  {
+    "id": "brunei-miri-fm",
+    "name": "Miri FM",
+    "url": "https://22253.live.streamtheworld.com:443/MIRI_FMAAC.aac",
+    "genre": "Music",
+    "city": "Bandar Seri Begawan",
+    "country": "Brunei",
+    "lat": 4.8895453,
+    "lng": 114.9417574
+  },
+  {
+    "id": "brunei-limbang-fm",
+    "name": "Limbang FM",
+    "url": "https://22273.live.streamtheworld.com:443/LIMBANGAAC.aac",
+    "genre": "Music",
+    "city": "Bandar Seri Begawan",
+    "country": "Brunei",
+    "lat": 4.8895453,
+    "lng": 114.9417574
+  },
+  {
+    "id": "brunei-al-quran-fm-891",
+    "name": "Al-Quran FM 89.1",
+    "url": "https://play.thestreamtech.com:7067/index.html",
+    "genre": "Music",
+    "city": "Bandar Seri Begawan",
+    "country": "Brunei",
+    "lat": 4.8895453,
+    "lng": 114.9417574
+  },
+  {
+    "id": "brunei-kristal-fm-907",
+    "name": "Kristal FM 90.7",
+    "url": "https://play.thestreamtech.com:7038/index.html",
+    "genre": "Music",
+    "city": "Bandar Seri Begawan",
+    "country": "Brunei",
+    "lat": 4.8895453,
+    "lng": 114.9417574
+  },
+  {
+    "id": "brunei-rri-pro1-tarakan-979-fm",
+    "name": "RRI Pro1 Tarakan 97.9 FM",
+    "url": "https://stream-node2.rri.co.id/streaming/23/9323/rritarakanpro1.mp3",
+    "genre": "Music",
+    "city": "Tutong",
+    "country": "Brunei",
+    "lat": 4.682681,
+    "lng": 114.6562706
+  },
+  {
+    "id": "brunei-rai-radio-2",
+    "name": "Rai Radio 2",
+    "url": "https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S35942484/yp5F67151K92/icecast",
+    "genre": "Music",
+    "city": "Bruneck",
+    "country": "Italy",
+    "lat": 46.7963194,
+    "lng": 11.9355121
+  },
+  {
+    "id": "brunei-radio-tandem-984-fm",
+    "name": "Radio Tandem 98.4 FM",
+    "url": "https://nrf1.newradio.it:9512/stream.mp3",
+    "genre": "Music",
+    "city": "Bruneck",
+    "country": "Italy",
+    "lat": 46.7963194,
+    "lng": 11.9355121
+  },
+  {
+    "id": "brunei-rete-uno-network",
+    "name": "Rete Uno Network",
+    "url": "http://dreamsiteradiocp3.com:8042/stream",
+    "genre": "Music",
+    "city": "Brindisi",
+    "country": "Italy",
+    "lat": 40.6358599,
+    "lng": 17.6884975
+  },
+  {
+    "id": "brunei-radio-frate-sole",
+    "name": "Radio Frate Sole",
+    "url": "http://94.23.66.155:9216/stream/",
+    "genre": "Music",
+    "city": "Brindisi",
+    "country": "Italy",
+    "lat": 40.6358599,
+    "lng": 17.6884975
+  },
+  {
+    "id": "brunei-rds-fm-1030",
+    "name": "RDS FM 103.0",
+    "url": "https://icstream.rds.radio/rds",
+    "genre": "Music",
+    "city": "Bruneck",
+    "country": "Italy",
+    "lat": 46.7963194,
+    "lng": 11.9355121
+  },
+  {
+    "id": "brunei-pelangi-914-fm",
+    "name": "Pelangi 91.4 FM",
+    "url": "https://edge-audio-01-cr.sharp-stream.com/ssvcbfbs10.aac",
+    "genre": "Music",
+    "city": "Bandar Seri Begawan",
+    "country": "Brunei",
+    "lat": 4.8895453,
+    "lng": 114.9417574
+  },
+  {
+    "id": "brunei-bfbs-brunei-1017-fm",
+    "name": "BFBS Brunei 101.7 FM",
+    "url": "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs10.mp3",
+    "genre": "Music",
+    "city": "Bandar Seri Begawan",
+    "country": "Brunei",
+    "lat": 4.8895453,
+    "lng": 114.9417574
+  },
+  {
+    "id": "brunei-idea-radio",
+    "name": "Idea Radio",
+    "url": "http://nr7.newradio.it:9361/stream",
+    "genre": "Music",
+    "city": "Brindisi",
+    "country": "Italy",
+    "lat": 40.6358599,
+    "lng": 17.6884975
+  },
+  {
+    "id": "brunei-kupikupi-fm-963",
+    "name": "Kupikupi FM 96.3",
+    "url": "https://n09.rcs.revma.com/axht8yawe1bwv?rj-ttl=5&rj-tok=AAABm_mEPyQA9IIRFzUUMNS1DQ",
+    "genre": "Music",
+    "city": "Bandar Seri Begawan",
+    "country": "Brunei",
+    "lat": 4.8895453,
+    "lng": 114.9417574
+  },
+  {
+    "id": "brunei-rai-radio-3",
+    "name": "Rai Radio 3",
+    "url": "https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S56630579/yEbkcBtIoSwd/icecast",
+    "genre": "Music",
+    "city": "Bruneck",
+    "country": "Italy",
+    "lat": 46.7963194,
+    "lng": 11.9355121
+  },
+  {
+    "id": "brunei-radio-u1-tirol",
+    "name": "Radio U1 Tirol",
+    "url": "https://u1-tirol.stream28.radiohost.de/u1-tirol-live_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzY5NDE3NDUzJmQ9ZDEyNTljMWRmZDVkZDU4NGFkZTQ",
+    "genre": "Music",
+    "city": "Bruneck",
+    "country": "Italy",
+    "lat": 46.7963194,
+    "lng": 11.9355121
+  },
+  {
+    "id": "brunei-rai-radio-1",
+    "name": "Rai Radio 1",
+    "url": "https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S16355530/Q4zh3NTu28Rx/icecast",
+    "genre": "Music",
+    "city": "Bruneck",
+    "country": "Italy",
+    "lat": 46.7963194,
+    "lng": 11.9355121
+  },
+  {
+    "id": "brunei-ciccio-riccio",
+    "name": "Ciccio Riccio",
+    "url": "https://stream5.xdevel.com/audio0s975942-758/stream/icecast.audio",
+    "genre": "Music",
+    "city": "Brindisi",
+    "country": "Italy",
+    "lat": 40.6358599,
+    "lng": 17.6884975
+  },
+  {
+    "id": "brunei-radio-enjoy-puglia",
+    "name": "Radio Enjoy Puglia",
+    "url": "https://s1.forstream.it:8030/enjoyHQ",
+    "genre": "Music",
+    "city": "Brindisi",
+    "country": "Italy",
+    "lat": 40.6358599,
+    "lng": 17.6884975
+  },
+  {
+    "id": "brunei-discobox-–-ciccio-riccio-2-964-fm",
+    "name": "Discobox – Ciccio Riccio 2 96.4 FM",
+    "url": "http://stream1.xdevel.com/audio1s975942-759/stream/icecast.audio",
+    "genre": "Music",
+    "city": "Brindisi",
+    "country": "Italy",
+    "lat": 40.6358599,
+    "lng": 17.6884975
+  },
+  {
+    "id": "brunei-radio-antenna-sud",
+    "name": "Radio Antenna Sud",
+    "url": "https://stream10.xdevel.com/audio0s977364-1903/stream/icecast.audio",
+    "genre": "Music",
+    "city": "Brindisi",
+    "country": "Italy",
+    "lat": 40.6358599,
+    "lng": 17.6884975
+  }
+]

@@ -1,0 +1,2502 @@
+[
+  {
+    "id": "united-surrey-hills-radio",
+    "name": "Surrey Hills Radio",
+    "url": "http://philae.shoutca.st:9035/stream",
+    "genre": "Music",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.5074456,
+    "lng": -0.1277653
+  },
+  {
+    "id": "united-lbc-london",
+    "name": "LBC London",
+    "url": "https://media-the.musicradio.com/LBCLondon",
+    "genre": "Music",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.5074456,
+    "lng": -0.1277653
+  },
+  {
+    "id": "united-heart-80s-radio",
+    "name": "Heart 80s Radio",
+    "url": "https://media-ssl.musicradio.com/Heart80s",
+    "genre": "Music",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.5074456,
+    "lng": -0.1277653
+  },
+  {
+    "id": "united-capital-xtra",
+    "name": "Capital Xtra",
+    "url": "https://media-ice.musicradio.com/CapitalXTRANationalMP3?.mp3",
+    "genre": "Music",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.5074456,
+    "lng": -0.1277653
+  },
+  {
+    "id": "united-classic-fm",
+    "name": "Classic FM",
+    "url": "https://media-ice.musicradio.com/ClassicFMMP3",
+    "genre": "Music",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.5074456,
+    "lng": -0.1277653
+  },
+  {
+    "id": "united-lbc-uk",
+    "name": "LBC UK",
+    "url": "https://media-ice.musicradio.com/LBCUKMP3Low",
+    "genre": "Music",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.5074456,
+    "lng": -0.1277653
+  },
+  {
+    "id": "united-dom-deliverance-radio",
+    "name": "DOM Deliverance Radio",
+    "url": "http://173.249.50.205:8000/index.html?sid=1",
+    "genre": "Music",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.5074456,
+    "lng": -0.1277653
+  },
+  {
+    "id": "united-forest-one",
+    "name": "Forest One",
+    "url": "https://c2.prostream365.com:8010/live",
+    "genre": "Music",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.5074456,
+    "lng": -0.1277653
+  },
+  {
+    "id": "united-loose-fm",
+    "name": "Loose FM",
+    "url": "https://loosefm.radiocult.fm/stream",
+    "genre": "Music",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.5074456,
+    "lng": -0.1277653
+  },
+  {
+    "id": "united-reinforced-radio",
+    "name": "Reinforced Radio",
+    "url": "https://broadcast.shoutstream.co.uk:8012/stream",
+    "genre": "Music",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.5074456,
+    "lng": -0.1277653
+  },
+  {
+    "id": "united-moon-phase-radio",
+    "name": "Moon Phase Radio",
+    "url": "https://cp12.serverse.com/proxy/moonphase/stream",
+    "genre": "Music",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.5074456,
+    "lng": -0.1277653
+  },
+  {
+    "id": "united-nts-labyrinth",
+    "name": "NTS Labyrinth",
+    "url": "https://stream-mixtape-geo.ntslive.net/mixtape31",
+    "genre": "Music",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.5074456,
+    "lng": -0.1277653
+  },
+  {
+    "id": "united-capital-fm-manchester",
+    "name": "Capital FM Manchester",
+    "url": "https://media-ice.musicradio.com/CapitalManchesterMP3?.mp3",
+    "genre": "Music",
+    "city": "Manchester",
+    "country": "United Kingdom",
+    "lat": 53.4794892,
+    "lng": -2.2451148
+  },
+  {
+    "id": "united-bbc-world-service",
+    "name": "BBC World Service",
+    "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
+    "genre": "Music",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.5074456,
+    "lng": -0.1277653
+  },
+  {
+    "id": "united-radio-tuganet-882-fm",
+    "name": "Radio TugaNet 88.2 FM",
+    "url": "https://ssl.stmxp.net:8006/index.html?sid=1",
+    "genre": "Music",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.5074456,
+    "lng": -0.1277653
+  },
+  {
+    "id": "united-radio-x-manchester",
+    "name": "Radio X Manchester",
+    "url": "https://media-ice.musicradio.com/RadioXManchesterMP3?.mp3",
+    "genre": "Music",
+    "city": "Manchester",
+    "country": "United Kingdom",
+    "lat": 53.4794892,
+    "lng": -2.2451148
+  },
+  {
+    "id": "united-heart-northwest",
+    "name": "Heart Northwest",
+    "url": "https://media-sov.musicradio.com/HeartNorthWalesMP3",
+    "genre": "Music",
+    "city": "Manchester",
+    "country": "United Kingdom",
+    "lat": 53.4794892,
+    "lng": -2.2451148
+  },
+  {
+    "id": "united-smooth-radio-north-west",
+    "name": "Smooth Radio North West",
+    "url": "https://media-sov.musicradio.com/SmoothNorthWestMP3",
+    "genre": "Music",
+    "city": "Manchester",
+    "country": "United Kingdom",
+    "lat": 53.4794892,
+    "lng": -2.2451148
+  },
+  {
+    "id": "united-golding-touch-radio",
+    "name": "Golding Touch Radio",
+    "url": "https://s7.citrus3.com:8028/stream",
+    "genre": "Music",
+    "city": "Manchester",
+    "country": "United Kingdom",
+    "lat": 53.4794892,
+    "lng": -2.2451148
+  },
+  {
+    "id": "united-kicks-fm",
+    "name": "Kicks FM",
+    "url": "https://s6.citrus3.com:8452/stream",
+    "genre": "Music",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.5074456,
+    "lng": -0.1277653
+  },
+  {
+    "id": "united-the-buzz-mcr",
+    "name": "The Buzz MCR",
+    "url": "https://streaming05.liveboxstream.uk/proxy/kookyinc/stream",
+    "genre": "Music",
+    "city": "Manchester",
+    "country": "United Kingdom",
+    "lat": 53.4794892,
+    "lng": -2.2451148
+  },
+  {
+    "id": "united-allfm969",
+    "name": "(allFM)96.9",
+    "url": "https://uksoutha.streaming.broadcast.radio:15870/allfm",
+    "genre": "Music",
+    "city": "Manchester",
+    "country": "United Kingdom",
+    "lat": 53.4794892,
+    "lng": -2.2451148
+  },
+  {
+    "id": "united-fcum-radio",
+    "name": "FCUM Radio",
+    "url": "https://s2.radio.co/s847c08ad4/listen",
+    "genre": "Music",
+    "city": "Manchester",
+    "country": "United Kingdom",
+    "lat": 53.4794892,
+    "lng": -2.2451148
+  },
+  {
+    "id": "united-bolton-hindu-forum-radio",
+    "name": "Bolton Hindu Forum Radio",
+    "url": "https://listen.radioking.com/radio/312242/stream/359399",
+    "genre": "Music",
+    "city": "Manchester",
+    "country": "United Kingdom",
+    "lat": 53.4794892,
+    "lng": -2.2451148
+  },
+  {
+    "id": "united-halelondon",
+    "name": "Hale.London",
+    "url": "https://streaming.radio.co/s25550b002/listen",
+    "genre": "Music",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.5074456,
+    "lng": -0.1277653
+  },
+  {
+    "id": "united-rvr-roch-valley-radio",
+    "name": "RVR Roch Valley Radio",
+    "url": "https://rochvalley.radioca.st/stream",
+    "genre": "Music",
+    "city": "Manchester",
+    "country": "United Kingdom",
+    "lat": 53.4794892,
+    "lng": -2.2451148
+  },
+  {
+    "id": "united-smooth-radio-1057",
+    "name": "Smooth Radio 105.7",
+    "url": "https://media-ice.musicradio.com/SmoothWestMidsMP3?.mp3",
+    "genre": "Music",
+    "city": "Birmingham",
+    "country": "United Kingdom",
+    "lat": 52.4796992,
+    "lng": -1.9026911
+  },
+  {
+    "id": "united-nifty-uk-radio",
+    "name": "Nifty UK Radio",
+    "url": "http://source.clrmedia.co.uk:8000/niftyuk",
+    "genre": "Music",
+    "city": "Manchester",
+    "country": "United Kingdom",
+    "lat": 53.4794892,
+    "lng": -2.2451148
+  },
+  {
+    "id": "united-country-line-radio",
+    "name": "Country Line Radio",
+    "url": "https://listen-chriscountry.sharp-stream.com/chriscountry.mp3",
+    "genre": "Music",
+    "city": "Manchester",
+    "country": "United Kingdom",
+    "lat": 53.4794892,
+    "lng": -2.2451148
+  },
+  {
+    "id": "united-gaydio-manchester",
+    "name": "Gaydio Manchester",
+    "url": "https://listen-gaydio.sharp-stream.com/gaydionw.mp3",
+    "genre": "Music",
+    "city": "Manchester",
+    "country": "United Kingdom",
+    "lat": 53.4794892,
+    "lng": -2.2451148
+  },
+  {
+    "id": "united-tameside-radio-fm-1036",
+    "name": "Tameside Radio FM 103.6",
+    "url": "https://listen-tamesideradio.sharp-stream.com/tamesideradio.mp3",
+    "genre": "Music",
+    "city": "Manchester",
+    "country": "United Kingdom",
+    "lat": 53.4794892,
+    "lng": -2.2451148
+  },
+  {
+    "id": "united-louder-than-war",
+    "name": "Louder Than War",
+    "url": "https://s2.radio.co/sab795a38d/listen",
+    "genre": "Music",
+    "city": "Manchester",
+    "country": "United Kingdom",
+    "lat": 53.4794892,
+    "lng": -2.2451148
+  },
+  {
+    "id": "united-necof-radio",
+    "name": "Necof Radio",
+    "url": "https://listen.radioking.com/radio/62557/stream/100084",
+    "genre": "Music",
+    "city": "Manchester",
+    "country": "United Kingdom",
+    "lat": 53.4794892,
+    "lng": -2.2451148
+  },
+  {
+    "id": "united-capital-fm-birmingham",
+    "name": "Capital FM Birmingham",
+    "url": "https://media-ice.musicradio.com/CapitalBirminghamMP3?.mp3",
+    "genre": "Music",
+    "city": "Birmingham",
+    "country": "United Kingdom",
+    "lat": 52.4796992,
+    "lng": -1.9026911
+  },
+  {
+    "id": "united-genesis-radio-birmingham",
+    "name": "Genesis Radio Birmingham",
+    "url": "https://cast5.my-control-panel.com/proxy/grb/stream",
+    "genre": "Music",
+    "city": "Birmingham",
+    "country": "United Kingdom",
+    "lat": 52.4796992,
+    "lng": -1.9026911
+  },
+  {
+    "id": "united-back2house-radio",
+    "name": "Back2house Radio",
+    "url": "https://back2house.radioca.st/index.html?sid=1",
+    "genre": "Music",
+    "city": "Birmingham",
+    "country": "United Kingdom",
+    "lat": 52.4796992,
+    "lng": -1.9026911
+  },
+  {
+    "id": "united-heart-1007-west-midlands",
+    "name": "Heart 100.7 West Midlands",
+    "url": "https://media-ice.musicradio.com/HeartWestMidsMP3?.mp3",
+    "genre": "Music",
+    "city": "Birmingham",
+    "country": "United Kingdom",
+    "lat": 52.4796992,
+    "lng": -1.9026911
+  },
+  {
+    "id": "united-radio-central-24",
+    "name": "Radio Central 24",
+    "url": "https://casper.radioca.st/index.html?sid=1",
+    "genre": "Music",
+    "city": "Birmingham",
+    "country": "United Kingdom",
+    "lat": 52.4796992,
+    "lng": -1.9026911
+  },
+  {
+    "id": "united-hypedem-internet-radio",
+    "name": "HypeDem Internet Radio",
+    "url": "https://mrwolfman2.radioca.st/stream",
+    "genre": "Music",
+    "city": "Birmingham",
+    "country": "United Kingdom",
+    "lat": 52.4796992,
+    "lng": -1.9026911
+  },
+  {
+    "id": "united-radio-alty",
+    "name": "Radio Alty",
+    "url": "https://streams.radio.co/s4d51ef3bf/listen",
+    "genre": "Music",
+    "city": "Manchester",
+    "country": "United Kingdom",
+    "lat": 53.4794892,
+    "lng": -2.2451148
+  },
+  {
+    "id": "united-midlandz-radio",
+    "name": "Midlandz-Radio",
+    "url": "http://173.208.146.230/8002/stream",
+    "genre": "Music",
+    "city": "Birmingham",
+    "country": "United Kingdom",
+    "lat": 52.4796992,
+    "lng": -1.9026911
+  },
+  {
+    "id": "united-brum-radio",
+    "name": "Brum Radio",
+    "url": "https://brum.out.airtime.pro/brum_a",
+    "genre": "Music",
+    "city": "Birmingham",
+    "country": "United Kingdom",
+    "lat": 52.4796992,
+    "lng": -1.9026911
+  },
+  {
+    "id": "united-cannock-chase-radio-fm-898",
+    "name": "Cannock Chase Radio FM 89.8",
+    "url": "https://ukwesta.streaming.broadcast.radio/cannockchase",
+    "genre": "Music",
+    "city": "Birmingham",
+    "country": "United Kingdom",
+    "lat": 52.4796992,
+    "lng": -1.9026911
+  },
+  {
+    "id": "united-capital-fm-glasgow",
+    "name": "Capital FM Glasgow",
+    "url": "https://media-ice.musicradio.com/CapitalGlasgowMP3?.mp3",
+    "genre": "Music",
+    "city": "Glasgow",
+    "country": "United Kingdom",
+    "lat": 55.861155,
+    "lng": -4.2501687
+  },
+  {
+    "id": "united-smooth-radio-glasgow-the-west",
+    "name": "Smooth Radio Glasgow & The West",
+    "url": "https://ice-the.musicradio.com/SmoothScotlandMP3",
+    "genre": "Music",
+    "city": "Glasgow",
+    "country": "United Kingdom",
+    "lat": 55.861155,
+    "lng": -4.2501687
+  },
+  {
+    "id": "united-radio-xl",
+    "name": "Radio XL",
+    "url": "https://xlradio.co.uk:8000/;&",
+    "genre": "Music",
+    "city": "Birmingham",
+    "country": "United Kingdom",
+    "lat": 52.4796992,
+    "lng": -1.9026911
+  },
+  {
+    "id": "united-box-uk-radio",
+    "name": "Box UK Radio",
+    "url": "https://boxstream.danceradiouk.com/stream",
+    "genre": "Music",
+    "city": "Birmingham",
+    "country": "United Kingdom",
+    "lat": 52.4796992,
+    "lng": -1.9026911
+  },
+  {
+    "id": "united-heart-scotland--east",
+    "name": "Heart Scotland - East",
+    "url": "https://media-sov.musicradio.com/HeartEdinburgh",
+    "genre": "Music",
+    "city": "Glasgow",
+    "country": "United Kingdom",
+    "lat": 55.861155,
+    "lng": -4.2501687
+  },
+  {
+    "id": "united-hbs-hospital-broadcasting-service",
+    "name": "HBS Hospital Broadcasting Service",
+    "url": "https://streaming05.liveboxstream.uk/proxy/dbannerm?mp=/stream",
+    "genre": "Music",
+    "city": "Glasgow",
+    "country": "United Kingdom",
+    "lat": 55.861155,
+    "lng": -4.2501687
+  },
+  {
+    "id": "united-assk-radio",
+    "name": "ASSK Radio",
+    "url": "https://leopard.streemlion.com:5041/stream",
+    "genre": "Music",
+    "city": "Glasgow",
+    "country": "United Kingdom",
+    "lat": 55.861155,
+    "lng": -4.2501687
+  },
+  {
+    "id": "united-east-end-community-radio",
+    "name": "East End Community Radio",
+    "url": "https://tobiasjugamis.radioca.st/stream",
+    "genre": "Music",
+    "city": "Glasgow",
+    "country": "United Kingdom",
+    "lat": 55.861155,
+    "lng": -4.2501687
+  },
+  {
+    "id": "united-indyliveradio",
+    "name": "IndyLive.Radio",
+    "url": "https://indylive.radioca.st/stream",
+    "genre": "Music",
+    "city": "Glasgow",
+    "country": "United Kingdom",
+    "lat": 55.861155,
+    "lng": -4.2501687
+  },
+  {
+    "id": "united-flashback-radio",
+    "name": "Flashback Radio",
+    "url": "https://live.flashbackcentral.co.uk/radio/8000/radio.mp3",
+    "genre": "Music",
+    "city": "Birmingham",
+    "country": "United Kingdom",
+    "lat": 52.4796992,
+    "lng": -1.9026911
+  },
+  {
+    "id": "united-celtic-music-radio",
+    "name": "Celtic Music Radio",
+    "url": "https://ukwesta.streaming.broadcast.radio/celtic",
+    "genre": "Music",
+    "city": "Glasgow",
+    "country": "United Kingdom",
+    "lat": 55.861155,
+    "lng": -4.2501687
+  },
+  {
+    "id": "united-trancetechnique",
+    "name": "Trancetechnique",
+    "url": "https://s11.ssl-stream.com/ssl/trancete?mp=/stream",
+    "genre": "Music",
+    "city": "Glasgow",
+    "country": "United Kingdom",
+    "lat": 55.861155,
+    "lng": -4.2501687
+  },
+  {
+    "id": "united-britasia-radio",
+    "name": "BritAsia Radio",
+    "url": "https://s4.radio.co/sfefce156f/listen",
+    "genre": "Music",
+    "city": "Birmingham",
+    "country": "United Kingdom",
+    "lat": 52.4796992,
+    "lng": -1.9026911
+  },
+  {
+    "id": "united-alibi-radio",
+    "name": "Alibi Radio",
+    "url": "https://das-edge62-live365-dal03.cdnstream.com/a86183",
+    "genre": "Music",
+    "city": "Glasgow",
+    "country": "United Kingdom",
+    "lat": 55.861155,
+    "lng": -4.2501687
+  },
+  {
+    "id": "united-rockscot",
+    "name": "Rock.Scot",
+    "url": "https://uksoutha.streaming.broadcast.radio:16641/caledonia-tx-ltd",
+    "genre": "Music",
+    "city": "Glasgow",
+    "country": "United Kingdom",
+    "lat": 55.861155,
+    "lng": -4.2501687
+  },
+  {
+    "id": "united-cumbernauld-fm-1068",
+    "name": "Cumbernauld FM 106.8",
+    "url": "https://radio.canstream.co.uk:8104/live.mp3",
+    "genre": "Music",
+    "city": "Glasgow",
+    "country": "United Kingdom",
+    "lat": 55.861155,
+    "lng": -4.2501687
+  },
+  {
+    "id": "united-swansbrook-radio",
+    "name": "Swansbrook Radio",
+    "url": "https://s5.radio.co/s760caf20b/listen",
+    "genre": "Music",
+    "city": "Birmingham",
+    "country": "United Kingdom",
+    "lat": 52.4796992,
+    "lng": -1.9026911
+  },
+  {
+    "id": "united-caledon-radio",
+    "name": "Caledon Radio",
+    "url": "https://caledonradio.radioca.st/stream",
+    "genre": "Music",
+    "city": "Glasgow",
+    "country": "United Kingdom",
+    "lat": 55.861155,
+    "lng": -4.2501687
+  },
+  {
+    "id": "united-heart-edinburgh",
+    "name": "Heart Edinburgh",
+    "url": "https://ice-the.musicradio.com/HeartEdinburghMP3",
+    "genre": "Music",
+    "city": "Edinburgh",
+    "country": "United Kingdom",
+    "lat": 55.9533456,
+    "lng": -3.1883749
+  },
+  {
+    "id": "united-radio-buena-vida",
+    "name": "Radio Buena Vida",
+    "url": "https://s4.radio.co/s69b281ac0/listen",
+    "genre": "Music",
+    "city": "Glasgow",
+    "country": "United Kingdom",
+    "lat": 55.861155,
+    "lng": -4.2501687
+  },
+  {
+    "id": "united-capital-fm-edinburgh",
+    "name": "Capital FM Edinburgh",
+    "url": "https://media-ice.musicradio.com/CapitalEdinburghMP3?.mp3",
+    "genre": "Music",
+    "city": "Edinburgh",
+    "country": "United Kingdom",
+    "lat": 55.9533456,
+    "lng": -3.1883749
+  },
+  {
+    "id": "united-sam-radio",
+    "name": "SAM RADIO",
+    "url": "https://ec6.yesstreaming.net:1170/stream",
+    "genre": "Music",
+    "city": "Edinburgh",
+    "country": "United Kingdom",
+    "lat": 55.9533456,
+    "lng": -3.1883749
+  },
+  {
+    "id": "united-psychedelicized",
+    "name": "Psychedelicized",
+    "url": "https://cast1.asurahosting.com/proxy/psychedelicized/stream",
+    "genre": "Music",
+    "city": "Edinburgh",
+    "country": "United Kingdom",
+    "lat": 55.9533456,
+    "lng": -3.1883749
+  },
+  {
+    "id": "united-clyde-built-radio",
+    "name": "Clyde Built Radio",
+    "url": "https://clydebuiltradio.out.airtime.pro/clydebuiltradio_a",
+    "genre": "Music",
+    "city": "Glasgow",
+    "country": "United Kingdom",
+    "lat": 55.861155,
+    "lng": -4.2501687
+  },
+  {
+    "id": "united-clarinet-radio",
+    "name": "Clarinet Radio",
+    "url": "https://listen.radioking.com/radio/614662/stream/676504",
+    "genre": "Music",
+    "city": "Edinburgh",
+    "country": "United Kingdom",
+    "lat": 55.9533456,
+    "lng": -3.1883749
+  },
+  {
+    "id": "united-regal-radio",
+    "name": "Regal Radio",
+    "url": "https://stream.regalradio.net/stream.mp3",
+    "genre": "Music",
+    "city": "Edinburgh",
+    "country": "United Kingdom",
+    "lat": 55.9533456,
+    "lng": -3.1883749
+  },
+  {
+    "id": "united-camglen-radio-1079-fm",
+    "name": "CamGlen Radio 107.9 FM",
+    "url": "https://stream2.hippynet.co.uk:8308/stream",
+    "genre": "Music",
+    "city": "Glasgow",
+    "country": "United Kingdom",
+    "lat": 55.861155,
+    "lng": -4.2501687
+  },
+  {
+    "id": "united-bfbs-scotland",
+    "name": "BFBS Scotland",
+    "url": "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs18.mp3?platform=radiogarden",
+    "genre": "Music",
+    "city": "Edinburgh",
+    "country": "United Kingdom",
+    "lat": 55.9533456,
+    "lng": -3.1883749
+  },
+  {
+    "id": "united-edge-2",
+    "name": "Edge 2",
+    "url": "https://stream-14.aiir.com/vps1vob4wpfvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2cHMxdm9iNHdwZnZ2IiwiaG9zdCI6InN0cmVhbS0xNC5haWlyLmNvbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoibGo5SEo5UzZTNEs2NWdLcTBrVlBCUSIsImlhdCI6MTc2OTQyNDA1NCwiZXhwIjoxNzY5NDI0MTE0fQ.3l3fOFiESstgSvZmuaJhpJtk192n7b-U07JM2Otmhp4",
+    "genre": "Music",
+    "city": "Edinburgh",
+    "country": "United Kingdom",
+    "lat": 55.9533456,
+    "lng": -3.1883749
+  },
+  {
+    "id": "united-edge-1",
+    "name": "Edge 1",
+    "url": "https://stream-14.aiir.com/8dhvgxm1kbvuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI4ZGh2Z3htMWtidnV2IiwiaG9zdCI6InN0cmVhbS0xNC5haWlyLmNvbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoieG1leU9DQVdTenVFLUs0N0dBdWRrZyIsImlhdCI6MTc2OTQyNDA1NiwiZXhwIjoxNzY5NDI0MTE2fQ.3NZQjdjkRYnEM2F4sqUmXLIhNT9rfnkCgtbLHoDQzMc",
+    "genre": "Music",
+    "city": "Edinburgh",
+    "country": "United Kingdom",
+    "lat": 55.9533456,
+    "lng": -3.1883749
+  },
+  {
+    "id": "united-east-coast-fm-1076",
+    "name": "East Coast FM 107.6",
+    "url": "https://radio.canstream.co.uk:8117/live.mp3",
+    "genre": "Music",
+    "city": "Edinburgh",
+    "country": "United Kingdom",
+    "lat": 55.9533456,
+    "lng": -3.1883749
+  },
+  {
+    "id": "united-988-castle-fm",
+    "name": "98.8 Castle FM",
+    "url": "https://s7.myradiostream.com/:10126/index.html?sid=1",
+    "genre": "Music",
+    "city": "Edinburgh",
+    "country": "United Kingdom",
+    "lat": 55.9533456,
+    "lng": -3.1883749
+  },
+  {
+    "id": "united-dazzle-fm",
+    "name": "Dazzle FM",
+    "url": "http://s48.myradiostream.com:10658/listen.mp3",
+    "genre": "Music",
+    "city": "Liverpool",
+    "country": "United Kingdom",
+    "lat": 53.4071991,
+    "lng": -2.99168
+  },
+  {
+    "id": "united-242-radio",
+    "name": "242 Radio",
+    "url": "https://eu1.reliastream.com/proxy/radioala?mp=/stream",
+    "genre": "Music",
+    "city": "Edinburgh",
+    "country": "United Kingdom",
+    "lat": 55.9533456,
+    "lng": -3.1883749
+  },
+  {
+    "id": "united-reiver-fm",
+    "name": "Reiver FM",
+    "url": "https://s10.myradiostream.com/:35820/listen.mp3?nocache=1769424056",
+    "genre": "Music",
+    "city": "Edinburgh",
+    "country": "United Kingdom",
+    "lat": 55.9533456,
+    "lng": -3.1883749
+  },
+  {
+    "id": "united-radio-gh",
+    "name": "Radio GH",
+    "url": "https://uk1.internet-radio.com/proxy/radiogh/stream",
+    "genre": "Music",
+    "city": "Edinburgh",
+    "country": "United Kingdom",
+    "lat": 55.9533456,
+    "lng": -3.1883749
+  },
+  {
+    "id": "united-heartsong-live-radio",
+    "name": "Heartsong Live Radio",
+    "url": "https://streamer.radio.co/sa0f1967d5/listen",
+    "genre": "Music",
+    "city": "Edinburgh",
+    "country": "United Kingdom",
+    "lat": 55.9533456,
+    "lng": -3.1883749
+  },
+  {
+    "id": "united-lcr-fm-1067",
+    "name": "LCR FM 106.7",
+    "url": "http://n0d.radiojar.com/0p8xfnpxfnzuv?rj-ttl=5&rj-tok=AAABm_ntnnMA3YjJHzdxF8c9Ow",
+    "genre": "Music",
+    "city": "Liverpool",
+    "country": "United Kingdom",
+    "lat": 53.4071991,
+    "lng": -2.99168
+  },
+  {
+    "id": "united-paisley-radio",
+    "name": "Paisley Radio",
+    "url": "https://s3.radio.co/s9d3c6b911/listen",
+    "genre": "Music",
+    "city": "Glasgow",
+    "country": "United Kingdom",
+    "lat": 55.861155,
+    "lng": -4.2501687
+  },
+  {
+    "id": "united-hudbucom",
+    "name": "Hudbu.com",
+    "url": "http://hudbu.com:8888/stream/",
+    "genre": "Music",
+    "city": "Liverpool",
+    "country": "United Kingdom",
+    "lat": 53.4071991,
+    "lng": -2.99168
+  },
+  {
+    "id": "united-capital-fm-liverpool",
+    "name": "Capital FM Liverpool",
+    "url": "https://media-sov.musicradio.com/CapitalLiverpoolMP3",
+    "genre": "Music",
+    "city": "Liverpool",
+    "country": "United Kingdom",
+    "lat": 53.4071991,
+    "lng": -2.99168
+  },
+  {
+    "id": "united-house-party-radio",
+    "name": "House Party Radio",
+    "url": "https://cloud.housepartyradio.net:8000/online.mp3",
+    "genre": "Music",
+    "city": "Liverpool",
+    "country": "United Kingdom",
+    "lat": 53.4071991,
+    "lng": -2.99168
+  },
+  {
+    "id": "united-ehfm",
+    "name": "EHFM",
+    "url": "https://ehfm.out.airtime.pro/ehfm_a",
+    "genre": "Music",
+    "city": "Edinburgh",
+    "country": "United Kingdom",
+    "lat": 55.9533456,
+    "lng": -3.1883749
+  },
+  {
+    "id": "united-juice-liverpool",
+    "name": "Juice Liverpool",
+    "url": "https://uksouth1.juiceboxradio.com/JuiceLiverpool",
+    "genre": "Music",
+    "city": "Liverpool",
+    "country": "United Kingdom",
+    "lat": 53.4071991,
+    "lng": -2.99168
+  },
+  {
+    "id": "united-lcr-uk",
+    "name": "LCR-UK",
+    "url": "https://stream.radio.co/sa641e39bd/listen",
+    "genre": "Music",
+    "city": "Edinburgh",
+    "country": "United Kingdom",
+    "lat": 55.9533456,
+    "lng": -3.1883749
+  },
+  {
+    "id": "united-mersey-radio",
+    "name": "Mersey Radio",
+    "url": "https://stream.shoutcastservices.com/proxy/merseyradio/stream",
+    "genre": "Music",
+    "city": "Liverpool",
+    "country": "United Kingdom",
+    "lat": 53.4071991,
+    "lng": -2.99168
+  },
+  {
+    "id": "united-flame-ccr",
+    "name": "Flame CCR",
+    "url": "https://radio.canstream.co.uk:8120/live.aac",
+    "genre": "Music",
+    "city": "Liverpool",
+    "country": "United Kingdom",
+    "lat": 53.4071991,
+    "lng": -2.99168
+  },
+  {
+    "id": "united-demon-fm",
+    "name": "Demon FM",
+    "url": "https://uksoutha.streaming.broadcast.radio/demontfort",
+    "genre": "Music",
+    "city": "Leicester",
+    "country": "United Kingdom",
+    "lat": 52.6362,
+    "lng": -1.1331969
+  },
+  {
+    "id": "united-islam-media-central",
+    "name": "Islam Media Central",
+    "url": "https://a4.asurahosting.com:7820/radio.mp3",
+    "genre": "Music",
+    "city": "Leicester",
+    "country": "United Kingdom",
+    "lat": 52.6362,
+    "lng": -1.1331969
+  },
+  {
+    "id": "united-eava-fm",
+    "name": "Eava FM",
+    "url": "https://radio.canstream.co.uk:8000/eavafm.mp3",
+    "genre": "Music",
+    "city": "Leicester",
+    "country": "United Kingdom",
+    "lat": 52.6362,
+    "lng": -1.1331969
+  },
+  {
+    "id": "united-merseyside-dementia-friendly-radio",
+    "name": "Merseyside Dementia Friendly Radio",
+    "url": "https://s2.radio.co/s9e2b0d28b/listen",
+    "genre": "Music",
+    "city": "Liverpool",
+    "country": "United Kingdom",
+    "lat": 53.4071991,
+    "lng": -2.99168
+  },
+  {
+    "id": "united-radio-seerah-am-1575",
+    "name": "Radio Seerah AM 1575",
+    "url": "https://icecast.maxxwave.co.uk/radioseerah",
+    "genre": "Music",
+    "city": "Leicester",
+    "country": "United Kingdom",
+    "lat": 52.6362,
+    "lng": -1.1331969
+  },
+  {
+    "id": "united-radio-utsav",
+    "name": "Radio Utsav",
+    "url": "https://icecast.maxxwave.co.uk/utsav",
+    "genre": "Music",
+    "city": "Leicester",
+    "country": "United Kingdom",
+    "lat": 52.6362,
+    "lng": -1.1331969
+  },
+  {
+    "id": "united-chester’s-dee-radio-fm-1063",
+    "name": "Chester’s Dee Radio FM 106.3",
+    "url": "https://edge-ads-03-gos2.sharp-stream.com/tcdee.mp3",
+    "genre": "Music",
+    "city": "Liverpool",
+    "country": "United Kingdom",
+    "lat": 53.4071991,
+    "lng": -2.99168
+  },
+  {
+    "id": "united-capital-fm-leicestershire",
+    "name": "Capital FM Leicestershire",
+    "url": "https://media-ice.musicradio.com/CapitalLeicestershireMP3?.mp3",
+    "genre": "Music",
+    "city": "Leicester",
+    "country": "United Kingdom",
+    "lat": 52.6362,
+    "lng": -1.1331969
+  },
+  {
+    "id": "united-love-80s-liverpool",
+    "name": "Love 80s Liverpool",
+    "url": "https://n09.rcs.revma.com/f498pgutna3vv?rj-ttl=5&rj-tok=AAABm_ntpE0AaFW03FY-kWFEOg",
+    "genre": "Music",
+    "city": "Liverpool",
+    "country": "United Kingdom",
+    "lat": 53.4071991,
+    "lng": -2.99168
+  },
+  {
+    "id": "united-sanskar-radio",
+    "name": "Sanskar Radio",
+    "url": "https://radio.canstream.co.uk:8024/live.mp3",
+    "genre": "Music",
+    "city": "Leicester",
+    "country": "United Kingdom",
+    "lat": 52.6362,
+    "lng": -1.1331969
+  },
+  {
+    "id": "united-sabras-radio",
+    "name": "Sabras Radio",
+    "url": "https://radio.canstream.co.uk:8025/live.mp3?.mp3/;",
+    "genre": "Music",
+    "city": "Leicester",
+    "country": "United Kingdom",
+    "lat": 52.6362,
+    "lng": -1.1331969
+  },
+  {
+    "id": "united-beware-the-radio",
+    "name": "Beware! The Radio",
+    "url": "https://bewaretheradio.out.airtime.pro/bewaretheradio_a",
+    "genre": "Music",
+    "city": "Liverpool",
+    "country": "United Kingdom",
+    "lat": 53.4071991,
+    "lng": -2.99168
+  },
+  {
+    "id": "united-fosse-107-hinckley",
+    "name": "Fosse 107 Hinckley",
+    "url": "https://icecast.maxxwave.co.uk/fossehinckleyhq",
+    "genre": "Music",
+    "city": "Leicester",
+    "country": "United Kingdom",
+    "lat": 52.6362,
+    "lng": -1.1331969
+  },
+  {
+    "id": "united-radio-lime-malayalam",
+    "name": "Radio Lime Malayalam",
+    "url": "https://s5.radio.co/s6e27496ef/listen",
+    "genre": "Music",
+    "city": "Liverpool",
+    "country": "United Kingdom",
+    "lat": 53.4071991,
+    "lng": -2.99168
+  },
+  {
+    "id": "united-leicester-community-radio-am-1449",
+    "name": "Leicester Community Radio AM 1449",
+    "url": "https://global2.citrus3.com:2020/stream/leicestercommunityradio",
+    "genre": "Music",
+    "city": "Leicester",
+    "country": "United Kingdom",
+    "lat": 52.6362,
+    "lng": -1.1331969
+  },
+  {
+    "id": "united-wirral-wave",
+    "name": "Wirral Wave",
+    "url": "https://wirralwave.out.airtime.pro/wirralwave_a",
+    "genre": "Music",
+    "city": "Liverpool",
+    "country": "United Kingdom",
+    "lat": 53.4071991,
+    "lng": -2.99168
+  },
+  {
+    "id": "united-get-ready-to-rock-radio",
+    "name": "Get Ready to ROCK! Radio",
+    "url": "https://streamer.radio.co/s24ae1285c/listen",
+    "genre": "Music",
+    "city": "Liverpool",
+    "country": "United Kingdom",
+    "lat": 53.4071991,
+    "lng": -2.99168
+  },
+  {
+    "id": "united-lamrim-tibetan-buddhist-internet-radio",
+    "name": "LamRim Tibetan Buddhist Internet Radio",
+    "url": "http://199.180.72.2:9097/lamrim",
+    "genre": "Music",
+    "city": "Bristol",
+    "country": "United Kingdom",
+    "lat": 51.4538022,
+    "lng": -2.5972985
+  },
+  {
+    "id": "united-usmani-mosque",
+    "name": "Usmani Mosque",
+    "url": "https://stream-177.zeno.fm/7fkp9rqvgm8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI3ZmtwOXJxdmdtOHV2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoidWxWVUQtZ2dRb1c4akNpWVFHRUJCdyIsImlhdCI6MTc2OTQyNDA2MSwiZXhwIjoxNzY5NDI0MTIxfQ.E6wMSjmSzmW25q3DvQHtQf64tXGmFzVAz5xfcvivv0U",
+    "genre": "Music",
+    "city": "Leicester",
+    "country": "United Kingdom",
+    "lat": 52.6362,
+    "lng": -1.1331969
+  },
+  {
+    "id": "united-smooth-radio-bristol-bath",
+    "name": "Smooth Radio Bristol & Bath",
+    "url": "https://media-the.musicradio.com/SmoothBristolMP3",
+    "genre": "Music",
+    "city": "Bristol",
+    "country": "United Kingdom",
+    "lat": 51.4538022,
+    "lng": -2.5972985
+  },
+  {
+    "id": "united-heart-fm-963",
+    "name": "Heart FM 96.3",
+    "url": "https://media-ice.musicradio.com/HeartBristolMP3?.mp3",
+    "genre": "Music",
+    "city": "Bristol",
+    "country": "United Kingdom",
+    "lat": 51.4538022,
+    "lng": -2.5972985
+  },
+  {
+    "id": "united-crystal-love-radio",
+    "name": "Crystal Love Radio",
+    "url": "https://betelgeuse.nucast.co.uk/stream/crystalloveradio",
+    "genre": "Music",
+    "city": "Bristol",
+    "country": "United Kingdom",
+    "lat": 51.4538022,
+    "lng": -2.5972985
+  },
+  {
+    "id": "united-radio2funky-950-fm",
+    "name": "Radio2Funky 95.0 FM",
+    "url": "https://s6.citrus3.com:8006/stream",
+    "genre": "Music",
+    "city": "Leicester",
+    "country": "United Kingdom",
+    "lat": 52.6362,
+    "lng": -1.1331969
+  },
+  {
+    "id": "united-wide-radio",
+    "name": "WIDE Radio",
+    "url": "http://n0a.radiojar.com/65s5r7weh24tv.mp3?rj-ttl=5&rj-tok=AAABm_ntthwAwoh8w3ThGG10lg",
+    "genre": "Music",
+    "city": "Bristol",
+    "country": "United Kingdom",
+    "lat": 51.4538022,
+    "lng": -2.5972985
+  },
+  {
+    "id": "united-ujima-fm-980",
+    "name": "Ujima FM 98.0",
+    "url": "https://radio.canstream.co.uk:8037/live.mp3",
+    "genre": "Music",
+    "city": "Bristol",
+    "country": "United Kingdom",
+    "lat": 51.4538022,
+    "lng": -2.5972985
+  },
+  {
+    "id": "united-noods-radio",
+    "name": "Noods Radio",
+    "url": "https://noods-radio.radiocult.fm/stream",
+    "genre": "Music",
+    "city": "Bristol",
+    "country": "United Kingdom",
+    "lat": 51.4538022,
+    "lng": -2.5972985
+  },
+  {
+    "id": "united-bcfm-932",
+    "name": "BCfm 93.2",
+    "url": "https://bcfmradiomain.radioca.st/live.mp3",
+    "genre": "Music",
+    "city": "Bristol",
+    "country": "United Kingdom",
+    "lat": 51.4538022,
+    "lng": -2.5972985
+  },
+  {
+    "id": "united-gws-radio",
+    "name": "GWS Radio",
+    "url": "https://stream2.hippynet.co.uk/stream/glastonburyfm/stream",
+    "genre": "Music",
+    "city": "Bristol",
+    "country": "United Kingdom",
+    "lat": 51.4538022,
+    "lng": -2.5972985
+  },
+  {
+    "id": "united-swu-fm",
+    "name": "SWU FM",
+    "url": "https://admin.stream.rinse.fm/proxy/swu/stream",
+    "genre": "Music",
+    "city": "Bristol",
+    "country": "United Kingdom",
+    "lat": 51.4538022,
+    "lng": -2.5972985
+  },
+  {
+    "id": "united-ramadan-fm-877",
+    "name": "Ramadan FM 87.7",
+    "url": "https://streams.radio.co/s184506ded/listen",
+    "genre": "Music",
+    "city": "Leicester",
+    "country": "United Kingdom",
+    "lat": 52.6362,
+    "lng": -1.1331969
+  },
+  {
+    "id": "united-1940s-radio",
+    "name": "1940s Radio",
+    "url": "https://uk3.internet-radio.com/proxy/1940sradio/stream",
+    "genre": "Music",
+    "city": "Bristol",
+    "country": "United Kingdom",
+    "lat": 51.4538022,
+    "lng": -2.5972985
+  },
+  {
+    "id": "united-erewash-sound",
+    "name": "Erewash Sound",
+    "url": "https://stream01.erewashsound.com/erewashaac",
+    "genre": "Music",
+    "city": "Leicester",
+    "country": "United Kingdom",
+    "lat": 52.6362,
+    "lng": -1.1331969
+  },
+  {
+    "id": "united-signature-radio-uk",
+    "name": "Signature Radio UK",
+    "url": "https://centova87.shoutcastservices.com/proxy/reid/stream",
+    "genre": "Music",
+    "city": "Bristol",
+    "country": "United Kingdom",
+    "lat": 51.4538022,
+    "lng": -2.5972985
+  },
+  {
+    "id": "united-blast-106",
+    "name": "Blast 106",
+    "url": "http://154.61.32.45:8000/blast",
+    "genre": "Music",
+    "city": "Belfast",
+    "country": "United Kingdom",
+    "lat": 54.5975805,
+    "lng": -5.9277097
+  },
+  {
+    "id": "united-radish-radio",
+    "name": "Radish Radio",
+    "url": "https://s2.radio.co/s17144ec15/listen",
+    "genre": "Music",
+    "city": "Bristol",
+    "country": "United Kingdom",
+    "lat": 51.4538022,
+    "lng": -2.5972985
+  },
+  {
+    "id": "united-pigpen-radio",
+    "name": "Pigpen Radio",
+    "url": "https://azuracast.spollin.net:8000/radio.mp3",
+    "genre": "Music",
+    "city": "Bristol",
+    "country": "United Kingdom",
+    "lat": 51.4538022,
+    "lng": -2.5972985
+  },
+  {
+    "id": "united-belfast-89fm",
+    "name": "Belfast 89FM",
+    "url": "http://mp3streaming.planetwideradio.com:9030/belfastfm",
+    "genre": "Music",
+    "city": "Belfast",
+    "country": "United Kingdom",
+    "lat": 54.5975805,
+    "lng": -5.9277097
+  },
+  {
+    "id": "united-digital-hits-one-1005-fm",
+    "name": "Digital Hits One 100.5 FM",
+    "url": "https://dh1-sanityradio.radioca.st/stream",
+    "genre": "Music",
+    "city": "Bristol",
+    "country": "United Kingdom",
+    "lat": 51.4538022,
+    "lng": -2.5972985
+  },
+  {
+    "id": "united-slice-audio",
+    "name": "Slice Audio",
+    "url": "https://sliceaudio.radioca.st/listen.html",
+    "genre": "Music",
+    "city": "Belfast",
+    "country": "United Kingdom",
+    "lat": 54.5975805,
+    "lng": -5.9277097
+  },
+  {
+    "id": "united-frome-fm-966",
+    "name": "Frome FM 96.6",
+    "url": "https://icecast2.bargus.co.uk:8001/fromefm.mp3",
+    "genre": "Music",
+    "city": "Bristol",
+    "country": "United Kingdom",
+    "lat": 51.4538022,
+    "lng": -2.5972985
+  },
+  {
+    "id": "united-pop-radio-uk",
+    "name": "Pop Radio UK",
+    "url": "https://popradiouk.out.airtime.pro/popradiouk_b",
+    "genre": "Music",
+    "city": "Bristol",
+    "country": "United Kingdom",
+    "lat": 51.4538022,
+    "lng": -2.5972985
+  },
+  {
+    "id": "united-fm-105-down-community-radio",
+    "name": "FM 105 Down Community Radio",
+    "url": "https://radio.canstream.co.uk:8051/live.mp3",
+    "genre": "Music",
+    "city": "Belfast",
+    "country": "United Kingdom",
+    "lat": 54.5975805,
+    "lng": -5.9277097
+  },
+  {
+    "id": "united-raidió-fáilte-fm-1071",
+    "name": "Raidió Fáilte FM 107.1",
+    "url": "https://radio.canstream.co.uk:9072/live.mp3",
+    "genre": "Music",
+    "city": "Belfast",
+    "country": "United Kingdom",
+    "lat": 54.5975805,
+    "lng": -5.9277097
+  },
+  {
+    "id": "united-fuse-fm-1075",
+    "name": "Fuse FM 107.5",
+    "url": "https://fusefm.radioca.st/stream",
+    "genre": "Music",
+    "city": "Belfast",
+    "country": "United Kingdom",
+    "lat": 54.5975805,
+    "lng": -5.9277097
+  },
+  {
+    "id": "united-radio-nova-international",
+    "name": "Radio Nova International",
+    "url": "https://novainternational.out.airtime.pro/novainternational_a",
+    "genre": "Music",
+    "city": "Belfast",
+    "country": "United Kingdom",
+    "lat": 54.5975805,
+    "lng": -5.9277097
+  },
+  {
+    "id": "united-eirewave",
+    "name": "Eirewave",
+    "url": "https://n16.rcs.revma.com/ng2u4zvag5uvv?rj-ttl=5&rj-tok=AAABm_ntwP0A6uy4FJuipebEpg",
+    "genre": "Music",
+    "city": "Belfast",
+    "country": "United Kingdom",
+    "lat": 54.5975805,
+    "lng": -5.9277097
+  },
+  {
+    "id": "united-energy-106",
+    "name": "Energy 106",
+    "url": "https://stream1.hippynet.co.uk:8189/MainStream",
+    "genre": "Music",
+    "city": "Belfast",
+    "country": "United Kingdom",
+    "lat": 54.5975805,
+    "lng": -5.9277097
+  },
+  {
+    "id": "united-u105-fm",
+    "name": "U105 FM",
+    "url": "https://onic.belfast.live.stream.broadcasting.news/stream-u105",
+    "genre": "Music",
+    "city": "Belfast",
+    "country": "United Kingdom",
+    "lat": 54.5975805,
+    "lng": -5.9277097
+  },
+  {
+    "id": "united-q-radio-belfast",
+    "name": "Q Radio Belfast",
+    "url": "https://edge-audio-02-gos1.sharp-stream.com/qr967.mp3?device=rpweb",
+    "genre": "Music",
+    "city": "Belfast",
+    "country": "United Kingdom",
+    "lat": 54.5975805,
+    "lng": -5.9277097
+  },
+  {
+    "id": "united-numero-uno-radio",
+    "name": "Numero Uno Radio",
+    "url": "https://streaming.radio.co/s52a64c189/listen",
+    "genre": "Music",
+    "city": "Belfast",
+    "country": "United Kingdom",
+    "lat": 54.5975805,
+    "lng": -5.9277097
+  },
+  {
+    "id": "united-soul-legends-radio",
+    "name": "Soul Legends Radio",
+    "url": "https://streamer.radio.co/s60f3e59d1/listen",
+    "genre": "Music",
+    "city": "Belfast",
+    "country": "United Kingdom",
+    "lat": 54.5975805,
+    "lng": -5.9277097
+  },
+  {
+    "id": "united-cando-fm-1063",
+    "name": "Cando FM 106.3",
+    "url": "http://streaming04.liveboxstream.uk:8128/stream",
+    "genre": "Music",
+    "city": "Blackpool",
+    "country": "United Kingdom",
+    "lat": 53.8179442,
+    "lng": -3.0509812
+  },
+  {
+    "id": "united-bfbs-northern-ireland",
+    "name": "BFBS Northern Ireland",
+    "url": "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs4.mp3?platform=radiogarden",
+    "genre": "Music",
+    "city": "Belfast",
+    "country": "United Kingdom",
+    "lat": 54.5975805,
+    "lng": -5.9277097
+  },
+  {
+    "id": "united-central-radio",
+    "name": "Central Radio",
+    "url": "https://stream.central.radio/listen/web/high",
+    "genre": "Music",
+    "city": "Blackpool",
+    "country": "United Kingdom",
+    "lat": 53.8179442,
+    "lng": -3.0509812
+  },
+  {
+    "id": "united-q-radio-fm-1005",
+    "name": "Q Radio FM 100.5",
+    "url": "https://direct-qradio.sharp-stream.com/qr1005.mp3",
+    "genre": "Music",
+    "city": "Belfast",
+    "country": "United Kingdom",
+    "lat": 54.5975805,
+    "lng": -5.9277097
+  },
+  {
+    "id": "united-beyond-radio",
+    "name": "Beyond Radio",
+    "url": "https://stream.beyondradio.co.uk/radio/8000/high",
+    "genre": "Music",
+    "city": "Blackpool",
+    "country": "United Kingdom",
+    "lat": 53.8179442,
+    "lng": -3.0509812
+  },
+  {
+    "id": "united-juice-belfast",
+    "name": "Juice Belfast",
+    "url": "https://n09.rcs.revma.com/yb1ut1uvz42vv?rj-ttl=5&rj-tok=AAABm_nty-gANarorIiUuWzfkw",
+    "genre": "Music",
+    "city": "Belfast",
+    "country": "United Kingdom",
+    "lat": 54.5975805,
+    "lng": -5.9277097
+  },
+  {
+    "id": "united-dance-fm-live-mix",
+    "name": "Dance FM Live Mix",
+    "url": "https://broadcast.dancefmlive.com/radio/8050/radio.mp3",
+    "genre": "Music",
+    "city": "Blackpool",
+    "country": "United Kingdom",
+    "lat": 53.8179442,
+    "lng": -3.0509812
+  },
+  {
+    "id": "united-shout-radio",
+    "name": "Shout Radio",
+    "url": "https://stream-shoutradio.creativedork.com/",
+    "genre": "Music",
+    "city": "Blackpool",
+    "country": "United Kingdom",
+    "lat": 53.8179442,
+    "lng": -3.0509812
+  },
+  {
+    "id": "united-1btn-fm-1014",
+    "name": "1BTN FM 101.4",
+    "url": "http://edge.clrmedia.co.uk:10000/obfm_mp3",
+    "genre": "Music",
+    "city": "Brighton and Hove",
+    "country": "United Kingdom",
+    "lat": 50.8453169,
+    "lng": -0.1497469
+  },
+  {
+    "id": "united-radio-m1",
+    "name": "Radio-M1",
+    "url": "https://m1.stream.laut.fm/m1?t302=2026-01-26_10-41-04&uuid=a248f122-3c61-4d0f-918e-c5d673a6e7aa",
+    "genre": "Music",
+    "city": "Leicester",
+    "country": "United Kingdom",
+    "lat": 52.6362,
+    "lng": -1.1331969
+  },
+  {
+    "id": "united-radio-leyland-1048-fm",
+    "name": "Radio Leyland 104.8 FM",
+    "url": "https://streaming06.liveboxstream.uk/proxy/leyland2?mp=/stream",
+    "genre": "Music",
+    "city": "Blackpool",
+    "country": "United Kingdom",
+    "lat": 53.8179442,
+    "lng": -3.0509812
+  },
+  {
+    "id": "united-heart-1024-sussex",
+    "name": "Heart 102.4 Sussex",
+    "url": "https://media-ice.musicradio.com/HeartSussexMP3?.mp3",
+    "genre": "Music",
+    "city": "Brighton and Hove",
+    "country": "United Kingdom",
+    "lat": 50.8453169,
+    "lng": -0.1497469
+  },
+  {
+    "id": "united-code-south-fm",
+    "name": "Code South FM",
+    "url": "https://edge.clrmedia.co.uk/cdsthbtnsecure",
+    "genre": "Music",
+    "city": "Brighton and Hove",
+    "country": "United Kingdom",
+    "lat": 50.8453169,
+    "lng": -0.1497469
+  },
+  {
+    "id": "united-capital-fm-1072",
+    "name": "Capital FM 107.2",
+    "url": "https://ice-the.musicradio.com/CapitalBrighton",
+    "genre": "Music",
+    "city": "Brighton and Hove",
+    "country": "United Kingdom",
+    "lat": 50.8453169,
+    "lng": -0.1497469
+  },
+  {
+    "id": "united-radio-eyesee",
+    "name": "Radio EyeSee",
+    "url": "https://icecast.bkwsu.eu/radio-eyesee.mp3",
+    "genre": "Music",
+    "city": "Brighton and Hove",
+    "country": "United Kingdom",
+    "lat": 50.8453169,
+    "lng": -0.1497469
+  },
+  {
+    "id": "united-gaydio-brighton",
+    "name": "Gaydio Brighton",
+    "url": "http://stream.gaydio.co.uk/gaydiosc.mp3",
+    "genre": "Music",
+    "city": "Brighton and Hove",
+    "country": "United Kingdom",
+    "lat": 50.8453169,
+    "lng": -0.1497469
+  },
+  {
+    "id": "united-blackpool-community-radio",
+    "name": "Blackpool Community Radio",
+    "url": "https://s10.citrus3.com:8596/stream",
+    "genre": "Music",
+    "city": "Blackpool",
+    "country": "United Kingdom",
+    "lat": 53.8179442,
+    "lng": -3.0509812
+  },
+  {
+    "id": "united-heart-sussex-surrey",
+    "name": "Heart (Sussex & Surrey)",
+    "url": "https://media-sov.musicradio.com/HeartCrawleyMP3",
+    "genre": "Music",
+    "city": "Brighton and Hove",
+    "country": "United Kingdom",
+    "lat": 50.8453169,
+    "lng": -0.1497469
+  },
+  {
+    "id": "united-premier-gold-radio",
+    "name": "Premier Gold Radio",
+    "url": "https://s8.citrus3.com:8412/stream",
+    "genre": "Music",
+    "city": "Blackpool",
+    "country": "United Kingdom",
+    "lat": 53.8179442,
+    "lng": -3.0509812
+  },
+  {
+    "id": "united-bcb-radio-fm-1066",
+    "name": "BCB Radio FM 106.6",
+    "url": "https://stream2.bcbradio.co.uk:8443/live128k.mp3",
+    "genre": "Music",
+    "city": "Bradford",
+    "country": "United Kingdom",
+    "lat": 53.7944229,
+    "lng": -1.7519186
+  },
+  {
+    "id": "united-more-radio-fm-1064",
+    "name": "More Radio FM 106.4",
+    "url": "https://s2.xrad.io:9594/listen.mp3",
+    "genre": "Music",
+    "city": "Brighton and Hove",
+    "country": "United Kingdom",
+    "lat": 50.8453169,
+    "lng": -0.1497469
+  },
+  {
+    "id": "united-radio-reverb-fm-927",
+    "name": "Radio Reverb FM 92.7",
+    "url": "https://edge-audio-03-gos2.sharp-stream.com/radioreverb.mp3",
+    "genre": "Music",
+    "city": "Brighton and Hove",
+    "country": "United Kingdom",
+    "lat": 50.8453169,
+    "lng": -0.1497469
+  },
+  {
+    "id": "united-bitr-breakfast-in-the-ruins",
+    "name": "BITR Breakfast in the Ruins",
+    "url": "https://fra-pioneer08.dedicateware.com:1435/stream",
+    "genre": "Music",
+    "city": "Bradford",
+    "country": "United Kingdom",
+    "lat": 53.7944229,
+    "lng": -1.7519186
+  },
+  {
+    "id": "united-platform-b-1055-fm",
+    "name": "Platform B 105.5 FM",
+    "url": "https://edge-audio-08-thn.sharp-stream.com/platformb.mp3",
+    "genre": "Music",
+    "city": "Brighton and Hove",
+    "country": "United Kingdom",
+    "lat": 50.8453169,
+    "lng": -0.1497469
+  },
+  {
+    "id": "united-west-coast-radio-blackpool",
+    "name": "West Coast Radio Blackpool",
+    "url": "https://s9.citrus3.com:8170/stream",
+    "genre": "Music",
+    "city": "Blackpool",
+    "country": "United Kingdom",
+    "lat": 53.8179442,
+    "lng": -3.0509812
+  },
+  {
+    "id": "united-slack-city-dab+",
+    "name": "Slack City DAB+",
+    "url": "https://edge-audio-02-thn.sharp-stream.com/slackcity.mp3",
+    "genre": "Music",
+    "city": "Brighton and Hove",
+    "country": "United Kingdom",
+    "lat": 50.8453169,
+    "lng": -0.1497469
+  },
+  {
+    "id": "united-bradford-asian-radio-am-1413",
+    "name": "Bradford Asian Radio AM 1413",
+    "url": "https://cast1.asurahosting.com/proxy/bradford/stream",
+    "genre": "Music",
+    "city": "Bradford",
+    "country": "United Kingdom",
+    "lat": 53.7944229,
+    "lng": -1.7519186
+  },
+  {
+    "id": "united-mid-downs-hospital-radio-1350-am",
+    "name": "Mid Downs Hospital Radio 1350 AM",
+    "url": "https://edge-audio-03-gos2.sharp-stream.com/mdr.mp3",
+    "genre": "Music",
+    "city": "Brighton and Hove",
+    "country": "United Kingdom",
+    "lat": 50.8453169,
+    "lng": -0.1497469
+  },
+  {
+    "id": "united-pennine-235",
+    "name": "Pennine 235",
+    "url": "https://mars.streamerr.co/8010/stream",
+    "genre": "Music",
+    "city": "Bradford",
+    "country": "United Kingdom",
+    "lat": 53.7944229,
+    "lng": -1.7519186
+  },
+  {
+    "id": "united-sunrise-radio",
+    "name": "Sunrise Radio",
+    "url": "https://stream1.themediasite.co.uk/8070/stream",
+    "genre": "Music",
+    "city": "Bradford",
+    "country": "United Kingdom",
+    "lat": 53.7944229,
+    "lng": -1.7519186
+  },
+  {
+    "id": "united-labr--love-a-brother-radio",
+    "name": "LABR - Love A Brother Radio",
+    "url": "https://solid2.streamupsolutions.com/proxy/mqxncdsf?mp=/stream",
+    "genre": "Music",
+    "city": "Bradford",
+    "country": "United Kingdom",
+    "lat": 53.7944229,
+    "lng": -1.7519186
+  },
+  {
+    "id": "united-al-mubarak-radio",
+    "name": "Al Mubarak Radio",
+    "url": "https://relay.emasjidlive.uk/almubarakradio",
+    "genre": "Music",
+    "city": "Bradford",
+    "country": "United Kingdom",
+    "lat": 53.7944229,
+    "lng": -1.7519186
+  },
+  {
+    "id": "united-drystone-radio-fm-1035",
+    "name": "Drystone Radio FM 103.5",
+    "url": "https://uksoutha.streaming.broadcast.radio/drystoneradio",
+    "genre": "Music",
+    "city": "Bradford",
+    "country": "United Kingdom",
+    "lat": 53.7944229,
+    "lng": -1.7519186
+  },
+  {
+    "id": "united-tracks-of-our-lives-radio",
+    "name": "Tracks of Our Lives Radio",
+    "url": "https://s2.citrus3.com:8424/stream",
+    "genre": "Music",
+    "city": "Brighton and Hove",
+    "country": "United Kingdom",
+    "lat": 50.8453169,
+    "lng": -0.1497469
+  },
+  {
+    "id": "united-grampian-hospital-radio",
+    "name": "Grampian Hospital Radio",
+    "url": "https://uksoutha.streaming.broadcast.radio/ghr",
+    "genre": "Music",
+    "city": "Aberdeen",
+    "country": "United Kingdom",
+    "lat": 57.1482429,
+    "lng": -2.0928095
+  },
+  {
+    "id": "united-phoenix-radio-967fm",
+    "name": "Phoenix Radio 96.7FM",
+    "url": "https://live.canstream.co.uk/phoenix.mp3",
+    "genre": "Music",
+    "city": "Bradford",
+    "country": "United Kingdom",
+    "lat": 53.7944229,
+    "lng": -1.7519186
+  },
+  {
+    "id": "united-meridian-fm",
+    "name": "Meridian FM",
+    "url": "https://streaming.broadcastradio.com:11995/meridianfm",
+    "genre": "Music",
+    "city": "Brighton and Hove",
+    "country": "United Kingdom",
+    "lat": 50.8453169,
+    "lng": -0.1497469
+  },
+  {
+    "id": "united-radio-north-angus",
+    "name": "Radio North Angus",
+    "url": "http://uk3-vn.mixstream.net:8192/stream",
+    "genre": "Music",
+    "city": "Aberdeen",
+    "country": "United Kingdom",
+    "lat": 57.1482429,
+    "lng": -2.0928095
+  },
+  {
+    "id": "united-recycle-radio",
+    "name": "Recycle Radio",
+    "url": "https://ice.recycleradio.co.uk:8443/rradio.mp3",
+    "genre": "Music",
+    "city": "Bradford",
+    "country": "United Kingdom",
+    "lat": 53.7944229,
+    "lng": -1.7519186
+  },
+  {
+    "id": "united-bigbeatbrighton-dab",
+    "name": "bigbeatbrighton DAB",
+    "url": "https://s4.citrus3.com:8366/stream",
+    "genre": "Music",
+    "city": "Brighton and Hove",
+    "country": "United Kingdom",
+    "lat": 50.8453169,
+    "lng": -0.1497469
+  },
+  {
+    "id": "united-pure-beat-radio",
+    "name": "Pure Beat Radio",
+    "url": "https://cast6.asurahosting.com/proxy/purebeat/stream",
+    "genre": "Music",
+    "city": "Aberdeen",
+    "country": "United Kingdom",
+    "lat": 57.1482429,
+    "lng": -2.0928095
+  },
+  {
+    "id": "united-capital-fm-north-east-england",
+    "name": "Capital FM North East England",
+    "url": "https://media-sov.musicradio.com/CapitalTyneWearMP3",
+    "genre": "Music",
+    "city": "Newcastle upon Tyne",
+    "country": "United Kingdom",
+    "lat": 54.9738474,
+    "lng": -1.6131572
+  },
+  {
+    "id": "united-shmu-fm-998",
+    "name": "Shmu FM 99.8",
+    "url": "https://stream.shmu.org.uk/shmufm_high.mp3",
+    "genre": "Music",
+    "city": "Aberdeen",
+    "country": "United Kingdom",
+    "lat": 57.1482429,
+    "lng": -2.0928095
+  },
+  {
+    "id": "united-deveron-fm-1074",
+    "name": "Deveron FM 107.4",
+    "url": "https://streaming05.liveboxstream.uk/proxy/wpsitema?mp=/stream",
+    "genre": "Music",
+    "city": "Aberdeen",
+    "country": "United Kingdom",
+    "lat": 57.1482429,
+    "lng": -2.0928095
+  },
+  {
+    "id": "united-kcr-1077-fm-keith-community-radio",
+    "name": "KCR 107.7 FM (Keith Community Radio)",
+    "url": "https://radio.canstream.co.uk:8092/live.mp3",
+    "genre": "Music",
+    "city": "Aberdeen",
+    "country": "United Kingdom",
+    "lat": 57.1482429,
+    "lng": -2.0928095
+  },
+  {
+    "id": "united-pride-radio-fm-892",
+    "name": "Pride Radio FM 89.2",
+    "url": "http://philae.shoutca.st:8807/index.html?sid=1",
+    "genre": "Music",
+    "city": "Newcastle upon Tyne",
+    "country": "United Kingdom",
+    "lat": 54.9738474,
+    "lng": -1.6131572
+  },
+  {
+    "id": "united-heart-tyne-wear",
+    "name": "Heart Tyne & Wear",
+    "url": "https://media-sov.musicradio.com/HeartTyneWear",
+    "genre": "Music",
+    "city": "Newcastle upon Tyne",
+    "country": "United Kingdom",
+    "lat": 54.9738474,
+    "lng": -1.6131572
+  },
+  {
+    "id": "united-radio-insight",
+    "name": "Radio Insight",
+    "url": "http://n13.radiojar.com/u77fa6dgtqzuv?rj-ttl=5&rj-tok=AAABm_nt7pMADHM2WOJw1dlywg",
+    "genre": "Music",
+    "city": "Newcastle upon Tyne",
+    "country": "United Kingdom",
+    "lat": 54.9738474,
+    "lng": -1.6131572
+  },
+  {
+    "id": "united-original-106-chart",
+    "name": "Original 106 Chart",
+    "url": "https://listen-original.sharp-stream.com/originalchart.mp3",
+    "genre": "Music",
+    "city": "Aberdeen",
+    "country": "United Kingdom",
+    "lat": 57.1482429,
+    "lng": -2.0928095
+  },
+  {
+    "id": "united-radio-apni-awaz",
+    "name": "Radio Apni Awaz",
+    "url": "https://cupcake.citrus3.com:8274/stream",
+    "genre": "Music",
+    "city": "Bradford",
+    "country": "United Kingdom",
+    "lat": 53.7944229,
+    "lng": -1.7519186
+  },
+  {
+    "id": "united-original-106-country",
+    "name": "Original 106 Country",
+    "url": "https://listen-original.sharp-stream.com/originalcountry.mp3",
+    "genre": "Music",
+    "city": "Aberdeen",
+    "country": "United Kingdom",
+    "lat": 57.1482429,
+    "lng": -2.0928095
+  },
+  {
+    "id": "united-koast-radio-1066-fm",
+    "name": "Koast Radio 106.6 FM",
+    "url": "https://mediacp.nkpa.co.uk:2020/stream/koast/mobile/",
+    "genre": "Music",
+    "city": "Newcastle upon Tyne",
+    "country": "United Kingdom",
+    "lat": 54.9738474,
+    "lng": -1.6131572
+  },
+  {
+    "id": "united-radio-tyneside",
+    "name": "Radio Tyneside",
+    "url": "https://stream.radiotyneside.co.uk/tyneside128.mp3",
+    "genre": "Music",
+    "city": "Newcastle upon Tyne",
+    "country": "United Kingdom",
+    "lat": 54.9738474,
+    "lng": -1.6131572
+  },
+  {
+    "id": "united-spice-fm",
+    "name": "Spice FM",
+    "url": "https://spice988fm.radioca.st/stream",
+    "genre": "Music",
+    "city": "Newcastle upon Tyne",
+    "country": "United Kingdom",
+    "lat": 54.9738474,
+    "lng": -1.6131572
+  },
+  {
+    "id": "united-now-radio-dundee",
+    "name": "NOW Radio Dundee",
+    "url": "https://stream-153.zeno.fm/5loikio8ccytv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI1bG9pa2lvOGNjeXR2IiwiaG9zdCI6InN0cmVhbS0xNTMuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiS1FiQjN3eHdSckN4Q2VBeDlsRXU5ZyIsImlhdCI6MTc2OTQyNDA3NywiZXhwIjoxNzY5NDI0MTM3fQ.dGALzSR_jbsk19IuUp04g-v3QOM_ch7n8all25TDYPY",
+    "genre": "Music",
+    "city": "Aberdeen",
+    "country": "United Kingdom",
+    "lat": 57.1482429,
+    "lng": -2.0928095
+  },
+  {
+    "id": "united-now-radio--rock",
+    "name": "NOW Radio - Rock",
+    "url": "https://stream-156.zeno.fm/n5f9gdsx1ehvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJuNWY5Z2RzeDFlaHZ2IiwiaG9zdCI6InN0cmVhbS0xNTYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiV0pXYUxIeTZTZjJXYk92eDZqQ0I0USIsImlhdCI6MTc2OTQyNDA3NywiZXhwIjoxNzY5NDI0MTM3fQ.X1mOVRMMp5lExu6PGuOhpHJGFDTkwk9aVLPMn5KsAu8",
+    "genre": "Music",
+    "city": "Aberdeen",
+    "country": "United Kingdom",
+    "lat": 57.1482429,
+    "lng": -2.0928095
+  },
+  {
+    "id": "united-milton-keynes-hospital-radio",
+    "name": "Milton Keynes Hospital Radio",
+    "url": "http://uk3.internet-radio.com:8347/stream",
+    "genre": "Music",
+    "city": "Milton Keynes",
+    "country": "United Kingdom",
+    "lat": 52.0406502,
+    "lng": -0.7594092
+  },
+  {
+    "id": "united-vandup-radio",
+    "name": "VANDUP Radio",
+    "url": "https://mars.streamerr.co/8940/stream",
+    "genre": "Music",
+    "city": "Newcastle upon Tyne",
+    "country": "United Kingdom",
+    "lat": 54.9738474,
+    "lng": -1.6131572
+  },
+  {
+    "id": "united-heart-milton-keynes",
+    "name": "Heart (Milton Keynes)",
+    "url": "https://media-sov.musicradio.com/HeartMiltonKeynesMP3",
+    "genre": "Music",
+    "city": "Milton Keynes",
+    "country": "United Kingdom",
+    "lat": 52.0406502,
+    "lng": -0.7594092
+  },
+  {
+    "id": "united-durham-onair",
+    "name": "Durham OnAir",
+    "url": "https://stream3.themediasite.co.uk:8016/durham",
+    "genre": "Music",
+    "city": "Newcastle upon Tyne",
+    "country": "United Kingdom",
+    "lat": 54.9738474,
+    "lng": -1.6131572
+  },
+  {
+    "id": "united-greatest-hits-non-stop",
+    "name": "Greatest Hits Non-Stop",
+    "url": "https://strw3.openstream.co/422?aw_0_1st.collectionid%3D7465%26stationId%3D7465%26publisherId%3D242%26k%3D1769424076",
+    "genre": "Music",
+    "city": "Aberdeen",
+    "country": "United Kingdom",
+    "lat": 57.1482429,
+    "lng": -2.0928095
+  },
+  {
+    "id": "united-horizon-radio",
+    "name": "Horizon Radio",
+    "url": "https://streaming.soniic.co.uk:8020/stream_hi",
+    "genre": "Music",
+    "city": "Milton Keynes",
+    "country": "United Kingdom",
+    "lat": 52.0406502,
+    "lng": -0.7594092
+  },
+  {
+    "id": "united-hospital-radio-bedford",
+    "name": "Hospital Radio Bedford",
+    "url": "http://kepler.shoutca.st:8295/hrb",
+    "genre": "Music",
+    "city": "Milton Keynes",
+    "country": "United Kingdom",
+    "lat": 52.0406502,
+    "lng": -0.7594092
+  },
+  {
+    "id": "united-dance-revolution",
+    "name": "Dance Revolution",
+    "url": "https://s5.radio.co/s89dcf578d/listen",
+    "genre": "Music",
+    "city": "Newcastle upon Tyne",
+    "country": "United Kingdom",
+    "lat": 54.9738474,
+    "lng": -1.6131572
+  },
+  {
+    "id": "united-heart-971-suffolk",
+    "name": "Heart 97.1 Suffolk",
+    "url": "https://media-ice.musicradio.com/HeartSuffolkMP3?.mp3",
+    "genre": "Music",
+    "city": "Ipswich",
+    "country": "United Kingdom",
+    "lat": 52.0579324,
+    "lng": 1.1528095
+  },
+  {
+    "id": "united-red-kite-radio-fm-1072",
+    "name": "Red Kite Radio FM 107.2",
+    "url": "https://solid2.streamupsolutions.com/proxy/enkodckd?mp=/stream&__cb=387870307968483&___cb=178599862485290",
+    "genre": "Music",
+    "city": "Milton Keynes",
+    "country": "United Kingdom",
+    "lat": 52.0406502,
+    "lng": -0.7594092
+  },
+  {
+    "id": "united-mkfm-1063",
+    "name": "MKFM 106.3",
+    "url": "https://mkfmradioplayer2.radioca.st/;stream.nsv",
+    "genre": "Music",
+    "city": "Milton Keynes",
+    "country": "United Kingdom",
+    "lat": 52.0406502,
+    "lng": -0.7594092
+  },
+  {
+    "id": "united-veterans-radio-net",
+    "name": "Veterans Radio Net",
+    "url": "https://radio.supremestreaming.net:7001/index.html?sid=1",
+    "genre": "Music",
+    "city": "Milton Keynes",
+    "country": "United Kingdom",
+    "lat": 52.0406502,
+    "lng": -0.7594092
+  },
+  {
+    "id": "united-smooth-suffolk",
+    "name": "Smooth Suffolk",
+    "url": "https://media-ssl.musicradio.com/SmoothNorfolk",
+    "genre": "Music",
+    "city": "Ipswich",
+    "country": "United Kingdom",
+    "lat": 52.0579324,
+    "lng": 1.1528095
+  },
+  {
+    "id": "united-shire-sounds-radio",
+    "name": "Shire Sounds Radio",
+    "url": "https://solid41.streamupsolutions.com/proxy/svdkgaiq/stream",
+    "genre": "Music",
+    "city": "Milton Keynes",
+    "country": "United Kingdom",
+    "lat": 52.0406502,
+    "lng": -0.7594092
+  },
+  {
+    "id": "united-roq-raw-radio",
+    "name": "ROQ Raw Radio",
+    "url": "https://mystation.micast.media/radio/8090/radio.mp3",
+    "genre": "Music",
+    "city": "Milton Keynes",
+    "country": "United Kingdom",
+    "lat": 52.0406502,
+    "lng": -0.7594092
+  },
+  {
+    "id": "united-big-l-2-am1395",
+    "name": "Big L 2 AM1395",
+    "url": "http://stream4.nsupdate.info:8100/bigl2h.mp3",
+    "genre": "Music",
+    "city": "Ipswich",
+    "country": "United Kingdom",
+    "lat": 52.0579324,
+    "lng": 1.1528095
+  },
+  {
+    "id": "united-prince-bishops-hospital-radio",
+    "name": "Prince Bishops Hospital Radio",
+    "url": "https://pbhr.radioca.st/stream",
+    "genre": "Music",
+    "city": "Newcastle upon Tyne",
+    "country": "United Kingdom",
+    "lat": 54.9738474,
+    "lng": -1.6131572
+  },
+  {
+    "id": "united-hospital-radio-ipswich",
+    "name": "Hospital Radio Ipswich",
+    "url": "https://stream1.radiomonitor.com/HRI",
+    "genre": "Music",
+    "city": "Ipswich",
+    "country": "United Kingdom",
+    "lat": 52.0579324,
+    "lng": 1.1528095
+  },
+  {
+    "id": "united-bucks-radio",
+    "name": "Bucks Radio",
+    "url": "https://n04.radiojar.com/f6mru9artg0uv?rj-ttl=5&rj-tok=AAABm_nt-LoAM38AsZCgvVBorw",
+    "genre": "Music",
+    "city": "Milton Keynes",
+    "country": "United Kingdom",
+    "lat": 52.0406502,
+    "lng": -0.7594092
+  },
+  {
+    "id": "united-crmk",
+    "name": "CRMK",
+    "url": "https://stream.radio.co/sdfcc41b7a/listen",
+    "genre": "Music",
+    "city": "Milton Keynes",
+    "country": "United Kingdom",
+    "lat": 52.0406502,
+    "lng": -0.7594092
+  },
+  {
+    "id": "united-heart-97-exeter",
+    "name": "Heart 97 Exeter",
+    "url": "https://media-ice.musicradio.com/HeartEastDevonMP3?.mp3",
+    "genre": "Music",
+    "city": "Exeter",
+    "country": "United Kingdom",
+    "lat": 50.7256138,
+    "lng": -3.5269209
+  },
+  {
+    "id": "united-actual-radio-colchester",
+    "name": "Actual Radio Colchester",
+    "url": "https://securestreams.autopo.st:1174/stream",
+    "genre": "Music",
+    "city": "Ipswich",
+    "country": "United Kingdom",
+    "lat": 52.0579324,
+    "lng": 1.1528095
+  },
+  {
+    "id": "united-south-devon-sound",
+    "name": "South Devon Sound",
+    "url": "http://162.244.80.106:11591/stream",
+    "genre": "Music",
+    "city": "Exeter",
+    "country": "United Kingdom",
+    "lat": 50.7256138,
+    "lng": -3.5269209
+  },
+  {
+    "id": "united-park-radio",
+    "name": "Park Radio",
+    "url": "https://s32.myradiostream.com/:18756/listen.mp3",
+    "genre": "Music",
+    "city": "Ipswich",
+    "country": "United Kingdom",
+    "lat": 52.0579324,
+    "lng": 1.1528095
+  },
+  {
+    "id": "united-fresh-gold-radio",
+    "name": "Fresh Gold Radio",
+    "url": "https://freshgol.radioca.st/stream",
+    "genre": "Music",
+    "city": "Ipswich",
+    "country": "United Kingdom",
+    "lat": 52.0579324,
+    "lng": 1.1528095
+  },
+  {
+    "id": "united-heart-south-devon",
+    "name": "Heart (South Devon)",
+    "url": "https://media-sov.musicradio.com/HeartSouthHamsMP3",
+    "genre": "Music",
+    "city": "Exeter",
+    "country": "United Kingdom",
+    "lat": 50.7256138,
+    "lng": -3.5269209
+  },
+  {
+    "id": "united-phonic-fm",
+    "name": "Phonic FM",
+    "url": "https://stream.cotswoldgrp.com:8009/main",
+    "genre": "Music",
+    "city": "Exeter",
+    "country": "United Kingdom",
+    "lat": 50.7256138,
+    "lng": -3.5269209
+  },
+  {
+    "id": "united-10radio-1053-fm",
+    "name": "10Radio 105.3 FM",
+    "url": "https://radio.canstream.co.uk:8056/live.mp3",
+    "genre": "Music",
+    "city": "Exeter",
+    "country": "United Kingdom",
+    "lat": 50.7256138,
+    "lng": -3.5269209
+  },
+  {
+    "id": "united-bhr-bridgend-hospital-radio",
+    "name": "BHR (Bridgend Hospital Radio)",
+    "url": "http://carol.epichosts.co.uk:8300/live.mp3",
+    "genre": "Music",
+    "city": "Cowbridge with Llanblethian",
+    "country": "United Kingdom",
+    "lat": 51.4599882,
+    "lng": -3.441485
+  },
+  {
+    "id": "united-access-all-aerials",
+    "name": "Access All Aerials",
+    "url": "https://s4.radio.co/sd3c379ad6/listen",
+    "genre": "Music",
+    "city": "Exeter",
+    "country": "United Kingdom",
+    "lat": 50.7256138,
+    "lng": -3.5269209
+  },
+  {
+    "id": "united-rendlesham-radio",
+    "name": "Rendlesham Radio",
+    "url": "https://stream.radio.co/s9c5fdd7e4/listen",
+    "genre": "Music",
+    "city": "Ipswich",
+    "country": "United Kingdom",
+    "lat": 52.0579324,
+    "lng": 1.1528095
+  },
+  {
+    "id": "united-radio-sudd",
+    "name": "Radio Sudd",
+    "url": "https://radio-sudd.radiocult.fm/stream",
+    "genre": "Music",
+    "city": "Cowbridge with Llanblethian",
+    "country": "United Kingdom",
+    "lat": 51.4599882,
+    "lng": -3.441485
+  },
+  {
+    "id": "united-xpressionfm",
+    "name": "XpressionFM",
+    "url": "https://streaming.broadcastradio.com:10855/xpression",
+    "genre": "Music",
+    "city": "Exeter",
+    "country": "United Kingdom",
+    "lat": 50.7256138,
+    "lng": -3.5269209
+  },
+  {
+    "id": "united-radio-exe-devon",
+    "name": "Radio Exe Devon",
+    "url": "https://n11.rcs.revma.com/rkefvzqakm3vv?rj-ttl=5&rj-tok=AAABm_nuBMAAh7qywHP-vgyTZg",
+    "genre": "Music",
+    "city": "Exeter",
+    "country": "United Kingdom",
+    "lat": 50.7256138,
+    "lng": -3.5269209
+  },
+  {
+    "id": "united-capital-fm-yorkshire-south-west",
+    "name": "Capital FM Yorkshire South & West",
+    "url": "https://media-ice.musicradio.com/CapitalYorkshireSouthWestMP3?.mp3",
+    "genre": "Music",
+    "city": "Leeds",
+    "country": "United Kingdom",
+    "lat": 53.7974185,
+    "lng": -1.5437941
+  },
+  {
+    "id": "united-nation-60s",
+    "name": "Nation 60s",
+    "url": "https://listen-nation.sharp-stream.com/nation60s.mp3",
+    "genre": "Music",
+    "city": "Cowbridge with Llanblethian",
+    "country": "United Kingdom",
+    "lat": 51.4599882,
+    "lng": -3.441485
+  },
+  {
+    "id": "united-bridge-fm-radio-1063",
+    "name": "Bridge FM Radio 106.3",
+    "url": "https://listen-nation.sharp-stream.com/tcbridge.mp3",
+    "genre": "Music",
+    "city": "Cowbridge with Llanblethian",
+    "country": "United Kingdom",
+    "lat": 51.4599882,
+    "lng": -3.441485
+  },
+  {
+    "id": "united-nation-dance",
+    "name": "Nation Dance",
+    "url": "https://listen-nation.sharp-stream.com/clubnation.mp3",
+    "genre": "Music",
+    "city": "Cowbridge with Llanblethian",
+    "country": "United Kingdom",
+    "lat": 51.4599882,
+    "lng": -3.441485
+  },
+  {
+    "id": "united-akash-radio-1323-am",
+    "name": "Akash Radio 1323 AM",
+    "url": "https://c2.radioboss.fm:8276/stream",
+    "genre": "Music",
+    "city": "Leeds",
+    "country": "United Kingdom",
+    "lat": 53.7974185,
+    "lng": -1.5437941
+  },
+  {
+    "id": "united-nation-love",
+    "name": "Nation Love",
+    "url": "https://listen-nation.sharp-stream.com/lovenation.mp3",
+    "genre": "Music",
+    "city": "Cowbridge with Llanblethian",
+    "country": "United Kingdom",
+    "lat": 51.4599882,
+    "lng": -3.441485
+  },
+  {
+    "id": "united-devonair-gold",
+    "name": "DevonAiR Gold",
+    "url": "https://n06.rcs.revma.com/48dmk70k91uvv?rj-ttl=5&rj-tok=AAABm_nuCL0AKM2ecGNkdQ2-ew",
+    "genre": "Music",
+    "city": "Exeter",
+    "country": "United Kingdom",
+    "lat": 50.7256138,
+    "lng": -3.5269209
+  },
+  {
+    "id": "united-nation-rocks",
+    "name": "Nation Rocks",
+    "url": "https://listen-nation.sharp-stream.com/nationrocks.mp3",
+    "genre": "Music",
+    "city": "Cowbridge with Llanblethian",
+    "country": "United Kingdom",
+    "lat": 51.4599882,
+    "lng": -3.441485
+  },
+  {
+    "id": "united-real-radio-yorkshire",
+    "name": "Real Radio Yorkshire",
+    "url": "https://media-ice.musicradio.com/HeartYorkshireMP3?.mp3",
+    "genre": "Music",
+    "city": "Leeds",
+    "country": "United Kingdom",
+    "lat": 53.7974185,
+    "lng": -1.5437941
+  },
+  {
+    "id": "united-harrogate-hospital-radio",
+    "name": "Harrogate Hospital Radio",
+    "url": "https://uksoutha.streaming.broadcast.radio/harrogatehospitalradio",
+    "genre": "Music",
+    "city": "Leeds",
+    "country": "United Kingdom",
+    "lat": 53.7974185,
+    "lng": -1.5437941
+  },
+  {
+    "id": "united-swansea-bay-radio-fm-1021",
+    "name": "Swansea Bay Radio FM 102.1",
+    "url": "https://listen-nation.sharp-stream.com/tcbay.mp3",
+    "genre": "Music",
+    "city": "Cowbridge with Llanblethian",
+    "country": "United Kingdom",
+    "lat": 51.4599882,
+    "lng": -3.441485
+  },
+  {
+    "id": "united-devonair-radio",
+    "name": "DevonAir Radio",
+    "url": "https://n06.rcs.revma.com/48dmk70k91uvv?rj-ttl=5&rj-tok=AAABm_nuCtMAPjZsrwnEPz0USg",
+    "genre": "Music",
+    "city": "Exeter",
+    "country": "United Kingdom",
+    "lat": 50.7256138,
+    "lng": -3.5269209
+  },
+  {
+    "id": "united-bro-radio-981-fm",
+    "name": "BRO Radio 98.1 FM",
+    "url": "https://streaming.broadcastradio.com:8422/brorad",
+    "genre": "Music",
+    "city": "Cowbridge with Llanblethian",
+    "country": "United Kingdom",
+    "lat": 51.4599882,
+    "lng": -3.441485
+  },
+  {
+    "id": "united-radio-big-sky",
+    "name": "Radio Big Sky",
+    "url": "https://servidor16.brlogic.com:7036/live",
+    "genre": "Music",
+    "city": "Ipswich",
+    "country": "United Kingdom",
+    "lat": 52.0579324,
+    "lng": 1.1528095
+  },
+  {
+    "id": "united-fever-1073-fm",
+    "name": "Fever 107.3 FM",
+    "url": "https://live.canstream.co.uk/asianfever.mp3?a=b",
+    "genre": "Music",
+    "city": "Leeds",
+    "country": "United Kingdom",
+    "lat": 53.7974185,
+    "lng": -1.5437941
+  },
+  {
+    "id": "united-ldc-radio-fm-978",
+    "name": "LDC Radio FM 97.8",
+    "url": "https://stream.ldcradio.co.uk/radio/8000/aac2",
+    "genre": "Music",
+    "city": "Leeds",
+    "country": "United Kingdom",
+    "lat": 53.7974185,
+    "lng": -1.5437941
+  },
+  {
+    "id": "united-mighty-radio-leeds",
+    "name": "Mighty Radio Leeds",
+    "url": "https://mightyradioleeds.radioca.st/stream",
+    "genre": "Music",
+    "city": "Leeds",
+    "country": "United Kingdom",
+    "lat": 53.7974185,
+    "lng": -1.5437941
+  },
+  {
+    "id": "united-audio-force-radio",
+    "name": "Audio Force Radio",
+    "url": "https://global2.citrus3.com:2020/stream/audioforceradio",
+    "genre": "Music",
+    "city": "Leeds",
+    "country": "United Kingdom",
+    "lat": 53.7974185,
+    "lng": -1.5437941
+  },
+  {
+    "id": "united-radio-sangam-1079-fm",
+    "name": "Radio Sangam 107.9 FM",
+    "url": "https://streaming.radio.co/s58948a3f0/listen",
+    "genre": "Music",
+    "city": "Leeds",
+    "country": "United Kingdom",
+    "lat": 53.7974185,
+    "lng": -1.5437941
+  }
+]

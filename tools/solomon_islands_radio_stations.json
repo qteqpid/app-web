@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Radio Hit si",
+        "city": "Radio Salomon",
+        "country": "Ljubljana, Slovenia",
+        "url": "http://stream03.exit.si:8000/radiohit?.mp3"
+    },
+    {
+        "name": "Radio Salomon",
+        "city": "Radio Salomon",
+        "country": "Ljubljana, Slovenia",
+        "url": "http://stream.radiosalomon.si/Salomon"
+    },
+    {
+        "name": "National Broadcasting Corporation",
+        "city": "Honiara",
+        "country": "Solomon Islands",
+        "url": "https://natradio.nbc.com.pg/listen/nbcnationalradio/nbc.mp3"
+    },
+    {
+        "name": "Rock Radio",
+        "city": "Radio Salomon",
+        "country": "Ljubljana, Slovenia",
+        "url": "https://stream.nextmedia.si/proxy/rockr1_1?mp=/rock"
+    },
+    {
+        "name": "Hitradio Center",
+        "city": "Radio Salomon",
+        "country": "Ljubljana, Slovenia",
+        "url": "https://stream.nextmedia.si/proxy/center4?mp=/center"
+    },
+    {
+        "name": "Radio Ekspres",
+        "city": "Radio Salomon",
+        "country": "Ljubljana, Slovenia",
+        "url": "https://stream.nextmedia.si/proxy/ekspres1?mp=/stream"
+    },
+    {
+        "name": "Radio Frajer",
+        "city": "Radio Salomon",
+        "country": "Ljubljana, Slovenia",
+        "url": "https://stream.nextmedia.si/proxy/frajer_1?mp=/frajer"
+    },
+    {
+        "name": "best FM 101.6",
+        "city": "Radio Salomon",
+        "country": "Ljubljana, Slovenia",
+        "url": "https://live.radio.si/BestFM"
+    },
+    {
+        "name": "VAL 202",
+        "city": "Radio Salomon",
+        "country": "Ljubljana, Slovenia",
+        "url": "https://mp3.rtvslo.si/val202"
+    },
+    {
+        "name": "Radio 1",
+        "city": "Radio Salomon",
+        "country": "Ljubljana, Slovenia",
+        "url": "https://live.radio1.si/Radio1"
+    },
+    {
+        "name": "Radio Slovenija A1",
+        "city": "Radio Salomon",
+        "country": "Ljubljana, Slovenia",
+        "url": "https://mp3.rtvslo.si/ra1"
+    },
+    {
+        "name": "MOJ Radio",
+        "city": "Radio Salomon",
+        "country": "Ljubljana, Slovenia",
+        "url": "https://eu4.fastcast4u.com/proxy/svidakov?mp=/1"
+    },
+    {
+        "name": "Hit100.3",
+        "city": "Honiara",
+        "country": "Solomon Islands",
+        "url": "https://legacy.scahw.com.au/4mky_32"
+    },
+    {
+        "name": "Radio 1 Litija",
+        "city": "Radio Salomon",
+        "country": "Ljubljana, Slovenia",
+        "url": "http://live3.infonetmedia.si/Radio1LI?.mp3"
+    },
+    {
+        "name": "NIA Radio - LoFi",
+        "city": "Honiara",
+        "country": "Solomon Islands",
+        "url": "https://radio.nia.nc/radio/8020/lofi-hq-stream.aac"
+    },
+    {
+        "name": "Radio Aktual",
+        "city": "Radio Salomon",
+        "country": "Ljubljana, Slovenia",
+        "url": "https://live.radio.si/Aktual"
+    },
+    {
+        "name": "Radio Zeleni val",
+        "city": "Radio Salomon",
+        "country": "Ljubljana, Slovenia",
+        "url": "https://jurepeterka.radioca.st/stream/1/"
+    },
+    {
+        "name": "Rambo Amadeus",
+        "city": "Radio Salomon",
+        "country": "Ljubljana, Slovenia",
+        "url": "https://prd-icecast.spectar.tv/ramboamadeus"
+    },
+    {
+        "name": "Radio Kranj 97.3 FM",
+        "city": "Radio Salomon",
+        "country": "Ljubljana, Slovenia",
+        "url": "https://live.radio.si/Kranj"
+    },
+    {
+        "name": "Laef FM",
+        "city": "Honiara",
+        "country": "Solomon Islands",
+        "url": "https://stream-165.zeno.fm/mrvrbms4g2vuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJtcnZyYm1zNGcydnV2IiwiaG9zdCI6InN0cmVhbS0xNjUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiM1hqU2VwRXpSTXFXOFN5YWNqN2RyZyIsImlhdCI6MTc2OTQyMjk3NywiZXhwIjoxNzY5NDIzMDM3fQ.FMS6WtQIWaxOiCF_WPXipx6hcFvTlZUeRBkefSjOqSs"
+    }
+]

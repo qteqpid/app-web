@@ -1,0 +1,206 @@
+[
+    {
+        "name": "Mahikeng FM 96.7",
+        "city": "Gaborone",
+        "country": "Botswana",
+        "url": "https://edge.iono.fm/xice/178_medium.aac"
+    },
+    {
+        "name": "Jaco FM 98.3",
+        "city": "Libreville",
+        "country": "Gabon",
+        "url": "https://jacogabon.cloud/radio/stream"
+    },
+    {
+        "name": "Duma FM 93.0",
+        "city": "Gaborone",
+        "country": "Botswana",
+        "url": "http://s3.voscast.com:10076/index.html?sid=1"
+    },
+    {
+        "name": "Gabonews FM 93.5",
+        "city": "Libreville",
+        "country": "Gabon",
+        "url": "http://n0f.radiojar.com/nh94273uerwtv?rj-ttl=5&rj-tok=AAABm_mam3MAS8ZbJ23xOcWJlA"
+    },
+    {
+        "name": "DFM930 FM 102.5",
+        "city": "Sérignac-sur-Garonne",
+        "country": "France",
+        "url": "http://stream.radios-arra.fr:8000/dfm930"
+    },
+    {
+        "name": "Madibeng FM 105.3",
+        "city": "Gaborone",
+        "country": "Botswana",
+        "url": "https://cast3.my-control-panel.com/proxy/madibengfm/stream"
+    },
+    {
+        "name": "The Cross FM",
+        "city": "Gaborone",
+        "country": "Botswana",
+        "url": "http://n08.radiojar.com/pwd30v5rv98uv?rj-ttl=5&rj-tok=AAABm_manCIA7GamHgTbKEfmZA"
+    },
+    {
+        "name": "PUKfm 93.6",
+        "city": "Gaborone",
+        "country": "Botswana",
+        "url": "https://cast3.my-control-panel.com/proxy/pukfm/stream"
+    },
+    {
+        "name": "Overvaal Stereo",
+        "city": "Gaborone",
+        "country": "Botswana",
+        "url": "https://cast3.my-control-panel.com/proxy/overvaalstereo/stream"
+    },
+    {
+        "name": "Urban FM 104.5",
+        "city": "Libreville",
+        "country": "Gabon",
+        "url": "https://studio.webradio.solutions:7013/stream"
+    },
+    {
+        "name": "47 FM",
+        "city": "Sérignac-sur-Garonne",
+        "country": "France",
+        "url": "https://47fm.ice.infomaniak.ch/47fm-agen.mp3"
+    },
+    {
+        "name": "Life FM 96.1",
+        "city": "Libreville",
+        "country": "Gabon",
+        "url": "https://s41.myradiostream.com:39496/listen.mp3?nocache=1769418617"
+    },
+    {
+        "name": "RVC Radio Voice of the Cross",
+        "city": "Libreville",
+        "country": "Gabon",
+        "url": "https://listen.radioking.com/radio/351811/stream/400894"
+    },
+    {
+        "name": "Cool Direct",
+        "city": "Sérignac-sur-Garonne",
+        "country": "France",
+        "url": "https://listen.radioking.com/radio/136/stream/62722"
+    },
+    {
+        "name": "Gabz FM",
+        "city": "Gaborone",
+        "country": "Botswana",
+        "url": "https://stream-152.zeno.fm/y4fgv9tfy4zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5NGZndjl0Znk0enV2IiwiaG9zdCI6InN0cmVhbS0xNTIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiWXpjc3poRlRSZ1MxUGZzNjlUSkljQSIsImlhdCI6MTc2OTQxODYxNywiZXhwIjoxNzY5NDE4Njc3fQ.p1Gk00X4ce4_ZAAUvxIn9uZOch6vTnE625E5uRm4yXs"
+    },
+    {
+        "name": "UB Radio",
+        "city": "Gaborone",
+        "country": "Botswana",
+        "url": "https://n14.rcs.revma.com/63tt2c7su8hvv?rj-ttl=5&rj-tok=AAABm_manUcA06-33ISARbeJAA"
+    },
+    {
+        "name": "Espoir FM",
+        "city": "Sérignac-sur-Garonne",
+        "country": "France",
+        "url": "https://radio2.pro-fhi.net:19006/direct"
+    },
+    {
+        "name": "Harties FM",
+        "city": "Gaborone",
+        "country": "Botswana",
+        "url": "https://s5.radio.co/s68c6f4028/listen"
+    },
+    {
+        "name": "Yarona FM 106.6",
+        "city": "Gaborone",
+        "country": "Botswana",
+        "url": "https://iceant.antfarm.co.za/yarona"
+    },
+    {
+        "name": "RMC",
+        "city": "Sérignac-sur-Garonne",
+        "country": "France",
+        "url": "https://audio.bfmtv.com/rmcradio_128.mp3"
+    },
+    {
+        "name": "Vanguardia FM 101.7",
+        "city": "Gaboto",
+        "country": "Argentina",
+        "url": "https://streaming.evolucionstreaming.com/8088/stream"
+    },
+    {
+        "name": "France Info 105.7",
+        "city": "Sérignac-sur-Garonne",
+        "country": "France",
+        "url": "https://icecast.radiofrance.fr/franceinfo-midfi.mp3"
+    },
+    {
+        "name": "France Inter",
+        "city": "Sérignac-sur-Garonne",
+        "country": "France",
+        "url": "https://icecast.radiofrance.fr/franceinter-midfi.mp3"
+    },
+    {
+        "name": "Gascogne FM 107.3",
+        "city": "Sérignac-sur-Garonne",
+        "country": "France",
+        "url": "https://hosting.studioradiomedia.fr:3340/gascognefm"
+    },
+    {
+        "name": "Europe 1",
+        "city": "Sérignac-sur-Garonne",
+        "country": "France",
+        "url": "https://europe1.lmn.fm/europe1.mp3"
+    },
+    {
+        "name": "FM City 103.5",
+        "city": "Gaboto",
+        "country": "Argentina",
+        "url": "http://s1.radiosnethosting.com:9796/;stream.mp3"
+    },
+    {
+        "name": "Neo Net Music FM 103.3",
+        "city": "Gaboto",
+        "country": "Argentina",
+        "url": "https://sonic.host-live.com/8670/stream"
+    },
+    {
+        "name": "Happy Radio Bergerac",
+        "city": "Sérignac-sur-Garonne",
+        "country": "France",
+        "url": "https://bergerac95.ice.infomaniak.ch/happyradio-bergerac.mp3"
+    },
+    {
+        "name": "RFI Afrique",
+        "city": "Sérignac-sur-Garonne",
+        "country": "France",
+        "url": "https://rfiafrique64k.ice.infomaniak.ch/rfiafrique-64.mp3"
+    },
+    {
+        "name": "Radio Mitre AM 790",
+        "city": "Gaboto",
+        "country": "Argentina",
+        "url": "https://24273.live.streamtheworld.com:443/AM790_56AAC.aac"
+    },
+    {
+        "name": "Radio Rivadavia 630 AM",
+        "city": "Gaboto",
+        "country": "Argentina",
+        "url": "https://23043.live.streamtheworld.com:443/RIVADAVIAAAC.aac"
+    },
+    {
+        "name": "La 100 FM 99.9",
+        "city": "Gaboto",
+        "country": "Argentina",
+        "url": "https://24373.live.streamtheworld.com:443/FM999_56.mp3"
+    },
+    {
+        "name": "Radio La Red AM 910",
+        "city": "Gaboto",
+        "country": "Argentina",
+        "url": "https://24493.live.streamtheworld.com:443/LA_RED_AM910AAC.aac"
+    },
+    {
+        "name": "FM Aspen 102.3",
+        "city": "Gaboto",
+        "country": "Argentina",
+        "url": "https://26643.live.streamtheworld.com:443/ASPEN.mp3"
+    }
+]

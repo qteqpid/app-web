@@ -1,0 +1,1922 @@
+[
+  {
+    "id": "greece-downtuned-radio",
+    "name": "Downtuned Radio",
+    "url": "http://195.242.237.14:8020/stream",
+    "genre": "Music",
+    "city": "Athens",
+    "country": "Greece",
+    "lat": 37.9755648,
+    "lng": 23.7348324
+  },
+  {
+    "id": "greece-thnx-radio",
+    "name": "THNX Radio",
+    "url": "http://radio.streamings.gr:8105/stream",
+    "genre": "Music",
+    "city": "Athens",
+    "country": "Greece",
+    "lat": 37.9755648,
+    "lng": 23.7348324
+  },
+  {
+    "id": "greece-ekrixi-fm-997",
+    "name": "Ekrixi FM 99.7",
+    "url": "https://ice.greekstream.net/ekrixifm",
+    "genre": "Music",
+    "city": "Thessaloniki",
+    "country": "Greece",
+    "lat": 40.6403167,
+    "lng": 22.9352716
+  },
+  {
+    "id": "greece-mad-radio-fm-1062",
+    "name": "Mad Radio FM 106.2",
+    "url": "https://mediaserver.mad.tv/stream",
+    "genre": "Music",
+    "city": "Athens",
+    "country": "Greece",
+    "lat": 37.9755648,
+    "lng": 23.7348324
+  },
+  {
+    "id": "greece-radio-must-athens",
+    "name": "Radio Must Athens",
+    "url": "https://stream.radiomustathens.com/must-hero",
+    "genre": "Music",
+    "city": "Athens",
+    "country": "Greece",
+    "lat": 37.9755648,
+    "lng": 23.7348324
+  },
+  {
+    "id": "greece-aristera-fm-904",
+    "name": "Aristera FM 90.4",
+    "url": "https://icecast.902.gr:8001/904",
+    "genre": "Music",
+    "city": "Thessaloniki",
+    "country": "Greece",
+    "lat": 40.6403167,
+    "lng": 22.9352716
+  },
+  {
+    "id": "greece-musicsp-radio",
+    "name": "MusicSP Radio",
+    "url": "http://161.97.125.189:8000/live.mp3",
+    "genre": "Music",
+    "city": "Thessaloniki",
+    "country": "Greece",
+    "lat": 40.6403167,
+    "lng": 22.9352716
+  },
+  {
+    "id": "greece-fm-genesis",
+    "name": "FM Genesis",
+    "url": "https://greeksonic.alphaserver.gr/8018/stream",
+    "genre": "Music",
+    "city": "Athens",
+    "country": "Greece",
+    "lat": 37.9755648,
+    "lng": 23.7348324
+  },
+  {
+    "id": "greece-icon-radio-gr",
+    "name": "Icon Radio GR",
+    "url": "https://cast.radiohost.ovh/iconradio?mp=/stream",
+    "genre": "Music",
+    "city": "Athens",
+    "country": "Greece",
+    "lat": 37.9755648,
+    "lng": 23.7348324
+  },
+  {
+    "id": "greece-ogdoo",
+    "name": "Ogdoo",
+    "url": "http://n01.radiojar.com/u8c2yr3sp42vv?rj-ttl=5&rj-tok=AAABm_me_nkAWIKpIyb8O_hB-A",
+    "genre": "Music",
+    "city": "Athens",
+    "country": "Greece",
+    "lat": 37.9755648,
+    "lng": 23.7348324
+  },
+  {
+    "id": "greece-libero-fm",
+    "name": "Libero FM",
+    "url": "https://radio.libero.fm:10750/live",
+    "genre": "Music",
+    "city": "Thessaloniki",
+    "country": "Greece",
+    "lat": 40.6403167,
+    "lng": 22.9352716
+  },
+  {
+    "id": "greece-pepper-radio-966",
+    "name": "Pepper Radio 96.6",
+    "url": "https://n06.radiojar.com/pepper.m4a?rj-ttl=5&rj-tok=AAABm_me_V8APUQlO7unVj6FRw",
+    "genre": "Music",
+    "city": "Athens",
+    "country": "Greece",
+    "lat": 37.9755648,
+    "lng": 23.7348324
+  },
+  {
+    "id": "greece-styra-fm-954",
+    "name": "Styra FM 95.4",
+    "url": "https://cast.radios24.eu:2200/radio/styrafm?mp=/stream",
+    "genre": "Music",
+    "city": "Athens",
+    "country": "Greece",
+    "lat": 37.9755648,
+    "lng": 23.7348324
+  },
+  {
+    "id": "greece-eroticos-fm-948",
+    "name": "Eroticos FM 94.8",
+    "url": "http://eu1.fastcast4u.com:21624/stream",
+    "genre": "Music",
+    "city": "Thessaloniki",
+    "country": "Greece",
+    "lat": 40.6403167,
+    "lng": 22.9352716
+  },
+  {
+    "id": "greece-sport-fm-946",
+    "name": "Sport FM 94.6",
+    "url": "https://sportfm.live24.gr/sportfm7712",
+    "genre": "Music",
+    "city": "Athens",
+    "country": "Greece",
+    "lat": 37.9755648,
+    "lng": 23.7348324
+  },
+  {
+    "id": "greece-real-fm",
+    "name": "Real FM",
+    "url": "https://realfm.live24.gr/realfm?.mp3",
+    "genre": "Music",
+    "city": "Athens",
+    "country": "Greece",
+    "lat": 37.9755648,
+    "lng": 23.7348324
+  },
+  {
+    "id": "greece-mousikos",
+    "name": "Mousikos",
+    "url": "https://netradio.live24.gr/mousikos986",
+    "genre": "Music",
+    "city": "Athens",
+    "country": "Greece",
+    "lat": 37.9755648,
+    "lng": 23.7348324
+  },
+  {
+    "id": "greece-ert-deftero",
+    "name": "ERT Deftero",
+    "url": "https://radiostreaming.ert.gr/ert-deftero",
+    "genre": "Music",
+    "city": "Athens",
+    "country": "Greece",
+    "lat": 37.9755648,
+    "lng": 23.7348324
+  },
+  {
+    "id": "greece-kosmos-936",
+    "name": "Kosmos 93.6",
+    "url": "https://radiostreaming.ert.gr/ert-kosmos",
+    "genre": "Music",
+    "city": "Athens",
+    "country": "Greece",
+    "lat": 37.9755648,
+    "lng": 23.7348324
+  },
+  {
+    "id": "greece-ert-trito-maestro",
+    "name": "ERT Trito Maestro",
+    "url": "https://radiostreaming.ert.gr/ert-trito-maestro",
+    "genre": "Music",
+    "city": "Athens",
+    "country": "Greece",
+    "lat": 37.9755648,
+    "lng": 23.7348324
+  },
+  {
+    "id": "greece-radio-alexandros-fm-1063",
+    "name": "Radio Alexandros FM 106.3",
+    "url": "http://proxima.shoutca.st:9012/stream",
+    "genre": "Music",
+    "city": "Thessaloniki",
+    "country": "Greece",
+    "lat": 40.6403167,
+    "lng": 22.9352716
+  },
+  {
+    "id": "greece-89-rainbow",
+    "name": "89 Rainbow",
+    "url": "http://n02.radiojar.com/083wqknmsuhvv?rj-ttl=5&rj-tok=AAABm_mfBqwAiGfXawuDwLeCdw",
+    "genre": "Music",
+    "city": "Thessaloniki",
+    "country": "Greece",
+    "lat": 40.6403167,
+    "lng": 22.9352716
+  },
+  {
+    "id": "greece-radio-aquarius",
+    "name": "Radio Aquarius",
+    "url": "https://cast.magicstreams.gr/sc/asavouli/stream",
+    "genre": "Music",
+    "city": "Thessaloniki",
+    "country": "Greece",
+    "lat": 40.6403167,
+    "lng": 22.9352716
+  },
+  {
+    "id": "greece-imagine-fm-897",
+    "name": "Imagine FM 89.7",
+    "url": "https://imagine897.radioca.st/stream",
+    "genre": "Music",
+    "city": "Thessaloniki",
+    "country": "Greece",
+    "lat": 40.6403167,
+    "lng": 22.9352716
+  },
+  {
+    "id": "greece-shook-radio-1044-fm",
+    "name": "Shook Radio 104.4 FM",
+    "url": "https://sh.onweb.gr/8812/;/chillout.mp3",
+    "genre": "Music",
+    "city": "Thessaloniki",
+    "country": "Greece",
+    "lat": 40.6403167,
+    "lng": 22.9352716
+  },
+  {
+    "id": "greece-radio-polygyros-fm-908",
+    "name": "Radio Polygyros FM 90.8",
+    "url": "http://eco.onestreaming.com:8526/stream",
+    "genre": "Music",
+    "city": "Thessaloniki",
+    "country": "Greece",
+    "lat": 40.6403167,
+    "lng": 22.9352716
+  },
+  {
+    "id": "greece-epiloges-fm-1028",
+    "name": "Epiloges FM 102.8",
+    "url": "http://ice.streamcloud.mediacdn.com/epiloges1028",
+    "genre": "Music",
+    "city": "Thessaloniki",
+    "country": "Greece",
+    "lat": 40.6403167,
+    "lng": 22.9352716
+  },
+  {
+    "id": "greece-fly-104",
+    "name": "Fly 104",
+    "url": "https://imagine2.radioca.st/index.html?sid=1",
+    "genre": "Music",
+    "city": "Thessaloniki",
+    "country": "Greece",
+    "lat": 40.6403167,
+    "lng": 22.9352716
+  },
+  {
+    "id": "greece-radio-synora-fm-987",
+    "name": "Radio Synora FM 98.7",
+    "url": "http://sh.onweb.gr:8816/;stream",
+    "genre": "Music",
+    "city": "Thessaloniki",
+    "country": "Greece",
+    "lat": 40.6403167,
+    "lng": 22.9352716
+  },
+  {
+    "id": "greece-χρώμα-fm-1021",
+    "name": "Χρώμα FM 102.1",
+    "url": "http://streams.enjoyfm.gr:48500/xroma.mp3",
+    "genre": "Music",
+    "city": "Patras",
+    "country": "Greece",
+    "lat": 38.246242,
+    "lng": 21.7350847
+  },
+  {
+    "id": "greece-sohos-fm-887",
+    "name": "Sohos FM 88.7",
+    "url": "https://solid55.streamupsolutions.com/proxy/zskzsrci?mp=/1",
+    "genre": "Music",
+    "city": "Thessaloniki",
+    "country": "Greece",
+    "lat": 40.6403167,
+    "lng": 22.9352716
+  },
+  {
+    "id": "greece-derti-1057-fm",
+    "name": "Derti 105.7 FM",
+    "url": "http://n01.radiojar.com/tzcb5k453quvv?rj-ttl=5&rj-tok=AAABm_mfD-8AxT68ffv5Gyd5eg",
+    "genre": "Music",
+    "city": "Patras",
+    "country": "Greece",
+    "lat": 38.246242,
+    "lng": 21.7350847
+  },
+  {
+    "id": "greece-velvet-fm-968",
+    "name": "Velvet FM 96.8",
+    "url": "https://metromedia.live24.gr/velvet968thess",
+    "genre": "Music",
+    "city": "Thessaloniki",
+    "country": "Greece",
+    "lat": 40.6403167,
+    "lng": 22.9352716
+  },
+  {
+    "id": "greece-metropolis-955",
+    "name": "Metropolis 95.5",
+    "url": "https://metromedia.live24.gr/metropolis955thess",
+    "genre": "Music",
+    "city": "Thessaloniki",
+    "country": "Greece",
+    "lat": 40.6403167,
+    "lng": 22.9352716
+  },
+  {
+    "id": "greece-red-new-music",
+    "name": "Red New Music",
+    "url": "https://n14.rcs.revma.com/e4d84zez1duvv?rj-ttl=5&rj-tok=AAABm_mfCTUAACQJQ_z6oaJ7fg",
+    "genre": "Music",
+    "city": "Athens",
+    "country": "Greece",
+    "lat": 37.9755648,
+    "lng": 23.7348324
+  },
+  {
+    "id": "greece-melodia-fm-992",
+    "name": "Melodia FM 99.2",
+    "url": "https://n09.rcs.revma.com/8tdwa6ez1duvv?rj-ttl=5&rj-tok=AAABm_mfCY0A_xt0eJ6AL0lbxw",
+    "genre": "Music",
+    "city": "Athens",
+    "country": "Greece",
+    "lat": 37.9755648,
+    "lng": 23.7348324
+  },
+  {
+    "id": "greece-webradio-eap",
+    "name": "Webradio EAP",
+    "url": "http://n04.radiojar.com/avstsqrbay8uv?rj-ttl=5&rj-tok=AAABm_mfD-gAurcGtk3lVw9G0g",
+    "genre": "Music",
+    "city": "Patras",
+    "country": "Greece",
+    "lat": 38.246242,
+    "lng": 21.7350847
+  },
+  {
+    "id": "greece-skylos-90-fm",
+    "name": "Skylos 90 FM",
+    "url": "http://n10.radiojar.com/819r8wupdrruv?rj-ttl=5&rj-tok=AAABm_mfEPYADzdiBXcD5Eb8gQ",
+    "genre": "Music",
+    "city": "Patras",
+    "country": "Greece",
+    "lat": 38.246242,
+    "lng": 21.7350847
+  },
+  {
+    "id": "greece-άρωμα-fm-882",
+    "name": "Άρωμα FM 88.2",
+    "url": "https://streams.enjoyfm.gr:48502/aroma.mp3",
+    "genre": "Music",
+    "city": "Patras",
+    "country": "Greece",
+    "lat": 38.246242,
+    "lng": 21.7350847
+  },
+  {
+    "id": "greece-thema-patras-987-fm",
+    "name": "Thema Patras 98.7 FM",
+    "url": "https://radio.themapatras.gr/radio",
+    "genre": "Music",
+    "city": "Patras",
+    "country": "Greece",
+    "lat": 38.246242,
+    "lng": 21.7350847
+  },
+  {
+    "id": "greece-picasso-1027",
+    "name": "Picasso 102.7",
+    "url": "http://n04.radiojar.com/s87smqqfewzuv?rj-ttl=5&rj-tok=AAABm_mfE2oAmM8T3lwyrYtIAA",
+    "genre": "Music",
+    "city": "Patras",
+    "country": "Greece",
+    "lat": 38.246242,
+    "lng": 21.7350847
+  },
+  {
+    "id": "greece-melodia-patras-1004",
+    "name": "Melodia Patras 100.4",
+    "url": "https://i.streams.ovh/sc/melodiapatras/stream",
+    "genre": "Music",
+    "city": "Patras",
+    "country": "Greece",
+    "lat": 38.246242,
+    "lng": 21.7350847
+  },
+  {
+    "id": "greece-play-lounge",
+    "name": "Play Lounge",
+    "url": "https://n0d.radiojar.com/n6frf0ct274tv?rj-ttl=5&rj-tok=AAABm_mfECkA2UuWvjKx-dItcA",
+    "genre": "Music",
+    "city": "Patras",
+    "country": "Greece",
+    "lat": 38.246242,
+    "lng": 21.7350847
+  },
+  {
+    "id": "greece-venus-fm-1051",
+    "name": "Venus FM 105.1",
+    "url": "http://s3.onweb.gr:8808/index.html?sid=1",
+    "genre": "Music",
+    "city": "Patras",
+    "country": "Greece",
+    "lat": 38.246242,
+    "lng": 21.7350847
+  },
+  {
+    "id": "greece-fly-fm-881",
+    "name": "Fly FM 88.1",
+    "url": "http://51.195.51.18:8602/;stream.nsv",
+    "genre": "Music",
+    "city": "Heraklion",
+    "country": "Greece",
+    "lat": 35.33908,
+    "lng": 25.1332843
+  },
+  {
+    "id": "greece-ak-radio",
+    "name": "AK Radio",
+    "url": "https://sc2.streamwithq.com:2000/stream/akradio",
+    "genre": "Music",
+    "city": "Heraklion",
+    "country": "Greece",
+    "lat": 35.33908,
+    "lng": 25.1332843
+  },
+  {
+    "id": "greece-agrinio-fm-962",
+    "name": "Agrinio FM 96.2",
+    "url": "https://sonic.streams.ovh/9870/stream",
+    "genre": "Music",
+    "city": "Patras",
+    "country": "Greece",
+    "lat": 38.246242,
+    "lng": 21.7350847
+  },
+  {
+    "id": "greece-ionion-fm",
+    "name": "Ionion FM",
+    "url": "https://stream3.proradio.gr/listen/ionion/ionionfm",
+    "genre": "Music",
+    "city": "Patras",
+    "country": "Greece",
+    "lat": 38.246242,
+    "lng": 21.7350847
+  },
+  {
+    "id": "greece-mousiko-kanali-1051",
+    "name": "Mousiko Kanali 105.1",
+    "url": "http://stream1.mousikokanali.gr:8100/mc?.mp3",
+    "genre": "Music",
+    "city": "Heraklion",
+    "country": "Greece",
+    "lat": 35.33908,
+    "lng": 25.1332843
+  },
+  {
+    "id": "greece-electricity-web",
+    "name": "ElectriCity Web",
+    "url": "https://i9.streams.ovh/sc/electri1/stream",
+    "genre": "Music",
+    "city": "Patras",
+    "country": "Greece",
+    "lat": 38.246242,
+    "lng": 21.7350847
+  },
+  {
+    "id": "greece-radiq-dance",
+    "name": "RadIQ Dance",
+    "url": "https://live.radiq.gr/listen/dance/radio.mp3",
+    "genre": "Music",
+    "city": "Heraklion",
+    "country": "Greece",
+    "lat": 35.33908,
+    "lng": 25.1332843
+  },
+  {
+    "id": "greece-fly-fm-959",
+    "name": "Fly FM 95.9",
+    "url": "http://sc2.streamwithq.com:8040/stream",
+    "genre": "Music",
+    "city": "Heraklion",
+    "country": "Greece",
+    "lat": 35.33908,
+    "lng": 25.1332843
+  },
+  {
+    "id": "greece-kritikos-fm-887",
+    "name": "Kritikos FM 88.7",
+    "url": "http://dione.shoutca.st:8443/stream",
+    "genre": "Music",
+    "city": "Heraklion",
+    "country": "Greece",
+    "lat": 35.33908,
+    "lng": 25.1332843
+  },
+  {
+    "id": "greece-style-100-fm",
+    "name": "Style 100 FM",
+    "url": "http://eco.onestreaming.com:8576/stream/",
+    "genre": "Music",
+    "city": "Heraklion",
+    "country": "Greece",
+    "lat": 35.33908,
+    "lng": 25.1332843
+  },
+  {
+    "id": "greece-masterfm-902",
+    "name": "MasterFM 90.2",
+    "url": "https://stream1.468.gr/9902/stream",
+    "genre": "Music",
+    "city": "Patras",
+    "country": "Greece",
+    "lat": 38.246242,
+    "lng": 21.7350847
+  },
+  {
+    "id": "greece-metro-radio-892",
+    "name": "Metro Radio 89.2",
+    "url": "https://stream.crete.ovh:8443/metro",
+    "genre": "Music",
+    "city": "Heraklion",
+    "country": "Greece",
+    "lat": 35.33908,
+    "lng": 25.1332843
+  },
+  {
+    "id": "greece-music-club-1058-fm",
+    "name": "Music Club 105.8 FM",
+    "url": "https://antares.dribbcast.com/proxy/music1058?mp=/stream",
+    "genre": "Music",
+    "city": "Heraklion",
+    "country": "Greece",
+    "lat": 35.33908,
+    "lng": 25.1332843
+  },
+  {
+    "id": "greece-ekklisia-kritis-fm-997",
+    "name": "Ekklisia Kritis FM 99.7",
+    "url": "https://i7.streams.ovh/ic/iakradi1/stream",
+    "genre": "Music",
+    "city": "Heraklion",
+    "country": "Greece",
+    "lat": 35.33908,
+    "lng": 25.1332843
+  },
+  {
+    "id": "greece-radio-family-fm-895",
+    "name": "Radio Family FM 89.5",
+    "url": "https://www.fmlive.gr/8002/stream",
+    "genre": "Music",
+    "city": "Heraklion",
+    "country": "Greece",
+    "lat": 35.33908,
+    "lng": 25.1332843
+  },
+  {
+    "id": "greece-nrj-95",
+    "name": "NRJ 95",
+    "url": "http://n06.radiojar.com/93c3avwu48hvv?rj-ttl=5&rj-tok=AAABm_mfIVsA_ByTB1Z0miKQug",
+    "genre": "Music",
+    "city": "Chalcis",
+    "country": "Greece",
+    "lat": 38.4623664,
+    "lng": 23.5946877
+  },
+  {
+    "id": "greece-holy-metropolis-of-chalkis-fm-977",
+    "name": "Holy Metropolis of Chalkis FM 97.7",
+    "url": "https://fra-pioneer01.dedicateware.com:2745/stream",
+    "genre": "Music",
+    "city": "Chalcis",
+    "country": "Greece",
+    "lat": 38.4623664,
+    "lng": 23.5946877
+  },
+  {
+    "id": "greece-kpax-κοινωνικό-ραδιόφωνο-χανίων",
+    "name": "KPaX Κοινωνικό Ραδιόφωνο Χανίων",
+    "url": "https://c32.radioboss.fm:8563/stream",
+    "genre": "Music",
+    "city": "Heraklion",
+    "country": "Greece",
+    "lat": 35.33908,
+    "lng": 25.1332843
+  },
+  {
+    "id": "greece-radio-evia-1041",
+    "name": "Radio Evia 104.1",
+    "url": "http://89.163.217.252:9900/index.html?sid=1",
+    "genre": "Music",
+    "city": "Chalcis",
+    "country": "Greece",
+    "lat": 38.4623664,
+    "lng": 23.5946877
+  },
+  {
+    "id": "greece-home-891",
+    "name": "Home 89.1",
+    "url": "https://streaming.home891.gr/stream",
+    "genre": "Music",
+    "city": "Chalcis",
+    "country": "Greece",
+    "lat": 38.4623664,
+    "lng": 23.5946877
+  },
+  {
+    "id": "greece-evripos-90-fm",
+    "name": "Evripos 90 FM",
+    "url": "https://evripos90.radioca.st/stream/1/",
+    "genre": "Music",
+    "city": "Chalcis",
+    "country": "Greece",
+    "lat": 38.4623664,
+    "lng": 23.5946877
+  },
+  {
+    "id": "greece-mple-990-fm",
+    "name": "MPLE 99.0 FM",
+    "url": "http://n11.radiojar.com/f4pqr7wu48hvv?rj-ttl=5&rj-tok=AAABm_mfI7IA9GGnOOBYaWV26g",
+    "genre": "Music",
+    "city": "Chalcis",
+    "country": "Greece",
+    "lat": 38.4623664,
+    "lng": 23.5946877
+  },
+  {
+    "id": "greece-radio-anamnisi-fm-910",
+    "name": "Radio Anamnisi FM 91.0",
+    "url": "https://netradio.live24.gr/radioanamnisi910",
+    "genre": "Music",
+    "city": "Heraklion",
+    "country": "Greece",
+    "lat": 35.33908,
+    "lng": 25.1332843
+  },
+  {
+    "id": "greece-965-fm-stereo",
+    "name": "96.5 FM Stereo",
+    "url": "https://s6.e-resellers.gr/9972/",
+    "genre": "Music",
+    "city": "Chalcis",
+    "country": "Greece",
+    "lat": 38.4623664,
+    "lng": 23.5946877
+  },
+  {
+    "id": "greece-radio-aliveri-1-fm-1022",
+    "name": "Radio Aliveri 1 FM 102.2",
+    "url": "https://radioaliveri.gr/proxy.php",
+    "genre": "Music",
+    "city": "Chalcis",
+    "country": "Greece",
+    "lat": 38.4623664,
+    "lng": 23.5946877
+  },
+  {
+    "id": "greece-alonaki-web-radio",
+    "name": "Alonaki Web Radio",
+    "url": "https://azuralive.streams.ovh/radio/8230/radio.mp3",
+    "genre": "Music",
+    "city": "Chalcis",
+    "country": "Greece",
+    "lat": 38.4623664,
+    "lng": 23.5946877
+  },
+  {
+    "id": "greece-best-radio-947",
+    "name": "Best Radio 94.7",
+    "url": "https://i2.streams.ovh:9470/index.html?sid=1",
+    "genre": "Music",
+    "city": "Heraklion",
+    "country": "Greece",
+    "lat": 35.33908,
+    "lng": 25.1332843
+  },
+  {
+    "id": "greece-1044-fm-radio",
+    "name": "104.4 FM Radio",
+    "url": "https://10440fm.live24.gr/10440fm",
+    "genre": "Music",
+    "city": "Heraklion",
+    "country": "Greece",
+    "lat": 35.33908,
+    "lng": 25.1332843
+  },
+  {
+    "id": "greece-radio-sfakia-fm-968",
+    "name": "Radio Sfakia FM 96.8",
+    "url": "https://ams-pioneer02.dedicateware.com:1215/stream",
+    "genre": "Music",
+    "city": "Heraklion",
+    "country": "Greece",
+    "lat": 35.33908,
+    "lng": 25.1332843
+  },
+  {
+    "id": "greece-live-896",
+    "name": "Live 89.6",
+    "url": "https://netradio.live24.gr/livefm896?.mp3",
+    "genre": "Music",
+    "city": "Chalcis",
+    "country": "Greece",
+    "lat": 38.4623664,
+    "lng": 23.5946877
+  },
+  {
+    "id": "greece-dalkas-fm-882",
+    "name": "Dalkas FM 88.2",
+    "url": "https://n11.radiojar.com/pr9r38w802hvv?rj-ttl=5&rj-tok=AAABm_mfIscAnDZLGExo3Db2XA",
+    "genre": "Music",
+    "city": "Chalcis",
+    "country": "Greece",
+    "lat": 38.4623664,
+    "lng": 23.5946877
+  },
+  {
+    "id": "greece-music-radio-1012-fm",
+    "name": "Music Radio 101.2 FM",
+    "url": "https://s6.e-resellers.gr/8064/stream",
+    "genre": "Music",
+    "city": "Chalcis",
+    "country": "Greece",
+    "lat": 38.4623664,
+    "lng": 23.5946877
+  },
+  {
+    "id": "greece-pride-fm-986",
+    "name": "Pride FM 98.6",
+    "url": "https://politismedia-sec.live24.gr/streameepride",
+    "genre": "Music",
+    "city": "Chalcis",
+    "country": "Greece",
+    "lat": 38.4623664,
+    "lng": 23.5946877
+  },
+  {
+    "id": "greece-radio-thiva-fm-975",
+    "name": "Radio Thiva FM 97.5",
+    "url": "https://streaming.sbzsystems.com/proxy/radiothiva/stream/",
+    "genre": "Music",
+    "city": "Chalcis",
+    "country": "Greece",
+    "lat": 38.4623664,
+    "lng": 23.5946877
+  },
+  {
+    "id": "greece-sok-fm-1048",
+    "name": "SOK FM 104.8",
+    "url": "https://n10.rcs.revma.com/yvcskgf6xxcwv?rj-ttl=5&rj-tok=AAABm_mfJKAAE5r2Ta_8fIdbxQ",
+    "genre": "Music",
+    "city": "Chalcis",
+    "country": "Greece",
+    "lat": 38.4623664,
+    "lng": 23.5946877
+  },
+  {
+    "id": "greece-original-radio-944",
+    "name": "Original Radio 94.4",
+    "url": "http://eco.onestreaming.com:8105/index.html?sid=1",
+    "genre": "Music",
+    "city": "Chania",
+    "country": "Greece",
+    "lat": 35.5120831,
+    "lng": 24.0191544
+  },
+  {
+    "id": "greece-d-code-96,2",
+    "name": "D-Code 96,2",
+    "url": "https://s15.myradiostream.com/:13980/listen.mp3",
+    "genre": "Music",
+    "city": "Chania",
+    "country": "Greece",
+    "lat": 35.5120831,
+    "lng": 24.0191544
+  },
+  {
+    "id": "greece-radiq-happy",
+    "name": "RadIQ Happy",
+    "url": "https://live.radiq.gr/listen/radiq/radio.mp3",
+    "genre": "Music",
+    "city": "Chania",
+    "country": "Greece",
+    "lat": 35.5120831,
+    "lng": 24.0191544
+  },
+  {
+    "id": "greece-erotokritos-879-fm",
+    "name": "Erotokritos 87.9 FM",
+    "url": "http://stream2.proradio.gr:8004/erotokritos",
+    "genre": "Music",
+    "city": "Chania",
+    "country": "Greece",
+    "lat": 35.5120831,
+    "lng": 24.0191544
+  },
+  {
+    "id": "greece-rebetiko-sealabs",
+    "name": "Rebetiko Sealabs",
+    "url": "https://rebetiko.sealabs.net/radio",
+    "genre": "Music",
+    "city": "Chania",
+    "country": "Greece",
+    "lat": 35.5120831,
+    "lng": 24.0191544
+  },
+  {
+    "id": "greece-alpha-989",
+    "name": "Alpha 989",
+    "url": "https://n09.radiojar.com/xcdg6yggzfeuv.mp3?rj-ttl=5&rj-tok=AAABm_mfKokAMcRH5h-ELkqrnQ",
+    "genre": "Music",
+    "city": "Chalcis",
+    "country": "Greece",
+    "lat": 38.4623664,
+    "lng": 23.5946877
+  },
+  {
+    "id": "greece-diktyo-fm-915",
+    "name": "Diktyo FM 91.5",
+    "url": "https://eu1.fastcast4u.com/proxy/diktyofm?mp=/1",
+    "genre": "Music",
+    "city": "Chania",
+    "country": "Greece",
+    "lat": 35.5120831,
+    "lng": 24.0191544
+  },
+  {
+    "id": "greece-ratfm-952",
+    "name": "RatFM 95.2",
+    "url": "https://ratfmstreamer.hmu.gr/listen/ratfm/radio.mp3",
+    "genre": "Music",
+    "city": "Chania",
+    "country": "Greece",
+    "lat": 35.5120831,
+    "lng": 24.0191544
+  },
+  {
+    "id": "greece-easy-fm-932",
+    "name": "Easy FM 93.2",
+    "url": "https://solid48.streamupsolutions.com/proxy/lhlamody?mp=/;type=mp",
+    "genre": "Music",
+    "city": "Chania",
+    "country": "Greece",
+    "lat": 35.5120831,
+    "lng": 24.0191544
+  },
+  {
+    "id": "greece-zarpa-radio-896",
+    "name": "Zarpa Radio 89.6",
+    "url": "https://sh.onweb.gr/8454/stream",
+    "genre": "Music",
+    "city": "Chania",
+    "country": "Greece",
+    "lat": 35.5120831,
+    "lng": 24.0191544
+  },
+  {
+    "id": "greece-adelin-fm-1073",
+    "name": "Adelin FM 107.3",
+    "url": "https://cast.magicstreams.gr/sc/radioadelin/stream",
+    "genre": "Music",
+    "city": "Chania",
+    "country": "Greece",
+    "lat": 35.5120831,
+    "lng": 24.0191544
+  },
+  {
+    "id": "greece-radio-deejay-1045-fm",
+    "name": "Radio DeeJay 104.5 FM",
+    "url": "http://cast3.radiohost.ovh:8008/stream",
+    "genre": "Music",
+    "city": "Volos",
+    "country": "Greece",
+    "lat": 39.3624833,
+    "lng": 22.9401864
+  },
+  {
+    "id": "greece-ert-chania",
+    "name": "ERT Chania",
+    "url": "https://radiostreaming.ert.gr/ert-chania",
+    "genre": "Music",
+    "city": "Chania",
+    "country": "Greece",
+    "lat": 35.5120831,
+    "lng": 24.0191544
+  },
+  {
+    "id": "greece-melody-music-radio",
+    "name": "Melody Music Radio",
+    "url": "https://sp.streams.ovh/8052/stream",
+    "genre": "Music",
+    "city": "Volos",
+    "country": "Greece",
+    "lat": 39.3624833,
+    "lng": 22.9401864
+  },
+  {
+    "id": "greece-blue-heart-1051-fm",
+    "name": "Blue Heart 105.1 FM",
+    "url": "https://streamyourdream.org:8018/melwdos",
+    "genre": "Music",
+    "city": "Volos",
+    "country": "Greece",
+    "lat": 39.3624833,
+    "lng": 22.9401864
+  },
+  {
+    "id": "greece-radio-7-volos",
+    "name": "Radio 7 Volos",
+    "url": "https://azuralive.streams.ovh/radio/8160/radio.mp3",
+    "genre": "Music",
+    "city": "Volos",
+    "country": "Greece",
+    "lat": 39.3624833,
+    "lng": 22.9401864
+  },
+  {
+    "id": "greece-radio69",
+    "name": "Radio69",
+    "url": "https://cast2.radiohost.ovh:2200/proxy/radio69?mp=/stream",
+    "genre": "Music",
+    "city": "Volos",
+    "country": "Greece",
+    "lat": 39.3624833,
+    "lng": 22.9401864
+  },
+  {
+    "id": "greece-radio-pelion-934-fm",
+    "name": "Radio Pelion 93.4 FM",
+    "url": "https://s3.myradiostream.com/:4060/listen.mp3?nocache=1769418919",
+    "genre": "Music",
+    "city": "Volos",
+    "country": "Greece",
+    "lat": 39.3624833,
+    "lng": 22.9401864
+  },
+  {
+    "id": "greece-magic-fm-982",
+    "name": "Magic FM 98.2",
+    "url": "https://magic982.live24.gr/magic982",
+    "genre": "Music",
+    "city": "Chania",
+    "country": "Greece",
+    "lat": 35.5120831,
+    "lng": 24.0191544
+  },
+  {
+    "id": "greece-farsala-radio",
+    "name": "Farsala Radio",
+    "url": "https://ams-pioneer02.dedicateware.com:1955/stream",
+    "genre": "Music",
+    "city": "Volos",
+    "country": "Greece",
+    "lat": 39.3624833,
+    "lng": 22.9401864
+  },
+  {
+    "id": "greece-power-1002-fm",
+    "name": "Power 100.2 FM",
+    "url": "https://sh.onweb.gr/8854/stream.mp3",
+    "genre": "Music",
+    "city": "Volos",
+    "country": "Greece",
+    "lat": 39.3624833,
+    "lng": 22.9401864
+  },
+  {
+    "id": "greece-ert-volos",
+    "name": "ERT Volos",
+    "url": "https://radiostreaming.ert.gr/ert-volos",
+    "genre": "Music",
+    "city": "Volos",
+    "country": "Greece",
+    "lat": 39.3624833,
+    "lng": 22.9401864
+  },
+  {
+    "id": "greece-avanti-983",
+    "name": "Avanti 983",
+    "url": "https://cast4.magicstreams.gr/sc/ctsiotra/stream",
+    "genre": "Music",
+    "city": "Volos",
+    "country": "Greece",
+    "lat": 39.3624833,
+    "lng": 22.9401864
+  },
+  {
+    "id": "greece-olympos-1015-fm",
+    "name": "Olympos 101.5 FM",
+    "url": "https://streamer.stordia.net/listen/olympos/radio.mp3",
+    "genre": "Music",
+    "city": "Volos",
+    "country": "Greece",
+    "lat": 39.3624833,
+    "lng": 22.9401864
+  },
+  {
+    "id": "greece-volos-rtv-879-radio",
+    "name": "Volos RTV 87.9 Radio",
+    "url": "https://ice.streams.ovh:1060/live",
+    "genre": "Music",
+    "city": "Volos",
+    "country": "Greece",
+    "lat": 39.3624833,
+    "lng": 22.9401864
+  },
+  {
+    "id": "greece-epigee-radio",
+    "name": "Epigee Radio",
+    "url": "http://s3.onweb.gr:8540/index.html?sid=1",
+    "genre": "Music",
+    "city": "Marousi",
+    "country": "Greece",
+    "lat": 38.0562402,
+    "lng": 23.804941
+  },
+  {
+    "id": "greece-stylida-fm-941",
+    "name": "Stylida FM 94.1",
+    "url": "https://aphrodite.freespirits.gr:8110/radio.mp3",
+    "genre": "Music",
+    "city": "Volos",
+    "country": "Greece",
+    "lat": 39.3624833,
+    "lng": 22.9401864
+  },
+  {
+    "id": "greece-lampsi-923-fm",
+    "name": "Lampsi 92.3 FM",
+    "url": "https://az11.yesstreaming.net:8140/radio.mp3",
+    "genre": "Music",
+    "city": "Marousi",
+    "country": "Greece",
+    "lat": 38.0562402,
+    "lng": 23.804941
+  },
+  {
+    "id": "greece-nrg-radio-1015",
+    "name": "NRG Radio 101.5",
+    "url": "http://n09.radiojar.com/apb4wybq36duv?rj-ttl=5&rj-tok=AAABm_mfP0gAtuRMa_kV4nI0xw",
+    "genre": "Music",
+    "city": "Ioannina",
+    "country": "Greece",
+    "lat": 39.6639818,
+    "lng": 20.8522784
+  },
+  {
+    "id": "greece-radio-epirus-fm-945",
+    "name": "Radio Epirus FM 94.5",
+    "url": "https://neos.win:59454/stream",
+    "genre": "Music",
+    "city": "Ioannina",
+    "country": "Greece",
+    "lat": 39.6639818,
+    "lng": 20.8522784
+  },
+  {
+    "id": "greece-hroma-882",
+    "name": "Hroma 88.2",
+    "url": "https://metrovolos882.live24.gr/metrovolos882",
+    "genre": "Music",
+    "city": "Volos",
+    "country": "Greece",
+    "lat": 39.3624833,
+    "lng": 22.9401864
+  },
+  {
+    "id": "greece-sky-radio-992-fm",
+    "name": "Sky Radio 99.2 FM",
+    "url": "https://media.skyradio.gr:9920/stream",
+    "genre": "Music",
+    "city": "Ioannina",
+    "country": "Greece",
+    "lat": 39.6639818,
+    "lng": 20.8522784
+  },
+  {
+    "id": "greece-alpo-radio-941-fm",
+    "name": "Alpo Radio 94.1 FM",
+    "url": "https://cp1.sednastream.com/proxy/alporadio/stream",
+    "genre": "Music",
+    "city": "Ioannina",
+    "country": "Greece",
+    "lat": 39.6639818,
+    "lng": 20.8522784
+  },
+  {
+    "id": "greece-radio-meteora",
+    "name": "Radio Meteora",
+    "url": "http://s1.onweb.gr:8834/index.html?sid=1",
+    "genre": "Music",
+    "city": "Ioannina",
+    "country": "Greece",
+    "lat": 39.6639818,
+    "lng": 20.8522784
+  },
+  {
+    "id": "greece-giga-fm-1054",
+    "name": "Giga FM 105.4",
+    "url": "https://s46.myradiostream.com/:7322/index.html?sid=1",
+    "genre": "Music",
+    "city": "Ioannina",
+    "country": "Greece",
+    "lat": 39.6639818,
+    "lng": 20.8522784
+  },
+  {
+    "id": "greece-kiss-929-fm",
+    "name": "Kiss 92.9 FM",
+    "url": "https://kissfm.live24.gr/kissfmathens",
+    "genre": "Music",
+    "city": "Marousi",
+    "country": "Greece",
+    "lat": 38.0562402,
+    "lng": 23.804941
+  },
+  {
+    "id": "greece-menta-fm-88",
+    "name": "Menta FM 88",
+    "url": "https://netradio.live24.gr/menta88ath",
+    "genre": "Music",
+    "city": "Marousi",
+    "country": "Greece",
+    "lat": 38.0562402,
+    "lng": 23.804941
+  },
+  {
+    "id": "greece-ert-ioannina",
+    "name": "ERT Ioannina",
+    "url": "https://radiostreaming.ert.gr/ert-ioannina",
+    "genre": "Music",
+    "city": "Ioannina",
+    "country": "Greece",
+    "lat": 39.6639818,
+    "lng": 20.8522784
+  },
+  {
+    "id": "greece-art-fm-1031",
+    "name": "Art FM 103.1",
+    "url": "https://i2.streams.ovh:2200/ssl/artfm?mp=/stream",
+    "genre": "Music",
+    "city": "Ioannina",
+    "country": "Greece",
+    "lat": 39.6639818,
+    "lng": 20.8522784
+  },
+  {
+    "id": "greece-radio-stournareika-955-fm",
+    "name": "Radio Stournareika 95.5 FM",
+    "url": "https://i8.streams.ovh:18051/stream",
+    "genre": "Music",
+    "city": "Ioannina",
+    "country": "Greece",
+    "lat": 39.6639818,
+    "lng": 20.8522784
+  },
+  {
+    "id": "greece-azimouthio-yachting-radio",
+    "name": "Azimouthio Yachting Radio",
+    "url": "https://s41.myradiostream.com:27586/listen.mp3?nocache=1769418922",
+    "genre": "Music",
+    "city": "Piraeus",
+    "country": "Greece",
+    "lat": 37.9431594,
+    "lng": 23.6470593
+  },
+  {
+    "id": "greece-ngradiogr",
+    "name": "NGradio.gr",
+    "url": "https://rdst.win:59178/",
+    "genre": "Music",
+    "city": "Piraeus",
+    "country": "Greece",
+    "lat": 37.9431594,
+    "lng": 23.6470593
+  },
+  {
+    "id": "greece-paradosiakos-1066-fm",
+    "name": "Paradosiakos 106.6 FM",
+    "url": "http://sp2.streams.ovh:8104/stream/",
+    "genre": "Music",
+    "city": "Larissa",
+    "country": "Greece",
+    "lat": 39.6383092,
+    "lng": 22.4160706
+  },
+  {
+    "id": "greece-hit-889",
+    "name": "Hit 88.9",
+    "url": "https://n15.rcs.revma.com/r0yaerez1duvv?rj-ttl=5&rj-tok=AAABm_mfRVcAom4IlwpALORZCQ",
+    "genre": "Music",
+    "city": "Marousi",
+    "country": "Greece",
+    "lat": 38.0562402,
+    "lng": 23.804941
+  },
+  {
+    "id": "greece-4u-radio-fm-931",
+    "name": "4U Radio FM 93.1",
+    "url": "https://netradio.live24.gr/4uradio931",
+    "genre": "Music",
+    "city": "Ioannina",
+    "country": "Greece",
+    "lat": 39.6639818,
+    "lng": 20.8522784
+  },
+  {
+    "id": "greece-red-fm-963",
+    "name": "Red FM 96.3",
+    "url": "https://n09.rcs.revma.com/e4d84zez1duvv?rj-ttl=5&rj-tok=AAABm_mfR2gAdW4NL1lhSRxbhA",
+    "genre": "Music",
+    "city": "Marousi",
+    "country": "Greece",
+    "lat": 38.0562402,
+    "lng": 23.804941
+  },
+  {
+    "id": "greece-kanali-ena-fm-904",
+    "name": "Kanali Ena FM 90.4",
+    "url": "https://netradio.live24.gr/kanali1peiraia",
+    "genre": "Music",
+    "city": "Piraeus",
+    "country": "Greece",
+    "lat": 37.9431594,
+    "lng": 23.6470593
+  },
+  {
+    "id": "greece-happy-104-fm",
+    "name": "Happy 104 FM",
+    "url": "https://ath10400fm-radioplayer.live24.gr/ath10400fm",
+    "genre": "Music",
+    "city": "Piraeus",
+    "country": "Greece",
+    "lat": 37.9431594,
+    "lng": 23.6470593
+  },
+  {
+    "id": "greece-nrg-91",
+    "name": "NRG 91",
+    "url": "https://sh.onweb.gr:7129/index.html?sid=1",
+    "genre": "Music",
+    "city": "Larissa",
+    "country": "Greece",
+    "lat": 39.6383092,
+    "lng": 22.4160706
+  },
+  {
+    "id": "greece-parapolitika-fm-901",
+    "name": "Parapolitika FM 90.1",
+    "url": "https://netradio.live24.gr/athinaradio",
+    "genre": "Music",
+    "city": "Piraeus",
+    "country": "Greece",
+    "lat": 37.9431594,
+    "lng": 23.6470593
+  },
+  {
+    "id": "greece-galilea-radio",
+    "name": "Galilea Radio",
+    "url": "https://sh.onweb.gr/8446/stream",
+    "genre": "Music",
+    "city": "Larissa",
+    "country": "Greece",
+    "lat": 39.6383092,
+    "lng": 22.4160706
+  },
+  {
+    "id": "greece-omorfi-poli-899-fm",
+    "name": "Omorfi Poli 89.9 FM",
+    "url": "http://radio.streamings.gr:8103/stream",
+    "genre": "Music",
+    "city": "Xanthi",
+    "country": "Greece",
+    "lat": 41.13805,
+    "lng": 24.8864089
+  },
+  {
+    "id": "greece-melodia-fm-1068",
+    "name": "Melodia FM 106.8",
+    "url": "https://eu5.fastcast4u.com/proxy/melodia?mp=/1",
+    "genre": "Music",
+    "city": "Larissa",
+    "country": "Greece",
+    "lat": 39.6383092,
+    "lng": 22.4160706
+  },
+  {
+    "id": "greece-chanove",
+    "name": "Chanove",
+    "url": "http://radio.chanove.com:8000/stream",
+    "genre": "Music",
+    "city": "Xanthi",
+    "country": "Greece",
+    "lat": 41.13805,
+    "lng": 24.8864089
+  },
+  {
+    "id": "greece-skairadio-fm-1003",
+    "name": "Skairadio FM 100.3",
+    "url": "https://skai.live24.gr/skai1003",
+    "genre": "Music",
+    "city": "Piraeus",
+    "country": "Greece",
+    "lat": 37.9431594,
+    "lng": 23.6470593
+  },
+  {
+    "id": "greece-ert-larisa",
+    "name": "ERT Larisa",
+    "url": "https://radiostreaming.ert.gr/ert-larisa",
+    "genre": "Music",
+    "city": "Larissa",
+    "country": "Greece",
+    "lat": 39.6383092,
+    "lng": 22.4160706
+  },
+  {
+    "id": "greece-metronom-fm-876",
+    "name": "Metronom FM 87.6",
+    "url": "https://radiometronom.com:8443/",
+    "genre": "Music",
+    "city": "Xanthi",
+    "country": "Greece",
+    "lat": 41.13805,
+    "lng": 24.8864089
+  },
+  {
+    "id": "greece-more-fm-1039-alexandroupoli",
+    "name": "More FM 103.9 Alexandroupoli",
+    "url": "http://37.139.5.45:8000/more",
+    "genre": "Music",
+    "city": "Alexandroupoli",
+    "country": "Greece",
+    "lat": 40.845666,
+    "lng": 25.8778814
+  },
+  {
+    "id": "greece-ellinikos-fm",
+    "name": "Ellinikos FM",
+    "url": "http://live.ellinikos.gr:8010/903.mp3",
+    "genre": "Music",
+    "city": "Alexandroupoli",
+    "country": "Greece",
+    "lat": 40.845666,
+    "lng": 25.8778814
+  },
+  {
+    "id": "greece-nrg-985",
+    "name": "NRG 98.5",
+    "url": "https://eco.onestreaming.com/proxy/nrg985ice/stream",
+    "genre": "Music",
+    "city": "Xanthi",
+    "country": "Greece",
+    "lat": 41.13805,
+    "lng": 24.8864089
+  },
+  {
+    "id": "greece-glenti-fm-1011",
+    "name": "Glenti FM 101.1",
+    "url": "https://onairmediagroup.live24.gr/glenti1011xanthi",
+    "genre": "Music",
+    "city": "Xanthi",
+    "country": "Greece",
+    "lat": 41.13805,
+    "lng": 24.8864089
+  },
+  {
+    "id": "greece-heat-radio-883-fm",
+    "name": "Heat Radio 88.3 FM",
+    "url": "https://solid67.streamupsolutions.com/proxy/qrynsxmv?mp=/stream",
+    "genre": "Music",
+    "city": "Alexandroupoli",
+    "country": "Greece",
+    "lat": 40.845666,
+    "lng": 25.8778814
+  },
+  {
+    "id": "greece-nova-radio",
+    "name": "Nova Radio",
+    "url": "https://stream-mp3aac.live24.gr/nova931",
+    "genre": "Music",
+    "city": "Xanthi",
+    "country": "Greece",
+    "lat": 41.13805,
+    "lng": 24.8864089
+  },
+  {
+    "id": "greece-ράδιο-αλέξιος-κομνηνός-1058-fm",
+    "name": "Ράδιο Αλέξιος Κομνηνός 105.8 FM",
+    "url": "http://eco.onestreaming.com:8027/index.html",
+    "genre": "Music",
+    "city": "Alexandroupoli",
+    "country": "Greece",
+    "lat": 40.845666,
+    "lng": 25.8778814
+  },
+  {
+    "id": "greece-you-radio-987",
+    "name": "You Radio 98.7",
+    "url": "https://eco.onestreaming.com/proxy/youradio/stream",
+    "genre": "Music",
+    "city": "Alexandroupoli",
+    "country": "Greece",
+    "lat": 40.845666,
+    "lng": 25.8778814
+  },
+  {
+    "id": "greece-xraydio-2",
+    "name": "XRaydio 2",
+    "url": "https://xraydio.ddns.net/jukebox",
+    "genre": "Music",
+    "city": "Xanthi",
+    "country": "Greece",
+    "lat": 41.13805,
+    "lng": 24.8864089
+  },
+  {
+    "id": "greece-paradise-radio-903",
+    "name": "Paradise Radio 90.3",
+    "url": "https://stream-mp3aac.live24.gr/paradise903?.mp3",
+    "genre": "Music",
+    "city": "Xanthi",
+    "country": "Greece",
+    "lat": 41.13805,
+    "lng": 24.8864089
+  },
+  {
+    "id": "greece-xanthi-radio-deejay",
+    "name": "Xanthi Radio Deejay",
+    "url": "https://onairmediagroup.live24.gr/radiodeejay946xanthi",
+    "genre": "Music",
+    "city": "Xanthi",
+    "country": "Greece",
+    "lat": 41.13805,
+    "lng": 24.8864089
+  },
+  {
+    "id": "greece-rythmos-106-fm",
+    "name": "Rythmos 106 FM",
+    "url": "https://onairmediagroup.live24.gr/rythmos106xanthi",
+    "genre": "Music",
+    "city": "Xanthi",
+    "country": "Greece",
+    "lat": 41.13805,
+    "lng": 24.8864089
+  },
+  {
+    "id": "greece-thraki-fm-998",
+    "name": "Thraki FM 99.8",
+    "url": "https://eco.onestreaming.com/proxy/thrakifm/stream",
+    "genre": "Music",
+    "city": "Alexandroupoli",
+    "country": "Greece",
+    "lat": 40.845666,
+    "lng": 25.8778814
+  },
+  {
+    "id": "greece-radio-scene",
+    "name": "Radio Scene",
+    "url": "https://servidor29-1.brlogic.com:7024/live",
+    "genre": "Music",
+    "city": "Piraeus",
+    "country": "Greece",
+    "lat": 37.9431594,
+    "lng": 23.6470593
+  },
+  {
+    "id": "greece-υπάρχω-fm-1014",
+    "name": "Υπάρχω FM 101.4",
+    "url": "https://cast4.magicstreams.gr:2200/ssl/sc_gr40c?mp=/stream",
+    "genre": "Music",
+    "city": "Alexandroupoli",
+    "country": "Greece",
+    "lat": 40.845666,
+    "lng": 25.8778814
+  },
+  {
+    "id": "greece-hit-radio",
+    "name": "HIT Radio",
+    "url": "http://solid2.streamupsolutions.com:24952/stream",
+    "genre": "Music",
+    "city": "Kozani",
+    "country": "Greece",
+    "lat": 40.3007259,
+    "lng": 21.7883119
+  },
+  {
+    "id": "greece-life-1063",
+    "name": "Life 106.3",
+    "url": "http://cast.streams.ovh:9130/live",
+    "genre": "Music",
+    "city": "Kozani",
+    "country": "Greece",
+    "lat": 40.3007259,
+    "lng": 21.7883119
+  },
+  {
+    "id": "greece-ulusal-radyo-1008-fm",
+    "name": "Ulusal Radyo 100.8 FM",
+    "url": "https://radyo.ulusalkanal.net.tr/9302/stream/",
+    "genre": "Music",
+    "city": "Alexandroupoli",
+    "country": "Greece",
+    "lat": 40.845666,
+    "lng": 25.8778814
+  },
+  {
+    "id": "greece-alpha-radio-fm-886",
+    "name": "Alpha Radio FM 88.6",
+    "url": "http://proradio.gr:8004/alpharadio",
+    "genre": "Music",
+    "city": "Kavala",
+    "country": "Greece",
+    "lat": 40.9369224,
+    "lng": 24.4122766
+  },
+  {
+    "id": "greece-ράδιο-πρωινή-937-fm",
+    "name": "Ράδιο Πρωινή 93.7 FM",
+    "url": "http://62.103.31.151:8000/stream",
+    "genre": "Music",
+    "city": "Kavala",
+    "country": "Greece",
+    "lat": 40.9369224,
+    "lng": 24.4122766
+  },
+  {
+    "id": "greece-metro-fm-978",
+    "name": "Metro FM 97.8",
+    "url": "https://onairmediagroup.live24.gr/metrofm978xanthi",
+    "genre": "Music",
+    "city": "Alexandroupoli",
+    "country": "Greece",
+    "lat": 40.845666,
+    "lng": 25.8778814
+  },
+  {
+    "id": "greece-siera-fm-1053",
+    "name": "Siera FM 105.3",
+    "url": "https://radio.sierafm.gr:55469/Sierafm",
+    "genre": "Music",
+    "city": "Kozani",
+    "country": "Greece",
+    "lat": 40.3007259,
+    "lng": 21.7883119
+  },
+  {
+    "id": "greece-alfa-radio-96fm",
+    "name": "Alfa Radio 96FM",
+    "url": "https://sh.onweb.gr/8624/",
+    "genre": "Music",
+    "city": "Kavala",
+    "country": "Greece",
+    "lat": 40.9369224,
+    "lng": 24.4122766
+  },
+  {
+    "id": "greece-radio-vega-sandanski",
+    "name": "Radio Vega Sandanski",
+    "url": "http://stream.teracomm.bg:8000/vega_b.mp3",
+    "genre": "Music",
+    "city": "Kavala",
+    "country": "Greece",
+    "lat": 40.9369224,
+    "lng": 24.4122766
+  },
+  {
+    "id": "greece-kavalanews-102,8",
+    "name": "KavalaNews 102,8",
+    "url": "https://sp3.streams.ovh/8052/stream",
+    "genre": "Music",
+    "city": "Kavala",
+    "country": "Greece",
+    "lat": 40.9369224,
+    "lng": 24.4122766
+  },
+  {
+    "id": "greece-ert-orestiada",
+    "name": "ERT Orestiada",
+    "url": "https://radiostreaming.ert.gr/ert-orestiada",
+    "genre": "Music",
+    "city": "Alexandroupoli",
+    "country": "Greece",
+    "lat": 40.845666,
+    "lng": 25.8778814
+  },
+  {
+    "id": "greece-obshtinsko-radio-chepelare",
+    "name": "Obshtinsko Radio Chepelare",
+    "url": "http://94.26.108.242:9000/;stream",
+    "genre": "Music",
+    "city": "Kavala",
+    "country": "Greece",
+    "lat": 40.9369224,
+    "lng": 24.4122766
+  },
+  {
+    "id": "greece-radio-parousia-1037-fm",
+    "name": "Radio Parousia 103.7 FM",
+    "url": "https://stream.myip.gr/proxy/mitropol/stream",
+    "genre": "Music",
+    "city": "Kavala",
+    "country": "Greece",
+    "lat": 40.9369224,
+    "lng": 24.4122766
+  },
+  {
+    "id": "greece-ert-kozani",
+    "name": "ERT Kozani",
+    "url": "https://radiostreaming.ert.gr/ert-kozani",
+    "genre": "Music",
+    "city": "Kozani",
+    "country": "Greece",
+    "lat": 40.3007259,
+    "lng": 21.7883119
+  },
+  {
+    "id": "greece-alithia-fm-963",
+    "name": "Alithia FM 96.3",
+    "url": "http://sc2.streamwithq.com:8070/;stream/1",
+    "genre": "Music",
+    "city": "Rhodes",
+    "country": "Greece",
+    "lat": 36.1725297,
+    "lng": 27.9194016
+  },
+  {
+    "id": "greece-ert-florina",
+    "name": "ERT Florina",
+    "url": "https://radiostreaming.ert.gr/ert-florina",
+    "genre": "Music",
+    "city": "Kozani",
+    "country": "Greece",
+    "lat": 40.3007259,
+    "lng": 21.7883119
+  },
+  {
+    "id": "greece-escapula-student-radio-|-rhodes-|-university-of-the-aegean",
+    "name": "Escapula Student Radio | Rhodes | University of the Aegean",
+    "url": "http://radio.myaegean.gr:8000/escapula.mp3",
+    "genre": "Music",
+    "city": "Rhodes",
+    "country": "Greece",
+    "lat": 36.1725297,
+    "lng": 27.9194016
+  },
+  {
+    "id": "greece-radio-makedonissa-1064-fm",
+    "name": "Radio Makedonissa 106.4 FM",
+    "url": "https://netradio.live24.gr/makedonissa1064",
+    "genre": "Music",
+    "city": "Kavala",
+    "country": "Greece",
+    "lat": 40.9369224,
+    "lng": 24.4122766
+  },
+  {
+    "id": "greece-feel-good-radio-1049-fm",
+    "name": "Feel Good Radio 104.9 FM",
+    "url": "https://feelgood.radioca.st/stream",
+    "genre": "Music",
+    "city": "Rhodes",
+    "country": "Greece",
+    "lat": 36.1725297,
+    "lng": 27.9194016
+  },
+  {
+    "id": "greece-real-voice-995",
+    "name": "Real Voice 995",
+    "url": "https://radio.streamings.gr/proxy/realvoice995?mp=/stream",
+    "genre": "Music",
+    "city": "Rhodes",
+    "country": "Greece",
+    "lat": 36.1725297,
+    "lng": 27.9194016
+  },
+  {
+    "id": "greece-radio-proto-fm-915",
+    "name": "Radio Proto FM 91.5",
+    "url": "https://centova.gr-net.gr/proxy/radiokos/stream",
+    "genre": "Music",
+    "city": "Rhodes",
+    "country": "Greece",
+    "lat": 36.1725297,
+    "lng": 27.9194016
+  },
+  {
+    "id": "greece-aydın-flaş-radyo-884",
+    "name": "Aydın Flaş Radyo 88.4",
+    "url": "https://radyo.yayindakiler.com:4096/stream",
+    "genre": "Music",
+    "city": "Rhodes",
+    "country": "Greece",
+    "lat": 36.1725297,
+    "lng": 27.9194016
+  },
+  {
+    "id": "greece-ert-notio-aigaio",
+    "name": "ERT Notio Aigaio",
+    "url": "https://radiostreaming.ert.gr/ert-rodos",
+    "genre": "Music",
+    "city": "Rhodes",
+    "country": "Greece",
+    "lat": 36.1725297,
+    "lng": 27.9194016
+  },
+  {
+    "id": "greece-diavlos-fm-924",
+    "name": "Diavlos FM 92.4",
+    "url": "https://eco.onestreaming.com/proxy/diavlosrodopis/stream",
+    "genre": "Music",
+    "city": "Komotini",
+    "country": "Greece",
+    "lat": 41.1182,
+    "lng": 25.4035708
+  },
+  {
+    "id": "greece-rodon-95-fm",
+    "name": "Rodon 95 FM",
+    "url": "http://live3.istoikona.net:8324/stream/",
+    "genre": "Music",
+    "city": "Serres",
+    "country": "Greece",
+    "lat": 41.0910711,
+    "lng": 23.5498031
+  },
+  {
+    "id": "greece-sokolata-1024-fm",
+    "name": "Sokolata 102.4 FM",
+    "url": "http://radio.streamings.gr:8043/stream",
+    "genre": "Music",
+    "city": "Serres",
+    "country": "Greece",
+    "lat": 41.0910711,
+    "lng": 23.5498031
+  },
+  {
+    "id": "greece-rodopi-radio-955",
+    "name": "Rodopi Radio 95.5",
+    "url": "https://solid2.streamupsolutions.com/proxy/yawmzklx?mp=%2Fstream",
+    "genre": "Music",
+    "city": "Komotini",
+    "country": "Greece",
+    "lat": 41.1182,
+    "lng": 25.4035708
+  },
+  {
+    "id": "greece-bodrum-fm-1017",
+    "name": "Bodrum FM 101.7",
+    "url": "https://live.bodrumfm.org/stream.mp3",
+    "genre": "Music",
+    "city": "Rhodes",
+    "country": "Greece",
+    "lat": 36.1725297,
+    "lng": 27.9194016
+  },
+  {
+    "id": "greece-rythmos-945-fm",
+    "name": "Rythmos 94.5 FM",
+    "url": "https://netradio.live24.gr/rythmos945rodos",
+    "genre": "Music",
+    "city": "Rhodes",
+    "country": "Greece",
+    "lat": 36.1725297,
+    "lng": 27.9194016
+  },
+  {
+    "id": "greece-radyo-city-1076-fm",
+    "name": "Radyo City 107.6 FM",
+    "url": "https://anadolu.liderhost.com.tr/9998/stream:9998/;stream.mp3",
+    "genre": "Music",
+    "city": "Komotini",
+    "country": "Greece",
+    "lat": 41.1182,
+    "lng": 25.4035708
+  },
+  {
+    "id": "greece-en-plo-892",
+    "name": "En Plo 89.2",
+    "url": "http://51.38.125.141:1070/enplofm",
+    "genre": "Music",
+    "city": "Arta",
+    "country": "Greece",
+    "lat": 39.1613205,
+    "lng": 20.986264
+  },
+  {
+    "id": "greece-power-fm-923",
+    "name": "Power FM 92.3",
+    "url": "https://neos.win:59230/stream",
+    "genre": "Music",
+    "city": "Arta",
+    "country": "Greece",
+    "lat": 39.1613205,
+    "lng": 20.986264
+  },
+  {
+    "id": "greece-xraydio-1",
+    "name": "XRaydio 1",
+    "url": "https://xraydio.ddns.net/live",
+    "genre": "Music",
+    "city": "Komotini",
+    "country": "Greece",
+    "lat": 41.1182,
+    "lng": 25.4035708
+  },
+  {
+    "id": "greece-kocmoc",
+    "name": "KOCMOC",
+    "url": "https://live.kocmoc.cc/listen/kocmoc-1/stream",
+    "genre": "Music",
+    "city": "Serres",
+    "country": "Greece",
+    "lat": 41.0910711,
+    "lng": 23.5498031
+  },
+  {
+    "id": "greece-live-fm-978",
+    "name": "Live FM 97.8",
+    "url": "http://s2.e-resellers.gr:9966/stream",
+    "genre": "Music",
+    "city": "Arta",
+    "country": "Greece",
+    "lat": 39.1613205,
+    "lng": 20.986264
+  },
+  {
+    "id": "greece-ert-komotini",
+    "name": "ERT Komotini",
+    "url": "https://radiostreaming.ert.gr/ert-komotini",
+    "genre": "Music",
+    "city": "Komotini",
+    "country": "Greece",
+    "lat": 41.1182,
+    "lng": 25.4035708
+  },
+  {
+    "id": "greece-ιερά-μητρόπολις-άρτης-1066-fm",
+    "name": "Ιερά Μητρόπολις Άρτης 106.6 FM",
+    "url": "https://i.streams.ovh/sc/imartis/stream",
+    "genre": "Music",
+    "city": "Arta",
+    "country": "Greece",
+    "lat": 39.1613205,
+    "lng": 20.986264
+  },
+  {
+    "id": "greece-melodia-artas-fm-1011",
+    "name": "Melodia Artas FM 101.1",
+    "url": "https://s14.myradiostream.com/:11840/index.html?sid=1",
+    "genre": "Music",
+    "city": "Arta",
+    "country": "Greece",
+    "lat": 39.1613205,
+    "lng": 20.986264
+  },
+  {
+    "id": "greece-ert-serres",
+    "name": "ERT Serres",
+    "url": "https://radiostreaming.ert.gr/ert-serres",
+    "genre": "Music",
+    "city": "Serres",
+    "country": "Greece",
+    "lat": 41.0910711,
+    "lng": 23.5498031
+  },
+  {
+    "id": "greece-seven-news-944fm",
+    "name": "Seven News 94.4FM",
+    "url": "https://i5.streams.ovh:14030/live",
+    "genre": "Music",
+    "city": "Kavala",
+    "country": "Greece",
+    "lat": 40.9369224,
+    "lng": 24.4122766
+  },
+  {
+    "id": "greece-amvrakia-fm-919",
+    "name": "Amvrakia FM 91.9",
+    "url": "https://ice.streams.ovh:1195/stream",
+    "genre": "Music",
+    "city": "Arta",
+    "country": "Greece",
+    "lat": 39.1613205,
+    "lng": 20.986264
+  }
+]

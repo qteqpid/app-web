@@ -1,0 +1,952 @@
+[
+  {
+    "id": "saudi-best-on-top-radio",
+    "name": "Best On Top Radio",
+    "url": "http://198.7.62.157:10008/stream",
+    "genre": "Music",
+    "city": "Riyadh",
+    "country": "Saudi Arabia",
+    "lat": 23.333333,
+    "lng": 45.333333
+  },
+  {
+    "id": "saudi-radio-hof-eilat",
+    "name": "Radio Hof Eilat",
+    "url": "https://ec1.yesstreaming.net:3815/stream",
+    "genre": "Music",
+    "city": "Jeddah",
+    "country": "Saudi Arabia",
+    "lat": 21.5504432,
+    "lng": 39.1742363
+  },
+  {
+    "id": "saudi-times-square-radio-1025-fm",
+    "name": "Times Square Radio 102.5 FM",
+    "url": "https://edge.mixlr.com/channel/slpyo",
+    "genre": "Music",
+    "city": "Riyadh",
+    "country": "Saudi Arabia",
+    "lat": 23.333333,
+    "lng": 45.333333
+  },
+  {
+    "id": "saudi-alif-alif-fm",
+    "name": "Alif Alif FM",
+    "url": "https://alifalifjobs.com/radio/8000/AlifAlifLive.mp3",
+    "genre": "Music",
+    "city": "Riyadh",
+    "country": "Saudi Arabia",
+    "lat": 23.333333,
+    "lng": 45.333333
+  },
+  {
+    "id": "saudi-radio-asharq-with-bloomberg",
+    "name": "Radio Asharq with Bloomberg",
+    "url": "https://l3.itworkscdn.net/asharqradioalive/asharqradioa/icecast.audio",
+    "genre": "Music",
+    "city": "Riyadh",
+    "country": "Saudi Arabia",
+    "lat": 23.333333,
+    "lng": 45.333333
+  },
+  {
+    "id": "saudi-aywa-fm",
+    "name": "Aywa FM",
+    "url": "https://cast4.asurahosting.com/proxy/aywafm/stream",
+    "genre": "Music",
+    "city": "Mecca",
+    "country": "Saudi Arabia",
+    "lat": 21.420847,
+    "lng": 39.826869
+  },
+  {
+    "id": "saudi-sudan-hope-radio",
+    "name": "Sudan Hope Radio",
+    "url": "https://a1.asurahosting.com/listen/hope_radio_/radio.mp3",
+    "genre": "Music",
+    "city": "Jeddah",
+    "country": "Saudi Arabia",
+    "lat": 21.5504432,
+    "lng": 39.1742363
+  },
+  {
+    "id": "saudi-voice-of-ummah",
+    "name": "Voice of Ummah",
+    "url": "https://mediati.me/radio/8010/radio.mp3",
+    "genre": "Music",
+    "city": "Riyadh",
+    "country": "Saudi Arabia",
+    "lat": 23.333333,
+    "lng": 45.333333
+  },
+  {
+    "id": "saudi-miraath-al-anbiyya",
+    "name": "Miraath Al Anbiyya",
+    "url": "https://radio.al7eah.net/8010/stream",
+    "genre": "Music",
+    "city": "Riyadh",
+    "country": "Saudi Arabia",
+    "lat": 23.333333,
+    "lng": 45.333333
+  },
+  {
+    "id": "saudi-radio-sunna",
+    "name": "Radio Sunna",
+    "url": "http://andromeda.shoutca.st:8189/stream",
+    "genre": "Music",
+    "city": "Riyadh",
+    "country": "Saudi Arabia",
+    "lat": 23.333333,
+    "lng": 45.333333
+  },
+  {
+    "id": "saudi-mareb-radio-895-fm",
+    "name": "Mareb Radio 89.5 FM",
+    "url": "https://radio.al7eah.net/8034/stream",
+    "genre": "Music",
+    "city": "Mecca",
+    "country": "Saudi Arabia",
+    "lat": 21.420847,
+    "lng": 39.826869
+  },
+  {
+    "id": "saudi-live-fm-1072",
+    "name": "Live FM 107.2",
+    "url": "https://stream-14.aiir.com/dbv0rxpwp6ytv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJkYnYwcnhwd3A2eXR2IiwiaG9zdCI6InN0cmVhbS0xNC5haWlyLmNvbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiM0dVa0hIN2FUR092ejB4OTk4OXpVUSIsImlhdCI6MTc2OTQyMjY3NiwiZXhwIjoxNzY5NDIyNzM2fQ.bIBNd1_iQZVfdYHbJZJ6EmoJ2ycEYTbQcvG_bmfRLVc",
+    "genre": "Music",
+    "city": "Riyadh",
+    "country": "Saudi Arabia",
+    "lat": 23.333333,
+    "lng": 45.333333
+  },
+  {
+    "id": "saudi-radio-ufm-900",
+    "name": "Radio UFM 90.0",
+    "url": "https://stream.ufmradio.com:8003/",
+    "genre": "Music",
+    "city": "Riyadh",
+    "country": "Saudi Arabia",
+    "lat": 23.333333,
+    "lng": 45.333333
+  },
+  {
+    "id": "saudi-۩-السيادة-۩",
+    "name": "۩ السيادة ۩",
+    "url": "https://tijaniyyah.asuscomm.com:8000/stream/6/",
+    "genre": "Music",
+    "city": "Jeddah",
+    "country": "Saudi Arabia",
+    "lat": 21.5504432,
+    "lng": 39.1742363
+  },
+  {
+    "id": "saudi-❦-أهل-الصفا-❦-clubhouse",
+    "name": "❦ أهل الصفا ❦ Clubhouse",
+    "url": "https://tijaniyyah.asuscomm.com:8000/stream/4/",
+    "genre": "Music",
+    "city": "Mecca",
+    "country": "Saudi Arabia",
+    "lat": 21.420847,
+    "lng": 39.826869
+  },
+  {
+    "id": "saudi-sauti-ya-pwani-fm-942",
+    "name": "Sauti Ya Pwani FM 94.2",
+    "url": "https://sapircast.caster.fm:15853/QtKG2",
+    "genre": "Music",
+    "city": "Mombasa",
+    "country": "Kenya",
+    "lat": -4.05052,
+    "lng": 39.667169
+  },
+  {
+    "id": "saudi-mdlbeast-radio",
+    "name": "MDLBeast Radio",
+    "url": "https://n08.rcs.revma.com/4ygprgzk0a3vv?rj-ttl=5&rj-tok=AAABm_nYjz0AxuCuqDHMg6qtBg",
+    "genre": "Music",
+    "city": "Riyadh",
+    "country": "Saudi Arabia",
+    "lat": 23.333333,
+    "lng": 45.333333
+  },
+  {
+    "id": "saudi-radio-rahma-fm-915",
+    "name": "Radio Rahma FM 91.5",
+    "url": "https://stream-153.zeno.fm/2rhabq5yc5zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIycmhhYnE1eWM1enV2IiwiaG9zdCI6InN0cmVhbS0xNTMuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiR2M5SGRDa3FST1dNRVFQaTdjMlhlUSIsImlhdCI6MTc2OTQyMjY3OCwiZXhwIjoxNzY5NDIyNzM4fQ.Ml0iY03Sm6Ercft0pF-ynEdJp9pbI1Q5xzCtcLqeuEw",
+    "genre": "Music",
+    "city": "Mombasa",
+    "country": "Kenya",
+    "lat": -4.05052,
+    "lng": 39.667169
+  },
+  {
+    "id": "saudi-sifa-fm-voi-1077",
+    "name": "Sifa FM Voi 107.7",
+    "url": "https://audio-edge-fvq45.ams.d.radiomast.io/55362b64-fae9-4901-af1f-2a5912e27073",
+    "genre": "Music",
+    "city": "Mombasa",
+    "country": "Kenya",
+    "lat": -4.05052,
+    "lng": 39.667169
+  },
+  {
+    "id": "saudi-hope-fm-933",
+    "name": "Hope FM 93.3",
+    "url": "https://a5.asurahosting.com:7530/radio.mp3",
+    "genre": "Music",
+    "city": "Mombasa",
+    "country": "Kenya",
+    "lat": -4.05052,
+    "lng": 39.667169
+  },
+  {
+    "id": "saudi-radio-kaya-fm-931",
+    "name": "Radio Kaya FM 93.1",
+    "url": "https://usa9-vn.mixstream.net/:8084/index.html?sid=1",
+    "genre": "Music",
+    "city": "Mombasa",
+    "country": "Kenya",
+    "lat": -4.05052,
+    "lng": 39.667169
+  },
+  {
+    "id": "saudi-shalom-radio-fm-973",
+    "name": "Shalom Radio FM 97.3",
+    "url": "https://uk3-vn.mixstream.net/:8144/listen.mp3",
+    "genre": "Music",
+    "city": "Mombasa",
+    "country": "Kenya",
+    "lat": -4.05052,
+    "lng": 39.667169
+  },
+  {
+    "id": "saudi-nrg-radio-971-fm",
+    "name": "NRG Radio 97.1 FM",
+    "url": "https://uksouth.streaming.broadcast.radio/nrg",
+    "genre": "Music",
+    "city": "Mombasa",
+    "country": "Kenya",
+    "lat": -4.05052,
+    "lng": 39.667169
+  },
+  {
+    "id": "saudi-mjini-fm-925",
+    "name": "Mjini FM 92.5",
+    "url": "http://196.200.227.154:8000/mjinifm.mp3",
+    "genre": "Music",
+    "city": "Dar es Salaam",
+    "country": "Tanzania",
+    "lat": -6.8160837,
+    "lng": 39.2803583
+  },
+  {
+    "id": "saudi-radio-kaya-fm-913",
+    "name": "Radio Kaya FM 91.3",
+    "url": "https://usa9-vn.mixstream.net/:8084/listen.mp3",
+    "genre": "Music",
+    "city": "Mombasa",
+    "country": "Kenya",
+    "lat": -4.05052,
+    "lng": 39.667169
+  },
+  {
+    "id": "saudi-boresha-radio",
+    "name": "Boresha Radio",
+    "url": "https://halo.streamerr.co/listen/radio_boresha/radio.mp3",
+    "genre": "Music",
+    "city": "Dar es Salaam",
+    "country": "Tanzania",
+    "lat": -6.8160837,
+    "lng": 39.2803583
+  },
+  {
+    "id": "saudi-coco-fm-radio-989",
+    "name": "Coco FM Radio 98.9",
+    "url": "https://stream-146.zeno.fm/ki2jypviprwuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJraTJqeXB2aXByd3V2IiwiaG9zdCI6InN0cmVhbS0xNDYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoidGxRcFQ5ZlpTa1dXeU1Oa2hZaGI3dyIsImlhdCI6MTc2OTQyMjY3OSwiZXhwIjoxNzY5NDIyNzM5fQ.RrSisWA7-uT_tiNW2WpDsYehh7gUolNXK0ncv-YgFJQ",
+    "genre": "Music",
+    "city": "Mombasa",
+    "country": "Kenya",
+    "lat": -4.05052,
+    "lng": 39.667169
+  },
+  {
+    "id": "saudi-midundo-online-radio",
+    "name": "Midundo Online Radio",
+    "url": "http://midundo.fauluhost.co.tz:8000/_a",
+    "genre": "Music",
+    "city": "Dar es Salaam",
+    "country": "Tanzania",
+    "lat": -6.8160837,
+    "lng": 39.2803583
+  },
+  {
+    "id": "saudi-sauti-ya-quran-fm",
+    "name": "Sauti Ya Quran FM",
+    "url": "https://stream-177.zeno.fm/igtk1anecmcvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJpZ3RrMWFuZWNtY3Z2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiYk1kbFNSZl9RNnFtcVE5eVY2azlXZyIsImlhdCI6MTc2OTQyMjY3OSwiZXhwIjoxNzY5NDIyNzM5fQ.v7TJMCgtIIPANnHhaApC5Qd5kbWuRxw3eZnQCY6qsu4",
+    "genre": "Music",
+    "city": "Mombasa",
+    "country": "Kenya",
+    "lat": -4.05052,
+    "lng": 39.667169
+  },
+  {
+    "id": "saudi-kitime-zama-zile-radio",
+    "name": "Kitime Zama Zile Radio",
+    "url": "https://cast1.asurahosting.com/proxy/kitimemu/stream",
+    "genre": "Music",
+    "city": "Dar es Salaam",
+    "country": "Tanzania",
+    "lat": -6.8160837,
+    "lng": 39.2803583
+  },
+  {
+    "id": "saudi-swahilipot-fm-917",
+    "name": "Swahilipot FM 91.7",
+    "url": "https://swahilipotfm.out.airtime.pro:8000/swahilipotfm_a",
+    "genre": "Music",
+    "city": "Mombasa",
+    "country": "Kenya",
+    "lat": -4.05052,
+    "lng": 39.667169
+  },
+  {
+    "id": "saudi-nuru-naiangaze-radio",
+    "name": "Nuru Naiangaze Radio",
+    "url": "https://a2.asurahosting.com:6110/radio.mp3",
+    "genre": "Music",
+    "city": "Dar es Salaam",
+    "country": "Tanzania",
+    "lat": -6.8160837,
+    "lng": 39.2803583
+  },
+  {
+    "id": "saudi-kbc-english-service-fm-956",
+    "name": "KBC English Service FM 95.6",
+    "url": "https://stream-159.zeno.fm/mhmwnyyst5quv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJtaG13bnl5c3Q1cXV2IiwiaG9zdCI6InN0cmVhbS0xNTkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiRmR0VmgyX0dTd3l0dDdtWktpZFpqUSIsImlhdCI6MTc2OTQyMjY4MCwiZXhwIjoxNzY5NDIyNzQwfQ.o0q6vlLylyn-_1bmCOOrj9Hw8eOO3VjxasfjxoUHzis",
+    "genre": "Music",
+    "city": "Mombasa",
+    "country": "Kenya",
+    "lat": -4.05052,
+    "lng": 39.667169
+  },
+  {
+    "id": "saudi-crown-fm-921",
+    "name": "Crown FM 92.1",
+    "url": "https://radio.crownmedia.co.tz:8443/crown",
+    "genre": "Music",
+    "city": "Dar es Salaam",
+    "country": "Tanzania",
+    "lat": -6.8160837,
+    "lng": 39.2803583
+  },
+  {
+    "id": "saudi-radio-maria-tanzania-fm-891",
+    "name": "Radio Maria Tanzania FM 89.1",
+    "url": "https://dreamsiteradiocp2.com/proxy/rmtanzania2?mp=/stream",
+    "genre": "Music",
+    "city": "Dar es Salaam",
+    "country": "Tanzania",
+    "lat": -6.8160837,
+    "lng": 39.2803583
+  },
+  {
+    "id": "saudi-clouds-fm-885",
+    "name": "Clouds FM 88.5",
+    "url": "https://eu6.fastcast4u.com/proxy/cloudsfm?mp=/1",
+    "genre": "Music",
+    "city": "Dar es Salaam",
+    "country": "Tanzania",
+    "lat": -6.8160837,
+    "lng": 39.2803583
+  },
+  {
+    "id": "saudi-jesus-is-lord-fm-1059",
+    "name": "Jesus Is Lord FM 105.9",
+    "url": "https://s3.radio.co/s97f38db97/listen",
+    "genre": "Music",
+    "city": "Mombasa",
+    "country": "Kenya",
+    "lat": -4.05052,
+    "lng": 39.667169
+  },
+  {
+    "id": "saudi-dayo-radio",
+    "name": "DAYO Radio",
+    "url": "https://servidor40-5.brlogic.com:7120/live",
+    "genre": "Music",
+    "city": "Mombasa",
+    "country": "Kenya",
+    "lat": -4.05052,
+    "lng": 39.667169
+  },
+  {
+    "id": "saudi-blue-radio",
+    "name": "Blue Radio",
+    "url": "https://servidor24.brlogic.com:7630/live",
+    "genre": "Music",
+    "city": "Mombasa",
+    "country": "Kenya",
+    "lat": -4.05052,
+    "lng": 39.667169
+  },
+  {
+    "id": "saudi-bongo-fm",
+    "name": "Bongo FM",
+    "url": "https://a7.asurahosting.com:8660/radio.mp3",
+    "genre": "Music",
+    "city": "Dar es Salaam",
+    "country": "Tanzania",
+    "lat": -6.8160837,
+    "lng": 39.2803583
+  },
+  {
+    "id": "saudi-clip-80s-music",
+    "name": "Clip 80's Music",
+    "url": "https://radioclipfm.com:8000/radio.mp3",
+    "genre": "Music",
+    "city": "São José dos Campos SP",
+    "country": "Brazil",
+    "lat": -23.1867782,
+    "lng": -45.8854538
+  },
+  {
+    "id": "saudi-ufm-1073",
+    "name": "UFM 107.3",
+    "url": "https://stream-168.zeno.fm/nzr36a3un0hvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJuenIzNmEzdW4waHZ2IiwiaG9zdCI6InN0cmVhbS0xNjguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiRU14WlVLd0FUNFNBUF90Zk9ncTZvdyIsImlhdCI6MTc2OTQyMjY4MywiZXhwIjoxNzY5NDIyNzQzfQ.tGHsEY6WvaALvNKPStpF9tpeYxJrw6oyVaOMpNTmh54",
+    "genre": "Music",
+    "city": "Dar es Salaam",
+    "country": "Tanzania",
+    "lat": -6.8160837,
+    "lng": 39.2803583
+  },
+  {
+    "id": "saudi-radio-joseense",
+    "name": "Radio Joseense",
+    "url": "https://sv16.hdradios.net:7248/stream",
+    "genre": "Music",
+    "city": "São José dos Campos SP",
+    "country": "Brazil",
+    "lat": -23.1867782,
+    "lng": -45.8854538
+  },
+  {
+    "id": "saudi-012-news",
+    "name": "012 News",
+    "url": "https://9881.brasilstream.com.br/stream",
+    "genre": "Music",
+    "city": "São José dos Campos SP",
+    "country": "Brazil",
+    "lat": -23.1867782,
+    "lng": -45.8854538
+  },
+  {
+    "id": "saudi-pwani-fm-1031",
+    "name": "Pwani FM 103.1",
+    "url": "https://stream-152.zeno.fm/smhmfr1a94zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzbWhtZnIxYTk0enV2IiwiaG9zdCI6InN0cmVhbS0xNTIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoibFhpOWxvMUVUMmFJTHdIX2JFLVY1ZyIsImlhdCI6MTc2OTQyMjY4MywiZXhwIjoxNzY5NDIyNzQzfQ.tczuq_PbAyM_LHnCAYdYQfsjwKa4JUablnQB-z3JZH8",
+    "genre": "Music",
+    "city": "Dar es Salaam",
+    "country": "Tanzania",
+    "lat": -6.8160837,
+    "lng": 39.2803583
+  },
+  {
+    "id": "saudi-radio-tumaini-929-fm",
+    "name": "Radio Tumaini 92.9 FM",
+    "url": "https://stream-163.zeno.fm/nu9qfhxx9reuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJudTlxZmh4eDlyZXV2IiwiaG9zdCI6InN0cmVhbS0xNjMuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiRjM0RGxNYVJSRjY2MHVJUU1BWTItQSIsImlhdCI6MTc2OTQyMjY4MywiZXhwIjoxNzY5NDIyNzQzfQ.mVhWIfSyzbLTbRS2eSHJ3Y5SpqLDDYcw5MhrE1_jwS0",
+    "genre": "Music",
+    "city": "Dar es Salaam",
+    "country": "Tanzania",
+    "lat": -6.8160837,
+    "lng": 39.2803583
+  },
+  {
+    "id": "saudi-radio-aussel-pró-saúde",
+    "name": "Radio Aussel Pró Saúde",
+    "url": "https://hts04.brascast.com:8696/live",
+    "genre": "Music",
+    "city": "São José dos Campos SP",
+    "country": "Brazil",
+    "lat": -23.1867782,
+    "lng": -45.8854538
+  },
+  {
+    "id": "saudi-imbanasi",
+    "name": "ImbaNasi",
+    "url": "https://stream-161.zeno.fm/dsfhivkawjiuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJkc2ZoaXZrYXdqaXV2IiwiaG9zdCI6InN0cmVhbS0xNjEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiVmhiWk1UWUZRODJGM213LUEzV0VPQSIsImlhdCI6MTc2OTQyMjY4MywiZXhwIjoxNzY5NDIyNzQzfQ.hHwFvU-bVpbhicE37hiT2MEYRnZ8O9EWW5hDtmKmimc",
+    "genre": "Music",
+    "city": "Dar es Salaam",
+    "country": "Tanzania",
+    "lat": -6.8160837,
+    "lng": 39.2803583
+  },
+  {
+    "id": "saudi-rádio-musical-net",
+    "name": "Rádio Musical Net",
+    "url": "https://ssl.xcast.com.br:11148/",
+    "genre": "Music",
+    "city": "São José dos Campos SP",
+    "country": "Brazil",
+    "lat": -23.1867782,
+    "lng": -45.8854538
+  },
+  {
+    "id": "saudi-jambeiro-fm-1049",
+    "name": "Jambeiro FM 104.9",
+    "url": "https://cast4.hoost.com.br:20010/stream",
+    "genre": "Music",
+    "city": "São José dos Campos SP",
+    "country": "Brazil",
+    "lat": -23.1867782,
+    "lng": -45.8854538
+  },
+  {
+    "id": "saudi-rádio-vivência-espírita",
+    "name": "Rádio Vivência Espírita",
+    "url": "https://radio.vivenciaespirita.org/listen/vivenciaespirita/radio.mp3",
+    "genre": "Music",
+    "city": "São José dos Campos SP",
+    "country": "Brazil",
+    "lat": -23.1867782,
+    "lng": -45.8854538
+  },
+  {
+    "id": "saudi-otima-fm-903",
+    "name": "Otima FM 90.3",
+    "url": "https://f108.fabricahost.com.br/otimafm903?f=1769422685N01KFWWZ1CTRZA9S71JFD7P27EJ&tid=01KFWWZ1CTYQPBWTZNEC81TNDX",
+    "genre": "Music",
+    "city": "São José dos Campos SP",
+    "country": "Brazil",
+    "lat": -23.1867782,
+    "lng": -45.8854538
+  },
+  {
+    "id": "saudi-stereo-vale-fm-1039",
+    "name": "Stereo Vale FM 103.9",
+    "url": "https://stm11.xcast.com.br:12086/stream",
+    "genre": "Music",
+    "city": "São José dos Campos SP",
+    "country": "Brazil",
+    "lat": -23.1867782,
+    "lng": -45.8854538
+  },
+  {
+    "id": "saudi-radio-free-africa-fm-898",
+    "name": "Radio Free Africa FM 89.8",
+    "url": "https://s3.radio.co/s8df0149e0/listen",
+    "genre": "Music",
+    "city": "Dar es Salaam",
+    "country": "Tanzania",
+    "lat": -6.8160837,
+    "lng": 39.2803583
+  },
+  {
+    "id": "saudi-rádio-web-horizonte",
+    "name": "Rádio Web Horizonte",
+    "url": "https://stream1.svrdedicado.org/8568/stream",
+    "genre": "Music",
+    "city": "São José dos Campos SP",
+    "country": "Brazil",
+    "lat": -23.1867782,
+    "lng": -45.8854538
+  },
+  {
+    "id": "saudi-jovem-pan-943-fm",
+    "name": "Jovem Pan 94.3 FM",
+    "url": "https://r15.ciclano.io/proxy/radiomu1/stream",
+    "genre": "Music",
+    "city": "São José dos Campos SP",
+    "country": "Brazil",
+    "lat": -23.1867782,
+    "lng": -45.8854538
+  },
+  {
+    "id": "saudi-rádio-missionários-de-cristo",
+    "name": "Rádio Missionários de Cristo",
+    "url": "https://hts05.brascast.com:12486/live",
+    "genre": "Music",
+    "city": "São José dos Campos SP",
+    "country": "Brazil",
+    "lat": -23.1867782,
+    "lng": -45.8854538
+  },
+  {
+    "id": "saudi-east-africa-radio-fm-881",
+    "name": "East Africa Radio FM 88.1",
+    "url": "https://eatv.radioca.st/stream",
+    "genre": "Music",
+    "city": "Dar es Salaam",
+    "country": "Tanzania",
+    "lat": -6.8160837,
+    "lng": 39.2803583
+  },
+  {
+    "id": "saudi-capital-fm-885",
+    "name": "Capital FM 88.5",
+    "url": "https://f100.fabricahost.com.br/capitalfm885?f=1769422686N01KFWWZ27P63RG8FVHV4C5325F&tid=01KFWWZ27PB95EJ6K11YVGJGX1",
+    "genre": "Music",
+    "city": "São José dos Campos SP",
+    "country": "Brazil",
+    "lat": -23.1867782,
+    "lng": -45.8854538
+  },
+  {
+    "id": "saudi-8-fm",
+    "name": "8 FM",
+    "url": "https://server24.srvsh.com.br:7050/stream",
+    "genre": "Music",
+    "city": "São José dos Campos SP",
+    "country": "Brazil",
+    "lat": -23.1867782,
+    "lng": -45.8854538
+  },
+  {
+    "id": "saudi-radio-classic-hits",
+    "name": "Radio Classic Hits",
+    "url": "https://stm.srvaudio.com.br:9790/index.html?sid=1",
+    "genre": "Music",
+    "city": "São José dos Campos SP",
+    "country": "Brazil",
+    "lat": -23.1867782,
+    "lng": -45.8854538
+  },
+  {
+    "id": "saudi-wetf-1057-fm",
+    "name": "WETF 105.7 FM",
+    "url": "https://ssl-proxy.icastcenter.com/get.php?type=Icecast&server=199.180.72.2&port=9007&mount=/stream&data=mp3",
+    "genre": "Music",
+    "city": "South Bend IN",
+    "country": "United States",
+    "lat": 41.6689661,
+    "lng": -86.2510517
+  },
+  {
+    "id": "saudi-u93--wndv-fm-929",
+    "name": "U93 - WNDV-FM 92.9",
+    "url": "https://soundmanagement.streamguys1.com/WNDV",
+    "genre": "Music",
+    "city": "South Bend IN",
+    "country": "United States",
+    "lat": 41.6689661,
+    "lng": -86.2510517
+  },
+  {
+    "id": "saudi-rádio-itatiaia",
+    "name": "Rádio Itatiaia",
+    "url": "https://8903.brasilstream.com.br/stream",
+    "genre": "Music",
+    "city": "São José dos Campos SP",
+    "country": "Brazil",
+    "lat": -23.1867782,
+    "lng": -45.8854538
+  },
+  {
+    "id": "saudi-rock-977",
+    "name": "Rock 97.7",
+    "url": "https://soundmanagement.streamguys1.com/WYXX",
+    "genre": "Music",
+    "city": "South Bend IN",
+    "country": "United States",
+    "lat": 41.6689661,
+    "lng": -86.2510517
+  },
+  {
+    "id": "saudi-smooth-jazz-247",
+    "name": "Smooth Jazz 24/7",
+    "url": "https://ais-edge89-dal02.cdnstream.com/2124_128.mp3",
+    "genre": "Music",
+    "city": "South Bend IN",
+    "country": "United States",
+    "lat": 41.6689661,
+    "lng": -86.2510517
+  },
+  {
+    "id": "saudi-abn-old-time-radio-am-1610",
+    "name": "ABN Old-Time Radio AM 1610",
+    "url": "https://s6.yesstreaming.net:18000/listen",
+    "genre": "Music",
+    "city": "South Bend IN",
+    "country": "United States",
+    "lat": 41.6689661,
+    "lng": -86.2510517
+  },
+  {
+    "id": "saudi-antena-1",
+    "name": "Antena 1",
+    "url": "https://antenaone.crossradio.com.br/stream",
+    "genre": "Music",
+    "city": "São José dos Campos SP",
+    "country": "Brazil",
+    "lat": -23.1867782,
+    "lng": -45.8854538
+  },
+  {
+    "id": "saudi-kbrw-am-680",
+    "name": "KBRW-AM 680",
+    "url": "https://tektite.streamguys1.com:5345/live",
+    "genre": "Music",
+    "city": "South Bend IN",
+    "country": "United States",
+    "lat": 41.6689661,
+    "lng": -86.2510517
+  },
+  {
+    "id": "saudi-koko-lp-radio-963-fm",
+    "name": "KOKO LP Radio 96.3 FM",
+    "url": "https://s2.yesstreaming.net:7031/stream",
+    "genre": "Music",
+    "city": "South Bend IN",
+    "country": "United States",
+    "lat": 41.6689661,
+    "lng": -86.2510517
+  },
+  {
+    "id": "saudi-radijo-klubas-994-fm",
+    "name": "Radijo Klubas 99.4 FM",
+    "url": "http://didzdvaris.vinlita.lt:8009/stream.aac",
+    "genre": "Music",
+    "city": "Šiauliai",
+    "country": "Lithuania",
+    "lat": 55.9340823,
+    "lng": 23.3157775
+  },
+  {
+    "id": "saudi-rado-la-raza-fm-981",
+    "name": "Rado la Raza FM 98.1",
+    "url": "https://casthd.net/8010/stream",
+    "genre": "Music",
+    "city": "South Bend IN",
+    "country": "United States",
+    "lat": 41.6689661,
+    "lng": -86.2510517
+  },
+  {
+    "id": "saudi-saules-radijas-1025-fm",
+    "name": "Saules Radijas 102.5 FM",
+    "url": "https://saule-mp3.vinlita.lt/stream",
+    "genre": "Music",
+    "city": "Šiauliai",
+    "country": "Lithuania",
+    "lat": 55.9340823,
+    "lng": 23.3157775
+  },
+  {
+    "id": "saudi-latvijas-radio-5--pieci-latgalieši",
+    "name": "Latvijas Radio 5 - Pieci Latgalieši",
+    "url": "https://live.pieci.lv/live22-hq.mp3",
+    "genre": "Music",
+    "city": "Šiauliai",
+    "country": "Lithuania",
+    "lat": 55.9340823,
+    "lng": 23.3157775
+  },
+  {
+    "id": "saudi-puko-radijas-2-fm-1009",
+    "name": "Puko Radijas 2 FM 100.9",
+    "url": "http://212.95.39.164:8074/stream",
+    "genre": "Music",
+    "city": "Šiauliai",
+    "country": "Lithuania",
+    "lat": 55.9340823,
+    "lng": 23.3157775
+  },
+  {
+    "id": "saudi-rádio-jb-fm-99,9",
+    "name": "Rádio JB FM 99,9",
+    "url": "https://27343.live.streamtheworld.com:443/JBFMAAC.aac",
+    "genre": "Music",
+    "city": "São José dos Campos SP",
+    "country": "Brazil",
+    "lat": -23.1867782,
+    "lng": -45.8854538
+  },
+  {
+    "id": "saudi-grace-today",
+    "name": "Grace Today",
+    "url": "https://gracetoday.out.airtime.pro/gracetoday_a",
+    "genre": "Music",
+    "city": "South Bend IN",
+    "country": "United States",
+    "lat": 41.6689661,
+    "lng": -86.2510517
+  },
+  {
+    "id": "saudi-fox-news-radio",
+    "name": "Fox News Radio",
+    "url": "https://prod-3-86-26-249.amperwave.net/foxnewsradio-foxnewsradioaac-imc?session-id=796167fac66e3fea4fac19bd24182b4e",
+    "genre": "Music",
+    "city": "South Bend IN",
+    "country": "United States",
+    "lat": 41.6689661,
+    "lng": -86.2510517
+  },
+  {
+    "id": "saudi-alpha-fm-1017",
+    "name": "Alpha FM 101.7",
+    "url": "https://26523.live.streamtheworld.com:443/RADIO_ALPHAFMAAC.aac",
+    "genre": "Music",
+    "city": "São José dos Campos SP",
+    "country": "Brazil",
+    "lat": -23.1867782,
+    "lng": -45.8854538
+  },
+  {
+    "id": "saudi-rádio-planície",
+    "name": "Rádio Planície",
+    "url": "http://109.71.41.6:8026/stream/",
+    "genre": "Music",
+    "city": "Évora",
+    "country": "Portugal",
+    "lat": 38.5707742,
+    "lng": -7.9092808
+  },
+  {
+    "id": "saudi-975-y-country--wytz",
+    "name": "97.5 Y Country - WYTZ",
+    "url": "https://14223.live.streamtheworld.com:443/WYTZFMAAC.aac",
+    "genre": "Music",
+    "city": "South Bend IN",
+    "country": "United States",
+    "lat": 41.6689661,
+    "lng": -86.2510517
+  },
+  {
+    "id": "saudi-relax-fm",
+    "name": "Relax FM",
+    "url": "https://stream2.relaxfm.lt/relaxfm128.mp3",
+    "genre": "Music",
+    "city": "Šiauliai",
+    "country": "Lithuania",
+    "lat": 55.9340823,
+    "lng": 23.3157775
+  },
+  {
+    "id": "saudi-gold-fm-1026",
+    "name": "Gold FM 102.6",
+    "url": "https://stream.goldfm.lt/goldfm.mp3",
+    "genre": "Music",
+    "city": "Šiauliai",
+    "country": "Lithuania",
+    "lat": 55.9340823,
+    "lng": 23.3157775
+  },
+  {
+    "id": "saudi-tsf-rádio-notícias-895-fm",
+    "name": "TSF Rádio Notícias 89.5 FM",
+    "url": "https://directo.tsf.pt/tsfdirecto.mp3",
+    "genre": "Music",
+    "city": "Évora",
+    "country": "Portugal",
+    "lat": 38.5707742,
+    "lng": -7.9092808
+  },
+  {
+    "id": "saudi-rádio-nova-antena",
+    "name": "Rádio Nova Antena",
+    "url": "https://radios2.justweb.pt/8068/stream",
+    "genre": "Music",
+    "city": "Évora",
+    "country": "Portugal",
+    "lat": 38.5707742,
+    "lng": -7.9092808
+  },
+  {
+    "id": "saudi-power-hit-radio-fm-959",
+    "name": "Power Hit Radio FM 95.9",
+    "url": "https://n11.rcs.revma.com/f31w7e0fveuvv?rj-ttl=5&rj-tok=AAABm_nYxyQAt7EeYDlQXi0jbg",
+    "genre": "Music",
+    "city": "Šiauliai",
+    "country": "Lithuania",
+    "lat": 55.9340823,
+    "lng": 23.3157775
+  },
+  {
+    "id": "saudi-fm99",
+    "name": "FM99",
+    "url": "https://securestream.casthost.net:8617/fm99",
+    "genre": "Music",
+    "city": "Šiauliai",
+    "country": "Lithuania",
+    "lat": 55.9340823,
+    "lng": 23.3157775
+  },
+  {
+    "id": "saudi-radijo-stotis-m-1",
+    "name": "Radijo Stotis M-1",
+    "url": "https://stream.m-1.fm/m1/aacp64",
+    "genre": "Music",
+    "city": "Šiauliai",
+    "country": "Lithuania",
+    "lat": 55.9340823,
+    "lng": 23.3157775
+  },
+  {
+    "id": "saudi-antena-sul",
+    "name": "Antena Sul",
+    "url": "https://nl.digitalrm.pt:8022/stream",
+    "genre": "Music",
+    "city": "Évora",
+    "country": "Portugal",
+    "lat": 38.5707742,
+    "lng": -7.9092808
+  },
+  {
+    "id": "saudi-rádio-esdg",
+    "name": "Rádio ESDG",
+    "url": "https://stream-177.zeno.fm/0emqj6gcjpzvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwZW1xajZnY2pwenZ2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiQXRBY1AxOHVSSmlvNmN4OGs5RlNaUSIsImlhdCI6MTc2OTQyMjY5MywiZXhwIjoxNzY5NDIyNzUzfQ.qjZj-eLqKJ7UOI7DAfiHHZXdPIVOKVMMTw-dtxdhC6w",
+    "genre": "Music",
+    "city": "Évora",
+    "country": "Portugal",
+    "lat": 38.5707742,
+    "lng": -7.9092808
+  },
+  {
+    "id": "saudi-waus-fm-907",
+    "name": "WAUS FM 90.7",
+    "url": "https://waus.streamguys1.com/live",
+    "genre": "Music",
+    "city": "South Bend IN",
+    "country": "United States",
+    "lat": 41.6689661,
+    "lng": -86.2510517
+  },
+  {
+    "id": "saudi-antena-1",
+    "name": "Antena 1",
+    "url": "https://radiocast.rtp.pt/antena180a.mp3",
+    "genre": "Music",
+    "city": "Évora",
+    "country": "Portugal",
+    "lat": 38.5707742,
+    "lng": -7.9092808
+  },
+  {
+    "id": "saudi-rfm",
+    "name": "RFM",
+    "url": "https://27903.live.streamtheworld.com:443/RFMAAC.aac",
+    "genre": "Music",
+    "city": "Évora",
+    "country": "Portugal",
+    "lat": 38.5707742,
+    "lng": -7.9092808
+  },
+  {
+    "id": "saudi-rádio-renascença",
+    "name": "Rádio Renascença",
+    "url": "https://22183.live.streamtheworld.com:443/RADIO_RENASCENCAAAC.aac",
+    "genre": "Music",
+    "city": "Évora",
+    "country": "Portugal",
+    "lat": 38.5707742,
+    "lng": -7.9092808
+  },
+  {
+    "id": "saudi-rádio-observador-fm-987",
+    "name": "Rádio Observador FM 98.7",
+    "url": "https://centova.radio.com.pt/proxy/455?mp=/stream",
+    "genre": "Music",
+    "city": "Évora",
+    "country": "Portugal",
+    "lat": 38.5707742,
+    "lng": -7.9092808
+  }
+]

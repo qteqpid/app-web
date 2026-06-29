@@ -1,0 +1,24 @@
+{
+  "Afghanistan International 801 AM|London, United Kingdom": null,
+  "Kabul|Afghanistan": {
+    "place_id": 197664308,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 21716195,
+    "lat": "34.5269503",
+    "lon": "69.1850584",
+    "class": "place",
+    "type": "city",
+    "place_rank": 15,
+    "importance": 0.6561718420242478,
+    "addresstype": "city",
+    "name": "کابل",
+    "display_name": "کابل, کابل ښاروالۍ, ولایت كابل, 1001, افغانستان",
+    "boundingbox": [
+      "34.3669503",
+      "34.6869503",
+      "69.0250584",
+      "69.3450584"
+    ]
+  }
+}

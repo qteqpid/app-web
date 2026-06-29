@@ -1,0 +1,512 @@
+[
+    {
+        "name": "Radio Wataha",
+        "city": "Oslo",
+        "country": "Norway",
+        "url": "http://51.255.8.139:8242/stream"
+    },
+    {
+        "name": "Radio Tønsberg FM 102.8",
+        "city": "Oslo",
+        "country": "Norway",
+        "url": "https://audio.radiotonsberg.no/tonsberg_hq"
+    },
+    {
+        "name": "Lovsangsradion",
+        "city": "Oslo",
+        "country": "Norway",
+        "url": "https://studio20.radiolize.com/radio/8020/radio.mp3"
+    },
+    {
+        "name": "Silkeveien Radio",
+        "city": "Oslo",
+        "country": "Norway",
+        "url": "http://n08.radiojar.com/2arcr5qmb?rj-ttl=5&rj-tok=AAABm_nHDdUAMsNLsp5PQ-SF2w"
+    },
+    {
+        "name": "P6 Rock",
+        "city": "Oslo",
+        "country": "Norway",
+        "url": "https://p6.p4groupaudio.com/P06_MH"
+    },
+    {
+        "name": "P10 Country",
+        "city": "Oslo",
+        "country": "Norway",
+        "url": "https://p10.p4groupaudio.com/P10_MH"
+    },
+    {
+        "name": "P11 Dance",
+        "city": "Oslo",
+        "country": "Norway",
+        "url": "https://p11.p4groupaudio.com/P11_AH"
+    },
+    {
+        "name": "P8 Pop 80s & 90s",
+        "city": "Oslo",
+        "country": "Norway",
+        "url": "https://p8.p4groupaudio.com/P08_MM"
+    },
+    {
+        "name": "P9 Retro",
+        "city": "Oslo",
+        "country": "Norway",
+        "url": "https://p9.p4groupaudio.com/P09_MH"
+    },
+    {
+        "name": "P7 Klem",
+        "city": "Oslo",
+        "country": "Norway",
+        "url": "https://p7.p4groupaudio.com/P07_MH"
+    },
+    {
+        "name": "Hamarradioen",
+        "city": "Oslo",
+        "country": "Norway",
+        "url": "https://lyd.radioene.no/hamar.mp3"
+    },
+    {
+        "name": "P5 Hits",
+        "city": "Oslo",
+        "country": "Norway",
+        "url": "https://p5.p4groupaudio.com/P05_MM"
+    },
+    {
+        "name": "Radio Nano",
+        "city": "Oslo",
+        "country": "Norway",
+        "url": "https://s2.yesstreaming.net:7157/stream/"
+    },
+    {
+        "name": "P4 Lyden av Norge",
+        "city": "Oslo",
+        "country": "Norway",
+        "url": "https://p4.p4groupaudio.com/P04_MH"
+    },
+    {
+        "name": "Historyradio.org",
+        "city": "Tromsø",
+        "country": "Norway",
+        "url": "http://n04.radiojar.com/6bmecgg3wd5tv?rj-ttl=5&rj-tok=AAABm_nHE1QAbT5wETbK2a6pPw"
+    },
+    {
+        "name": "The Beat",
+        "city": "Oslo",
+        "country": "Norway",
+        "url": "https://live-nors.sharp-stream.com/nors17.mp3"
+    },
+    {
+        "name": "1FM Jazz",
+        "city": "Molde",
+        "country": "Norway",
+        "url": "https://lyd.1fm.no/1fmjazz_hq"
+    },
+    {
+        "name": "1FM Gull",
+        "city": "Molde",
+        "country": "Norway",
+        "url": "https://lyd.1fm.no/1fmgull_hq"
+    },
+    {
+        "name": "1FM Rock",
+        "city": "Molde",
+        "country": "Norway",
+        "url": "https://lyd.1fm.no/1fmrock_hq"
+    },
+    {
+        "name": "Radio Bø",
+        "city": "Tromsø",
+        "country": "Norway",
+        "url": "https://nettradio.radiobo.com/radiobo-high"
+    },
+    {
+        "name": "NRK P3",
+        "city": "Oslo",
+        "country": "Norway",
+        "url": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p3_mp3_h"
+    },
+    {
+        "name": "Radio Tromsø",
+        "city": "Tromsø",
+        "country": "Norway",
+        "url": "https://stream.bardufoss.no/radiotromso"
+    },
+    {
+        "name": "Radio Bardufoss",
+        "city": "Tromsø",
+        "country": "Norway",
+        "url": "https://stream.bardufoss.no/radiobardufoss128"
+    },
+    {
+        "name": "3FM Norge",
+        "city": "Tromsø",
+        "country": "Norway",
+        "url": "https://uk6.internet-radio.com/proxy/3fmnorge/stream"
+    },
+    {
+        "name": "RT Hits FM 94.4",
+        "city": "Tromsø",
+        "country": "Norway",
+        "url": "https://stream.bardufoss.no/rthits128"
+    },
+    {
+        "name": "NRK P1 Finnmark",
+        "city": "Oslo",
+        "country": "Norway",
+        "url": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk2_mp3_h"
+    },
+    {
+        "name": "NRK P1 Østfold",
+        "city": "Oslo",
+        "country": "Norway",
+        "url": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk15_mp3_h"
+    },
+    {
+        "name": "Radio Hallingdal",
+        "city": "Molde",
+        "country": "Norway",
+        "url": "http://audio.visto.no/radiohallingdal"
+    },
+    {
+        "name": "NRK Alltid Nyheter",
+        "city": "Oslo",
+        "country": "Norway",
+        "url": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/nyheter_mp3_h"
+    },
+    {
+        "name": "KSU 24/7",
+        "city": "Molde",
+        "country": "Norway",
+        "url": "https://utmothavet.ksu247.no/192"
+    },
+    {
+        "name": "Radio Northern Star",
+        "city": "Bergen",
+        "country": "Norway",
+        "url": "http://5866.cloudrad.io:8018/northernstar.mp3"
+    },
+    {
+        "name": "NRK P1 Troms",
+        "city": "Tromsø",
+        "country": "Norway",
+        "url": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk3_mp3_h"
+    },
+    {
+        "name": "The Sea",
+        "city": "Bergen",
+        "country": "Norway",
+        "url": "http://12881.cloudrad.io:9406/thesea"
+    },
+    {
+        "name": "Thean Tamil Osai",
+        "city": "Bergen",
+        "country": "Norway",
+        "url": "http://centova71.instainternet.com:9100/stream/"
+    },
+    {
+        "name": "Vers Libre",
+        "city": "Bergen",
+        "country": "Norway",
+        "url": "https://vers-libre.radiocult.fm/stream"
+    },
+    {
+        "name": "1FM",
+        "city": "Molde",
+        "country": "Norway",
+        "url": "https://s2.radio.co/s914ffa700/listen"
+    },
+    {
+        "name": "Radio Sandnes",
+        "city": "Bergen",
+        "country": "Norway",
+        "url": "https://audio.jaerradiogruppen.no/sandnes_hq"
+    },
+    {
+        "name": "JærRadioen FM 103.5",
+        "city": "Sandnes",
+        "country": "Norway",
+        "url": "https://audio.jaerradiogruppen.no/jaerradioen_hq"
+    },
+    {
+        "name": "Radio Stryn",
+        "city": "Molde",
+        "country": "Norway",
+        "url": "https://lyd.radiostryn.no/stryn_hq"
+    },
+    {
+        "name": "Askøy Radioo FM 107.1",
+        "city": "Bergen",
+        "country": "Norway",
+        "url": "https://radioaskoy.radioca.st/sender"
+    },
+    {
+        "name": "Radio Folgefonn Hovedkanal",
+        "city": "Bergen",
+        "country": "Norway",
+        "url": "https://lyd.radiofolgefonn.no/folgefonn_hq"
+    },
+    {
+        "name": "NRK P1 Møre og Romsdal",
+        "city": "Molde",
+        "country": "Norway",
+        "url": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk6_mp3_h"
+    },
+    {
+        "name": "NRK P1 Nordland",
+        "city": "Tromsø",
+        "country": "Norway",
+        "url": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk4_mp3_h"
+    },
+    {
+        "name": "RAD102",
+        "city": "Bergen",
+        "country": "Norway",
+        "url": "https://stream.radio102.no/radio102_hq"
+    },
+    {
+        "name": "Radio Ålesund FM 104.5",
+        "city": "Ålesund",
+        "country": "Norway",
+        "url": "https://audio.jaerradiogruppen.no/aalesund_hq"
+    },
+    {
+        "name": "NRK P1 Sogn og Fjordane",
+        "city": "Molde",
+        "country": "Norway",
+        "url": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk7_aac_h"
+    },
+    {
+        "name": "Radio Haugaland",
+        "city": "Sandnes",
+        "country": "Norway",
+        "url": "https://stream.theradiohub.com/?server=radioip.no&port=8000&type=mp3&mount=stream/1/;"
+    },
+    {
+        "name": "Radio Kos",
+        "city": "Sandnes",
+        "country": "Norway",
+        "url": "https://lyd1.lokalradio.no/kos_hq"
+    },
+    {
+        "name": "Radio Lyngdal",
+        "city": "Sandnes",
+        "country": "Norway",
+        "url": "https://live.radiolyngdal.com/rly_hq"
+    },
+    {
+        "name": "P7 Kristen Pop",
+        "city": "Ålesund",
+        "country": "Norway",
+        "url": "https://radio.p7.no/radio/8000/kristen_pop"
+    },
+    {
+        "name": "Radio Sunnmøre",
+        "city": "Ålesund",
+        "country": "Norway",
+        "url": "https://ipradio.no/RS"
+    },
+    {
+        "name": "Guovdageainnu Lagasradio",
+        "city": "Tromsø",
+        "country": "Norway",
+        "url": "https://streaming.radio.co/s5b773f8d3/listen"
+    },
+    {
+        "name": "NRK P1 Hordaland",
+        "city": "Bergen",
+        "country": "Norway",
+        "url": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk8_mp3_h"
+    },
+    {
+        "name": "Radio Rana",
+        "city": "Bodø",
+        "country": "Norway",
+        "url": "https://lyttradio.no/live.mp3"
+    },
+    {
+        "name": "FM 8000 Bodø",
+        "city": "Bodø",
+        "country": "Norway",
+        "url": "https://stream.theradiohub.com/8000/hq"
+    },
+    {
+        "name": "Radio Tordenskrall",
+        "city": "Bodø",
+        "country": "Norway",
+        "url": "https://halo.streamerr.co/listen/tordenskrall/radio.mp3"
+    },
+    {
+        "name": "The Ferry",
+        "city": "Straume",
+        "country": "Norway",
+        "url": "http://6471.cloudrad.io:8178/theferry.mp3"
+    },
+    {
+        "name": "Radio 3 Bodø FM 104.9",
+        "city": "Bodø",
+        "country": "Norway",
+        "url": "https://stream.radio3.no/Radio3Bodo128"
+    },
+    {
+        "name": "Gudbrandsdalsradioen",
+        "city": "Lillehammer",
+        "country": "Norway",
+        "url": "https://lyd.radioene.no/gdal.mp3"
+    },
+    {
+        "name": "P7 Kristen Riksradio",
+        "city": "Straume",
+        "country": "Norway",
+        "url": "https://radio.p7.no/radio/8020/kristen_riksradio"
+    },
+    {
+        "name": "Radio Randsfjord",
+        "city": "Lillehammer",
+        "country": "Norway",
+        "url": "https://stream.radiorandsfjord.no/randsfjord_hq"
+    },
+    {
+        "name": "Scansat",
+        "city": "Stavanger",
+        "country": "Norway",
+        "url": "http://67.211.209.45:3041/dans192"
+    },
+    {
+        "name": "Radio Limfjord",
+        "city": "Kristiansand",
+        "country": "Norway",
+        "url": "https://media.limfjordnetradio.dk/limfjord128"
+    },
+    {
+        "name": "Radio Sotra FM 100.9",
+        "city": "Straume",
+        "country": "Norway",
+        "url": "https://streaming.radiosotra.no:8443/radiosotra"
+    },
+    {
+        "name": "Rehoboth FM 107.2",
+        "city": "Stavanger",
+        "country": "Norway",
+        "url": "https://audio.rehoboth.no/rehoboth_mq"
+    },
+    {
+        "name": "Radio Skive",
+        "city": "Kristiansand",
+        "country": "Norway",
+        "url": "https://radioserver.dk/skive"
+    },
+    {
+        "name": "Classic FM Struer",
+        "city": "Kristiansand",
+        "country": "Norway",
+        "url": "https://webradio.classicfm.dk/classic"
+    },
+    {
+        "name": "Radio L - Lillesand",
+        "city": "Kristiansand",
+        "country": "Norway",
+        "url": "https://stream.radio-l.no/rlihq"
+    },
+    {
+        "name": "SR P4 Jämtland",
+        "city": "Bodø",
+        "country": "Norway",
+        "url": "https://edge2.sr.se/p4jmtl-aac-320"
+    },
+    {
+        "name": "Radio Nord",
+        "city": "Kristiansand",
+        "country": "Norway",
+        "url": "https://netradio.radionord.dk:8443/RadioNord"
+    },
+    {
+        "name": "Nea Radio",
+        "city": "Trondheim",
+        "country": "Norway",
+        "url": "http://nettradio.nearadio.no:8000/stream"
+    },
+    {
+        "name": "NRK P1 Hedmark og Oppland",
+        "city": "Lillehammer",
+        "country": "Norway",
+        "url": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk14_mp3_h"
+    },
+    {
+        "name": "NRK P1 Buskerud",
+        "city": "Lillehammer",
+        "country": "Norway",
+        "url": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk13_mp3_h"
+    },
+    {
+        "name": "NRK Klassisk",
+        "city": "Lillehammer",
+        "country": "Norway",
+        "url": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/klassisk_aac_h"
+    },
+    {
+        "name": "Radio Grenland FM",
+        "city": "Skien",
+        "country": "Norway",
+        "url": "https://audio.radiogrenland.no/grenland_hq"
+    },
+    {
+        "name": "NRK P1 Sørlandet",
+        "city": "Kristiansand",
+        "country": "Norway",
+        "url": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk10_aac_h"
+    },
+    {
+        "name": "Radio Trøndelag",
+        "city": "Trondheim",
+        "country": "Norway",
+        "url": "http://nettradio.radiotrondelag.no:8000/radio_trondelag"
+    },
+    {
+        "name": "Radio Laagendalen",
+        "city": "Skien",
+        "country": "Norway",
+        "url": "https://radiolarvik.radioca.st/stream?ver=446721"
+    },
+    {
+        "name": "NRK mP3",
+        "city": "Trondheim",
+        "country": "Norway",
+        "url": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/mp3_mp3_h"
+    },
+    {
+        "name": "Duen Radio",
+        "city": "Stavanger",
+        "country": "Norway",
+        "url": "https://streams.radio.co/s07e510a23/listen"
+    },
+    {
+        "name": "Solradioen",
+        "city": "Halden",
+        "country": "Norway",
+        "url": "https://streaming.solradioen.com/ch2"
+    },
+    {
+        "name": "NRK P1 Trøndelag",
+        "city": "Trondheim",
+        "country": "Norway",
+        "url": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk5_aac_h"
+    },
+    {
+        "name": "NRK Folkemusikk",
+        "city": "Fredrikstad",
+        "country": "Norway",
+        "url": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/folkemusikk_mp3_h"
+    },
+    {
+        "name": "NRK P1 Vestfold",
+        "city": "Fredrikstad",
+        "country": "Norway",
+        "url": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk12_mp3_h"
+    },
+    {
+        "name": "NRK P13",
+        "city": "Halden",
+        "country": "Norway",
+        "url": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p3musikk_aac_h"
+    }
+]

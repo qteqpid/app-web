@@ -1,0 +1,2212 @@
+[
+  {
+    "id": "chile-llacolen-995-fm",
+    "name": "Llacolén 99.5 FM",
+    "url": "http://sonando.us.digitalproserver.com/radiollacolen.aac",
+    "genre": "Music",
+    "city": "Concepción",
+    "country": "Chile",
+    "lat": -36.8270698,
+    "lng": -73.0502064
+  },
+  {
+    "id": "chile-flopradio",
+    "name": "FlopRadio",
+    "url": "https://cast6.my-control-panel.com/proxy/floptrop/stream?_=1761204129703",
+    "genre": "Music",
+    "city": "Santiago",
+    "country": "Chile",
+    "lat": -33.4377756,
+    "lng": -70.6504502
+  },
+  {
+    "id": "chile-radio-clásicos",
+    "name": "Radio Clásicos",
+    "url": "https://c23.radioboss.fm:8211/stream",
+    "genre": "Music",
+    "city": "Santiago",
+    "country": "Chile",
+    "lat": -33.4377756,
+    "lng": -70.6504502
+  },
+  {
+    "id": "chile-radio-nervios",
+    "name": "Radio Nervios",
+    "url": "https://cast6.asurahosting.com/proxy/happype1/stream",
+    "genre": "Music",
+    "city": "Santiago",
+    "country": "Chile",
+    "lat": -33.4377756,
+    "lng": -70.6504502
+  },
+  {
+    "id": "chile-radio-modelo-fm-1061",
+    "name": "Radio Modelo FM 106.1",
+    "url": "https://sonic.comunikados.stream:8070/stream",
+    "genre": "Music",
+    "city": "Santiago",
+    "country": "Chile",
+    "lat": -33.4377756,
+    "lng": -70.6504502
+  },
+  {
+    "id": "chile-corporación-550-am",
+    "name": "Corporación 550 AM",
+    "url": "https://megaramchile.com/8008/stream",
+    "genre": "Music",
+    "city": "Concepción",
+    "country": "Chile",
+    "lat": -36.8270698,
+    "lng": -73.0502064
+  },
+  {
+    "id": "chile-radio-maipu",
+    "name": "Radio Maipu",
+    "url": "https://pragustream.live:8040/radio.mp3/",
+    "genre": "Music",
+    "city": "Santiago",
+    "country": "Chile",
+    "lat": -33.4377756,
+    "lng": -70.6504502
+  },
+  {
+    "id": "chile-pauta",
+    "name": "Pauta",
+    "url": "https://unlimited5-us.dps.live/radiopauta/aac/icecast.audio",
+    "genre": "Music",
+    "city": "Santiago",
+    "country": "Chile",
+    "lat": -33.4377756,
+    "lng": -70.6504502
+  },
+  {
+    "id": "chile-futuro-889-fm",
+    "name": "Futuro 88.9 FM",
+    "url": "https://19213.live.streamtheworld.com:443/FUTUROAAC.aac",
+    "genre": "Music",
+    "city": "Santiago",
+    "country": "Chile",
+    "lat": -33.4377756,
+    "lng": -70.6504502
+  },
+  {
+    "id": "chile-radio-carolina-fm-993",
+    "name": "Radio Carolina FM 99.3",
+    "url": "https://us-b4-p-e-ja16-audio.cdn.mdstrm.com/live-audio-aw/637f68ddce4b1208597d8a86?aid=53bc2bcae41e2d9c662e1ba7&pid=xo5YGeXTXxaJO0EsC3EPqQF8XbfteCC9&sid=xcTwAPJARQ1YInXm5oXF5TlcXSAMCf61&uid=rAMShD2B1KRbKY4GzWlubH0IF6oOF8Lf&es=us-b4-p-e-ja16-audio.cdn.mdstrm.com&ote=1769504008481&ot=3rP84hW9AcvpeZVYAigvJQ&proto=https&pz=us&cP=128000&awCollectionId=53bc2bcae41e2d9c662e1ba7&liveId=637f68ddce4b1208597d8a86&referer=https%3A%2F%2Fradio.garden%2F&listenerId=rAMShD2B1KRbKY4GzWlubH0IF6oOF8Lf",
+    "genre": "Music",
+    "city": "Santiago",
+    "country": "Chile",
+    "lat": -33.4377756,
+    "lng": -70.6504502
+  },
+  {
+    "id": "chile-sonar-fm-1053",
+    "name": "Sonar FM 105.3",
+    "url": "https://us-b4-p-e-ja16-audio.cdn.mdstrm.com/live-audio-aw/5c915724519bce27671c4d15?aid=5c58a34e176c2c0813b22e4b&property=radiobox&pid=mkmMh1s73spyDdZ6tVsyJhfoLH3Or2pt&sid=ob2CqQ8ebXegoGw1a0y0eGayJPJ4PYaI&uid=bbmljbD9WMxKC0sFuTJXPK7rOjVEy2dO&es=us-b4-p-e-ja16-audio.cdn.mdstrm.com&ote=1769504008471&ot=Cz_IbDJuf7iZ5VkECAO68A&proto=https&pz=us&cP=128000&awCollectionId=5c58a34e176c2c0813b22e4b&aw_0_1st.playerId=radiobox&liveId=5c915724519bce27671c4d15&referer=https%3A%2F%2Fradio.garden%2F&propertyName=radiobox&propertyType=rss-app&listenerId=bbmljbD9WMxKC0sFuTJXPK7rOjVEy2dO",
+    "genre": "Music",
+    "city": "Santiago",
+    "country": "Chile",
+    "lat": -33.4377756,
+    "lng": -70.6504502
+  },
+  {
+    "id": "chile-bío-bío-fm-997",
+    "name": "Bío-Bío FM 99.7",
+    "url": "https://unlimited5-us.dps.live/biobiosantiago/aac/icecast.audio",
+    "genre": "Music",
+    "city": "Santiago",
+    "country": "Chile",
+    "lat": -33.4377756,
+    "lng": -70.6504502
+  },
+  {
+    "id": "chile-cooperativa",
+    "name": "Cooperativa",
+    "url": "https://unlimited5-us.dps.live/cooperativafm/aac/icecast.audio",
+    "genre": "Music",
+    "city": "Santiago",
+    "country": "Chile",
+    "lat": -33.4377756,
+    "lng": -70.6504502
+  },
+  {
+    "id": "chile-agricultura",
+    "name": "Agricultura",
+    "url": "https://unlimited5-us.dps.live/agricultura/mp3/icecast.audio",
+    "genre": "Music",
+    "city": "Santiago",
+    "country": "Chile",
+    "lat": -33.4377756,
+    "lng": -70.6504502
+  },
+  {
+    "id": "chile-rock-pop-fm-941",
+    "name": "Rock & Pop FM 94.1",
+    "url": "https://26593.live.streamtheworld.com:443/ROCK_AND_POPAAC.aac",
+    "genre": "Music",
+    "city": "Santiago",
+    "country": "Chile",
+    "lat": -33.4377756,
+    "lng": -70.6504502
+  },
+  {
+    "id": "chile-radio-corazón-fm",
+    "name": "Radio Corazón FM",
+    "url": "https://26683.live.streamtheworld.com:443/CORAZONAAC.aac",
+    "genre": "Music",
+    "city": "Santiago",
+    "country": "Chile",
+    "lat": -33.4377756,
+    "lng": -70.6504502
+  },
+  {
+    "id": "chile-adn",
+    "name": "ADN",
+    "url": "https://26663.live.streamtheworld.com:443/ADN_SC",
+    "genre": "Music",
+    "city": "Santiago",
+    "country": "Chile",
+    "lat": -33.4377756,
+    "lng": -70.6504502
+  },
+  {
+    "id": "chile-supersonika-fm-955",
+    "name": "Supersonika FM 95.5",
+    "url": "https://sonando-us.digitalproserver.com/supersonikafm.mp3",
+    "genre": "Music",
+    "city": "Concepción",
+    "country": "Chile",
+    "lat": -36.8270698,
+    "lng": -73.0502064
+  },
+  {
+    "id": "chile-punto-7",
+    "name": "Punto 7",
+    "url": "https://unlimited4-us.dps.live/p7concepcion/aac/icecast.audio",
+    "genre": "Music",
+    "city": "Concepción",
+    "country": "Chile",
+    "lat": -36.8270698,
+    "lng": -73.0502064
+  },
+  {
+    "id": "chile-radio-interamericana",
+    "name": "Radio Interamericana",
+    "url": "https://sonando-us.digitalproserver.com/radiointeramericana.aac",
+    "genre": "Music",
+    "city": "Concepción",
+    "country": "Chile",
+    "lat": -36.8270698,
+    "lng": -73.0502064
+  },
+  {
+    "id": "chile-bio-bio-fm-981",
+    "name": "Bio-Bio FM 98.1",
+    "url": "https://unlimited5-us.dps.live/biobioconcepcion/aac/icecast.audio",
+    "genre": "Music",
+    "city": "Concepción",
+    "country": "Chile",
+    "lat": -36.8270698,
+    "lng": -73.0502064
+  },
+  {
+    "id": "chile-andromeda-rise",
+    "name": "Andromeda Rise",
+    "url": "https://sh4.radioonlinehd.com:8513/stream",
+    "genre": "Music",
+    "city": "Santiago",
+    "country": "Chile",
+    "lat": -33.4377756,
+    "lng": -70.6504502
+  },
+  {
+    "id": "chile-femenina-fm",
+    "name": "Femenina FM",
+    "url": "https://archi-us.digitalproserver.com/femenina.aac",
+    "genre": "Music",
+    "city": "Concepción",
+    "country": "Chile",
+    "lat": -36.8270698,
+    "lng": -73.0502064
+  },
+  {
+    "id": "chile-el-carbón",
+    "name": "El Carbón",
+    "url": "http://ice.digitalproserver.com/el_carbon",
+    "genre": "Music",
+    "city": "Concepción",
+    "country": "Chile",
+    "lat": -36.8270698,
+    "lng": -73.0502064
+  },
+  {
+    "id": "chile-radio-uno-chiguayante-1079-fm",
+    "name": "Radio Uno Chiguayante 107.9 FM",
+    "url": "https://sonic.globalstreaming.net/8114/stream",
+    "genre": "Music",
+    "city": "Concepción",
+    "country": "Chile",
+    "lat": -36.8270698,
+    "lng": -73.0502064
+  },
+  {
+    "id": "chile-radio-nonguen-1079-fm",
+    "name": "Radio Nonguén 107.9 FM",
+    "url": "https://sonic.portalfoxmix.cl/8314/stream",
+    "genre": "Music",
+    "city": "Concepción",
+    "country": "Chile",
+    "lat": -36.8270698,
+    "lng": -73.0502064
+  },
+  {
+    "id": "chile-radio-destino-2-español",
+    "name": "Radio Destino 2 (Español)",
+    "url": "https://radio.streemlion.com:2175/stream",
+    "genre": "Music",
+    "city": "Concepción",
+    "country": "Chile",
+    "lat": -36.8270698,
+    "lng": -73.0502064
+  },
+  {
+    "id": "chile-radio-energia-957-fm",
+    "name": "Radio Energia 95.7 FM",
+    "url": "https://sonic.mistreamingtv.uno/8016/stream",
+    "genre": "Music",
+    "city": "Concepción",
+    "country": "Chile",
+    "lat": -36.8270698,
+    "lng": -73.0502064
+  },
+  {
+    "id": "chile-radio-udec",
+    "name": "Radio UdeC",
+    "url": "https://audio.divalstream.com:7019/stream",
+    "genre": "Music",
+    "city": "Concepción",
+    "country": "Chile",
+    "lat": -36.8270698,
+    "lng": -73.0502064
+  },
+  {
+    "id": "chile-antofapop",
+    "name": "AntofaPop",
+    "url": "https://sp1.streamingssl.com:7013/index.html?sid=1",
+    "genre": "Music",
+    "city": "Antofagasta",
+    "country": "Chile",
+    "lat": -23.6463741,
+    "lng": -70.3980033
+  },
+  {
+    "id": "chile-radio-destino-3",
+    "name": "Radio Destino 3",
+    "url": "https://radio.streemlion.com:4915/stream",
+    "genre": "Music",
+    "city": "Concepción",
+    "country": "Chile",
+    "lat": -36.8270698,
+    "lng": -73.0502064
+  },
+  {
+    "id": "chile-contagio-radio-fm-1045",
+    "name": "Contagio Radio FM 104.5",
+    "url": "https://sonic.streamingchilenos.com:7113/",
+    "genre": "Music",
+    "city": "Concepción",
+    "country": "Chile",
+    "lat": -36.8270698,
+    "lng": -73.0502064
+  },
+  {
+    "id": "chile-radio-dinamica-fm-1007",
+    "name": "Radio Dinamica FM 100.7",
+    "url": "https://streaming.comunicacioneschile.net/8030/stream",
+    "genre": "Music",
+    "city": "Concepción",
+    "country": "Chile",
+    "lat": -36.8270698,
+    "lng": -73.0502064
+  },
+  {
+    "id": "chile-radio-sol-classic",
+    "name": "Radio Sol Classic",
+    "url": "https://us9.maindigitalstream.com/ssl/radiosol",
+    "genre": "Music",
+    "city": "Antofagasta",
+    "country": "Chile",
+    "lat": -23.6463741,
+    "lng": -70.3980033
+  },
+  {
+    "id": "chile-radio-antofagasta-online",
+    "name": "Radio Antofagasta Online",
+    "url": "https://sonic.portalfoxmix.club:7157/index.html?sid=1",
+    "genre": "Music",
+    "city": "Antofagasta",
+    "country": "Chile",
+    "lat": -23.6463741,
+    "lng": -70.3980033
+  },
+  {
+    "id": "chile-radio-carnaval-fm-965",
+    "name": "Radio Carnaval FM 96.5",
+    "url": "http://sonando.us.digitalproserver.com/carnaval_antofagasta.aac",
+    "genre": "Music",
+    "city": "Antofagasta",
+    "country": "Chile",
+    "lat": -23.6463741,
+    "lng": -70.3980033
+  },
+  {
+    "id": "chile-la-tropi-fm",
+    "name": "La Tropi FM",
+    "url": "https://sonic.streamingchilenos.com/8014/stream",
+    "genre": "Music",
+    "city": "Antofagasta",
+    "country": "Chile",
+    "lat": -23.6463741,
+    "lng": -70.3980033
+  },
+  {
+    "id": "chile-radio-romina-fm-925",
+    "name": "Radio Romina FM 92.5",
+    "url": "https://sp1.streamingssl.com/8044/stream",
+    "genre": "Music",
+    "city": "Antofagasta",
+    "country": "Chile",
+    "lat": -23.6463741,
+    "lng": -70.3980033
+  },
+  {
+    "id": "chile-radio-247-antofagasta",
+    "name": "Radio 24/7 Antofagasta",
+    "url": "https://broadcast.radio247.net/radio/8000/index.html?sid=1",
+    "genre": "Music",
+    "city": "Antofagasta",
+    "country": "Chile",
+    "lat": -23.6463741,
+    "lng": -70.3980033
+  },
+  {
+    "id": "chile-aun-estamos-vivos-fm-999",
+    "name": "Aun Estamos Vivos FM 99.9",
+    "url": "https://radio.tvstream.cl/8152/stream",
+    "genre": "Music",
+    "city": "Antofagasta",
+    "country": "Chile",
+    "lat": -23.6463741,
+    "lng": -70.3980033
+  },
+  {
+    "id": "chile-radio-desierto-fm-921",
+    "name": "Radio Desierto FM 92.1",
+    "url": "https://broadcast.radio247.net/radio/8100/stream",
+    "genre": "Music",
+    "city": "Antofagasta",
+    "country": "Chile",
+    "lat": -23.6463741,
+    "lng": -70.3980033
+  },
+  {
+    "id": "chile-radio-ua-universidad-de-antofagasta",
+    "name": "Radio UA (Universidad de Antofagasta)",
+    "url": "https://us9.maindigitalstream.com/ssl/7422",
+    "genre": "Music",
+    "city": "Antofagasta",
+    "country": "Chile",
+    "lat": -23.6463741,
+    "lng": -70.3980033
+  },
+  {
+    "id": "chile-radio-club-retro",
+    "name": "Radio Club Retro",
+    "url": "https://radio.tvstream.cl:7048/stream",
+    "genre": "Music",
+    "city": "Antofagasta",
+    "country": "Chile",
+    "lat": -23.6463741,
+    "lng": -70.3980033
+  },
+  {
+    "id": "chile-cobroxradiofm",
+    "name": "COBrOx.RADiO.FM",
+    "url": "https://cast1.asurahosting.com/proxy/cobroxra/cobroxradio",
+    "genre": "Music",
+    "city": "Valparaíso",
+    "country": "Chile",
+    "lat": -33.0458456,
+    "lng": -71.6196749
+  },
+  {
+    "id": "chile-radio-tamarugal-975-fm",
+    "name": "Radio Tamarugal 97.5 FM",
+    "url": "https://sonic.streamingchilenos.com/8230/stream",
+    "genre": "Music",
+    "city": "Antofagasta",
+    "country": "Chile",
+    "lat": -23.6463741,
+    "lng": -70.3980033
+  },
+  {
+    "id": "chile-radio-san-andres-fm-995",
+    "name": "Radio San Andrés FM 99.5",
+    "url": "https://sp1.streamingssl.com/8032/stream",
+    "genre": "Music",
+    "city": "Antofagasta",
+    "country": "Chile",
+    "lat": -23.6463741,
+    "lng": -70.3980033
+  },
+  {
+    "id": "chile-radio-antara",
+    "name": "Radio Antara",
+    "url": "https://video.mediawebchile.com:2000/stream/8214/stream/",
+    "genre": "Music",
+    "city": "Antofagasta",
+    "country": "Chile",
+    "lat": -23.6463741,
+    "lng": -70.3980033
+  },
+  {
+    "id": "chile-radio-tsonami",
+    "name": "Radio Tsonami",
+    "url": "https://radio-tsonami-b24c40dc.radiocult.fm/stream",
+    "genre": "Music",
+    "city": "Valparaíso",
+    "country": "Chile",
+    "lat": -33.0458456,
+    "lng": -71.6196749
+  },
+  {
+    "id": "chile-madero-fm-1025",
+    "name": "Madero FM 102.5",
+    "url": "https://audio3.tustreaming.cl/7750/stream",
+    "genre": "Music",
+    "city": "Antofagasta",
+    "country": "Chile",
+    "lat": -23.6463741,
+    "lng": -70.3980033
+  },
+  {
+    "id": "chile-radio-bohemia-1071-fm",
+    "name": "Radio Bohemia 107.1 FM",
+    "url": "https://audio.streaminghd.cl:2000/stream/bohemia-memoria-eterna/;stream.mp3",
+    "genre": "Music",
+    "city": "Valparaíso",
+    "country": "Chile",
+    "lat": -33.0458456,
+    "lng": -71.6196749
+  },
+  {
+    "id": "chile-radio-litoral-1043-fm",
+    "name": "Radio Litoral 104.3 FM",
+    "url": "https://cast1.my-control-panel.com/proxy/litoralfm/stream",
+    "genre": "Music",
+    "city": "Antofagasta",
+    "country": "Chile",
+    "lat": -23.6463741,
+    "lng": -70.3980033
+  },
+  {
+    "id": "chile-radio-caracola",
+    "name": "Radio Caracola",
+    "url": "https://stm2.srvif.com:8078/stream",
+    "genre": "Music",
+    "city": "Valparaíso",
+    "country": "Chile",
+    "lat": -33.0458456,
+    "lng": -71.6196749
+  },
+  {
+    "id": "chile-radio-festival-fm-937",
+    "name": "Radio Festival FM 93.7",
+    "url": "https://sp001.servidoresph.com:7061/1",
+    "genre": "Music",
+    "city": "Valparaíso",
+    "country": "Chile",
+    "lat": -33.0458456,
+    "lng": -71.6196749
+  },
+  {
+    "id": "chile-radio-wiphala-1075-fm",
+    "name": "Radio Wiphala 107.5 FM",
+    "url": "https://chileservidores.cl/audio/?p=9766",
+    "genre": "Music",
+    "city": "Antofagasta",
+    "country": "Chile",
+    "lat": -23.6463741,
+    "lng": -70.3980033
+  },
+  {
+    "id": "chile-radio-fe",
+    "name": "Radio Fe",
+    "url": "https://stm.livestation.stream/7072/stream/",
+    "genre": "Music",
+    "city": "Valparaíso",
+    "country": "Chile",
+    "lat": -33.0458456,
+    "lng": -71.6196749
+  },
+  {
+    "id": "chile-ritoque-fm-1079",
+    "name": "Ritoque FM 107.9",
+    "url": "https://audio.purum.cl:8000/ritoquefm",
+    "genre": "Music",
+    "city": "Valparaíso",
+    "country": "Chile",
+    "lat": -33.0458456,
+    "lng": -71.6196749
+  },
+  {
+    "id": "chile-mirasol-fm",
+    "name": "Mirasol FM",
+    "url": "https://cast1.my-control-panel.com/proxy/mirasolfm/stream",
+    "genre": "Music",
+    "city": "Valparaíso",
+    "country": "Chile",
+    "lat": -33.0458456,
+    "lng": -71.6196749
+  },
+  {
+    "id": "chile-rvl-973-fm",
+    "name": "RVL 97.3 FM",
+    "url": "https://streaming.prositel.cl/8068/stream",
+    "genre": "Music",
+    "city": "Valparaíso",
+    "country": "Chile",
+    "lat": -33.0458456,
+    "lng": -71.6196749
+  },
+  {
+    "id": "chile-portales-fm-895",
+    "name": "Portales FM 89.5",
+    "url": "https://stream.mediaradio.cl/8106/stream",
+    "genre": "Music",
+    "city": "Valparaíso",
+    "country": "Chile",
+    "lat": -33.0458456,
+    "lng": -71.6196749
+  },
+  {
+    "id": "chile-bio-bio-valparaiso",
+    "name": "Bio Bio Valparaiso",
+    "url": "https://unlimited11-cl.dps.live/biobiovalparaiso/aac/icecast.audio",
+    "genre": "Music",
+    "city": "Valparaíso",
+    "country": "Chile",
+    "lat": -33.0458456,
+    "lng": -71.6196749
+  },
+  {
+    "id": "chile-espacio-regional-online",
+    "name": "Espacio Regional Online",
+    "url": "https://stream-177.zeno.fm/udv4r5b6e2zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1ZHY0cjViNmUyenV2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiZnVINGhmbUVUSWE3VklONWlWN21OQSIsImlhdCI6MTc2OTQxNzYyMCwiZXhwIjoxNzY5NDE3NjgwfQ.3oaa363I4Yg5olVyZgnz8dD-Qj4sD_Ukmfoz5_wuYxA",
+    "genre": "Music",
+    "city": "Valparaíso",
+    "country": "Chile",
+    "lat": -33.0458456,
+    "lng": -71.6196749
+  },
+  {
+    "id": "chile-la-voz-de-concón",
+    "name": "La Voz de Concón",
+    "url": "https://sonic.portalfoxmix.cl/9920/stream",
+    "genre": "Music",
+    "city": "Valparaíso",
+    "country": "Chile",
+    "lat": -33.0458456,
+    "lng": -71.6196749
+  },
+  {
+    "id": "chile-patagonia-radio-941-fm",
+    "name": "Patagonia Radio 94.1 FM",
+    "url": "https://audio.streaminghd.cl:2000/stream/patagoniaradio",
+    "genre": "Music",
+    "city": "Puerto Montt",
+    "country": "Chile",
+    "lat": -41.471798,
+    "lng": -72.9395915
+  },
+  {
+    "id": "chile-dulce-fm-979",
+    "name": "Dulce FM 97.9",
+    "url": "https://stream-160.zeno.fm/yo6udiulqhbvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5bzZ1ZGl1bHFoYnZ2IiwiaG9zdCI6InN0cmVhbS0xNjAuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiMjd3ZDN5T0xSX2FMSTBZVVVtUHp1dyIsImlhdCI6MTc2OTQxNzYyMSwiZXhwIjoxNzY5NDE3NjgxfQ.fdcxzdy23hZV7Y7TBPO44bu3epKMI9Zc5b7B9_nDOUU",
+    "genre": "Music",
+    "city": "Valparaíso",
+    "country": "Chile",
+    "lat": -33.0458456,
+    "lng": -71.6196749
+  },
+  {
+    "id": "chile-bio-bio-puerto-montt",
+    "name": "Bio Bio Puerto Montt",
+    "url": "https://unlimited4-us.dps.live/biobiopuertomontt/aac/icecast.audio",
+    "genre": "Music",
+    "city": "Puerto Montt",
+    "country": "Chile",
+    "lat": -41.471798,
+    "lng": -72.9395915
+  },
+  {
+    "id": "chile-amiga-20-fm-957",
+    "name": "Amiga 2.0 FM 95.7",
+    "url": "https://audio-edge-fvq45.ams.d.radiomast.io/aff8c0f0-5d0c-41d6-83b2-71daff574701",
+    "genre": "Music",
+    "city": "Puerto Montt",
+    "country": "Chile",
+    "lat": -41.471798,
+    "lng": -72.9395915
+  },
+  {
+    "id": "chile-radio-puerto-montt-fm-1075",
+    "name": "Radio Puerto Montt FM 107.5",
+    "url": "https://sp001.servidoresph.com/8044/stream",
+    "genre": "Music",
+    "city": "Puerto Montt",
+    "country": "Chile",
+    "lat": -41.471798,
+    "lng": -72.9395915
+  },
+  {
+    "id": "chile-radio-castillo-fuerte",
+    "name": "Radio Castillo Fuerte",
+    "url": "https://ssl.aloncast.com:1665/index.html?sid=1",
+    "genre": "Music",
+    "city": "Puerto Montt",
+    "country": "Chile",
+    "lat": -41.471798,
+    "lng": -72.9395915
+  },
+  {
+    "id": "chile-punto-7-puerto-montt-fm-1019",
+    "name": "Punto 7 Puerto Montt FM 101.9",
+    "url": "https://unlimited3-cl.dps.live/p7puertomontt/aac/icecast.audio",
+    "genre": "Music",
+    "city": "Puerto Montt",
+    "country": "Chile",
+    "lat": -41.471798,
+    "lng": -72.9395915
+  },
+  {
+    "id": "chile-acogida-fm-1013",
+    "name": "Acogida FM 101.3",
+    "url": "https://streaming.chiloestreaming.com/8014/stream",
+    "genre": "Music",
+    "city": "Puerto Montt",
+    "country": "Chile",
+    "lat": -41.471798,
+    "lng": -72.9395915
+  },
+  {
+    "id": "chile-acogida-fm",
+    "name": "Acogida FM",
+    "url": "https://streaming.chiloestreaming.com/8016/stream",
+    "genre": "Music",
+    "city": "Puerto Montt",
+    "country": "Chile",
+    "lat": -41.471798,
+    "lng": -72.9395915
+  },
+  {
+    "id": "chile-radio-sago",
+    "name": "Radio Sago",
+    "url": "https://audio.divalstream.com:7002/stream",
+    "genre": "Music",
+    "city": "Puerto Montt",
+    "country": "Chile",
+    "lat": -41.471798,
+    "lng": -72.9395915
+  },
+  {
+    "id": "chile-purranque-fm-1041",
+    "name": "Purranque FM 104.1",
+    "url": "https://sonic.portalfoxmix.club/8396//stream",
+    "genre": "Music",
+    "city": "Puerto Montt",
+    "country": "Chile",
+    "lat": -41.471798,
+    "lng": -72.9395915
+  },
+  {
+    "id": "chile-radio-cuarta-colina-1079-fm",
+    "name": "Radio Cuarta Colina 107.9 FM",
+    "url": "https://sonic-us.arkeo.cl/8384/",
+    "genre": "Music",
+    "city": "Puerto Montt",
+    "country": "Chile",
+    "lat": -41.471798,
+    "lng": -72.9395915
+  },
+  {
+    "id": "chile-oceano-fm-981",
+    "name": "Oceano FM 98.1",
+    "url": "https://audio2.tustreaming.cl/9025/stream",
+    "genre": "Music",
+    "city": "La Serena",
+    "country": "Chile",
+    "lat": -29.902631,
+    "lng": -71.2520253
+  },
+  {
+    "id": "chile-tropical-stereo-fm-1067",
+    "name": "Tropical Stereo FM 106.7",
+    "url": "https://sonic-us.fhost.cl:7012/stream",
+    "genre": "Music",
+    "city": "Puerto Montt",
+    "country": "Chile",
+    "lat": -41.471798,
+    "lng": -72.9395915
+  },
+  {
+    "id": "chile-radio-dulce-fm-1063",
+    "name": "Radio Dulce FM 106.3",
+    "url": "https://stream-155.zeno.fm/7y4qdsmxn7zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI3eTRxZHNteG43enV2IiwiaG9zdCI6InN0cmVhbS0xNTUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiM2FLMjVUY1hRbU95MUh4N2djcnZ5QSIsImlhdCI6MTc2OTQxNzYyMywiZXhwIjoxNzY5NDE3NjgzfQ.V0VScQRCyjbDyT6OrclmoGiPBHxyXoG5KyFXsPkGjHE",
+    "genre": "Music",
+    "city": "Puerto Montt",
+    "country": "Chile",
+    "lat": -41.471798,
+    "lng": -72.9395915
+  },
+  {
+    "id": "chile-radio-ruta-norte-fm",
+    "name": "Radio Ruta Norte FM",
+    "url": "https://sonic.globalstreaming.net/8142/stream",
+    "genre": "Music",
+    "city": "La Serena",
+    "country": "Chile",
+    "lat": -29.902631,
+    "lng": -71.2520253
+  },
+  {
+    "id": "chile-radio-colonial",
+    "name": "Radio Colonial",
+    "url": "https://cp.streamchileno.cl/radio/8120/radio.mp3",
+    "genre": "Music",
+    "city": "La Serena",
+    "country": "Chile",
+    "lat": -29.902631,
+    "lng": -71.2520253
+  },
+  {
+    "id": "chile-mi-radio-985-fm",
+    "name": "Mi Radio 98.5 FM",
+    "url": "https://audio1.tustreaming.cl/9020/stream",
+    "genre": "Music",
+    "city": "La Serena",
+    "country": "Chile",
+    "lat": -29.902631,
+    "lng": -71.2520253
+  },
+  {
+    "id": "chile-radio-pinamar-fm-1079",
+    "name": "Radio Pinamar FM 107.9",
+    "url": "https://sonic.streamingchilenos.com:7077/index.html?sid=1",
+    "genre": "Music",
+    "city": "La Serena",
+    "country": "Chile",
+    "lat": -29.902631,
+    "lng": -71.2520253
+  },
+  {
+    "id": "chile-radio-margarita-fm-951",
+    "name": "Radio Margarita FM 95.1",
+    "url": "https://audio0.tustreaming.cl/7310/stream",
+    "genre": "Music",
+    "city": "La Serena",
+    "country": "Chile",
+    "lat": -29.902631,
+    "lng": -71.2520253
+  },
+  {
+    "id": "chile-radio-cinco-valles-fm",
+    "name": "Radio Cinco Valles FM",
+    "url": "https://c25.radioboss.fm:8420/stream",
+    "genre": "Music",
+    "city": "La Serena",
+    "country": "Chile",
+    "lat": -29.902631,
+    "lng": -71.2520253
+  },
+  {
+    "id": "chile-el-conquistador-la-serena-1015-fm",
+    "name": "El Conquistador La Serena 101.5 FM",
+    "url": "https://audio5.tustreaming.cl/8165/stream",
+    "genre": "Music",
+    "city": "La Serena",
+    "country": "Chile",
+    "lat": -29.902631,
+    "lng": -71.2520253
+  },
+  {
+    "id": "chile-radio-genesis-fm-941",
+    "name": "Radio Genesis FM 94.1",
+    "url": "https://archi-us.digitalproserver.com/genesis-fm.aac",
+    "genre": "Music",
+    "city": "La Serena",
+    "country": "Chile",
+    "lat": -29.902631,
+    "lng": -71.2520253
+  },
+  {
+    "id": "chile-radio-encanto-fm-885",
+    "name": "Radio Encanto FM 88.5",
+    "url": "https://archi-us.digitalproserver.com/encanto_ovalle.aac",
+    "genre": "Music",
+    "city": "La Serena",
+    "country": "Chile",
+    "lat": -29.902631,
+    "lng": -71.2520253
+  },
+  {
+    "id": "chile-radio-san-bartolome-967-fm",
+    "name": "Radio San Bartolomé 96.7 FM",
+    "url": "https://sonicpanel.chileservidores.cl:8030/stream",
+    "genre": "Music",
+    "city": "La Serena",
+    "country": "Chile",
+    "lat": -29.902631,
+    "lng": -71.2520253
+  },
+  {
+    "id": "chile-radio-guayacan-fm-951",
+    "name": "Radio Guayacan FM 95.1",
+    "url": "https://sonic.mallocohosting.cl/8038/stream",
+    "genre": "Music",
+    "city": "La Serena",
+    "country": "Chile",
+    "lat": -29.902631,
+    "lng": -71.2520253
+  },
+  {
+    "id": "chile-radio-montecarlo-la-serena",
+    "name": "Radio Montecarlo La Serena",
+    "url": "https://sonic.mallocohosting.cl/8032/stream",
+    "genre": "Music",
+    "city": "La Serena",
+    "country": "Chile",
+    "lat": -29.902631,
+    "lng": -71.2520253
+  },
+  {
+    "id": "chile-alternativa-fm-1055",
+    "name": "Alternativa FM 105.5",
+    "url": "https://radio.tvstream.cl/8044/stream",
+    "genre": "Music",
+    "city": "La Serena",
+    "country": "Chile",
+    "lat": -29.902631,
+    "lng": -71.2520253
+  },
+  {
+    "id": "chile-universitaria-fm-universidad-de-la-serena",
+    "name": "Universitaria FM (Universidad de La Serena)",
+    "url": "https://radio.cic.userena.cl/radio-uls",
+    "genre": "Music",
+    "city": "La Serena",
+    "country": "Chile",
+    "lat": -29.902631,
+    "lng": -71.2520253
+  },
+  {
+    "id": "chile-agustina-fm",
+    "name": "Agustina FM",
+    "url": "https://video.mediawebchile.com:2000/stream/8196/stream",
+    "genre": "Music",
+    "city": "La Serena",
+    "country": "Chile",
+    "lat": -29.902631,
+    "lng": -71.2520253
+  },
+  {
+    "id": "chile-alborada-fm-1061",
+    "name": "Alborada FM 106.1",
+    "url": "https://sonic.portalfoxmix.club/8438/stream",
+    "genre": "Music",
+    "city": "Chillán",
+    "country": "Chile",
+    "lat": -36.6066616,
+    "lng": -72.1033194
+  },
+  {
+    "id": "chile-radio-contacto-fm-907",
+    "name": "Radio Contacto FM 90.7",
+    "url": "https://sp001.servidoresph.com:8092/stream",
+    "genre": "Music",
+    "city": "Chillán",
+    "country": "Chile",
+    "lat": -36.6066616,
+    "lng": -72.1033194
+  },
+  {
+    "id": "chile-ñuble-am-900",
+    "name": "Ñuble AM 900",
+    "url": "https://streaming.comunicacioneschile.net/9358/stream/1/",
+    "genre": "Music",
+    "city": "Chillán",
+    "country": "Chile",
+    "lat": -36.6066616,
+    "lng": -72.1033194
+  },
+  {
+    "id": "chile-radio-contexto-ñuble",
+    "name": "Radio Contexto Ñuble",
+    "url": "https://streaming.viphosting.cl/8028/stream/",
+    "genre": "Music",
+    "city": "Chillán",
+    "country": "Chile",
+    "lat": -36.6066616,
+    "lng": -72.1033194
+  },
+  {
+    "id": "chile-radio-cariñosa-921-fm",
+    "name": "Radio Cariñosa 92.1 FM",
+    "url": "https://archi-us.digitalproserver.com/carinosa-fm.aac",
+    "genre": "Music",
+    "city": "Chillán",
+    "country": "Chile",
+    "lat": -36.6066616,
+    "lng": -72.1033194
+  },
+  {
+    "id": "chile-radio-interactiva-fm-915",
+    "name": "Radio Interactiva FM 91.5",
+    "url": "https://streaming.comunicacioneschile.net:9324/stream/1/",
+    "genre": "Music",
+    "city": "Chillán",
+    "country": "Chile",
+    "lat": -36.6066616,
+    "lng": -72.1033194
+  },
+  {
+    "id": "chile-la-discusión-fm-947",
+    "name": "La Discusión FM 94.7",
+    "url": "https://archi-us.digitalproserver.com/la-discusion-fm.aac",
+    "genre": "Music",
+    "city": "Chillán",
+    "country": "Chile",
+    "lat": -36.6066616,
+    "lng": -72.1033194
+  },
+  {
+    "id": "chile-hablemos-de",
+    "name": "Hablemos De",
+    "url": "https://audio.publimedial.cl:8056/stream",
+    "genre": "Music",
+    "city": "Chillán",
+    "country": "Chile",
+    "lat": -36.6066616,
+    "lng": -72.1033194
+  },
+  {
+    "id": "chile-la-voz-de-yungay-fm-1027",
+    "name": "La Voz De Yungay FM 102.7",
+    "url": "https://streaming.comunicacioneschile.net/8016/stream",
+    "genre": "Music",
+    "city": "Chillán",
+    "country": "Chile",
+    "lat": -36.6066616,
+    "lng": -72.1033194
+  },
+  {
+    "id": "chile-creación-fm-993",
+    "name": "Creación FM 99.3",
+    "url": "https://archi-us.digitalproserver.com/creacion-fm.aac",
+    "genre": "Music",
+    "city": "Chillán",
+    "country": "Chile",
+    "lat": -36.6066616,
+    "lng": -72.1033194
+  },
+  {
+    "id": "chile-radio-el-sembrador",
+    "name": "Radio El Sembrador",
+    "url": "https://sonic-cl.arkeo.cl:9330/;mp3",
+    "genre": "Music",
+    "city": "Chillán",
+    "country": "Chile",
+    "lat": -36.6066616,
+    "lng": -72.1033194
+  },
+  {
+    "id": "chile-radio-paulina-893-fm",
+    "name": "Radio Paulina 89.3 FM",
+    "url": "https://us9.maindigitalstream.com/ssl/radiopaulina",
+    "genre": "Music",
+    "city": "Iquique",
+    "country": "Chile",
+    "lat": -20.2140657,
+    "lng": -70.1524646
+  },
+  {
+    "id": "chile-catalina-fm-1063",
+    "name": "Catalina FM 106.3",
+    "url": "https://streaming.comunicacioneschile.net/9398/stream/",
+    "genre": "Music",
+    "city": "Chillán",
+    "country": "Chile",
+    "lat": -36.6066616,
+    "lng": -72.1033194
+  },
+  {
+    "id": "chile-radio-contigo-fm-985",
+    "name": "Radio Contigo FM 98.5",
+    "url": "https://streaming.comunicacioneschile.net:9318/;stream.mp3",
+    "genre": "Music",
+    "city": "Chillán",
+    "country": "Chile",
+    "lat": -36.6066616,
+    "lng": -72.1033194
+  },
+  {
+    "id": "chile-la-mega-fm-1027",
+    "name": "La Mega FM 102.7",
+    "url": "https://sonic.portalfoxmix.club/8478/stream",
+    "genre": "Music",
+    "city": "Iquique",
+    "country": "Chile",
+    "lat": -20.2140657,
+    "lng": -70.1524646
+  },
+  {
+    "id": "chile-radio-bravíssima-fm-887",
+    "name": "Radio Bravíssima FM 88.7",
+    "url": "https://club.asdmedios.cl/radio/8030//radio.mp3",
+    "genre": "Music",
+    "city": "Iquique",
+    "country": "Chile",
+    "lat": -20.2140657,
+    "lng": -70.1524646
+  },
+  {
+    "id": "chile-radio-caribe-1049-fm",
+    "name": "Radio Caribe 104.9 FM",
+    "url": "https://sp1.streamingssl.com/8060/stream",
+    "genre": "Music",
+    "city": "Iquique",
+    "country": "Chile",
+    "lat": -20.2140657,
+    "lng": -70.1524646
+  },
+  {
+    "id": "chile-radio-municipal-933-fm",
+    "name": "Radio Municipal 93.3 FM",
+    "url": "https://audio.streaminghd.cl:2000/stream/radiomunicipaliquique/;stream.mp3",
+    "genre": "Music",
+    "city": "Iquique",
+    "country": "Chile",
+    "lat": -20.2140657,
+    "lng": -70.1524646
+  },
+  {
+    "id": "chile-radio-alive-online",
+    "name": "Radio Alive Online",
+    "url": "https://stream-176.zeno.fm/nps7htw4ekhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJucHM3aHR3NGVraHZ2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiT3kwUjFqeTBUQnEwc0F3RUtTTkpzZyIsImlhdCI6MTc2OTQxNzYzMCwiZXhwIjoxNzY5NDE3NjkwfQ._pj1vCe5FV-VxEv6xNdwWj5CH3x49wIO6YLbOXqemKs",
+    "genre": "Music",
+    "city": "Chillán",
+    "country": "Chile",
+    "lat": -36.6066616,
+    "lng": -72.1033194
+  },
+  {
+    "id": "chile-la-nueva-super-919-fm",
+    "name": "La Nueva Super 91.9 FM",
+    "url": "https://club.asdmedios.cl/radio/8180/radio.mp3",
+    "genre": "Music",
+    "city": "Iquique",
+    "country": "Chile",
+    "lat": -20.2140657,
+    "lng": -70.1524646
+  },
+  {
+    "id": "chile-radio-invasion-chile",
+    "name": "Radio Invasion Chile",
+    "url": "https://us9.maindigitalstream.com/ssl/radioinvasion",
+    "genre": "Music",
+    "city": "Iquique",
+    "country": "Chile",
+    "lat": -20.2140657,
+    "lng": -70.1524646
+  },
+  {
+    "id": "chile-vilas-radio-fm-1001",
+    "name": "Vilas Radio FM 100.1",
+    "url": "https://sonic.streamingchilenos.com/8072/stream",
+    "genre": "Music",
+    "city": "Iquique",
+    "country": "Chile",
+    "lat": -20.2140657,
+    "lng": -70.1524646
+  },
+  {
+    "id": "chile-radio-folclórica-de-uyuni",
+    "name": "Radio Folclórica de Uyuni",
+    "url": "https://emiteradio.com/proxy/uyuni?mp=/stream",
+    "genre": "Music",
+    "city": "Iquique",
+    "country": "Chile",
+    "lat": -20.2140657,
+    "lng": -70.1524646
+  },
+  {
+    "id": "chile-radiogentecl",
+    "name": "RadioGente.CL",
+    "url": "https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5de27ed416dea236fa7b4309?aid=5b7dcf3d00a700076b0110a2&pid=91qxAqeGdy4ythmq6AkxahiPWHV0WS60&sid=jzGCvfMwwdR3fSXfAYvsJutbOgTZYJin&uid=bC4gqg1HASc4EKsRoaaItp7kp67OLZ6J&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1769504030364&ot=CpVw46QldM3SBSp3b6VMtQ&proto=https&pz=us&cP=128000&awCollectionId=5b7dcf3d00a700076b0110a2&liveId=5de27ed416dea236fa7b4309&referer=https%3A%2F%2Fradio.garden%2F&listenerId=bC4gqg1HASc4EKsRoaaItp7kp67OLZ6J",
+    "genre": "Music",
+    "city": "Iquique",
+    "country": "Chile",
+    "lat": -20.2140657,
+    "lng": -70.1524646
+  },
+  {
+    "id": "chile-radio-chillán-987-fm",
+    "name": "Radio Chillán 98.7 FM",
+    "url": "https://servidor24.brlogic.com:7060/live",
+    "genre": "Music",
+    "city": "Chillán",
+    "country": "Chile",
+    "lat": -36.6066616,
+    "lng": -72.1033194
+  },
+  {
+    "id": "chile-radio-bomberos-iquique",
+    "name": "Radio Bomberos Iquique",
+    "url": "https://sonic.portalfoxmix.club/8064/stream",
+    "genre": "Music",
+    "city": "Iquique",
+    "country": "Chile",
+    "lat": -20.2140657,
+    "lng": -70.1524646
+  },
+  {
+    "id": "chile-radio-creaciones-señal-2",
+    "name": "Radio Creaciones Señal 2",
+    "url": "https://sp.totalstreaming.net/8006/stream",
+    "genre": "Music",
+    "city": "Temuco",
+    "country": "Chile",
+    "lat": -38.7358908,
+    "lng": -72.590538
+  },
+  {
+    "id": "chile-el-conquistador-temuco-1007-fm",
+    "name": "El Conquistador Temuco 100.7 FM",
+    "url": "https://audio5.tustreaming.cl/8060/temuco",
+    "genre": "Music",
+    "city": "Temuco",
+    "country": "Chile",
+    "lat": -38.7358908,
+    "lng": -72.590538
+  },
+  {
+    "id": "chile-radio-alegría-del-transporte-907-fm",
+    "name": "Radio Alegría del Transporte 90.7 FM",
+    "url": "https://streaming01.xhost.cl/8048/",
+    "genre": "Music",
+    "city": "Iquique",
+    "country": "Chile",
+    "lat": -20.2140657,
+    "lng": -70.1524646
+  },
+  {
+    "id": "chile-radio-andina-1001-fm",
+    "name": "Radio Andina 100.1 FM",
+    "url": "https://sonic.globalstream.pro/8034/usastreams+",
+    "genre": "Music",
+    "city": "Iquique",
+    "country": "Chile",
+    "lat": -20.2140657,
+    "lng": -70.1524646
+  },
+  {
+    "id": "chile-magistral",
+    "name": "Magistral",
+    "url": "http://www.magistralfm.cl:9110/galvarino",
+    "genre": "Music",
+    "city": "Temuco",
+    "country": "Chile",
+    "lat": -38.7358908,
+    "lng": -72.590538
+  },
+  {
+    "id": "chile-radio-sonata",
+    "name": "Radio Sonata",
+    "url": "https://sonic-cl.arkeo.cl/8162/stream",
+    "genre": "Music",
+    "city": "Temuco",
+    "country": "Chile",
+    "lat": -38.7358908,
+    "lng": -72.590538
+  },
+  {
+    "id": "chile-radio-victoria-fm-945",
+    "name": "Radio Victoria FM 94.5",
+    "url": "https://sonic.portalfoxmix.cl/8146/stream",
+    "genre": "Music",
+    "city": "Temuco",
+    "country": "Chile",
+    "lat": -38.7358908,
+    "lng": -72.590538
+  },
+  {
+    "id": "chile-sonica-fm",
+    "name": "Sonica FM",
+    "url": "https://free.rcast.net/64463",
+    "genre": "Music",
+    "city": "Temuco",
+    "country": "Chile",
+    "lat": -38.7358908,
+    "lng": -72.590538
+  },
+  {
+    "id": "chile-punto-7-temuco-1017-fm",
+    "name": "Punto 7 Temuco 101.7 FM",
+    "url": "https://unlimited3-cl.dps.live/p7temuco/aac/icecast.audio",
+    "genre": "Music",
+    "city": "Temuco",
+    "country": "Chile",
+    "lat": -38.7358908,
+    "lng": -72.590538
+  },
+  {
+    "id": "chile-radio-contacto",
+    "name": "Radio Contacto",
+    "url": "https://streaming.viphosting.cl/8138/",
+    "genre": "Music",
+    "city": "Talca",
+    "country": "Chile",
+    "lat": -35.4265343,
+    "lng": -71.6660322
+  },
+  {
+    "id": "chile-radio-mirador-fm",
+    "name": "Radio Mirador FM",
+    "url": "https://encoder.stationlink.cl/listen/mirador_temuco/radio.mp3",
+    "genre": "Music",
+    "city": "Temuco",
+    "country": "Chile",
+    "lat": -38.7358908,
+    "lng": -72.590538
+  },
+  {
+    "id": "chile-universal-947-fm",
+    "name": "Universal 94.7 FM",
+    "url": "https://archi-us.digitalproserver.com/universal-fm-pitrufquen2.aac",
+    "genre": "Music",
+    "city": "Temuco",
+    "country": "Chile",
+    "lat": -38.7358908,
+    "lng": -72.590538
+  },
+  {
+    "id": "chile-el-conquistador-talca",
+    "name": "El Conquistador Talca",
+    "url": "https://audio5.tustreaming.cl/8070/talca",
+    "genre": "Music",
+    "city": "Talca",
+    "country": "Chile",
+    "lat": -35.4265343,
+    "lng": -71.6660322
+  },
+  {
+    "id": "chile-radio-fm+-923",
+    "name": "Radio FM+ 92.3",
+    "url": "https://audio5.tustreaming.cl/8010/fmmas",
+    "genre": "Music",
+    "city": "Talca",
+    "country": "Chile",
+    "lat": -35.4265343,
+    "lng": -71.6660322
+  },
+  {
+    "id": "chile-radio-chilena-del-maule-917-fm",
+    "name": "Radio Chilena del Maule 91.7 FM",
+    "url": "https://archi-us.digitalproserver.com/chilena_maule.aac",
+    "genre": "Music",
+    "city": "Talca",
+    "country": "Chile",
+    "lat": -35.4265343,
+    "lng": -71.6660322
+  },
+  {
+    "id": "chile-radio-nuestra-fm-987",
+    "name": "Radio Nuestra FM 98.7",
+    "url": "http://audio.streaminghd.cl:9016/stream",
+    "genre": "Music",
+    "city": "Talca",
+    "country": "Chile",
+    "lat": -35.4265343,
+    "lng": -71.6660322
+  },
+  {
+    "id": "chile-re7-1059-talca",
+    "name": "RE7 105.9 Talca",
+    "url": "https://conectperu.com/8228/stream",
+    "genre": "Music",
+    "city": "Talca",
+    "country": "Chile",
+    "lat": -35.4265343,
+    "lng": -71.6660322
+  },
+  {
+    "id": "chile-radio-buenísima",
+    "name": "Radio Buenísima",
+    "url": "https://sonic01mtl-ca.mihost.stream/8006/stream",
+    "genre": "Music",
+    "city": "Temuco",
+    "country": "Chile",
+    "lat": -38.7358908,
+    "lng": -72.590538
+  },
+  {
+    "id": "chile-nuestra-radio",
+    "name": "Nuestra Radio",
+    "url": "http://cast1.my-control-panel.com:7123/stream",
+    "genre": "Music",
+    "city": "Osorno",
+    "country": "Chile",
+    "lat": -40.5736955,
+    "lng": -73.1358091
+  },
+  {
+    "id": "chile-radio-rosario-fm-1075",
+    "name": "Radio Rosario FM 107.5",
+    "url": "https://cast.radioservicios.cl:8402/radio",
+    "genre": "Music",
+    "city": "Talca",
+    "country": "Chile",
+    "lat": -35.4265343,
+    "lng": -71.6660322
+  },
+  {
+    "id": "chile-radio-montina",
+    "name": "Radio Montina",
+    "url": "https://audio2.tustreaming.cl/9015/stream",
+    "genre": "Music",
+    "city": "Talca",
+    "country": "Chile",
+    "lat": -35.4265343,
+    "lng": -71.6660322
+  },
+  {
+    "id": "chile-radio-paloma-fm-975",
+    "name": "Radio Paloma FM 97.5",
+    "url": "https://audio3.tustreaming.cl/7320/stream",
+    "genre": "Music",
+    "city": "Talca",
+    "country": "Chile",
+    "lat": -35.4265343,
+    "lng": -71.6660322
+  },
+  {
+    "id": "chile-clg-radio-935-fm",
+    "name": "CLG Radio 93.5 FM",
+    "url": "https://sonic.portalfoxmix.club:7005//stream",
+    "genre": "Music",
+    "city": "Osorno",
+    "country": "Chile",
+    "lat": -40.5736955,
+    "lng": -73.1358091
+  },
+  {
+    "id": "chile-ulagos-fm-1075",
+    "name": "Ulagos FM 107.5",
+    "url": "http://radio.ulagos.cl:8000/radio_ulagos",
+    "genre": "Music",
+    "city": "Osorno",
+    "country": "Chile",
+    "lat": -40.5736955,
+    "lng": -73.1358091
+  },
+  {
+    "id": "chile-radio-vgrafico",
+    "name": "Radio Vgrafico",
+    "url": "https://sonic.mallocohosting.cl/8060/stream",
+    "genre": "Music",
+    "city": "Talca",
+    "country": "Chile",
+    "lat": -35.4265343,
+    "lng": -71.6660322
+  },
+  {
+    "id": "chile-radio-sinergia-1045-fm",
+    "name": "Radio Sinergia 104.5 FM",
+    "url": "https://sonic.streamingchilenos.com/8184/stream",
+    "genre": "Music",
+    "city": "Osorno",
+    "country": "Chile",
+    "lat": -40.5736955,
+    "lng": -73.1358091
+  },
+  {
+    "id": "chile-radio-super-sol-1005-fm",
+    "name": "Radio Super Sol 100.5 FM",
+    "url": "https://sonic.portalfoxmix.club/8024/stream",
+    "genre": "Music",
+    "city": "Osorno",
+    "country": "Chile",
+    "lat": -40.5736955,
+    "lng": -73.1358091
+  },
+  {
+    "id": "chile-radiosago-am-780",
+    "name": "RadioSago AM 780",
+    "url": "https://audio.divalstream.com:7001/stream/",
+    "genre": "Music",
+    "city": "Osorno",
+    "country": "Chile",
+    "lat": -40.5736955,
+    "lng": -73.1358091
+  },
+  {
+    "id": "chile-la-palabra-fm-1015",
+    "name": "La Palabra FM 101.5",
+    "url": "https://sonic.streamingchilenos.com/8126/stream:8000/",
+    "genre": "Music",
+    "city": "Osorno",
+    "country": "Chile",
+    "lat": -40.5736955,
+    "lng": -73.1358091
+  },
+  {
+    "id": "chile-radio-la-mega-903-fm",
+    "name": "Radio La Mega 90.3 FM",
+    "url": "https://sonic.portalfoxmix.cl:7066/stream",
+    "genre": "Music",
+    "city": "Osorno",
+    "country": "Chile",
+    "lat": -40.5736955,
+    "lng": -73.1358091
+  },
+  {
+    "id": "chile-alas-de-aguila",
+    "name": "Alas de Aguila",
+    "url": "http://stream.alasdeaguilas.cl:9332/play",
+    "genre": "Music",
+    "city": "Los Ángeles",
+    "country": "Chile",
+    "lat": -37.4707455,
+    "lng": -72.351686
+  },
+  {
+    "id": "chile-radio-sensacion-991-fm",
+    "name": "Radio Sensacion 99.1 FM",
+    "url": "https://azura.streamingradio.online/listen/radio_sensacion/sd",
+    "genre": "Music",
+    "city": "Los Ángeles",
+    "country": "Chile",
+    "lat": -37.4707455,
+    "lng": -72.351686
+  },
+  {
+    "id": "chile-acogida-puyehue-fm-1009",
+    "name": "Acogida Puyehue FM 100.9",
+    "url": "https://streaming.chiloestreaming.com/8018/stream",
+    "genre": "Music",
+    "city": "Osorno",
+    "country": "Chile",
+    "lat": -40.5736955,
+    "lng": -73.1358091
+  },
+  {
+    "id": "chile-radio-musicoop-fm-965",
+    "name": "Radio Musicoop FM 96.5",
+    "url": "https://sonic.portalfoxmix.club/8486/stream",
+    "genre": "Music",
+    "city": "Osorno",
+    "country": "Chile",
+    "lat": -40.5736955,
+    "lng": -73.1358091
+  },
+  {
+    "id": "chile-bio-bio-osorno-1065-fm",
+    "name": "Bio Bio Osorno 106.5 FM",
+    "url": "https://unlimited3-cl.dps.live/biobioosorno/aac/icecast.audio",
+    "genre": "Music",
+    "city": "Osorno",
+    "country": "Chile",
+    "lat": -40.5736955,
+    "lng": -73.1358091
+  },
+  {
+    "id": "chile-radio-san-cristóbal-975-fm",
+    "name": "Radio San Cristóbal 97.5 FM",
+    "url": "https://archi-us.digitalproserver.com/sancristobal_losangeles.aac",
+    "genre": "Music",
+    "city": "Los Ángeles",
+    "country": "Chile",
+    "lat": -37.4707455,
+    "lng": -72.351686
+  },
+  {
+    "id": "chile-radio-antillanca-1035-fm",
+    "name": "Radio Antillanca 103.5 FM",
+    "url": "https://sonicstream-puntual.grupozgh.cl/8202/stream",
+    "genre": "Music",
+    "city": "Osorno",
+    "country": "Chile",
+    "lat": -40.5736955,
+    "lng": -73.1358091
+  },
+  {
+    "id": "chile-radio-sur-921-fm",
+    "name": "Radio Sur 92.1 FM",
+    "url": "https://estacion.kombi.cl:8030/stream",
+    "genre": "Music",
+    "city": "Los Ángeles",
+    "country": "Chile",
+    "lat": -37.4707455,
+    "lng": -72.351686
+  },
+  {
+    "id": "chile-punto-7-osorno-1055-fm",
+    "name": "Punto 7 Osorno 105.5 FM",
+    "url": "https://unlimited5-us.dps.live/p7osorno/aac/icecast.audio",
+    "genre": "Music",
+    "city": "Osorno",
+    "country": "Chile",
+    "lat": -40.5736955,
+    "lng": -73.1358091
+  },
+  {
+    "id": "chile-el-conquistador-angol",
+    "name": "El Conquistador Angol",
+    "url": "https://audio5.tustreaming.cl/8070/losangeles",
+    "genre": "Music",
+    "city": "Los Ángeles",
+    "country": "Chile",
+    "lat": -37.4707455,
+    "lng": -72.351686
+  },
+  {
+    "id": "chile-radio-centinela-fm-939",
+    "name": "Radio Centinela FM 93.9",
+    "url": "https://sonic-us.arkeo.cl/8500/stream//",
+    "genre": "Music",
+    "city": "Los Ángeles",
+    "country": "Chile",
+    "lat": -37.4707455,
+    "lng": -72.351686
+  },
+  {
+    "id": "chile-rtl-linares-953-fm",
+    "name": "RTL Linares 95.3 FM",
+    "url": "https://radio.mediadev.cl/radio/8040/rtllinares",
+    "genre": "Music",
+    "city": "Linares",
+    "country": "Chile",
+    "lat": -35.8452905,
+    "lng": -71.5977173
+  },
+  {
+    "id": "chile-ancoa-fm-957",
+    "name": "Ancoa FM 95.7",
+    "url": "https://audio2.tustreaming.cl:8012/stream/",
+    "genre": "Music",
+    "city": "Linares",
+    "country": "Chile",
+    "lat": -35.8452905,
+    "lng": -71.5977173
+  },
+  {
+    "id": "chile-dinastía-907-fm",
+    "name": "Dinastía 90.7 FM",
+    "url": "https://masservidor.net/8028/stream",
+    "genre": "Music",
+    "city": "Los Ángeles",
+    "country": "Chile",
+    "lat": -37.4707455,
+    "lng": -72.351686
+  },
+  {
+    "id": "chile-nuevo-amanecer-fm-933",
+    "name": "Nuevo Amanecer FM 93.3",
+    "url": "https://radio.saopaulo01.com.br/8258/stream",
+    "genre": "Music",
+    "city": "Osorno",
+    "country": "Chile",
+    "lat": -40.5736955,
+    "lng": -73.1358091
+  },
+  {
+    "id": "chile-radio-central-de-cauquenes",
+    "name": "Radio Central de Cauquenes",
+    "url": "https://sonicpanel.totalstreaming.net/8140/stream",
+    "genre": "Music",
+    "city": "Linares",
+    "country": "Chile",
+    "lat": -35.8452905,
+    "lng": -71.5977173
+  },
+  {
+    "id": "chile-radio-innovadora-1041-fm",
+    "name": "Radio Innovadora 104.1 FM",
+    "url": "https://panelradio.online/proxy/innovadora/aac",
+    "genre": "Music",
+    "city": "Linares",
+    "country": "Chile",
+    "lat": -35.8452905,
+    "lng": -71.5977173
+  },
+  {
+    "id": "chile-radio-pablo-neruda-fm-967",
+    "name": "Radio Pablo Neruda FM 96.7",
+    "url": "https://sonic.streamingchilenos.com/9552/stream",
+    "genre": "Music",
+    "city": "Linares",
+    "country": "Chile",
+    "lat": -35.8452905,
+    "lng": -71.5977173
+  },
+  {
+    "id": "chile-red-ambrosio-907-fm",
+    "name": "Red Ambrosio 90.7 FM",
+    "url": "https://streaming.conectaapp.cl/radioambrosio",
+    "genre": "Music",
+    "city": "Linares",
+    "country": "Chile",
+    "lat": -35.8452905,
+    "lng": -71.5977173
+  },
+  {
+    "id": "chile-fira-fm-897",
+    "name": "FIRA FM 89.7",
+    "url": "https://stream-178.zeno.fm/puvdqzbsb2zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwdXZkcXpic2IyenV2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoidVJlenZqRlpSSlczZVM3T2V1cXF3USIsImlhdCI6MTc2OTQxNzY0MiwiZXhwIjoxNzY5NDE3NzAyfQ.C1gWGNkhDhGYvfHqprKoVsm1ouLQLv9VsjpRonaqeyU",
+    "genre": "Music",
+    "city": "Quillota",
+    "country": "Chile",
+    "lat": -32.879997,
+    "lng": -71.2473555
+  },
+  {
+    "id": "chile-studio-radio-fm-1073",
+    "name": "Studio Radio FM 107.3",
+    "url": "https://radios.linkinmedia.cl:8080/stream",
+    "genre": "Music",
+    "city": "Linares",
+    "country": "Chile",
+    "lat": -35.8452905,
+    "lng": -71.5977173
+  },
+  {
+    "id": "chile-radio-dulce-fm-953",
+    "name": "Radio Dulce FM 95.3",
+    "url": "https://stream-152.zeno.fm/hxl8jmwyufwuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJoeGw4am13eXVmd3V2IiwiaG9zdCI6InN0cmVhbS0xNTIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiR2VQcU80R3NTRjY0UEIyeTFlN1VTQSIsImlhdCI6MTc2OTQxNzY0MywiZXhwIjoxNzY5NDE3NzAzfQ.n3-pcwDYHC9qKZyOmv7YcMwaLjMIw2potH1y7O3-zbg",
+    "genre": "Music",
+    "city": "Quillota",
+    "country": "Chile",
+    "lat": -32.879997,
+    "lng": -71.2473555
+  },
+  {
+    "id": "chile-radio-quillota-fm-1015",
+    "name": "Radio Quillota FM 101.5",
+    "url": "https://archi-us.digitalproserver.com/quillota-fm.aac",
+    "genre": "Music",
+    "city": "Quillota",
+    "country": "Chile",
+    "lat": -32.879997,
+    "lng": -71.2473555
+  },
+  {
+    "id": "chile-radio-crystal-fm-891",
+    "name": "Radio Crystal FM 89.1",
+    "url": "https://sonic-us.arkeo.cl/8418/stream",
+    "genre": "Music",
+    "city": "Quillota",
+    "country": "Chile",
+    "lat": -32.879997,
+    "lng": -71.2473555
+  },
+  {
+    "id": "chile-radio-enigma",
+    "name": "Radio Enigma",
+    "url": "https://sonic-us.arkeo.cl/8044/stream",
+    "genre": "Music",
+    "city": "Quillota",
+    "country": "Chile",
+    "lat": -32.879997,
+    "lng": -71.2473555
+  },
+  {
+    "id": "chile-panal-radio",
+    "name": "Panal Radio",
+    "url": "https://sonic01.zglobalhost.com/8064/stream",
+    "genre": "Music",
+    "city": "Quillota",
+    "country": "Chile",
+    "lat": -32.879997,
+    "lng": -71.2473555
+  },
+  {
+    "id": "chile-estación-mix",
+    "name": "Estación Mix",
+    "url": "http://streaming.estacionmix.cl:8008/estacionmix128",
+    "genre": "Music",
+    "city": "Melipilla",
+    "country": "Chile",
+    "lat": -33.6855134,
+    "lng": -71.2145796
+  },
+  {
+    "id": "chile-amapola-fm-973",
+    "name": "Amapola FM 97.3",
+    "url": "https://sp002.servidoresph.com/8004/stream",
+    "genre": "Music",
+    "city": "Melipilla",
+    "country": "Chile",
+    "lat": -33.6855134,
+    "lng": -71.2145796
+  },
+  {
+    "id": "chile-ignacio-serrano",
+    "name": "Ignacio Serrano",
+    "url": "https://sonic.portalfoxmix.club/8242/stream",
+    "genre": "Music",
+    "city": "Melipilla",
+    "country": "Chile",
+    "lat": -33.6855134,
+    "lng": -71.2145796
+  },
+  {
+    "id": "chile-acuarela-fm-1059",
+    "name": "Acuarela FM 105.9",
+    "url": "https://audio0.tustreaming.cl/7290/stream",
+    "genre": "Music",
+    "city": "Melipilla",
+    "country": "Chile",
+    "lat": -33.6855134,
+    "lng": -71.2145796
+  },
+  {
+    "id": "chile-domina-fm-1067",
+    "name": "Domina FM 106.7",
+    "url": "https://centova.arkeo.cl/proxy/dominafm/stream",
+    "genre": "Music",
+    "city": "Melipilla",
+    "country": "Chile",
+    "lat": -33.6855134,
+    "lng": -71.2145796
+  },
+  {
+    "id": "chile-cauquenesnet-radio-chile",
+    "name": "Cauquenesnet Radio Chile",
+    "url": "https://c15.radioboss.fm:8476/stream",
+    "genre": "Music",
+    "city": "Cauquenes",
+    "country": "Chile",
+    "lat": -35.9671286,
+    "lng": -72.315427
+  },
+  {
+    "id": "chile-radio-creativa-fm-955",
+    "name": "Radio Creativa FM 95.5",
+    "url": "https://audio0.tustreaming.cl/7280/stream",
+    "genre": "Music",
+    "city": "Melipilla",
+    "country": "Chile",
+    "lat": -33.6855134,
+    "lng": -71.2145796
+  },
+  {
+    "id": "chile-europa-beat",
+    "name": "Europa Beat",
+    "url": "https://s4.radio.co/s13e4f2090/listen",
+    "genre": "Music",
+    "city": "Quillota",
+    "country": "Chile",
+    "lat": -32.879997,
+    "lng": -71.2473555
+  },
+  {
+    "id": "chile-radio-primavera-online",
+    "name": "Radio Primavera Online",
+    "url": "https://server2.ejeserver.com:8714/stream",
+    "genre": "Music",
+    "city": "Melipilla",
+    "country": "Chile",
+    "lat": -33.6855134,
+    "lng": -71.2145796
+  },
+  {
+    "id": "chile-dinastía-fm",
+    "name": "Dinastía FM",
+    "url": "https://archi-us.digitalproserver.com/dinastia.aac",
+    "genre": "Music",
+    "city": "Cauquenes",
+    "country": "Chile",
+    "lat": -35.9671286,
+    "lng": -72.315427
+  },
+  {
+    "id": "chile-radio-cartagena-fm-1075",
+    "name": "Radio Cartagena FM 107.5",
+    "url": "https://grupcomunicados.us/8020/stream",
+    "genre": "Music",
+    "city": "Melipilla",
+    "country": "Chile",
+    "lat": -33.6855134,
+    "lng": -71.2145796
+  },
+  {
+    "id": "chile-red-ambrosio-1065-fm",
+    "name": "Red Ambrosio 106.5 FM",
+    "url": "https://streaming.conectaapp.cl/ambrosiofmcauquenes",
+    "genre": "Music",
+    "city": "Cauquenes",
+    "country": "Chile",
+    "lat": -35.9671286,
+    "lng": -72.315427
+  },
+  {
+    "id": "chile-weed-radio",
+    "name": "Weed Radio",
+    "url": "https://sonic.mallocohosting.cl/8030/stream",
+    "genre": "Music",
+    "city": "Melipilla",
+    "country": "Chile",
+    "lat": -33.6855134,
+    "lng": -71.2145796
+  },
+  {
+    "id": "chile-radio-san-alfonso-fm-1057",
+    "name": "Radio San Alfonso FM 105.7",
+    "url": "https://sonic.portalfoxmix.cl/8468/stream",
+    "genre": "Music",
+    "city": "Cauquenes",
+    "country": "Chile",
+    "lat": -35.9671286,
+    "lng": -72.315427
+  },
+  {
+    "id": "chile-red-geminis-1051-fm",
+    "name": "Red Geminis 105.1 FM",
+    "url": "https://audio.streaminghd.cl:2000/stream/redgeminis/;stream.mp3",
+    "genre": "Music",
+    "city": "Cauquenes",
+    "country": "Chile",
+    "lat": -35.9671286,
+    "lng": -72.315427
+  },
+  {
+    "id": "chile-radio-tutuven-cauquenes",
+    "name": "Radio Tutuven Cauquenes",
+    "url": "https://stream.cloudmusic.cl/listen/radio_tutuven/radio.mp3",
+    "genre": "Music",
+    "city": "Cauquenes",
+    "country": "Chile",
+    "lat": -35.9671286,
+    "lng": -72.315427
+  },
+  {
+    "id": "chile-buena-nueva-de-chanco-fm-1063",
+    "name": "Buena Nueva de Chanco FM 106.3",
+    "url": "https://archi-us.digitalproserver.com/buenanueva_chanco.aac",
+    "genre": "Music",
+    "city": "Cauquenes",
+    "country": "Chile",
+    "lat": -35.9671286,
+    "lng": -72.315427
+  },
+  {
+    "id": "chile-radio-temporera-885-fm",
+    "name": "Radio Temporera 88.5 FM",
+    "url": "https://stm4.srvif.com:8028/stream",
+    "genre": "Music",
+    "city": "Cauquenes",
+    "country": "Chile",
+    "lat": -35.9671286,
+    "lng": -72.315427
+  },
+  {
+    "id": "chile-digital-fm",
+    "name": "Digital FM",
+    "url": "https://unlimited5-us.dps.live/digitalfm/aac/icecast.audio",
+    "genre": "Music",
+    "city": "Arica",
+    "country": "Chile",
+    "lat": -18.4785288,
+    "lng": -70.3211394
+  },
+  {
+    "id": "chile--radio-perfección-1075-fm",
+    "name": " Radio Perfección 107.5 FM",
+    "url": "http://video.mediawebchile.com:18026/stream",
+    "genre": "Music",
+    "city": "Arica",
+    "country": "Chile",
+    "lat": -18.4785288,
+    "lng": -70.3211394
+  },
+  {
+    "id": "chile-xanadu-radio",
+    "name": "Xanadu Radio",
+    "url": "https://servidor39.brlogic.com:7078/live",
+    "genre": "Music",
+    "city": "Quillota",
+    "country": "Chile",
+    "lat": -32.879997,
+    "lng": -71.2473555
+  },
+  {
+    "id": "chile-rtv-emmanuel-1073-fm",
+    "name": "RTV Emmanuel 107.3 FM",
+    "url": "https://audio0.tustreaming.cl/7600/stream",
+    "genre": "Music",
+    "city": "Cauquenes",
+    "country": "Chile",
+    "lat": -35.9671286,
+    "lng": -72.315427
+  },
+  {
+    "id": "chile-radio-alfaomega",
+    "name": "Radio Alfaomega",
+    "url": "http://5.135.183.124:8295/stream",
+    "genre": "Music",
+    "city": "Curico",
+    "country": "Chile",
+    "lat": -34.985368,
+    "lng": -71.2393705
+  },
+  {
+    "id": "chile-radio-primavera-fm-935",
+    "name": "Radio Primavera FM 93.5",
+    "url": "https://sonic.streamingchilenos.com/8240/stream",
+    "genre": "Music",
+    "city": "Arica",
+    "country": "Chile",
+    "lat": -18.4785288,
+    "lng": -70.3211394
+  },
+  {
+    "id": "chile-radio-siente",
+    "name": "Radio Siente",
+    "url": "https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio/5bedd217987abd4e5d9e04b1/5de5597e52a9da4517903734/icecast.audio?aid=5bedd217987abd4e5d9e04b1&pid=t5wkQa1J494zBLL4hcARgzKAs44vKDUM&sid=6mOuSdmOFfxWxf21vC1m2uAr05RzQZSd&uid=a28v9NeG0IllQ0n57xvpCk7sNrcgvdWE&es=us-b4-p-e-pb13-audio.cdn.mdstrm.com&ote=1769504049965&ot=2AYY0OeVurpEaur3-TnNgg&proto=https&pz=us&cP=128000",
+    "genre": "Music",
+    "city": "Arica",
+    "country": "Chile",
+    "lat": -18.4785288,
+    "lng": -70.3211394
+  },
+  {
+    "id": "chile-radio-altamar-fm-1023",
+    "name": "Radio Altamar FM 102.3",
+    "url": "https://mediastreamm.com/8098/stream",
+    "genre": "Music",
+    "city": "Arica",
+    "country": "Chile",
+    "lat": -18.4785288,
+    "lng": -70.3211394
+  },
+  {
+    "id": "chile-radio-voltaje",
+    "name": "Radio Voltaje",
+    "url": "https://sonic.portalfoxmix.club/8056/stream",
+    "genre": "Music",
+    "city": "Arica",
+    "country": "Chile",
+    "lat": -18.4785288,
+    "lng": -70.3211394
+  },
+  {
+    "id": "chile-inolvidable-fm-891",
+    "name": "Inolvidable FM 89.1",
+    "url": "https://hallstreaming.com/listen/inolvidable_online/stream",
+    "genre": "Music",
+    "city": "Curico",
+    "country": "Chile",
+    "lat": -34.985368,
+    "lng": -71.2393705
+  },
+  {
+    "id": "chile-lola-fm-1043",
+    "name": "Lola FM 104.3",
+    "url": "https://sonicstream-puntual.grupozgh.cl/8168/",
+    "genre": "Music",
+    "city": "Curico",
+    "country": "Chile",
+    "lat": -34.985368,
+    "lng": -71.2393705
+  },
+  {
+    "id": "chile-radio-artesanía",
+    "name": "Radio Artesanía",
+    "url": "http://200.24.229.253:8010/stream/1/",
+    "genre": "Music",
+    "city": "Curico",
+    "country": "Chile",
+    "lat": -34.985368,
+    "lng": -71.2393705
+  },
+  {
+    "id": "chile-fm-sombras-1079",
+    "name": "FM Sombras 107.9",
+    "url": "https://free.rcast.net/67116",
+    "genre": "Music",
+    "city": "Melipilla",
+    "country": "Chile",
+    "lat": -33.6855134,
+    "lng": -71.2145796
+  },
+  {
+    "id": "chile-conexion-kpop",
+    "name": "Conexion Kpop",
+    "url": "https://stream-179.zeno.fm/ugncm1bx3uquv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1Z25jbTFieDN1cXV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoibFJROEYycmlUTkdWN1djYVllRzFBdyIsImlhdCI6MTc2OTQxNzY1MSwiZXhwIjoxNzY5NDE3NzExfQ.X8SIbt_ZzAmHXrPyyw03wJPhgX79UjE2AKryMFwG_OI",
+    "genre": "Music",
+    "city": "Arica",
+    "country": "Chile",
+    "lat": -18.4785288,
+    "lng": -70.3211394
+  },
+  {
+    "id": "chile-radio-condell-fm-927",
+    "name": "Radio Condell FM 92.7",
+    "url": "https://zeus.miradio.pro/listen/condell/stream",
+    "genre": "Music",
+    "city": "Curico",
+    "country": "Chile",
+    "lat": -34.985368,
+    "lng": -71.2393705
+  },
+  {
+    "id": "chile-radio-favorita-fm-899",
+    "name": "Radio Favorita FM 89.9",
+    "url": "https://zeus.miradio.pro/radio/8060//stream",
+    "genre": "Music",
+    "city": "Curico",
+    "country": "Chile",
+    "lat": -34.985368,
+    "lng": -71.2393705
+  },
+  {
+    "id": "chile-arcoiris-fm-993",
+    "name": "Arcoiris FM 99.3",
+    "url": "https://audio2.tustreaming.cl/7210/stream",
+    "genre": "Music",
+    "city": "Coyhaique",
+    "country": "Chile",
+    "lat": -45.5711804,
+    "lng": -72.0684863
+  },
+  {
+    "id": "chile-radio-apocalipsis-fm-913",
+    "name": "Radio Apocalipsis FM 91.3",
+    "url": "https://audio5.tustreaming.cl/7520//radio-apocalipsis.aac",
+    "genre": "Music",
+    "city": "Coyhaique",
+    "country": "Chile",
+    "lat": -45.5711804,
+    "lng": -72.0684863
+  },
+  {
+    "id": "chile-radio-aukan-fm-877",
+    "name": "Radio Aukan FM 87.7",
+    "url": "https://cloudstream2036.conectarhosting.com/8446/stream",
+    "genre": "Music",
+    "city": "Curico",
+    "country": "Chile",
+    "lat": -34.985368,
+    "lng": -71.2393705
+  },
+  {
+    "id": "chile-radio-fenomenal-971-fm",
+    "name": "Radio Fenomenal 97.1 FM",
+    "url": "https://archi-us.digitalproserver.com/fenomenal.aac",
+    "genre": "Music",
+    "city": "Coyhaique",
+    "country": "Chile",
+    "lat": -45.5711804,
+    "lng": -72.0684863
+  },
+  {
+    "id": "chile-pop-radio-1011-fm",
+    "name": "Pop Radio 101.1 FM",
+    "url": "https://live-audio-lite-1.digitalproserver.com/proxy/popradio/popradio",
+    "genre": "Music",
+    "city": "Curico",
+    "country": "Chile",
+    "lat": -34.985368,
+    "lng": -71.2393705
+  },
+  {
+    "id": "chile-radio-santa-maría-fm-1023",
+    "name": "Radio Santa María FM 102.3",
+    "url": "https://archi-us.digitalproserver.com/santa-maria-am.aac",
+    "genre": "Music",
+    "city": "Coyhaique",
+    "country": "Chile",
+    "lat": -45.5711804,
+    "lng": -72.0684863
+  },
+  {
+    "id": "chile-radio-estrella-del-mar-fm-951",
+    "name": "Radio Estrella del Mar FM 95.1",
+    "url": "https://streaming.chiloestreaming.com/9626/",
+    "genre": "Music",
+    "city": "Coyhaique",
+    "country": "Chile",
+    "lat": -45.5711804,
+    "lng": -72.0684863
+  },
+  {
+    "id": "chile-radio-ventisqueros",
+    "name": "Radio Ventisqueros",
+    "url": "https://archi-us.digitalproserver.com/ventisqueros-coyhaique.aac",
+    "genre": "Music",
+    "city": "Coyhaique",
+    "country": "Chile",
+    "lat": -45.5711804,
+    "lng": -72.0684863
+  },
+  {
+    "id": "chile-rm-san-martín-fm-883",
+    "name": "RM San Martín FM 88.3",
+    "url": "https://streaming01.shockmedia.com.ar:10660/stream/",
+    "genre": "Music",
+    "city": "Coyhaique",
+    "country": "Chile",
+    "lat": -45.5711804,
+    "lng": -72.0684863
+  },
+  {
+    "id": "chile-zona-11",
+    "name": "Zona 11",
+    "url": "https://audio3.tustreaming.cl/7030/stream",
+    "genre": "Music",
+    "city": "Coyhaique",
+    "country": "Chile",
+    "lat": -45.5711804,
+    "lng": -72.0684863
+  },
+  {
+    "id": "chile-lra-58-rio-mayo",
+    "name": "LRA 58 Rio Mayo",
+    "url": "https://sa.mp3.icecast.magma.edge-access.net/sc_rad58",
+    "genre": "Music",
+    "city": "Coyhaique",
+    "country": "Chile",
+    "lat": -45.5711804,
+    "lng": -72.0684863
+  },
+  {
+    "id": "chile-la-melinkana-fm-1013",
+    "name": "La Melinkana FM 101.3",
+    "url": "https://audio3.tustreaming.cl/7050/stream",
+    "genre": "Music",
+    "city": "Coyhaique",
+    "country": "Chile",
+    "lat": -45.5711804,
+    "lng": -72.0684863
+  },
+  {
+    "id": "chile-radio-los-chacoteros",
+    "name": "Radio Los Chacoteros",
+    "url": "https://audio5.tustreaming.cl/7810/stream",
+    "genre": "Music",
+    "city": "Coyhaique",
+    "country": "Chile",
+    "lat": -45.5711804,
+    "lng": -72.0684863
+  }
+]

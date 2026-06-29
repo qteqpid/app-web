@@ -1,0 +1,372 @@
+[
+  {
+    "id": "iraq-khak-fm-991",
+    "name": "Khak FM 99.1",
+    "url": "http://siliconvalley.servep2p.com:8000/khakfm",
+    "genre": "Music",
+    "city": "Sulaymaniyah",
+    "country": "Iraq",
+    "lat": 35.5570501,
+    "lng": 45.4425963
+  },
+  {
+    "id": "iraq-kurdsat",
+    "name": "Kurdsat",
+    "url": "http://uk3.internet-radio.com:8011/stream",
+    "genre": "Music",
+    "city": "Sulaymaniyah",
+    "country": "Iraq",
+    "lat": 35.5570501,
+    "lng": 45.4425963
+  },
+  {
+    "id": "iraq-dange-islam-1003-fm",
+    "name": "Dange Islam 100.3 FM",
+    "url": "https://radio.host247.net/dislam",
+    "genre": "Music",
+    "city": "Sulaymaniyah",
+    "country": "Iraq",
+    "lat": 35.5570501,
+    "lng": 45.4425963
+  },
+  {
+    "id": "iraq-speda-fm",
+    "name": "Speda FM",
+    "url": "https://radio.host247.net/spedafm",
+    "genre": "Music",
+    "city": "Erbil",
+    "country": "Iraq",
+    "lat": 36.1911744,
+    "lng": 44.0094145
+  },
+  {
+    "id": "iraq-gorran-radio",
+    "name": "Gorran Radio",
+    "url": "https://radio.host247.net/dgoran",
+    "genre": "Music",
+    "city": "Sulaymaniyah",
+    "country": "Iraq",
+    "lat": 35.5570501,
+    "lng": 45.4425963
+  },
+  {
+    "id": "iraq-shafaq-radio",
+    "name": "Shafaq Radio",
+    "url": "https://radio.shafaq.com/radio",
+    "genre": "Music",
+    "city": "Erbil",
+    "country": "Iraq",
+    "lat": 36.1911744,
+    "lng": 44.0094145
+  },
+  {
+    "id": "iraq-teba-fm",
+    "name": "Teba FM",
+    "url": "https://radyo1.radyo-dinle.tc/8150/",
+    "genre": "Music",
+    "city": "Erbil",
+    "country": "Iraq",
+    "lat": 36.1911744,
+    "lng": 44.0094145
+  },
+  {
+    "id": "iraq-sumer-fm",
+    "name": "Sumer FM",
+    "url": "http://audiostreaming.itworkscdn.com:9012/index.html?sid=1",
+    "genre": "Music",
+    "city": "Erbil",
+    "country": "Iraq",
+    "lat": 36.1911744,
+    "lng": 44.0094145
+  },
+  {
+    "id": "iraq-alrasheed-fm-915",
+    "name": "Alrasheed FM 91.5",
+    "url": "https://streaming.shoutcast.com/alrasheed-fm",
+    "genre": "Music",
+    "city": "Erbil",
+    "country": "Iraq",
+    "lat": 36.1911744,
+    "lng": 44.0094145
+  },
+  {
+    "id": "iraq-times-square-radio-1025-fm",
+    "name": "Times Square Radio 102.5 FM",
+    "url": "https://edge.mixlr.com/channel/slpyo",
+    "genre": "Music",
+    "city": "Erbil",
+    "country": "Iraq",
+    "lat": 36.1911744,
+    "lng": 44.0094145
+  },
+  {
+    "id": "iraq-radio-mariam-iraq",
+    "name": "Radio Mariam Iraq",
+    "url": "https://dreamsiteradiocp4.com/proxy/rmerbil1?mp=/stream?ver=523938",
+    "genre": "Music",
+    "city": "Erbil",
+    "country": "Iraq",
+    "lat": 36.1911744,
+    "lng": 44.0094145
+  },
+  {
+    "id": "iraq-alseraj-radio",
+    "name": "Alseraj Radio",
+    "url": "https://eu4.fastcast4u.com/proxy/aabdul00?mp=%2F1",
+    "genre": "Music",
+    "city": "Erbil",
+    "country": "Iraq",
+    "lat": 36.1911744,
+    "lng": 44.0094145
+  },
+  {
+    "id": "iraq-radio-alghad-hits",
+    "name": "Radio Alghad Hits",
+    "url": "http://s9.voscast.com:8984/live",
+    "genre": "Music",
+    "city": "Erbil",
+    "country": "Iraq",
+    "lat": 36.1911744,
+    "lng": 44.0094145
+  },
+  {
+    "id": "iraq-hawa-dijlah-radio",
+    "name": "Hawa Dijlah Radio",
+    "url": "https://listen.radioking.com/radio/96766/stream/136027",
+    "genre": "Music",
+    "city": "Erbil",
+    "country": "Iraq",
+    "lat": 36.1911744,
+    "lng": 44.0094145
+  },
+  {
+    "id": "iraq-dicle-fm",
+    "name": "Dicle FM",
+    "url": "https://dicle-rojavaradio.radioca.st/stream",
+    "genre": "Music",
+    "city": "Erbil",
+    "country": "Iraq",
+    "lat": 36.1911744,
+    "lng": 44.0094145
+  },
+  {
+    "id": "iraq-m-radio-1055-fm",
+    "name": "M Radio 105.5 FM",
+    "url": "https://usa13.fastcast4u.com/proxy/mradio02?mp=/1",
+    "genre": "Music",
+    "city": "Erbil",
+    "country": "Iraq",
+    "lat": 36.1911744,
+    "lng": 44.0094145
+  },
+  {
+    "id": "iraq-radioi-sunnat-1069-fm",
+    "name": "Radioi Sunnat 106.9 FM",
+    "url": "https://a1.asurahosting.com:9380/radio.mp3",
+    "genre": "Music",
+    "city": "Sulaymaniyah",
+    "country": "Iraq",
+    "lat": 35.5570501,
+    "lng": 45.4425963
+  },
+  {
+    "id": "iraq-leopard-radio-987-fm",
+    "name": "Leopard Radio 98.7 FM",
+    "url": "https://c2.radioboss.fm:8980/stream",
+    "genre": "Music",
+    "city": "Duhok",
+    "country": "Iraq",
+    "lat": 36.8542598,
+    "lng": 42.9924528
+  },
+  {
+    "id": "iraq-yagrto-radio-935-fm",
+    "name": "Yagrto Radio 93.5 FM",
+    "url": "https://stream-179.zeno.fm/ud0wera9hy2vv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1ZDB3ZXJhOWh5MnZ2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiMEhleWhjSjlTd3FJbTRFTlJ5ekpQQSIsImlhdCI6MTc2OTQxOTUyNiwiZXhwIjoxNzY5NDE5NTg2fQ.vNHz_TqQO8z8pTuP5GEUscgOC3JY__03Xk_99jr5pIU",
+    "genre": "Music",
+    "city": "Erbil",
+    "country": "Iraq",
+    "lat": 36.1911744,
+    "lng": 44.0094145
+  },
+  {
+    "id": "iraq-welat-fm",
+    "name": "Welat FM",
+    "url": "https://rasti.out.airtime.pro/rasti_a",
+    "genre": "Music",
+    "city": "Erbil",
+    "country": "Iraq",
+    "lat": 36.1911744,
+    "lng": 44.0094145
+  },
+  {
+    "id": "iraq-arta-fm",
+    "name": "ARTA FM",
+    "url": "https://edge.mixlr.com/channel/qtgru",
+    "genre": "Music",
+    "city": "Duhok",
+    "country": "Iraq",
+    "lat": 36.8542598,
+    "lng": 42.9924528
+  },
+  {
+    "id": "iraq-barama-radyo",
+    "name": "Barama Radyo",
+    "url": "https://cast4.asurahosting.com/proxy/azmtvmir/stream",
+    "genre": "Music",
+    "city": "Sulaymaniyah",
+    "country": "Iraq",
+    "lat": 35.5570501,
+    "lng": 45.4425963
+  },
+  {
+    "id": "iraq-waar-radio-951",
+    "name": "Waar Radio 95.1",
+    "url": "https://c2.radioboss.fm:8564/stream",
+    "genre": "Music",
+    "city": "Duhok",
+    "country": "Iraq",
+    "lat": 36.8542598,
+    "lng": 42.9924528
+  },
+  {
+    "id": "iraq-new-life-radio",
+    "name": "New Life Radio",
+    "url": "https://s2.radio.co/sd3c7f8539/listen",
+    "genre": "Music",
+    "city": "Erbil",
+    "country": "Iraq",
+    "lat": 36.1911744,
+    "lng": 44.0094145
+  },
+  {
+    "id": "iraq-radyo-yüksel",
+    "name": "Radyo Yüksel",
+    "url": "https://yayin2.canliyayin.org:8232/;stream",
+    "genre": "Music",
+    "city": "Duhok",
+    "country": "Iraq",
+    "lat": 36.8542598,
+    "lng": 42.9924528
+  },
+  {
+    "id": "iraq-one-957-fm",
+    "name": "One 95.7 FM",
+    "url": "https://radio1.fortihost.com/stream",
+    "genre": "Music",
+    "city": "Baghdad",
+    "country": "Iraq",
+    "lat": 33.3061701,
+    "lng": 44.3872213
+  },
+  {
+    "id": "iraq-nhêl-radio",
+    "name": "Nhêl Radio",
+    "url": "https://stream-177.zeno.fm/qk3immampzqvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxazNpbW1hbXB6cXZ2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiZnQ5VVpTX01UaGlkb24zaUlwbGkyUSIsImlhdCI6MTc2OTQxOTUyNywiZXhwIjoxNzY5NDE5NTg3fQ.h3jXBWPnYY9VF6Na6PpXvN82m9fgvo5KT4FSJjU1_o0",
+    "genre": "Music",
+    "city": "Sulaymaniyah",
+    "country": "Iraq",
+    "lat": 35.5570501,
+    "lng": 45.4425963
+  },
+  {
+    "id": "iraq-türkmen-fm-901",
+    "name": "Türkmen FM 90.1",
+    "url": "https://radyo1.radyo-dinle.tc/8284/stream",
+    "genre": "Music",
+    "city": "Kirkuk",
+    "country": "Iraq",
+    "lat": 35.4719308,
+    "lng": 44.3953896
+  },
+  {
+    "id": "iraq-mihrab-fm-1049",
+    "name": "Mihrab FM 104.9",
+    "url": "http://siliconvalley.servep2p.com:8000/mihrab",
+    "genre": "Music",
+    "city": "Sulaymaniyah",
+    "country": "Iraq",
+    "lat": 35.5570501,
+    "lng": 45.4425963
+  },
+  {
+    "id": "iraq-radio-dango-qurani-peroz-1071-fm",
+    "name": "Radio Dango Qurani Peroz 107.1 FM",
+    "url": "https://a1.asurahosting.com/listen/quranradio/radio.mp3",
+    "genre": "Music",
+    "city": "Kirkuk",
+    "country": "Iraq",
+    "lat": 35.4719308,
+    "lng": 44.3953896
+  },
+  {
+    "id": "iraq-radio-duhok-fm-889",
+    "name": "Radio Duhok FM 88.9",
+    "url": "https://stream-154.zeno.fm/kfrrct64hoxuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJrZnJyY3Q2NGhveHV2IiwiaG9zdCI6InN0cmVhbS0xNTQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiUEtVX1J6QzNTOE9KZnZsbDFESk8wUSIsImlhdCI6MTc2OTQxOTUyNywiZXhwIjoxNzY5NDE5NTg3fQ.hUQnhQSU7xdEdveT8IVrwKjCDb9NV-1dkzBcHaON9V4",
+    "genre": "Music",
+    "city": "Duhok",
+    "country": "Iraq",
+    "lat": 36.8542598,
+    "lng": 42.9924528
+  },
+  {
+    "id": "iraq-voice-of-ummah",
+    "name": "Voice of Ummah",
+    "url": "https://mediati.me/radio/8010/radio.mp3",
+    "genre": "Music",
+    "city": "Basrah",
+    "country": "Iraq",
+    "lat": 30.4952371,
+    "lng": 47.8090981
+  },
+  {
+    "id": "iraq-mix-fm-1043",
+    "name": "Mix FM 104.3",
+    "url": "https://c2.radioboss.fm:8184/stream",
+    "genre": "Music",
+    "city": "Sulaymaniyah",
+    "country": "Iraq",
+    "lat": 35.5570501,
+    "lng": 45.4425963
+  },
+  {
+    "id": "iraq-radio-ashur",
+    "name": "Radio Ashur",
+    "url": "https://eu7.fastcast4u.com/proxy/radioashur?mp=/1",
+    "genre": "Music",
+    "city": "Al-Hamdaniya",
+    "country": "Iraq",
+    "lat": 36.2710491,
+    "lng": 43.3763511
+  },
+  {
+    "id": "iraq-live-fm-1072",
+    "name": "Live FM 107.2",
+    "url": "https://stream-14.aiir.com/dbv0rxpwp6ytv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJkYnYwcnhwd3A2eXR2IiwiaG9zdCI6InN0cmVhbS0xNC5haWlyLmNvbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoieUFqYnBsRjVTTUtJUFh1VU9zX2JOZyIsImlhdCI6MTc2OTQxOTUyOCwiZXhwIjoxNzY5NDE5NTg4fQ.R8hjprhF-VrZ7JKauGMnElbFVpIhMLL6X-TOaNMoIjM",
+    "genre": "Music",
+    "city": "Basrah",
+    "country": "Iraq",
+    "lat": 30.4952371,
+    "lng": 47.8090981
+  },
+  {
+    "id": "iraq-babylon-fm-993",
+    "name": "Babylon FM 99.3",
+    "url": "https://eu7.fastcast4u.com/proxy/babylonarabia?mp=/1",
+    "genre": "Music",
+    "city": "Ankawa",
+    "country": "Iraq",
+    "lat": 36.2325997,
+    "lng": 43.9972173
+  },
+  {
+    "id": "iraq-kirkuk-fm-933",
+    "name": "Kirkuk FM 93.3",
+    "url": "https://video1.getstreamhosting.com:8154/stream",
+    "genre": "Music",
+    "city": "Kirkuk",
+    "country": "Iraq",
+    "lat": 35.4719308,
+    "lng": 44.3953896
+  }
+]

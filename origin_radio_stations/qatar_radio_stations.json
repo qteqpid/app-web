@@ -1,0 +1,462 @@
+[
+  {
+    "id": "qatar-radio-ayk",
+    "name": "Radio AYK",
+    "url": "http://64.150.176.42:8117/;listen.mp3",
+    "genre": "Music",
+    "city": "Doha",
+    "country": "Qatar",
+    "lat": 25.3108807,
+    "lng": 51.5081812
+  },
+  {
+    "id": "qatar-malayalam-fm-986",
+    "name": "Malayalam FM 98.6",
+    "url": "http://vokcast.bluecast.in:8227/986fm",
+    "genre": "Music",
+    "city": "Doha",
+    "country": "Qatar",
+    "lat": 25.3108807,
+    "lng": 51.5081812
+  },
+  {
+    "id": "qatar-qfm-sithula-953-fm",
+    "name": "QFM Sithula 95.3 FM",
+    "url": "http://vokcast.bluecast.in:8227/qfm953",
+    "genre": "Music",
+    "city": "Doha",
+    "country": "Qatar",
+    "lat": 25.3108807,
+    "lng": 51.5081812
+  },
+  {
+    "id": "qatar-qabayan-fm-943",
+    "name": "Qabayan FM 94.3",
+    "url": "https://c2.radioboss.fm:18478/stream",
+    "genre": "Music",
+    "city": "Doha",
+    "country": "Qatar",
+    "lat": 25.3108807,
+    "lng": 51.5081812
+  },
+  {
+    "id": "qatar-habaieb-937-fm",
+    "name": "Habaieb 93.7 FM",
+    "url": "http://188.166.95.19:8000/index.html?sid=1",
+    "genre": "Music",
+    "city": "Doha",
+    "country": "Qatar",
+    "lat": 25.3108807,
+    "lng": 51.5081812
+  },
+  {
+    "id": "qatar-alaraby-tv-966-fm",
+    "name": "Alaraby TV 96.6 FM",
+    "url": "https://l3.itworkscdn.net/alarabyradiolive/alarabyradio_audio/icecast.audio",
+    "genre": "Music",
+    "city": "Doha",
+    "country": "Qatar",
+    "lat": 25.3108807,
+    "lng": 51.5081812
+  },
+  {
+    "id": "qatar-sky-news-arabia-fm-905",
+    "name": "Sky News Arabia FM 90.5",
+    "url": "https://radio.skynewsarabia.com/stream/radio/skynewsarabia",
+    "genre": "Music",
+    "city": "Doha",
+    "country": "Qatar",
+    "lat": 25.3108807,
+    "lng": 51.5081812
+  },
+  {
+    "id": "qatar-voice-of-ummah",
+    "name": "Voice of Ummah",
+    "url": "https://mediati.me/radio/8010/radio.mp3",
+    "genre": "Music",
+    "city": "Doha",
+    "country": "Qatar",
+    "lat": 25.3108807,
+    "lng": 51.5081812
+  },
+  {
+    "id": "qatar-live-fm-1072",
+    "name": "Live FM 107.2",
+    "url": "https://stream-14.aiir.com/dbv0rxpwp6ytv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJkYnYwcnhwd3A2eXR2IiwiaG9zdCI6InN0cmVhbS0xNC5haWlyLmNvbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiRjc4UlpIalVRdTZxREZScDRvanlzdyIsImlhdCI6MTc2OTQyMjE0OSwiZXhwIjoxNzY5NDIyMjA5fQ.C5DuvtsR83-ef5OmJYmmp5qxQbDAZzI8GUaL-1NSy7w",
+    "genre": "Music",
+    "city": "Doha",
+    "country": "Qatar",
+    "lat": 25.3108807,
+    "lng": 51.5081812
+  },
+  {
+    "id": "qatar-radio-max-fm-1011",
+    "name": "Radio Max FM 101.1",
+    "url": "http://centova1.veemesoft.com.ar:8089/live",
+    "genre": "Music",
+    "city": "Catamarca",
+    "country": "Argentina",
+    "lat": -27.7758659,
+    "lng": -67.171292
+  },
+  {
+    "id": "qatar-fun-radio",
+    "name": "FUN Radio",
+    "url": "https://radio13.servidorderadio.net/9624/stream",
+    "genre": "Music",
+    "city": "Catamarca",
+    "country": "Argentina",
+    "lat": -27.7758659,
+    "lng": -67.171292
+  },
+  {
+    "id": "qatar-radio-portal-catamarca",
+    "name": "Radio Portal Catamarca",
+    "url": "https://streaming.evolucionstreaming.com:10912/stream",
+    "genre": "Music",
+    "city": "Catamarca",
+    "country": "Argentina",
+    "lat": -27.7758659,
+    "lng": -67.171292
+  },
+  {
+    "id": "qatar-radio-valle-viejo-1041-fm",
+    "name": "Radio Valle Viejo 104.1 FM",
+    "url": "https://stm2.livecastradio.com:9379/stream",
+    "genre": "Music",
+    "city": "Catamarca",
+    "country": "Argentina",
+    "lat": -27.7758659,
+    "lng": -67.171292
+  },
+  {
+    "id": "qatar-radio-olive-1063",
+    "name": "Radio Olive 106.3",
+    "url": "https://22733.live.streamtheworld.com:443/OLIVE1063.mp3",
+    "genre": "Music",
+    "city": "Doha",
+    "country": "Qatar",
+    "lat": 25.3108807,
+    "lng": 51.5081812
+  },
+  {
+    "id": "qatar-la-isla-fm-1079",
+    "name": "La Isla FM 107.9",
+    "url": "https://streaming5.locucionar.com/proxy/laislafm?mp=/stream",
+    "genre": "Music",
+    "city": "Catamarca",
+    "country": "Argentina",
+    "lat": -27.7758659,
+    "lng": -67.171292
+  },
+  {
+    "id": "qatar-uthamiyae-fm-radio",
+    "name": "Uthamiyae FM Radio",
+    "url": "https://ssl.aloncast.com:1595/",
+    "genre": "Music",
+    "city": "Doha",
+    "country": "Qatar",
+    "lat": 25.3108807,
+    "lng": 51.5081812
+  },
+  {
+    "id": "qatar-radio-suno-917",
+    "name": "Radio Suno 91.7",
+    "url": "https://29003.live.streamtheworld.com:443/SUNO917.mp3",
+    "genre": "Music",
+    "city": "Doha",
+    "country": "Qatar",
+    "lat": 25.3108807,
+    "lng": 51.5081812
+  },
+  {
+    "id": "qatar-radio-nacional--lra27-am-730",
+    "name": "Radio Nacional - LRA27 AM 730",
+    "url": "https://sa.mp3.icecast.magma.edge-access.net/sc_rad27",
+    "genre": "Music",
+    "city": "Catamarca",
+    "country": "Argentina",
+    "lat": -27.7758659,
+    "lng": -67.171292
+  },
+  {
+    "id": "qatar-radio-suno-tamil",
+    "name": "Radio Suno Tamil",
+    "url": "https://27143.live.streamtheworld.com:443/RADIO_SUNO_TAMIL_S01AAC.aac",
+    "genre": "Music",
+    "city": "Doha",
+    "country": "Qatar",
+    "lat": 25.3108807,
+    "lng": 51.5081812
+  },
+  {
+    "id": "qatar-radio-suno-melody",
+    "name": "Radio Suno Melody",
+    "url": "https://27143.live.streamtheworld.com:443/RADIO_SUNO_MELODY_S06AAC.aac",
+    "genre": "Music",
+    "city": "Lusail",
+    "country": "Qatar",
+    "lat": 25.4228888,
+    "lng": 51.5197163
+  },
+  {
+    "id": "qatar-nostalgia-fm-945",
+    "name": "Nostalgia FM 94.5",
+    "url": "http://centova1.veemesoft.com.ar:8148/live",
+    "genre": "Music",
+    "city": "Catamarca",
+    "country": "Argentina",
+    "lat": -27.7758659,
+    "lng": -67.171292
+  },
+  {
+    "id": "qatar-fame-fm-qatar",
+    "name": "Fame FM Qatar",
+    "url": "https://14223.live.streamtheworld.com:443/SAM03AAC389.aac",
+    "genre": "Music",
+    "city": "Doha",
+    "country": "Qatar",
+    "lat": 25.3108807,
+    "lng": 51.5081812
+  },
+  {
+    "id": "qatar-zona-oculta-radio-digital",
+    "name": "Zona Oculta Radio Digital",
+    "url": "http://server-uk1.radioseninternet.net:8016/;stream/1",
+    "genre": "Music",
+    "city": "Catamarca",
+    "country": "Argentina",
+    "lat": -27.7758659,
+    "lng": -67.171292
+  },
+  {
+    "id": "qatar-tiempo-de-radio",
+    "name": "Tiempo de Radio",
+    "url": "https://stm2.livecastradio.com:9365/stream",
+    "genre": "Music",
+    "city": "Catamarca",
+    "country": "Argentina",
+    "lat": -27.7758659,
+    "lng": -67.171292
+  },
+  {
+    "id": "qatar-radio-ancasti-985",
+    "name": "Radio Ancasti 98.5",
+    "url": "https://streaming.gostreaming.com.ar:10957/;/;type=mp3",
+    "genre": "Music",
+    "city": "Catamarca",
+    "country": "Argentina",
+    "lat": -27.7758659,
+    "lng": -67.171292
+  },
+  {
+    "id": "qatar-radio-16-bit-fm",
+    "name": "Radio 16-Bit-FM",
+    "url": "http://51.77.148.154/listen/16-bit-fm/radio.mp3",
+    "genre": "Music",
+    "city": "Brive-la-Gaillarde",
+    "country": "France",
+    "lat": 45.1584982,
+    "lng": 1.5332389
+  },
+  {
+    "id": "qatar-hit-radio-fr",
+    "name": "Hit Radio Fr",
+    "url": "http://195.201.166.244:8853/stream",
+    "genre": "Music",
+    "city": "Brive-la-Gaillarde",
+    "country": "France",
+    "lat": 45.1584982,
+    "lng": 1.5332389
+  },
+  {
+    "id": "qatar-radio-total",
+    "name": "Radio Total",
+    "url": "https://sc.host-live.com/8040/stream",
+    "genre": "Music",
+    "city": "Catamarca",
+    "country": "Argentina",
+    "lat": -27.7758659,
+    "lng": -67.171292
+  },
+  {
+    "id": "qatar-aquitaine-fm",
+    "name": "Aquitaine FM",
+    "url": "http://radio.myftp.biz:8000/stream.mp3",
+    "genre": "Music",
+    "city": "Brive-la-Gaillarde",
+    "country": "France",
+    "lat": 45.1584982,
+    "lng": 1.5332389
+  },
+  {
+    "id": "qatar-lto-radio-las-tejas-online",
+    "name": "LTO Radio Las Tejas Online",
+    "url": "https://stream-178.zeno.fm/yzb4tysszk0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5emI0dHlzc3prMHV2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiVE15c1VNSkpSVG0ydi1OT1lWWTNTUSIsImlhdCI6MTc2OTQyMjE1MywiZXhwIjoxNzY5NDIyMjEzfQ.sqMxNt9FhQENWHtU9X7oXc44OffzuqzmIpb-leFfUDk",
+    "genre": "Music",
+    "city": "Catamarca",
+    "country": "Argentina",
+    "lat": -27.7758659,
+    "lng": -67.171292
+  },
+  {
+    "id": "qatar-inthemix-radio-927-fm",
+    "name": "Inthemix Radio 92.7 FM",
+    "url": "https://01.solumedia.com.ar:8230/index.html?sid=1",
+    "genre": "Music",
+    "city": "Catamarca",
+    "country": "Argentina",
+    "lat": -27.7758659,
+    "lng": -67.171292
+  },
+  {
+    "id": "qatar-radio-pays-de-aurillac-fm-1074",
+    "name": "Radio Pays de Aurillac FM 107.4",
+    "url": "https://radiola.me/radio/8030/radio.mp3",
+    "genre": "Music",
+    "city": "Brive-la-Gaillarde",
+    "country": "France",
+    "lat": 45.1584982,
+    "lng": 1.5332389
+  },
+  {
+    "id": "qatar-radios-libres-en-perigord-1023-fm",
+    "name": "Radios Libres en Périgord 102.3 FM",
+    "url": "https://direct.radioslibresenperigord.com/rlp.64.aac",
+    "genre": "Music",
+    "city": "Brive-la-Gaillarde",
+    "country": "France",
+    "lat": 45.1584982,
+    "lng": 1.5332389
+  },
+  {
+    "id": "qatar-france-inter",
+    "name": "France Inter",
+    "url": "https://icecast.radiofrance.fr/franceinter-midfi.mp3",
+    "genre": "Music",
+    "city": "Brive-la-Gaillarde",
+    "country": "France",
+    "lat": 45.1584982,
+    "lng": 1.5332389
+  },
+  {
+    "id": "qatar-france-info-1057",
+    "name": "France Info 105.7",
+    "url": "https://icecast.radiofrance.fr/franceinfo-midfi.mp3",
+    "genre": "Music",
+    "city": "Brive-la-Gaillarde",
+    "country": "France",
+    "lat": 45.1584982,
+    "lng": 1.5332389
+  },
+  {
+    "id": "qatar-europe-1",
+    "name": "Europe 1",
+    "url": "https://europe1.lmn.fm/europe1.mp3",
+    "genre": "Music",
+    "city": "Brive-la-Gaillarde",
+    "country": "France",
+    "lat": 45.1584982,
+    "lng": 1.5332389
+  },
+  {
+    "id": "qatar-rmc",
+    "name": "RMC",
+    "url": "https://audio.bfmtv.com/rmcradio_128.mp3",
+    "genre": "Music",
+    "city": "Brive-la-Gaillarde",
+    "country": "France",
+    "lat": 45.1584982,
+    "lng": 1.5332389
+  },
+  {
+    "id": "qatar-rgb-radio-grand-brive-fm-943",
+    "name": "RGB Radio Grand Brive FM 94.3",
+    "url": "https://hosting.studioradiomedia.fr:1420/stream.mp3",
+    "genre": "Music",
+    "city": "Brive-la-Gaillarde",
+    "country": "France",
+    "lat": 45.1584982,
+    "lng": 1.5332389
+  },
+  {
+    "id": "qatar-radio-rivadavia-630-am",
+    "name": "Radio Rivadavia 630 AM",
+    "url": "https://23033.live.streamtheworld.com:443/RIVADAVIAAAC.aac",
+    "genre": "Music",
+    "city": "Catamarca",
+    "country": "Argentina",
+    "lat": -27.7758659,
+    "lng": -67.171292
+  },
+  {
+    "id": "qatar-balance-la-sauce",
+    "name": "Balance la Sauce",
+    "url": "https://hosting.radiomedia.fr:2445/stream",
+    "genre": "Music",
+    "city": "Brive-la-Gaillarde",
+    "country": "France",
+    "lat": 45.1584982,
+    "lng": 1.5332389
+  },
+  {
+    "id": "qatar-radio-mitre-am-790",
+    "name": "Radio Mitre AM 790",
+    "url": "https://19213.live.streamtheworld.com:443/AM790_56AAC.aac",
+    "genre": "Music",
+    "city": "Catamarca",
+    "country": "Argentina",
+    "lat": -27.7758659,
+    "lng": -67.171292
+  },
+  {
+    "id": "qatar-la-100-fm-999",
+    "name": "La 100 FM 99.9",
+    "url": "https://24483.live.streamtheworld.com:443/FM999_56.mp3",
+    "genre": "Music",
+    "city": "Catamarca",
+    "country": "Argentina",
+    "lat": -27.7758659,
+    "lng": -67.171292
+  },
+  {
+    "id": "qatar-fm-aspen-1023",
+    "name": "FM Aspen 102.3",
+    "url": "https://27603.live.streamtheworld.com:443/ASPEN.mp3",
+    "genre": "Music",
+    "city": "Catamarca",
+    "country": "Argentina",
+    "lat": -27.7758659,
+    "lng": -67.171292
+  },
+  {
+    "id": "qatar-radio-la-red-am-910",
+    "name": "Radio La Red AM 910",
+    "url": "https://26503.live.streamtheworld.com:443/LA_RED_AM910AAC.aac",
+    "genre": "Music",
+    "city": "Catamarca",
+    "country": "Argentina",
+    "lat": -27.7758659,
+    "lng": -67.171292
+  },
+  {
+    "id": "qatar-rfi-afrique",
+    "name": "RFI Afrique",
+    "url": "https://rfiafrique64k.ice.infomaniak.ch/rfiafrique-64.mp3",
+    "genre": "Music",
+    "city": "Brive-la-Gaillarde",
+    "country": "France",
+    "lat": 45.1584982,
+    "lng": 1.5332389
+  },
+  {
+    "id": "qatar-antenne-d’oc-881-fm",
+    "name": "Antenne d’Oc 88.1 FM",
+    "url": "https://antennedoc.ice.infomaniak.ch/antennedoc-48.mp3",
+    "genre": "Music",
+    "city": "Brive-la-Gaillarde",
+    "country": "France",
+    "lat": 45.1584982,
+    "lng": 1.5332389
+  }
+]

@@ -1,0 +1,512 @@
+[
+  {
+    "id": "el-vox-fm-945",
+    "name": "Vox FM 94.5",
+    "url": "https://cast3.asurahosting.com/proxy/gabriel/stream",
+    "genre": "Music",
+    "city": "San Salvador",
+    "country": "El Salvador",
+    "lat": 13.697629,
+    "lng": -89.191156
+  },
+  {
+    "id": "el-radio-que-buena-889-fm",
+    "name": "Radio Que Buena 88.9 FM",
+    "url": "https://cast3.my-control-panel.com/proxy/gabriel4/stream",
+    "genre": "Music",
+    "city": "San Salvador",
+    "country": "El Salvador",
+    "lat": 13.697629,
+    "lng": -89.191156
+  },
+  {
+    "id": "el-fiesta-1049-fm",
+    "name": "Fiesta 104.9 FM",
+    "url": "https://sp4.colombiatelecom.com.co/8026/stream",
+    "genre": "Music",
+    "city": "San Salvador",
+    "country": "El Salvador",
+    "lat": 13.697629,
+    "lng": -89.191156
+  },
+  {
+    "id": "el-laser-ingles-fm-929",
+    "name": "Laser Ingles FM 92.9",
+    "url": "https://sp4.colombiatelecom.com.co/8032/stream",
+    "genre": "Music",
+    "city": "San Salvador",
+    "country": "El Salvador",
+    "lat": 13.697629,
+    "lng": -89.191156
+  },
+  {
+    "id": "el-radio-el-mundo",
+    "name": "Radio El Mundo",
+    "url": "https://streaming.mundoclasicaupa.com:8001/radioelmundo",
+    "genre": "Music",
+    "city": "San Salvador",
+    "country": "El Salvador",
+    "lat": 13.697629,
+    "lng": -89.191156
+  },
+  {
+    "id": "el-radio-cadena-yskl",
+    "name": "Radio Cadena YSKL",
+    "url": "https://media.dominiocreativo.com:8000/radioyskl",
+    "genre": "Music",
+    "city": "San Salvador",
+    "country": "El Salvador",
+    "lat": 13.697629,
+    "lng": -89.191156
+  },
+  {
+    "id": "el-la-pregonera-sv",
+    "name": "La Pregonera SV",
+    "url": "https://as100.globalhost1.com/8122/stream",
+    "genre": "Music",
+    "city": "San Salvador",
+    "country": "El Salvador",
+    "lat": 13.697629,
+    "lng": -89.191156
+  },
+  {
+    "id": "el-radio-uno-fm",
+    "name": "Radio Uno FM",
+    "url": "https://a3.asurahosting.com:6150/radio.mp3",
+    "genre": "Music",
+    "city": "Santa Ana",
+    "country": "El Salvador",
+    "lat": 13.9947753,
+    "lng": -89.5566069
+  },
+  {
+    "id": "el-abc-1001-fm",
+    "name": "ABC 100.1 FM",
+    "url": "https://streaming.rcs.com.sv/proxy/abc/stream",
+    "genre": "Music",
+    "city": "San Salvador",
+    "country": "El Salvador",
+    "lat": 13.697629,
+    "lng": -89.191156
+  },
+  {
+    "id": "el-pulsar-mix",
+    "name": "Pulsar Mix",
+    "url": "https://radio.pulsarelsalvador.com/listen/pulsar_mix_fm_el_salvador/Pulsar%20Mix%20FM%20El%20Salvador",
+    "genre": "Music",
+    "city": "San Salvador",
+    "country": "El Salvador",
+    "lat": 13.697629,
+    "lng": -89.191156
+  },
+  {
+    "id": "el-plenitud-radio-981fm",
+    "name": "Plenitud Radio 98.1FM",
+    "url": "https://ssl.rockhost.com/proxy/plenitud?mp=/mp3_64",
+    "genre": "Music",
+    "city": "Santa Ana",
+    "country": "El Salvador",
+    "lat": 13.9947753,
+    "lng": -89.5566069
+  },
+  {
+    "id": "el-noches-de-rock-en-tu-idioma",
+    "name": "Noches de Rock en tu Idioma",
+    "url": "https://host.azuracastnet.com/listen/noches_de_rock_en_tu_idioma/radio.mp3",
+    "genre": "Music",
+    "city": "San Salvador",
+    "country": "El Salvador",
+    "lat": 13.697629,
+    "lng": -89.191156
+  },
+  {
+    "id": "el-cadena-central-fm-1037",
+    "name": "Cadena Central FM 103.7",
+    "url": "https://radio.videct.com/8176/stream",
+    "genre": "Music",
+    "city": "San Salvador",
+    "country": "El Salvador",
+    "lat": 13.697629,
+    "lng": -89.191156
+  },
+  {
+    "id": "el-la-jefa-radio",
+    "name": "La Jefa Radio",
+    "url": "https://stream-160.zeno.fm/b264csn0sy8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJiMjY0Y3NuMHN5OHV2IiwiaG9zdCI6InN0cmVhbS0xNjAuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiY0JNNjFoSnlTenVWcUd0ZUJwZ2hSdyIsImlhdCI6MTc2OTQxODMwMywiZXhwIjoxNzY5NDE4MzYzfQ.rs6RYsK3N10KLUhmv_y3ItX8QPGwW_SDUGzFGzTV_QY",
+    "genre": "Music",
+    "city": "San Salvador",
+    "country": "El Salvador",
+    "lat": 13.697629,
+    "lng": -89.191156
+  },
+  {
+    "id": "el-noticias-izalco-945-fm",
+    "name": "Noticias Izalco 94.5 FM",
+    "url": "https://stream-141.zeno.fm/w1aqrh7bqkhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ3MWFxcmg3YnFraHZ2IiwiaG9zdCI6InN0cmVhbS0xNDEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoidVJsSFUwYjdTOVNpOUJSTTFOWVoyZyIsImlhdCI6MTc2OTQxODMwMywiZXhwIjoxNzY5NDE4MzYzfQ.R4cXJp0JJTShhtES_ir3O-bgjFlde2iif_IRJm6DMGU",
+    "genre": "Music",
+    "city": "San Salvador",
+    "country": "El Salvador",
+    "lat": 13.697629,
+    "lng": -89.191156
+  },
+  {
+    "id": "el-radio-supra-905-fm",
+    "name": "Radio Supra 90.5 FM",
+    "url": "https://stream-178.zeno.fm/cpoqmejvb7ftv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjcG9xbWVqdmI3ZnR2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiVElkRl9zdVdTMUN0VXVnRnNoajFvdyIsImlhdCI6MTc2OTQxODMwMywiZXhwIjoxNzY5NDE4MzYzfQ.YuW3qK8gJ4E4imyY2ptZyaBrN_8EDxTOTOdsgLsecI8",
+    "genre": "Music",
+    "city": "San Salvador",
+    "country": "El Salvador",
+    "lat": 13.697629,
+    "lng": -89.191156
+  },
+  {
+    "id": "el-soda-stereo-1053-fm",
+    "name": "Soda Stereo 105.3 FM",
+    "url": "https://streaming.rcs.com.sv/proxy/soda/stream",
+    "genre": "Music",
+    "city": "Santa Ana",
+    "country": "El Salvador",
+    "lat": 13.9947753,
+    "lng": -89.5566069
+  },
+  {
+    "id": "el-radio-pastor-1069-fm",
+    "name": "Radio Pastor 106.9 FM",
+    "url": "https://radio.elsalvadordigital.net/proxy/otonielelsalvador1/",
+    "genre": "Music",
+    "city": "Santa Ana",
+    "country": "El Salvador",
+    "lat": 13.9947753,
+    "lng": -89.5566069
+  },
+  {
+    "id": "el-la-tribu-fm",
+    "name": "La Tribu FM",
+    "url": "https://streamer.radio.co/s3a3c12873/listen",
+    "genre": "Music",
+    "city": "San Salvador",
+    "country": "El Salvador",
+    "lat": 13.697629,
+    "lng": -89.191156
+  },
+  {
+    "id": "el-radio-centroamericana",
+    "name": "Radio Centroamericana",
+    "url": "http://whsh4u-panel.com:14149/index.html/",
+    "genre": "Music",
+    "city": "San Miguel",
+    "country": "El Salvador",
+    "lat": 13.4803899,
+    "lng": -88.17722
+  },
+  {
+    "id": "el-shalom-radio",
+    "name": "Shalom Radio",
+    "url": "https://tecnoservix.stream:4007/stream",
+    "genre": "Music",
+    "city": "San Miguel",
+    "country": "El Salvador",
+    "lat": 13.4803899,
+    "lng": -88.17722
+  },
+  {
+    "id": "el-radio-nueva-jerusalem",
+    "name": "Radio Nueva Jerusalem",
+    "url": "https://tecnoservix.stream:4018/stream",
+    "genre": "Music",
+    "city": "San Miguel",
+    "country": "El Salvador",
+    "lat": 13.4803899,
+    "lng": -88.17722
+  },
+  {
+    "id": "el-la-caliente-901-fm",
+    "name": "La Caliente 90.1 FM",
+    "url": "https://streaming.rcs.com.sv/proxy/caliente/stream",
+    "genre": "Music",
+    "city": "San Miguel",
+    "country": "El Salvador",
+    "lat": 13.4803899,
+    "lng": -88.17722
+  },
+  {
+    "id": "el-radio-evangelica-betel-953-fm",
+    "name": "Radio Evangélica Betel 95.3 FM",
+    "url": "https://panel.yupistream.com/proxy/ysbetel/stream",
+    "genre": "Music",
+    "city": "San Miguel",
+    "country": "El Salvador",
+    "lat": 13.4803899,
+    "lng": -88.17722
+  },
+  {
+    "id": "el-uncion-y-presencia-de-dios-am-1300",
+    "name": "Uncion Y Presencia De Dios AM 1300",
+    "url": "https://panel.yupistream.com/proxy/ysuncion/stream",
+    "genre": "Music",
+    "city": "San Miguel",
+    "country": "El Salvador",
+    "lat": 13.4803899,
+    "lng": -88.17722
+  },
+  {
+    "id": "el-estereo-azúcar-999-fm",
+    "name": "Estéreo Azúcar 99.9 FM",
+    "url": "https://radiostreamingaac.com:8570/azucarjutiapa",
+    "genre": "Music",
+    "city": "Santa Ana",
+    "country": "El Salvador",
+    "lat": 13.9947753,
+    "lng": -89.5566069
+  },
+  {
+    "id": "el-radio-cedros-905-fm",
+    "name": "Radio Cedros 90.5 FM",
+    "url": "https://azuracast.aguilarsoluciones.com/listen/radio_cedros/stream",
+    "genre": "Music",
+    "city": "San Rafael Cedros",
+    "country": "El Salvador",
+    "lat": 13.7310749,
+    "lng": -88.8873846
+  },
+  {
+    "id": "el-hoshaná-981-fm",
+    "name": "Hoshaná 98.1 FM",
+    "url": "https://server1.watahosting.com/radio/8012/radio.mp3",
+    "genre": "Music",
+    "city": "Lourdes",
+    "country": "El Salvador",
+    "lat": 13.7261565,
+    "lng": -89.3686112
+  },
+  {
+    "id": "el-punto-105-radio-1053-fm",
+    "name": "Punto 105 Radio 105.3 FM",
+    "url": "https://punto105-stream2muchgroup.radioca.st/stream",
+    "genre": "Music",
+    "city": "San Vicente",
+    "country": "El Salvador",
+    "lat": 13.5274936,
+    "lng": -88.7396986
+  },
+  {
+    "id": "el-radio-sonsomix-925-fm",
+    "name": "Radio Sonsomix 92.5 FM",
+    "url": "https://stream-177.zeno.fm/xmupt779kzrtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ4bXVwdDc3OWt6cnR2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiRjJiRnRIYnFRZTZ6UDcyQ0NFa3JmQSIsImlhdCI6MTc2OTQxODMwNiwiZXhwIjoxNzY5NDE4MzY2fQ.sOfqZs5un4zYYCeqC7U08jPGIx_SIDURuwWy7eubcsM",
+    "genre": "Music",
+    "city": "Santa Ana",
+    "country": "El Salvador",
+    "lat": 13.9947753,
+    "lng": -89.5566069
+  },
+  {
+    "id": "el-lvs-radio--la-voz-del-sur",
+    "name": "LVS Radio - La Voz del Sur",
+    "url": "https://azuracast.aguilarsoluciones.com/listen/radiolvs/stream",
+    "genre": "Music",
+    "city": "Usulutan",
+    "country": "El Salvador",
+    "lat": 13.4324703,
+    "lng": -88.5398358
+  },
+  {
+    "id": "el-radio-stereo-perla",
+    "name": "Radio Stereo Perla",
+    "url": "https://azuracast.aguilarsoluciones.com/listen/radiostereoperla/stream",
+    "genre": "Music",
+    "city": "San Rafael Cedros",
+    "country": "El Salvador",
+    "lat": 13.7310749,
+    "lng": -88.8873846
+  },
+  {
+    "id": "el-stereo-cafe-1003",
+    "name": "Stereo Café 100.3",
+    "url": "https://stream-179.zeno.fm/vt667xqryd0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2dDY2N3hxcnlkMHV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiYjhLM01SVFFUUVdsTU1KS19KUVIxQSIsImlhdCI6MTc2OTQxODMwNiwiZXhwIjoxNzY5NDE4MzY2fQ.2lAxjxkYMQ1SqL145MgsOfKEifJtGxUa8jZ5X1-mRK0",
+    "genre": "Music",
+    "city": "San Miguel",
+    "country": "El Salvador",
+    "lat": 13.4803899,
+    "lng": -88.17722
+  },
+  {
+    "id": "el-yuca-917-fm",
+    "name": "Yuca 91.7 FM",
+    "url": "https://fast.citrus3.com:8314/stream",
+    "genre": "Music",
+    "city": "Antiguo Cuscatlán",
+    "country": "El Salvador",
+    "lat": 13.6728051,
+    "lng": -89.2466483
+  },
+  {
+    "id": "el-yeshúa-radio-905-fm",
+    "name": "Yeshúa Radio 90.5 FM",
+    "url": "https://stream-179.zeno.fm/rxbvu4f5v7zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJyeGJ2dTRmNXY3enV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiTjh5QUpZVjBUQXkzTGN0bjBNamQ2ZyIsImlhdCI6MTc2OTQxODMwNywiZXhwIjoxNzY5NDE4MzY3fQ.zNKEbQo6bNd20bTa0PGQlYFaG0f2zSg9UIEu_vEFoVs",
+    "genre": "Music",
+    "city": "Lourdes",
+    "country": "El Salvador",
+    "lat": 13.7261565,
+    "lng": -89.3686112
+  },
+  {
+    "id": "el-897-radio-esperanza-fm",
+    "name": "89.7 Radio Esperanza FM",
+    "url": "https://icecasthd.net/proxy/radioesperanza/live",
+    "genre": "Music",
+    "city": "Usulutan",
+    "country": "El Salvador",
+    "lat": 13.4324703,
+    "lng": -88.5398358
+  },
+  {
+    "id": "el-radio-la-de-moda-fm-981",
+    "name": "Radio La de Moda FM 98.1",
+    "url": "https://azuracast.aguilarsoluciones.com/listen/radiolademoda/stream",
+    "genre": "Music",
+    "city": "Ilobasco",
+    "country": "El Salvador",
+    "lat": 13.8430116,
+    "lng": -88.8489166
+  },
+  {
+    "id": "el-imagen-radio-el-salvador",
+    "name": "Imagen Radio El Salvador",
+    "url": "https://azuracast.aguilarsoluciones.com/listen/imagenradiosv/stream",
+    "genre": "Music",
+    "city": "San Salvador",
+    "country": "El Salvador",
+    "lat": 13.697629,
+    "lng": -89.191156
+  },
+  {
+    "id": "el-mi-pachangon-radio",
+    "name": "Mi Pachangon Radio",
+    "url": "https://azuracast.aguilarsoluciones.com/listen/mipachangonradio/stream",
+    "genre": "Music",
+    "city": "San Salvador",
+    "country": "El Salvador",
+    "lat": 13.697629,
+    "lng": -89.191156
+  },
+  {
+    "id": "el-radio-suchitlán-fm-921",
+    "name": "Radio Suchitlán FM 92.1",
+    "url": "https://orbit.citrus3.com:8206/stream",
+    "genre": "Music",
+    "city": "San Vicente",
+    "country": "El Salvador",
+    "lat": 13.5274936,
+    "lng": -88.7396986
+  },
+  {
+    "id": "el-la-mega-953-fm",
+    "name": "La Mega 95.3 FM",
+    "url": "https://c18.radioboss.fm:18191/stream",
+    "genre": "Music",
+    "city": "El Chilamatal",
+    "country": "El Salvador",
+    "lat": 13.853629,
+    "lng": -89.453556
+  },
+  {
+    "id": "el-femenina-fm-1025",
+    "name": "Femenina FM 102.5",
+    "url": "https://sp4.colombiatelecom.com.co/8028/stream",
+    "genre": "Music",
+    "city": "San Salvador",
+    "country": "El Salvador",
+    "lat": 13.697629,
+    "lng": -89.191156
+  },
+  {
+    "id": "el-maxima-gt",
+    "name": "Màxima GT",
+    "url": "https://streaming.dainusradio.com/9984/stream",
+    "genre": "Music",
+    "city": "Ahuachapan",
+    "country": "El Salvador",
+    "lat": 13.8634993,
+    "lng": -89.9273861
+  },
+  {
+    "id": "el-radio-ilusión-1075-fm",
+    "name": "Radio Ilusión 107.5 FM",
+    "url": "https://s.emisoras.tv:8036/stream",
+    "genre": "Music",
+    "city": "Santa Rosa de Lima",
+    "country": "El Salvador",
+    "lat": 13.6259196,
+    "lng": -87.8911322
+  },
+  {
+    "id": "el-impac-records-radio",
+    "name": "Impac Records Radio",
+    "url": "https://c7.radioboss.fm:8128/stream",
+    "genre": "Music",
+    "city": "San Salvador",
+    "country": "El Salvador",
+    "lat": 13.697629,
+    "lng": -89.191156
+  },
+  {
+    "id": "el-elim-540-am",
+    "name": "Elim 540 AM",
+    "url": "https://ssl.rockhost.com/proxy/540am?mp=/mp3_320",
+    "genre": "Music",
+    "city": "San Salvador",
+    "country": "El Salvador",
+    "lat": 13.697629,
+    "lng": -89.191156
+  },
+  {
+    "id": "el-radio-emmanuel-1510-am",
+    "name": "Radio Emmanuel 1510 AM",
+    "url": "https://stream-175.zeno.fm/7u7nazkh27zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI3dTduYXpraDI3enV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiVUlXdFA4RlJRbVNVWFlQV2NCd0N6USIsImlhdCI6MTc2OTQxODMwOSwiZXhwIjoxNzY5NDE4MzY5fQ.Cku1TkvcmXxtSOvGTLllCRU5Yz1RcjQyIaZ56YFZglg",
+    "genre": "Music",
+    "city": "Suchitoto",
+    "country": "El Salvador",
+    "lat": 13.9367228,
+    "lng": -89.0259345
+  },
+  {
+    "id": "el-radio-verdad-fm-957",
+    "name": "Radio Verdad FM 95.7",
+    "url": "https://cloudstream2036.conectarhosting.com/8168/stream",
+    "genre": "Music",
+    "city": "San Salvador",
+    "country": "El Salvador",
+    "lat": 13.697629,
+    "lng": -89.191156
+  },
+  {
+    "id": "el-vivaradio-933-fm",
+    "name": "VivaRadio 93.3 FM",
+    "url": "https://servidor13-5.brlogic.com:7126/live",
+    "genre": "Music",
+    "city": "Chalchuapa",
+    "country": "El Salvador",
+    "lat": 13.9853216,
+    "lng": -89.6802434
+  },
+  {
+    "id": "el-vive-fm",
+    "name": "Vive FM",
+    "url": "https://radio02.com/7082/stream",
+    "genre": "Music",
+    "city": "San Salvador",
+    "country": "El Salvador",
+    "lat": 13.697629,
+    "lng": -89.191156
+  },
+  {
+    "id": "el-izcanal-radio",
+    "name": "Izcanal Radio",
+    "url": "https://radio02.com/7090/stream",
+    "genre": "Music",
+    "city": "San Miguel",
+    "country": "El Salvador",
+    "lat": 13.4803899,
+    "lng": -88.17722
+  }
+]

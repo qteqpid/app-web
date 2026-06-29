@@ -1,0 +1,260 @@
+[
+    {
+        "name": "FM 107 Karachi",
+        "city": "Karachi",
+        "country": "Pakistan",
+        "url": "http://72.255.62.220:7070/live107"
+    },
+    {
+        "name": "Akhand Path Radio",
+        "city": "Islamabad",
+        "country": "Pakistan",
+        "url": "http://radio.punjabrocks.com:9968/;.mp3"
+    },
+    {
+        "name": "Bol FM 88",
+        "city": "Islamabad",
+        "country": "Pakistan",
+        "url": "https://stream.reinflux.com/radio/8050/radio.mp3"
+    },
+    {
+        "name": "Radio Pakistan FM93",
+        "city": "Islamabad",
+        "country": "Pakistan",
+        "url": "https://whmsonic.radio.gov.pk:8022/relay/"
+    },
+    {
+        "name": "FM-101",
+        "city": "Islamabad",
+        "country": "Pakistan",
+        "url": "https://whmsonic.radio.gov.pk:8024/relay/"
+    },
+    {
+        "name": "Dhanak",
+        "city": "Islamabad",
+        "country": "Pakistan",
+        "url": "https://whmsonic.radio.gov.pk:7007/stream/"
+    },
+    {
+        "name": "Saut-ul-Quran 93.4 FM",
+        "city": "Islamabad",
+        "country": "Pakistan",
+        "url": "https://whmsonic.radio.gov.pk:7002/stream/"
+    },
+    {
+        "name": "FM 93 Karachi",
+        "city": "Karachi",
+        "country": "Pakistan",
+        "url": "https://whmsonic.radio.gov.pk:7022/stream/"
+    },
+    {
+        "name": "FM 101 Islamabad",
+        "city": "Islamabad",
+        "country": "Pakistan",
+        "url": "https://whmsonic.radio.gov.pk:7008/stream/"
+    },
+    {
+        "name": "FM-101 Multan",
+        "city": "Islamabad",
+        "country": "Pakistan",
+        "url": "https://whmsonic.radio.gov.pk:7014/stream/"
+    },
+    {
+        "name": "HumFm106",
+        "city": "Islamabad",
+        "country": "Pakistan",
+        "url": "https://server.mediacast4u.stream/8002/stream"
+    },
+    {
+        "name": "Doaba Radio",
+        "city": "Islamabad",
+        "country": "Pakistan",
+        "url": "https://cast5.asurahosting.com/proxy/doabarad/stream"
+    },
+    {
+        "name": "100.0 FM",
+        "city": "Karachi",
+        "country": "Pakistan",
+        "url": "https://cast4.servcast.net/proxy/karachi/stream?ver=776520"
+    },
+    {
+        "name": "Radio Sharda",
+        "city": "Islamabad",
+        "country": "Pakistan",
+        "url": "http://s8.voscast.com:7738/index.html?sid=1"
+    },
+    {
+        "name": "Junagadh Janvani 91.2 FM",
+        "city": "Karachi",
+        "country": "Pakistan",
+        "url": "https://stream.dbhatt.org/radio/8020/junagadh_janvani.mp3"
+    },
+    {
+        "name": "Mera FM 107.4",
+        "city": "Islamabad",
+        "country": "Pakistan",
+        "url": "https://samaakhi107-itelservices.radioca.st/stream"
+    },
+    {
+        "name": "Swaminarayan Kirtan",
+        "city": "Karachi",
+        "country": "Pakistan",
+        "url": "https://radio.nnd.media/listen/swaminarayan_kirtan/Kirtan.mp3"
+    },
+    {
+        "name": "City FM 89.0",
+        "city": "Karachi",
+        "country": "Pakistan",
+        "url": "https://radio.cityfm89.com/stream"
+    },
+    {
+        "name": "Valley FM 103",
+        "city": "Islamabad",
+        "country": "Pakistan",
+        "url": "https://stream-178.zeno.fm/s96ccqggr2zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzOTZjY3FnZ3IyenV2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiV0ZZSWRjMjRReENaVnZhVDRzM2JwUSIsImlhdCI6MTc2OTQyMTYxNSwiZXhwIjoxNzY5NDIxNjc1fQ.vr1siCSufm6FE6Ff9jquwKMyUGHlIDBbncbHmj5QWS8"
+    },
+    {
+        "name": "Radio Rajkot 89.6 FM",
+        "city": "Karachi",
+        "country": "Pakistan",
+        "url": "https://a13.asurahosting.com/listen/89.6_radio_rajkot/radio.mp3"
+    },
+    {
+        "name": "Bhuj Mandir Radio",
+        "city": "Karachi",
+        "country": "Pakistan",
+        "url": "https://radio.bhujmandir.org/stream/9/"
+    },
+    {
+        "name": "Taal Radio",
+        "city": "Lahore",
+        "country": "Pakistan",
+        "url": "http://radio.punjabrocks.com:9998/index.html?sid=1"
+    },
+    {
+        "name": "Radio Madhuban 107.8 FM",
+        "city": "Karachi",
+        "country": "Pakistan",
+        "url": "https://icecast.bkwsu.eu/radiomadhuban.mp3"
+    },
+    {
+        "name": "God Stands TV Radio",
+        "city": "Lahore",
+        "country": "Pakistan",
+        "url": "https://radio.godstands.tv:8443/stream"
+    },
+    {
+        "name": "FM 101 Hyderabad",
+        "city": "Hyderabad",
+        "country": "Pakistan",
+        "url": "https://whmsonic.radio.gov.pk:8044/stream/"
+    },
+    {
+        "name": "Akathkatha",
+        "city": "Lahore",
+        "country": "Pakistan",
+        "url": "https://cast1.my-control-panel.com/proxy/akath/stream"
+    },
+    {
+        "name": "Quran Radio",
+        "city": "Multan",
+        "country": "Pakistan",
+        "url": "http://s2.reliastream.com:8239/Tune-In%20Links/"
+    },
+    {
+        "name": "AM 1170",
+        "city": "Peshawar",
+        "country": "Pakistan",
+        "url": "https://whmsonic.radio.gov.pk:8072/relay/"
+    },
+    {
+        "name": "FM 88 Chiltan",
+        "city": "Quetta",
+        "country": "Pakistan",
+        "url": "http://5.9.71.122:8284/layer"
+    },
+    {
+        "name": "FM101.5 Peshawar",
+        "city": "Peshawar",
+        "country": "Pakistan",
+        "url": "https://whmsonic.radio.gov.pk:8070/relay/"
+    },
+    {
+        "name": "Desi World Radio",
+        "city": "Lahore",
+        "country": "Pakistan",
+        "url": "https://stream-152.zeno.fm/4mbfcn4mf24tv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0bWJmY240bWYyNHR2IiwiaG9zdCI6InN0cmVhbS0xNTIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoieVV4aldkXzZRRktkSkxJLXh0WmRsQSIsImlhdCI6MTc2OTQyMTYxNywiZXhwIjoxNzY5NDIxNjc3fQ.hS8mqLvwfJTKHZOorUx1pMkB2zy-S2OQxWf3W0P5xVc"
+    },
+    {
+        "name": "Mohabbat Radio",
+        "city": "Lahore",
+        "country": "Pakistan",
+        "url": "https://stream-142.zeno.fm/t2ekq8zsgtzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0MmVrcTh6c2d0enV2IiwiaG9zdCI6InN0cmVhbS0xNDIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiQ1pBOVRMYjRSRlNKV3pxalZnVEsydyIsImlhdCI6MTc2OTQyMTYxNywiZXhwIjoxNzY5NDIxNjc3fQ.BWPcMDbxcBAmGwFDgHJR10tV-wzor_zBT9G4AyKgw50"
+    },
+    {
+        "name": "FM 101 Quetta",
+        "city": "Quetta",
+        "country": "Pakistan",
+        "url": "https://whmsonic.radio.gov.pk:8058/stream/"
+    },
+    {
+        "name": "Live Gurbani Radio",
+        "city": "Faisalabad",
+        "country": "Pakistan",
+        "url": "https://stream-151.zeno.fm/r3m0whh0kxquv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJyM20wd2hoMGt4cXV2IiwiaG9zdCI6InN0cmVhbS0xNTEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiOUM4SExuUVVSdlMyV0FoM014SlliQSIsImlhdCI6MTc2OTQyMTYxNywiZXhwIjoxNzY5NDIxNjc3fQ.Dy0WOpqw-niJrd5l_HDbhuEOEfwxaPSIEryhezjt614"
+    },
+    {
+        "name": "FM 101 Sargodha",
+        "city": "Sargodha",
+        "country": "Pakistan",
+        "url": "https://whmsonic.radio.gov.pk:8040/relay/"
+    },
+    {
+        "name": "FM 97",
+        "city": "Mianwali",
+        "country": "Pakistan",
+        "url": "http://s7.reliastream.com:8218/Tune-In%20Links/"
+    },
+    {
+        "name": "Sikh Katha Radio",
+        "city": "Muzaffarabad",
+        "country": "Pakistan",
+        "url": "http://radio.punjabrocks.com:9978/;.mp3"
+    },
+    {
+        "name": "FM 101 Mianwali",
+        "city": "Mianwali",
+        "country": "Pakistan",
+        "url": "https://whmsonic.radio.gov.pk:8028/relay/"
+    },
+    {
+        "name": "Radio FM World Pakistan",
+        "city": "Peshawar",
+        "country": "Pakistan",
+        "url": "https://stream-179.zeno.fm/tty4gmu30ehvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0dHk0Z211MzBlaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoicmFOSzJ1NUFTNlNsNlV3NVVTX19mQSIsImlhdCI6MTc2OTQyMTYxOCwiZXhwIjoxNzY5NDIxNjc4fQ.b0O-6LQzp4pfFGpLTDShaKMtCTVp4WK7zYrsX3T-4M4"
+    },
+    {
+        "name": "NCAC News and Current affairs channel",
+        "city": "Mianwali",
+        "country": "Pakistan",
+        "url": "https://whmsonic.radio.gov.pk:7004/stream/"
+    },
+    {
+        "name": "Jeay FM 88",
+        "city": "Sukkur",
+        "country": "Pakistan",
+        "url": "https://ssl.rockhost.com/proxy/sukkur?mp=/stream"
+    },
+    {
+        "name": "Shopen Anime Radio",
+        "city": "Lahore",
+        "country": "Pakistan",
+        "url": "https://s97.radiolize.com:8040/radio.mp3"
+    },
+    {
+        "name": "Marwar Radio",
+        "city": "Sukkur",
+        "country": "Pakistan",
+        "url": "https://stream-162.zeno.fm/vq6p5vxb4v8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2cTZwNXZ4YjR2OHV2IiwiaG9zdCI6InN0cmVhbS0xNjIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiVzVtSFpjMktTc3VGMVI1TVdTOURhdyIsImlhdCI6MTc2OTQyMTYxOSwiZXhwIjoxNzY5NDIxNjc5fQ.zpUdh0iw4_53j0ARaTTGDIuJXzLURxQZKwbaEgqt16w"
+    }
+]

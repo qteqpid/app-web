@@ -1,0 +1,728 @@
+[
+    {
+        "name": "Radio Cabo Verde International",
+        "city": "Radio Cabo Verde International",
+        "country": "Santa Maria, Cape Verde",
+        "url": "http://41.221.203.141:8090/"
+    },
+    {
+        "name": "Radio Sal ONE",
+        "city": "Radio Cabo Verde International",
+        "country": "Santa Maria, Cape Verde",
+        "url": "http://41.221.203.141:8093/"
+    },
+    {
+        "name": "Radio Ribeira Brava",
+        "city": "Radio Cabo Verde International",
+        "country": "Santa Maria, Cape Verde",
+        "url": "https://sc1.xdevel.com/ribeirabrava"
+    },
+    {
+        "name": "RCM",
+        "city": "Radio Cabo Verde International",
+        "country": "Santa Maria, Cape Verde",
+        "url": "https://stream.cvhosting.uk:8040/radio.mp3"
+    },
+    {
+        "name": "Rádio Litoral FM 94.5",
+        "city": "Cabo Frio RJ",
+        "country": "Brazil",
+        "url": "https://cast4.hoost.com.br:20053/stream"
+    },
+    {
+        "name": "Conselheiro FM 87.7",
+        "city": "Cabo Frio RJ",
+        "country": "Brazil",
+        "url": "https://stm1.streamproarte.com.br:7204/stream"
+    },
+    {
+        "name": "Rádio Onda 97.7 FM",
+        "city": "Cabo Frio RJ",
+        "country": "Brazil",
+        "url": "https://ondasfm.streams.com.br/stream"
+    },
+    {
+        "name": "Radio Cidade FM 91.1",
+        "city": "Radio Cabo Verde International",
+        "country": "Santa Maria, Cape Verde",
+        "url": "https://hts02.brascast.com:9288/live"
+    },
+    {
+        "name": "Rádio Conceitos FM",
+        "city": "Cabo Frio RJ",
+        "country": "Brazil",
+        "url": "https://stm1.ninjascast.com:7070/stream"
+    },
+    {
+        "name": "Houda FM",
+        "city": "Radio Cabo Verde International",
+        "country": "Santa Maria, Cape Verde",
+        "url": "https://radio4.pro-fhi.net:19050/stream"
+    },
+    {
+        "name": "Oscar 101.5 FM",
+        "city": "Cabo San Lucas",
+        "country": "Mexico",
+        "url": "http://audioout.gvstream.net/gpm-oscar1015.aac"
+    },
+    {
+        "name": "Salam Radio Dakar",
+        "city": "Radio Cabo Verde International",
+        "country": "Santa Maria, Cape Verde",
+        "url": "https://stream-167.zeno.fm/br25q9xqg48uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJicjI1cTl4cWc0OHV2IiwiaG9zdCI6InN0cmVhbS0xNjcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoienlIa2xHMWxRS3VoY3V3bHR0TEw4USIsImlhdCI6MTc2OTQxNzI4MywiZXhwIjoxNzY5NDE3MzQzfQ.Dab0YhrAPZCp6Z5sjHIR2jRYi7UC32bfe_GEGqcEcX8"
+    },
+    {
+        "name": "Estação 104 FM",
+        "city": "Cabo Frio RJ",
+        "country": "Brazil",
+        "url": "https://streaming.fox.srv.br:8006/stream"
+    },
+    {
+        "name": "FM 101",
+        "city": "Cabo Frio RJ",
+        "country": "Brazil",
+        "url": "https://nl.digitalrm.pt:8012/stream"
+    },
+    {
+        "name": "Radio Keur Massar",
+        "city": "Radio Cabo Verde International",
+        "country": "Santa Maria, Cape Verde",
+        "url": "https://stream.keurmassar.info/"
+    },
+    {
+        "name": "Alpha FM 101.7",
+        "city": "Cabo Frio RJ",
+        "country": "Brazil",
+        "url": "https://27433.live.streamtheworld.com:443/RADIO_ALPHAFMAAC.aac"
+    },
+    {
+        "name": "Miled Radio Los Cabos 91.5 FM",
+        "city": "Cabo San Lucas",
+        "country": "Mexico",
+        "url": "https://miledloscabos-cybertec.radioca.st/stream"
+    },
+    {
+        "name": "Radio UABCS 1180 AM",
+        "city": "Cabo San Lucas",
+        "country": "Mexico",
+        "url": "https://edge.mixlr.com/channel/sanhc"
+    },
+    {
+        "name": "Rádio Itatiaia",
+        "city": "Cabo Frio RJ",
+        "country": "Brazil",
+        "url": "https://8903.brasilstream.com.br/stream"
+    },
+    {
+        "name": "La Giganta XHLBC 95.7 FM",
+        "city": "Cabo San Lucas",
+        "country": "Mexico",
+        "url": "http://www.radiolagiganta.com:8080/radiolagiganta"
+    },
+    {
+        "name": "Antena 1",
+        "city": "Cabo Frio RJ",
+        "country": "Brazil",
+        "url": "https://antenaone.crossradio.com.br/stream"
+    },
+    {
+        "name": "Radiante FM 89.1",
+        "city": "Cabo San Lucas",
+        "country": "Mexico",
+        "url": "https://streamingcwsradio30.com:7036/stream"
+    },
+    {
+        "name": "Vibra Radio FM 99.5",
+        "city": "Cabo San Lucas",
+        "country": "Mexico",
+        "url": "https://sp3.servidorrprivado.com:10827/index.html?sid=1"
+    },
+    {
+        "name": "XHSCAN 107.9 FM Radio Chureya",
+        "city": "Cabo San Lucas",
+        "country": "Mexico",
+        "url": "https://stream-165.zeno.fm/0hg3ff8wsf9uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwaGczZmY4d3NmOXV2IiwiaG9zdCI6InN0cmVhbS0xNjUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoib0xPYnpUNndRalNxa042NUZmTU1zdyIsImlhdCI6MTc2OTQxNzI4NSwiZXhwIjoxNzY5NDE3MzQ1fQ.X2Em79Wb_Hl18CwI19LQiWa5RO5vzpgYikhOIBa1R3A"
+    },
+    {
+        "name": "Radio UAS 102.9 FM",
+        "city": "Cabo San Lucas",
+        "country": "Mexico",
+        "url": "https://stream9.mexiserver.com/8410/stream"
+    },
+    {
+        "name": "Rádio JB FM 99,9",
+        "city": "Cabo Frio RJ",
+        "country": "Brazil",
+        "url": "https://27693.live.streamtheworld.com:443/JBFMAAC.aac"
+    },
+    {
+        "name": "98 FM Correio João Pessoa",
+        "city": "Cabo Branco FM",
+        "country": "João Pessoa PB, Brazil",
+        "url": "http://shout25.crossradio.com.br:8066/live"
+    },
+    {
+        "name": "BB MUSiC Búzios",
+        "city": "Cabo Frio RJ",
+        "country": "Brazil",
+        "url": "https://servidor37-1.brlogic.com:8334/live"
+    },
+    {
+        "name": "Rádio Somada",
+        "city": "Radio Cabo Verde International",
+        "country": "Santa Maria, Cape Verde",
+        "url": "https://servidor36.brlogic.com:7014/live"
+    },
+    {
+        "name": "Cafe Romantico Radio",
+        "city": "Cabo San Lucas",
+        "country": "Mexico",
+        "url": "https://panel.retrolandigital.com/radio/8110/listen"
+    },
+    {
+        "name": "Radio Centro El Fonografo AM 690",
+        "city": "Cabo San Lucas",
+        "country": "Mexico",
+        "url": "https://26143.live.streamtheworld.com:443/XEN_AMAAC.aac"
+    },
+    {
+        "name": "Viagem do Rock",
+        "city": "Cabo Frio RJ",
+        "country": "Brazil",
+        "url": "https://servidor33-4.brlogic.com:8178/live"
+    },
+    {
+        "name": "João Pessoa 97.7 FM",
+        "city": "Cabo Branco FM",
+        "country": "João Pessoa PB, Brazil",
+        "url": "https://s01.svrdedicado.org:7294/stream/"
+    },
+    {
+        "name": "Rádio Forró Web",
+        "city": "Cabo Branco FM",
+        "country": "João Pessoa PB, Brazil",
+        "url": "https://paineldj.com.br:20120/stream/"
+    },
+    {
+        "name": "Stereorey",
+        "city": "Cabo San Lucas",
+        "country": "Mexico",
+        "url": "https://18323.live.streamtheworld.com:443/STEREOREYAAC.aac"
+    },
+    {
+        "name": "Universal 88.1",
+        "city": "Cabo San Lucas",
+        "country": "Mexico",
+        "url": "https://29223.live.streamtheworld.com:443/XHRED_FMAAC.aac"
+    },
+    {
+        "name": "W Radio FM 96.9",
+        "city": "Cabo San Lucas",
+        "country": "Mexico",
+        "url": "https://17553.live.streamtheworld.com:443/W_RADIOAAC.aac"
+    },
+    {
+        "name": "Parahyba FM 103.9",
+        "city": "Cabo Branco FM",
+        "country": "João Pessoa PB, Brazil",
+        "url": "https://stm1.xcast.com.br:9538/000000"
+    },
+    {
+        "name": "Rádio Quintal",
+        "city": "Cabo Branco FM",
+        "country": "João Pessoa PB, Brazil",
+        "url": "https://cast3.hoost.com.br:20161/stream"
+    },
+    {
+        "name": "1001 Noticias FM 87.9",
+        "city": "Cabo Branco FM",
+        "country": "João Pessoa PB, Brazil",
+        "url": "https://stm1.aovivodigital.com.br:10562/stream"
+    },
+    {
+        "name": "Rádio Jampa Jovens",
+        "city": "Cabo Branco FM",
+        "country": "João Pessoa PB, Brazil",
+        "url": "https://stream-177.zeno.fm/5150u58bfwzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI1MTUwdTU4YmZ3enV2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoieTh1d2NnVElSZ2VJWlhmRy1Uai1ndyIsImlhdCI6MTc2OTQxNzI4OSwiZXhwIjoxNzY5NDE3MzQ5fQ.gTovFHuClUmh5iVbJppWHrnnIbl8tXmD77yMZS99PnE"
+    },
+    {
+        "name": "Nova FM 98.5",
+        "city": "Cabo Branco FM",
+        "country": "João Pessoa PB, Brazil",
+        "url": "https://stm9.srvvox.com.br:7744/stream"
+    },
+    {
+        "name": "RC FM Rádio Comunitária de Itambé",
+        "city": "Cabo Branco FM",
+        "country": "João Pessoa PB, Brazil",
+        "url": "https://stm8.painelvox.com:8944/stream"
+    },
+    {
+        "name": "Rádio Mix FM 93.7",
+        "city": "Cabo Branco FM",
+        "country": "João Pessoa PB, Brazil",
+        "url": "https://23033.live.streamtheworld.com:443/MIXFM_JOAOPESSOA.mp3"
+    },
+    {
+        "name": "Rádio Cidade Alternativa",
+        "city": "Cabo Branco FM",
+        "country": "João Pessoa PB, Brazil",
+        "url": "https://player.conectastreaming.com/proxy/8280"
+    },
+    {
+        "name": "Citi FM 97.3",
+        "city": "Cape Coast",
+        "country": "Ghana",
+        "url": "https://citi973fm.radioca.st/index.html?sid=1"
+    },
+    {
+        "name": "Kastle FM 90.3",
+        "city": "Cape Coast",
+        "country": "Ghana",
+        "url": "https://stream-154.zeno.fm/evaq9ab4k0hvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJldmFxOWFiNGswaHZ2IiwiaG9zdCI6InN0cmVhbS0xNTQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiRno5NDlGVXlTTFNIRnlrUEN2SHpKZyIsImlhdCI6MTc2OTQxNzI5MiwiZXhwIjoxNzY5NDE3MzUyfQ.7XZ3TrcWwDv1nqXSWgumIoDHX5f58mKkQMrn1MUdHC4"
+    },
+    {
+        "name": "omega GE radio",
+        "city": "Cape Coast",
+        "country": "Ghana",
+        "url": "https://stream-152.zeno.fm/puwca5c8hkeuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwdXdjYTVjOGhrZXV2IiwiaG9zdCI6InN0cmVhbS0xNTIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiUThoUlRuSkRRNVd0TnVDbTJibmtnZyIsImlhdCI6MTc2OTQxNzI5MiwiZXhwIjoxNzY5NDE3MzUyfQ.KsMCTNOfoZKVmjJOPdIlL4NE9ZDoZjuGILm5wt56iL4"
+    },
+    {
+        "name": "TW Radio 88.9 FM",
+        "city": "Cape Coast",
+        "country": "Ghana",
+        "url": "https://a00.w3gradle.com/a21.mp3"
+    },
+    {
+        "name": "Ogya FM 98.3",
+        "city": "Cape Coast",
+        "country": "Ghana",
+        "url": "https://stream-177.zeno.fm/dub9mp72k0hvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJkdWI5bXA3MmswaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiOE82VWJPZG9UZG1MMXZ2OXZ1RFpmQSIsImlhdCI6MTc2OTQxNzI5MiwiZXhwIjoxNzY5NDE3MzUyfQ.bs4VpQ2VnwLETPfOtUlFkXk44FK_WuZUR_PBxwi3U9o"
+    },
+    {
+        "name": "Golden Star FM 89.3",
+        "city": "Cape Coast",
+        "country": "Ghana",
+        "url": "https://stream-154.zeno.fm/08ub3cqrrhruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwOHViM2NxcnJocnV2IiwiaG9zdCI6InN0cmVhbS0xNTQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiRi1zdTJYYXNUQm1vS2dvRDhXMkp6dyIsImlhdCI6MTc2OTQxNzI5MiwiZXhwIjoxNzY5NDE3MzUyfQ.XYaeDtUuZtWuPoOFB3SljaFf8GnzT7gTg_zQOV61NUY"
+    },
+    {
+        "name": "Bankam 95.1 FM",
+        "city": "Cape Coast",
+        "country": "Ghana",
+        "url": "https://stream-157.zeno.fm/w611nmv0zp8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ3NjExbm12MHpwOHV2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiVExwRzZfLUZURHVTSk9mT0xxVWZDdyIsImlhdCI6MTc2OTQxNzI5MiwiZXhwIjoxNzY5NDE3MzUyfQ.6VAg78aF76NglkALryu_OJagiuDAqq_fqpaTHNez3iE"
+    },
+    {
+        "name": "WIGCS Radio",
+        "city": "Cape Coast",
+        "country": "Ghana",
+        "url": "https://stream-160.zeno.fm/xrhfg25zumzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ4cmhmZzI1enVtenV2IiwiaG9zdCI6InN0cmVhbS0xNjAuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoia3N4eDVkaXlUUUdxYXlIREljVk9hdyIsImlhdCI6MTc2OTQxNzI5MiwiZXhwIjoxNzY5NDE3MzUyfQ.m1WBUdHDw1zyjZLIb5uesAlePfs-3njKSs2HSAIokGk"
+    },
+    {
+        "name": "Oyerepa FM",
+        "city": "Cape Coast",
+        "country": "Ghana",
+        "url": "https://stream-152.zeno.fm/457dru9abnzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0NTdkcnU5YWJuenV2IiwiaG9zdCI6InN0cmVhbS0xNTIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiR0RLbGhnczVUTFdVQUFtdGNuT0hKQSIsImlhdCI6MTc2OTQxNzI5MywiZXhwIjoxNzY5NDE3MzUzfQ.ffzPuUb3S-uhhL0qVqYqxnj01SDvQcHctB7QmALsHko"
+    },
+    {
+        "name": "Cabo Branco FM",
+        "city": "Cabo Branco FM",
+        "country": "João Pessoa PB, Brazil",
+        "url": "https://servidor20.brlogic.com:7086/live"
+    },
+    {
+        "name": "Globo FM 97.9",
+        "city": "San José del Cabo",
+        "country": "Mexico",
+        "url": "https://a6.asurahosting.com:8130/radio.mp3"
+    },
+    {
+        "name": "Joy 99.7 FM",
+        "city": "Cape Coast",
+        "country": "Ghana",
+        "url": "https://mmg.streamguys1.com/JoyFM-mp3?key=63d8990dfe4438ae984fd70d2d2b4bd31c842c474987bd810ac0e8e0fd62e8cf2015661105cced63ccfdca89a8422ab1"
+    },
+    {
+        "name": "Asempa 94.7 FM",
+        "city": "Cape Coast",
+        "country": "Ghana",
+        "url": "https://mmg.streamguys1.com/AsempaFM-mp3?key=63d8990dfe4438ae984fd70d2d2b4bd31c842c474987bd810ac0e8e0fd62e8cf2015661105cced63ccfdca89a8422ab1"
+    },
+    {
+        "name": "Adom FM 106.3",
+        "city": "Cape Coast",
+        "country": "Ghana",
+        "url": "https://mmg.streamguys1.com/AdomFM-mp3?key=63d8990dfe4438ae984fd70d2d2b4bd31c842c474987bd810ac0e8e0fd62e8cf2015661105cced63ccfdca89a8422ab1"
+    },
+    {
+        "name": "HD3 Neo FM 94.1",
+        "city": "San José del Cabo",
+        "country": "Mexico",
+        "url": "https://audiostreaming.luz.network/stream/9/"
+    },
+    {
+        "name": "Difusora FM 103.3",
+        "city": "Rádio a Cabo Destak",
+        "country": "Caxias MA, Brazil",
+        "url": "https://webradio.amsolution.com.br/radio/8450/caxias"
+    },
+    {
+        "name": "Rich Radio",
+        "city": "Cape Coast",
+        "country": "Ghana",
+        "url": "https://strw3.openstream.co/1980?aw_0_1st.collectionid%3D5756%26stationId%3D5756%26publisherId%3D2004%26k%3D1769417293"
+    },
+    {
+        "name": "Radio Domoni Inter",
+        "city": "RM EP Cabo Delgado",
+        "country": "Pemba, Mozambique",
+        "url": "http://domoni-inter.org:8000/live"
+    },
+    {
+        "name": "Rádio Seixas",
+        "city": "Cabo Branco FM",
+        "country": "João Pessoa PB, Brazil",
+        "url": "https://servidor21-1.brlogic.com:7278/live"
+    },
+    {
+        "name": "Rádio Guanaré FM 105.9",
+        "city": "Rádio a Cabo Destak",
+        "country": "Caxias MA, Brazil",
+        "url": "https://stm28.xcast.com.br:9582/stream/"
+    },
+    {
+        "name": "Jovem Pan FM 102.5",
+        "city": "Cabo Branco FM",
+        "country": "João Pessoa PB, Brazil",
+        "url": "https://servidor17.brlogic.com:8262/live"
+    },
+    {
+        "name": "Super FM 101.9",
+        "city": "RM EP Cabo Delgado",
+        "country": "Pemba, Mozambique",
+        "url": "http://41.223.153.14:8000/;stream/1"
+    },
+    {
+        "name": "Rádio Nativa FM 104.9",
+        "city": "Rádio a Cabo Destak",
+        "country": "Caxias MA, Brazil",
+        "url": "https://centova.svdns.com.br:2960/live"
+    },
+    {
+        "name": "Rádio Web Verdes Carnaubais",
+        "city": "Rádio a Cabo Destak",
+        "country": "Caxias MA, Brazil",
+        "url": "https://server07.srvsh.com.br:7418/index.html?sid=1"
+    },
+    {
+        "name": "RS-Mayotte",
+        "city": "RM EP Cabo Delgado",
+        "country": "Pemba, Mozambique",
+        "url": "https://radio.mayotte-streaming.com/8008/stream"
+    },
+    {
+        "name": "Demais FM 97.9",
+        "city": "Rádio a Cabo Destak",
+        "country": "Caxias MA, Brazil",
+        "url": "https://stream-176.zeno.fm/0ck7m160cy8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwY2s3bTE2MGN5OHV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiMzlyRFhIbUZRMEtHa01tbDBUNHo4ZyIsImlhdCI6MTc2OTQxNzI5NiwiZXhwIjoxNzY5NDE3MzU2fQ.-9vQdeh2JIFwN94H0ZiOEKB2FgL9MTSdz1om4wyjm5s"
+    },
+    {
+        "name": "LM Radio 87.8 FM",
+        "city": "RM EP Cabo Delgado",
+        "country": "Pemba, Mozambique",
+        "url": "https://cast6.asurahosting.com/proxy/lmradioc/stream"
+    },
+    {
+        "name": "Rádio Sem Fronteiras FM 102.1",
+        "city": "RM EP Cabo Delgado",
+        "country": "Pemba, Mozambique",
+        "url": "https://ssl.stmxp.net:8030/index.html?sid=1"
+    },
+    {
+        "name": "Radio Dracktrar Patsy FM 98.0",
+        "city": "RM EP Cabo Delgado",
+        "country": "Pemba, Mozambique",
+        "url": "https://stream-177.zeno.fm/gv2x4k52es8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJndjJ4NGs1MmVzOHV2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiQzYzV2JDcFpTQmFEcWJ1cmRqc0VhdyIsImlhdCI6MTc2OTQxNzI5NywiZXhwIjoxNzY5NDE3MzU3fQ.BToRJq3jBihNOJgp91rq3wqOilgImK3w44zw_8dR_oc"
+    },
+    {
+        "name": "Air FM",
+        "city": "Cape Town",
+        "country": "South Africa",
+        "url": "https://edge.iono.fm/xice/257_medium.mp3"
+    },
+    {
+        "name": "Smile 90.4 FM",
+        "city": "Cape Town",
+        "country": "South Africa",
+        "url": "https://edge.iono.fm/xice/212_medium.aac"
+    },
+    {
+        "name": "Rádio Miramar 101.4 FM",
+        "city": "RM EP Cabo Delgado",
+        "country": "Pemba, Mozambique",
+        "url": "https://nl.digitalrm.pt:8150/stream"
+    },
+    {
+        "name": "Magic 828",
+        "city": "Cape Town",
+        "country": "South Africa",
+        "url": "http://cast.fabrik.fm:8106/"
+    },
+    {
+        "name": "Hope FM 106.2",
+        "city": "Cape Town",
+        "country": "South Africa",
+        "url": "https://zas7.ndx.co.za:8020/stream"
+    },
+    {
+        "name": "Fine Music Radio FM 101.3",
+        "city": "Cape Town",
+        "country": "South Africa",
+        "url": "https://edge.iono.fm/xice/fmr_live_medium.aac"
+    },
+    {
+        "name": "Paraiso FM",
+        "city": "Rádio a Cabo Destak",
+        "country": "Caxias MA, Brazil",
+        "url": "https://stm2.voxhd.com.br:9854/stream/"
+    },
+    {
+        "name": "Radio 786 FM 100.4",
+        "city": "Cape Town",
+        "country": "South Africa",
+        "url": "http://102.221.216.42:8040/stream/"
+    },
+    {
+        "name": "Cape Talk AM 567",
+        "city": "Cape Town",
+        "country": "South Africa",
+        "url": "https://22193.live.streamtheworld.com:443/CAPE_TALKAAC.aac"
+    },
+    {
+        "name": "Kfm 94.5",
+        "city": "Cape Town",
+        "country": "South Africa",
+        "url": "https://25683.live.streamtheworld.com:443/KFMAAC.aac"
+    },
+    {
+        "name": "Whale Coast FM 96",
+        "city": "Cape Town",
+        "country": "South Africa",
+        "url": "https://edge.iono.fm/xice/309_medium.aac"
+    },
+    {
+        "name": "6Pazzi Radio",
+        "city": "Cape Town",
+        "country": "South Africa",
+        "url": "https://stream.radio.co/s51967244c/listen"
+    },
+    {
+        "name": "Wake UP DC",
+        "city": "Cape Town",
+        "country": "South Africa",
+        "url": "https://edge.iono.fm/xice/366_medium.aac"
+    },
+    {
+        "name": "Radio Free Tankwa FM 99.9",
+        "city": "Cape Town",
+        "country": "South Africa",
+        "url": "https://19213.live.streamtheworld.com:443/SAM09AAC213.aac"
+    },
+    {
+        "name": "Good Hope FM 94-97",
+        "city": "Cape Town",
+        "country": "South Africa",
+        "url": "https://27943.live.streamtheworld.com:443/GOODHOPEFMAAC_SC"
+    },
+    {
+        "name": "Perron FM 95.1",
+        "city": "Cape Town",
+        "country": "South Africa",
+        "url": "https://zas4.ndx.co.za:9000/stream/"
+    },
+    {
+        "name": "Jou Stasie",
+        "city": "Cape Town",
+        "country": "South Africa",
+        "url": "https://uslradio.net/8010/stream"
+    },
+    {
+        "name": "Infinity FM",
+        "city": "Cape Town",
+        "country": "South Africa",
+        "url": "https://stream-165.zeno.fm/8ssgegx2czzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI4c3NnZWd4MmN6enV2IiwiaG9zdCI6InN0cmVhbS0xNjUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiU3hrRjAzUVVUVDZVQ3lOdnJZRTZLZyIsImlhdCI6MTc2OTQxNzMwMSwiZXhwIjoxNzY5NDE3MzYxfQ.Viio35FdiSLsfepxHLTKO0Y-oZ9o2Q4S_f2-zuPyTAg"
+    },
+    {
+        "name": "RSG FM 100.0",
+        "city": "Cape Town",
+        "country": "South Africa",
+        "url": "https://25693.live.streamtheworld.com:443/RSGAAC.aac"
+    },
+    {
+        "name": "La Mejor 94.9 FM",
+        "city": "Cap-Haitien",
+        "country": "Haiti",
+        "url": "https://mars.streamerr.co/8098/stream"
+    },
+    {
+        "name": "Gaan Groot Radio",
+        "city": "Cape Town",
+        "country": "South Africa",
+        "url": "https://18213.live.streamtheworld.com:443/SP_R2982692.aac"
+    },
+    {
+        "name": "Metro FM 93.0",
+        "city": "Cape Town",
+        "country": "South Africa",
+        "url": "https://25683.live.streamtheworld.com:443/METROFMAAC.aac"
+    },
+    {
+        "name": "Radio Fénique Inter 103.5 FM",
+        "city": "Cap-Haitien",
+        "country": "Haiti",
+        "url": "https://stream-177.zeno.fm/ym8gkr28gm5tv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5bThna3IyOGdtNXR2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiNEZRS3NyWi1SMnFKbkdhUUlFRkJCUSIsImlhdCI6MTc2OTQxNzMwMiwiZXhwIjoxNzY5NDE3MzYyfQ._jyw4cbzAoa87moQV2uf5IJZGHWGaOqh9K1Fggzkfbk"
+    },
+    {
+        "name": "Talk Radio 702",
+        "city": "Cape Town",
+        "country": "South Africa",
+        "url": "https://27863.live.streamtheworld.com:443/FM702AAC.aac"
+    },
+    {
+        "name": "LM Radio AM 702",
+        "city": "Cape Town",
+        "country": "South Africa",
+        "url": "https://ukwesta.streaming.broadcast.radio/lmradio"
+    },
+    {
+        "name": "Radio Lumiere Inter",
+        "city": "Cap-Haitien",
+        "country": "Haiti",
+        "url": "https://stream-142.zeno.fm/s0x87e0w5neuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzMHg4N2UwdzVuZXV2IiwiaG9zdCI6InN0cmVhbS0xNDIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoidXRLdzdNN2hSb2lNb0t4TmFzdFpLQSIsImlhdCI6MTc2OTQxNzMwMywiZXhwIjoxNzY5NDE3MzYzfQ.vY-RycKkOpuPobYCnTCdzB0pu42YbksOGiV2FUI0QfA"
+    },
+    {
+        "name": "Radio Boss FM 103.9",
+        "city": "Cap-Haitien",
+        "country": "Haiti",
+        "url": "https://us10a.serverse.com/proxy/cfaboxzy/stream"
+    },
+    {
+        "name": "Jacaranda",
+        "city": "Cape Town",
+        "country": "South Africa",
+        "url": "https://live.jacarandafm.com/jacarandahigh.mp3"
+    },
+    {
+        "name": "Tiger FM 93.3",
+        "city": "Cape Coral FL",
+        "country": "United States",
+        "url": "http://62.151.177.31:8000/transmitter.mp3"
+    },
+    {
+        "name": "Tropicana 106",
+        "city": "Cap-Haitien",
+        "country": "Haiti",
+        "url": "https://stream-148.zeno.fm/tmxkd9u8na0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0bXhrZDl1OG5hMHV2IiwiaG9zdCI6InN0cmVhbS0xNDguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiZmRtTTBUUGVUa1NNbVhrN2t5RmJFZyIsImlhdCI6MTc2OTQxNzMwMywiZXhwIjoxNzY5NDE3MzYzfQ.F3u18W_9U0CNF0lRHPvvmMdDLCuk-8kHtCh2zP1YY_w"
+    },
+    {
+        "name": "Radio Tapinozet",
+        "city": "Cap-Haitien",
+        "country": "Haiti",
+        "url": "https://stream-177.zeno.fm/0kbbn35dfkeuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwa2JibjM1ZGZrZXV2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiQkpJVTIxbFVUcW1rNGxJek4xZDlVdyIsImlhdCI6MTc2OTQxNzMwMywiZXhwIjoxNzY5NDE3MzYzfQ.VpjX3NRR7LqNwH6XLqvlXaZeL88-q8fAbskbUtXcUdk"
+    },
+    {
+        "name": "Radio RHM plus",
+        "city": "Cap-Haitien",
+        "country": "Haiti",
+        "url": "https://rhmplus.radioca.st/index.html?sid=1"
+    },
+    {
+        "name": "Radio SFM 102.7",
+        "city": "Cap-Haitien",
+        "country": "Haiti",
+        "url": "https://stream-177.zeno.fm/wr93m2z7rfeuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ3cjkzbTJ6N3JmZXV2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoic2Y5MERyV3JRbDZSc0I1UENBTmU0dyIsImlhdCI6MTc2OTQxNzMwNCwiZXhwIjoxNzY5NDE3MzY0fQ.ZKUff3dHtNI0Wl8INtxkEcRVqTWujAPX0npDTV5dyIQ"
+    },
+    {
+        "name": "Vibe 24/7",
+        "city": "Cape Coral FL",
+        "country": "United States",
+        "url": "https://usa12.fastcast4u.com/proxy/vibeallh?mp=/1"
+    },
+    {
+        "name": "Caraibes FM 94.5",
+        "city": "Cap-Haitien",
+        "country": "Haiti",
+        "url": "https://stream-141.zeno.fm/54k0v7x14neuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI1NGswdjd4MTRuZXV2IiwiaG9zdCI6InN0cmVhbS0xNDEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiZDBjU2Q2RkJTb0dLcjdBTzV0UDQ4QSIsImlhdCI6MTc2OTQxNzMwNCwiZXhwIjoxNzY5NDE3MzY0fQ.ilbuk24T1mMoRZ5Fpm0KIVo9P8WoKgkjgyuLhrRXPgQ"
+    },
+    {
+        "name": "Radio Tele Ginen 92.9 FM",
+        "city": "Cap-Haitien",
+        "country": "Haiti",
+        "url": "https://stream-162.zeno.fm/gp19hsnth54tv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJncDE5aHNudGg1NHR2IiwiaG9zdCI6InN0cmVhbS0xNjIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoid2ozT0JKa2NUWU92ZnpQYUFadmVmQSIsImlhdCI6MTc2OTQxNzMwNCwiZXhwIjoxNzY5NDE3MzY0fQ.h8dqPxtRASdKPEhK93E_iBIfb8SjtSntIwWN2hZd3zw"
+    },
+    {
+        "name": "Gaj FM 98.7",
+        "city": "Cap-Haitien",
+        "country": "Haiti",
+        "url": "https://studio.sitegenial.com/8040/stream"
+    },
+    {
+        "name": "Radio Full Gospel",
+        "city": "Cap-Haitien",
+        "country": "Haiti",
+        "url": "https://s47.myradiostream.com:13916/listen.mp3?nocache=1769417305"
+    },
+    {
+        "name": "Oldieradio Florida",
+        "city": "Cape Coral FL",
+        "country": "United States",
+        "url": "http://eagle.streemlion.com:4733/index.html?sid=1"
+    },
+    {
+        "name": "Smooth Jazz 24/7",
+        "city": "Cape Coral FL",
+        "country": "United States",
+        "url": "https://ais-edge89-dal02.cdnstream.com/2124_128.mp3"
+    },
+    {
+        "name": "ABN Old-Time Radio AM 1610",
+        "city": "Cape Coral FL",
+        "country": "United States",
+        "url": "https://s6.yesstreaming.net:18000/listen"
+    },
+    {
+        "name": "Patriot Radio Classics",
+        "city": "Cape Coral FL",
+        "country": "United States",
+        "url": "http://n10.radiojar.com/sqxkmtks1d5tv?rj-ttl=5&rj-tok=AAABm_mGnHwATu7SqFej2qYi2g"
+    },
+    {
+        "name": "KOKO LP Radio 96.3 FM",
+        "city": "Cape Coral FL",
+        "country": "United States",
+        "url": "https://s2.yesstreaming.net:7031/stream"
+    },
+    {
+        "name": "KBRW-AM 680",
+        "city": "Cape Coral FL",
+        "country": "United States",
+        "url": "https://tektite.streamguys1.com:5345/live"
+    },
+    {
+        "name": "WSGL 104.7 the Mix",
+        "city": "Cape Coral FL",
+        "country": "United States",
+        "url": "https://14543.live.streamtheworld.com:443/WSGL_FMAAC.aac"
+    },
+    {
+        "name": "Fox News Radio",
+        "city": "Cape Coral FL",
+        "country": "United States",
+        "url": "https://prod-3-222-117-14.amperwave.net/foxnewsradio-foxnewsradioaac-imc?session-id=617c6897f8bb2475ba757133f501955d"
+    },
+    {
+        "name": "WENG FM 107.5",
+        "city": "Cape Coral FL",
+        "country": "United States",
+        "url": "https://ice8.securenetsystems.net/WENG"
+    }
+]

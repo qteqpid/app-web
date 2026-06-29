@@ -1,0 +1,72 @@
+[
+  {
+    "id": "kuwait-best-on-top-radio",
+    "name": "Best On Top Radio",
+    "url": "http://198.7.62.157:10008/stream",
+    "genre": "Music",
+    "city": "Kuwait City",
+    "country": "Kuwait",
+    "lat": 29.3796532,
+    "lng": 47.9734174
+  },
+  {
+    "id": "kuwait-times-square-radio-1025-fm",
+    "name": "Times Square Radio 102.5 FM",
+    "url": "https://edge.mixlr.com/channel/slpyo",
+    "genre": "Music",
+    "city": "Kuwait City",
+    "country": "Kuwait",
+    "lat": 29.3796532,
+    "lng": 47.9734174
+  },
+  {
+    "id": "kuwait-alrasheed-fm-915",
+    "name": "Alrasheed FM 91.5",
+    "url": "https://streaming.shoutcast.com/alrasheed-fm",
+    "genre": "Music",
+    "city": "Kuwait City",
+    "country": "Kuwait",
+    "lat": 29.3796532,
+    "lng": 47.9734174
+  },
+  {
+    "id": "kuwait-radio-asharq-with-bloomberg",
+    "name": "Radio Asharq with Bloomberg",
+    "url": "https://l3.itworkscdn.net/asharqradioalive/asharqradioa/icecast.audio",
+    "genre": "Music",
+    "city": "Kuwait City",
+    "country": "Kuwait",
+    "lat": 29.3796532,
+    "lng": 47.9734174
+  },
+  {
+    "id": "kuwait-live-fm-1072",
+    "name": "Live FM 107.2",
+    "url": "https://stream-14.aiir.com/dbv0rxpwp6ytv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJkYnYwcnhwd3A2eXR2IiwiaG9zdCI6InN0cmVhbS0xNC5haWlyLmNvbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiMFhJcG1NcVZUVnFXLV9LdkJiaE5LZyIsImlhdCI6MTc2OTQxOTk2MywiZXhwIjoxNzY5NDIwMDIzfQ.OyNhw6pf1Oh8D8XYHHbvbrnnv32DfDMjP5xsJoKyPgQ",
+    "genre": "Music",
+    "city": "Kuwait City",
+    "country": "Kuwait",
+    "lat": 29.3796532,
+    "lng": 47.9734174
+  },
+  {
+    "id": "kuwait-bfbs-bahrain",
+    "name": "BFBS Bahrain",
+    "url": "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs9.mp3",
+    "genre": "Music",
+    "city": "Kuwait City",
+    "country": "Kuwait",
+    "lat": 29.3796532,
+    "lng": 47.9734174
+  },
+  {
+    "id": "kuwait-radio-suno-melody",
+    "name": "Radio Suno Melody",
+    "url": "https://14993.live.streamtheworld.com:443/RADIO_SUNO_MELODY_S06AAC.aac",
+    "genre": "Music",
+    "city": "Salmiya",
+    "country": "Kuwait",
+    "lat": 29.3327834,
+    "lng": 48.0684884
+  }
+]

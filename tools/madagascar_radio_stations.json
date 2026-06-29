@@ -1,0 +1,158 @@
+[
+    {
+        "name": "Radio Don Bosco FM 93.4",
+        "city": "Antananarivo",
+        "country": "Madagascar",
+        "url": "http://onair15.xdevel.com:9248/;stream.mp3"
+    },
+    {
+        "name": "Radio RNA",
+        "city": "Antananarivo",
+        "country": "Madagascar",
+        "url": "http://drs-live-rna.gasy-internet.info:9001/stream/"
+    },
+    {
+        "name": "Soa i Madagasikara",
+        "city": "Antananarivo",
+        "country": "Madagascar",
+        "url": "http://planner.soaimadagasikara.org:8080/streaming"
+    },
+    {
+        "name": "Radio Domoni Inter",
+        "city": "Majunga",
+        "country": "Madagascar",
+        "url": "http://domoni-inter.org:8000/live"
+    },
+    {
+        "name": "RDJ FM 96.6",
+        "city": "Antananarivo",
+        "country": "Madagascar",
+        "url": "http://rdj966.net:8000/rdj966.mp3"
+    },
+    {
+        "name": "Radio Maria Madagascar",
+        "city": "Toamasina",
+        "country": "Madagascar",
+        "url": "https://dreamsiteradiocp4.com/proxy/rmmadagascar?mp=/stream"
+    },
+    {
+        "name": "RTV Soafia 103 FM",
+        "city": "Antananarivo",
+        "country": "Madagascar",
+        "url": "http://102.16.44.51:8000/radiosoafia"
+    },
+    {
+        "name": "Joy Radio Africa",
+        "city": "Antananarivo",
+        "country": "Madagascar",
+        "url": "https://audio-joyradioafricacom.bisericilive.com/joyradioafricacom.mp3"
+    },
+    {
+        "name": "Sioka FM 106",
+        "city": "Antananarivo",
+        "country": "Madagascar",
+        "url": "https://securestreams.autopo.st:2584/"
+    },
+    {
+        "name": "Radio Rock Madagascar",
+        "city": "Antananarivo",
+        "country": "Madagascar",
+        "url": "https://tanjona.radioca.st/stream"
+    },
+    {
+        "name": "SUN FM Mayotte",
+        "city": "Antananarivo",
+        "country": "Madagascar",
+        "url": "https://listen.radioking.com/radio/669814/stream/733864"
+    },
+    {
+        "name": "Radio Dracktrar Patsy FM 98.0",
+        "city": "Majunga",
+        "country": "Madagascar",
+        "url": "https://stream-177.zeno.fm/gv2x4k52es8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJndjJ4NGs1MmVzOHV2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiWFI5S3prczBScy1IYjZWUUIyaGl1USIsImlhdCI6MTc2OTQyMDM5MiwiZXhwIjoxNzY5NDIwNDUyfQ.VtqoVIZb9cwazXFwwmPB4yeLlqe9F0mJ0xumNwVcsuk"
+    },
+    {
+        "name": "Mayotte 1 FM 91.0",
+        "city": "Antananarivo",
+        "country": "Madagascar",
+        "url": "https://mayotte.ice.infomaniak.ch/mayotte-128.mp3"
+    },
+    {
+        "name": "RS-Mayotte",
+        "city": "Antsiranana",
+        "country": "Madagascar",
+        "url": "https://radio.mayotte-streaming.com/8008/stream"
+    },
+    {
+        "name": "RadioVazoGasy",
+        "city": "Antananarivo",
+        "country": "Madagascar",
+        "url": "https://stream.radiovazogasy.com/stream"
+    },
+    {
+        "name": "Hi&Fi Radio",
+        "city": "Radio Rock Madagascar",
+        "country": "Antananarivo, Madagascar",
+        "url": "https://listen.radioking.com/radio/52108/stream/89122"
+    },
+    {
+        "name": "Radio Des Makes",
+        "city": "RTV Soafia 103 FM",
+        "country": "Fianarantsoa, Madagascar",
+        "url": "https://ecmanager2.pro-fhi.net/radiodesmakes"
+    },
+    {
+        "name": "Radio FMFOI 107.4MHz",
+        "city": "Majunga",
+        "country": "Madagascar",
+        "url": "https://stream-167.zeno.fm/tc6qiq23sz2uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0YzZxaXEyM3N6MnV2IiwiaG9zdCI6InN0cmVhbS0xNjcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiZkZKQ3h6T3JUbVNzUUoyaWlXV0N1dyIsImlhdCI6MTc2OTQyMDM5NCwiZXhwIjoxNzY5NDIwNDU0fQ.1avxz28kWnMjxw-dGO0Z0MCS7ZTFTM-aV0sKmVvckeg"
+    },
+    {
+        "name": "RF Mayotte",
+        "city": "Radio RNA",
+        "country": "Antalaha, Madagascar",
+        "url": "https://radio.mayotte-streaming.com:10998/index.html"
+    },
+    {
+        "name": "MBS Radio 95.4 FM",
+        "city": "MBS Radio 95.4 FM",
+        "country": "Antananarivo, Madagascar",
+        "url": "https://stream-178.zeno.fm/vrwc8iesy7fuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2cndjOGllc3k3ZnV2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoidkZCMnNJMzNUMU9XV1BZMzBDZTVfUSIsImlhdCI6MTc2OTQyMDM5NSwiZXhwIjoxNzY5NDIwNDU1fQ.t_acTVWFYMfYkViFfNC_DXumL50T9QvjsS3zLchBmvA"
+    },
+    {
+        "name": "Alefamusic",
+        "city": "Antsiranana",
+        "country": "Madagascar",
+        "url": "https://listen.radioking.com/radio/20/stream/70388"
+    },
+    {
+        "name": "Radio Plus Mada 100.2 FM",
+        "city": "Radio Plus Mada 100.2 FM",
+        "country": "Antananarivo, Madagascar",
+        "url": "https://stream-176.zeno.fm/t7m92zmhdc9uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0N205MnptaGRjOXV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiMDI5QXJvN2lSQWU5SnVRNjBHWTQ0ZyIsImlhdCI6MTc2OTQyMDM5NSwiZXhwIjoxNzY5NDIwNDU1fQ.dw9Qr5u-Qk20Hkr68FNb6vEqazw2Rzh-Ib66pvkWrpo"
+    },
+    {
+        "name": "RMV FM 102.5 Radio Miréréni Village",
+        "city": "Antananarivo",
+        "country": "Madagascar",
+        "url": "https://live.myradio.yt:1100/stream"
+    },
+    {
+        "name": "Radio Emia FM 88.0",
+        "city": "Antananarivo",
+        "country": "Madagascar",
+        "url": "https://emiaradio.ice.infomaniak.ch/emiaradio-48.aac"
+    },
+    {
+        "name": "Radio Pikan FM 89",
+        "city": "Toamasina",
+        "country": "Madagascar",
+        "url": "https://stream4.vestaradio.com/RADIOPIKAN"
+    },
+    {
+        "name": "Kwezi FM",
+        "city": "Ambositra",
+        "country": "Madagascar",
+        "url": "https://kwezifm.ice.infomaniak.ch/kwezifm-128.mp3"
+    }
+]

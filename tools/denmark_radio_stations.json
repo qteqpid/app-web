@@ -1,0 +1,422 @@
+[
+    {
+        "name": "Helsingborgs Närradio FM 99.2",
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "url": "http://deb.patrikmalmgrenrask.se:8010/index.html?sid=1"
+    },
+    {
+        "name": "Dance 100",
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "url": "https://s31.myradiostream.com/:20624/"
+    },
+    {
+        "name": "Radio Folk",
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "url": "http://n0f.radiojar.com/fqt2y0ds97zuv?rj-ttl=5&rj-tok=AAABm_mScogAizdvaQGQsMa2bw"
+    },
+    {
+        "name": "FM 92.0",
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "url": "http://stream.wlmm.dk/902fmmp3"
+    },
+    {
+        "name": "Radio Karen 98.9 FM",
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "url": "https://s4.ssl-stream.com/listen/radio_karen/stream1"
+    },
+    {
+        "name": "World Music Radio",
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "url": "https://radioserver.dk/wmr"
+    },
+    {
+        "name": "DR P3",
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "url": "http://live-icy.gss.dr.dk/A/A05H.mp3"
+    },
+    {
+        "name": "DR P4 Fyn",
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "url": "http://live-icy.gss.dr.dk:8000/A/A07L.mp3"
+    },
+    {
+        "name": "DR P4 København",
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "url": "http://live-icy.gss.dr.dk/A/A08H.mp3"
+    },
+    {
+        "name": "DR P1",
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "url": "http://live-icy.gss.dr.dk/A/A03H.mp3"
+    },
+    {
+        "name": "Radio MidtSjælland FM 89.9",
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "url": "http://player.radiomidt.dk/broadwave.mp3"
+    },
+    {
+        "name": "Solo FM",
+        "city": "Randers",
+        "country": "Denmark",
+        "url": "https://radioserver.dk/solo"
+    },
+    {
+        "name": "ANR",
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "url": "https://stream.anr.dk/anr"
+    },
+    {
+        "name": "Radio Alfa",
+        "city": "Randers",
+        "country": "Denmark",
+        "url": "https://radioserver.dk/alfa"
+    },
+    {
+        "name": "Radio Jazz Copenhagen FM 102.9",
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "url": "https://radiojazzcopenhagen.out.airtime.pro/radiojazzcopenhagen_a"
+    },
+    {
+        "name": "Uniradioen",
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "url": "https://uniradio.out.airtime.pro/uniradio_a"
+    },
+    {
+        "name": "Rockkanalen",
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "url": "https://stream.kanalplus.fm/kp96"
+    },
+    {
+        "name": "Radio Humleborg Jazzkanalen",
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "url": "https://stream4.rcast.net/64547"
+    },
+    {
+        "name": "Radio ABC",
+        "city": "Randers",
+        "country": "Denmark",
+        "url": "https://radioserver.dk/abc"
+    },
+    {
+        "name": "Radio Stinesen",
+        "city": "Randers",
+        "country": "Denmark",
+        "url": "https://st1.stinesen.dk/StineM320"
+    },
+    {
+        "name": "Always Elvis Radio",
+        "city": "Randers",
+        "country": "Denmark",
+        "url": "https://radioserver.dk/alwayselvisradio"
+    },
+    {
+        "name": "go!FM",
+        "city": "Randers",
+        "country": "Denmark",
+        "url": "https://radioserver.dk/gofm"
+    },
+    {
+        "name": "Radio Favrskov 104.0 FM",
+        "city": "Randers",
+        "country": "Denmark",
+        "url": "https://radioserver.dk/fm104"
+    },
+    {
+        "name": "DR P4 Østjyllands Radio",
+        "city": "Århus",
+        "country": "Denmark",
+        "url": "http://live-icy.gslb01.dr.dk/A/A14H.mp3"
+    },
+    {
+        "name": "Radio Rønde - Syddjurslokalradio",
+        "city": "Århus",
+        "country": "Denmark",
+        "url": "https://netradio.djurslandskanalen.dk/djurs192"
+    },
+    {
+        "name": "Nordic Lodge Copenhagen",
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "url": "https://radio.streemlion.com:3590/stream"
+    },
+    {
+        "name": "Radio Øst FM 95.0",
+        "city": "Randers",
+        "country": "Denmark",
+        "url": "https://stream.probroadcast.dk/oestfmmp3"
+    },
+    {
+        "name": "Radio M",
+        "city": "Silkeborg",
+        "country": "Denmark",
+        "url": "https://radioserver.dk/radiom"
+    },
+    {
+        "name": "Radio Nord",
+        "city": "Randers",
+        "country": "Denmark",
+        "url": "https://netradio.radionord.dk:8443/RadioNord"
+    },
+    {
+        "name": "Radio Alfa Silkeborg",
+        "city": "Silkeborg",
+        "country": "Denmark",
+        "url": "https://radioserver.dk/alfasilk"
+    },
+    {
+        "name": "Radio Viva Kolding",
+        "city": "Silkeborg",
+        "country": "Denmark",
+        "url": "https://stream.probroadcast.dk/radioviva"
+    },
+    {
+        "name": "DR P4 Nordjylland",
+        "city": "Nykobing Mors",
+        "country": "Denmark",
+        "url": "http://live-icy.gss.dr.dk:8000/A/A10L.mp3"
+    },
+    {
+        "name": "Limfjord Slager",
+        "city": "Nykobing Mors",
+        "country": "Denmark",
+        "url": "https://media.limfjordnetradio.dk/plusslager128"
+    },
+    {
+        "name": "Radio Silkeborg 107.7FM",
+        "city": "Silkeborg",
+        "country": "Denmark",
+        "url": "https://radioserver.dk/silkeborg"
+    },
+    {
+        "name": "Radio Limfjord",
+        "city": "Nykobing Mors",
+        "country": "Denmark",
+        "url": "https://media.limfjordnetradio.dk/limfjord128"
+    },
+    {
+        "name": "Limfjord Mix",
+        "city": "Nykobing Mors",
+        "country": "Denmark",
+        "url": "https://media.limfjordnetradio.dk/plus128"
+    },
+    {
+        "name": "Head FM.net",
+        "city": "Århus",
+        "country": "Denmark",
+        "url": "https://443-1.reliastream.com/35/stream"
+    },
+    {
+        "name": "Radio IIII",
+        "city": "Århus",
+        "country": "Denmark",
+        "url": "https://27793.live.streamtheworld.com:443/RADIO4.mp3"
+    },
+    {
+        "name": "Radio Klitholm",
+        "city": "Nykobing Mors",
+        "country": "Denmark",
+        "url": "http://stream.radioklitholm.dk:8000/stream"
+    },
+    {
+        "name": "Radio Alfa Midtjylland",
+        "city": "Nykobing Mors",
+        "country": "Denmark",
+        "url": "https://radioserver.dk/alfamidt"
+    },
+    {
+        "name": "DR P4 Syd",
+        "city": "Kolding",
+        "country": "Denmark",
+        "url": "http://live-icy.gss.dr.dk:8000/A/A12L.mp3"
+    },
+    {
+        "name": "M Jazz Radio",
+        "city": "Århus",
+        "country": "Denmark",
+        "url": "https://fra-pioneer01.dedicateware.com:1460/stream"
+    },
+    {
+        "name": "Skaga FM",
+        "city": "Aalborg",
+        "country": "Denmark",
+        "url": "https://stream.probroadcast.dk/skagafm"
+    },
+    {
+        "name": "Radio Faaborg Classic",
+        "city": "Kolding",
+        "country": "Denmark",
+        "url": "https://solid41.streamupsolutions.com/proxy/wrchdupm/stream"
+    },
+    {
+        "name": "DR P4 Trekanten",
+        "city": "Vejle",
+        "country": "Denmark",
+        "url": "http://live-icy.gss.dr.dk:8000/A/A13L.mp3"
+    },
+    {
+        "name": "Skala FM",
+        "city": "Kolding",
+        "country": "Denmark",
+        "url": "https://netradio.skala.fm/ska8d"
+    },
+    {
+        "name": "Globus Guld",
+        "city": "Kolding",
+        "country": "Denmark",
+        "url": "https://stream.probroadcast.dk/globusguld"
+    },
+    {
+        "name": "Radio Globus",
+        "city": "Herning",
+        "country": "Denmark",
+        "url": "https://stream.probroadcast.dk/radioglobus"
+    },
+    {
+        "name": "Umlando Radio",
+        "city": "Næstved",
+        "country": "Denmark",
+        "url": "https://a2.asurahosting.com:6520/radio.mp3"
+    },
+    {
+        "name": "Classic FM",
+        "city": "Vejle",
+        "country": "Denmark",
+        "url": "https://netradio.classicfm.dk/cla8d"
+    },
+    {
+        "name": "DR P6Beat",
+        "city": "Næstved",
+        "country": "Denmark",
+        "url": "http://live-icy.gss.dr.dk/A/A29H.mp3"
+    },
+    {
+        "name": "Radio Skive",
+        "city": "Herning",
+        "country": "Denmark",
+        "url": "https://radioserver.dk/skive"
+    },
+    {
+        "name": "Næstved Lokal Radio",
+        "city": "Næstved",
+        "country": "Denmark",
+        "url": "https://solid67.streamupsolutions.com/proxy/wcwmpntf?mp=/stream"
+    },
+    {
+        "name": "Radio 97.7 Frederiksberg",
+        "city": "Næstved",
+        "country": "Denmark",
+        "url": "https://c14.radioboss.fm:18228/stream"
+    },
+    {
+        "name": "Radio SLR Køge",
+        "city": "Næstved",
+        "country": "Denmark",
+        "url": "https://stream.probroadcast.dk/slrkoegemp3"
+    },
+    {
+        "name": "VLR Vejle Lokal Radio",
+        "city": "Vejle",
+        "country": "Denmark",
+        "url": "https://netradio.vlr.dk/vlr8d"
+    },
+    {
+        "name": "Radio 2000",
+        "city": "Svendborg",
+        "country": "Denmark",
+        "url": "http://icecast3.radiostuff.dk:8000/radio2000"
+    },
+    {
+        "name": "Radio Weekend",
+        "city": "Næstved",
+        "country": "Denmark",
+        "url": "https://usa2.fastcast4u.com/proxy/rolars00?mp=/1"
+    },
+    {
+        "name": "Radio Retro FM 105.3",
+        "city": "Frederiksværk",
+        "country": "Denmark",
+        "url": "http://10336.cloudrad.io:9010/live"
+    },
+    {
+        "name": "Radio Alfa Sydfyn",
+        "city": "Svendborg",
+        "country": "Denmark",
+        "url": "https://icecast1.radiostuff.dk/Alfasydfyn128"
+    },
+    {
+        "name": "Radio Playback.dk",
+        "city": "Nivå",
+        "country": "Denmark",
+        "url": "https://stream02.radioplayback.dk/stream"
+    },
+    {
+        "name": "Radio Als",
+        "city": "Svendborg",
+        "country": "Denmark",
+        "url": "https://stream.maxpop.dk/radioals"
+    },
+    {
+        "name": "Radio SLR",
+        "city": "Næstved",
+        "country": "Denmark",
+        "url": "https://stream.probroadcast.dk/slagelsemp3"
+    },
+    {
+        "name": "Radio Victoria",
+        "city": "Rødding",
+        "country": "Denmark",
+        "url": "https://stream.probroadcast.dk/victoria"
+    },
+    {
+        "name": "Radio Ådalen",
+        "city": "Rødding",
+        "country": "Denmark",
+        "url": "http://radio-aadalen.no-ip.net:8000/index.html?sid=1"
+    },
+    {
+        "name": "DR P4 Esbjerg",
+        "city": "Esbjerg",
+        "country": "Denmark",
+        "url": "http://live-icy.gss.dr.dk:8000/A/A15L.mp3"
+    },
+    {
+        "name": "Radio Antena Shqip 90.2 FM",
+        "city": "Skovlunde",
+        "country": "Denmark",
+        "url": "https://s38.myradiostream.com/:8598/index.html?sid=1"
+    },
+    {
+        "name": "902FM",
+        "city": "Skovlunde",
+        "country": "Denmark",
+        "url": "https://s25.myradiostream.com:15246/listen.mp3?nocache=1769418092"
+    },
+    {
+        "name": "Retro Radio",
+        "city": "Frederiksværk",
+        "country": "Denmark",
+        "url": "https://streammp3.retro-radio.dk/retro-mp3"
+    },
+    {
+        "name": "Radio Helsingør FM 92.8",
+        "city": "Helsingør",
+        "country": "Denmark",
+        "url": "https://stream.radiohelsingor.dk/rh"
+    }
+]

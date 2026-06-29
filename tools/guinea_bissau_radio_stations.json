@@ -1,0 +1,194 @@
+[
+    {
+        "name": "Radio Faydatidianiya",
+        "city": "Bissau",
+        "country": "Guiné-Bissau",
+        "url": "http://listen.senemultimedia.net:5526/listen/1/"
+    },
+    {
+        "name": "Rádio Sol Mansi 90.0 FM",
+        "city": "Bissau",
+        "country": "Guiné-Bissau",
+        "url": "https://stream4.xdevel.com/audio0s976407-1191/stream/icecast.audio"
+    },
+    {
+        "name": "Soleil FM 93.5",
+        "city": "Conakry",
+        "country": "Guinea",
+        "url": "http://n13.radiojar.com/7cu7t0tnr68uv?rj-ttl=5&rj-tok=AAABm_mh2pAAYlphPQyXLFBX8g"
+    },
+    {
+        "name": "Radio Bantaba FM 102.4",
+        "city": "Bissau",
+        "country": "Guiné-Bissau",
+        "url": "https://radio.streemlion.com/radiobantaba"
+    },
+    {
+        "name": "RFDI Guinée",
+        "city": "Conakry",
+        "country": "Guinea",
+        "url": "https://stream-176.zeno.fm/e59pwkvm3reuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJlNTlwd2t2bTNyZXV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoieURITEoteG5UTlNtVUhKTnZwZlBDUSIsImlhdCI6MTc2OTQxOTA5MiwiZXhwIjoxNzY5NDE5MTUyfQ.C_-z-rQB_2GEvuXlXzOdszNyDG0YG52UJfftz91N33g"
+    },
+    {
+        "name": "Sabari FM 97.3",
+        "city": "Conakry",
+        "country": "Guinea",
+        "url": "https://stream-179.zeno.fm/sma37n6n2s5tv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzbWEzN242bjJzNXR2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiVHp6cTVWR1hRMGFmNDJENUhueUl6QSIsImlhdCI6MTc2OTQxOTA5MiwiZXhwIjoxNzY5NDE5MTUyfQ.1iQUJGk2ANRY9TMWHSedPfvGt4EdwX5oi9DcPdt4Nz4"
+    },
+    {
+        "name": "Radio Bonheur FM 101.4",
+        "city": "Conakry",
+        "country": "Guinea",
+        "url": "https://stream-178.zeno.fm/gzxp5eqkafeuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJnenhwNWVxa2FmZXV2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiM3IzTXd3cjhURnUybkJiODlOanFjQSIsImlhdCI6MTc2OTQxOTA5MiwiZXhwIjoxNzY5NDE5MTUyfQ.6PQMoVdBgSChBWymU06TWGbQWHdWXeNbBKfEzC2QGTU"
+    },
+    {
+        "name": "Radio Bintumani FM 93.7",
+        "city": "Conakry",
+        "country": "Guinea",
+        "url": "https://stream-178.zeno.fm/6cfh59xseg0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2Y2ZoNTl4c2VnMHV2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiMEs5RHJMSm5SVlNwY1dTZm01ZzgxQSIsImlhdCI6MTc2OTQxOTA5MiwiZXhwIjoxNzY5NDE5MTUyfQ.VhU8WI5Zhjm6S2EKMtLPsztYF87lI1CcQNBWvP0p-co"
+    },
+    {
+        "name": "Hope FM 93.3",
+        "city": "Conakry",
+        "country": "Guinea",
+        "url": "https://stream-177.zeno.fm/n9t7yp70exhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJuOXQ3eXA3MGV4aHZ2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoibjc3LTRFTDlSZi1DcnNDRkZ6UGQzZyIsImlhdCI6MTc2OTQxOTA5MiwiZXhwIjoxNzY5NDE5MTUyfQ.GaA9xdGFuvycvOTIyUPUiyA1mX4xbGRYqcK-5hSjnWw"
+    },
+    {
+        "name": "Radio Kankan",
+        "city": "Conakry",
+        "country": "Guinea",
+        "url": "https://stream-178.zeno.fm/ab9q4v3mb?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJhYjlxNHYzbWIiLCJob3N0Ijoic3RyZWFtLTE3OC56ZW5vLmZtIiwidG0iOmZhbHNlLCJydHRsIjo1LCJqdGkiOiJJNVN3Z1ZURlJrVzgzV0VENWdzMnJBIiwiaWF0IjoxNzY5NDE5MDkyLCJleHAiOjE3Njk0MTkxNTJ9.AE9ts8R9v94GUmRfNymJimmpmfYCto3Rz1p7f4lvVPk"
+    },
+    {
+        "name": "RTG Guinée 88.5 FM",
+        "city": "Conakry",
+        "country": "Guinea",
+        "url": "https://stream-177.zeno.fm/1aa3sabr2ehvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIxYWEzc2FicjJlaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiejZMOUhoTktReW1heTFHWElONTl0QSIsImlhdCI6MTc2OTQxOTA5MiwiZXhwIjoxNzY5NDE5MTUyfQ.pb708D2caJJoZbu2RXVm5n4Ebeap5UN5WtoEXvRZYTU"
+    },
+    {
+        "name": "Radio Kledu",
+        "city": "Kankan",
+        "country": "Guinea",
+        "url": "https://stream-143.zeno.fm/yerp85sughwtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5ZXJwODVzdWdod3R2IiwiaG9zdCI6InN0cmVhbS0xNDMuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoia01DUnRJZklTcUdtbEhjRDVvcTY0USIsImlhdCI6MTc2OTQxOTA5MiwiZXhwIjoxNzY5NDE5MTUyfQ.oPG9RQ1gMuFyYuihdYal1rXf0KKkO5LnzYZpnlKa6Jo"
+    },
+    {
+        "name": "Medina Baye FM",
+        "city": "Bissau",
+        "country": "Guiné-Bissau",
+        "url": "https://stream-153.zeno.fm/ym9nqku50ueuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5bTlucWt1NTB1ZXV2IiwiaG9zdCI6InN0cmVhbS0xNTMuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiRmNYZGx4cWJUeFd5Y1hPeDlzM3NTdyIsImlhdCI6MTc2OTQxOTA5MiwiZXhwIjoxNzY5NDE5MTUyfQ.vgMwHTp8ZBUBTMHXaEjzvRaFlIpzbJeewNnBMJkH1Mc"
+    },
+    {
+        "name": "Choice FM 93.3",
+        "city": "Conakry",
+        "country": "Guinea",
+        "url": "https://stream-168.zeno.fm/ct0gvk9149puv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjdDBndms5MTQ5cHV2IiwiaG9zdCI6InN0cmVhbS0xNjguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoickx5V1Foc21TTTZjZm41TUY0dzBxUSIsImlhdCI6MTc2OTQxOTA5MiwiZXhwIjoxNzY5NDE5MTUyfQ.TpYtrYazYNSNJClltF-ZGRkEaR_MUjmtblX0gYuusoE"
+    },
+    {
+        "name": "RTG Guinée 94.9 FM",
+        "city": "Conakry",
+        "country": "Guinea",
+        "url": "https://stream-175.zeno.fm/y20ggs5k5ehvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5MjBnZ3M1azVlaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoidWJUVjIyS1ZUM1NDM3FEM202OXpLZyIsImlhdCI6MTc2OTQxOTA5MiwiZXhwIjoxNzY5NDE5MTUyfQ.3fAFcsxCqT2GUG0vGiT--lvCRusebMa0t2LUpkkdHE0"
+    },
+    {
+        "name": "RTS Ziguinchor 98.9 FM",
+        "city": "Bissau",
+        "country": "Guiné-Bissau",
+        "url": "https://stream-140.zeno.fm/ua9aunfqt1duv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1YTlhdW5mcXQxZHV2IiwiaG9zdCI6InN0cmVhbS0xNDAuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiSTN6dFpMVi1SMC1oUzgza2toNGRYdyIsImlhdCI6MTc2OTQxOTA5MiwiZXhwIjoxNzY5NDE5MTUyfQ.KuwP9fyZdXS5brNoc6up38rPTDmrW6fsrYmtwRFlynQ"
+    },
+    {
+        "name": "National Broadcasting Corporation",
+        "city": "Port Moresby",
+        "country": "Papua New Guinea",
+        "url": "https://natradio.nbc.com.pg/listen/nbcnationalradio/nbc.mp3"
+    },
+    {
+        "name": "TSIMA Radio AM 1260",
+        "city": "Port Moresby",
+        "country": "Papua New Guinea",
+        "url": "https://firstnationsmedia.stream/8024/stream"
+    },
+    {
+        "name": "GPP Guinee 97.2 FM",
+        "city": "Conakry",
+        "country": "Guinea",
+        "url": "https://media2.streambrothers.com:8030/stream"
+    },
+    {
+        "name": "Radio Mercury FM 92.1",
+        "city": "Kankan",
+        "country": "Guinea",
+        "url": "https://streaming.radio.co/s3a1c95e4f/listen"
+    },
+    {
+        "name": "Radio Dambe Kersignané",
+        "city": "Labé",
+        "country": "Guinea",
+        "url": "https://stream-177.zeno.fm/89fkq77gb4duv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI4OWZrcTc3Z2I0ZHV2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiT0hRTjNMd0NSenF1akdvTjIydTNjZyIsImlhdCI6MTc2OTQxOTA5MywiZXhwIjoxNzY5NDE5MTUzfQ.jql94f0B66_DRfRqRpgUYNO4DtP4D6wjiOsUMhJe_IU"
+    },
+    {
+        "name": "Bumma Bippera 98.7FM",
+        "city": "Port Moresby",
+        "country": "Papua New Guinea",
+        "url": "https://audio-edge-kef8b.ams.s.radiomast.io/8793edda-b581-48e9-bf45-b045bbdc4224"
+    },
+    {
+        "name": "Beline Media Empire",
+        "city": "Kankan",
+        "country": "Guinea",
+        "url": "https://stream-163.zeno.fm/kbuea5uxqf9uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJrYnVlYTV1eHFmOXV2IiwiaG9zdCI6InN0cmVhbS0xNjMuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiQ1R4c3M4dWZTXzJscEk0dHEwZ1JFQSIsImlhdCI6MTc2OTQxOTA5MywiZXhwIjoxNzY5NDE5MTUzfQ.cadDj66pBok9MjfsQjNu_024Itdim3bKIGRc5NRYWS0"
+    },
+    {
+        "name": "RRI Pro2 FM 96.8",
+        "city": "Port Moresby",
+        "country": "Papua New Guinea",
+        "url": "https://stream-node1.rri.co.id/streaming/36/9136/rrimeraukepro2.mp3"
+    },
+    {
+        "name": "Radio DC Four FM",
+        "city": "Wewak",
+        "country": "Papua New Guinea",
+        "url": "https://i.klikhost.com/8180/stream"
+    },
+    {
+        "name": "Radio Maria Papua New Guinea",
+        "city": "Port Moresby",
+        "country": "Papua New Guinea",
+        "url": "https://dreamsiteradiocp2.com/proxy/rmpapua2?mp=/stream"
+    },
+    {
+        "name": "RRI PRO 2 Serui",
+        "city": "Wewak",
+        "country": "Papua New Guinea",
+        "url": "https://stream-node1.rri.co.id/streaming/22/9222/rriseruipro2.mp3"
+    },
+    {
+        "name": "RRI Pro4 FM 96.7",
+        "city": "Wewak",
+        "country": "Papua New Guinea",
+        "url": "https://stream-node1.rri.co.id/streaming/24/9024/rrimanokwaripro4.mp3"
+    },
+    {
+        "name": "RRI Pro 1 FM 95.2",
+        "city": "Wewak",
+        "country": "Papua New Guinea",
+        "url": "https://stream-node1.rri.co.id/streaming/36/9136/rrimeraukepro1.mp3"
+    },
+    {
+        "name": "Legend FM 101.1",
+        "city": "Port Moresby",
+        "country": "Papua New Guinea",
+        "url": "https://22973.live.streamtheworld.com:443/PNGLEGENDFM.mp3"
+    },
+    {
+        "name": "Laiff FM 98.3",
+        "city": "Port Moresby",
+        "country": "Papua New Guinea",
+        "url": "https://stream-166.zeno.fm/mrvrbms4g2vuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJtcnZyYm1zNGcydnV2IiwiaG9zdCI6InN0cmVhbS0xNjYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiMi04LVd3dzNUejJYWV9MUnJHV3ZiUSIsImlhdCI6MTc2OTQxOTA5NiwiZXhwIjoxNzY5NDE5MTU2fQ.r6Z3caM2OrVwIBl3Sk5KOSQRuxPvlrPNgKdGmTbAKnc"
+    },
+    {
+        "name": "Power100 100.7 FM",
+        "city": "Port Moresby",
+        "country": "Papua New Guinea",
+        "url": "https://17793.live.streamtheworld.com:443/TOW_POWER100AAC_SC"
+    }
+]

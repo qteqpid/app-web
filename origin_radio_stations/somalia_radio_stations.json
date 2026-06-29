@@ -1,0 +1,62 @@
+[
+  {
+    "id": "somalia-radio-aden-al-ghad",
+    "name": "Radio Aden al-Ghad",
+    "url": "https://r.fm-radio.net/adengad",
+    "genre": "Music",
+    "city": "Laascaanood",
+    "country": "Somalia",
+    "lat": 8.474261,
+    "lng": 47.355194
+  },
+  {
+    "id": "somalia-اذاعة-المكلا-radio-mukalla",
+    "name": "اذاعة المكلا Radio Mukalla",
+    "url": "https://cast4.my-control-panel.com/proxy/ecommer4/stream",
+    "genre": "Music",
+    "city": "Laascaanood",
+    "country": "Somalia",
+    "lat": 8.474261,
+    "lng": 47.355194
+  },
+  {
+    "id": "somalia-mareb-radio-895-fm",
+    "name": "Mareb Radio 89.5 FM",
+    "url": "https://radio.al7eah.net/8034/stream",
+    "genre": "Music",
+    "city": "Laascaanood",
+    "country": "Somalia",
+    "lat": 8.474261,
+    "lng": 47.355194
+  },
+  {
+    "id": "somalia-aust-fm-1051-educational-radio",
+    "name": "AUST FM 105.1 Educational Radio",
+    "url": "https://dc1.serverse.com/proxy/phxhzedb/stream",
+    "genre": "Music",
+    "city": "Laascaanood",
+    "country": "Somalia",
+    "lat": 8.474261,
+    "lng": 47.355194
+  },
+  {
+    "id": "somalia-radio-rubat",
+    "name": "Radio Rubat",
+    "url": "https://stream-175.zeno.fm/5cp567d7xqruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI1Y3A1NjdkN3hxcnV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiS0hNQ05rdTRRc3VaTWJERDhYTWhZUSIsImlhdCI6MTc2OTQyMjk4NCwiZXhwIjoxNzY5NDIzMDQ0fQ.MW9CiCKPvGxio2PbWO4dhEpAOa3uTN60zJ7PxsPh6ck",
+    "genre": "Music",
+    "city": "Laascaanood",
+    "country": "Somalia",
+    "lat": 8.474261,
+    "lng": 47.355194
+  },
+  {
+    "id": "somalia-darwiish-radio",
+    "name": "Darwiish Radio",
+    "url": "https://servidor15.brlogic.com:7062/live",
+    "genre": "Music",
+    "city": "Laascaanood",
+    "country": "Somalia",
+    "lat": 8.474261,
+    "lng": 47.355194
+  }
+]

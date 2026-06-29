@@ -1,0 +1,72 @@
+[
+  {
+    "id": "vanuatu-radio-vanuatu-am-1125",
+    "name": "Radio Vanuatu AM 1125",
+    "url": "https://radio.vbtc.vu/radiovanuatu",
+    "genre": "Music",
+    "city": "Port Vila",
+    "country": "Vanuatu",
+    "lat": -17.7414972,
+    "lng": 168.3150163
+  },
+  {
+    "id": "vanuatu-paradaes-fm98",
+    "name": "Paradaes FM98",
+    "url": "https://radio.vbtc.vu/paradisefm",
+    "genre": "Music",
+    "city": "Port Vila",
+    "country": "Vanuatu",
+    "lat": -17.7414972,
+    "lng": 168.3150163
+  },
+  {
+    "id": "vanuatu-buzz-fm-963",
+    "name": "Buzz FM 96.3",
+    "url": "https://streamer.dailypost.vu/live",
+    "genre": "Music",
+    "city": "Port Vila",
+    "country": "Vanuatu",
+    "lat": -17.7414972,
+    "lng": 168.3150163
+  },
+  {
+    "id": "vanuatu-sea-fm-1025",
+    "name": "Sea FM 102.5",
+    "url": "https://n03.rcs.revma.com/xby8h6u4yk3vv?rj-ttl=5&rj-tok=AAABm_nxINIAg0xkD7Yky1oHVg",
+    "genre": "Music",
+    "city": "Port Vila",
+    "country": "Vanuatu",
+    "lat": -17.7414972,
+    "lng": 168.3150163
+  },
+  {
+    "id": "vanuatu-fraser-coast-fm-1075",
+    "name": "Fraser Coast FM 107.5",
+    "url": "https://28803.live.streamtheworld.com:443/4FCRAAC_SC",
+    "genre": "Music",
+    "city": "Port Vila",
+    "country": "Vanuatu",
+    "lat": -17.7414972,
+    "lng": 168.3150163
+  },
+  {
+    "id": "vanuatu-4bu-am-1332",
+    "name": "4BU AM 1332",
+    "url": "https://22223.live.streamtheworld.com:443/BUN_4BUAAC.aac",
+    "genre": "Music",
+    "city": "Port Vila",
+    "country": "Vanuatu",
+    "lat": -17.7414972,
+    "lng": 168.3150163
+  },
+  {
+    "id": "vanuatu-zinc-961",
+    "name": "Zinc 96.1",
+    "url": "https://26303.live.streamtheworld.com:443/MAR_ZINC96AAC.aac",
+    "genre": "Music",
+    "city": "Port Vila",
+    "country": "Vanuatu",
+    "lat": -17.7414972,
+    "lng": 168.3150163
+  }
+]

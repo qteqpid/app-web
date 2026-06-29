@@ -1,0 +1,112 @@
+[
+  {
+    "id": "tajikistan-dfm-1055",
+    "name": "DFM 105.5",
+    "url": "https://c16.radioboss.fm:18234/stream",
+    "genre": "Music",
+    "city": "Dushanbe",
+    "country": "Tajikistan",
+    "lat": 38.5762709,
+    "lng": 68.7863573
+  },
+  {
+    "id": "tajikistan-106-fm-ватан",
+    "name": "106 FM Ватан",
+    "url": "http://185.121.1.171:8000/sr128",
+    "genre": "Music",
+    "city": "Dushanbe",
+    "country": "Tajikistan",
+    "lat": 38.5762709,
+    "lng": 68.7863573
+  },
+  {
+    "id": "tajikistan-payvand-fm",
+    "name": "Payvand FM",
+    "url": "https://c6.radioboss.fm/stream/234",
+    "genre": "Music",
+    "city": "Khujand",
+    "country": "Tajikistan",
+    "lat": 40.2844189,
+    "lng": 69.6191669
+  },
+  {
+    "id": "tajikistan-isfara-1044-fm",
+    "name": "Isfara 104.4 FM",
+    "url": "https://c34.radioboss.fm:8880/stream",
+    "genre": "Music",
+    "city": "Dushanbe",
+    "country": "Tajikistan",
+    "lat": 38.5762709,
+    "lng": 68.7863573
+  },
+  {
+    "id": "tajikistan-iradio-fm-920",
+    "name": "IRadio FM 92.0",
+    "url": "http://212.112.123.200:8000/stream.ogg",
+    "genre": "Music",
+    "city": "Khujand",
+    "country": "Tajikistan",
+    "lat": 40.2844189,
+    "lng": 69.6191669
+  },
+  {
+    "id": "tajikistan-am-1170",
+    "name": "AM 1170",
+    "url": "https://whmsonic.radio.gov.pk:8072/relay/",
+    "genre": "Music",
+    "city": "Khujand",
+    "country": "Tajikistan",
+    "lat": 40.2844189,
+    "lng": 69.6191669
+  },
+  {
+    "id": "tajikistan-fm1015-peshawar",
+    "name": "FM101.5 Peshawar",
+    "url": "https://whmsonic.radio.gov.pk:8070/relay/",
+    "genre": "Music",
+    "city": "Dushanbe",
+    "country": "Tajikistan",
+    "lat": 38.5762709,
+    "lng": 68.7863573
+  },
+  {
+    "id": "tajikistan-радио-тироз",
+    "name": "радио Тироз",
+    "url": "https://eu1.fastcast4u.com/proxy/khusrav/stream",
+    "genre": "Music",
+    "city": "Dushanbe",
+    "country": "Tajikistan",
+    "lat": 38.5762709,
+    "lng": 68.7863573
+  },
+  {
+    "id": "tajikistan-valley-fm-103",
+    "name": "Valley FM 103",
+    "url": "https://stream-178.zeno.fm/s96ccqggr2zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzOTZjY3FnZ3IyenV2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiMVJoVl9jaUdUX09DT1lNWWFqN2JkZyIsImlhdCI6MTc2OTQyMzUzOSwiZXhwIjoxNzY5NDIzNTk5fQ.rCUKf0G88Ef52elJa0g2NPjq7fXbK2Lbwh--yjqHy9Y",
+    "genre": "Music",
+    "city": "Dushanbe",
+    "country": "Tajikistan",
+    "lat": 38.5762709,
+    "lng": 68.7863573
+  },
+  {
+    "id": "tajikistan-asia-plus-radio-fm-1070",
+    "name": "Asia Plus Radio FM 107.0",
+    "url": "https://eu.asiaplusradio.tj:8443/ap",
+    "genre": "Music",
+    "city": "Dushanbe",
+    "country": "Tajikistan",
+    "lat": 38.5762709,
+    "lng": 68.7863573
+  },
+  {
+    "id": "tajikistan-радио-европа-плюс-ош-1038",
+    "name": "Радио Европа Плюс Ош 103.8",
+    "url": "https://europaplus.hostingradio.ru:8014/europaplus320.mp3",
+    "genre": "Music",
+    "city": "Dushanbe",
+    "country": "Tajikistan",
+    "lat": 38.5762709,
+    "lng": 68.7863573
+  }
+]

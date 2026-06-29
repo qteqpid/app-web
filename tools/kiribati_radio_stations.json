@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Life FM Kiribati",
+        "city": "Tarawa",
+        "country": "Kiribati",
+        "url": "https://streams3.vision.org.au/lifefm.aac"
+    },
+    {
+        "name": "National Broadcasting Corporation",
+        "city": "Tarawa",
+        "country": "Kiribati",
+        "url": "https://natradio.nbc.com.pg/listen/nbcnationalradio/nbc.mp3"
+    },
+    {
+        "name": "NIA Radio - Europe",
+        "city": "Tarawa",
+        "country": "Kiribati",
+        "url": "https://radio.nia.nc/radio/8010/europe-hq-stream.aac"
+    },
+    {
+        "name": "Lakhanda",
+        "city": "Kiribathgoda",
+        "country": "Sri Lanka",
+        "url": "https://cp12.serverse.com/proxy/itnfm?mp=/stream"
+    },
+    {
+        "name": "Lak FM 106.2",
+        "city": "Kiribathgoda",
+        "country": "Sri Lanka",
+        "url": "https://r1.comcities.com/proxy/oxmycwll/stream"
+    },
+    {
+        "name": "Radio Kiribati AM 1440",
+        "city": "Tarawa",
+        "country": "Kiribati",
+        "url": "http://streamer5.rightclickitservices.com:9790/stream"
+    },
+    {
+        "name": "Radio Kiritimati 89.9 FM",
+        "city": "Tarawa",
+        "country": "Kiribati",
+        "url": "https://streamer5.rightclickitservices.com:19780/stream"
+    },
+    {
+        "name": "Siyatha FM 98.2",
+        "city": "Kiribathgoda",
+        "country": "Sri Lanka",
+        "url": "https://srv01.onlineradio.voaplus.com/siyathafm"
+    },
+    {
+        "name": "V FM",
+        "city": "Kiribathgoda",
+        "country": "Sri Lanka",
+        "url": "https://dc1.serverse.com/proxy/fmlanka/stream"
+    },
+    {
+        "name": "Seth FM 103.1",
+        "city": "Kiribathgoda",
+        "country": "Sri Lanka",
+        "url": "https://listen.radioking.com/radio/384487/stream/435781"
+    },
+    {
+        "name": "Shakthi FM",
+        "city": "Kiribathgoda",
+        "country": "Sri Lanka",
+        "url": "https://mbc.thestreamtech.com:8086/index.html/stream"
+    },
+    {
+        "name": "Hiru FM 96.1",
+        "city": "Kiribathgoda",
+        "country": "Sri Lanka",
+        "url": "https://radio.lotustechnologieslk.net:2020/stream/hirufmgarden/stream/"
+    },
+    {
+        "name": "Shaa FM 91.1",
+        "city": "Kiribathgoda",
+        "country": "Sri Lanka",
+        "url": "https://radio.lotustechnologieslk.net:2020/stream/shaafmgarden/stream"
+    },
+    {
+        "name": "Sooriyan FM 103.4",
+        "city": "Kiribathgoda",
+        "country": "Sri Lanka",
+        "url": "https://radio.lotustechnologieslk.net:2020/stream/sooriyanfmgarden/"
+    },
+    {
+        "name": "Life FM Fiji",
+        "city": "Tarawa",
+        "country": "Kiribati",
+        "url": "https://stream4.rcast.net/65809"
+    },
+    {
+        "name": "Athavan Radio",
+        "city": "Kiribathgoda",
+        "country": "Sri Lanka",
+        "url": "https://stream-168.zeno.fm/fs1wi3tumfbvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJmczF3aTN0dW1mYnZ2IiwiaG9zdCI6InN0cmVhbS0xNjguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiWi1GTE43VU5SUlNsMlNuZDNrVzNwZyIsImlhdCI6MTc2OTQxOTg5NCwiZXhwIjoxNzY5NDE5OTU0fQ.nzYS84h6gpZuPz2Q3-R3-5xTZy9_12tc2uNBrkYSDRQ"
+    },
+    {
+        "name": "V6 BBC Baptist Radio Chuuk 88.5 FM",
+        "city": "Tarawa",
+        "country": "Kiribati",
+        "url": "https://streaming.radio.co/s25a6afba9/listen"
+    },
+    {
+        "name": "Laksara",
+        "city": "Kiribathgoda",
+        "country": "Sri Lanka",
+        "url": "https://dc2.serverse.com:8046/stream"
+    }
+]

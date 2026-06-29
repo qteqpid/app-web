@@ -1,0 +1,1972 @@
+[
+  {
+    "id": "netherlands-radio9-oostzaan-fm-1064",
+    "name": "Radio9 Oostzaan FM 106.4",
+    "url": "http://caster05.streampakket.com:9350/sz=radio9oostzaan=Radio-9Oostzaan",
+    "genre": "Music",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "lat": 52.3730796,
+    "lng": 4.8924534
+  },
+  {
+    "id": "netherlands-npo-radio-2",
+    "name": "NPO Radio 2",
+    "url": "https://icecast.omroep.nl/radio2-bb-mp3",
+    "genre": "Music",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "lat": 52.3730796,
+    "lng": 4.8924534
+  },
+  {
+    "id": "netherlands-npo-radio-1",
+    "name": "NPO Radio 1",
+    "url": "https://icecast.omroep.nl/radio1-sb-mp3",
+    "genre": "Music",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "lat": 52.3730796,
+    "lng": 4.8924534
+  },
+  {
+    "id": "netherlands-npo-funx-amsterdam",
+    "name": "NPO FunX Amsterdam",
+    "url": "https://icecast.omroep.nl/funx-amsterdam-sb-mp3",
+    "genre": "Music",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "lat": 52.3730796,
+    "lng": 4.8924534
+  },
+  {
+    "id": "netherlands-god-radio",
+    "name": "GOD Radio",
+    "url": "https://stream.wildfm.nl/GOD_Radio",
+    "genre": "Music",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "lat": 52.3730796,
+    "lng": 4.8924534
+  },
+  {
+    "id": "netherlands-waterland-radio",
+    "name": "Waterland Radio",
+    "url": "https://waterlandradio.beheerstream.nl:7020/stream",
+    "genre": "Music",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "lat": 52.3730796,
+    "lng": 4.8924534
+  },
+  {
+    "id": "netherlands-radio-antidoto",
+    "name": "Radio Antidoto",
+    "url": "https://radio.dyne.org/trasformatorio.mp3",
+    "genre": "Music",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "lat": 52.3730796,
+    "lng": 4.8924534
+  },
+  {
+    "id": "netherlands-radio-bangsa-jawa",
+    "name": "Radio Bangsa Jawa",
+    "url": "https://caster05.streampakket.com/proxy/8189/stream",
+    "genre": "Music",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "lat": 52.3730796,
+    "lng": 4.8924534
+  },
+  {
+    "id": "netherlands-npo-3fm",
+    "name": "NPO 3FM",
+    "url": "https://icecast.omroep.nl/3fm-sb-mp3",
+    "genre": "Music",
+    "city": "Hilversum",
+    "country": "Netherlands",
+    "lat": 52.2241375,
+    "lng": 5.1719396
+  },
+  {
+    "id": "netherlands-pinqradio",
+    "name": "PinQradio",
+    "url": "https://s18.myradiostream.com/:3194/index.html?sid=1",
+    "genre": "Music",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "lat": 52.3730796,
+    "lng": 4.8924534
+  },
+  {
+    "id": "netherlands-ujala-radio",
+    "name": "Ujala Radio",
+    "url": "https://server4.ujala.nl/stream/2/listen.mp3",
+    "genre": "Music",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "lat": 52.3730796,
+    "lng": 4.8924534
+  },
+  {
+    "id": "netherlands-npo-radio-2-soul-jazz",
+    "name": "NPO Radio 2 Soul & Jazz",
+    "url": "https://icecast.omroep.nl/radio6-bb-mp3",
+    "genre": "Music",
+    "city": "Hilversum",
+    "country": "Netherlands",
+    "lat": 52.2241375,
+    "lng": 5.1719396
+  },
+  {
+    "id": "netherlands-npo-sterrennl",
+    "name": "NPO SterrenNL",
+    "url": "https://icecast.omroep.nl/radio2-sterrennl-mp3",
+    "genre": "Music",
+    "city": "Hilversum",
+    "country": "Netherlands",
+    "lat": 52.2241375,
+    "lng": 5.1719396
+  },
+  {
+    "id": "netherlands-radio-538",
+    "name": "Radio 538",
+    "url": "https://22323.live.streamtheworld.com:443/RADIO538.mp3?dist=radiogarden",
+    "genre": "Music",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "lat": 52.3730796,
+    "lng": 4.8924534
+  },
+  {
+    "id": "netherlands-radio-majestic",
+    "name": "Radio Majestic",
+    "url": "https://server-28.stream-server.nl:8876/stream",
+    "genre": "Music",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "lat": 52.3730796,
+    "lng": 4.8924534
+  },
+  {
+    "id": "netherlands-broadcast-amsterdam",
+    "name": "Broadcast Amsterdam",
+    "url": "https://stream.radio.co/s0023dc012/listen",
+    "genre": "Music",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "lat": 52.3730796,
+    "lng": 4.8924534
+  },
+  {
+    "id": "netherlands-sublime",
+    "name": "Sublime",
+    "url": "https://25253.live.streamtheworld.com:443/SUBLIME.mp3",
+    "genre": "Music",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "lat": 52.3730796,
+    "lng": 4.8924534
+  },
+  {
+    "id": "netherlands-bnr-nieuwsradio",
+    "name": "BNR Nieuwsradio",
+    "url": "https://22193.live.streamtheworld.com:443/BNR_NIEUWSRADIO.mp3",
+    "genre": "Music",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "lat": 52.3730796,
+    "lng": 4.8924534
+  },
+  {
+    "id": "netherlands-veronica",
+    "name": "Veronica",
+    "url": "https://22723.live.streamtheworld.com:443/VERONICA.mp3",
+    "genre": "Music",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "lat": 52.3730796,
+    "lng": 4.8924534
+  },
+  {
+    "id": "netherlands-red-light-jazz-radio",
+    "name": "Red Light Jazz Radio",
+    "url": "https://s5.radio.co/s849294a22/listen",
+    "genre": "Music",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "lat": 52.3730796,
+    "lng": 4.8924534
+  },
+  {
+    "id": "netherlands-npo-radio-5",
+    "name": "NPO Radio 5",
+    "url": "https://icecast.omroep.nl/radio5-sb-mp3",
+    "genre": "Music",
+    "city": "Hilversum",
+    "country": "Netherlands",
+    "lat": 52.2241375,
+    "lng": 5.1719396
+  },
+  {
+    "id": "netherlands-smilefm",
+    "name": "SmileFM",
+    "url": "https://das-edge13-live365-dal02.cdnstream.com/a93730",
+    "genre": "Music",
+    "city": "Hilversum",
+    "country": "Netherlands",
+    "lat": 52.2241375,
+    "lng": 5.1719396
+  },
+  {
+    "id": "netherlands-tu-radio",
+    "name": "Tu Radio",
+    "url": "https://streaming.radio.co/s25f9d51ba/listen",
+    "genre": "Music",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "lat": 52.3730796,
+    "lng": 4.8924534
+  },
+  {
+    "id": "netherlands-layzer",
+    "name": "Layzer",
+    "url": "https://27913.live.streamtheworld.com:443/LAYZERRADIO.mp3",
+    "genre": "Music",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "lat": 52.3730796,
+    "lng": 4.8924534
+  },
+  {
+    "id": "netherlands-joe",
+    "name": "JOE",
+    "url": "https://icecast-qmusicnl-cdp.triple-it.nl/Joe_nl.mp3",
+    "genre": "Music",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "lat": 52.3730796,
+    "lng": 4.8924534
+  },
+  {
+    "id": "netherlands-npo-funx-utrecht",
+    "name": "NPO FunX Utrecht",
+    "url": "https://icecast.omroep.nl/funx-utrecht-sb-mp3",
+    "genre": "Music",
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "lat": 52.0907006,
+    "lng": 5.1215634
+  },
+  {
+    "id": "netherlands-nh-gooi-fm-920",
+    "name": "NH Gooi FM 92.0",
+    "url": "https://stream.nhgooi.nl:8001/mp3live",
+    "genre": "Music",
+    "city": "Hilversum",
+    "country": "Netherlands",
+    "lat": 52.2241375,
+    "lng": 5.1719396
+  },
+  {
+    "id": "netherlands-digitaal-hit-fm",
+    "name": "Digitaal Hit FM",
+    "url": "https://digitaalhitfm.krioyohosting.com:7997/stream",
+    "genre": "Music",
+    "city": "Hilversum",
+    "country": "Netherlands",
+    "lat": 52.2241375,
+    "lng": 5.1719396
+  },
+  {
+    "id": "netherlands-radio-10-60s-70s-hits",
+    "name": "Radio 10 60s & 70s Hits",
+    "url": "https://25303.live.streamtheworld.com:443/TLPSTR18.mp3?dist=radiogarden",
+    "genre": "Music",
+    "city": "Hilversum",
+    "country": "Netherlands",
+    "lat": 52.2241375,
+    "lng": 5.1719396
+  },
+  {
+    "id": "netherlands-bingo-fm",
+    "name": "Bingo FM",
+    "url": "https://d18rwjdhpr8dcw.cloudfront.net/icecast/rtvutrecht/bingofm-bb-mp3",
+    "genre": "Music",
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "lat": 52.0907006,
+    "lng": 5.1215634
+  },
+  {
+    "id": "netherlands-sky-radio",
+    "name": "Sky Radio",
+    "url": "https://22193.live.streamtheworld.com:443/SKYRADIO.mp3?dist=radiogarden",
+    "genre": "Music",
+    "city": "Hilversum",
+    "country": "Netherlands",
+    "lat": 52.2241375,
+    "lng": 5.1719396
+  },
+  {
+    "id": "netherlands-radio-m",
+    "name": "Radio M",
+    "url": "https://d18rwjdhpr8dcw.cloudfront.net/icecast/rtvutrecht/radiomutrecht-bb-mp3",
+    "genre": "Music",
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "lat": 52.0907006,
+    "lng": 5.1215634
+  },
+  {
+    "id": "netherlands-radio-laren",
+    "name": "Radio Laren",
+    "url": "https://stream.radiolaren.com/",
+    "genre": "Music",
+    "city": "Hilversum",
+    "country": "Netherlands",
+    "lat": 52.2241375,
+    "lng": 5.1719396
+  },
+  {
+    "id": "netherlands-stranded-fm",
+    "name": "Stranded FM",
+    "url": "http://n03.radiojar.com/78cxy6wkxtzuv?rj-ttl=5&rj-tok=AAABm_nBST4ADS4_eUubg0279g",
+    "genre": "Music",
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "lat": 52.0907006,
+    "lng": 5.1215634
+  },
+  {
+    "id": "netherlands-40up-radio",
+    "name": "40UP Radio",
+    "url": "https://stream.40upradio.nl/40up",
+    "genre": "Music",
+    "city": "Hilversum",
+    "country": "Netherlands",
+    "lat": 52.2241375,
+    "lng": 5.1719396
+  },
+  {
+    "id": "netherlands-radio-509",
+    "name": "Radio 509",
+    "url": "https://25243.live.streamtheworld.com:443/RADIO509AAC.aac",
+    "genre": "Music",
+    "city": "Hilversum",
+    "country": "Netherlands",
+    "lat": 52.2241375,
+    "lng": 5.1719396
+  },
+  {
+    "id": "netherlands-slotstad-rtv",
+    "name": "Slotstad RTV",
+    "url": "https://redbeemedia.streamabc.net/redbm-slotstad-mp3-192-8209361",
+    "genre": "Music",
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "lat": 52.0907006,
+    "lng": 5.1215634
+  },
+  {
+    "id": "netherlands-radio-10",
+    "name": "Radio 10",
+    "url": "https://22613.live.streamtheworld.com:443/RADIO10.mp3?dist=radiogarden",
+    "genre": "Music",
+    "city": "Hilversum",
+    "country": "Netherlands",
+    "lat": 52.2241375,
+    "lng": 5.1719396
+  },
+  {
+    "id": "netherlands-radio-obadja",
+    "name": "Radio Obadja",
+    "url": "https://a7.asurahosting.com:7040/radio.mp3",
+    "genre": "Music",
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "lat": 52.0907006,
+    "lng": 5.1215634
+  },
+  {
+    "id": "netherlands-abtt",
+    "name": "ABTT",
+    "url": "http://server-06.stream-server.nl:8600/;stream/1",
+    "genre": "Music",
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "lat": 52.0907006,
+    "lng": 5.1215634
+  },
+  {
+    "id": "netherlands-radio-sbs",
+    "name": "Radio SBS",
+    "url": "https://solid48.streamupsolutions.com/proxy/radiosbs/radiosbs",
+    "genre": "Music",
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "lat": 52.0907006,
+    "lng": 5.1215634
+  },
+  {
+    "id": "netherlands-foute-muziek-radio",
+    "name": "Foute Muziek Radio",
+    "url": "https://server6.radio-streams.net/proxy/hans12?mp=/stream",
+    "genre": "Music",
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "lat": 52.0907006,
+    "lng": 5.1215634
+  },
+  {
+    "id": "netherlands-radio-sitara-900-am",
+    "name": "Radio Sitara 900 AM",
+    "url": "https://server6.radio-streams.net:18048/stream",
+    "genre": "Music",
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "lat": 52.0907006,
+    "lng": 5.1215634
+  },
+  {
+    "id": "netherlands-npo-funx-arab",
+    "name": "NPO FunX Arab",
+    "url": "https://icecast.omroep.nl/funx-arab-sb-mp3",
+    "genre": "Music",
+    "city": "Rotterdam",
+    "country": "Netherlands",
+    "lat": 51.9244424,
+    "lng": 4.47775
+  },
+  {
+    "id": "netherlands-jazz-de-ville--chill",
+    "name": "Jazz de Ville - Chill",
+    "url": "https://onair22.xdevel.com/proxy/xautocloud_td3e_421?mp=/stream",
+    "genre": "Music",
+    "city": "Rotterdam",
+    "country": "Netherlands",
+    "lat": 51.9244424,
+    "lng": 4.47775
+  },
+  {
+    "id": "netherlands-domstad-radio",
+    "name": "Domstad Radio",
+    "url": "https://dmsstreaming.nl:8000/radio.mp3",
+    "genre": "Music",
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "lat": 52.0907006,
+    "lng": 5.1215634
+  },
+  {
+    "id": "netherlands-glxyradio-1034-fm",
+    "name": "GLXY.RADIO 103.4 FM",
+    "url": "https://stream.glxy.radio/glxy",
+    "genre": "Music",
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "lat": 52.0907006,
+    "lng": 5.1215634
+  },
+  {
+    "id": "netherlands-sh-radio",
+    "name": "SH Radio",
+    "url": "https://cc6.beheerstream.com/proxy/shradio?mp=/stream;listen.pls",
+    "genre": "Music",
+    "city": "Rotterdam",
+    "country": "Netherlands",
+    "lat": 51.9244424,
+    "lng": 4.47775
+  },
+  {
+    "id": "netherlands-jazz-de-ville--jazz",
+    "name": "Jazz de Ville - Jazz",
+    "url": "https://onair22.xdevel.com/proxy/xautocloud_kkyb_420?mp=/stream",
+    "genre": "Music",
+    "city": "Rotterdam",
+    "country": "Netherlands",
+    "lat": 51.9244424,
+    "lng": 4.47775
+  },
+  {
+    "id": "netherlands-538-top-50",
+    "name": "538 Top 50",
+    "url": "https://29033.live.streamtheworld.com:443/TLPSTR13.mp3?dist=radiogarden",
+    "genre": "Music",
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "lat": 52.0907006,
+    "lng": 5.1215634
+  },
+  {
+    "id": "netherlands-stroom-streekomroep-oude-maas",
+    "name": "STROOM Streekomroep Oude Maas",
+    "url": "https://stream.omroepstroom.nl/omroep",
+    "genre": "Music",
+    "city": "Rotterdam",
+    "country": "Netherlands",
+    "lat": 51.9244424,
+    "lng": 4.47775
+  },
+  {
+    "id": "netherlands-radio-worm",
+    "name": "Radio Worm",
+    "url": "https://origin.streamnerd.nl/worm/worm/icecast.audio",
+    "genre": "Music",
+    "city": "Rotterdam",
+    "country": "Netherlands",
+    "lat": 51.9244424,
+    "lng": 4.47775
+  },
+  {
+    "id": "netherlands-npo-funx-rotterdam",
+    "name": "NPO FunX Rotterdam",
+    "url": "https://icecast.omroep.nl/funx-rotterdam-sb-mp3",
+    "genre": "Music",
+    "city": "Rotterdam",
+    "country": "Netherlands",
+    "lat": 51.9244424,
+    "lng": 4.47775
+  },
+  {
+    "id": "netherlands-radio-rijnmond",
+    "name": "Radio Rijnmond",
+    "url": "https://d2e9xgjjdd9cr5.cloudfront.net/icecast/rijnmond/radio-mp3",
+    "genre": "Music",
+    "city": "Rotterdam",
+    "country": "Netherlands",
+    "lat": 51.9244424,
+    "lng": 4.47775
+  },
+  {
+    "id": "netherlands-golden-oldies-radio",
+    "name": "Golden Oldies Radio",
+    "url": "https://sonic.magicdragon.nl/8034/stream",
+    "genre": "Music",
+    "city": "Rotterdam",
+    "country": "Netherlands",
+    "lat": 51.9244424,
+    "lng": 4.47775
+  },
+  {
+    "id": "netherlands-mp4uradio",
+    "name": "MP4URADIO",
+    "url": "https://stream-10.pmteurope.com:8048/stream",
+    "genre": "Music",
+    "city": "Rotterdam",
+    "country": "Netherlands",
+    "lat": 51.9244424,
+    "lng": 4.47775
+  },
+  {
+    "id": "netherlands-nashville-fm",
+    "name": "Nashville FM",
+    "url": "https://nashvillefm.stream-server.nl:8300/stream",
+    "genre": "Music",
+    "city": "Rotterdam",
+    "country": "Netherlands",
+    "lat": 51.9244424,
+    "lng": 4.47775
+  },
+  {
+    "id": "netherlands-radio-capelle-fm-1053",
+    "name": "Radio Capelle FM 105.3",
+    "url": "https://live.radiocapelle.nl/",
+    "genre": "Music",
+    "city": "Rotterdam",
+    "country": "Netherlands",
+    "lat": 51.9244424,
+    "lng": 4.47775
+  },
+  {
+    "id": "netherlands-pinguin-classics",
+    "name": "Pinguin Classics",
+    "url": "https://streams.pinguinradio.com/PinguinClassics192.mp3",
+    "genre": "Music",
+    "city": "Naarden",
+    "country": "Netherlands",
+    "lat": 52.2957628,
+    "lng": 5.1633636
+  },
+  {
+    "id": "netherlands-radiodigitaal-den-haag",
+    "name": "RADIODIGITAAL Den Haag",
+    "url": "http://uk2.internet-radio.com:8024/live",
+    "genre": "Music",
+    "city": "The Hague",
+    "country": "Netherlands",
+    "lat": 52.0749456,
+    "lng": 4.2696802
+  },
+  {
+    "id": "netherlands-slam-juize",
+    "name": "SLAM! Juize",
+    "url": "https://25303.live.streamtheworld.com:443/WEB09_AAC.aac",
+    "genre": "Music",
+    "city": "Naarden",
+    "country": "Netherlands",
+    "lat": 52.2957628,
+    "lng": 5.1633636
+  },
+  {
+    "id": "netherlands-100%-nl-nederpop",
+    "name": "100% NL Nederpop",
+    "url": "https://22713.live.streamtheworld.com:443/WEB04_AAC.aac",
+    "genre": "Music",
+    "city": "Naarden",
+    "country": "Netherlands",
+    "lat": 52.2957628,
+    "lng": 5.1633636
+  },
+  {
+    "id": "netherlands-nixxfm",
+    "name": "NixxFM",
+    "url": "https://mediacp.shoutcastradio.nl:8002/NixxFM",
+    "genre": "Music",
+    "city": "Naarden",
+    "country": "Netherlands",
+    "lat": 52.2957628,
+    "lng": 5.1633636
+  },
+  {
+    "id": "netherlands-ghana-today",
+    "name": "Ghana Today",
+    "url": "http://stream2.ghanatoday.com/gtonline",
+    "genre": "Music",
+    "city": "The Hague",
+    "country": "Netherlands",
+    "lat": 52.0749456,
+    "lng": 4.2696802
+  },
+  {
+    "id": "netherlands-radyo-kewra",
+    "name": "Radyo Kewra",
+    "url": "http://198.7.59.28:8146/stream/1/",
+    "genre": "Music",
+    "city": "The Hague",
+    "country": "Netherlands",
+    "lat": 52.0749456,
+    "lng": 4.2696802
+  },
+  {
+    "id": "netherlands-slam",
+    "name": "SLAM!",
+    "url": "https://25533.live.streamtheworld.com:443/SLAM_AAC.aac",
+    "genre": "Music",
+    "city": "Naarden",
+    "country": "Netherlands",
+    "lat": 52.2957628,
+    "lng": 5.1633636
+  },
+  {
+    "id": "netherlands-slam-non-stop",
+    "name": "SLAM! Non-stop",
+    "url": "https://25233.live.streamtheworld.com:443/WEB10_AAC.aac",
+    "genre": "Music",
+    "city": "Naarden",
+    "country": "Netherlands",
+    "lat": 52.2957628,
+    "lng": 5.1633636
+  },
+  {
+    "id": "netherlands-sunlite",
+    "name": "Sunlite",
+    "url": "https://28983.live.streamtheworld.com:443/SUNLITE_AAC.aac",
+    "genre": "Music",
+    "city": "Naarden",
+    "country": "Netherlands",
+    "lat": 52.2957628,
+    "lng": 5.1633636
+  },
+  {
+    "id": "netherlands-pinguin-pluche",
+    "name": "Pinguin Pluche",
+    "url": "https://19003.live.streamtheworld.com:443/SP_R2591410_SC",
+    "genre": "Music",
+    "city": "Naarden",
+    "country": "Netherlands",
+    "lat": 52.2957628,
+    "lng": 5.1633636
+  },
+  {
+    "id": "netherlands-100%-nl",
+    "name": "100% NL",
+    "url": "https://29003.live.streamtheworld.com/100PNL_MP3_SC?_mp3=",
+    "genre": "Music",
+    "city": "Naarden",
+    "country": "Netherlands",
+    "lat": 52.2957628,
+    "lng": 5.1633636
+  },
+  {
+    "id": "netherlands-slam-housuh-in-de-pauzuh",
+    "name": "SLAM! Housuh In De Pauzuh",
+    "url": "https://28973.live.streamtheworld.com:443/WEB16_AAC.aac",
+    "genre": "Music",
+    "city": "Naarden",
+    "country": "Netherlands",
+    "lat": 52.2957628,
+    "lng": 5.1633636
+  },
+  {
+    "id": "netherlands-slam-hardstyle",
+    "name": "SLAM! Hardstyle",
+    "url": "https://28983.live.streamtheworld.com:443/WEB11_AAC.aac",
+    "genre": "Music",
+    "city": "Naarden",
+    "country": "Netherlands",
+    "lat": 52.2957628,
+    "lng": 5.1633636
+  },
+  {
+    "id": "netherlands-slam-mixmarathon",
+    "name": "SLAM! MixMarathon",
+    "url": "https://28973.live.streamtheworld.com:443/WEB13_AAC.aac",
+    "genre": "Music",
+    "city": "Naarden",
+    "country": "Netherlands",
+    "lat": 52.2957628,
+    "lng": 5.1633636
+  },
+  {
+    "id": "netherlands-npo-funx-den-haag",
+    "name": "NPO FunX Den Haag",
+    "url": "https://icecast.omroep.nl/funx-denhaag-sb-mp3",
+    "genre": "Music",
+    "city": "The Hague",
+    "country": "Netherlands",
+    "lat": 52.0749456,
+    "lng": 4.2696802
+  },
+  {
+    "id": "netherlands-rtv-albrandswaard",
+    "name": "RTV Albrandswaard",
+    "url": "https://streamer.hosting078.nl:1855/stream",
+    "genre": "Music",
+    "city": "Rotterdam",
+    "country": "Netherlands",
+    "lat": 51.9244424,
+    "lng": 4.47775
+  },
+  {
+    "id": "netherlands-100%-nl-non-stop",
+    "name": "100% NL Non-stop",
+    "url": "https://25233.live.streamtheworld.com:443/WEB02_AAC.aac",
+    "genre": "Music",
+    "city": "Naarden",
+    "country": "Netherlands",
+    "lat": 52.2957628,
+    "lng": 5.1633636
+  },
+  {
+    "id": "netherlands-lansingerland-fm",
+    "name": "Lansingerland FM",
+    "url": "https://worldradio.online/proxy/?q=http://37.74.115.63:8300/live&plugin_id=13399&site_id=14050219",
+    "genre": "Music",
+    "city": "Rotterdam",
+    "country": "Netherlands",
+    "lat": 51.9244424,
+    "lng": 4.47775
+  },
+  {
+    "id": "netherlands-rainz-fm",
+    "name": "Rainz FM",
+    "url": "https://azuraserv3.live-streams.nl/listen/rainzfm/radio.mp3",
+    "genre": "Music",
+    "city": "The Hague",
+    "country": "Netherlands",
+    "lat": 52.0749456,
+    "lng": 4.2696802
+  },
+  {
+    "id": "netherlands-hofstad-radio-fm-937",
+    "name": "Hofstad Radio FM 93.7",
+    "url": "https://29103.live.streamtheworld.com:443/HOFSTADRADIO.mp3",
+    "genre": "Music",
+    "city": "The Hague",
+    "country": "Netherlands",
+    "lat": 52.0749456,
+    "lng": 4.2696802
+  },
+  {
+    "id": "netherlands-dizgo-radio-fm",
+    "name": "Dizgo Radio FM",
+    "url": "http://mediaserv30.live-streams.nl:8079/stream",
+    "genre": "Music",
+    "city": "The Hague",
+    "country": "Netherlands",
+    "lat": 52.0749456,
+    "lng": 4.2696802
+  },
+  {
+    "id": "netherlands-ice-radio",
+    "name": "Ice Radio",
+    "url": "https://stream.iceradio.nl/iceradiohq",
+    "genre": "Music",
+    "city": "The Hague",
+    "country": "Netherlands",
+    "lat": 52.0749456,
+    "lng": 4.2696802
+  },
+  {
+    "id": "netherlands-vahon-hindustani-radio-dab+",
+    "name": "VAHON Hindustani Radio DAB+",
+    "url": "https://onlineradio.websoftitnepal.com/8030/stream/1/.mp4a.40.5",
+    "genre": "Music",
+    "city": "The Hague",
+    "country": "Netherlands",
+    "lat": 52.0749456,
+    "lng": 4.2696802
+  },
+  {
+    "id": "netherlands-radio-west",
+    "name": "Radio West",
+    "url": "http://d3jhv0ayn0z3fg.cloudfront.net/icecast/omroepwest/radio",
+    "genre": "Music",
+    "city": "The Hague",
+    "country": "Netherlands",
+    "lat": 52.0749456,
+    "lng": 4.2696802
+  },
+  {
+    "id": "netherlands-arrow-caz",
+    "name": "Arrow CAZ!",
+    "url": "https://29003.live.streamtheworld.com:443/ARROWCAZ.mp3",
+    "genre": "Music",
+    "city": "The Hague",
+    "country": "Netherlands",
+    "lat": 52.0749456,
+    "lng": 4.2696802
+  },
+  {
+    "id": "netherlands-radio-nrg",
+    "name": "Radio NRG",
+    "url": "https://solid41.streamupsolutions.com/proxy/toyfkozk?mp=/stream/4/",
+    "genre": "Music",
+    "city": "The Hague",
+    "country": "Netherlands",
+    "lat": 52.0749456,
+    "lng": 4.2696802
+  },
+  {
+    "id": "netherlands-cool-dance-radio",
+    "name": "Cool Dance Radio",
+    "url": "https://stream.cooldanceradio.com/stream1/stream.mp3",
+    "genre": "Music",
+    "city": "The Hague",
+    "country": "Netherlands",
+    "lat": 52.0749456,
+    "lng": 4.2696802
+  },
+  {
+    "id": "netherlands-radio-midvliet",
+    "name": "Radio Midvliet",
+    "url": "https://cloud-faro.beheerstream.com/proxy/radlqowi?mp=/midvliet/;",
+    "genre": "Music",
+    "city": "The Hague",
+    "country": "Netherlands",
+    "lat": 52.0749456,
+    "lng": 4.2696802
+  },
+  {
+    "id": "netherlands-arrow-bluesbox-radio",
+    "name": "Arrow Bluesbox Radio",
+    "url": "https://29003.live.streamtheworld.com:443/ARROWBLUESBOX.mp3",
+    "genre": "Music",
+    "city": "The Hague",
+    "country": "Netherlands",
+    "lat": 52.0749456,
+    "lng": 4.2696802
+  },
+  {
+    "id": "netherlands-joe-non-stop",
+    "name": "JOE Non-stop",
+    "url": "https://icecast-qmusicnl-cdp.triple-it.nl/Joe_nl_nonstop_high.aac",
+    "genre": "Music",
+    "city": "Duivendrecht",
+    "country": "Netherlands",
+    "lat": 52.3235787,
+    "lng": 4.9365267
+  },
+  {
+    "id": "netherlands-wild-fm-hitradio",
+    "name": "Wild FM Hitradio",
+    "url": "http://radio.wildhitradio.nl/wildfm.mp3",
+    "genre": "Music",
+    "city": "Duivendrecht",
+    "country": "Netherlands",
+    "lat": 52.3235787,
+    "lng": 4.9365267
+  },
+  {
+    "id": "netherlands-grolloo-radio",
+    "name": "Grolloo Radio",
+    "url": "https://uk1.streamingpulse.com/ssl/grollooradio",
+    "genre": "Music",
+    "city": "Groningen",
+    "country": "Netherlands",
+    "lat": 53.2190652,
+    "lng": 6.5680077
+  },
+  {
+    "id": "netherlands-radio-warffum",
+    "name": "Radio Warffum",
+    "url": "http://mediaserv68.live-streams.nl:8056/live",
+    "genre": "Music",
+    "city": "Groningen",
+    "country": "Netherlands",
+    "lat": 53.2190652,
+    "lng": 6.5680077
+  },
+  {
+    "id": "netherlands-oog-radio-1066fm",
+    "name": "OOG Radio 106.6FM",
+    "url": "https://redbeemedia.streamabc.net/redbm-oog-mp3-192-2582929?sABC=6977396o%230%2375p922pr1rq3nr63r4683s5131rr6q39%23aycb&aw_0_1st.playerid=nlpo&amsparams=playerid:nlpo;skey:1769421163",
+    "genre": "Music",
+    "city": "Groningen",
+    "country": "Netherlands",
+    "lat": 53.2190652,
+    "lng": 6.5680077
+  },
+  {
+    "id": "netherlands-qmusic",
+    "name": "Qmusic",
+    "url": "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_live.mp3?dist=radiogarden&pname=redirect-service",
+    "genre": "Music",
+    "city": "Duivendrecht",
+    "country": "Netherlands",
+    "lat": 52.3235787,
+    "lng": 4.9365267
+  },
+  {
+    "id": "netherlands-radio-noord",
+    "name": "Radio Noord",
+    "url": "https://media.rtvnoord.nl/icecast/rtvnoord/radio",
+    "genre": "Music",
+    "city": "Groningen",
+    "country": "Netherlands",
+    "lat": 53.2190652,
+    "lng": 6.5680077
+  },
+  {
+    "id": "netherlands-qmusic--summer",
+    "name": "Qmusic - Summer",
+    "url": "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_thema.mp3?dist=radiogarden&pname=redirect-service",
+    "genre": "Music",
+    "city": "Duivendrecht",
+    "country": "Netherlands",
+    "lat": 52.3235787,
+    "lng": 4.9365267
+  },
+  {
+    "id": "netherlands-qmusic--het-foute-uur",
+    "name": "Qmusic - Het Foute Uur",
+    "url": "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_fouteuur.mp3?dist=radiogarden&pname=redirect-service",
+    "genre": "Music",
+    "city": "Duivendrecht",
+    "country": "Netherlands",
+    "lat": 52.3235787,
+    "lng": 4.9365267
+  },
+  {
+    "id": "netherlands-recogin-radio",
+    "name": "Recogin Radio",
+    "url": "https://listen.radioking.com/radio/729707/stream/795791",
+    "genre": "Music",
+    "city": "Duivendrecht",
+    "country": "Netherlands",
+    "lat": 52.3235787,
+    "lng": 4.9365267
+  },
+  {
+    "id": "netherlands-rebecca-radio",
+    "name": "Rebecca Radio",
+    "url": "https://stream.rebeccaradio.nl/listen.mp3",
+    "genre": "Music",
+    "city": "Groningen",
+    "country": "Netherlands",
+    "lat": 53.2190652,
+    "lng": 6.5680077
+  },
+  {
+    "id": "netherlands-talentcast-1485-am",
+    "name": "TalentCast 1485 AM",
+    "url": "https://talentcast.nl:8443/stream",
+    "genre": "Music",
+    "city": "Groningen",
+    "country": "Netherlands",
+    "lat": 53.2190652,
+    "lng": 6.5680077
+  },
+  {
+    "id": "netherlands-tynaarlo-lokaal-fm-1059",
+    "name": "Tynaarlo Lokaal FM 105.9",
+    "url": "https://mediaserv68.live-streams.nl:18019/stream",
+    "genre": "Music",
+    "city": "Groningen",
+    "country": "Netherlands",
+    "lat": 53.2190652,
+    "lng": 6.5680077
+  },
+  {
+    "id": "netherlands-planet-90",
+    "name": "Planet 90",
+    "url": "https://planet90.beheerstream.nl/8010/stream",
+    "genre": "Music",
+    "city": "Groningen",
+    "country": "Netherlands",
+    "lat": 53.2190652,
+    "lng": 6.5680077
+  },
+  {
+    "id": "netherlands-radio-aa-hunze",
+    "name": "Radio Aa & Hunze",
+    "url": "https://icecast.radioenhunze.nl/stream",
+    "genre": "Music",
+    "city": "Groningen",
+    "country": "Netherlands",
+    "lat": 53.2190652,
+    "lng": 6.5680077
+  },
+  {
+    "id": "netherlands-rso-radio",
+    "name": "RSO Radio",
+    "url": "https://rsoradio.streampartner.nl/live",
+    "genre": "Music",
+    "city": "Groningen",
+    "country": "Netherlands",
+    "lat": 53.2190652,
+    "lng": 6.5680077
+  },
+  {
+    "id": "netherlands-radio-tempête",
+    "name": "Radio Tempête",
+    "url": "https://listen.radioking.com/radio/372772/stream/422929",
+    "genre": "Music",
+    "city": "Groningen",
+    "country": "Netherlands",
+    "lat": 53.2190652,
+    "lng": 6.5680077
+  },
+  {
+    "id": "netherlands-radio-emmeloord-am-747",
+    "name": "Radio Emmeloord AM 747",
+    "url": "http://86.93.49.78:8080/live",
+    "genre": "Music",
+    "city": "Sneek",
+    "country": "Netherlands",
+    "lat": 53.033548,
+    "lng": 5.6611029
+  },
+  {
+    "id": "netherlands-qmusic--one-world-radio",
+    "name": "Qmusic - One World Radio",
+    "url": "https://22593.live.streamtheworld.com:443/OWR_WORLD_RADIO_NL.mp3?dist=radiogarden&pname=redirect-service",
+    "genre": "Music",
+    "city": "Duivendrecht",
+    "country": "Netherlands",
+    "lat": 52.3235787,
+    "lng": 4.9365267
+  },
+  {
+    "id": "netherlands-freez-fm",
+    "name": "Freez FM",
+    "url": "https://stream.freezfm.nl/freezfm",
+    "genre": "Music",
+    "city": "Sneek",
+    "country": "Netherlands",
+    "lat": 53.033548,
+    "lng": 5.6611029
+  },
+  {
+    "id": "netherlands-grunn-fm",
+    "name": "Grunn FM",
+    "url": "https://stream.grunnfm.nl/grunnfm",
+    "genre": "Music",
+    "city": "Sneek",
+    "country": "Netherlands",
+    "lat": 53.033548,
+    "lng": 5.6611029
+  },
+  {
+    "id": "netherlands-frysk-fm",
+    "name": "Frysk FM",
+    "url": "https://stream.frysk.fm/fryskfm",
+    "genre": "Music",
+    "city": "Sneek",
+    "country": "Netherlands",
+    "lat": 53.033548,
+    "lng": 5.6611029
+  },
+  {
+    "id": "netherlands-joy-radio",
+    "name": "Joy Radio",
+    "url": "https://stream.joyradio.nl/joyradio",
+    "genre": "Music",
+    "city": "Sneek",
+    "country": "Netherlands",
+    "lat": 53.033548,
+    "lng": 5.6611029
+  },
+  {
+    "id": "netherlands-radio-seabreeze-am-1395",
+    "name": "Radio Seabreeze AM 1395",
+    "url": "https://live.radioseabreeze.nl/",
+    "genre": "Music",
+    "city": "Sneek",
+    "country": "Netherlands",
+    "lat": 53.033548,
+    "lng": 5.6611029
+  },
+  {
+    "id": "netherlands-radio-spannenburg-fm-964",
+    "name": "Radio Spannenburg FM 96.4",
+    "url": "https://stream.radiospannenburg.nl/radiospannenburg",
+    "genre": "Music",
+    "city": "Sneek",
+    "country": "Netherlands",
+    "lat": 53.033548,
+    "lng": 5.6611029
+  },
+  {
+    "id": "netherlands-magic-fm",
+    "name": "Magic FM",
+    "url": "https://stream.magicfm.nl/magicfm",
+    "genre": "Music",
+    "city": "Sneek",
+    "country": "Netherlands",
+    "lat": 53.033548,
+    "lng": 5.6611029
+  },
+  {
+    "id": "netherlands-rtv-go",
+    "name": "RTV GO!",
+    "url": "http://icecast.radiowesterwolde.nl:8000/G1_RTVLOGO",
+    "genre": "Music",
+    "city": "Emmer-Compascuum",
+    "country": "Netherlands",
+    "lat": 52.8115315,
+    "lng": 7.046206
+  },
+  {
+    "id": "netherlands-4-ever-radio",
+    "name": "4 Ever Radio",
+    "url": "https://ex52.voordeligstreamen.nl:7019/stream?type=http&nocache=51/;",
+    "genre": "Music",
+    "city": "Sneek",
+    "country": "Netherlands",
+    "lat": 53.033548,
+    "lng": 5.6611029
+  },
+  {
+    "id": "netherlands-waterstad-fm-923",
+    "name": "Waterstad FM 92.3",
+    "url": "https://stream.waterstadfm.nl/waterstadfm",
+    "genre": "Music",
+    "city": "Sneek",
+    "country": "Netherlands",
+    "lat": 53.033548,
+    "lng": 5.6611029
+  },
+  {
+    "id": "netherlands-kbc-radio-sw-9925",
+    "name": "KBC Radio SW 9925",
+    "url": "https://stream02.itego.nl/kbc-high",
+    "genre": "Music",
+    "city": "Sneek",
+    "country": "Netherlands",
+    "lat": 53.033548,
+    "lng": 5.6611029
+  },
+  {
+    "id": "netherlands-radio-eileen",
+    "name": "Radio Eileen",
+    "url": "http://radioeileen.ddns.net:8000/live.aac",
+    "genre": "Music",
+    "city": "Eindhoven",
+    "country": "Netherlands",
+    "lat": 51.4392648,
+    "lng": 5.478633
+  },
+  {
+    "id": "netherlands-team-fm-friesland",
+    "name": "Team FM Friesland",
+    "url": "https://22723.live.streamtheworld.com:443/TEAMFMFRIESLAND.mp3",
+    "genre": "Music",
+    "city": "Emmer-Compascuum",
+    "country": "Netherlands",
+    "lat": 52.8115315,
+    "lng": 7.046206
+  },
+  {
+    "id": "netherlands-team-fm-overijssel",
+    "name": "Team FM Overijssel",
+    "url": "https://22723.live.streamtheworld.com:443/TEAMFMDRENTHEGRONINGEN.mp3",
+    "genre": "Music",
+    "city": "Emmer-Compascuum",
+    "country": "Netherlands",
+    "lat": 52.8115315,
+    "lng": 7.046206
+  },
+  {
+    "id": "netherlands-team-fm-twente",
+    "name": "Team FM Twente",
+    "url": "https://28983.live.streamtheworld.com:443/TEAMFMTWENTE.mp3",
+    "genre": "Music",
+    "city": "Emmer-Compascuum",
+    "country": "Netherlands",
+    "lat": 52.8115315,
+    "lng": 7.046206
+  },
+  {
+    "id": "netherlands-team-fm-gelderland",
+    "name": "Team FM Gelderland",
+    "url": "https://22723.live.streamtheworld.com:443/TEAMFMGELDERLAND.mp3",
+    "genre": "Music",
+    "city": "Emmer-Compascuum",
+    "country": "Netherlands",
+    "lat": 52.8115315,
+    "lng": 7.046206
+  },
+  {
+    "id": "netherlands-team-fm-piratenplaten",
+    "name": "Team FM Piratenplaten",
+    "url": "https://28983.live.streamtheworld.com:443/TEAMFMPIRATENPLATEN.mp3",
+    "genre": "Music",
+    "city": "Emmer-Compascuum",
+    "country": "Netherlands",
+    "lat": 52.8115315,
+    "lng": 7.046206
+  },
+  {
+    "id": "netherlands-studio040",
+    "name": "Studio040",
+    "url": "https://stream.studio040.nl/studio040.mp3",
+    "genre": "Music",
+    "city": "Eindhoven",
+    "country": "Netherlands",
+    "lat": 51.4392648,
+    "lng": 5.478633
+  },
+  {
+    "id": "netherlands-radio-13",
+    "name": "Radio 13",
+    "url": "https://c20.radioboss.fm:8694/stream",
+    "genre": "Music",
+    "city": "Eindhoven",
+    "country": "Netherlands",
+    "lat": 51.4392648,
+    "lng": 5.478633
+  },
+  {
+    "id": "netherlands-radio-horizon",
+    "name": "Radio Horizon",
+    "url": "https://radio.rtvhorizon.nl/MP3",
+    "genre": "Music",
+    "city": "Eindhoven",
+    "country": "Netherlands",
+    "lat": 51.4392648,
+    "lng": 5.478633
+  },
+  {
+    "id": "netherlands-gigant-fm",
+    "name": "Gigant FM",
+    "url": "https://stream.gigantfm.nl/gigantfm",
+    "genre": "Music",
+    "city": "Emmer-Compascuum",
+    "country": "Netherlands",
+    "lat": 52.8115315,
+    "lng": 7.046206
+  },
+  {
+    "id": "netherlands-radio-4-brainport-747-am",
+    "name": "Radio 4 Brainport 747 AM",
+    "url": "https://server-66.stream-server.nl:18852/index.html?sid=1",
+    "genre": "Music",
+    "city": "Eindhoven",
+    "country": "Netherlands",
+    "lat": 51.4392648,
+    "lng": 5.478633
+  },
+  {
+    "id": "netherlands-radio-klassiek-helmond",
+    "name": "Radio Klassiek Helmond",
+    "url": "https://a2.asurahosting.com:7640/radio.mp3",
+    "genre": "Music",
+    "city": "Eindhoven",
+    "country": "Netherlands",
+    "lat": 51.4392648,
+    "lng": 5.478633
+  },
+  {
+    "id": "netherlands-complete-team",
+    "name": "Complete Team",
+    "url": "http://server-23.stream-server.nl:8474/",
+    "genre": "Music",
+    "city": "Enschede",
+    "country": "Netherlands",
+    "lat": 52.2209855,
+    "lng": 6.8940537
+  },
+  {
+    "id": "netherlands-happyradio",
+    "name": "happy.radio",
+    "url": "https://stream.happy.radio:8000/192",
+    "genre": "Music",
+    "city": "Eindhoven",
+    "country": "Netherlands",
+    "lat": 51.4392648,
+    "lng": 5.478633
+  },
+  {
+    "id": "netherlands-partydrivers",
+    "name": "Partydrivers",
+    "url": "https://stream-10.pmteurope.com:8044/stream",
+    "genre": "Music",
+    "city": "Emmer-Compascuum",
+    "country": "Netherlands",
+    "lat": 52.8115315,
+    "lng": 7.046206
+  },
+  {
+    "id": "netherlands-team-fm-hitradio",
+    "name": "Team FM Hitradio",
+    "url": "https://22713.live.streamtheworld.com:443/TEAMFMHITRADIO.mp3",
+    "genre": "Music",
+    "city": "Emmer-Compascuum",
+    "country": "Netherlands",
+    "lat": 52.8115315,
+    "lng": 7.046206
+  },
+  {
+    "id": "netherlands-omroep-brabant",
+    "name": "Omroep Brabant",
+    "url": "https://av.omroepbrabant.nl/icecast/omroepbrabant/mp3hq",
+    "genre": "Music",
+    "city": "Eindhoven",
+    "country": "Netherlands",
+    "lat": 51.4392648,
+    "lng": 5.478633
+  },
+  {
+    "id": "netherlands-radio-jnd",
+    "name": "Radio JND",
+    "url": "https://stream.radiojnd.nl/radiojnd.mp3",
+    "genre": "Music",
+    "city": "Eindhoven",
+    "country": "Netherlands",
+    "lat": 51.4392648,
+    "lng": 5.478633
+  },
+  {
+    "id": "netherlands-rtv-borne",
+    "name": "RTV Borne",
+    "url": "http://stream1.icehosting.nl:8124/;stream.mp3",
+    "genre": "Music",
+    "city": "Enschede",
+    "country": "Netherlands",
+    "lat": 52.2209855,
+    "lng": 6.8940537
+  },
+  {
+    "id": "netherlands-muziek-fabriek-twekkelo",
+    "name": "Muziek Fabriek Twekkelo",
+    "url": "https://securestream3.digipal.nl:2462/,stream.mp3",
+    "genre": "Music",
+    "city": "Enschede",
+    "country": "Netherlands",
+    "lat": 52.2209855,
+    "lng": 6.8940537
+  },
+  {
+    "id": "netherlands-rararadio",
+    "name": "RaRaRadio",
+    "url": "https://streaming.radio.co/s1226d636a/listen",
+    "genre": "Music",
+    "city": "Eindhoven",
+    "country": "Netherlands",
+    "lat": 51.4392648,
+    "lng": 5.478633
+  },
+  {
+    "id": "netherlands-rosita-plus",
+    "name": "Rosita Plus",
+    "url": "https://ex52.voordeligstreamen.nl/8004/stream",
+    "genre": "Music",
+    "city": "Enschede",
+    "country": "Netherlands",
+    "lat": 52.2209855,
+    "lng": 6.8940537
+  },
+  {
+    "id": "netherlands-das-radio",
+    "name": "Das Radio",
+    "url": "https://cc6.beheerstream.com/proxy/dasradio?mp=/stream",
+    "genre": "Music",
+    "city": "Enschede",
+    "country": "Netherlands",
+    "lat": 52.2209855,
+    "lng": 6.8940537
+  },
+  {
+    "id": "netherlands-radio-arev",
+    "name": "Radio Arev",
+    "url": "https://cast6.asurahosting.com//proxy/radioare/stream",
+    "genre": "Music",
+    "city": "Enschede",
+    "country": "Netherlands",
+    "lat": 52.2209855,
+    "lng": 6.8940537
+  },
+  {
+    "id": "netherlands-k-goldenradio",
+    "name": "K-Goldenradio",
+    "url": "https://kathy.torontocast.com:3445/stream",
+    "genre": "Music",
+    "city": "Amersfoort",
+    "country": "Netherlands",
+    "lat": 52.1562499,
+    "lng": 5.3896944
+  },
+  {
+    "id": "netherlands-eva",
+    "name": "EVA",
+    "url": "https://stream.mediagroep-eva.nl:8002/radio",
+    "genre": "Music",
+    "city": "Amersfoort",
+    "country": "Netherlands",
+    "lat": 52.1562499,
+    "lng": 5.3896944
+  },
+  {
+    "id": "netherlands-pepperboxradionl",
+    "name": "PepperboxRadio.nl",
+    "url": "https://stream.pepperboxradio.nl/listen/pepperboxradio/radio.mp3",
+    "genre": "Music",
+    "city": "Enschede",
+    "country": "Netherlands",
+    "lat": 52.2209855,
+    "lng": 6.8940537
+  },
+  {
+    "id": "netherlands-classic-nl--mind-radio",
+    "name": "Classic NL - Mind Radio",
+    "url": "https://stream.classic.nl/classicnl-mindradio.mp3",
+    "genre": "Music",
+    "city": "Amersfoort",
+    "country": "Netherlands",
+    "lat": 52.1562499,
+    "lng": 5.3896944
+  },
+  {
+    "id": "netherlands-classic-nl--opera",
+    "name": "Classic NL - Opera",
+    "url": "https://stream.classic.nl/classicnl-opera.mp3",
+    "genre": "Music",
+    "city": "Amersfoort",
+    "country": "Netherlands",
+    "lat": 52.1562499,
+    "lng": 5.3896944
+  },
+  {
+    "id": "netherlands-classic-nl",
+    "name": "Classic NL",
+    "url": "https://stream.classic.nl/classicnl.mp3",
+    "genre": "Music",
+    "city": "Amersfoort",
+    "country": "Netherlands",
+    "lat": 52.1562499,
+    "lng": 5.3896944
+  },
+  {
+    "id": "netherlands-xd-radio",
+    "name": "XD Radio",
+    "url": "http://server.2fm.nl:8000/retro",
+    "genre": "Music",
+    "city": "Enschede",
+    "country": "Netherlands",
+    "lat": 52.2209855,
+    "lng": 6.8940537
+  },
+  {
+    "id": "netherlands-a1-radio-fm-935",
+    "name": "A1 Radio FM 93.5",
+    "url": "https://stream.a1mediagroep.nl/a1radio_256",
+    "genre": "Music",
+    "city": "Amersfoort",
+    "country": "Netherlands",
+    "lat": 52.1562499,
+    "lng": 5.3896944
+  },
+  {
+    "id": "netherlands-paradiso-radio",
+    "name": "Paradiso Radio",
+    "url": "https://everest.renshosting.nl:7562/stream",
+    "genre": "Music",
+    "city": "Enschede",
+    "country": "Netherlands",
+    "lat": 52.2209855,
+    "lng": 6.8940537
+  },
+  {
+    "id": "netherlands-classic-nl--soundtracks",
+    "name": "Classic NL - Soundtracks",
+    "url": "https://stream.classic.nl/classicnl-soundtracks.mp3",
+    "genre": "Music",
+    "city": "Amersfoort",
+    "country": "Netherlands",
+    "lat": 52.1562499,
+    "lng": 5.3896944
+  },
+  {
+    "id": "netherlands-twente-fm",
+    "name": "Twente FM",
+    "url": "https://stream.twentefm.nl/",
+    "genre": "Music",
+    "city": "Enschede",
+    "country": "Netherlands",
+    "lat": 52.2209855,
+    "lng": 6.8940537
+  },
+  {
+    "id": "netherlands-free-radio-emmen",
+    "name": "Free Radio Emmen",
+    "url": "https://fre.stream.laut.fm/fre",
+    "genre": "Music",
+    "city": "Emmer-Compascuum",
+    "country": "Netherlands",
+    "lat": 52.8115315,
+    "lng": 7.046206
+  },
+  {
+    "id": "netherlands-glindradio",
+    "name": "GlindRadio",
+    "url": "https://caster05.streampakket.com/proxy/8776/stream",
+    "genre": "Music",
+    "city": "Amersfoort",
+    "country": "Netherlands",
+    "lat": 52.1562499,
+    "lng": 5.3896944
+  },
+  {
+    "id": "netherlands-adm-hardstyle-radio",
+    "name": "A.D.M. Hardstyle Radio",
+    "url": "https://kathy.torontocast.com:2930/stream",
+    "genre": "Music",
+    "city": "Assen",
+    "country": "Netherlands",
+    "lat": 52.997225,
+    "lng": 6.5506458
+  },
+  {
+    "id": "netherlands-radio-apeldoorn",
+    "name": "Radio Apeldoorn",
+    "url": "https://streamingradio.rtv-apeldoorn.nl/listen/radio_apeldoorn/rtvapeldoornmid.mp3",
+    "genre": "Music",
+    "city": "Apeldoorn",
+    "country": "Netherlands",
+    "lat": 52.1795738,
+    "lng": 5.9300775
+  },
+  {
+    "id": "netherlands-omroep-gelderland",
+    "name": "Omroep Gelderland",
+    "url": "https://d2od87akyl46nm.cloudfront.net/icecast/omroepgelderland/radiogelderland",
+    "genre": "Music",
+    "city": "Apeldoorn",
+    "country": "Netherlands",
+    "lat": 52.1795738,
+    "lng": 5.9300775
+  },
+  {
+    "id": "netherlands-veluwe-centraal-1",
+    "name": "Veluwe Centraal 1",
+    "url": "https://caster04.streampakket.com/proxy/8340/stram",
+    "genre": "Music",
+    "city": "Apeldoorn",
+    "country": "Netherlands",
+    "lat": 52.1795738,
+    "lng": 5.9300775
+  },
+  {
+    "id": "netherlands-radio-nunspeet",
+    "name": "Radio Nunspeet",
+    "url": "https://mars.streamerr.co/8272/stream",
+    "genre": "Music",
+    "city": "Apeldoorn",
+    "country": "Netherlands",
+    "lat": 52.1795738,
+    "lng": 5.9300775
+  },
+  {
+    "id": "netherlands-music-radio4all",
+    "name": "music-radio4all",
+    "url": "https://stream2.music-radio4all.nl:8443/stream.mp3",
+    "genre": "Music",
+    "city": "Apeldoorn",
+    "country": "Netherlands",
+    "lat": 52.1795738,
+    "lng": 5.9300775
+  },
+  {
+    "id": "netherlands-gewoon-radio",
+    "name": "Gewoon Radio",
+    "url": "https://cast1.torontocast.com:3445/stream",
+    "genre": "Music",
+    "city": "Assen",
+    "country": "Netherlands",
+    "lat": 52.997225,
+    "lng": 6.5506458
+  },
+  {
+    "id": "netherlands-ro2--psalmen",
+    "name": "RO2 - Psalmen",
+    "url": "https://stream01.sthhost.nl:8020/live",
+    "genre": "Music",
+    "city": "Amersfoort",
+    "country": "Netherlands",
+    "lat": 52.1562499,
+    "lng": 5.3896944
+  },
+  {
+    "id": "netherlands-radio-a-fm",
+    "name": "Radio A-FM",
+    "url": "http://185.173.219.248:8000/afm128",
+    "genre": "Music",
+    "city": "Waalwijk",
+    "country": "Netherlands",
+    "lat": 51.6873372,
+    "lng": 5.0173079
+  },
+  {
+    "id": "netherlands-maasstadradio",
+    "name": "Maasstadradio",
+    "url": "https://cc6.beheerstream.com/proxy/diarcmfm?mp=/stream",
+    "genre": "Music",
+    "city": "Waalwijk",
+    "country": "Netherlands",
+    "lat": 51.6873372,
+    "lng": 5.0173079
+  },
+  {
+    "id": "netherlands-rtv-drenthe",
+    "name": "RTV Drenthe",
+    "url": "https://cdn.rtvdrenthe.nl/icecast/rtvdrenthe/rtvradio",
+    "genre": "Music",
+    "city": "Assen",
+    "country": "Netherlands",
+    "lat": 52.997225,
+    "lng": 6.5506458
+  },
+  {
+    "id": "netherlands-iron-rtv--omroep-voor-zieken-en-ouderen",
+    "name": "Iron RTV - Omroep voor zieken en ouderen",
+    "url": "https://caster04.streampakket.com/proxy/8390/stream.mp3",
+    "genre": "Music",
+    "city": "Waalwijk",
+    "country": "Netherlands",
+    "lat": 51.6873372,
+    "lng": 5.0173079
+  },
+  {
+    "id": "netherlands-1134am",
+    "name": "1134am",
+    "url": "https://sonic.magicdragon.nl/8008/streamhttps://sonic.magicdragon.nl:8026",
+    "genre": "Music",
+    "city": "Waalwijk",
+    "country": "Netherlands",
+    "lat": 51.6873372,
+    "lng": 5.0173079
+  },
+  {
+    "id": "netherlands-real-hardstyle",
+    "name": "Real Hardstyle",
+    "url": "https://stream.realhardstyle.nl/",
+    "genre": "Music",
+    "city": "Waalwijk",
+    "country": "Netherlands",
+    "lat": 51.6873372,
+    "lng": 5.0173079
+  },
+  {
+    "id": "netherlands-km71",
+    "name": "KM71",
+    "url": "http://15113.live.streamtheworld.com/SAM04AAC618_SC",
+    "genre": "Music",
+    "city": "Assen",
+    "country": "Netherlands",
+    "lat": 52.997225,
+    "lng": 6.5506458
+  },
+  {
+    "id": "netherlands-brokes-935-fm-boneiru",
+    "name": "BròKèS 93.5 FM Boneiru",
+    "url": "http://mscp4.live-streams.nl:8200/live",
+    "genre": "Music",
+    "city": "Kralendijk, Bonaire",
+    "country": "Netherlands",
+    "lat": 12.1472869,
+    "lng": -68.2740206
+  },
+  {
+    "id": "netherlands-eemland-radio",
+    "name": "Eemland Radio",
+    "url": "https://streameemland.nl:8000/radio.mp3",
+    "genre": "Music",
+    "city": "Nijkerk",
+    "country": "Netherlands",
+    "lat": 52.2148537,
+    "lng": 5.4781463
+  },
+  {
+    "id": "netherlands-radio-10-brabant",
+    "name": "Radio 10 Brabant",
+    "url": "https://22663.live.streamtheworld.com:443/RADIO10.mp3",
+    "genre": "Music",
+    "city": "Waalwijk",
+    "country": "Netherlands",
+    "lat": 51.6873372,
+    "lng": 5.0173079
+  },
+  {
+    "id": "netherlands-live-fm-999",
+    "name": "Live FM 99.9",
+    "url": "http://162.244.80.220:8000/;stream.mp3",
+    "genre": "Music",
+    "city": "Kralendijk, Bonaire",
+    "country": "Netherlands",
+    "lat": 12.1472869,
+    "lng": -68.2740206
+  },
+  {
+    "id": "netherlands-veluwe-fm",
+    "name": "Veluwe FM",
+    "url": "https://server-51.stream-server.nl:18438/stream",
+    "genre": "Music",
+    "city": "Nijkerk",
+    "country": "Netherlands",
+    "lat": 52.2148537,
+    "lng": 5.4781463
+  },
+  {
+    "id": "netherlands-quality-fm",
+    "name": "Quality FM",
+    "url": "https://live.qualityfm.nl/mp3",
+    "genre": "Music",
+    "city": "Nijkerk",
+    "country": "Netherlands",
+    "lat": 52.2148537,
+    "lng": 5.4781463
+  },
+  {
+    "id": "netherlands-hallokids-radio",
+    "name": "Hallokids Radio",
+    "url": "https://stream.hallokidsradio.nl/hallokids",
+    "genre": "Music",
+    "city": "Waalwijk",
+    "country": "Netherlands",
+    "lat": 51.6873372,
+    "lng": 5.0173079
+  },
+  {
+    "id": "netherlands-locofm",
+    "name": "LocoFM",
+    "url": "https://i1.cdn.jetstre.am:8000/sz=LocoMedia=LocoFM?token=4f5a8c80944ceaa0f4a750970e57b768&time=66b5b3cf/;",
+    "genre": "Music",
+    "city": "Apeldoorn",
+    "country": "Netherlands",
+    "lat": 52.1795738,
+    "lng": 5.9300775
+  },
+  {
+    "id": "netherlands-ro6--psalms-and-hymns",
+    "name": "RO6 - Psalms and Hymns",
+    "url": "https://stream01.sthhost.nl:8006/live",
+    "genre": "Music",
+    "city": "Nijkerk",
+    "country": "Netherlands",
+    "lat": 52.2148537,
+    "lng": 5.4781463
+  },
+  {
+    "id": "netherlands-radio-hattem",
+    "name": "Radio Hattem",
+    "url": "https://ice.cr6.streamzilla.xlcdn.com:8000/sz=RTV_Hattem=RadioHattem",
+    "genre": "Music",
+    "city": "Apeldoorn",
+    "country": "Netherlands",
+    "lat": 52.1795738,
+    "lng": 5.9300775
+  },
+  {
+    "id": "netherlands-ro3--klassiek",
+    "name": "RO3 - Klassiek",
+    "url": "https://stream01.sthhost.nl:8072/live",
+    "genre": "Music",
+    "city": "Nijkerk",
+    "country": "Netherlands",
+    "lat": 52.2148537,
+    "lng": 5.4781463
+  },
+  {
+    "id": "netherlands-ro1--radio-1",
+    "name": "RO1 - Radio 1",
+    "url": "https://stream01.sthhost.nl:8003/live",
+    "genre": "Music",
+    "city": "Nijkerk",
+    "country": "Netherlands",
+    "lat": 52.2148537,
+    "lng": 5.4781463
+  },
+  {
+    "id": "netherlands-trans-world-radio",
+    "name": "Trans World Radio",
+    "url": "https://twrnl.out.airtime.pro/twrnl_a",
+    "genre": "Music",
+    "city": "Nijkerk",
+    "country": "Netherlands",
+    "lat": 52.2148537,
+    "lng": 5.4781463
+  },
+  {
+    "id": "netherlands-dolfijn-fm-975",
+    "name": "Dolfijn FM 97.5",
+    "url": "https://radiostreamfm.com/listen/dolfijnbon/radio.mp3",
+    "genre": "Music",
+    "city": "Kralendijk, Bonaire",
+    "country": "Netherlands",
+    "lat": 12.1472869,
+    "lng": -68.2740206
+  },
+  {
+    "id": "netherlands-omroep-assen",
+    "name": "Omroep Assen",
+    "url": "https://i1.cdn.jetstre.am:8000/sz=OmroepAssen=RadioOmroepAssen?token=c6dcf31a2c9259594563b5bec4ca89ed&time=69773aa4",
+    "genre": "Music",
+    "city": "Assen",
+    "country": "Netherlands",
+    "lat": 52.997225,
+    "lng": 6.5506458
+  },
+  {
+    "id": "netherlands-flevoziekenomroep",
+    "name": "FlevoZiekenOmroep",
+    "url": "http://stream1.fzo.nu/studio.aac",
+    "genre": "Music",
+    "city": "Almere",
+    "country": "Netherlands",
+    "lat": 52.4417513,
+    "lng": 5.2092943
+  },
+  {
+    "id": "netherlands-easy-955-fm",
+    "name": "Easy 95.5 FM",
+    "url": "https://mediaserv68.live-streams.nl:18007/stream",
+    "genre": "Music",
+    "city": "Almere",
+    "country": "Netherlands",
+    "lat": 52.4417513,
+    "lng": 5.2092943
+  },
+  {
+    "id": "netherlands-radio-atventista-boneiru-fm-911",
+    "name": "Radio Atventista Boneiru FM 91.1",
+    "url": "https://cloudstream2030.conectarhosting.com/7270/stream",
+    "genre": "Music",
+    "city": "Kralendijk, Bonaire",
+    "country": "Netherlands",
+    "lat": 12.1472869,
+    "lng": -68.2740206
+  },
+  {
+    "id": "netherlands-lx-classics",
+    "name": "LX Classics",
+    "url": "https://mcp-1.streampanel.nl:8020/lxclassics_mp3",
+    "genre": "Music",
+    "city": "Nijkerk",
+    "country": "Netherlands",
+    "lat": 52.2148537,
+    "lng": 5.4781463
+  },
+  {
+    "id": "netherlands-soulshow-radio",
+    "name": "Soulshow Radio",
+    "url": "https://icecast-soulshow-cdp.triple-it.nl/soulshow_128.mp3",
+    "genre": "Music",
+    "city": "Kralendijk, Bonaire",
+    "country": "Netherlands",
+    "lat": 12.1472869,
+    "lng": -68.2740206
+  },
+  {
+    "id": "netherlands-suvidha-radio",
+    "name": "Suvidha Radio",
+    "url": "http://79.143.187.96:8053/live",
+    "genre": "Music",
+    "city": "Almere",
+    "country": "Netherlands",
+    "lat": 52.4417513,
+    "lng": 5.2092943
+  },
+  {
+    "id": "netherlands-omroep-almere",
+    "name": "Omroep Almere",
+    "url": "https://stream.omroepalmere.nl/listen/omroep_almere_-_live/live",
+    "genre": "Music",
+    "city": "Almere",
+    "country": "Netherlands",
+    "lat": 52.4417513,
+    "lng": 5.2092943
+  },
+  {
+    "id": "netherlands-vibes-nation-radio",
+    "name": "Vibes Nation Radio",
+    "url": "https://stream-178.zeno.fm/2rrkqrsgps8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIycnJrcXJzZ3BzOHV2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiVk82NEpPMjZUMzJUSnBQT3RsVEpfZyIsImlhdCI6MTc2OTQyMTE4MiwiZXhwIjoxNzY5NDIxMjQyfQ.PUDoRAwurhn02iwyS3AVIEioXQuabdTucaXQ-X2A0QM",
+    "genre": "Music",
+    "city": "Kralendijk, Bonaire",
+    "country": "Netherlands",
+    "lat": 12.1472869,
+    "lng": -68.2740206
+  },
+  {
+    "id": "netherlands-troostradio",
+    "name": "Troostradio",
+    "url": "https://troostradio.stream.laut.fm/troostradio",
+    "genre": "Music",
+    "city": "Waalwijk",
+    "country": "Netherlands",
+    "lat": 51.6873372,
+    "lng": 5.0173079
+  },
+  {
+    "id": "netherlands-besser-975-fm",
+    "name": "Besser 97.5 FM",
+    "url": "https://audio.besser975fm.com/",
+    "genre": "Music",
+    "city": "Kralendijk, Bonaire",
+    "country": "Netherlands",
+    "lat": 12.1472869,
+    "lng": -68.2740206
+  },
+  {
+    "id": "netherlands-rob-stenders--xxl-stenders",
+    "name": "Rob Stenders - XXL Stenders",
+    "url": "https://mcp-1.streampanel.nl:8020/bonanza_mp3",
+    "genre": "Music",
+    "city": "Almere",
+    "country": "Netherlands",
+    "lat": 52.4417513,
+    "lng": 5.2092943
+  },
+  {
+    "id": "netherlands-vip-radio",
+    "name": "VIP Radio",
+    "url": "https://s02.whooshserver.net:8054/vip",
+    "genre": "Music",
+    "city": "Kralendijk, Bonaire",
+    "country": "Netherlands",
+    "lat": 12.1472869,
+    "lng": -68.2740206
+  }
+]

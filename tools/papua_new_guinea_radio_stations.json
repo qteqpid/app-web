@@ -1,0 +1,338 @@
+[
+    {
+        "name": "StereoCittà FM 95.0",
+        "city": "Padua",
+        "country": "Italy",
+        "url": "http://79.8.227.117:8008/1/"
+    },
+    {
+        "name": "Radio Studio 91 Live",
+        "city": "Padua",
+        "country": "Italy",
+        "url": "http://comet.shoutca.st:8970/stream/"
+    },
+    {
+        "name": "Radio DC Four FM",
+        "city": "Wewak",
+        "country": "Papua New Guinea",
+        "url": "https://i.klikhost.com/8180/stream"
+    },
+    {
+        "name": "RRI PRO 2 Serui",
+        "city": "Wewak",
+        "country": "Papua New Guinea",
+        "url": "https://stream-node1.rri.co.id/streaming/22/9222/rriseruipro2.mp3"
+    },
+    {
+        "name": "Radio Wellness",
+        "city": "Padua",
+        "country": "Italy",
+        "url": "http://audio1.meway.tv:8102/stream"
+    },
+    {
+        "name": "Bumma Bippera 98.7FM",
+        "city": "Port Moresby",
+        "country": "Papua New Guinea",
+        "url": "https://audio-edge-kef8b.ams.s.radiomast.io/8793edda-b581-48e9-bf45-b045bbdc4224"
+    },
+    {
+        "name": "National Broadcasting Corporation",
+        "city": "Port Moresby",
+        "country": "Papua New Guinea",
+        "url": "https://natradio.nbc.com.pg/listen/nbcnationalradio/nbc.mp3"
+    },
+    {
+        "name": "RRI Pro 1 FM 95.2",
+        "city": "Wewak",
+        "country": "Papua New Guinea",
+        "url": "https://stream-node1.rri.co.id/streaming/36/9136/rrimeraukepro1.mp3"
+    },
+    {
+        "name": "RRI Pro2 FM 96.8",
+        "city": "Port Moresby",
+        "country": "Papua New Guinea",
+        "url": "https://stream-node1.rri.co.id/streaming/36/9136/rrimeraukepro2.mp3"
+    },
+    {
+        "name": "RRI Pro4 FM 96.7",
+        "city": "Wewak",
+        "country": "Papua New Guinea",
+        "url": "https://stream-node1.rri.co.id/streaming/24/9024/rrimanokwaripro4.mp3"
+    },
+    {
+        "name": "TSIMA Radio AM 1260",
+        "city": "Port Moresby",
+        "country": "Papua New Guinea",
+        "url": "https://firstnationsmedia.stream/8024/stream"
+    },
+    {
+        "name": "Radio Maria Papua New Guinea",
+        "city": "Port Moresby",
+        "country": "Papua New Guinea",
+        "url": "https://dreamsiteradiocp2.com/proxy/rmpapua2?mp=/stream"
+    },
+    {
+        "name": "Radio Pocket FM 107.7",
+        "city": "Padua",
+        "country": "Italy",
+        "url": "https://ice15.fluidstream.net/pocket.aac"
+    },
+    {
+        "name": "Love FM",
+        "city": "Padua",
+        "country": "Italy",
+        "url": "https://ice02.fluidstream.net/lovefm.aac"
+    },
+    {
+        "name": "Radio Calcio Padova",
+        "city": "Padua",
+        "country": "Italy",
+        "url": "https://calciopadova2020.radioca.st/stream"
+    },
+    {
+        "name": "RIN Italia Network",
+        "city": "Padua",
+        "country": "Italy",
+        "url": "https://nr15.newradio.it:9100/stream"
+    },
+    {
+        "name": "Laiff FM 98.3",
+        "city": "Port Moresby",
+        "country": "Papua New Guinea",
+        "url": "https://stream-165.zeno.fm/mrvrbms4g2vuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJtcnZyYm1zNGcydnV2IiwiaG9zdCI6InN0cmVhbS0xNjUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiWFQ0T3E0UVVUQk9jU3pDb1NVYkhvQSIsImlhdCI6MTc2OTQyMTc4NiwiZXhwIjoxNzY5NDIxODQ2fQ.Sgoj7QMkmrfr2jKoXi6b6x74CTm89DLjVy648swj98A"
+    },
+    {
+        "name": "Vibra FM",
+        "city": "Padua",
+        "country": "Italy",
+        "url": "https://ice12.fluidstream.net/playstudio.aac"
+    },
+    {
+        "name": "Radio Megamix 80",
+        "city": "Padua",
+        "country": "Italy",
+        "url": "https://centova.ipstream.it/proxy/megamix80/stream"
+    },
+    {
+        "name": "Easy Network",
+        "city": "Padua",
+        "country": "Italy",
+        "url": "https://sphera.fluidstream.eu/easy.mp3"
+    },
+    {
+        "name": "Radio Padova The Beat",
+        "city": "Padua",
+        "country": "Italy",
+        "url": "https://sphera.fluidstream.eu/rpd_beat.mp3?FLID=5"
+    },
+    {
+        "name": "Power100 100.7 FM",
+        "city": "Port Moresby",
+        "country": "Papua New Guinea",
+        "url": "https://22963.live.streamtheworld.com:443/TOW_POWER100AAC_SC"
+    },
+    {
+        "name": "Web Radio DNOR",
+        "city": "Padua",
+        "country": "Italy",
+        "url": "https://sr11.inmystream.it/proxy/wrdnor/stream"
+    },
+    {
+        "name": "Legend FM 101.1",
+        "city": "Port Moresby",
+        "country": "Papua New Guinea",
+        "url": "https://22973.live.streamtheworld.com:443/PNGLEGENDFM.mp3"
+    },
+    {
+        "name": "Radio Bellla & Monella",
+        "city": "Padua",
+        "country": "Italy",
+        "url": "https://wma01.fluidstream.net/bella"
+    },
+    {
+        "name": "RDS FM 103.0",
+        "city": "Padua",
+        "country": "Italy",
+        "url": "https://icstream.rds.radio/rds"
+    },
+    {
+        "name": "Rai Radio 3",
+        "city": "Padua",
+        "country": "Italy",
+        "url": "https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S56630579/yEbkcBtIoSwd/icecast"
+    },
+    {
+        "name": "Rai Radio 2",
+        "city": "Padua",
+        "country": "Italy",
+        "url": "https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S35942484/yp5F67151K92/icecast"
+    },
+    {
+        "name": "Radio Cafe' FM 95.3",
+        "city": "Padua",
+        "country": "Italy",
+        "url": "https://geminione.it/proxy/test/stream"
+    },
+    {
+        "name": "Radio Gamma 5 FM 94.0",
+        "city": "Padua",
+        "country": "Italy",
+        "url": "https://ice05.fluidstream.net/fluid0510.mp3"
+    },
+    {
+        "name": "Rai Radio 1",
+        "city": "Padua",
+        "country": "Italy",
+        "url": "https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S16355530/Q4zh3NTu28Rx/icecast"
+    },
+    {
+        "name": "Radio 4all.it",
+        "city": "Padua",
+        "country": "Italy",
+        "url": "https://radio.wifi4all.it/rwifi4all"
+    },
+    {
+        "name": "Radio E",
+        "city": "Pápa",
+        "country": "Hungary",
+        "url": "http://www.radioe.net:8080/efm_high"
+    },
+    {
+        "name": "Radio Sherwood",
+        "city": "Padua",
+        "country": "Italy",
+        "url": "https://radiosherwood.ice.infomaniak.ch/radiosherwood-96.mp3"
+    },
+    {
+        "name": "Jovem Pan 91.3 FM",
+        "city": "Santo Antônio de Pádua RJ",
+        "country": "Brazil",
+        "url": "https://r11.ciclano.io/proxy/jovempan91/stream"
+    },
+    {
+        "name": "Győr Plusz Radio",
+        "city": "Pápa",
+        "country": "Hungary",
+        "url": "https://stream.42netmedia.com:8443/sc_gyor1"
+    },
+    {
+        "name": "Mária Rádió Mór",
+        "city": "Pápa",
+        "country": "Hungary",
+        "url": "http://mariaradio.hu:8000/mr_mor"
+    },
+    {
+        "name": "Rádio Feliz 103.9 FM",
+        "city": "Santo Antônio de Pádua RJ",
+        "country": "Brazil",
+        "url": "https://s40.maxcast.com.br:8303/live"
+    },
+    {
+        "name": "Rádió Pápa 95.7 FM",
+        "city": "Pápa",
+        "country": "Hungary",
+        "url": "https://s01.diazol.hu:9072/stream"
+    },
+    {
+        "name": "Rádio Itatiaia",
+        "city": "Santo Antônio de Pádua RJ",
+        "country": "Brazil",
+        "url": "https://8903.brasilstream.com.br/stream"
+    },
+    {
+        "name": "Rábaköz Rádió FM 94.5",
+        "city": "Pápa",
+        "country": "Hungary",
+        "url": "https://radio.molnarkft.hu/rabakozradio"
+    },
+    {
+        "name": "94.0 FM",
+        "city": "Santo Antônio de Pádua RJ",
+        "country": "Brazil",
+        "url": "https://s17.maxcast.com.br:8040/live"
+    },
+    {
+        "name": "Antena 1",
+        "city": "Santo Antônio de Pádua RJ",
+        "country": "Brazil",
+        "url": "https://antenaone.crossradio.com.br/stream"
+    },
+    {
+        "name": "Alpha FM 101.7",
+        "city": "Santo Antônio de Pádua RJ",
+        "country": "Brazil",
+        "url": "https://24493.live.streamtheworld.com:443/RADIO_ALPHAFMAAC.aac"
+    },
+    {
+        "name": "Radio Café Padova",
+        "city": "Vibra FM",
+        "country": "Padua, Italy",
+        "url": "http://onair11.xdevel.com:8000/"
+    },
+    {
+        "name": "Retro Rádió",
+        "city": "Pápa",
+        "country": "Hungary",
+        "url": "https://icast.connectmedia.hu/5001/live.mp3"
+    },
+    {
+        "name": "C-Com FM 102.7",
+        "city": "Santo Antônio de Pádua RJ",
+        "country": "Brazil",
+        "url": "https://s1.bycast.com.br:8060/live"
+    },
+    {
+        "name": "Radio 1 FM 89.5",
+        "city": "Pápa",
+        "country": "Hungary",
+        "url": "https://icast.connectmedia.hu/5201/live.mp3"
+    },
+    {
+        "name": "MR1 Kossuth Radio",
+        "city": "Pápa",
+        "country": "Hungary",
+        "url": "https://icast.connectmedia.hu/4726/mr1ex.mp3"
+    },
+    {
+        "name": "MegaDance Rádió",
+        "city": "Pápa",
+        "country": "Hungary",
+        "url": "http://megadanceradio.hopto.org:8000/livemega.mp3"
+    },
+    {
+        "name": "Radio Play Studio",
+        "city": "Love FM",
+        "country": "Padua, Italy",
+        "url": "https://ice02.fluidstream.net/playstudio.mp3"
+    },
+    {
+        "name": "Rádio JB FM 99,9",
+        "city": "Santo Antônio de Pádua RJ",
+        "country": "Brazil",
+        "url": "https://26593.live.streamtheworld.com:443/JBFMAAC.aac"
+    },
+    {
+        "name": "Multisom Cataguases AM 550",
+        "city": "Santo Antônio de Pádua RJ",
+        "country": "Brazil",
+        "url": "https://servidor28-3.brlogic.com:8124/live"
+    },
+    {
+        "name": "RadioBue.it",
+        "city": "Vibra FM",
+        "country": "Padua, Italy",
+        "url": "https://nrf1.newradio.it:10384/stream"
+    },
+    {
+        "name": "Klubrádió FM",
+        "city": "Pápa",
+        "country": "Hungary",
+        "url": "https://hu-stream04.klubradio.hu:8443/bpstream"
+    },
+    {
+        "name": "Radio Veneto24",
+        "city": "Love FM",
+        "country": "Padua, Italy",
+        "url": "https://n02.rcs.revma.com/thfvxzyqdzuvv?rj-ttl=5&rj-tok=AAABm_nLFnYASWNF7dqW45inBw"
+    }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "id": "azerbaijan-naxçıvan-radio-fm-1041",
+    "name": "Naxçıvan Radio FM 104.1",
+    "url": "http://37.59.40.90:12782/;stream.mp3",
+    "genre": "Music",
+    "city": "Baku",
+    "country": "Azerbaijan",
+    "lat": 40.3755885,
+    "lng": 49.8328009
+  },
+  {
+    "id": "azerbaijan-anti-radio",
+    "name": "Anti Radio",
+    "url": "http://94.20.88.200:8000/web",
+    "genre": "Music",
+    "city": "Baku",
+    "country": "Azerbaijan",
+    "lat": 40.3755885,
+    "lng": 49.8328009
+  },
+  {
+    "id": "azerbaijan-kepez-fm",
+    "name": "Kepez FM",
+    "url": "http://85.132.78.122:3344/now",
+    "genre": "Music",
+    "city": "Baku",
+    "country": "Azerbaijan",
+    "lat": 40.3755885,
+    "lng": 49.8328009
+  },
+  {
+    "id": "azerbaijan-asan-radio-100-fm",
+    "name": "Asan Radio 100 FM",
+    "url": "http://94.20.74.206:4448/stream1",
+    "genre": "Music",
+    "city": "Baku",
+    "country": "Azerbaijan",
+    "lat": 40.3755885,
+    "lng": 49.8328009
+  },
+  {
+    "id": "azerbaijan-radio-hereti-fm-1028",
+    "name": "Radio Hereti FM 102.8",
+    "url": "http://iis.ge:8000/hereti.mp3",
+    "genre": "Music",
+    "city": "Baku",
+    "country": "Azerbaijan",
+    "lat": 40.3755885,
+    "lng": 49.8328009
+  },
+  {
+    "id": "azerbaijan-radio-marneuli-fm-969",
+    "name": "Radio Marneuli FM 96.9",
+    "url": "http://stream.it-solutions.ge:8000/mp3-radiomarneulifm",
+    "genre": "Music",
+    "city": "Baku",
+    "country": "Azerbaijan",
+    "lat": 40.3755885,
+    "lng": 49.8328009
+  },
+  {
+    "id": "azerbaijan-avto-fm-1077",
+    "name": "Avto FM 107.7",
+    "url": "http://5.191.241.101:8000/avtofm",
+    "genre": "Music",
+    "city": "Baku",
+    "country": "Azerbaijan",
+    "lat": 40.3755885,
+    "lng": 49.8328009
+  },
+  {
+    "id": "azerbaijan-radio-vem",
+    "name": "Radio Vem",
+    "url": "https://eu1.stream4cast.com/proxy/vemradio/stream",
+    "genre": "Music",
+    "city": "Baku",
+    "country": "Azerbaijan",
+    "lat": 40.3755885,
+    "lng": 49.8328009
+  },
+  {
+    "id": "azerbaijan-xezer-fm-1030",
+    "name": "Xezer FM 103.0",
+    "url": "https://s40.myradiostream.com/:22546/listen.mp3?nocache=1769416558",
+    "genre": "Music",
+    "city": "Baku",
+    "country": "Azerbaijan",
+    "lat": 40.3755885,
+    "lng": 49.8328009
+  },
+  {
+    "id": "azerbaijan-radio-araz-1033-fm",
+    "name": "Radio Araz 103.3 FM",
+    "url": "https://s14.myradiostream.com/:30454/listen.mp3?nocache=1769416558",
+    "genre": "Music",
+    "city": "Baku",
+    "country": "Azerbaijan",
+    "lat": 40.3755885,
+    "lng": 49.8328009
+  },
+  {
+    "id": "azerbaijan-radio-marshall-fm-1035",
+    "name": "Radio Marshall FM 103.5",
+    "url": "http://eu.stream4cast.com:8030/;stream.mp3",
+    "genre": "Music",
+    "city": "Sumqayit",
+    "country": "Azerbaijan",
+    "lat": 40.703935,
+    "lng": 49.657693
+  },
+  {
+    "id": "azerbaijan-dfm-azerbaijan",
+    "name": "DFM Azerbaijan",
+    "url": "http://b8e00b2e5592.sn.mynetname.net:8000/onefm",
+    "genre": "Music",
+    "city": "Sumqayit",
+    "country": "Azerbaijan",
+    "lat": 40.703935,
+    "lng": 49.657693
+  },
+  {
+    "id": "azerbaijan-planet-fm-887",
+    "name": "Planet FM 88.7",
+    "url": "https://live.dinle.az/planetfm",
+    "genre": "Music",
+    "city": "Baku",
+    "country": "Azerbaijan",
+    "lat": 40.3755885,
+    "lng": 49.8328009
+  },
+  {
+    "id": "azerbaijan-autolife-radio-azerbaijan",
+    "name": "AutoLife Radio Azerbaijan",
+    "url": "https://radio.autoliferadio.com:8005/radio",
+    "genre": "Music",
+    "city": "Baku",
+    "country": "Azerbaijan",
+    "lat": 40.3755885,
+    "lng": 49.8328009
+  },
+  {
+    "id": "azerbaijan-medi̇a-fm-1055",
+    "name": "Medi̇a FM 105.5",
+    "url": "https://icecast.livetv.az/mediafm",
+    "genre": "Music",
+    "city": "Baku",
+    "country": "Azerbaijan",
+    "lat": 40.3755885,
+    "lng": 49.8328009
+  },
+  {
+    "id": "azerbaijan-yurd-fm-907",
+    "name": "Yurd FM 90.7",
+    "url": "https://icecast.livetv.az/yurdfm",
+    "genre": "Music",
+    "city": "Baku",
+    "country": "Azerbaijan",
+    "lat": 40.3755885,
+    "lng": 49.8328009
+  },
+  {
+    "id": "azerbaijan-vintage-radio-azerbaijan",
+    "name": "Vintage Radio Azerbaijan",
+    "url": "https://trucker.autoliferadio.com:1045/stream",
+    "genre": "Music",
+    "city": "Baku",
+    "country": "Azerbaijan",
+    "lat": 40.3755885,
+    "lng": 49.8328009
+  },
+  {
+    "id": "azerbaijan-enerji̇-1011-fm",
+    "name": "Enerji̇ 101.1 FM",
+    "url": "https://icecast.livetv.az/antennfm",
+    "genre": "Music",
+    "city": "Baku",
+    "country": "Azerbaijan",
+    "lat": 40.3755885,
+    "lng": 49.8328009
+  },
+  {
+    "id": "azerbaijan-mak-online",
+    "name": "Mak Online",
+    "url": "https://stream.volnorez.com/live-app/843862",
+    "genre": "Music",
+    "city": "Baku",
+    "country": "Azerbaijan",
+    "lat": 40.3755885,
+    "lng": 49.8328009
+  },
+  {
+    "id": "azerbaijan-boss-radio--caspian-business-radio",
+    "name": "BOSS Radio - Caspian Business Radio",
+    "url": "https://listen6.myradio24.com/bosscomaz",
+    "genre": "Music",
+    "city": "Baku",
+    "country": "Azerbaijan",
+    "lat": 40.3755885,
+    "lng": 49.8328009
+  },
+  {
+    "id": "azerbaijan-tmb-radio-1005-fm",
+    "name": "TMB Radio 100.5 FM",
+    "url": "https://s39.myradiostream.com:5458/listen.mp3?nocache=1769414161",
+    "genre": "Music",
+    "city": "Baku",
+    "country": "Azerbaijan",
+    "lat": 40.3755885,
+    "lng": 49.8328009
+  },
+  {
+    "id": "azerbaijan-radio-vətən",
+    "name": "Radio Vətən",
+    "url": "https://stream-176.zeno.fm/0kgkkzanmueuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwa2dra3phbm11ZXV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoickhtb2hjMlVRVFNTYjlPOS1XZGNOdyIsImlhdCI6MTc2OTQxNjU2MCwiZXhwIjoxNzY5NDE2NjIwfQ.1vn0ohbuHGztgqC4Wo-3aLN_gCtlNgWeCRfdhWFp_ZU",
+    "genre": "Music",
+    "city": "Baku",
+    "country": "Azerbaijan",
+    "lat": 40.3755885,
+    "lng": 49.8328009
+  }
+]

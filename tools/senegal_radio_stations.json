@@ -1,0 +1,248 @@
+[
+    {
+        "name": "Walf FM 99.0",
+        "city": "Dakar",
+        "country": "Senegal",
+        "url": "https://10gb1.acangroup.org:8000/walffm"
+    },
+    {
+        "name": "RSI Radio Sénégal International",
+        "city": "Dakar",
+        "country": "Senegal",
+        "url": "https://10gb1.acangroup.org:8000/rsi"
+    },
+    {
+        "name": "Radio Urum-Bi",
+        "city": "Dakar",
+        "country": "Senegal",
+        "url": "https://listen.radioking.com/radio/4735/stream/12887"
+    },
+    {
+        "name": "WADR FM 94.9",
+        "city": "Dakar",
+        "country": "Senegal",
+        "url": "https://westafricademocracyradio.ice.infomaniak.ch/westafricademocracyradio.mp3"
+    },
+    {
+        "name": "iRADIO FM 90.3",
+        "city": "Dakar",
+        "country": "Senegal",
+        "url": "https://listen.radioking.com/radio/250102/stream/294397"
+    },
+    {
+        "name": "Radio Fulbe",
+        "city": "Dakar",
+        "country": "Senegal",
+        "url": "https://listen.radioking.com/radio/20674/stream/53398"
+    },
+    {
+        "name": "Sud FM 98.5",
+        "city": "Dakar",
+        "country": "Senegal",
+        "url": "https://stream-302.zeno.fm/rq40edfn3reuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJycTQwZWRmbjNyZXV2IiwiaG9zdCI6InN0cmVhbS0zMDIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiRmR3bk1OeUhReGUwQ0N2bWE5cGZHZyIsImlhdCI6MTc2OTQyMjc0NywiZXhwIjoxNzY5NDIyODA3fQ.PbI2FgtPbWxmgDeCfCpHYvQ73vixX_BwKerWYaf4O_s"
+    },
+    {
+        "name": "West Coast Radio FM 95.3",
+        "city": "Dakar",
+        "country": "Senegal",
+        "url": "https://westcoast.gm:8480/stream"
+    },
+    {
+        "name": "Dakar Musique",
+        "city": "Dakar",
+        "country": "Senegal",
+        "url": "https://listen.senemultimedia.net:8092/stream"
+    },
+    {
+        "name": "Houda FM",
+        "city": "Dakar",
+        "country": "Senegal",
+        "url": "https://radio4.pro-fhi.net:19050/stream"
+    },
+    {
+        "name": "Mourchid FM 87.6",
+        "city": "Dakar",
+        "country": "Senegal",
+        "url": "https://stream-178.zeno.fm/qg6sf2bvrnhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxZzZzZjJidnJuaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiazZ3SEE4WmJSRm1VdGpNaWszMkFOZyIsImlhdCI6MTc2OTQyMjc0NywiZXhwIjoxNzY5NDIyODA3fQ.Q_fMJColVCr5NHClKftKmWpNLRRHCO0lmYaHR13RPUA"
+    },
+    {
+        "name": "RTS Dakar 94.5 FM",
+        "city": "Dakar",
+        "country": "Senegal",
+        "url": "https://stream-149.zeno.fm/cbff588f03duv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjYmZmNTg4ZjAzZHV2IiwiaG9zdCI6InN0cmVhbS0xNDkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiNVVuQUoxRDlTbEdFTk51YWhpbDlydyIsImlhdCI6MTc2OTQyMjc0NywiZXhwIjoxNzY5NDIyODA3fQ.dpXG3xxkzXm50uHdOXs99dCti_ErBYZNQsMPayWWbw4"
+    },
+    {
+        "name": "RTS Diourbel 96.0 FM",
+        "city": "Dakar",
+        "country": "Senegal",
+        "url": "https://stream-148.zeno.fm/4g1b35sts1duv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0ZzFiMzVzdHMxZHV2IiwiaG9zdCI6InN0cmVhbS0xNDguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiczZHZmlQa3NRcXVZdjlFcXJOUXdZdyIsImlhdCI6MTc2OTQyMjc0NywiZXhwIjoxNzY5NDIyODA3fQ.ieZkD_Pob9wLExDKADOvXn1KItXZspz-RUMLsdIXP2w"
+    },
+    {
+        "name": "Zik FM 89.7",
+        "city": "Dakar",
+        "country": "Senegal",
+        "url": "https://stream-141.zeno.fm/2a5a6ry9sxquv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIyYTVhNnJ5OXN4cXV2IiwiaG9zdCI6InN0cmVhbS0xNDEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiTFFndHVXNUFUYktlRnBHN21FT3d4ZyIsImlhdCI6MTc2OTQyMjc0NywiZXhwIjoxNzY5NDIyODA3fQ.ZECVQgg3OMVj4N1lke7_CdQrBtBiR7mn2TyQtFEctTk"
+    },
+    {
+        "name": "Radio Thiossane",
+        "city": "Dakar",
+        "country": "Senegal",
+        "url": "https://listen.radiothiossane.net/"
+    },
+    {
+        "name": "Radio Keur Massar",
+        "city": "Dakar",
+        "country": "Senegal",
+        "url": "https://stream.keurmassar.info/"
+    },
+    {
+        "name": "Radio Faydatidianiya",
+        "city": "Kaolack",
+        "country": "Senegal",
+        "url": "http://listen.senemultimedia.net:5526/listen/1/"
+    },
+    {
+        "name": "Financial Afrik Radio",
+        "city": "Dakar",
+        "country": "Senegal",
+        "url": "https://listen.radioking.com/radio/569123/stream/629054"
+    },
+    {
+        "name": "RTS Touba-Mbacke 99.2 FM",
+        "city": "Touba",
+        "country": "Senegal",
+        "url": "https://stream-149.zeno.fm/0zrxvents1duv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwenJ4dmVudHMxZHV2IiwiaG9zdCI6InN0cmVhbS0xNDkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoieUFIdUdlbU9URktraWhNYU5HQVpnZyIsImlhdCI6MTc2OTQyMjc0OSwiZXhwIjoxNzY5NDIyODA5fQ.ZeRgkNpUmp7vI8MNz6JBpBeUU8sFbRXzMq0e1Wkkf68"
+    },
+    {
+        "name": "RTS Kaolack 103 FM",
+        "city": "Touba",
+        "country": "Senegal",
+        "url": "https://stream-145.zeno.fm/2fkd4h0ts1duv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIyZmtkNGgwdHMxZHV2IiwiaG9zdCI6InN0cmVhbS0xNDUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiendrclBHWUNSZjJHVkY0ZG1rMnpHUSIsImlhdCI6MTc2OTQyMjc1MCwiZXhwIjoxNzY5NDIyODEwfQ.nsqsnrzdvTWheOBjZZYuiNGBDPdKoCpKAcqkIZkcHjk"
+    },
+    {
+        "name": "Al Fayda FM 90.1",
+        "city": "Kaolack",
+        "country": "Senegal",
+        "url": "https://usa5.fastcast4u.com/proxy/lyartech?mp=/1"
+    },
+    {
+        "name": "Medina Baye FM",
+        "city": "Touba",
+        "country": "Senegal",
+        "url": "https://stream-154.zeno.fm/ym9nqku50ueuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5bTlucWt1NTB1ZXV2IiwiaG9zdCI6InN0cmVhbS0xNTQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiWDJHQ2JJaVJUYUdsb255TG1LdlpBdyIsImlhdCI6MTc2OTQyMjc1MCwiZXhwIjoxNzY5NDIyODEwfQ.pcsnVQvxf-oNLnCJsCrDHmJNTjKoXwXvu1J1QYhoQt8"
+    },
+    {
+        "name": "Radio Bantaba FM 102.4",
+        "city": "Ziguinchor",
+        "country": "Senegal",
+        "url": "https://radio.streemlion.com/radiobantaba"
+    },
+    {
+        "name": "Carrefour FM 90.0",
+        "city": "Touba",
+        "country": "Senegal",
+        "url": "https://stream-159.zeno.fm/dm1hymk3qzzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJkbTFoeW1rM3F6enV2IiwiaG9zdCI6InN0cmVhbS0xNTkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiWUpIOFE3emNTZy1ZUUR3Y3M3bzQyQSIsImlhdCI6MTc2OTQyMjc1MCwiZXhwIjoxNzY5NDIyODEwfQ.2yVW2J6BQcY8HCOcjzyliZmVy7Xs2hxpDEqL2S2LG7c"
+    },
+    {
+        "name": "Radio Kassara Barikama",
+        "city": "Bakel",
+        "country": "Senegal",
+        "url": "https://stream-156.zeno.fm/u5u4gvaxh4duv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1NXU0Z3ZheGg0ZHV2IiwiaG9zdCI6InN0cmVhbS0xNTYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiTmp6Z1ItLU9RTnFRTHJwVHF1YUROQSIsImlhdCI6MTc2OTQyMjc1MSwiZXhwIjoxNzY5NDIyODExfQ.37KtTrHze0ZBMaCxn9RPQY1i9bk4pZvyrzT6lwVQNE0"
+    },
+    {
+        "name": "Lat FM 96.0",
+        "city": "Kaolack",
+        "country": "Senegal",
+        "url": "https://stream-179.zeno.fm/zymlahclnq2vv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ6eW1sYWhjbG5xMnZ2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiWXNUYzNhV2JTOGlEaTdycVpqXzItQSIsImlhdCI6MTc2OTQyMjc1MCwiZXhwIjoxNzY5NDIyODEwfQ.JbonP6FotbjiARdwim71NtJBPX45kBFvkmIPOBu2lOU"
+    },
+    {
+        "name": "Radio Kawandé",
+        "city": "Bakel",
+        "country": "Senegal",
+        "url": "https://stream-155.zeno.fm/7ns6amt68qruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI3bnM2YW10NjhxcnV2IiwiaG9zdCI6InN0cmVhbS0xNTUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoib3NQMEs5NzJUTGlKb1pwa1FKQ1VrZyIsImlhdCI6MTc2OTQyMjc1MSwiZXhwIjoxNzY5NDIyODExfQ.TZPjFEN4CLEiOPpzN3dGbrrGpvGBxgvSfQ2E9y9d_Vg"
+    },
+    {
+        "name": "Radio Jiida FM 88.0",
+        "city": "Bakel",
+        "country": "Senegal",
+        "url": "https://stream-153.zeno.fm/6qyn64rr9mruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2cXluNjRycjltcnV2IiwiaG9zdCI6InN0cmVhbS0xNTMuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiTjJiTUxVVkdRbzZ1UU9CUTJQMzZidyIsImlhdCI6MTc2OTQyMjc1MSwiZXhwIjoxNzY5NDIyODExfQ.NU5zV6aswBvHqNKZf5TUIXRP1JpTTBABxxwYE636A60"
+    },
+    {
+        "name": "Radio Xiisa",
+        "city": "Bakel",
+        "country": "Senegal",
+        "url": "https://stream-156.zeno.fm/cynrezdwtzzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjeW5yZXpkd3R6enV2IiwiaG9zdCI6InN0cmVhbS0xNTYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiWWNFX1llVjlSR0dVZGN1QzRWTzdkQSIsImlhdCI6MTc2OTQyMjc1MSwiZXhwIjoxNzY5NDIyODExfQ.Y7DtvRKazLSFMS4MLC68m7ZIqGjbvXHhGuh37OTZmKc"
+    },
+    {
+        "name": "Radio Dambe Kersignané",
+        "city": "Bakel",
+        "country": "Senegal",
+        "url": "https://stream-177.zeno.fm/89fkq77gb4duv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI4OWZrcTc3Z2I0ZHV2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiV2Iyek5NZ0RTVTJQRDMyWDIzYlR3ZyIsImlhdCI6MTc2OTQyMjc1MSwiZXhwIjoxNzY5NDIyODExfQ.CFUFx57MvKoBdLnoSYBKE_hNbgovs65ijtXm_TWK_q0"
+    },
+    {
+        "name": "RTS Ziguinchor 98.9 FM",
+        "city": "Ziguinchor",
+        "country": "Senegal",
+        "url": "https://stream-141.zeno.fm/ua9aunfqt1duv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1YTlhdW5mcXQxZHV2IiwiaG9zdCI6InN0cmVhbS0xNDEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiUWNTdUJvZmRRNi00U19sM1dpdHQ2USIsImlhdCI6MTc2OTQyMjc1MSwiZXhwIjoxNzY5NDIyODExfQ.ZGdw_CLMppzKoARXzZSCfHzxGomWZ6C6oaB2Dry2f6Y"
+    },
+    {
+        "name": "RTS Saint-Louis 96.3 FM",
+        "city": "Louga",
+        "country": "Senegal",
+        "url": "https://stream-145.zeno.fm/8bztxg2ts1duv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI4Ynp0eGcydHMxZHV2IiwiaG9zdCI6InN0cmVhbS0xNDUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiYW5ndWxnZG9TQU9BWFBWWGNTWWRCUSIsImlhdCI6MTc2OTQyMjc1MSwiZXhwIjoxNzY5NDIyODExfQ.ODruv7FSorxGDTkxWaqwRw2R9XC4hPNpACXHkMWFTns"
+    },
+    {
+        "name": "Salam Radio Dakar",
+        "city": "Saint Louis",
+        "country": "Senegal",
+        "url": "https://stream-168.zeno.fm/br25q9xqg48uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJicjI1cTl4cWc0OHV2IiwiaG9zdCI6InN0cmVhbS0xNjguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiRzkxSGwyY2ZUZ3k4TndYWGFnUjgwQSIsImlhdCI6MTc2OTQyMjc1MiwiZXhwIjoxNzY5NDIyODEyfQ.MVIetinjrJ5phud3n-G91BbaHAjmgQjzHg1xtDQjvH4"
+    },
+    {
+        "name": "RTS Sédhiou 100.5 FM",
+        "city": "Sédhiou",
+        "country": "Senegal",
+        "url": "https://stream-149.zeno.fm/0y9k4sprt1duv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIweTlrNHNwcnQxZHV2IiwiaG9zdCI6InN0cmVhbS0xNDkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiXzhQRjVaU2xTRnVfSXZSVExzQ1NXUSIsImlhdCI6MTc2OTQyMjc1MiwiZXhwIjoxNzY5NDIyODEyfQ.kYPlQOQ0BtE0sgLi2is_XnpHQZ4F1C-HCKA-OrYr6nc"
+    },
+    {
+        "name": "Radio Oasis",
+        "city": "Mbour",
+        "country": "Senegal",
+        "url": "https://listen.radioking.com/radio/515383/stream/573346"
+    },
+    {
+        "name": "RTG Guinée 88.5 FM",
+        "city": "Kédougou",
+        "country": "Senegal",
+        "url": "https://stream-177.zeno.fm/1aa3sabr2ehvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIxYWEzc2FicjJlaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiTmVabUx0TDBRTk85QWdHbUo1MEVCUSIsImlhdCI6MTc2OTQyMjc1MiwiZXhwIjoxNzY5NDIyODEyfQ.50wZyZhm-aBXMVqbBkclQw1qiFvnzUMi0BHZ1ApvOsk"
+    },
+    {
+        "name": "Radio Kankan",
+        "city": "Kédougou",
+        "country": "Senegal",
+        "url": "https://stream-178.zeno.fm/ab9q4v3mb?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJhYjlxNHYzbWIiLCJob3N0Ijoic3RyZWFtLTE3OC56ZW5vLmZtIiwidG0iOmZhbHNlLCJydHRsIjo1LCJqdGkiOiJIa3JHOE5zalR1bTdIZlVOSmplNDF3IiwiaWF0IjoxNzY5NDIyNzUzLCJleHAiOjE3Njk0MjI4MTN9.eBFU82VjjK-3EVCxHa92nhk9j5FMtqEpCV-xVOp2-AM"
+    },
+    {
+        "name": "RTS Matam 89.1 FM",
+        "city": "Matam",
+        "country": "Senegal",
+        "url": "https://stream-148.zeno.fm/kxud8vhqt1duv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJreHVkOHZocXQxZHV2IiwiaG9zdCI6InN0cmVhbS0xNDguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiR3JVZWJwS1FRSXUta1YzbHF0ZENLdyIsImlhdCI6MTc2OTQyMjc1MywiZXhwIjoxNzY5NDIyODEzfQ.MV-BwANfrO5NTX_dWTpWbw0J0QTzFyIXmgapACo_xFg"
+    },
+    {
+        "name": "RTS Fatick 92.8 FM",
+        "city": "Fatick",
+        "country": "Senegal",
+        "url": "https://stream-146.zeno.fm/sc8bpmqts1duv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzYzhicG1xdHMxZHV2IiwiaG9zdCI6InN0cmVhbS0xNDYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiSGZPQ0dTSERTTk8wVEwzN3BqOTloZyIsImlhdCI6MTc2OTQyMjc1MywiZXhwIjoxNzY5NDIyODEzfQ.u_OgGKYu1Mv3RTipp2asAfVSLXgV5eB0ER-QwcR2tjU"
+    },
+    {
+        "name": "Afia FM 93.0",
+        "city": "Mbour",
+        "country": "Senegal",
+        "url": "https://stream-179.zeno.fm/skjrn6kzzxptv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJza2pybjZrenp4cHR2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiNzFWQnRoSk1TVjZrVnFwMFJSaUpwZyIsImlhdCI6MTc2OTQyMjc1MywiZXhwIjoxNzY5NDIyODEzfQ.0-OQiB30zzzmTmLBwAvF9d0OKa6GjWtqZx0GzCEe6yw"
+    },
+    {
+        "name": "RTS Thiès 100.6 FM",
+        "city": "Thiès",
+        "country": "Senegal",
+        "url": "https://stream-148.zeno.fm/q52916rss1duv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxNTI5MTZyc3MxZHV2IiwiaG9zdCI6InN0cmVhbS0xNDguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiNm03VVdFNVpRVDJHaEN0THkwU3VHdyIsImlhdCI6MTc2OTQyMjc1NCwiZXhwIjoxNzY5NDIyODE0fQ.1zwIe9jXw0SsxvLNf0aiBywNptDLuVp1WqL_VXzLe8Q"
+    }
+]

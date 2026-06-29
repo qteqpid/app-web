@@ -1,0 +1,272 @@
+[
+  {
+    "id": "singapore-nasheedfm",
+    "name": "NasheedFM",
+    "url": "http://stereo.nasyidfm.com:8000/stream",
+    "genre": "Music",
+    "city": "Singapore",
+    "country": "Singapore",
+    "lat": 1.357107,
+    "lng": 103.8194992
+  },
+  {
+    "id": "singapore-rri-pro-2-fm-884",
+    "name": "RRI Pro 2 FM 88.4",
+    "url": "https://stream-node0.rri.co.id/streaming/12/9012/rripekanbarupro2.mp3",
+    "genre": "Music",
+    "city": "Singapore",
+    "country": "Singapore",
+    "lat": 1.357107,
+    "lng": 103.8194992
+  },
+  {
+    "id": "singapore-thitsarparami",
+    "name": "Thitsarparami",
+    "url": "https://edge.mixlr.com/channel/nmtev",
+    "genre": "Music",
+    "city": "Singapore",
+    "country": "Singapore",
+    "lat": 1.357107,
+    "lng": 103.8194992
+  },
+  {
+    "id": "singapore-onine-93",
+    "name": "O'Nine 93",
+    "url": "https://ssg.streamingmurah.com:8086/stream",
+    "genre": "Music",
+    "city": "Singapore",
+    "country": "Singapore",
+    "lat": 1.357107,
+    "lng": 103.8194992
+  },
+  {
+    "id": "singapore-ufm1003",
+    "name": "UFM1003",
+    "url": "https://22243.live.streamtheworld.com:443/UFM_1003AAC.aac",
+    "genre": "Music",
+    "city": "Singapore",
+    "country": "Singapore",
+    "lat": 1.357107,
+    "lng": 103.8194992
+  },
+  {
+    "id": "singapore-kiss-92-fm",
+    "name": "Kiss 92 FM",
+    "url": "https://22283.live.streamtheworld.com:443/KISS_92AAC.aac",
+    "genre": "Music",
+    "city": "Singapore",
+    "country": "Singapore",
+    "lat": 1.357107,
+    "lng": 103.8194992
+  },
+  {
+    "id": "singapore-power-98-love-songs",
+    "name": "Power 98 Love Songs",
+    "url": "https://22283.live.streamtheworld.com:443/POWER98_LOVESONGS_SC",
+    "genre": "Music",
+    "city": "Singapore",
+    "country": "Singapore",
+    "lat": 1.357107,
+    "lng": 103.8194992
+  },
+  {
+    "id": "singapore-963-好fm",
+    "name": "96.3 好FM",
+    "url": "https://22283.live.streamtheworld.com:443/HAO_963AAC.aac",
+    "genre": "Music",
+    "city": "Singapore",
+    "country": "Singapore",
+    "lat": 1.357107,
+    "lng": 103.8194992
+  },
+  {
+    "id": "singapore-one-fm-913",
+    "name": "One FM 91.3",
+    "url": "https://22283.live.streamtheworld.com:443/ONE_FM_913AAC.aac",
+    "genre": "Music",
+    "city": "Singapore",
+    "country": "Singapore",
+    "lat": 1.357107,
+    "lng": 103.8194992
+  },
+  {
+    "id": "singapore-class-95-950-fm",
+    "name": "Class 95 95.0 FM",
+    "url": "https://28453.live.streamtheworld.com:443/CLASS95_PREM.aac",
+    "genre": "Music",
+    "city": "Singapore",
+    "country": "Singapore",
+    "lat": 1.357107,
+    "lng": 103.8194992
+  },
+  {
+    "id": "singapore-883-jia-fm",
+    "name": "88.3 Jia FM",
+    "url": "https://22283.live.streamtheworld.com:443/883JIA.mp3",
+    "genre": "Music",
+    "city": "Singapore",
+    "country": "Singapore",
+    "lat": 1.357107,
+    "lng": 103.8194992
+  },
+  {
+    "id": "singapore-love-972",
+    "name": "Love 972",
+    "url": "https://22403.live.streamtheworld.com:443/LOVE972FM.mp3?dist=radiogarden",
+    "genre": "Music",
+    "city": "Singapore",
+    "country": "Singapore",
+    "lat": 1.357107,
+    "lng": 103.8194992
+  },
+  {
+    "id": "singapore-gold-905",
+    "name": "Gold 905",
+    "url": "https://28393.live.streamtheworld.com:443/GOLD905_PREM.aac",
+    "genre": "Music",
+    "city": "Singapore",
+    "country": "Singapore",
+    "lat": 1.357107,
+    "lng": 103.8194992
+  },
+  {
+    "id": "singapore-warna-942-fm",
+    "name": "Warna 94.2 FM",
+    "url": "https://22903.live.streamtheworld.com:443/WARNA942FM.mp3?dist=radiogarden",
+    "genre": "Music",
+    "city": "Singapore",
+    "country": "Singapore",
+    "lat": 1.357107,
+    "lng": 103.8194992
+  },
+  {
+    "id": "singapore-oli-968",
+    "name": "Oli 968",
+    "url": "https://22393.live.streamtheworld.com:443/OLI968FM_PREM.aac",
+    "genre": "Music",
+    "city": "Singapore",
+    "country": "Singapore",
+    "lat": 1.357107,
+    "lng": 103.8194992
+  },
+  {
+    "id": "singapore-bisme-islamic-radio",
+    "name": "Bisme Islamic Radio",
+    "url": "https://n30a-eu.rcs.revma.com/pcr8x50uty8uv?rj-ttl=5&rj-tok=AAABm_nbmXUAWRp0nnBW9rtsTw",
+    "genre": "Music",
+    "city": "Singapore",
+    "country": "Singapore",
+    "lat": 1.357107,
+    "lng": 103.8194992
+  },
+  {
+    "id": "singapore-rri-pro-2-batam-fm-1055",
+    "name": "RRI Pro 2 Batam FM 105.5",
+    "url": "https://stream-node0.rri.co.id/streaming/25/9125/rribatampro2.mp3",
+    "genre": "Music",
+    "city": "Singapore",
+    "country": "Singapore",
+    "lat": 1.357107,
+    "lng": 103.8194992
+  },
+  {
+    "id": "singapore-money-fm-893",
+    "name": "Money FM 89.3",
+    "url": "https://28093.live.streamtheworld.com:443/MONEY_893AAC.aac",
+    "genre": "Music",
+    "city": "Singapore",
+    "country": "Singapore",
+    "lat": 1.357107,
+    "lng": 103.8194992
+  },
+  {
+    "id": "singapore-yes-933-fm",
+    "name": "Yes 93.3 FM",
+    "url": "https://28323.live.streamtheworld.com:443/YES933.mp3?dist=radiogarden",
+    "genre": "Music",
+    "city": "Singapore",
+    "country": "Singapore",
+    "lat": 1.357107,
+    "lng": 103.8194992
+  },
+  {
+    "id": "singapore-naga-fm",
+    "name": "Naga FM",
+    "url": "https://live.nagafm.in:1065/stream",
+    "genre": "Music",
+    "city": "Singapore",
+    "country": "Singapore",
+    "lat": 1.357107,
+    "lng": 103.8194992
+  },
+  {
+    "id": "singapore-axr-singapore",
+    "name": "AXR Singapore",
+    "url": "https://22273.live.streamtheworld.com:443/AXR_SINGAPOREAAC.aac",
+    "genre": "Music",
+    "city": "Singapore",
+    "country": "Singapore",
+    "lat": 1.357107,
+    "lng": 103.8194992
+  },
+  {
+    "id": "singapore-capital-fm-958",
+    "name": "Capital FM 95.8",
+    "url": "https://28373.live.streamtheworld.com:443/CAPITAL958FMAAC.aac",
+    "genre": "Music",
+    "city": "Singapore",
+    "country": "Singapore",
+    "lat": 1.357107,
+    "lng": 103.8194992
+  },
+  {
+    "id": "singapore-ria-897-fm",
+    "name": "Ria 89.7 FM",
+    "url": "https://28453.live.streamtheworld.com:443/RIA897FM_PREM.aac",
+    "genre": "Music",
+    "city": "Singapore",
+    "country": "Singapore",
+    "lat": 1.357107,
+    "lng": 103.8194992
+  },
+  {
+    "id": "singapore-cna938",
+    "name": "CNA938",
+    "url": "https://28373.live.streamtheworld.com:443/938NOW_PREM.aac?dist=radiogarden",
+    "genre": "Music",
+    "city": "Singapore",
+    "country": "Singapore",
+    "lat": 1.357107,
+    "lng": 103.8194992
+  },
+  {
+    "id": "singapore-987",
+    "name": "987",
+    "url": "https://22893.live.streamtheworld.com:443/987FM.mp3?dist=radiogarden",
+    "genre": "Music",
+    "city": "Singapore",
+    "country": "Singapore",
+    "lat": 1.357107,
+    "lng": 103.8194992
+  },
+  {
+    "id": "singapore-symphony-924",
+    "name": "Symphony 924",
+    "url": "https://22903.live.streamtheworld.com:443/SYMPHONY924_PREM.aac",
+    "genre": "Music",
+    "city": "Singapore",
+    "country": "Singapore",
+    "lat": 1.357107,
+    "lng": 103.8194992
+  },
+  {
+    "id": "singapore-radio-chutney",
+    "name": "Radio Chutney",
+    "url": "https://streamer.radio.co/sf30c61bda/listen",
+    "genre": "Music",
+    "city": "Singapore",
+    "country": "Singapore",
+    "lat": 1.357107,
+    "lng": 103.8194992
+  }
+]

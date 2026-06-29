@@ -1,0 +1,272 @@
+[
+    {
+        "name": "Naxçıvan Radio FM 104.1",
+        "city": "Yerevan",
+        "country": "Armenia",
+        "url": "http://37.59.40.90:12782/;stream.mp3"
+    },
+    {
+        "name": "Radio XFM",
+        "city": "Yerevan",
+        "country": "Armenia",
+        "url": "http://eu.stream4cast.com:8050/stream"
+    },
+    {
+        "name": "Radio Marshall FM 103.5",
+        "city": "Yerevan",
+        "country": "Armenia",
+        "url": "http://eu.stream4cast.com:8030/;stream.mp3"
+    },
+    {
+        "name": "Kepez FM",
+        "city": "Yerevan",
+        "country": "Armenia",
+        "url": "http://85.132.78.122:3344/now"
+    },
+    {
+        "name": "Lratvakan FM 106.5",
+        "city": "Yerevan",
+        "country": "Armenia",
+        "url": "http://212.34.233.78:8000/live"
+    },
+    {
+        "name": "Radio Aurora FM 100.7",
+        "city": "Yerevan",
+        "country": "Armenia",
+        "url": "http://am.radioaurora.am:8010/al.mp3"
+    },
+    {
+        "name": "Radio Dzveli Kalaki FM 107.9",
+        "city": "Gyumri",
+        "country": "Armenia",
+        "url": "http://iis.ge:8000/radiodk.mp3"
+    },
+    {
+        "name": "Radio SANDA",
+        "city": "Yerevan",
+        "country": "Armenia",
+        "url": "http://212.72.151.218:8800/live"
+    },
+    {
+        "name": "Radio Marneuli FM 96.9",
+        "city": "Yerevan",
+        "country": "Armenia",
+        "url": "http://stream.it-solutions.ge:8000/mp3-radiomarneulifm"
+    },
+    {
+        "name": "Lav Radio",
+        "city": "Yerevan",
+        "country": "Armenia",
+        "url": "https://eu.stream4cast.com/proxy/lavradio/stream"
+    },
+    {
+        "name": "MFM Music Radio",
+        "city": "Public Radio of Armenia",
+        "country": "Yerevan, Armenia",
+        "url": "https://eu.stream4cast.com/proxy/mfmradio/stream"
+    },
+    {
+        "name": "Radio Energy",
+        "city": "Yerevan",
+        "country": "Armenia",
+        "url": "https://eu.stream4cast.com/proxy/energyfm/stream"
+    },
+    {
+        "name": "Lav Radio Mix",
+        "city": "Yerevan",
+        "country": "Armenia",
+        "url": "https://eu.stream4cast.com/proxy/lavradiomix/stream"
+    },
+    {
+        "name": "Radio Mariam",
+        "city": "Yerevan",
+        "country": "Armenia",
+        "url": "https://live.radiomariam.am/RadioMariam"
+    },
+    {
+        "name": "Radio Vem",
+        "city": "Yerevan",
+        "country": "Armenia",
+        "url": "https://eu1.stream4cast.com/proxy/vemradio/stream"
+    },
+    {
+        "name": "Public Radio of Armenia",
+        "city": "Yerevan",
+        "country": "Armenia",
+        "url": "https://eu1.stream4cast.com/proxy/publicra/stream"
+    },
+    {
+        "name": "Trialeti FM 104.9",
+        "city": "Yerevan",
+        "country": "Armenia",
+        "url": "https://s39.myradiostream.com/:10898/;listen.mp3"
+    },
+    {
+        "name": "La U FM",
+        "city": "Armenia, Quindio",
+        "country": "Colombia",
+        "url": "https://c11.radioboss.fm:18054/stream"
+    },
+    {
+        "name": "Armgospelradio",
+        "city": "Yerevan",
+        "country": "Armenia",
+        "url": "https://s8.myradiostream.com:15554/listen.mp3?nocache=1769416399"
+    },
+    {
+        "name": "Intermedia FM",
+        "city": "Armenia, Quindio",
+        "country": "Colombia",
+        "url": "https://server1.intermediacolombia.com:8044/stream"
+    },
+    {
+        "name": "Bambú Estéreo",
+        "city": "Armenia, Quindio",
+        "country": "Colombia",
+        "url": "https://virtual3.emisorasvirtuales.com:8130/live"
+    },
+    {
+        "name": "Ulloa FM 104.1",
+        "city": "Armenia, Quindio",
+        "country": "Colombia",
+        "url": "http://radio40.virtualtronics.com:8400/stream"
+    },
+    {
+        "name": "Radio Azalia",
+        "city": "Radio Azalia",
+        "country": "Yerevan, Armenia",
+        "url": "https://stream-175.zeno.fm/s865660v7hhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzODY1NjYwdjdoaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoidGQ2SzVkcUdRNG14ZkstN3BOb3pWUSIsImlhdCI6MTc2OTQxNjQwMCwiZXhwIjoxNzY5NDE2NDYwfQ.GRZzNr4_1r8pjAUu1UzFu9lWrosaqz73QNBrv2A0fdo"
+    },
+    {
+        "name": "MASMUSICA.FM",
+        "city": "Armenia, Quindio",
+        "country": "Colombia",
+        "url": "https://server2.ejeserver.com:8720/live"
+    },
+    {
+        "name": "Transmisora Quindio 720am",
+        "city": "Armenia, Quindio",
+        "country": "Colombia",
+        "url": "https://server2.ejeserver.com:8060/stream"
+    },
+    {
+        "name": "La Super Estación FM 104.1",
+        "city": "Armenia, Quindio",
+        "country": "Colombia",
+        "url": "https://server1.intermediacolombia.com:7004/stream"
+    },
+    {
+        "name": "Celestial Stereo",
+        "city": "Armenia, Quindio",
+        "country": "Colombia",
+        "url": "https://stream2.305stream.com/proxy/client059?mp=/stream"
+    },
+    {
+        "name": "Alcalá FM Stereo 103.4",
+        "city": "Armenia, Quindio",
+        "country": "Colombia",
+        "url": "https://stream-178.zeno.fm/0s3adxakxy8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwczNhZHhha3h5OHV2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoialRCeGhaQjFRaHVCS1NaQXpNQjJPZyIsImlhdCI6MTc2OTQxNjQwMSwiZXhwIjoxNzY5NDE2NDYxfQ.ywT4LWw3sashqEPpM3Ju_-XB4sZSdRkrLzF3SymqEYY"
+    },
+    {
+        "name": "Quimbaya Estéreo",
+        "city": "Armenia, Quindio",
+        "country": "Colombia",
+        "url": "https://play14.tikast.com:22037/stream/"
+    },
+    {
+        "name": "La Jefa FM 91.3",
+        "city": "Armenia, Quindio",
+        "country": "Colombia",
+        "url": "https://stream-157.zeno.fm/fg3zq819na0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJmZzN6cTgxOW5hMHV2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoibUZRY3hWYVBSOXlFSzRueXRjeWpmdyIsImlhdCI6MTc2OTQxNjQwMiwiZXhwIjoxNzY5NDE2NDYyfQ.pO_Q5YtD9pIC_slX0kJgdLdRXZT0rcLOeZKtFUfUUrE"
+    },
+    {
+        "name": "La Mega FM 96.7",
+        "city": "Armenia, Quindio",
+        "country": "Colombia",
+        "url": "https://us-b4-p-e-mg17-audio.cdn.mdstrm.com/live-audio-aw/633d83bf3b07310855f79c40?aid=6271a4d5d206c3172f3c9a9c&pid=2Mmeec4nhmnkh6NE0Ym63dmYA0z7pvR3&sid=2XTrZTOxKdPC7wNyMOLVPr8nw8tVvyva&uid=CJLMRMHTq6bwvMEVSEAU35JaoLMTmx1K&es=us-b4-p-e-mg17-audio.cdn.mdstrm.com&ote=1769502801188&ot=CuPErnmOUftFg7zvVaYYHQ&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=rcn-mundo-go-app-web&liveId=633d83bf3b07310855f79c40&referer=https%3A%2F%2Fradio.garden%2F&propertyName=rcn-mundo-go-app-web&listenerId=CJLMRMHTq6bwvMEVSEAU35JaoLMTmx1K"
+    },
+    {
+        "name": "Tropicana Armenia",
+        "city": "Armenia, Quindio",
+        "country": "Colombia",
+        "url": "https://24283.live.streamtheworld.com:443/TR_ARMENIAAAC.aac"
+    },
+    {
+        "name": "Olímpica Stereo FM 96.1",
+        "city": "Armenia, Quindio",
+        "country": "Colombia",
+        "url": "https://13693.live.streamtheworld.com:443/OLP_ARMENIAAAC.aac"
+    },
+    {
+        "name": "Bésame Armenia",
+        "city": "Armenia, Quindio",
+        "country": "Colombia",
+        "url": "https://27393.live.streamtheworld.com:443/BESAME_ARMENIA_SC"
+    },
+    {
+        "name": "Kiss FM 88.3",
+        "city": "Yerevan",
+        "country": "Armenia",
+        "url": "https://am.radioaurora.am/kiss"
+    },
+    {
+        "name": "Radio MOVA",
+        "city": "Armenia, Antioquia",
+        "country": "Colombia",
+        "url": "https://play10.tikast.com/proxy/redemisorasescolares?mp=/stream"
+    },
+    {
+        "name": "Armenia Stereo 89.4 FM",
+        "city": "Armenia, Antioquia",
+        "country": "Colombia",
+        "url": "https://stream-159.zeno.fm/wz4hzqtkh5zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ3ejRoenF0a2g1enV2IiwiaG9zdCI6InN0cmVhbS0xNTkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiTjNqN3hJNVRUazJESmVsOTR5TUdKdyIsImlhdCI6MTc2OTQxNjQwNCwiZXhwIjoxNzY5NDE2NDY0fQ.QD1ZOFC56ln18d8iP0H3NB-3JMuG7C_y2dbbEFGI2Uc"
+    },
+    {
+        "name": "La Voz de Amagá",
+        "city": "Armenia, Antioquia",
+        "country": "Colombia",
+        "url": "https://stream-156.zeno.fm/g9sc4zskh5zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJnOXNjNHpza2g1enV2IiwiaG9zdCI6InN0cmVhbS0xNTYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiSmVLSU02NkNUYUtxVmVDaVJxcHNzUSIsImlhdCI6MTc2OTQxNjQwNCwiZXhwIjoxNzY5NDE2NDY0fQ.DoAPtFtBm--pstDj3zgqgkaVjO33piq-rViCTat5dNo"
+    },
+    {
+        "name": "Guaca Stereo 95.4 FM",
+        "city": "Armenia, Antioquia",
+        "country": "Colombia",
+        "url": "https://server1.intermediacolombia.com:8034/stream"
+    },
+    {
+        "name": "Cerros Estéreo FM 107.4",
+        "city": "Armenia, Antioquia",
+        "country": "Colombia",
+        "url": "https://stream-158.zeno.fm/ggufr7sds2zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJnZ3VmcjdzZHMyenV2IiwiaG9zdCI6InN0cmVhbS0xNTguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiMFhtaHY0VGRUNnU1bmlVUUZFUm9MdyIsImlhdCI6MTc2OTQxNjQwNSwiZXhwIjoxNzY5NDE2NDY1fQ.HOZDzY-mX57oDxCDTmr_Q-BskeIDRL_yeCUyeItMpKE"
+    },
+    {
+        "name": "W Radio FM 99.9",
+        "city": "Armenia, Quindio",
+        "country": "Colombia",
+        "url": "https://19253.live.streamtheworld.com:443/WRADIOAAC.aac"
+    },
+    {
+        "name": "Caracol Radio",
+        "city": "Armenia, Quindio",
+        "country": "Colombia",
+        "url": "https://26573.live.streamtheworld.com:443/CARACOL_RADIOAAC.aac"
+    },
+    {
+        "name": "Olímpica Stereo",
+        "city": "Armenia, Quindio",
+        "country": "Colombia",
+        "url": "https://27343.live.streamtheworld.com:443/OLP_MEDELLINAAC.aac"
+    },
+    {
+        "name": "Candela Estéreo",
+        "city": "Armenia, Quindio",
+        "country": "Colombia",
+        "url": "https://26493.live.streamtheworld.com:443/CANDELAESTEREO.mp3?dist=RadioGarden"
+    },
+    {
+        "name": "Radio Vida En Familia",
+        "city": "Armenia, Quindio",
+        "country": "Colombia",
+        "url": "https://servidor16.brlogic.com:7238/live"
+    }
+]

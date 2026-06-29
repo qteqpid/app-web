@@ -1,0 +1,164 @@
+[
+    {
+        "name": "Luxembourg Global Radio",
+        "city": "Luxembourg City",
+        "country": "Luxembourg",
+        "url": "https://radio.globalradio.lu:8000/radio.mp3"
+    },
+    {
+        "name": "L'essentiel Radio",
+        "city": "Luxembourg City",
+        "country": "Luxembourg",
+        "url": "https://lessentielradio.ice.infomaniak.ch/lessentielradio-128.mp3"
+    },
+    {
+        "name": "Radio Puls Luxembourg",
+        "city": "Luxembourg City",
+        "country": "Luxembourg",
+        "url": "https://cmr-hosting.com/8312/stream"
+    },
+    {
+        "name": "Bulldogs-Radio",
+        "city": "Luxembourg City",
+        "country": "Luxembourg",
+        "url": "https://bulldogsradio.radioca.st/stream"
+    },
+    {
+        "name": "Radio Diddeleng asbl",
+        "city": "Luxembourg City",
+        "country": "Luxembourg",
+        "url": "https://radiodudelange.ice.infomaniak.ch/radiodudelange-128.mp3"
+    },
+    {
+        "name": "RTL Radio Lëtzebuerg",
+        "city": "Luxembourg City",
+        "country": "Luxembourg",
+        "url": "http://sc.rtl.lu/rtl"
+    },
+    {
+        "name": "Rádio Larochete",
+        "city": "Luxembourg City",
+        "country": "Luxembourg",
+        "url": "https://stream-177.zeno.fm/4gcku833wwzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0Z2NrdTgzM3d3enV2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiMVE0SGh5X3pRczZ6ZENOUFdCajk5dyIsImlhdCI6MTc2OTQyMDM1MywiZXhwIjoxNzY5NDIwNDEzfQ.0XiyMGg5_GmKaObYgkXb-_NV3ivAnDwX9TPkESu-qMo"
+    },
+    {
+        "name": "RTL LX",
+        "city": "Luxembourg City",
+        "country": "Luxembourg",
+        "url": "https://sc.rtl.lu/rtllx"
+    },
+    {
+        "name": "Free Radio Luxembourg",
+        "city": "Luxembourg City",
+        "country": "Luxembourg",
+        "url": "https://listen.radioking.com/radio/66160/stream/137599"
+    },
+    {
+        "name": "RTL Today Radio",
+        "city": "Luxembourg City",
+        "country": "Luxembourg",
+        "url": "https://sc.rtl.lu/rtltoday"
+    },
+    {
+        "name": "RTL Gold",
+        "city": "Luxembourg City",
+        "country": "Luxembourg",
+        "url": "https://sc.rtl.lu/rtlgold"
+    },
+    {
+        "name": "Radio Jeans Generation",
+        "city": "Luxembourg City",
+        "country": "Luxembourg",
+        "url": "https://listen.radioking.com/radio/301645/stream/348328"
+    },
+    {
+        "name": "EldoRadio FM 100.8",
+        "city": "Luxembourg City",
+        "country": "Luxembourg",
+        "url": "http://sc.bce.lu/eldo"
+    },
+    {
+        "name": "Generation Dance",
+        "city": "Luxembourg City",
+        "country": "Luxembourg",
+        "url": "https://radio.gen.dance/radio/8030/hd"
+    },
+    {
+        "name": "FCE Continuo",
+        "city": "Luxembourg City",
+        "country": "Luxembourg",
+        "url": "https://listen.radioking.com/radio/551009/stream/610262"
+    },
+    {
+        "name": "Radio 100,7",
+        "city": "Luxembourg City",
+        "country": "Luxembourg",
+        "url": "https://100komma7.stream42.radiohost.de/100komma7-100komma7_mp3-320?ref=radio-garden&agend=true&upd-meta&upd-scheme=https&_art=dD0xNzY5NDIwNjU0JmQ9NThhODEzMTg1OTc3MTYwNWQ3N2Q"
+    },
+    {
+        "name": "Nuts Radio",
+        "city": "Clervaux",
+        "country": "Luxembourg",
+        "url": "https://manager8.streamradio.fr:1485/stream"
+    },
+    {
+        "name": "Radio Gutt Laun",
+        "city": "Luxembourg City",
+        "country": "Luxembourg",
+        "url": "https://streams.radio.co/sa631ff66a/listen"
+    },
+    {
+        "name": "RTBF Vivacité Luxembourg",
+        "city": "Clervaux",
+        "country": "Luxembourg",
+        "url": "https://redbeemedia.streamabc.net/redbm-vivalux-mp3-160-3065937?sABC=69773644%230%2375p922pr1rq3nr63r4683s5131rr6q39%23et&aw_0_1st.playerid=rg&amsparams=playerid:rg;skey:1769420356"
+    },
+    {
+        "name": "LORFM",
+        "city": "Luxembourg City",
+        "country": "Luxembourg",
+        "url": "https://lorfm.ice.infomaniak.ch/lorfm-128.mp3"
+    },
+    {
+        "name": "P.o.A PéitengonAir FM 102.2",
+        "city": "Dudelange",
+        "country": "Luxembourg",
+        "url": "http://stream.petangeonair.lu:9000/live"
+    },
+    {
+        "name": "Pep's Radio 96.2 FM",
+        "city": "Clervaux",
+        "country": "Luxembourg",
+        "url": "https://behofm.ice.infomaniak.ch/behofm.aac"
+    },
+    {
+        "name": "Radio C Luxembourg",
+        "city": "Kehlen",
+        "country": "Luxembourg",
+        "url": "https://edge19.streamonkey.net/radioc-live/stream/aacp"
+    },
+    {
+        "name": "Antenne Trier",
+        "city": "Echternach",
+        "country": "Luxembourg",
+        "url": "https://radiogroup.stream31.radiohost.de/antenne-trier_mp3-192?ref=radiogarden&upd-meta&upd-scheme=https&_art=dD0xNzY5NDIwNjU4JmQ9MzlkYWU3MjNlYTAyMjJmOGE4ZGE"
+    },
+    {
+        "name": "Espressivo",
+        "city": "Clervaux",
+        "country": "Luxembourg",
+        "url": "https://espressivo.stream.laut.fm/espressivo?t302=2026-01-26_09-39-13&uuid=dbb4520c-ae43-49bf-a4ca-591505ffaedd"
+    },
+    {
+        "name": "Impact FM",
+        "city": "Clervaux",
+        "country": "Luxembourg",
+        "url": "https://impactfm2.ice.infomaniak.ch/impactfmbe-64.aac"
+    },
+    {
+        "name": "Panachee",
+        "city": "Clervaux",
+        "country": "Luxembourg",
+        "url": "https://panachee.stream.laut.fm/panachee?t302=2026-01-26_09-39-14&uuid=b460e5f8-fec4-49a2-8448-3829d5422a7a"
+    }
+]

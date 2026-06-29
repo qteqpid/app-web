@@ -1,0 +1,332 @@
+[
+  {
+    "id": "sudan-895-speak-fm",
+    "name": "89.5 Speak FM",
+    "url": "https://www.radiocomnetu.org/speakfm-stream",
+    "genre": "Music",
+    "city": "Juba",
+    "country": "South Sudan",
+    "lat": 4.8459246,
+    "lng": 31.5959173
+  },
+  {
+    "id": "sudan-miraya-fm-1011",
+    "name": "Miraya FM 101.1",
+    "url": "https://s3.myradiostream.com:15919/listen.mp3",
+    "genre": "Music",
+    "city": "Omdurman",
+    "country": "Sudan",
+    "lat": 15.6131174,
+    "lng": 32.3958518
+  },
+  {
+    "id": "sudan-radio-sunna",
+    "name": "Radio Sunna",
+    "url": "http://andromeda.shoutca.st:8189/stream",
+    "genre": "Music",
+    "city": "Omdurman",
+    "country": "Sudan",
+    "lat": 15.6131174,
+    "lng": 32.3958518
+  },
+  {
+    "id": "sudan-alif-alif-fm",
+    "name": "Alif Alif FM",
+    "url": "https://alifalifjobs.com/radio/8000/AlifAlifLive.mp3",
+    "genre": "Music",
+    "city": "Omdurman",
+    "country": "Sudan",
+    "lat": 15.6131174,
+    "lng": 32.3958518
+  },
+  {
+    "id": "sudan-aywa-fm",
+    "name": "Aywa FM",
+    "url": "https://cast4.asurahosting.com/proxy/aywafm/stream",
+    "genre": "Music",
+    "city": "Omdurman",
+    "country": "Sudan",
+    "lat": 15.6131174,
+    "lng": 32.3958518
+  },
+  {
+    "id": "sudan-eye-radio-986-fm",
+    "name": "Eye Radio 98.6 FM",
+    "url": "https://media.streambrothers.com:8000/stream",
+    "genre": "Music",
+    "city": "Juba",
+    "country": "South Sudan",
+    "lat": 4.8459246,
+    "lng": 31.5959173
+  },
+  {
+    "id": "sudan-sudan-hope-radio",
+    "name": "Sudan Hope Radio",
+    "url": "https://a1.asurahosting.com/listen/hope_radio_/radio.mp3",
+    "genre": "Music",
+    "city": "Omdurman",
+    "country": "Sudan",
+    "lat": 15.6131174,
+    "lng": 32.3958518
+  },
+  {
+    "id": "sudan-radio-pacis-fm-945",
+    "name": "Radio Pacis FM 94.5",
+    "url": "https://radiopacisuganda2-radiopacisugand2.radioca.st/stream",
+    "genre": "Music",
+    "city": "Juba",
+    "country": "South Sudan",
+    "lat": 4.8459246,
+    "lng": 31.5959173
+  },
+  {
+    "id": "sudan-o-radio--luo",
+    "name": "O Radio - Luo",
+    "url": "http://n0d.radiojar.com/xwy6byka3f3vv?rj-ttl=5&rj-tok=AAABm_niAQEATY2ehox6oVF-AA",
+    "genre": "Music",
+    "city": "Juba",
+    "country": "South Sudan",
+    "lat": 4.8459246,
+    "lng": 31.5959173
+  },
+  {
+    "id": "sudan-gospel-radio-east-africa",
+    "name": "Gospel Radio East Africa",
+    "url": "https://c32.radioboss.fm:8451/stream",
+    "genre": "Music",
+    "city": "Juba",
+    "country": "South Sudan",
+    "lat": 4.8459246,
+    "lng": 31.5959173
+  },
+  {
+    "id": "sudan-اذاعة-كوش-kosh-radio",
+    "name": "اذاعة كوش Kosh Radio",
+    "url": "https://stream-177.zeno.fm/72w4utpg2c9uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI3Mnc0dXRwZzJjOXV2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiVVhNMUctemJSVXFOWFZXY0Y1OUZOdyIsImlhdCI6MTc2OTQyMzI5NiwiZXhwIjoxNzY5NDIzMzU2fQ.D22YcwqvI1dz6wv7L68zkAszrT0AFyWEi42H0XsE454",
+    "genre": "Music",
+    "city": "Omdurman",
+    "country": "Sudan",
+    "lat": 15.6131174,
+    "lng": 32.3958518
+  },
+  {
+    "id": "sudan-kc10-879-fm",
+    "name": "KC10 87.9 FM",
+    "url": "http://kc10fm.com:8000/stream",
+    "genre": "Music",
+    "city": "Subang",
+    "country": "Indonesia",
+    "lat": -6.4983888,
+    "lng": 107.7346278
+  },
+  {
+    "id": "sudan-aditya-fm-915",
+    "name": "Aditya FM 91.5",
+    "url": "https://ssg.streamingmurah.com:8098/index.html?sid=1",
+    "genre": "Music",
+    "city": "Subang",
+    "country": "Indonesia",
+    "lat": -6.4983888,
+    "lng": 107.7346278
+  },
+  {
+    "id": "sudan-radio-muara-dss-subang-1021-fm",
+    "name": "Radio Muara DSS Subang 102.1 FM",
+    "url": "https://ssg.streamingmurah.com:8668/stream",
+    "genre": "Music",
+    "city": "Subang",
+    "country": "Indonesia",
+    "lat": -6.4983888,
+    "lng": 107.7346278
+  },
+  {
+    "id": "sudan-amhara-fm-bahir-dar-969",
+    "name": "Amhara FM Bahir Dar 96.9",
+    "url": "https://stream-176.zeno.fm/cxf4zy74em0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjeGY0enk3NGVtMHV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiNXlRSzFlbmxSZzIzZVN2YVotc0hDZyIsImlhdCI6MTc2OTQyMzI5NiwiZXhwIjoxNzY5NDIzMzU2fQ.wsAm8aFTG8Vr5BKT39MJOaU9sAGSj9n-lJtBLMmGw74",
+    "genre": "Music",
+    "city": "Omdurman",
+    "country": "Sudan",
+    "lat": 15.6131174,
+    "lng": 32.3958518
+  },
+  {
+    "id": "sudan-ebc-1047-fm",
+    "name": "EBC 104.7 FM",
+    "url": "https://stream-151.zeno.fm/2xguamap7yzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIyeGd1YW1hcDd5enV2IiwiaG9zdCI6InN0cmVhbS0xNTEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiREJ1UW9HNnpSUy15MzExakxqWXhBZyIsImlhdCI6MTc2OTQyMzI5NiwiZXhwIjoxNzY5NDIzMzU2fQ.O6gM6PLV9G331NlLh1nPpNdk-QBqHduWLTY_4d87FdI",
+    "genre": "Music",
+    "city": "Omdurman",
+    "country": "Sudan",
+    "lat": 15.6131174,
+    "lng": 32.3958518
+  },
+  {
+    "id": "sudan-tk-radio",
+    "name": "TK Radio",
+    "url": "https://stream-177.zeno.fm/z7vcqhps7whvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ6N3ZjcWhwczd3aHZ2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoibVdTRkFGZ19TMU94MmIzVDc4UlNFQSIsImlhdCI6MTc2OTQyMzI5NiwiZXhwIjoxNzY5NDIzMzU2fQ.g1RjCFc7WvsQp9ds1K_IWlwBN1Qx69eQ2miSEZeqo7A",
+    "genre": "Music",
+    "city": "Juba",
+    "country": "South Sudan",
+    "lat": 4.8459246,
+    "lng": 31.5959173
+  },
+  {
+    "id": "sudan-۞-إذاعة-المديح-۞",
+    "name": "۞ إذاعة المديح ۞",
+    "url": "https://tijaniyyah.asuscomm.com:8000/stream/3/",
+    "genre": "Music",
+    "city": "Omdurman",
+    "country": "Sudan",
+    "lat": 15.6131174,
+    "lng": 32.3958518
+  },
+  {
+    "id": "sudan-۩-الزاوية-التجانية-۩",
+    "name": "۩ الزاوية التجانية ۩",
+    "url": "https://tijaniyyah.asuscomm.com:8000/stream/1/",
+    "genre": "Music",
+    "city": "Omdurman",
+    "country": "Sudan",
+    "lat": 15.6131174,
+    "lng": 32.3958518
+  },
+  {
+    "id": "sudan-۩-السيادة-۩",
+    "name": "۩ السيادة ۩",
+    "url": "https://tijaniyyah.asuscomm.com:8000/stream/6/",
+    "genre": "Music",
+    "city": "Omdurman",
+    "country": "Sudan",
+    "lat": 15.6131174,
+    "lng": 32.3958518
+  },
+  {
+    "id": "sudan-❦-أهل-الصفا-❦-clubhouse",
+    "name": "❦ أهل الصفا ❦ Clubhouse",
+    "url": "https://tijaniyyah.asuscomm.com:8000/stream/4/",
+    "genre": "Music",
+    "city": "Omdurman",
+    "country": "Sudan",
+    "lat": 15.6131174,
+    "lng": 32.3958518
+  },
+  {
+    "id": "sudan-۞-إذاعة-القرآن-۞",
+    "name": "۞ إذاعة القرآن ۞",
+    "url": "https://tijaniyyah.asuscomm.com:8000/stream/2/",
+    "genre": "Music",
+    "city": "Omdurman",
+    "country": "Sudan",
+    "lat": 15.6131174,
+    "lng": 32.3958518
+  },
+  {
+    "id": "sudan-pro-9310-fm-purwakarta",
+    "name": "PRO 93.10 FM Purwakarta",
+    "url": "https://ig.idstreamer.com:8020/stream",
+    "genre": "Music",
+    "city": "Subang",
+    "country": "Indonesia",
+    "lat": -6.4983888,
+    "lng": 107.7346278
+  },
+  {
+    "id": "sudan-radio-gentara",
+    "name": "Radio Gentara",
+    "url": "https://stream-n1.gntr.net/listen/radio_gentara/gentara.mp3",
+    "genre": "Music",
+    "city": "Subang",
+    "country": "Indonesia",
+    "lat": -6.4983888,
+    "lng": 107.7346278
+  },
+  {
+    "id": "sudan-klcbs-standard",
+    "name": "KLCBS Standard",
+    "url": "https://streaming.klcbs.id/listen/standard/klcbs-standard",
+    "genre": "Music",
+    "city": "Subang",
+    "country": "Indonesia",
+    "lat": -6.4983888,
+    "lng": 107.7346278
+  },
+  {
+    "id": "sudan-rri-pro-2-cirebon-fm-975",
+    "name": "RRI Pro 2 Cirebon FM 97.5",
+    "url": "https://stream-node2.rri.co.id/streaming/17/9317/rricirebonpro2.mp3",
+    "genre": "Music",
+    "city": "Subang",
+    "country": "Indonesia",
+    "lat": -6.4983888,
+    "lng": 107.7346278
+  },
+  {
+    "id": "sudan-prambors-fm-1022",
+    "name": "Prambors FM 102.2",
+    "url": "https://s2.cloudmu.id/listen/prambors/radio.aac",
+    "genre": "Music",
+    "city": "Subang",
+    "country": "Indonesia",
+    "lat": -6.4983888,
+    "lng": 107.7346278
+  },
+  {
+    "id": "sudan-delta-fm-991",
+    "name": "Delta FM 99.1",
+    "url": "https://s1.cloudmu.id/listen/delta_fm/stream",
+    "genre": "Music",
+    "city": "Subang",
+    "country": "Indonesia",
+    "lat": -6.4983888,
+    "lng": 107.7346278
+  },
+  {
+    "id": "sudan-malakal-press-radio",
+    "name": "Malakal Press Radio",
+    "url": "https://s20.reliastream.com/stream/8124",
+    "genre": "Music",
+    "city": "Juba",
+    "country": "South Sudan",
+    "lat": 4.8459246,
+    "lng": 31.5959173
+  },
+  {
+    "id": "sudan-suara-surabaya-fm-100",
+    "name": "Suara Surabaya FM 100",
+    "url": "https://c5.siar.us/proxy/ssfm/stream",
+    "genre": "Music",
+    "city": "Subang",
+    "country": "Indonesia",
+    "lat": -6.4983888,
+    "lng": 107.7346278
+  },
+  {
+    "id": "sudan-radio-paidha-fm-878",
+    "name": "Radio Paidha FM 87.8",
+    "url": "https://stream-163.zeno.fm/cxhyxmawdzsvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjeGh5eG1hd2R6c3Z2IiwiaG9zdCI6InN0cmVhbS0xNjMuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiSFU0ckFKVFhTQmlCUHVCcmZvdDJkZyIsImlhdCI6MTc2OTQyMzI5NywiZXhwIjoxNzY5NDIzMzU3fQ.pX12utt6hGML176lLo6cVYHgoVoNRcUD6PUvK3QkNy8",
+    "genre": "Music",
+    "city": "Juba",
+    "country": "South Sudan",
+    "lat": 4.8459246,
+    "lng": 31.5959173
+  },
+  {
+    "id": "sudan-suara-masjid-mekarindah",
+    "name": "Suara Masjid Mekarindah",
+    "url": "https://stream-152.zeno.fm/gkvbmtw4kkeuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJna3ZibXR3NGtrZXV2IiwiaG9zdCI6InN0cmVhbS0xNTIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiSTJUcHlIV1lSY3FYa3hSN3dMOEpfUSIsImlhdCI6MTc2OTQyMzI5OSwiZXhwIjoxNzY5NDIzMzU5fQ.LL7gU-jEpzBKOYSgda0REnzy7ubR-23_UQHURC0hO6c",
+    "genre": "Music",
+    "city": "Subang",
+    "country": "Indonesia",
+    "lat": -6.4983888,
+    "lng": 107.7346278
+  },
+  {
+    "id": "sudan-elshinta-fm-90",
+    "name": "Elshinta FM 90",
+    "url": "https://stream-ssl.arenastreaming.com:8000/jakarta",
+    "genre": "Music",
+    "city": "Subang",
+    "country": "Indonesia",
+    "lat": -6.4983888,
+    "lng": 107.7346278
+  }
+]

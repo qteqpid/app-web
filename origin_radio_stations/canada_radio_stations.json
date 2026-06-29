@@ -1,0 +1,2312 @@
+[
+  {
+    "id": "canada-ckpv-radio-fm-999",
+    "name": "CKPV Radio FM 99.9",
+    "url": "https://audio-edge-jfbmv.sin.d.radiomast.io/18adbc3f-ec05-4d49-ad12-ed34493e69d4",
+    "genre": "Music",
+    "city": "Toronto",
+    "country": "Canada",
+    "lat": 43.6534817,
+    "lng": -79.3839347
+  },
+  {
+    "id": "canada-whistle-fm-1029",
+    "name": "Whistle FM 102.9",
+    "url": "https://audio-edge-fvq45.ams.d.radiomast.io/5fcb1172-3cfc-48e2-92d8-8ff86401c1bd",
+    "genre": "Music",
+    "city": "Toronto",
+    "country": "Canada",
+    "lat": 43.6534817,
+    "lng": -79.3839347
+  },
+  {
+    "id": "canada-cjlv-laval-1570-am",
+    "name": "CJLV Laval 1570 AM",
+    "url": "http://centova.radioservers.biz:8264/stream",
+    "genre": "Music",
+    "city": "Montréal",
+    "country": "Canada",
+    "lat": 45.5031824,
+    "lng": -73.5698065
+  },
+  {
+    "id": "canada-birch-street-radio",
+    "name": "Birch Street Radio",
+    "url": "https://jenny.torontocast.com:8172/stream",
+    "genre": "Music",
+    "city": "Montréal",
+    "country": "Canada",
+    "lat": 45.5031824,
+    "lng": -73.5698065
+  },
+  {
+    "id": "canada-radiofreeparkdale",
+    "name": "radiofreeparkdale",
+    "url": "https://us2.internet-radio.com/proxy/radiofreeparkdale?mp=/live",
+    "genre": "Music",
+    "city": "Toronto",
+    "country": "Canada",
+    "lat": 43.6534817,
+    "lng": -79.3839347
+  },
+  {
+    "id": "canada-sawana-radio",
+    "name": "Sawana Radio",
+    "url": "https://usa13.fastcast4u.com/proxy/dhewyjuk?mp=/1",
+    "genre": "Music",
+    "city": "Toronto",
+    "country": "Canada",
+    "lat": 43.6534817,
+    "lng": -79.3839347
+  },
+  {
+    "id": "canada-chfi-fm-981",
+    "name": "CHFI FM 98.1",
+    "url": "https://rogers-hls.leanstream.co/rogers/tor981.stream/icy",
+    "genre": "Music",
+    "city": "Toronto",
+    "country": "Canada",
+    "lat": 43.6534817,
+    "lng": -79.3839347
+  },
+  {
+    "id": "canada-680-news",
+    "name": "680 News",
+    "url": "https://rogers-hls.leanstream.co/rogers/tor680.stream/icy",
+    "genre": "Music",
+    "city": "Toronto",
+    "country": "Canada",
+    "lat": 43.6534817,
+    "lng": -79.3839347
+  },
+  {
+    "id": "canada-kiss-925",
+    "name": "KISS 92.5",
+    "url": "https://rogers-hls.leanstream.co/rogers/tor925.stream/icy",
+    "genre": "Music",
+    "city": "Toronto",
+    "country": "Canada",
+    "lat": 43.6534817,
+    "lng": -79.3839347
+  },
+  {
+    "id": "canada-ckuj-973-fm",
+    "name": "CKUJ 97.3 FM",
+    "url": "https://kuujjuamiut.streamb.live/SB00350",
+    "genre": "Music",
+    "city": "Toronto",
+    "country": "Canada",
+    "lat": 43.6534817,
+    "lng": -79.3839347
+  },
+  {
+    "id": "canada-vallamaiyin-alaikal--waves-of-power",
+    "name": "Vallamaiyin Alaikal - Waves of Power",
+    "url": "https://radio.pixelinmedia.com/vallamai",
+    "genre": "Music",
+    "city": "Toronto",
+    "country": "Canada",
+    "lat": 43.6534817,
+    "lng": -79.3839347
+  },
+  {
+    "id": "canada-classical-fm-963",
+    "name": "Classical FM 96.3",
+    "url": "https://prod-44-211-59-220.amperwave.net/mzmedia-cfmzfmmp3-ibc2?session-id=0040826333078c33c9db3966cba95d45",
+    "genre": "Music",
+    "city": "Toronto",
+    "country": "Canada",
+    "lat": 43.6534817,
+    "lng": -79.3839347
+  },
+  {
+    "id": "canada-met-radio-1280-am--cjtm",
+    "name": "Met Radio 1280 AM - CJTM",
+    "url": "https://ryerson.out.airtime.pro/ryerson_a",
+    "genre": "Music",
+    "city": "Toronto",
+    "country": "Canada",
+    "lat": 43.6534817,
+    "lng": -79.3839347
+  },
+  {
+    "id": "canada-gfan-fm",
+    "name": "GFAN FM",
+    "url": "https://centova71.instainternet.com/proxy/gfanfm?mp=/stream",
+    "genre": "Music",
+    "city": "Montréal",
+    "country": "Canada",
+    "lat": 45.5031824,
+    "lng": -73.5698065
+  },
+  {
+    "id": "canada-7080rocks",
+    "name": "7080rocks",
+    "url": "https://cast1.torontocast.com:1465/stream",
+    "genre": "Music",
+    "city": "Toronto",
+    "country": "Canada",
+    "lat": 43.6534817,
+    "lng": -79.3839347
+  },
+  {
+    "id": "canada-dj-fm",
+    "name": "DJ FM",
+    "url": "https://mux.mtl.djfmradio.com/djfm3",
+    "genre": "Music",
+    "city": "Toronto",
+    "country": "Canada",
+    "lat": 43.6534817,
+    "lng": -79.3839347
+  },
+  {
+    "id": "canada-cjmr-1320",
+    "name": "CJMR 1320",
+    "url": "https://18863.live.streamtheworld.com:443/CJMRAMAAC.aac",
+    "genre": "Music",
+    "city": "Toronto",
+    "country": "Canada",
+    "lat": 43.6534817,
+    "lng": -79.3839347
+  },
+  {
+    "id": "canada-cfrb-1010-am-toronto",
+    "name": "CFRB 1010 AM Toronto",
+    "url": "https://22113.live.streamtheworld.com:443/CFRBAMAAC.aac",
+    "genre": "Music",
+    "city": "Toronto",
+    "country": "Canada",
+    "lat": 43.6534817,
+    "lng": -79.3839347
+  },
+  {
+    "id": "canada-cjrs--radio-shalom-1650-am",
+    "name": "CJRS - Radio Shalom 1650 AM",
+    "url": "https://radio9.pro-fhi.net/flux-voijhzjx/stream",
+    "genre": "Music",
+    "city": "Montréal",
+    "country": "Canada",
+    "lat": 45.5031824,
+    "lng": -73.5698065
+  },
+  {
+    "id": "canada-tsn-1050-toronto",
+    "name": "TSN 1050 Toronto",
+    "url": "https://18303.live.streamtheworld.com:443/CHUMAMAAC.aac",
+    "genre": "Music",
+    "city": "Toronto",
+    "country": "Canada",
+    "lat": 43.6534817,
+    "lng": -79.3839347
+  },
+  {
+    "id": "canada-4lobos-konkani-radio-station",
+    "name": "4Lobos Konkani Radio Station",
+    "url": "https://puma.streemlion.com:4465/stream",
+    "genre": "Music",
+    "city": "Toronto",
+    "country": "Canada",
+    "lat": 43.6534817,
+    "lng": -79.3839347
+  },
+  {
+    "id": "canada-sports-919",
+    "name": "Sports 91.9",
+    "url": "https://stream.919sports.ca/cklx.aac",
+    "genre": "Music",
+    "city": "Montréal",
+    "country": "Canada",
+    "lat": 45.5031824,
+    "lng": -73.5698065
+  },
+  {
+    "id": "canada-radio-mieux-être-1570-am",
+    "name": "Radio Mieux-Être 1570 AM",
+    "url": "https://centova.radioservers.biz/proxy/jean/stream",
+    "genre": "Music",
+    "city": "Montréal",
+    "country": "Canada",
+    "lat": 45.5031824,
+    "lng": -73.5698065
+  },
+  {
+    "id": "canada-cjad-am-800",
+    "name": "CJAD AM 800",
+    "url": "https://18493.live.streamtheworld.com:443/CJADAMAAC.aac",
+    "genre": "Music",
+    "city": "Montréal",
+    "country": "Canada",
+    "lat": 45.5031824,
+    "lng": -73.5698065
+  },
+  {
+    "id": "canada-latina-stereo-canada",
+    "name": "Latina Stereo Canada",
+    "url": "https://us1.streamingpulse.com/stream/latinast",
+    "genre": "Music",
+    "city": "Calgary",
+    "country": "Canada",
+    "lat": 51.0456064,
+    "lng": -114.057541
+  },
+  {
+    "id": "canada-wefunk",
+    "name": "WEFUNK",
+    "url": "https://s-00.wefunkradio.com:8443/wefunk64.mp3",
+    "genre": "Music",
+    "city": "Montréal",
+    "country": "Canada",
+    "lat": 45.5031824,
+    "lng": -73.5698065
+  },
+  {
+    "id": "canada-tsn-690",
+    "name": "TSN 690",
+    "url": "https://18063.live.streamtheworld.com:443/CKGMAMAAC.aac",
+    "genre": "Music",
+    "city": "Montréal",
+    "country": "Canada",
+    "lat": 45.5031824,
+    "lng": -73.5698065
+  },
+  {
+    "id": "canada-radio-classique-montreal-995-fm",
+    "name": "Radio Classique Montreal 99.5 FM",
+    "url": "https://listen.radioking.com/radio/228241/stream/271807",
+    "genre": "Music",
+    "city": "Montréal",
+    "country": "Canada",
+    "lat": 45.5031824,
+    "lng": -73.5698065
+  },
+  {
+    "id": "canada-cjsi-889-shine-fm",
+    "name": "CJSI 88.9 Shine FM",
+    "url": "https://shinefm.streamguys1.com/cjsi",
+    "genre": "Music",
+    "city": "Calgary",
+    "country": "Canada",
+    "lat": 51.0456064,
+    "lng": -114.057541
+  },
+  {
+    "id": "canada-cjli-am-700-the-light",
+    "name": "CJLI AM 700 The Light",
+    "url": "https://shinefm.streamguys1.com/cjli",
+    "genre": "Music",
+    "city": "Calgary",
+    "country": "Canada",
+    "lat": 51.0456064,
+    "lng": -114.057541
+  },
+  {
+    "id": "canada-radio-srood",
+    "name": "Radio Srood",
+    "url": "https://stream.radiosrood.com/",
+    "genre": "Music",
+    "city": "Calgary",
+    "country": "Canada",
+    "lat": 51.0456064,
+    "lng": -114.057541
+  },
+  {
+    "id": "canada-crik-fm--the-lynx-classic-hits",
+    "name": "CRIK FM - The Lynx Classic Hits",
+    "url": "https://stream.lynxradionetwork.com/hits/stream",
+    "genre": "Music",
+    "city": "Calgary",
+    "country": "Canada",
+    "lat": 51.0456064,
+    "lng": -114.057541
+  },
+  {
+    "id": "canada-660-news",
+    "name": "660 News",
+    "url": "https://rogers-hls.leanstream.co/rogers/cal660.stream/icy",
+    "genre": "Music",
+    "city": "Calgary",
+    "country": "Canada",
+    "lat": 51.0456064,
+    "lng": -114.057541
+  },
+  {
+    "id": "canada-magic-fm-montreal",
+    "name": "Magic FM Montreal",
+    "url": "https://s7.yesstreaming.net:8024/stream",
+    "genre": "Music",
+    "city": "Montréal",
+    "country": "Canada",
+    "lat": 45.5031824,
+    "lng": -73.5698065
+  },
+  {
+    "id": "canada-cjlm--m1035",
+    "name": "CJLM - M103.5",
+    "url": "https://19003.live.streamtheworld.com:443/CJLM_FM.mp3",
+    "genre": "Music",
+    "city": "Montréal",
+    "country": "Canada",
+    "lat": 45.5031824,
+    "lng": -73.5698065
+  },
+  {
+    "id": "canada-o-106,5",
+    "name": "O 106,5",
+    "url": "https://15053.live.streamtheworld.com:443/CFEIFM.mp3",
+    "genre": "Music",
+    "city": "Montréal",
+    "country": "Canada",
+    "lat": 45.5031824,
+    "lng": -73.5698065
+  },
+  {
+    "id": "canada-radio-centre-ville-fm-1023",
+    "name": "Radio Centre-Ville FM 102.3",
+    "url": "https://stream.statsradio.com:8108/stream",
+    "genre": "Music",
+    "city": "Montréal",
+    "country": "Canada",
+    "lat": 45.5031824,
+    "lng": -73.5698065
+  },
+  {
+    "id": "canada-rumsey-retro-radio-am-1580",
+    "name": "Rumsey Retro Radio AM 1580",
+    "url": "https://jenny.torontocast.com:2000/stream/rumseyretroradio/",
+    "genre": "Music",
+    "city": "Calgary",
+    "country": "Canada",
+    "lat": 51.0456064,
+    "lng": -114.057541
+  },
+  {
+    "id": "canada-crik-fm--the-lynx-classic-rock",
+    "name": "CRIK FM - The Lynx Classic Rock",
+    "url": "https://stream.lynxradionetwork.com/rock/stream",
+    "genre": "Music",
+    "city": "Calgary",
+    "country": "Canada",
+    "lat": 51.0456064,
+    "lng": -114.057541
+  },
+  {
+    "id": "canada-eye-tamil",
+    "name": "Eye Tamil",
+    "url": "https://streams.radio.co/s937ac5492/listen",
+    "genre": "Music",
+    "city": "Montréal",
+    "country": "Canada",
+    "lat": 45.5031824,
+    "lng": -73.5698065
+  },
+  {
+    "id": "canada-gurbani-kirtan",
+    "name": "Gurbani Kirtan",
+    "url": "http://janus.shoutca.st:8195/start/",
+    "genre": "Music",
+    "city": "Vancouver",
+    "country": "Canada",
+    "lat": 49.2608724,
+    "lng": -123.113952
+  },
+  {
+    "id": "canada-sportsnet-am-960",
+    "name": "Sportsnet AM 960",
+    "url": "https://rogers-hls.leanstream.co/rogers/cal960.stream/icy",
+    "genre": "Music",
+    "city": "Calgary",
+    "country": "Canada",
+    "lat": 51.0456064,
+    "lng": -114.057541
+  },
+  {
+    "id": "canada-ckrd-905-shine-fm",
+    "name": "CKRD 90.5 Shine FM",
+    "url": "https://shinefm.streamguys1.com/ckrd",
+    "genre": "Music",
+    "city": "Calgary",
+    "country": "Canada",
+    "lat": 51.0456064,
+    "lng": -114.057541
+  },
+  {
+    "id": "canada-ckrk--k1037fm",
+    "name": "CKRK - K103.7FM",
+    "url": "https://stream.statsradio.com:8092/stream",
+    "genre": "Music",
+    "city": "Montréal",
+    "country": "Canada",
+    "lat": 45.5031824,
+    "lng": -73.5698065
+  },
+  {
+    "id": "canada-ckry-country-105",
+    "name": "CKRY Country 105",
+    "url": "https://live.leanstream.co/CKRYFM-MP3",
+    "genre": "Music",
+    "city": "Calgary",
+    "country": "Canada",
+    "lat": 51.0456064,
+    "lng": -114.057541
+  },
+  {
+    "id": "canada-chmj-am-730",
+    "name": "CHMJ-AM 730",
+    "url": "https://corus.leanstream.co/CKGOAM-MP3",
+    "genre": "Music",
+    "city": "Vancouver",
+    "country": "Canada",
+    "lat": 49.2608724,
+    "lng": -123.113952
+  },
+  {
+    "id": "canada-chqr--qr77-770-am",
+    "name": "CHQR - QR77 770 AM",
+    "url": "https://live.leanstream.co/CHQRAM-MP3",
+    "genre": "Music",
+    "city": "Calgary",
+    "country": "Canada",
+    "lat": 51.0456064,
+    "lng": -114.057541
+  },
+  {
+    "id": "canada-the-eagle-1009",
+    "name": "The Eagle 100.9",
+    "url": "https://goldenwest.leanstream.co/CKUVFM-MP3",
+    "genre": "Music",
+    "city": "Calgary",
+    "country": "Canada",
+    "lat": 51.0456064,
+    "lng": -114.057541
+  },
+  {
+    "id": "canada-the-eagle-1009--ckuv-fm",
+    "name": "The Eagle 100.9 - CKUV-FM",
+    "url": "https://goldenwest.leanstream.co/CKUVFM",
+    "genre": "Music",
+    "city": "Calgary",
+    "country": "Canada",
+    "lat": 51.0456064,
+    "lng": -114.057541
+  },
+  {
+    "id": "canada-ckyr-redfm-1067fm",
+    "name": "CKYR RedFM 106.7FM",
+    "url": "https://ice10.securenetsystems.net/CKYR",
+    "genre": "Music",
+    "city": "Calgary",
+    "country": "Canada",
+    "lat": 51.0456064,
+    "lng": -114.057541
+  },
+  {
+    "id": "canada-c977",
+    "name": "C97.7",
+    "url": "https://rawlco.leanstream.co/CHUPFM",
+    "genre": "Music",
+    "city": "Calgary",
+    "country": "Canada",
+    "lat": 51.0456064,
+    "lng": -114.057541
+  },
+  {
+    "id": "canada-jamz403",
+    "name": "Jamz403",
+    "url": "https://streams.radio.co/s6e4a1311e/listen",
+    "genre": "Music",
+    "city": "Calgary",
+    "country": "Canada",
+    "lat": 51.0456064,
+    "lng": -114.057541
+  },
+  {
+    "id": "canada-news-1130",
+    "name": "News 1130",
+    "url": "https://rogers-hls.leanstream.co/rogers/van1130.stream/icy",
+    "genre": "Music",
+    "city": "Vancouver",
+    "country": "Canada",
+    "lat": 49.2608724,
+    "lng": -123.113952
+  },
+  {
+    "id": "canada-ckye-red-fm-931",
+    "name": "CKYE Red FM 93.1",
+    "url": "http://ice24.securenetsystems.net/CKYE",
+    "genre": "Music",
+    "city": "Vancouver",
+    "country": "Canada",
+    "lat": 49.2608724,
+    "lng": -123.113952
+  },
+  {
+    "id": "canada-cklg--jack-fm-969",
+    "name": "CKLG - Jack FM 96.9",
+    "url": "https://rogers-hls.leanstream.co/rogers/van969.stream/icy",
+    "genre": "Music",
+    "city": "Vancouver",
+    "country": "Canada",
+    "lat": 49.2608724,
+    "lng": -123.113952
+  },
+  {
+    "id": "canada-cfmi-fm-rock-101",
+    "name": "CFMI-FM Rock 101",
+    "url": "https://corus.leanstream.co/CFMIFM",
+    "genre": "Music",
+    "city": "Vancouver",
+    "country": "Canada",
+    "lat": 49.2608724,
+    "lng": -123.113952
+  },
+  {
+    "id": "canada-cfox--993-the-fox-993-fm",
+    "name": "CFOX - 99.3 The Fox 99.3 FM",
+    "url": "https://corus.leanstream.co/CFOXFM",
+    "genre": "Music",
+    "city": "Vancouver",
+    "country": "Canada",
+    "lat": 49.2608724,
+    "lng": -123.113952
+  },
+  {
+    "id": "canada-sportsnet-am-650",
+    "name": "Sportsnet AM 650",
+    "url": "https://rogers.leanstream.co/rogers/van650.stream/icy",
+    "genre": "Music",
+    "city": "Vancouver",
+    "country": "Canada",
+    "lat": 49.2608724,
+    "lng": -123.113952
+  },
+  {
+    "id": "canada-cfml--evolution-1079-fm",
+    "name": "CFML - Evolution 107.9 FM",
+    "url": "https://evolution1079.streamb.live/SB00207",
+    "genre": "Music",
+    "city": "Vancouver",
+    "country": "Canada",
+    "lat": 49.2608724,
+    "lng": -123.113952
+  },
+  {
+    "id": "canada-cisq--mountain-fm-1071",
+    "name": "CISQ - Mountain FM 107.1",
+    "url": "https://rogers-hls.leanstream.co/rogers/squ1071.stream/icy",
+    "genre": "Music",
+    "city": "Vancouver",
+    "country": "Canada",
+    "lat": 49.2608724,
+    "lng": -123.113952
+  },
+  {
+    "id": "canada-citr-1019-fm",
+    "name": "CiTR 101.9 FM",
+    "url": "https://live.citr.ca/live.aac",
+    "genre": "Music",
+    "city": "Vancouver",
+    "country": "Canada",
+    "lat": 49.2608724,
+    "lng": -123.113952
+  },
+  {
+    "id": "canada-cfwe-fm-985",
+    "name": "CFWE-FM 98.5",
+    "url": "https://windspeaker-media.streamb.live/SB00291",
+    "genre": "Music",
+    "city": "Edmonton",
+    "country": "Canada",
+    "lat": 53.5462055,
+    "lng": -113.491241
+  },
+  {
+    "id": "canada-893-the-raven",
+    "name": "89.3 the Raven",
+    "url": "https://windspeaker-media.streamb.live/SB00292",
+    "genre": "Music",
+    "city": "Edmonton",
+    "country": "Canada",
+    "lat": 53.5462055,
+    "lng": -113.491241
+  },
+  {
+    "id": "canada-club-connection-radio",
+    "name": "Club Connection Radio",
+    "url": "http://n04.radiojar.com/a14xxkw7mbruv?rj-ttl=5&rj-tok=AAABm_mIBLAAaHf7gErxwcUfKg",
+    "genre": "Music",
+    "city": "Edmonton",
+    "country": "Canada",
+    "lat": 53.5462055,
+    "lng": -113.491241
+  },
+  {
+    "id": "canada-cjsr--cjsr-fm",
+    "name": "CJSR - CJSR-FM",
+    "url": "https://ais-sa1.streamon.fm/7093_24k.aac?starttime=1460731840",
+    "genre": "Music",
+    "city": "Edmonton",
+    "country": "Canada",
+    "lat": 53.5462055,
+    "lng": -113.491241
+  },
+  {
+    "id": "canada-cjnw-1071",
+    "name": "CJNW 107.1",
+    "url": "https://ais-sa1.streamon.fm/7260_64k.aac",
+    "genre": "Music",
+    "city": "Edmonton",
+    "country": "Canada",
+    "lat": 53.5462055,
+    "lng": -113.491241
+  },
+  {
+    "id": "canada-cknw-980-am",
+    "name": "CKNW 980 AM",
+    "url": "https://live.leanstream.co/CKNWAM-MP3",
+    "genre": "Music",
+    "city": "Vancouver",
+    "country": "Canada",
+    "lat": 49.2608724,
+    "lng": -123.113952
+  },
+  {
+    "id": "canada-connect-fm-915",
+    "name": "Connect FM 91.5",
+    "url": "https://n09.rcs.revma.com/ygxn9vgennruv?rj-ttl=5&rj-tok=AAABm_mIAGEAKhcV3pO4GRUfWg",
+    "genre": "Music",
+    "city": "Vancouver",
+    "country": "Canada",
+    "lat": 49.2608724,
+    "lng": -123.113952
+  },
+  {
+    "id": "canada-xl-music",
+    "name": "XL music",
+    "url": "https://s2.myradiostream.com:4384/;listen.mp3",
+    "genre": "Music",
+    "city": "Vancouver",
+    "country": "Canada",
+    "lat": 49.2608724,
+    "lng": -123.113952
+  },
+  {
+    "id": "canada-80s-new-wave-radio",
+    "name": "80's New Wave Radio",
+    "url": "https://puma.streemlion.com:2910/stream",
+    "genre": "Music",
+    "city": "Vancouver",
+    "country": "Canada",
+    "lat": 49.2608724,
+    "lng": -123.113952
+  },
+  {
+    "id": "canada-ched-880-am",
+    "name": "CHED 880 AM",
+    "url": "https://corus.leanstream.co/CHEDAM-MP3",
+    "genre": "Music",
+    "city": "Edmonton",
+    "country": "Canada",
+    "lat": 53.5462055,
+    "lng": -113.491241
+  },
+  {
+    "id": "canada-sonic-1029",
+    "name": "SONiC 102.9",
+    "url": "https://rogers-hls.leanstream.co/rogers/edm1029.stream/icy",
+    "genre": "Music",
+    "city": "Edmonton",
+    "country": "Canada",
+    "lat": 53.5462055,
+    "lng": -113.491241
+  },
+  {
+    "id": "canada-ckua-radio",
+    "name": "CKUA Radio",
+    "url": "https://ais-sa1.streamon.fm/7000_48k.aac",
+    "genre": "Music",
+    "city": "Edmonton",
+    "country": "Canada",
+    "lat": 53.5462055,
+    "lng": -113.491241
+  },
+  {
+    "id": "canada-kiss-917",
+    "name": "KiSS 91.7",
+    "url": "https://rogers-hls.leanstream.co/rogers/edm917.stream/icy?environment=tunein",
+    "genre": "Music",
+    "city": "Edmonton",
+    "country": "Canada",
+    "lat": 53.5462055,
+    "lng": -113.491241
+  },
+  {
+    "id": "canada-connect-fm-1017",
+    "name": "Connect FM 101.7",
+    "url": "https://n15.rcs.revma.com/f6tn0q3t2f8uv?rj-ttl=5&rj-tok=AAABm_mIByoARFA4-m1JRk3xRw",
+    "genre": "Music",
+    "city": "Edmonton",
+    "country": "Canada",
+    "lat": 53.5462055,
+    "lng": -113.491241
+  },
+  {
+    "id": "canada-chri-family-radio-991fm",
+    "name": "CHRI Family Radio 99.1FM",
+    "url": "https://s8.yesstreaming.net:17186/stream",
+    "genre": "Music",
+    "city": "Ottawa",
+    "country": "Canada",
+    "lat": 45.4208777,
+    "lng": -75.6901106
+  },
+  {
+    "id": "canada-irish-radio-canada",
+    "name": "Irish Radio Canada",
+    "url": "https://c5.radioboss.fm:18213/stream",
+    "genre": "Music",
+    "city": "Ottawa",
+    "country": "Canada",
+    "lat": 45.4208777,
+    "lng": -75.6901106
+  },
+  {
+    "id": "canada-chuck-@-925",
+    "name": "Chuck @ 92.5",
+    "url": "https://corus.leanstream.co/CKNGFM",
+    "genre": "Music",
+    "city": "Edmonton",
+    "country": "Canada",
+    "lat": 53.5462055,
+    "lng": -113.491241
+  },
+  {
+    "id": "canada-the-one-fm-931",
+    "name": "The One FM 93.1",
+    "url": "https://stream-15.aiir.com/ceuw4arizdivv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjZXV3NGFyaXpkaXZ2IiwiaG9zdCI6InN0cmVhbS0xNS5haWlyLmNvbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiakpaSGRiVXlRc3FRUEcwbGQ1S09odyIsImlhdCI6MTc2OTQxNzQwMSwiZXhwIjoxNzY5NDE3NDYxfQ.OR78uGyiGojuGzNznGWZUZiKy4zLktI2Jy1Nr9-eXFo",
+    "genre": "Music",
+    "city": "Edmonton",
+    "country": "Canada",
+    "lat": 53.5462055,
+    "lng": -113.491241
+  },
+  {
+    "id": "canada-cfit--air-1061-fm",
+    "name": "CFIT - Air 106.1 FM",
+    "url": "https://goldenwest.leanstream.co/CFITFM",
+    "genre": "Music",
+    "city": "Edmonton",
+    "country": "Canada",
+    "lat": 53.5462055,
+    "lng": -113.491241
+  },
+  {
+    "id": "canada-roadhomefm",
+    "name": "Roadhome.FM",
+    "url": "https://rdhome.out.airtime.pro/rdhome_a",
+    "genre": "Music",
+    "city": "Edmonton",
+    "country": "Canada",
+    "lat": 53.5462055,
+    "lng": -113.491241
+  },
+  {
+    "id": "canada-rebel-1017",
+    "name": "Rebel 101.7",
+    "url": "https://torres-media.streamb.live/SB00189",
+    "genre": "Music",
+    "city": "Ottawa",
+    "country": "Canada",
+    "lat": 45.4208777,
+    "lng": -75.6901106
+  },
+  {
+    "id": "canada-cisn-1039-fm",
+    "name": "CISN 103.9 FM",
+    "url": "https://live.leanstream.co/CISNFM-MP3",
+    "genre": "Music",
+    "city": "Edmonton",
+    "country": "Canada",
+    "lat": 53.5462055,
+    "lng": -113.491241
+  },
+  {
+    "id": "canada-chez-fm-1061",
+    "name": "CHEZ FM 106.1",
+    "url": "https://rogers-hls.leanstream.co/rogers/ott1061.stream/icy",
+    "genre": "Music",
+    "city": "Ottawa",
+    "country": "Canada",
+    "lat": 45.4208777,
+    "lng": -75.6901106
+  },
+  {
+    "id": "canada-air-algonquin-am-1700",
+    "name": "AIR Algonquin AM 1700",
+    "url": "https://live.leanstream.co/AIR1700",
+    "genre": "Music",
+    "city": "Ottawa",
+    "country": "Canada",
+    "lat": 45.4208777,
+    "lng": -75.6901106
+  },
+  {
+    "id": "canada-cfra-am-580",
+    "name": "CFRA AM 580",
+    "url": "https://15693.live.streamtheworld.com:443/CFRAAMAAC.aac",
+    "genre": "Music",
+    "city": "Ottawa",
+    "country": "Canada",
+    "lat": 45.4208777,
+    "lng": -75.6901106
+  },
+  {
+    "id": "canada-tsn-1200",
+    "name": "TSN 1200",
+    "url": "https://18003.live.streamtheworld.com:443/CFGOAMAAC.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250%252C300x600%252C728x90%252C970x250&sbmid=f599d893-5a6e-4fb3-d174-24b50bb94033",
+    "genre": "Music",
+    "city": "Ottawa",
+    "country": "Canada",
+    "lat": 45.4208777,
+    "lng": -75.6901106
+  },
+  {
+    "id": "canada-cfmp-1077fm",
+    "name": "CFMP 107.7FM",
+    "url": "https://mybroadcasting.streamb.live/SB00307",
+    "genre": "Music",
+    "city": "Ottawa",
+    "country": "Canada",
+    "lat": 45.4208777,
+    "lng": -75.6901106
+  },
+  {
+    "id": "canada-ckdj-1079-fm",
+    "name": "CKDJ 107.9 FM",
+    "url": "https://live.leanstream.co/CKDJFM-MP3",
+    "genre": "Music",
+    "city": "Ottawa",
+    "country": "Canada",
+    "lat": 45.4208777,
+    "lng": -75.6901106
+  },
+  {
+    "id": "canada-ckcu-931-fm",
+    "name": "CKCU 93.1 FM",
+    "url": "https://stream2.statsradio.com:8124/stream",
+    "genre": "Music",
+    "city": "Ottawa",
+    "country": "Canada",
+    "lat": 45.4208777,
+    "lng": -75.6901106
+  },
+  {
+    "id": "canada-boom-997",
+    "name": "Boom 99.7",
+    "url": "https://live.leanstream.co/CJOTFM?args=web_01&startTime=1563536775",
+    "genre": "Music",
+    "city": "Ottawa",
+    "country": "Canada",
+    "lat": 45.4208777,
+    "lng": -75.6901106
+  },
+  {
+    "id": "canada-chvn-radio",
+    "name": "CHVN Radio",
+    "url": "https://goldenwest.leanstream.co/CHVNFM",
+    "genre": "Music",
+    "city": "Winnipeg",
+    "country": "Canada",
+    "lat": 49.8955367,
+    "lng": -97.1384584
+  },
+  {
+    "id": "canada-975-moose-fm",
+    "name": "97.5 Moose FM",
+    "url": "https://vistaradio.streamb.live/SB00108",
+    "genre": "Music",
+    "city": "Ottawa",
+    "country": "Canada",
+    "lat": 45.4208777,
+    "lng": -75.6901106
+  },
+  {
+    "id": "canada-1079-moose-fm",
+    "name": "107.9 Moose FM",
+    "url": "https://vistaradio.streamb.live/SB00111",
+    "genre": "Music",
+    "city": "Ottawa",
+    "country": "Canada",
+    "lat": 45.4208777,
+    "lng": -75.6901106
+  },
+  {
+    "id": "canada-925-big-fm",
+    "name": "92.5 Big FM",
+    "url": "https://gobig.streamb.live/SB00418",
+    "genre": "Music",
+    "city": "Ottawa",
+    "country": "Canada",
+    "lat": 45.4208777,
+    "lng": -75.6901106
+  },
+  {
+    "id": "canada-radio-onda-emigrante",
+    "name": "Radio Onda Emigrante",
+    "url": "https://s10.myradiostream.com/:11156/index.html?sid=1",
+    "genre": "Music",
+    "city": "Winnipeg",
+    "country": "Canada",
+    "lat": 49.8955367,
+    "lng": -97.1384584
+  },
+  {
+    "id": "canada-cjob-am-680",
+    "name": "CJOB AM 680",
+    "url": "https://corus.leanstream.co/CJOBAM-MP3",
+    "genre": "Music",
+    "city": "Winnipeg",
+    "country": "Canada",
+    "lat": 49.8955367,
+    "lng": -97.1384584
+  },
+  {
+    "id": "canada-classical-fm-radio",
+    "name": "Classical FM Radio",
+    "url": "https://cheetah.streemlion.com:2465/stream",
+    "genre": "Music",
+    "city": "Ottawa",
+    "country": "Canada",
+    "lat": 45.4208777,
+    "lng": -75.6901106
+  },
+  {
+    "id": "canada-chin-radio-ottawa--cjll-fm",
+    "name": "CHIN Radio Ottawa - CJLL-FM",
+    "url": "https://ice7.securenetsystems.net/CJLLFM",
+    "genre": "Music",
+    "city": "Ottawa",
+    "country": "Canada",
+    "lat": 45.4208777,
+    "lng": -75.6901106
+  },
+  {
+    "id": "canada-kiss-1023-fm",
+    "name": "Kiss 102.3 FM",
+    "url": "https://rogers-hls.leanstream.co/rogers/win1023.stream/icy",
+    "genre": "Music",
+    "city": "Winnipeg",
+    "country": "Canada",
+    "lat": 49.8955367,
+    "lng": -97.1384584
+  },
+  {
+    "id": "canada-cfry-920-am",
+    "name": "CFRY 920 AM",
+    "url": "https://goldenwest.leanstream.co/CFRYAM",
+    "genre": "Music",
+    "city": "Winnipeg",
+    "country": "Canada",
+    "lat": 49.8955367,
+    "lng": -97.1384584
+  },
+  {
+    "id": "canada-mix-967--cilt",
+    "name": "Mix 96.7 - CILT",
+    "url": "https://goldenwest.leanstream.co/CILTFM-MP3",
+    "genre": "Music",
+    "city": "Winnipeg",
+    "country": "Canada",
+    "lat": 49.8955367,
+    "lng": -97.1384584
+  },
+  {
+    "id": "canada-chwe-energy-1061-fm",
+    "name": "CHWE Energy 106.1 FM",
+    "url": "https://evanov.streamb.live/SB00229?args=3rdparty_01",
+    "genre": "Music",
+    "city": "Winnipeg",
+    "country": "Canada",
+    "lat": 49.8955367,
+    "lng": -97.1384584
+  },
+  {
+    "id": "canada-cfjl-fm-hot-1005-fm",
+    "name": "CFJL-FM Hot 100.5 FM",
+    "url": "https://evanov.streamb.live/SB00230?args=3rdparty_01",
+    "genre": "Music",
+    "city": "Winnipeg",
+    "country": "Canada",
+    "lat": 49.8955367,
+    "lng": -97.1384584
+  },
+  {
+    "id": "canada-radio-nursery--sunny-steps-day-stream",
+    "name": "Radio Nursery - Sunny Steps (Day Stream)",
+    "url": "https://a5.asurahosting.com:7850/radio.mp3",
+    "genre": "Music",
+    "city": "Hamilton",
+    "country": "Canada",
+    "lat": 43.2560802,
+    "lng": -79.8728583
+  },
+  {
+    "id": "canada-cjkr--power-97",
+    "name": "CJKR - Power 97",
+    "url": "https://live.leanstream.co/CJKRFM-MP3",
+    "genre": "Music",
+    "city": "Winnipeg",
+    "country": "Canada",
+    "lat": 49.8955367,
+    "lng": -97.1384584
+  },
+  {
+    "id": "canada-indi-1015-fm-cioi",
+    "name": "INDI 101.5 FM (CIOI)",
+    "url": "https://hawkstream.mohawkcollege.ca/1/",
+    "genre": "Music",
+    "city": "Hamilton",
+    "country": "Canada",
+    "lat": 43.2560802,
+    "lng": -79.8728583
+  },
+  {
+    "id": "canada-choice-classic-rock",
+    "name": "Choice Classic Rock",
+    "url": "https://streamer.radio.co/s66f2626b4/listen",
+    "genre": "Music",
+    "city": "Winnipeg",
+    "country": "Canada",
+    "lat": 49.8955367,
+    "lng": -97.1384584
+  },
+  {
+    "id": "canada-radio-nursery--twilight-tunes-night-stream",
+    "name": "Radio Nursery - Twilight Tunes (Night Stream)",
+    "url": "https://a9.asurahosting.com/listen/radio_nursery_-_night/radio.mp3",
+    "genre": "Music",
+    "city": "Hamilton",
+    "country": "Canada",
+    "lat": 43.2560802,
+    "lng": -79.8728583
+  },
+  {
+    "id": "canada-energy-953-radio",
+    "name": "Energy 95.3 Radio",
+    "url": "https://corus.leanstream.co/CINGFM",
+    "genre": "Music",
+    "city": "Hamilton",
+    "country": "Canada",
+    "lat": 43.2560802,
+    "lng": -79.8728583
+  },
+  {
+    "id": "canada-insane-realm-radio",
+    "name": "Insane Realm Radio",
+    "url": "https://radio.streemlion.com:3620/stream",
+    "genre": "Music",
+    "city": "Winnipeg",
+    "country": "Canada",
+    "lat": 49.8955367,
+    "lng": -97.1384584
+  },
+  {
+    "id": "canada-knox-am-1310",
+    "name": "KNOX AM 1310",
+    "url": "https://26103.live.streamtheworld.com:443/KNOXAMAAC.aac",
+    "genre": "Music",
+    "city": "Winnipeg",
+    "country": "Canada",
+    "lat": 49.8955367,
+    "lng": -97.1384584
+  },
+  {
+    "id": "canada-cjnu-fm-937",
+    "name": "CJNU FM 93.7",
+    "url": "https://stream.statsradio.com:8150/stream",
+    "genre": "Music",
+    "city": "Winnipeg",
+    "country": "Canada",
+    "lat": 49.8955367,
+    "lng": -97.1384584
+  },
+  {
+    "id": "canada-cjxy--y108",
+    "name": "CJXY - Y108",
+    "url": "https://live.leanstream.co/CJXYFM-MP3",
+    "genre": "Music",
+    "city": "Hamilton",
+    "country": "Canada",
+    "lat": 43.2560802,
+    "lng": -79.8728583
+  },
+  {
+    "id": "canada-oldies108",
+    "name": "Oldies108",
+    "url": "https://radio.torchwoodhosting.com:7004/index.html?sid=1",
+    "genre": "Music",
+    "city": "Hamilton",
+    "country": "Canada",
+    "lat": 43.2560802,
+    "lng": -79.8728583
+  },
+  {
+    "id": "canada-chyz-fm",
+    "name": "CHYZ-FM",
+    "url": "http://ecoutez.chyz.ca:8000/stream/",
+    "genre": "Music",
+    "city": "Québec City",
+    "country": "Canada",
+    "lat": 46.8137431,
+    "lng": -71.2084061
+  },
+  {
+    "id": "canada-wavefm-947-hd2",
+    "name": "Wave.FM 94.7 HD2",
+    "url": "https://14543.live.streamtheworld.com:443/CIWVFMAAC.aac",
+    "genre": "Music",
+    "city": "Hamilton",
+    "country": "Canada",
+    "lat": 43.2560802,
+    "lng": -79.8728583
+  },
+  {
+    "id": "canada-ckpc-fm-lite-921",
+    "name": "CKPC-FM Lite 92.1",
+    "url": "https://evanov.streamb.live/SB00226?args=3rdparty_01",
+    "genre": "Music",
+    "city": "Hamilton",
+    "country": "Canada",
+    "lat": 43.2560802,
+    "lng": -79.8728583
+  },
+  {
+    "id": "canada-krox-1260-am",
+    "name": "KROX 1260 AM",
+    "url": "https://ice6.securenetsystems.net/KROX",
+    "genre": "Music",
+    "city": "Winnipeg",
+    "country": "Canada",
+    "lat": 49.8955367,
+    "lng": -97.1384584
+  },
+  {
+    "id": "canada-cfls92",
+    "name": "CFLS92",
+    "url": "https://icecast02.sbsica.com:8443/cfls92",
+    "genre": "Music",
+    "city": "Québec City",
+    "country": "Canada",
+    "lat": 46.8137431,
+    "lng": -71.2084061
+  },
+  {
+    "id": "canada-929-the-grand",
+    "name": "92.9 the Grand",
+    "url": "https://26733.live.streamtheworld.com:443/CHTGFMAAC.aac",
+    "genre": "Music",
+    "city": "Hamilton",
+    "country": "Canada",
+    "lat": 43.2560802,
+    "lng": -79.8728583
+  },
+  {
+    "id": "canada-cruiser-102",
+    "name": "Cruiser 102",
+    "url": "https://ice23.securenetsystems.net/KDVL",
+    "genre": "Music",
+    "city": "Winnipeg",
+    "country": "Canada",
+    "lat": 49.8955367,
+    "lng": -97.1384584
+  },
+  {
+    "id": "canada-kx947-new-country-fm-hd1",
+    "name": "KX94.7 New Country FM HD1",
+    "url": "https://27283.live.streamtheworld.com:443/CHKXFMAAC.aac",
+    "genre": "Music",
+    "city": "Hamilton",
+    "country": "Canada",
+    "lat": 43.2560802,
+    "lng": -79.8728583
+  },
+  {
+    "id": "canada-riderradiorockscom",
+    "name": "RiderRadioRocks.com",
+    "url": "https://das-edge11-live365-dal03.cdnstream.com/a25942",
+    "genre": "Music",
+    "city": "Hamilton",
+    "country": "Canada",
+    "lat": 43.2560802,
+    "lng": -79.8728583
+  },
+  {
+    "id": "canada-bpm-quebec",
+    "name": "BPM Quebec",
+    "url": "https://free.rcast.net/68459",
+    "genre": "Music",
+    "city": "Québec City",
+    "country": "Canada",
+    "lat": 46.8137431,
+    "lng": -71.2084061
+  },
+  {
+    "id": "canada-radiozik",
+    "name": "RadioZiK",
+    "url": "https://a10.asurahosting.com:7020/radio.mp3",
+    "genre": "Music",
+    "city": "Québec City",
+    "country": "Canada",
+    "lat": 46.8137431,
+    "lng": -71.2084061
+  },
+  {
+    "id": "canada-radio-classique-quebec-fm-927",
+    "name": "Radio Classique Québec FM 92.7",
+    "url": "https://listen.radioking.com/radio/228241/stream/271804",
+    "genre": "Music",
+    "city": "Québec City",
+    "country": "Canada",
+    "lat": 46.8137431,
+    "lng": -71.2084061
+  },
+  {
+    "id": "canada-ckia-fm-883",
+    "name": "CKIA FM 88.3",
+    "url": "https://stream2.statsradio.com/8148/stream",
+    "genre": "Music",
+    "city": "Québec City",
+    "country": "Canada",
+    "lat": 46.8137431,
+    "lng": -71.2084061
+  },
+  {
+    "id": "canada-ckrz-1003-fm",
+    "name": "CKRZ 100.3 FM",
+    "url": "https://stream2.statsradio.com:8132/stream",
+    "genre": "Music",
+    "city": "Hamilton",
+    "country": "Canada",
+    "lat": 43.2560802,
+    "lng": -79.8728583
+  },
+  {
+    "id": "canada-cing--vinyl-fm-953",
+    "name": "CING - Vinyl FM 95.3",
+    "url": "https://live.leanstream.co/CINGFM-MP3",
+    "genre": "Music",
+    "city": "Hamilton",
+    "country": "Canada",
+    "lat": 43.2560802,
+    "lng": -79.8728583
+  },
+  {
+    "id": "canada-hala-canada",
+    "name": "Hala Canada",
+    "url": "https://streams.radio.co/s338fb47f3/listen",
+    "genre": "Music",
+    "city": "Hamilton",
+    "country": "Canada",
+    "lat": 43.2560802,
+    "lng": -79.8728583
+  },
+  {
+    "id": "canada-choi--radio-x-981-fm",
+    "name": "CHOI - Radio X 98.1 FM",
+    "url": "https://lb0-stream.radiox981.ca/choi.aac",
+    "genre": "Music",
+    "city": "Québec City",
+    "country": "Canada",
+    "lat": 46.8137431,
+    "lng": -71.2084061
+  },
+  {
+    "id": "canada-cjdv--1075-dave-fm",
+    "name": "CJDV - 107.5 Dave FM",
+    "url": "https://live.leanstream.co/CJDVFM-MP3",
+    "genre": "Music",
+    "city": "Hamilton",
+    "country": "Canada",
+    "lat": 43.2560802,
+    "lng": -79.8728583
+  },
+  {
+    "id": "canada-wknd-fm-919",
+    "name": "WKND FM 91.9",
+    "url": "https://stream-cjec-rr01.leclerccom.com/cjec.aac",
+    "genre": "Music",
+    "city": "Québec City",
+    "country": "Canada",
+    "lat": 46.8137431,
+    "lng": -71.2084061
+  },
+  {
+    "id": "canada-cion--radio-galilee-909-fm",
+    "name": "CION - Radio Galilée 90.9 FM",
+    "url": "https://cast1.asurahosting.com/proxy/fondatio/stream2",
+    "genre": "Music",
+    "city": "Québec City",
+    "country": "Canada",
+    "lat": 46.8137431,
+    "lng": -71.2084061
+  },
+  {
+    "id": "canada-ckoc-1150-am",
+    "name": "CKOC 1150 AM",
+    "url": "https://ice26.securenetsystems.net/CKOC",
+    "genre": "Music",
+    "city": "Hamilton",
+    "country": "Canada",
+    "lat": 43.2560802,
+    "lng": -79.8728583
+  },
+  {
+    "id": "canada-blvd-fm-1021",
+    "name": "BLVD FM 102.1",
+    "url": "https://stream-cfel-rr01.leclerccom.com/cfel.aac",
+    "genre": "Music",
+    "city": "Québec City",
+    "country": "Canada",
+    "lat": 46.8137431,
+    "lng": -71.2084061
+  },
+  {
+    "id": "canada-fm101-the-planet",
+    "name": "FM101 The Planet",
+    "url": "https://c26.radioboss.fm:8584/stream",
+    "genre": "Music",
+    "city": "London",
+    "country": "Canada",
+    "lat": 42.9836747,
+    "lng": -81.2496068
+  },
+  {
+    "id": "canada-radio-quebec-country",
+    "name": "Radio Québec Country",
+    "url": "https://play.quebec-country.com/",
+    "genre": "Music",
+    "city": "Québec City",
+    "country": "Canada",
+    "lat": 46.8137431,
+    "lng": -71.2084061
+  },
+  {
+    "id": "canada-1047-heartfm",
+    "name": "104.7 HeartFM",
+    "url": "https://ais-sa1.streamon.fm/7135_48k.aac",
+    "genre": "Music",
+    "city": "London",
+    "country": "Canada",
+    "lat": 42.9836747,
+    "lng": -81.2496068
+  },
+  {
+    "id": "canada-hits-music-radio-quebec",
+    "name": "Hits Music Radio Quebec",
+    "url": "https://hitsmusicradio.out.airtime.pro/hitsmusicradio_a://hitsmusicradio_a",
+    "genre": "Music",
+    "city": "Québec City",
+    "country": "Canada",
+    "lat": 46.8137431,
+    "lng": -71.2084061
+  },
+  {
+    "id": "canada-949-chrw-radio-western",
+    "name": "94.9 CHRW Radio Western",
+    "url": "https://949fm.ca/stream",
+    "genre": "Music",
+    "city": "London",
+    "country": "Canada",
+    "lat": 42.9836747,
+    "lng": -81.2496068
+  },
+  {
+    "id": "canada-flow-103",
+    "name": "Flow 103",
+    "url": "https://ais-sa3.cdnstream1.com/1668_128",
+    "genre": "Music",
+    "city": "London",
+    "country": "Canada",
+    "lat": 42.9836747,
+    "lng": -81.2496068
+  },
+  {
+    "id": "canada-1049-the-wolf",
+    "name": "104.9 the Wolf",
+    "url": "https://ais-sa1.streamon.fm/7255_64k.aac",
+    "genre": "Music",
+    "city": "Regina",
+    "country": "Canada",
+    "lat": 50.4479733,
+    "lng": -104.6158764
+  },
+  {
+    "id": "canada-620-ckrm",
+    "name": "620 CKRM",
+    "url": "https://ais-sa1.streamon.fm/7267_64k.aac",
+    "genre": "Music",
+    "city": "Regina",
+    "country": "Canada",
+    "lat": 50.4479733,
+    "lng": -104.6158764
+  },
+  {
+    "id": "canada-myfm-941",
+    "name": "myFM 94.1",
+    "url": "https://mybroadcasting.streamb.live/SB00323",
+    "genre": "Music",
+    "city": "London",
+    "country": "Canada",
+    "lat": 42.9836747,
+    "lng": -81.2496068
+  },
+  {
+    "id": "canada-choc-887",
+    "name": "CHOC 88.7",
+    "url": "https://stream2.statsradio.com:8110/stream",
+    "genre": "Music",
+    "city": "Québec City",
+    "country": "Canada",
+    "lat": 46.8137431,
+    "lng": -71.2084061
+  },
+  {
+    "id": "canada-ciho-fm-charlevoix-963",
+    "name": "CIHO FM Charlevoix 96.3",
+    "url": "https://streaming.cloudmjs.com:8000/ciho.mp3",
+    "genre": "Music",
+    "city": "Québec City",
+    "country": "Canada",
+    "lat": 46.8137431,
+    "lng": -71.2084061
+  },
+  {
+    "id": "canada-radio-laurier",
+    "name": "Radio Laurier",
+    "url": "https://radiolaurier.out.airtime.pro/radiolaurier_a",
+    "genre": "Music",
+    "city": "London",
+    "country": "Canada",
+    "lat": 42.9836747,
+    "lng": -81.2496068
+  },
+  {
+    "id": "canada-cjcs-1071-fm",
+    "name": "CJCS 107.1 FM",
+    "url": "https://vistaradio.streamb.live/SB00107",
+    "genre": "Music",
+    "city": "London",
+    "country": "Canada",
+    "lat": 42.9836747,
+    "lng": -81.2496068
+  },
+  {
+    "id": "canada-myfm-1057",
+    "name": "myFM 105.7",
+    "url": "https://mybroadcasting.streamb.live/SB00319",
+    "genre": "Music",
+    "city": "London",
+    "country": "Canada",
+    "lat": 42.9836747,
+    "lng": -81.2496068
+  },
+  {
+    "id": "canada-981-free-fm--cklo-fm",
+    "name": "98.1 Free FM - CKLO-FM",
+    "url": "https://live.leanstream.co/CKLOFM-MP3",
+    "genre": "Music",
+    "city": "London",
+    "country": "Canada",
+    "lat": 42.9836747,
+    "lng": -81.2496068
+  },
+  {
+    "id": "canada-fox-fm",
+    "name": "Fox FM",
+    "url": "https://ais-sa1.streamon.fm/7252_64k.aac",
+    "genre": "Music",
+    "city": "Regina",
+    "country": "Canada",
+    "lat": 50.4479733,
+    "lng": -104.6158764
+  },
+  {
+    "id": "canada-cfsl-am-1190",
+    "name": "CFSL AM 1190",
+    "url": "https://goldenwest.leanstream.co/CFSLAM",
+    "genre": "Music",
+    "city": "Regina",
+    "country": "Canada",
+    "lat": 50.4479733,
+    "lng": -104.6158764
+  },
+  {
+    "id": "canada-cat-country-98-fm-hd1",
+    "name": "Cat Country 98 FM HD1",
+    "url": "https://cat-country-98.streamb.live/SB00148",
+    "genre": "Music",
+    "city": "Regina",
+    "country": "Canada",
+    "lat": 50.4479733,
+    "lng": -104.6158764
+  },
+  {
+    "id": "canada-spr-live-fm",
+    "name": "SPR Live FM",
+    "url": "http://us1.streamingpulse.com:7400/stream",
+    "genre": "Music",
+    "city": "Mississauga",
+    "country": "Canada",
+    "lat": 43.5896231,
+    "lng": -79.6443879
+  },
+  {
+    "id": "canada-faith-fm-999--chjx",
+    "name": "Faith FM 99.9 - CHJX",
+    "url": "https://ice7.securenetsystems.net/CHJXFM",
+    "genre": "Music",
+    "city": "London",
+    "country": "Canada",
+    "lat": 42.9836747,
+    "lng": -81.2496068
+  },
+  {
+    "id": "canada-980-cjme-news,-talk,-sports-cjme",
+    "name": "980 CJME News, Talk, Sports (CJME)",
+    "url": "https://rawlco.leanstream.co/CJMEAM",
+    "genre": "Music",
+    "city": "Regina",
+    "country": "Canada",
+    "lat": 50.4479733,
+    "lng": -104.6158764
+  },
+  {
+    "id": "canada-cool-fm-1035",
+    "name": "Cool FM 103.5",
+    "url": "https://stream.statsradio.com:8040/stream",
+    "genre": "Music",
+    "city": "Québec City",
+    "country": "Canada",
+    "lat": 46.8137431,
+    "lng": -71.2084061
+  },
+  {
+    "id": "canada-cef-radio",
+    "name": "CEF Radio",
+    "url": "https://listen.radioking.com/radio/505360/stream/562870",
+    "genre": "Music",
+    "city": "Regina",
+    "country": "Canada",
+    "lat": 50.4479733,
+    "lng": -104.6158764
+  },
+  {
+    "id": "canada-z99-regina--cizl",
+    "name": "Z99 Regina - CIZL",
+    "url": "https://rawlco.leanstream.co/CIZLFM",
+    "genre": "Music",
+    "city": "Regina",
+    "country": "Canada",
+    "lat": 50.4479733,
+    "lng": -104.6158764
+  },
+  {
+    "id": "canada-jack-945--ckck",
+    "name": "Jack 94.5 - CKCK",
+    "url": "https://rawlco.leanstream.co/CKCKFM",
+    "genre": "Music",
+    "city": "Regina",
+    "country": "Canada",
+    "lat": 50.4479733,
+    "lng": -104.6158764
+  },
+  {
+    "id": "canada-cixx--1069-the-x",
+    "name": "CIXX - 106.9 The X",
+    "url": "https://ice23.securenetsystems.net/CIXXFM",
+    "genre": "Music",
+    "city": "London",
+    "country": "Canada",
+    "lat": 42.9836747,
+    "lng": -81.2496068
+  },
+  {
+    "id": "canada-jackievibes-radio",
+    "name": "Jackievibes Radio",
+    "url": "https://www.lanhub2.com/isjackie96",
+    "genre": "Music",
+    "city": "Mississauga",
+    "country": "Canada",
+    "lat": 43.5896231,
+    "lng": -79.6443879
+  },
+  {
+    "id": "canada-jvr-ch3",
+    "name": "JVR-CH3",
+    "url": "https://www.lanhub2.com/isjackiech3",
+    "genre": "Music",
+    "city": "Mississauga",
+    "country": "Canada",
+    "lat": 43.5896231,
+    "lng": -79.6443879
+  },
+  {
+    "id": "canada-cfrg-fm-931",
+    "name": "CFRG FM 93.1",
+    "url": "https://stream2.statsradio.com:8052/stream",
+    "genre": "Music",
+    "city": "Regina",
+    "country": "Canada",
+    "lat": 50.4479733,
+    "lng": -104.6158764
+  },
+  {
+    "id": "canada-98-cool--cjmk-fm",
+    "name": "98 Cool - CJMK-FM",
+    "url": "https://22123.live.streamtheworld.com:443/CJMKFMAAC.aac",
+    "genre": "Music",
+    "city": "Regina",
+    "country": "Canada",
+    "lat": 50.4479733,
+    "lng": -104.6158764
+  },
+  {
+    "id": "canada-tamilthai-radio",
+    "name": "TamilThai Radio",
+    "url": "https://radio.massstream.net/8010/stream",
+    "genre": "Music",
+    "city": "Mississauga",
+    "country": "Canada",
+    "lat": 43.5896231,
+    "lng": -79.6443879
+  },
+  {
+    "id": "canada-otune-radio",
+    "name": "Otune Radio",
+    "url": "https://stream-166.zeno.fm/edxw7svv1nhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJlZHh3N3N2djFuaHZ2IiwiaG9zdCI6InN0cmVhbS0xNjYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoibmk5YUNYajZUSlNoejl3eGVXd0dwQSIsImlhdCI6MTc2OTQxNzQyMiwiZXhwIjoxNzY5NDE3NDgyfQ.zIgEjUu7uhbpZDnOaen5guGa02226U4NoDirkQHRG8c",
+    "genre": "Music",
+    "city": "Mississauga",
+    "country": "Canada",
+    "lat": 43.5896231,
+    "lng": -79.6443879
+  },
+  {
+    "id": "canada-joy-1250--cjye",
+    "name": "JOY 1250 - CJYE",
+    "url": "https://14093.live.streamtheworld.com:443/JOY1250AAC.aac",
+    "genre": "Music",
+    "city": "Mississauga",
+    "country": "Canada",
+    "lat": 43.5896231,
+    "lng": -79.6443879
+  },
+  {
+    "id": "canada-cfcr-905-fm",
+    "name": "CFCR 90.5 FM",
+    "url": "https://onair.cfcr.ca/hifi.mp3",
+    "genre": "Music",
+    "city": "Saskatoon",
+    "country": "Canada",
+    "lat": 52.131802,
+    "lng": -106.660767
+  },
+  {
+    "id": "canada-radio-pakistan-toronto",
+    "name": "Radio Pakistan Toronto",
+    "url": "https://s3.radio.co/s3b10a57ef/listen",
+    "genre": "Music",
+    "city": "Mississauga",
+    "country": "Canada",
+    "lat": 43.5896231,
+    "lng": -79.6443879
+  },
+  {
+    "id": "canada-oldies-96",
+    "name": "Oldies 96",
+    "url": "https://us9.streamingpulse.com/ssl/oldies96",
+    "genre": "Music",
+    "city": "Tiverton, NS",
+    "country": "Canada",
+    "lat": 44.3886196,
+    "lng": -66.2138548
+  },
+  {
+    "id": "canada-c95-cfmc",
+    "name": "C95 (CFMC)",
+    "url": "https://rawlco.leanstream.co/CFMCFM",
+    "genre": "Music",
+    "city": "Saskatoon",
+    "country": "Canada",
+    "lat": 52.131802,
+    "lng": -106.660767
+  },
+  {
+    "id": "canada-kids-christian-radio",
+    "name": "Kids Christian Radio",
+    "url": "https://usa18.fastcast4u.com/proxy/loudcrymedia2?mp=/1",
+    "genre": "Music",
+    "city": "Tiverton, NS",
+    "country": "Canada",
+    "lat": 44.3886196,
+    "lng": -66.2138548
+  },
+  {
+    "id": "canada-country-gospel-radio",
+    "name": "Country Gospel Radio",
+    "url": "https://usa18.fastcast4u.com/proxy/loudcrymedia1?mp=/1",
+    "genre": "Music",
+    "city": "Tiverton, NS",
+    "country": "Canada",
+    "lat": 44.3886196,
+    "lng": -66.2138548
+  },
+  {
+    "id": "canada-cina-1650-am",
+    "name": "CINA 1650 AM",
+    "url": "https://ice8.securenetsystems.net/CINA",
+    "genre": "Music",
+    "city": "Mississauga",
+    "country": "Canada",
+    "lat": 43.5896231,
+    "lng": -79.6443879
+  },
+  {
+    "id": "canada-christian-music-radio",
+    "name": "Christian Music Radio",
+    "url": "https://usa18.fastcast4u.com/proxy/loudcrymedia7?mp=/1",
+    "genre": "Music",
+    "city": "Tiverton, NS",
+    "country": "Canada",
+    "lat": 44.3886196,
+    "lng": -66.2138548
+  },
+  {
+    "id": "canada-native-christian-radio",
+    "name": "Native Christian Radio",
+    "url": "https://usa18.fastcast4u.com/proxy/loudcrymedia4?mp=/1",
+    "genre": "Music",
+    "city": "Tiverton, NS",
+    "country": "Canada",
+    "lat": 44.3886196,
+    "lng": -66.2138548
+  },
+  {
+    "id": "canada-soul-gospel-radio",
+    "name": "Soul Gospel Radio",
+    "url": "https://usa18.fastcast4u.com/proxy/loudcrymedia3?mp=/stream",
+    "genre": "Music",
+    "city": "Tiverton, NS",
+    "country": "Canada",
+    "lat": 44.3886196,
+    "lng": -66.2138548
+  },
+  {
+    "id": "canada-seventh-day-adventist-radio",
+    "name": "Seventh-day Adventist Radio",
+    "url": "https://usa18.fastcast4u.com/proxy/loudcrymedia6?mp=/1",
+    "genre": "Music",
+    "city": "Tiverton, NS",
+    "country": "Canada",
+    "lat": 44.3886196,
+    "lng": -66.2138548
+  },
+  {
+    "id": "canada-cjym-am-1330",
+    "name": "CJYM AM 1330",
+    "url": "https://goldenwest.leanstream.co/CJYMAM",
+    "genre": "Music",
+    "city": "Saskatoon",
+    "country": "Canada",
+    "lat": 52.131802,
+    "lng": -106.660767
+  },
+  {
+    "id": "canada-cjqc-fm-993",
+    "name": "CJQC-FM 99.3",
+    "url": "http://us3.streamingpulse.com:8074/;stream.mp3",
+    "genre": "Music",
+    "city": "Tiverton, NS",
+    "country": "Canada",
+    "lat": 44.3886196,
+    "lng": -66.2138548
+  },
+  {
+    "id": "canada-country-600-cjww",
+    "name": "Country 600 CJWW",
+    "url": "https://26313.live.streamtheworld.com:443/CJWWAMAAC.aac",
+    "genre": "Music",
+    "city": "Saskatoon",
+    "country": "Canada",
+    "lat": 52.131802,
+    "lng": -106.660767
+  },
+  {
+    "id": "canada-k100-ciok-fm-1005",
+    "name": "K100 CIOK-FM 100.5",
+    "url": "https://mbsradio-ais.leanstream.co/CIOKFM-MP3",
+    "genre": "Music",
+    "city": "Tiverton, NS",
+    "country": "Canada",
+    "lat": 44.3886196,
+    "lng": -66.2138548
+  },
+  {
+    "id": "canada-funky-moose-radio",
+    "name": "Funky Moose Radio",
+    "url": "https://listen.funkymooseradio.ca/radio/8000/radio.aac",
+    "genre": "Music",
+    "city": "Saskatoon",
+    "country": "Canada",
+    "lat": 52.131802,
+    "lng": -106.660767
+  },
+  {
+    "id": "canada-news-talk-650--ckom",
+    "name": "News Talk 650 - CKOM",
+    "url": "https://rawlco.leanstream.co/CKOMAM",
+    "genre": "Music",
+    "city": "Saskatoon",
+    "country": "Canada",
+    "lat": 52.131802,
+    "lng": -106.660767
+  },
+  {
+    "id": "canada-rock102--cjdj",
+    "name": "ROCK102 - CJDJ",
+    "url": "https://rawlco.leanstream.co/CJDJFM",
+    "genre": "Music",
+    "city": "Saskatoon",
+    "country": "Canada",
+    "lat": 52.131802,
+    "lng": -106.660767
+  },
+  {
+    "id": "canada-cjcw-590-am",
+    "name": "CJCW 590 AM",
+    "url": "https://mbsradio.leanstream.co/CJCWAM-MP3",
+    "genre": "Music",
+    "city": "Tiverton, NS",
+    "country": "Canada",
+    "lat": 44.3886196,
+    "lng": -66.2138548
+  },
+  {
+    "id": "canada-srn-one",
+    "name": "SRN One",
+    "url": "https://c5.radioboss.fm:8076/stream",
+    "genre": "Music",
+    "city": "Vaughan",
+    "country": "Canada",
+    "lat": 43.7941544,
+    "lng": -79.5268023
+  },
+  {
+    "id": "canada-cifa-1041-fm",
+    "name": "CIFA 104.1 FM",
+    "url": "https://stream2.statsradio.com:8080/stream",
+    "genre": "Music",
+    "city": "Tiverton, NS",
+    "country": "Canada",
+    "lat": 44.3886196,
+    "lng": -66.2138548
+  },
+  {
+    "id": "canada-cmr-1013-hd4--punjabi-hd-radio",
+    "name": "CMR 101.3 HD4 - Punjabi HD Radio",
+    "url": "https://live.cmr24.fm/CMR/Punjabi-MQ/icecast.audio",
+    "genre": "Music",
+    "city": "Brampton",
+    "country": "Canada",
+    "lat": 43.685832,
+    "lng": -79.7599366
+  },
+  {
+    "id": "canada-vinyl-voyage-radio",
+    "name": "Vinyl Voyage Radio",
+    "url": "https://jenny.torontocast.com:8018/stream2",
+    "genre": "Music",
+    "city": "Brampton",
+    "country": "Canada",
+    "lat": 43.685832,
+    "lng": -79.7599366
+  },
+  {
+    "id": "canada-jeepney-pinoy-radio",
+    "name": "Jeepney Pinoy Radio",
+    "url": "https://usa5.fastcast4u.com/proxy/mcbnjpr?mp=/1/;",
+    "genre": "Music",
+    "city": "Vaughan",
+    "country": "Canada",
+    "lat": 43.7941544,
+    "lng": -79.5268023
+  },
+  {
+    "id": "canada-pinoy-radio",
+    "name": "Pinoy Radio",
+    "url": "https://usa5.fastcast4u.com/proxy/mcbnprc?mp=/1",
+    "genre": "Music",
+    "city": "Vaughan",
+    "country": "Canada",
+    "lat": 43.7941544,
+    "lng": -79.5268023
+  },
+  {
+    "id": "canada-mcbn-radio",
+    "name": "MCBN Radio",
+    "url": "https://usa5.fastcast4u.com/proxy/mcbnradio?mp=/1",
+    "genre": "Music",
+    "city": "Vaughan",
+    "country": "Canada",
+    "lat": 43.7941544,
+    "lng": -79.5268023
+  },
+  {
+    "id": "canada-radio-maria-canada-eng",
+    "name": "Radio Maria Canada ENG",
+    "url": "https://dreamsiteradiocp6.com/proxy/rmcanada?mp=/stream",
+    "genre": "Music",
+    "city": "Vaughan",
+    "country": "Canada",
+    "lat": 43.7941544,
+    "lng": -79.5268023
+  },
+  {
+    "id": "canada-chlo-am-530-multilingual",
+    "name": "CHLO AM 530 Multilingual",
+    "url": "https://evanov.streamb.live/SB00225?args=3rdparty_01",
+    "genre": "Music",
+    "city": "Brampton",
+    "country": "Canada",
+    "lat": 43.685832,
+    "lng": -79.7599366
+  },
+  {
+    "id": "canada-570-news",
+    "name": "570 News",
+    "url": "https://rogers.leanstream.co/rogers/kit570.stream/icy",
+    "genre": "Music",
+    "city": "Kitchener",
+    "country": "Canada",
+    "lat": 43.451291,
+    "lng": -80.4927815
+  },
+  {
+    "id": "canada-oye-india-radio",
+    "name": "Oye India Radio",
+    "url": "https://hbhamra4.radioca.st/stream.mp3",
+    "genre": "Music",
+    "city": "Brampton",
+    "country": "Canada",
+    "lat": 43.685832,
+    "lng": -79.7599366
+  },
+  {
+    "id": "canada-fm-101-orangeville",
+    "name": "FM 101 Orangeville",
+    "url": "https://localradio.streamb.live/SB00096",
+    "genre": "Music",
+    "city": "Brampton",
+    "country": "Canada",
+    "lat": 43.685832,
+    "lng": -79.7599366
+  },
+  {
+    "id": "canada-frequency-5-fm--voz-de-vida",
+    "name": "Frequency 5 FM - Voz De Vida",
+    "url": "https://stream-154.zeno.fm/qhpomyrt3xcvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxaHBvbXlydDN4Y3Z2IiwiaG9zdCI6InN0cmVhbS0xNTQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiczJsdkdWTm5TcWFkOGoxV1hCclljQSIsImlhdCI6MTc2OTQxNzQyOCwiZXhwIjoxNzY5NDE3NDg4fQ.wSntaBPsh7JQDXNVNKC5vjrZkUluzN_9cPajTUxd2_Q",
+    "genre": "Music",
+    "city": "Brampton",
+    "country": "Canada",
+    "lat": 43.685832,
+    "lng": -79.7599366
+  },
+  {
+    "id": "canada-cjiq-883-fm",
+    "name": "CJIQ 88.3 FM",
+    "url": "https://conestoga.leanstream.co/CJIQFM",
+    "genre": "Music",
+    "city": "Kitchener",
+    "country": "Canada",
+    "lat": 43.451291,
+    "lng": -80.4927815
+  },
+  {
+    "id": "canada-genzelfamily--sign-of-the-horns",
+    "name": "GenzelFamily - Sign of the Horns",
+    "url": "http://epsilon.shoutca.st:8322/stream",
+    "genre": "Music",
+    "city": "Kitchener",
+    "country": "Canada",
+    "lat": 43.451291,
+    "lng": -80.4927815
+  },
+  {
+    "id": "canada-4lobos-bollywood-radio",
+    "name": "4Lobos Bollywood Radio",
+    "url": "https://puma.streemlion.com:4135/stream",
+    "genre": "Music",
+    "city": "Brampton",
+    "country": "Canada",
+    "lat": 43.685832,
+    "lng": -79.7599366
+  },
+  {
+    "id": "canada-ckms-1027-fm--radio-waterloo",
+    "name": "CKMS 102.7 FM - Radio Waterloo",
+    "url": "https://studio.radiowaterloo.ca:8443/radiowaterloo",
+    "genre": "Music",
+    "city": "Kitchener",
+    "country": "Canada",
+    "lat": 43.451291,
+    "lng": -80.4927815
+  },
+  {
+    "id": "canada-midtown-radio-kw",
+    "name": "Midtown Radio KW",
+    "url": "https://midtownradiokw.out.airtime.pro/midtownradiokw_a",
+    "genre": "Music",
+    "city": "Kitchener",
+    "country": "Canada",
+    "lat": 43.451291,
+    "lng": -80.4927815
+  },
+  {
+    "id": "canada-ckbt-915-the-beat",
+    "name": "CKBT 91.5 The Beat",
+    "url": "https://live.leanstream.co/CKBTFM-MP3",
+    "genre": "Music",
+    "city": "Kitchener",
+    "country": "Canada",
+    "lat": 43.451291,
+    "lng": -80.4927815
+  },
+  {
+    "id": "canada-4lobos-pop-oldies-radio",
+    "name": "4Lobos Pop & Oldies Radio",
+    "url": "https://puma.streemlion.com:4315/stream",
+    "genre": "Music",
+    "city": "Vaughan",
+    "country": "Canada",
+    "lat": 43.7941544,
+    "lng": -79.5268023
+  },
+  {
+    "id": "canada-kawartha-time-machine",
+    "name": "Kawartha Time Machine",
+    "url": "https://listenlivenow.net/proxy/gord?mp=/stream/;",
+    "genre": "Music",
+    "city": "Peterborough",
+    "country": "Canada",
+    "lat": 44.3048009,
+    "lng": -78.3199496
+  },
+  {
+    "id": "canada-extra-905--cjmb",
+    "name": "Extra 90.5 - CJMB",
+    "url": "https://mybroadcasting.streamb.live/SB00333",
+    "genre": "Music",
+    "city": "Peterborough",
+    "country": "Canada",
+    "lat": 44.3048009,
+    "lng": -78.3199496
+  },
+  {
+    "id": "canada-trent-radio-927-cfff-fm",
+    "name": "Trent Radio 92.7 CFFF FM",
+    "url": "https://trentradio.ca:8043/hi-fi",
+    "genre": "Music",
+    "city": "Peterborough",
+    "country": "Canada",
+    "lat": 44.3048009,
+    "lng": -78.3199496
+  },
+  {
+    "id": "canada-fresh-radio-1005",
+    "name": "Fresh Radio 100.5",
+    "url": "https://corus.leanstream.co/CKRUFM",
+    "genre": "Music",
+    "city": "Peterborough",
+    "country": "Canada",
+    "lat": 44.3048009,
+    "lng": -78.3199496
+  },
+  {
+    "id": "canada-the-wolf-1015-fm--ckwf",
+    "name": "The Wolf 101.5 FM - CKWF",
+    "url": "https://corus.leanstream.co/CKWFFM-MP3",
+    "genre": "Music",
+    "city": "Peterborough",
+    "country": "Canada",
+    "lat": 44.3048009,
+    "lng": -78.3199496
+  },
+  {
+    "id": "canada-935-the-moose-fm",
+    "name": "93.5 The Moose FM",
+    "url": "https://vistaradio.streamb.live/SB00113",
+    "genre": "Music",
+    "city": "Peterborough",
+    "country": "Canada",
+    "lat": 44.3048009,
+    "lng": -78.3199496
+  },
+  {
+    "id": "canada-cjtw-fm-937",
+    "name": "CJTW-FM 93.7",
+    "url": "https://ice7.securenetsystems.net/CJTWFM",
+    "genre": "Music",
+    "city": "Kitchener",
+    "country": "Canada",
+    "lat": 43.451291,
+    "lng": -80.4927815
+  },
+  {
+    "id": "canada-cfru-fm-933",
+    "name": "CFRU-FM 93.3",
+    "url": "https://listen.cfru.ca/",
+    "genre": "Music",
+    "city": "Kitchener",
+    "country": "Canada",
+    "lat": 43.451291,
+    "lng": -80.4927815
+  },
+  {
+    "id": "canada-chms-moose-fm-977",
+    "name": "CHMS Moose FM 97.7",
+    "url": "https://vistaradio.streamb.live/SB00110",
+    "genre": "Music",
+    "city": "Peterborough",
+    "country": "Canada",
+    "lat": 44.3048009,
+    "lng": -78.3199496
+  },
+  {
+    "id": "canada-1047-heartfm-hd2",
+    "name": "104.7 HeartFM HD2",
+    "url": "https://stream2.statsradio.com:8104/stream",
+    "genre": "Music",
+    "city": "Kitchener",
+    "country": "Canada",
+    "lat": 43.451291,
+    "lng": -80.4927815
+  },
+  {
+    "id": "canada-cjam-991-fm",
+    "name": "CJAM 99.1 FM",
+    "url": "http://live.cjam.ca/CJAM-live-128k.aac",
+    "genre": "Music",
+    "city": "Windsor ON",
+    "country": "Canada",
+    "lat": 42.2858536,
+    "lng": -82.9780695
+  },
+  {
+    "id": "canada-ckru--kruz-fm",
+    "name": "CKRU - KRUZ FM",
+    "url": "https://live.leanstream.co/CKRUFM-MP3",
+    "genre": "Music",
+    "city": "Peterborough",
+    "country": "Canada",
+    "lat": 44.3048009,
+    "lng": -78.3199496
+  },
+  {
+    "id": "canada-cjtn--rock-107",
+    "name": "CJTN - Rock 107",
+    "url": "https://live.leanstream.co/CJTNFM-MP3",
+    "genre": "Music",
+    "city": "Peterborough",
+    "country": "Canada",
+    "lat": 44.3048009,
+    "lng": -78.3199496
+  },
+  {
+    "id": "canada-radio-muzika",
+    "name": "Radio Muzika",
+    "url": "https://cast3.asurahosting.com/proxy/mrika/;stream.mp3",
+    "genre": "Music",
+    "city": "Windsor ON",
+    "country": "Canada",
+    "lat": 42.2858536,
+    "lng": -82.9780695
+  },
+  {
+    "id": "canada-radio-riel-volksmusik",
+    "name": "Radio Riel Volksmusik",
+    "url": "http://streams.radioriel.org:8060/stream",
+    "genre": "Music",
+    "city": "Windsor ON",
+    "country": "Canada",
+    "lat": 42.2858536,
+    "lng": -82.9780695
+  },
+  {
+    "id": "canada-amen-fm",
+    "name": "Amen FM",
+    "url": "https://ice7.securenetsystems.net/AMENFM",
+    "genre": "Music",
+    "city": "Peterborough",
+    "country": "Canada",
+    "lat": 44.3048009,
+    "lng": -78.3199496
+  },
+  {
+    "id": "canada-am-800-cklw",
+    "name": "AM 800 CKLW",
+    "url": "https://18003.live.streamtheworld.com:443/CKLWAMAAC.aac",
+    "genre": "Music",
+    "city": "Windsor ON",
+    "country": "Canada",
+    "lat": 42.2858536,
+    "lng": -82.9780695
+  },
+  {
+    "id": "canada-whfr-fm-893",
+    "name": "WHFR-FM 89.3",
+    "url": "https://media.streambrothers.com:8012/stream",
+    "genre": "Music",
+    "city": "Windsor ON",
+    "country": "Canada",
+    "lat": 42.2858536,
+    "lng": -82.9780695
+  },
+  {
+    "id": "canada-1023-fm-cina-radio",
+    "name": "102.3 FM CINA Radio",
+    "url": "https://ice9.securenetsystems.net/CINAFM3",
+    "genre": "Music",
+    "city": "Windsor ON",
+    "country": "Canada",
+    "lat": 42.2858536,
+    "lng": -82.9780695
+  },
+  {
+    "id": "canada-cool-1007",
+    "name": "Cool 100.7",
+    "url": "https://live.leanstream.co/CKUEF2?args=web_01",
+    "genre": "Music",
+    "city": "Windsor ON",
+    "country": "Canada",
+    "lat": 42.2858536,
+    "lng": -82.9780695
+  },
+  {
+    "id": "canada-am580-ckww",
+    "name": "AM580 CKWW",
+    "url": "https://ice25.securenetsystems.net/CKWW",
+    "genre": "Music",
+    "city": "Windsor ON",
+    "country": "Canada",
+    "lat": 42.2858536,
+    "lng": -82.9780695
+  },
+  {
+    "id": "canada-radio-42°rock",
+    "name": "Radio 42°Rock",
+    "url": "https://ice24.securenetsystems.net/R42N2",
+    "genre": "Music",
+    "city": "Windsor ON",
+    "country": "Canada",
+    "lat": 42.2858536,
+    "lng": -82.9780695
+  }
+]

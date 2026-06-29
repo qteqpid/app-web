@@ -1,0 +1,222 @@
+[
+  {
+    "id": "suriname-ishara-radio-1007-fm",
+    "name": "Ishara Radio 100.7 FM",
+    "url": "https://a8.asurahosting.com:7030/radio.mp3",
+    "genre": "Music",
+    "city": "Nieuw Nickerie",
+    "country": "Suriname",
+    "lat": 5.9420605,
+    "lng": -56.9893521
+  },
+  {
+    "id": "suriname-radio-rapar-913-fm",
+    "name": "Radio Rapar 91.3 FM",
+    "url": "https://audio-edge-es6pf.mia.g.radiomast.io/d7e8093b-6a7e-4442-a096-37f259cb7092",
+    "genre": "Music",
+    "city": "Paramaribo",
+    "country": "Suriname",
+    "lat": 5.8241764,
+    "lng": -55.1662813
+  },
+  {
+    "id": "suriname-radio-9-suriname",
+    "name": "Radio 9 Suriname",
+    "url": "https://rs.suricloud.com/radio/8060/radio.mp3",
+    "genre": "Music",
+    "city": "Paramaribo",
+    "country": "Suriname",
+    "lat": 5.8241764,
+    "lng": -55.1662813
+  },
+  {
+    "id": "suriname-radio-trishul",
+    "name": "Radio Trishul",
+    "url": "https://rs.suricloud.com/radio/8050/radio.mp3",
+    "genre": "Music",
+    "city": "Paramaribo",
+    "country": "Suriname",
+    "lat": 5.8241764,
+    "lng": -55.1662813
+  },
+  {
+    "id": "suriname-pipel-941-fm",
+    "name": "Pipel 94.1 FM",
+    "url": "https://rs.suricloud.com/radio/8010/radio.mp3",
+    "genre": "Music",
+    "city": "Paramaribo",
+    "country": "Suriname",
+    "lat": 5.8241764,
+    "lng": -55.1662813
+  },
+  {
+    "id": "suriname-radio-shruti",
+    "name": "Radio Shruti",
+    "url": "https://rs.suricloud.com/radio/8000/radio.mp3",
+    "genre": "Music",
+    "city": "Paramaribo",
+    "country": "Suriname",
+    "lat": 5.8241764,
+    "lng": -55.1662813
+  },
+  {
+    "id": "suriname-radio-koyeba-fm-1049",
+    "name": "Radio Koyeba FM 104.9",
+    "url": "http://162.244.80.245:8020/index.html?sid=1",
+    "genre": "Music",
+    "city": "Paramaribo",
+    "country": "Suriname",
+    "lat": 5.8241764,
+    "lng": -55.1662813
+  },
+  {
+    "id": "suriname-color-radio-1025-fm",
+    "name": "Color Radio 102.5 FM",
+    "url": "https://surilive.com:8070/stream",
+    "genre": "Music",
+    "city": "Paramaribo",
+    "country": "Suriname",
+    "lat": 5.8241764,
+    "lng": -55.1662813
+  },
+  {
+    "id": "suriname-sranan-radio",
+    "name": "Sranan Radio",
+    "url": "https://my.surilive.com/listen/sr/stream",
+    "genre": "Music",
+    "city": "Paramaribo",
+    "country": "Suriname",
+    "lat": 5.8241764,
+    "lng": -55.1662813
+  },
+  {
+    "id": "suriname-kfm-guyane-916-fm",
+    "name": "KFM Guyane 91.6 FM",
+    "url": "http://10191.go2stream.fr:8000/stream",
+    "genre": "Music",
+    "city": "Nieuw Nickerie",
+    "country": "Suriname",
+    "lat": 5.9420605,
+    "lng": -56.9893521
+  },
+  {
+    "id": "suriname-rádio-equatorial-93-fm",
+    "name": "Rádio Equatorial 93 FM",
+    "url": "https://s1.sonic.radio.br/8122/stream",
+    "genre": "Music",
+    "city": "Nieuw Nickerie",
+    "country": "Suriname",
+    "lat": 5.9420605,
+    "lng": -56.9893521
+  },
+  {
+    "id": "suriname-ntn-radio-fm-891",
+    "name": "NTN Radio FM 89.1",
+    "url": "https://auds1.intacs.com/ntnradio",
+    "genre": "Music",
+    "city": "Paramaribo",
+    "country": "Suriname",
+    "lat": 5.8241764,
+    "lng": -55.1662813
+  },
+  {
+    "id": "suriname-monte-roraima-fm-1079",
+    "name": "Monte Roraima FM 107.9",
+    "url": "https://whd1.webradios.com.br:18556/8556",
+    "genre": "Music",
+    "city": "Paramaribo",
+    "country": "Suriname",
+    "lat": 5.8241764,
+    "lng": -55.1662813
+  },
+  {
+    "id": "suriname-sccn-radio-b1041-fm",
+    "name": "SCCN Radio B104.1 FM",
+    "url": "https://video1.getstreamhosting.com:8340/stream",
+    "genre": "Music",
+    "city": "Paramaribo",
+    "country": "Suriname",
+    "lat": 5.8241764,
+    "lng": -55.1662813
+  },
+  {
+    "id": "suriname-edu-fm",
+    "name": "Edu FM",
+    "url": "http://n07.radiojar.com/xpgemc39cxhvv?rj-ttl=5&rj-tok=AAABm_nikzkAspVs78I0wytTLg",
+    "genre": "Music",
+    "city": "Nieuw Nickerie",
+    "country": "Suriname",
+    "lat": 5.9420605,
+    "lng": -56.9893521
+  },
+  {
+    "id": "suriname-rfo-guyane-1ere-fm-920",
+    "name": "RFO Guyane 1ère FM 92.0",
+    "url": "https://guyane.ice.infomaniak.ch/guyane-128.mp3",
+    "genre": "Music",
+    "city": "Paramaribo",
+    "country": "Suriname",
+    "lat": 5.8241764,
+    "lng": -55.1662813
+  },
+  {
+    "id": "suriname-radio-10-magic-fm-881",
+    "name": "Radio 10 Magic FM 88.1",
+    "url": "https://s5.radio.co/s85a633f73/listen",
+    "genre": "Music",
+    "city": "Paramaribo",
+    "country": "Suriname",
+    "lat": 5.8241764,
+    "lng": -55.1662813
+  },
+  {
+    "id": "suriname-rp-987-fm",
+    "name": "RP 98.7 FM",
+    "url": "https://audio-edge-es6pf.mia.g.radiomast.io/2ce0ffa5-dd88-491e-9f9f-925a7ce36b13",
+    "genre": "Music",
+    "city": "Paramaribo",
+    "country": "Suriname",
+    "lat": 5.8241764,
+    "lng": -55.1662813
+  },
+  {
+    "id": "suriname-radio-sangeetmala-fm-993",
+    "name": "Radio Sangeetmala FM 99.3",
+    "url": "https://rs.suricloud.com/radio/8030/radio.mp3",
+    "genre": "Music",
+    "city": "Paramaribo",
+    "country": "Suriname",
+    "lat": 5.8241764,
+    "lng": -55.1662813
+  },
+  {
+    "id": "suriname-piratenkanon-suriname",
+    "name": "PiratenKanon Suriname",
+    "url": "https://streams.piratenkanon.nl:10400/MP3-320",
+    "genre": "Music",
+    "city": "Paramaribo",
+    "country": "Suriname",
+    "lat": 5.8241764,
+    "lng": -55.1662813
+  },
+  {
+    "id": "suriname-surjavibes-radio",
+    "name": "Surjavibes Radio",
+    "url": "https://s5.radio.co/s1735f3c1d/listen",
+    "genre": "Music",
+    "city": "Paramaribo",
+    "country": "Suriname",
+    "lat": 5.8241764,
+    "lng": -55.1662813
+  },
+  {
+    "id": "suriname-102-fm-macapá",
+    "name": "102 FM Macapá",
+    "url": "https://servidor21.brlogic.com:7754/live",
+    "genre": "Music",
+    "city": "Paramaribo",
+    "country": "Suriname",
+    "lat": 5.8241764,
+    "lng": -55.1662813
+  }
+]

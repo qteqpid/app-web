@@ -1,0 +1,442 @@
+[
+  {
+    "id": "kazakhstan-народное-радио",
+    "name": "Народное Радио",
+    "url": "http://178.88.167.62:8080/DALA_192",
+    "genre": "Music",
+    "city": "Almaty",
+    "country": "Kazakhstan",
+    "lat": 43.2363924,
+    "lng": 76.9457275
+  },
+  {
+    "id": "kazakhstan-avtoradio-kazakhstan",
+    "name": "Avtoradio Kazakhstan",
+    "url": "http://178.88.167.62:8080/AVTORADIO_192",
+    "genre": "Music",
+    "city": "Almaty",
+    "country": "Kazakhstan",
+    "lat": 43.2363924,
+    "lng": 76.9457275
+  },
+  {
+    "id": "kazakhstan-dfm-1055",
+    "name": "DFM 105.5",
+    "url": "https://c16.radioboss.fm:18234/stream",
+    "genre": "Music",
+    "city": "Almaty",
+    "country": "Kazakhstan",
+    "lat": 43.2363924,
+    "lng": 76.9457275
+  },
+  {
+    "id": "kazakhstan-energy-fm-1022-almaty",
+    "name": "Energy FM 102.2 Almaty",
+    "url": "http://89.219.34.117:8008/NEWENERGY",
+    "genre": "Music",
+    "city": "Almaty",
+    "country": "Kazakhstan",
+    "lat": 43.2363924,
+    "lng": 76.9457275
+  },
+  {
+    "id": "kazakhstan-radio-tengri-fm-1075",
+    "name": "Radio Tengri FM 107.5",
+    "url": "http://91.201.214.229:8000/tengrifm",
+    "genre": "Music",
+    "city": "Almaty",
+    "country": "Kazakhstan",
+    "lat": 43.2363924,
+    "lng": 76.9457275
+  },
+  {
+    "id": "kazakhstan-жулдыз-фм",
+    "name": "Жулдыз ФМ",
+    "url": "http://91.201.214.229:8000/zhulduz",
+    "genre": "Music",
+    "city": "Almaty",
+    "country": "Kazakhstan",
+    "lat": 43.2363924,
+    "lng": 76.9457275
+  },
+  {
+    "id": "kazakhstan-radio-jibek-joly-1014-fm",
+    "name": "Radio Jibek Joly 101.4 FM",
+    "url": "https://a.pub.qazcdn.net/ex6r514/D0Ik7bYj/shoutcast",
+    "genre": "Music",
+    "city": "Astana",
+    "country": "Kazakhstan",
+    "lat": 51.1282205,
+    "lng": 71.4306682
+  },
+  {
+    "id": "kazakhstan-новое-радио-жаңа-fm",
+    "name": "Новое Радио (Жаңа FM)",
+    "url": "https://live.zhanafm.kz:8443/zhanafm_onair",
+    "genre": "Music",
+    "city": "Almaty",
+    "country": "Kazakhstan",
+    "lat": 43.2363924,
+    "lng": 76.9457275
+  },
+  {
+    "id": "kazakhstan-luxfm-877",
+    "name": "LuxFM 87.7",
+    "url": "https://icecast.luxfm.kz/luxfm",
+    "genre": "Music",
+    "city": "Almaty",
+    "country": "Kazakhstan",
+    "lat": 43.2363924,
+    "lng": 76.9457275
+  },
+  {
+    "id": "kazakhstan-dipol-fm",
+    "name": "Dipol FM",
+    "url": "http://icecast.sibinformburo.cdnvideo.ru:8000/dipolfm",
+    "genre": "Music",
+    "city": "Astana",
+    "country": "Kazakhstan",
+    "lat": 51.1282205,
+    "lng": 71.4306682
+  },
+  {
+    "id": "kazakhstan-shalkar--kazakh-шалқар",
+    "name": "Shalkar - Kazakh Шалқар",
+    "url": "https://radio-streams.kaztrk.kz/shalqar/shalqar/icecast.audio",
+    "genre": "Music",
+    "city": "Astana",
+    "country": "Kazakhstan",
+    "lat": 51.1282205,
+    "lng": 71.4306682
+  },
+  {
+    "id": "kazakhstan-studio-21",
+    "name": "Studio 21",
+    "url": "http://79.133.160.197:8000/8950-128.mp3",
+    "genre": "Music",
+    "city": "Astana",
+    "country": "Kazakhstan",
+    "lat": 51.1282205,
+    "lng": 71.4306682
+  },
+  {
+    "id": "kazakhstan-radio-ice",
+    "name": "Radio Ice",
+    "url": "https://onair.radio1922.ru/64.aac",
+    "genre": "Music",
+    "city": "Almaty",
+    "country": "Kazakhstan",
+    "lat": 43.2363924,
+    "lng": 76.9457275
+  },
+  {
+    "id": "kazakhstan-qazaq-radiosy",
+    "name": "Qazaq Radiosy",
+    "url": "https://radio-streams.kaztrk.kz/qazradio/qazradio/icecast.audio",
+    "genre": "Music",
+    "city": "Almaty",
+    "country": "Kazakhstan",
+    "lat": 43.2363924,
+    "lng": 76.9457275
+  },
+  {
+    "id": "kazakhstan-ok-radio-fm-1005",
+    "name": "OK Radio FM 100.5",
+    "url": "https://stream.teos.media/stream",
+    "genre": "Music",
+    "city": "Almaty",
+    "country": "Kazakhstan",
+    "lat": 43.2363924,
+    "lng": 76.9457275
+  },
+  {
+    "id": "kazakhstan-iradio-fm-920",
+    "name": "IRadio FM 92.0",
+    "url": "http://212.112.123.200:8000/stream.ogg",
+    "genre": "Music",
+    "city": "Astana",
+    "country": "Kazakhstan",
+    "lat": 51.1282205,
+    "lng": 71.4306682
+  },
+  {
+    "id": "kazakhstan-radio-ns-1060-fm",
+    "name": "Radio NS 106.0 FM",
+    "url": "https://icecast.ns.kz/radions",
+    "genre": "Music",
+    "city": "Almaty",
+    "country": "Kazakhstan",
+    "lat": 43.2363924,
+    "lng": 76.9457275
+  },
+  {
+    "id": "kazakhstan-радио-калина-красная-1074-fm",
+    "name": "Радио Калина Красная 107.4 FM",
+    "url": "https://icecast-studio21.cdnvideo.ru/KalynaK_1a",
+    "genre": "Music",
+    "city": "Uralsk",
+    "country": "Kazakhstan",
+    "lat": 51.2040697,
+    "lng": 51.3707863
+  },
+  {
+    "id": "kazakhstan-русское-радио-1047-fm",
+    "name": "Русское Радио 104.7 FM",
+    "url": "https://rusradioreg.hostingradio.ru/asia.rusradio128.mp3",
+    "genre": "Music",
+    "city": "Almaty",
+    "country": "Kazakhstan",
+    "lat": 43.2363924,
+    "lng": 76.9457275
+  },
+  {
+    "id": "kazakhstan-радио-кн-1015",
+    "name": "Радио КН 101.5",
+    "url": "https://player.radiokn.kz/56",
+    "genre": "Music",
+    "city": "Astana",
+    "country": "Kazakhstan",
+    "lat": 51.1282205,
+    "lng": 71.4306682
+  },
+  {
+    "id": "kazakhstan-радио-европа-плюс-ош-1038",
+    "name": "Радио Европа Плюс Ош 103.8",
+    "url": "https://europaplus.hostingradio.ru:8014/europaplus320.mp3",
+    "genre": "Music",
+    "city": "Almaty",
+    "country": "Kazakhstan",
+    "lat": 43.2363924,
+    "lng": 76.9457275
+  },
+  {
+    "id": "kazakhstan-xinjiang-rgd-kazakh-fm-982",
+    "name": "Xinjiang RGD Kazakh FM 98.2",
+    "url": "https://lhttp.qingting.fm/live/1908/64k.mp3",
+    "genre": "Music",
+    "city": "Ust'-Kamenogorsk",
+    "country": "Kazakhstan",
+    "lat": 49.9484438,
+    "lng": 82.6274791
+  },
+  {
+    "id": "kazakhstan-kunel-radiosi--үңел-радиосы",
+    "name": "Kunel Radiosi - үңел Радиосы",
+    "url": "http://live.kunelradio.ru:8000/128.mp3",
+    "genre": "Music",
+    "city": "Uralsk",
+    "country": "Kazakhstan",
+    "lat": 51.2040697,
+    "lng": 51.3707863
+  },
+  {
+    "id": "kazakhstan-business-fm",
+    "name": "Business FM",
+    "url": "https://bfmreg.hostingradio.ru/kz.bfm128.mp3",
+    "genre": "Music",
+    "city": "Almaty",
+    "country": "Kazakhstan",
+    "lat": 43.2363924,
+    "lng": 76.9457275
+  },
+  {
+    "id": "kazakhstan-ретроfm-казахстан",
+    "name": "РетроFM Казахстан",
+    "url": "https://europaplus.hostingradio.ru:8014/retro320.mp3",
+    "genre": "Music",
+    "city": "Almaty",
+    "country": "Kazakhstan",
+    "lat": 43.2363924,
+    "lng": 76.9457275
+  },
+  {
+    "id": "kazakhstan-classic-fm",
+    "name": "Classic FM",
+    "url": "https://radio-streams.kaztrk.kz/classic/classic/icecast.audio",
+    "genre": "Music",
+    "city": "Karagandy",
+    "country": "Kazakhstan",
+    "lat": 49.1767322,
+    "lng": 74.1811272
+  },
+  {
+    "id": "kazakhstan-ulyanovsk-fm-1042",
+    "name": "Ulyanovsk FM 104.2",
+    "url": "https://online.ulskfm.ru/104i2",
+    "genre": "Music",
+    "city": "Uralsk",
+    "country": "Kazakhstan",
+    "lat": 51.2040697,
+    "lng": 51.3707863
+  },
+  {
+    "id": "kazakhstan-n-radio-1079-fm",
+    "name": "N-Radio 107.9 FM",
+    "url": "http://178.47.34.174:8000/n-radio",
+    "genre": "Music",
+    "city": "Kostanay",
+    "country": "Kazakhstan",
+    "lat": 52.0615626,
+    "lng": 62.9372689
+  },
+  {
+    "id": "kazakhstan-ребячья-республика-fm-892",
+    "name": "Ребячья Республика FM 89.2",
+    "url": "http://live.radio7.su:9000/deti",
+    "genre": "Music",
+    "city": "Kostanay",
+    "country": "Kazakhstan",
+    "lat": 52.0615626,
+    "lng": 62.9372689
+  },
+  {
+    "id": "kazakhstan-radio-talap",
+    "name": "Radio Talap",
+    "url": "https://okeyradio.ru/okey",
+    "genre": "Music",
+    "city": "Uralsk",
+    "country": "Kazakhstan",
+    "lat": 51.2040697,
+    "lng": 51.3707863
+  },
+  {
+    "id": "kazakhstan-mayak-barnaul",
+    "name": "Mayak Barnaul",
+    "url": "https://icecast.gtrk22.ru:8443/mayak",
+    "genre": "Music",
+    "city": "Ust'-Kamenogorsk",
+    "country": "Kazakhstan",
+    "lat": 49.9484438,
+    "lng": 82.6274791
+  },
+  {
+    "id": "kazakhstan-radio-rossii-orenburg-910-fm",
+    "name": "Radio Rossii Orenburg 91.0 FM",
+    "url": "https://radio-translation.vestirama.ru:8443/russia.mp3",
+    "genre": "Music",
+    "city": "Uralsk",
+    "country": "Kazakhstan",
+    "lat": 51.2040697,
+    "lng": 51.3707863
+  },
+  {
+    "id": "kazakhstan-мир",
+    "name": "Мир",
+    "url": "https://cast.fmprod.ru/mir_bsk",
+    "genre": "Music",
+    "city": "Ust'-Kamenogorsk",
+    "country": "Kazakhstan",
+    "lat": 49.9484438,
+    "lng": 82.6274791
+  },
+  {
+    "id": "kazakhstan-europa-plus",
+    "name": "Europa Plus",
+    "url": "https://ep128.hostingradio.ru:8030/ep128",
+    "genre": "Music",
+    "city": "Uralsk",
+    "country": "Kazakhstan",
+    "lat": 51.2040697,
+    "lng": 51.3707863
+  },
+  {
+    "id": "kazakhstan-radio-olimp-1045-fm",
+    "name": "Radio Olimp 104.5 FM",
+    "url": "https://online.olimpfm.ru/olimp",
+    "genre": "Music",
+    "city": "Kostanay",
+    "country": "Kazakhstan",
+    "lat": 52.0615626,
+    "lng": 62.9372689
+  },
+  {
+    "id": "kazakhstan-юмор-fm-казахстан",
+    "name": "Юмор FM Казахстан",
+    "url": "https://live.zhanafm.kz:8443/veseloeradio_onair",
+    "genre": "Music",
+    "city": "Temirtau",
+    "country": "Kazakhstan",
+    "lat": 50.0587825,
+    "lng": 72.9535681
+  },
+  {
+    "id": "kazakhstan-radio-continental",
+    "name": "Radio Continental",
+    "url": "http://stream01.radiocon.ru:8000/live",
+    "genre": "Music",
+    "city": "Rudny",
+    "country": "Kazakhstan",
+    "lat": 52.964458,
+    "lng": 63.133488
+  },
+  {
+    "id": "kazakhstan-radio-wind-of-siberia",
+    "name": "Radio Wind of Siberia",
+    "url": "https://listen5.myradio24.com/83695",
+    "genre": "Music",
+    "city": "Ust'-Kamenogorsk",
+    "country": "Kazakhstan",
+    "lat": 49.9484438,
+    "lng": 82.6274791
+  },
+  {
+    "id": "kazakhstan-bulbul-fm",
+    "name": "Bulbul FM",
+    "url": "https://radiobulbul.stream.laut.fm/radiobulbul?t302=2026-01-26_09-30-30&uuid=cd35bb7a-5949-47e5-a955-896ea3b0405e",
+    "genre": "Music",
+    "city": "Almaty",
+    "country": "Kazakhstan",
+    "lat": 43.2363924,
+    "lng": 76.9457275
+  },
+  {
+    "id": "kazakhstan-radio-sana-1033-fm",
+    "name": "Radio SANA 103.3 FM",
+    "url": "https://listen4.myradio24.com/radiosana",
+    "genre": "Music",
+    "city": "Rudny",
+    "country": "Kazakhstan",
+    "lat": 52.964458,
+    "lng": 63.133488
+  },
+  {
+    "id": "kazakhstan-ekoradio",
+    "name": "Ekoradio",
+    "url": "https://online.ekoradio.ru/stream.mp3",
+    "genre": "Music",
+    "city": "Kostanay",
+    "country": "Kazakhstan",
+    "lat": 52.0615626,
+    "lng": 62.9372689
+  },
+  {
+    "id": "kazakhstan-beu-fm-977-fm",
+    "name": "Beu FM 97.7 FM",
+    "url": "https://stream.beufm.kz/beufm",
+    "genre": "Music",
+    "city": "Almaty",
+    "country": "Kazakhstan",
+    "lat": 43.2363924,
+    "lng": 76.9457275
+  },
+  {
+    "id": "kazakhstan-red-army",
+    "name": "Red Army",
+    "url": "https://live.rzs.ru/ka.96.mp3",
+    "genre": "Music",
+    "city": "Rudny",
+    "country": "Kazakhstan",
+    "lat": 52.964458,
+    "lng": 63.133488
+  },
+  {
+    "id": "kazakhstan-russkoe-radio-orsk-996-fm",
+    "name": "Russkoe Radio Orsk 99.6 FM",
+    "url": "https://radios.omg56.ru/Russkoe_Oren",
+    "genre": "Music",
+    "city": "Kostanay",
+    "country": "Kazakhstan",
+    "lat": 52.0615626,
+    "lng": 62.9372689
+  }
+]

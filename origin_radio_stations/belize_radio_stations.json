@@ -1,0 +1,222 @@
+[
+  {
+    "id": "belize-maximum-radio-1041-fm",
+    "name": "Maximum Radio 104.1 FM",
+    "url": "http://159.65.32.199:8026/stream",
+    "genre": "Music",
+    "city": "Belize City",
+    "country": "Belize",
+    "lat": 17.5002768,
+    "lng": -88.1988737
+  },
+  {
+    "id": "belize-fiesta-fm-1067",
+    "name": "Fiesta FM 106.7",
+    "url": "http://159.65.32.199:8020/stream",
+    "genre": "Music",
+    "city": "Belize City",
+    "country": "Belize",
+    "lat": 17.5002768,
+    "lng": -88.1988737
+  },
+  {
+    "id": "belize-radio-apocalipsis-3:11-fm1053",
+    "name": "Radio Apocalipsis 3:11 FM105.3",
+    "url": "https://player.newvoxlive.net/proxy/7100",
+    "genre": "Music",
+    "city": "Belize City",
+    "country": "Belize",
+    "lat": 17.5002768,
+    "lng": -88.1988737
+  },
+  {
+    "id": "belize-sulimata-poptun-901-fm",
+    "name": "Sulimata Poptun 90.1 FM",
+    "url": "https://player.newvoxlive.net/proxy/7274",
+    "genre": "Music",
+    "city": "Belize City",
+    "country": "Belize",
+    "lat": 17.5002768,
+    "lng": -88.1988737
+  },
+  {
+    "id": "belize-radio-bantaba-fm-1024",
+    "name": "Radio Bantaba FM 102.4",
+    "url": "https://radio.streemlion.com/radiobantaba",
+    "genre": "Music",
+    "city": "Makeni",
+    "country": "Sierra Leone",
+    "lat": 8.8881938,
+    "lng": -12.0441862
+  },
+  {
+    "id": "belize-haahil-fm",
+    "name": "Haahil FM",
+    "url": "https://stream.miradio.in/proxy/haahilfm/live",
+    "genre": "Music",
+    "city": "Belize City",
+    "country": "Belize",
+    "lat": 17.5002768,
+    "lng": -88.1988737
+  },
+  {
+    "id": "belize-radio-mopan-fm-1053",
+    "name": "Radio Mopan FM 105.3",
+    "url": "https://cloudstream2032.conectarhosting.com/8262/stream",
+    "genre": "Music",
+    "city": "Belize City",
+    "country": "Belize",
+    "lat": 17.5002768,
+    "lng": -88.1988737
+  },
+  {
+    "id": "belize-top-fm-1053",
+    "name": "Top' FM 105.3",
+    "url": "https://stream.intervalohost.com/8016/stream",
+    "genre": "Music",
+    "city": "San Ignacio",
+    "country": "Belize",
+    "lat": 17.1527588,
+    "lng": -89.0761718
+  },
+  {
+    "id": "belize-rokel-fm",
+    "name": "Rokel FM",
+    "url": "https://stream-164.zeno.fm/ehvobb8qbcwtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJlaHZvYmI4cWJjd3R2IiwiaG9zdCI6InN0cmVhbS0xNjQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiMVBkdW1XY0NTaS1WVm1iTFlpX0ZZdyIsImlhdCI6MTc2OTQxNjgwOCwiZXhwIjoxNzY5NDE2ODY4fQ.AtQpfND_NXz04Mz5kxrI0CfX4l8tSUlMdVObU6YZymY",
+    "genre": "Music",
+    "city": "Makeni",
+    "country": "Sierra Leone",
+    "lat": 8.8881938,
+    "lng": -12.0441862
+  },
+  {
+    "id": "belize-estereo-solar-1049-fm",
+    "name": "Estéreo Solar 104.9 FM",
+    "url": "https://radiostreamingaac.com:8566/solarpeten",
+    "genre": "Music",
+    "city": "Belize City",
+    "country": "Belize",
+    "lat": 17.5002768,
+    "lng": -88.1988737
+  },
+  {
+    "id": "belize-hope-fm-933",
+    "name": "Hope FM 93.3",
+    "url": "https://stream-177.zeno.fm/n9t7yp70exhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJuOXQ3eXA3MGV4aHZ2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoic0Y4THF0UERTU2llVUp2Qmo4bHQzUSIsImlhdCI6MTc2OTQxNjgwOCwiZXhwIjoxNzY5NDE2ODY4fQ.1hA5CtipaP5OkNYw-qac-6ct1bskyawCRO8Dxe4BUtw",
+    "genre": "Music",
+    "city": "Makeni",
+    "country": "Sierra Leone",
+    "lat": 8.8881938,
+    "lng": -12.0441862
+  },
+  {
+    "id": "belize-rtg-guinee-885-fm",
+    "name": "RTG Guinée 88.5 FM",
+    "url": "https://stream-177.zeno.fm/1aa3sabr2ehvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIxYWEzc2FicjJlaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiUFM2eDJJMWFUaHlfSlZYQ21fZ1VGQSIsImlhdCI6MTc2OTQxNjgwOCwiZXhwIjoxNzY5NDE2ODY4fQ.CG3Qiul9Hq04vZVgNMjW8CZo3Peou3aenmkYv-y8dOM",
+    "genre": "Music",
+    "city": "Makeni",
+    "country": "Sierra Leone",
+    "lat": 8.8881938,
+    "lng": -12.0441862
+  },
+  {
+    "id": "belize-radio-restauracion-de-vida",
+    "name": "Radio Restauracion De Vida",
+    "url": "https://stream-176.zeno.fm/wxnk4ca3zehvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ3eG5rNGNhM3plaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiUVc4RWJmOFdRTUdCUDM4NWFqY09zQSIsImlhdCI6MTc2OTQxNjgwOCwiZXhwIjoxNzY5NDE2ODY4fQ.ZdZvacuEB8OBsRR95swHS8H3-k7T679wsZYV0gA15Yw",
+    "genre": "Music",
+    "city": "Belize City",
+    "country": "Belize",
+    "lat": 17.5002768,
+    "lng": -88.1988737
+  },
+  {
+    "id": "belize-radio-kankan",
+    "name": "Radio Kankan",
+    "url": "https://stream-178.zeno.fm/ab9q4v3mb?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJhYjlxNHYzbWIiLCJob3N0Ijoic3RyZWFtLTE3OC56ZW5vLmZtIiwidG0iOmZhbHNlLCJydHRsIjo1LCJqdGkiOiJzbFBCSmVLUFNWdWZtUF9vZEN0TDRBIiwiaWF0IjoxNzY5NDE2ODA4LCJleHAiOjE3Njk0MTY4Njh9.7utHDxFOQwBbql9StmACP6vbwahdzs0cGbT73KO1FEo",
+    "genre": "Music",
+    "city": "Makeni",
+    "country": "Sierra Leone",
+    "lat": 8.8881938,
+    "lng": -12.0441862
+  },
+  {
+    "id": "belize-la-z-chetumal-929-fm",
+    "name": "La Z Chetumal 92.9 FM",
+    "url": "https://stream-163.zeno.fm/tb4dzszmwwluv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0YjRkenN6bXd3bHV2IiwiaG9zdCI6InN0cmVhbS0xNjMuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiVjNSUExxWlFUMy1JNFVmN3ZnWnJzZyIsImlhdCI6MTc2OTQxNjgwOCwiZXhwIjoxNzY5NDE2ODY4fQ.Qg2d53RNCGl2RWmZ2vztPAndGU8mq8zDk0rFyX_j908",
+    "genre": "Music",
+    "city": "Orange Walk",
+    "country": "Belize",
+    "lat": 17.7831833,
+    "lng": -88.8620283
+  },
+  {
+    "id": "belize-beline-media-empire",
+    "name": "Beline Media Empire",
+    "url": "https://stream-163.zeno.fm/kbuea5uxqf9uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJrYnVlYTV1eHFmOXV2IiwiaG9zdCI6InN0cmVhbS0xNjMuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoieXFLNFR6dUFRMFNkWFQ3S3EycGZvZyIsImlhdCI6MTc2OTQxNjgwOCwiZXhwIjoxNzY5NDE2ODY4fQ.M_U82SACPp1zrospBjZI3GKs0bIvzX_QypNNc-IANb4",
+    "genre": "Music",
+    "city": "Makeni",
+    "country": "Sierra Leone",
+    "lat": 8.8881938,
+    "lng": -12.0441862
+  },
+  {
+    "id": "belize-fop-radio-fm-897",
+    "name": "FOP Radio FM 89.7",
+    "url": "https://stream.fopradios.top/main",
+    "genre": "Music",
+    "city": "Makeni",
+    "country": "Sierra Leone",
+    "lat": 8.8881938,
+    "lng": -12.0441862
+  },
+  {
+    "id": "belize-epic-radio-993-fm",
+    "name": "Epic Radio 99.3 FM",
+    "url": "https://radio.ebggh.com/listen/myepiconline/radio.mp3",
+    "genre": "Music",
+    "city": "Makeni",
+    "country": "Sierra Leone",
+    "lat": 8.8881938,
+    "lng": -12.0441862
+  },
+  {
+    "id": "belize-universal-radio-fm-989",
+    "name": "Universal Radio FM 98.9",
+    "url": "https://stream-175.zeno.fm/x2sze59pwxhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ4MnN6ZTU5cHd4aHZ2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiRjZRRzJadWpUNy1kaHljTExsT1cxUSIsImlhdCI6MTc2OTQxNjgwOSwiZXhwIjoxNzY5NDE2ODY5fQ.Qx5jBH_pQobvDHmmq5EGdMBK39ybV-36SQhPA2jBll0",
+    "genre": "Music",
+    "city": "Makeni",
+    "country": "Sierra Leone",
+    "lat": 8.8881938,
+    "lng": -12.0441862
+  },
+  {
+    "id": "belize-radio-mercury-fm-921",
+    "name": "Radio Mercury FM 92.1",
+    "url": "https://streaming.radio.co/s3a1c95e4f/listen",
+    "genre": "Music",
+    "city": "Makeni",
+    "country": "Sierra Leone",
+    "lat": 8.8881938,
+    "lng": -12.0441862
+  },
+  {
+    "id": "belize-radio-bintumani-fm-937",
+    "name": "Radio Bintumani FM 93.7",
+    "url": "https://stream-178.zeno.fm/6cfh59xseg0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2Y2ZoNTl4c2VnMHV2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoibnlVYXJGR1VRdmFVV0h3eFowYnBnZyIsImlhdCI6MTc2OTQxNjgxMCwiZXhwIjoxNzY5NDE2ODcwfQ.ZUgg4Grhv9RBubBOQMU1qA7k7fmi-isOMituZA5ajys",
+    "genre": "Music",
+    "city": "Makeni",
+    "country": "Sierra Leone",
+    "lat": 8.8881938,
+    "lng": -12.0441862
+  },
+  {
+    "id": "belize-capital-radio-fm-1049",
+    "name": "Capital Radio FM 104.9",
+    "url": "https://global.citrus3.com:8262/stream",
+    "genre": "Music",
+    "city": "Makeni",
+    "country": "Sierra Leone",
+    "lat": 8.8881938,
+    "lng": -12.0441862
+  }
+]

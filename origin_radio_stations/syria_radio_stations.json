@@ -1,0 +1,332 @@
+[
+  {
+    "id": "syria-charity-taratil-1057-fm",
+    "name": "Charity Taratil 105.7 FM",
+    "url": "http://65.108.198.245:8032/stream",
+    "genre": "Music",
+    "city": "Damascus",
+    "country": "Syria",
+    "lat": 33.5130695,
+    "lng": 36.3095814
+  },
+  {
+    "id": "syria-can-radyo",
+    "name": "Can Radyo",
+    "url": "http://yayin.yayindakiler.com:2028/;*.mp3",
+    "genre": "Music",
+    "city": "Ar Raqqah",
+    "country": "Syria",
+    "lat": 35.949678,
+    "lng": 39.0089212
+  },
+  {
+    "id": "syria-kol-hagalil-haelion-fm-1053",
+    "name": "Kol Hagalil Haelion FM 105.3",
+    "url": "https://radio.streamgates.net/stream/galil",
+    "genre": "Music",
+    "city": "Damascus",
+    "country": "Syria",
+    "lat": 33.5130695,
+    "lng": 36.3095814
+  },
+  {
+    "id": "syria-arabesque-fm-1023",
+    "name": "Arabesque FM 102.3",
+    "url": "http://185.4.87.79:8000/stream.mp3",
+    "genre": "Music",
+    "city": "Damascus",
+    "country": "Syria",
+    "lat": 33.5130695,
+    "lng": 36.3095814
+  },
+  {
+    "id": "syria-بيسان-اف-ام-bissan-fm",
+    "name": "بيسان اف ام Bissan FM",
+    "url": "https://eu10.fastcast4u.com/bissanraqqa2021",
+    "genre": "Music",
+    "city": "Ar Raqqah",
+    "country": "Syria",
+    "lat": 35.949678,
+    "lng": 39.0089212
+  },
+  {
+    "id": "syria-arta-fm",
+    "name": "ARTA FM",
+    "url": "https://edge.mixlr.com/channel/qtgru",
+    "genre": "Music",
+    "city": "Ar Raqqah",
+    "country": "Syria",
+    "lat": 35.949678,
+    "lng": 39.0089212
+  },
+  {
+    "id": "syria-rayan-fm",
+    "name": "Rayan FM",
+    "url": "https://a13.asurahosting.com/listen/r_fm/radio.mp3",
+    "genre": "Music",
+    "city": "Damascus",
+    "country": "Syria",
+    "lat": 33.5130695,
+    "lng": 36.3095814
+  },
+  {
+    "id": "syria-radyo-i̇hya-fm-1004",
+    "name": "Radyo İhya FM 100.4",
+    "url": "https://radyo.yayin.com.tr:2727/stream",
+    "genre": "Music",
+    "city": "Ar Raqqah",
+    "country": "Syria",
+    "lat": 35.949678,
+    "lng": 39.0089212
+  },
+  {
+    "id": "syria-belight-fm-1041",
+    "name": "Belight FM 104.1",
+    "url": "https://cast4.my-control-panel.com/proxy/radiode1/stream",
+    "genre": "Music",
+    "city": "Damascus",
+    "country": "Syria",
+    "lat": 33.5130695,
+    "lng": 36.3095814
+  },
+  {
+    "id": "syria-راديو-سما-الشرق",
+    "name": "راديو سما الشرق",
+    "url": "https://radio.al7eah.net/8038/stream",
+    "genre": "Music",
+    "city": "Ar Raqqah",
+    "country": "Syria",
+    "lat": 35.949678,
+    "lng": 39.0089212
+  },
+  {
+    "id": "syria-farah-fm-973",
+    "name": "Farah FM 97.3",
+    "url": "https://radio.farah.fm/?type=http",
+    "genre": "Music",
+    "city": "Damascus",
+    "country": "Syria",
+    "lat": 33.5130695,
+    "lng": 36.3095814
+  },
+  {
+    "id": "syria-dirbesiye-fm",
+    "name": "Dirbesiye FM",
+    "url": "https://dirbesiyefm-rojavaradio.radioca.st/stream/",
+    "genre": "Music",
+    "city": "Ar Raqqah",
+    "country": "Syria",
+    "lat": 35.949678,
+    "lng": 39.0089212
+  },
+  {
+    "id": "syria-radio-kol-rega",
+    "name": "Radio Kol Rega",
+    "url": "https://radio.streamgates.net/stream/KOLREGA",
+    "genre": "Music",
+    "city": "As-Suwayda",
+    "country": "Syria",
+    "lat": 32.7386567,
+    "lng": 36.8999085
+  },
+  {
+    "id": "syria-şahin-fm",
+    "name": "Şahin FM",
+    "url": "https://yayin2.canliyayin.org:7200/stream",
+    "genre": "Music",
+    "city": "Ar Raqqah",
+    "country": "Syria",
+    "lat": 35.949678,
+    "lng": 39.0089212
+  },
+  {
+    "id": "syria-teenbuzz-radio",
+    "name": "TeenBuzz Radio",
+    "url": "https://uksoutha.streaming.broadcast.radio/teenbuzzradio",
+    "genre": "Music",
+    "city": "As-Suwayda",
+    "country": "Syria",
+    "lat": 32.7386567,
+    "lng": 36.8999085
+  },
+  {
+    "id": "syria-emaar-radio",
+    "name": "Emaar Radio",
+    "url": "https://stream-152.zeno.fm/4luag56o066uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0bHVhZzU2bzA2NnV2IiwiaG9zdCI6InN0cmVhbS0xNTIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiSjFiZ29kX1JUWWFLM0V2NDFpRlBTQSIsImlhdCI6MTc2OTQyMzQ3NywiZXhwIjoxNzY5NDIzNTM3fQ.IRaZyRJag6S2WjHJHrStUt3GhbwmRFAuLC2XiFnFi2g",
+    "genre": "Music",
+    "city": "As-Suwayda",
+    "country": "Syria",
+    "lat": 32.7386567,
+    "lng": 36.8999085
+  },
+  {
+    "id": "syria-asima-online",
+    "name": "Asima-Online",
+    "url": "https://asima.out.airtime.pro/asima_a",
+    "genre": "Music",
+    "city": "Damascus",
+    "country": "Syria",
+    "lat": 33.5130695,
+    "lng": 36.3095814
+  },
+  {
+    "id": "syria-bi̇ngöl-fm-1020",
+    "name": "Bi̇ngöl FM 102.0",
+    "url": "https://radyo.yayin.com.tr:4302//stream/",
+    "genre": "Music",
+    "city": "Ad Darbasiyah",
+    "country": "Syria",
+    "lat": 37.0705993,
+    "lng": 40.6510578
+  },
+  {
+    "id": "syria-hatahana-fm-1015",
+    "name": "HaTahana FM 101.5",
+    "url": "https://cdn.cybercdn.live/Hatahana_1015/Live_Audio/icecast.audio",
+    "genre": "Music",
+    "city": "As-Suwayda",
+    "country": "Syria",
+    "lat": 32.7386567,
+    "lng": 36.8999085
+  },
+  {
+    "id": "syria-ashams",
+    "name": "Ashams",
+    "url": "https://cdna.streamgates.net/Ashams/Live/icecast.audio",
+    "genre": "Music",
+    "city": "As-Suwayda",
+    "country": "Syria",
+    "lat": 32.7386567,
+    "lng": 36.8999085
+  },
+  {
+    "id": "syria-radio-qadimak-nadimak",
+    "name": "Radio Qadimak Nadimak",
+    "url": "http://n05.radiojar.com/6suq71hpwtzuv.mp3?rj-ttl=5&rj-tok=AAABm_nkzK4AxzeRHGS8WCU5-g",
+    "genre": "Music",
+    "city": "Deir Atiyah",
+    "country": "Syria",
+    "lat": 34.1017286,
+    "lng": 36.7690473
+  },
+  {
+    "id": "syria-nojoom-fm-1039",
+    "name": "Nojoom FM 103.9",
+    "url": "http://185.105.4.53:4423/;stream.mp3",
+    "genre": "Music",
+    "city": "Damascus",
+    "country": "Syria",
+    "lat": 33.5130695,
+    "lng": 36.3095814
+  },
+  {
+    "id": "syria-radyo-yüksel",
+    "name": "Radyo Yüksel",
+    "url": "https://yayin2.canliyayin.org:8232/;stream",
+    "genre": "Music",
+    "city": "Ad Darbasiyah",
+    "country": "Syria",
+    "lat": 37.0705993,
+    "lng": 40.6510578
+  },
+  {
+    "id": "syria-voice-of-grace",
+    "name": "Voice of Grace",
+    "url": "https://securestreams5.reliastream.com:1820/index.html?sid=1",
+    "genre": "Music",
+    "city": "Damascus",
+    "country": "Syria",
+    "lat": 33.5130695,
+    "lng": 36.3095814
+  },
+  {
+    "id": "syria-radio-alghad",
+    "name": "Radio Alghad",
+    "url": "http://s10.voscast.com:9410/index.html?sid=1",
+    "genre": "Music",
+    "city": "Al-Malikiyah",
+    "country": "Syria",
+    "lat": 37.0080993,
+    "lng": 41.6835578
+  },
+  {
+    "id": "syria-dicle-fm",
+    "name": "Dicle FM",
+    "url": "https://dicle-rojavaradio.radioca.st/stream",
+    "genre": "Music",
+    "city": "Al-Malikiyah",
+    "country": "Syria",
+    "lat": 37.0080993,
+    "lng": 41.6835578
+  },
+  {
+    "id": "syria-radyo-azelya-943-fm",
+    "name": "Radyo Azelya 94.3 FM",
+    "url": "https://sssx.radyosfer.com/radyoazelya/stream",
+    "genre": "Music",
+    "city": "Amuda",
+    "country": "Syria",
+    "lat": 37.1033727,
+    "lng": 40.9296228
+  },
+  {
+    "id": "syria-sawt-kel-lebnen-fm-933-صوت-كل-لبنان",
+    "name": "Sawt Kel Lebnen FM 93.3 صوت كل لبنان",
+    "url": "https://audio.osina.cloud:9323/stream",
+    "genre": "Music",
+    "city": "Damascus",
+    "country": "Syria",
+    "lat": 33.5130695,
+    "lng": 36.3095814
+  },
+  {
+    "id": "syria-radio-joie",
+    "name": "Radio Joie",
+    "url": "https://charbyone.radioca.st/index.html?sid=1",
+    "genre": "Music",
+    "city": "Deir Atiyah",
+    "country": "Syria",
+    "lat": 34.1017286,
+    "lng": 36.7690473
+  },
+  {
+    "id": "syria-radio-duhok-fm-889",
+    "name": "Radio Duhok FM 88.9",
+    "url": "https://stream-154.zeno.fm/kfrrct64hoxuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJrZnJyY3Q2NGhveHV2IiwiaG9zdCI6InN0cmVhbS0xNTQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiclIwOU5BYWNTNkNBUG9QcjBfb1dnUSIsImlhdCI6MTc2OTQyMzQ4MCwiZXhwIjoxNzY5NDIzNTQwfQ.sv64D8WQiLVr3N_aM1aYf4qXk0MQkLBIL_KU2XNzCzA",
+    "genre": "Music",
+    "city": "Amuda",
+    "country": "Syria",
+    "lat": 37.1033727,
+    "lng": 40.9296228
+  },
+  {
+    "id": "syria-nhêl-radio",
+    "name": "Nhêl Radio",
+    "url": "https://stream-177.zeno.fm/qk3immampzqvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxazNpbW1hbXB6cXZ2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiQTRZTGZ1Q0RTQnFLcWdRS05qR3V6dyIsImlhdCI6MTc2OTQyMzQ4MCwiZXhwIjoxNzY5NDIzNTQwfQ.gOo6Ozs7RRN2x1_ucWthnt-xkF_hp9aBY8azkGPUHKo",
+    "genre": "Music",
+    "city": "Al-Malikiyah",
+    "country": "Syria",
+    "lat": 37.0080993,
+    "lng": 41.6835578
+  },
+  {
+    "id": "syria-çağrı-fm-990",
+    "name": "Çağrı FM 99.0",
+    "url": "https://live.cagrifm.com.tr/cagrifm",
+    "genre": "Music",
+    "city": "Ad Darbasiyah",
+    "country": "Syria",
+    "lat": 37.0705993,
+    "lng": 40.6510578
+  },
+  {
+    "id": "syria-al-salam-radio-fm-903",
+    "name": "Al Salam radio FM 90.3",
+    "url": "https://audio.osina.cloud:9304/stream",
+    "genre": "Music",
+    "city": "Deir Atiyah",
+    "country": "Syria",
+    "lat": 34.1017286,
+    "lng": 36.7690473
+  }
+]

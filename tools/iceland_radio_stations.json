@@ -1,0 +1,188 @@
+[
+    {
+        "name": "Stream.fo",
+        "city": "Reykjavík",
+        "country": "Iceland",
+        "url": "http://srv.stream.fo:8000/high"
+    },
+    {
+        "name": "98,7FM",
+        "city": "Siglufjörður",
+        "country": "Iceland",
+        "url": "http://srv1.stream.fo:8000/128.mp3"
+    },
+    {
+        "name": "Bylgjan FM 98.9",
+        "city": "Reykjavík",
+        "country": "Iceland",
+        "url": "http://icecast.365net.is:8000/orbbylgjan.aac"
+    },
+    {
+        "name": "X-ið FM 97.7",
+        "city": "Reykjavík",
+        "country": "Iceland",
+        "url": "http://icecast.365net.is:8000/orbXid.aac"
+    },
+    {
+        "name": "CRC FM 102.9",
+        "city": "Reykjavík",
+        "country": "Iceland",
+        "url": "https://visual.shoutca.st/stream/crcfm"
+    },
+    {
+        "name": "RÚV Rás 2",
+        "city": "Reykjavík",
+        "country": "Iceland",
+        "url": "http://netradio.ruv.is/ras2.mp3"
+    },
+    {
+        "name": "RÚV Rás 1",
+        "city": "Reykjavík",
+        "country": "Iceland",
+        "url": "http://netradio.ruv.is/ras1.mp3"
+    },
+    {
+        "name": "KVF-2",
+        "city": "Reykjavík",
+        "country": "Iceland",
+        "url": "http://netvarp.kringvarp.fo:4443/kvf2_2"
+    },
+    {
+        "name": "FM Trölli",
+        "city": "Reykjavík",
+        "country": "Iceland",
+        "url": "https://hb.trolli.is/stream"
+    },
+    {
+        "name": "Retro FM 89.5",
+        "city": "Reykjavík",
+        "country": "Iceland",
+        "url": "https://ice-11.spilarinn.is/retromobile"
+    },
+    {
+        "name": "FM Xtra",
+        "city": "Reykjavík",
+        "country": "Iceland",
+        "url": "https://ice-11.spilarinn.is/fmxtra"
+    },
+    {
+        "name": "Flashback 60s",
+        "city": "Reykjavík",
+        "country": "Iceland",
+        "url": "https://ice-11.spilarinn.is/60flashback"
+    },
+    {
+        "name": "K100 FM 100.5",
+        "city": "Reykjavík",
+        "country": "Iceland",
+        "url": "https://ice-11.spilarinn.is/kaninnmobile"
+    },
+    {
+        "name": "Létt Bylgjan FM 96.7",
+        "city": "Reykjavík",
+        "country": "Iceland",
+        "url": "https://ice-11.spilarinn.is/tlettbylgjan"
+    },
+    {
+        "name": "Útvarp Saga FM 99.4",
+        "city": "Reykjavík",
+        "country": "Iceland",
+        "url": "https://stream.utvarpsaga.is/Hljodver"
+    },
+    {
+        "name": "VoxPop Radio FM 104.1",
+        "city": "Seydisfjordur",
+        "country": "Iceland",
+        "url": "http://stream.midlar.fo/voxpop"
+    },
+    {
+        "name": "Kiss FM 104.5",
+        "city": "Reykjavík",
+        "country": "Iceland",
+        "url": "https://ice-11.spilarinn.is/kissfm"
+    },
+    {
+        "name": "Seyðisfjörður Community Radio FM 107.1",
+        "city": "Seydisfjordur",
+        "country": "Iceland",
+        "url": "https://seyisfjorur-community-radio.radiocult.fm/stream"
+    },
+    {
+        "name": "FM957",
+        "city": "Reykjavík",
+        "country": "Iceland",
+        "url": "https://ice-11.spilarinn.is/tfm957"
+    },
+    {
+        "name": "Útvarp Boðun FM 105.5",
+        "city": "Kiss FM 104.5",
+        "country": "Reykjavík, Iceland",
+        "url": "http://radio.bodun.is:8000/stream"
+    },
+    {
+        "name": "Global Irish Radio GIR.ie",
+        "city": "Reykjavík",
+        "country": "Iceland",
+        "url": "https://s3.radio.co/s05b500bb8/listen"
+    },
+    {
+        "name": "Lindin FM 101.0",
+        "city": "Siglufjörður",
+        "country": "Iceland",
+        "url": "https://high.lindin.fo/"
+    },
+    {
+        "name": "Owenea FM 100.8",
+        "city": "Siglufjörður",
+        "country": "Iceland",
+        "url": "https://rsstreaming.com/proxy/owenea_fm?mp=/stream"
+    },
+    {
+        "name": "FM Extra",
+        "city": "Siglufjörður",
+        "country": "Iceland",
+        "url": "https://ice-11.spilarinn.is/zfmextra"
+    },
+    {
+        "name": "Gull Bylgjan FM 90.9",
+        "city": "Útvarp Saga FM 99.4",
+        "country": "Reykjavík, Iceland",
+        "url": "https://ice-11.spilarinn.is/xruv2"
+    },
+    {
+        "name": "Jahta Radio Live",
+        "city": "Útvarp Saga FM 99.4",
+        "country": "Reykjavík, Iceland",
+        "url": "https://usa7.fastcast4u.com/proxy/mdjscwwh?mp=/1"
+    },
+    {
+        "name": "Radio Wester Ross 106.0",
+        "city": "Seydisfjordur",
+        "country": "Iceland",
+        "url": "https://n14.rcs.revma.com/96z3d1qs5bcwv?rj-ttl=5&rj-tok=AAABm_mlGOkAkvUAKvU2E-qBAA"
+    },
+    {
+        "name": "Uplift Radio",
+        "city": "Reykjavík",
+        "country": "Iceland",
+        "url": "https://ice31.securenetsystems.net/UPLIFTFM"
+    },
+    {
+        "name": "80s Bylgjan",
+        "city": "80s Bylgjan",
+        "country": "Reykjavík, Iceland",
+        "url": "https://ice-11.spilarinn.is/z80s"
+    },
+    {
+        "name": "FlashBack FM 91.9",
+        "city": "FlashBack FM 91.9",
+        "country": "Reykjavík, Iceland",
+        "url": "https://ice-11.spilarinn.is/flashback"
+    },
+    {
+        "name": "Apparatið",
+        "city": "Apparatið",
+        "country": "Reykjavík, Iceland",
+        "url": "https://ice-11.spilarinn.is/zapparatid"
+    }
+]

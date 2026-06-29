@@ -1,0 +1,92 @@
+[
+  {
+    "id": "cuba-radioa1a",
+    "name": "RadioA1A",
+    "url": "https://usa11.fastcast4u.com/proxy/radioa1a?mp=/stream",
+    "genre": "Music",
+    "city": "Havana",
+    "country": "Cuba",
+    "lat": 23.135305,
+    "lng": -82.3589631
+  },
+  {
+    "id": "cuba-sqcs-riviera-fm-981",
+    "name": "SQCS Riviera FM 98.1",
+    "url": "https://sp2.servidorrprivado.com/8030/stream",
+    "genre": "Music",
+    "city": "Pinar del Río",
+    "country": "Cuba",
+    "lat": 22.4167422,
+    "lng": -83.7002582
+  },
+  {
+    "id": "cuba-la-brise-fm-1049",
+    "name": "La Brise FM 104.9",
+    "url": "http://cast5.my-control-panel.com:8036/stream",
+    "genre": "Music",
+    "city": "Guantanamo",
+    "country": "Cuba",
+    "lat": 20.1431797,
+    "lng": -75.2034783
+  },
+  {
+    "id": "cuba-habana-radio",
+    "name": "Habana Radio",
+    "url": "https://media.ohc.cu/habanaradio",
+    "genre": "Music",
+    "city": "Havana",
+    "country": "Cuba",
+    "lat": 23.135305,
+    "lng": -82.3589631
+  },
+  {
+    "id": "cuba-fit-fm-967",
+    "name": "Fit FM 96.7",
+    "url": "https://listen.radioking.com/radio/691724/stream/756497",
+    "genre": "Music",
+    "city": "Santiago de Cuba",
+    "country": "Cuba",
+    "lat": 20.0214263,
+    "lng": -75.8294928
+  },
+  {
+    "id": "cuba-radio-sfm-1027",
+    "name": "Radio SFM 102.7",
+    "url": "https://stream-177.zeno.fm/wr93m2z7rfeuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ3cjkzbTJ6N3JmZXV2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiME1Kakd3cDFRR0dzQzhZdGZacHU4QSIsImlhdCI6MTc2OTQxODAwOSwiZXhwIjoxNzY5NDE4MDY5fQ.xlDvS8hFxE5sAzk3_GHq7dl3_dXkPhJv4kwgajmsE6I",
+    "genre": "Music",
+    "city": "Guantanamo",
+    "country": "Cuba",
+    "lat": 20.1431797,
+    "lng": -75.2034783
+  },
+  {
+    "id": "cuba-radio-on-go-106-fm",
+    "name": "Radio on Go 106 FM",
+    "url": "https://stream-147.zeno.fm/63qk6h62p6duv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2M3FrNmg2MnA2ZHV2IiwiaG9zdCI6InN0cmVhbS0xNDcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiR1JXdE9ZSVdUenFlUmRUVGs3NVd6QSIsImlhdCI6MTc2OTQxODAwOSwiZXhwIjoxNzY5NDE4MDY5fQ.1Dxdzkak5befUaEOlu6jRg1IcxoxDl6R4TYpFJlgCfg",
+    "genre": "Music",
+    "city": "Santiago de Cuba",
+    "country": "Cuba",
+    "lat": 20.0214263,
+    "lng": -75.8294928
+  },
+  {
+    "id": "cuba-cubandjspro-radio",
+    "name": "CubanDjsPro Radio",
+    "url": "https://servidor21.brlogic.com:7114/live",
+    "genre": "Music",
+    "city": "Havana",
+    "country": "Cuba",
+    "lat": 23.135305,
+    "lng": -82.3589631
+  },
+  {
+    "id": "cuba-kiss-fm-1061",
+    "name": "Kiss FM 106.1",
+    "url": "https://ice24.securenetsystems.net/1061KISSFM",
+    "genre": "Music",
+    "city": "Nueva Gerona",
+    "country": "Cuba",
+    "lat": 21.884696,
+    "lng": -82.8038411
+  }
+]

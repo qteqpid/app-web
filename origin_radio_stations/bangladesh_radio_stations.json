@@ -1,0 +1,282 @@
+[
+  {
+    "id": "bangladesh-jago-fm-944",
+    "name": "Jago FM 94.4",
+    "url": "http://139.59.86.99:12496/stream",
+    "genre": "Music",
+    "city": "Dhaka",
+    "country": "Bangladesh",
+    "lat": 23.7643863,
+    "lng": 90.3890144
+  },
+  {
+    "id": "bangladesh-hindi-desi-bollywood-evergreen-hits",
+    "name": "Hindi Desi Bollywood Evergreen Hits",
+    "url": "http://cast2.asurahosting.com:8569/stream",
+    "genre": "Music",
+    "city": "Dhaka",
+    "country": "Bangladesh",
+    "lat": 23.7643863,
+    "lng": 90.3890144
+  },
+  {
+    "id": "bangladesh-fnffm-bangla-radio",
+    "name": "FnF.FM Bangla Radio",
+    "url": "http://eu6.fastcast4u.com:5099/;stream",
+    "genre": "Music",
+    "city": "Dhaka",
+    "country": "Bangladesh",
+    "lat": 23.7643863,
+    "lng": 90.3890144
+  },
+  {
+    "id": "bangladesh-traffic-fm-888",
+    "name": "Traffic FM 88.8",
+    "url": "http://as3.digitalsynapsebd.com:8263/;stream.mp3",
+    "genre": "Music",
+    "city": "Dhaka",
+    "country": "Bangladesh",
+    "lat": 23.7643863,
+    "lng": 90.3890144
+  },
+  {
+    "id": "bangladesh-rajshahi-am-1080",
+    "name": "Rajshahi AM 1080",
+    "url": "https://as1.digitalsynapsebd.com/proxy/bbrajmw/stream",
+    "genre": "Music",
+    "city": "Dhaka",
+    "country": "Bangladesh",
+    "lat": 23.7643863,
+    "lng": 90.3890144
+  },
+  {
+    "id": "bangladesh-বাংলাদেশ-বেতার-betar--dhaka-a",
+    "name": "বাংলাদেশ বেতার Betar - Dhaka-A",
+    "url": "https://as1.digitalsynapsebd.com/proxy/bbdkka/stream",
+    "genre": "Music",
+    "city": "Dhaka",
+    "country": "Bangladesh",
+    "lat": 23.7643863,
+    "lng": 90.3890144
+  },
+  {
+    "id": "bangladesh-young-leaders-forum",
+    "name": "Young Leaders Forum",
+    "url": "https://studio26.radiolize.com/radio/8040/radio.mp3",
+    "genre": "Music",
+    "city": "Dhaka",
+    "country": "Bangladesh",
+    "lat": 23.7643863,
+    "lng": 90.3890144
+  },
+  {
+    "id": "bangladesh-radio-sugar-908-fm",
+    "name": "Radio Sugar 90.8 FM",
+    "url": "http://188.165.222.198:8157/stream?type=http",
+    "genre": "Music",
+    "city": "Rajshahi",
+    "country": "Bangladesh",
+    "lat": 24.6285432,
+    "lng": 89.0376862
+  },
+  {
+    "id": "bangladesh-peoples-radio-916-fm",
+    "name": "Peoples Radio 91.6 FM",
+    "url": "https://s3.myradiostream.com:14498/listen.mp3/",
+    "genre": "Music",
+    "city": "Dhaka",
+    "country": "Bangladesh",
+    "lat": 23.7643863,
+    "lng": 90.3890144
+  },
+  {
+    "id": "bangladesh-radio-bikrampur-992-fm",
+    "name": "Radio Bikrampur 99.2 FM",
+    "url": "https://cast3.my-control-panel.com/proxy/radiobikrampur/stream",
+    "genre": "Music",
+    "city": "Dhaka",
+    "country": "Bangladesh",
+    "lat": 23.7643863,
+    "lng": 90.3890144
+  },
+  {
+    "id": "bangladesh-radio-nalta-992fm",
+    "name": "Radio Nalta 99.2FM",
+    "url": "https://centova47.instainternet.com/proxy/radionalta?mp=/stream",
+    "genre": "Music",
+    "city": "Dhaka",
+    "country": "Bangladesh",
+    "lat": 23.7643863,
+    "lng": 90.3890144
+  },
+  {
+    "id": "bangladesh-radio-padma-992",
+    "name": "Radio Padma 99.2",
+    "url": "https://radiopadmabd.radioca.st/radiopadma",
+    "genre": "Music",
+    "city": "Rajshahi",
+    "country": "Bangladesh",
+    "lat": 24.6285432,
+    "lng": 89.0376862
+  },
+  {
+    "id": "bangladesh-dhaka-fm-904",
+    "name": "Dhaka FM 90.4",
+    "url": "https://stream-158.zeno.fm/u9mphfk604zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1OW1waGZrNjA0enV2IiwiaG9zdCI6InN0cmVhbS0xNTguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiTjZ1dzZPeGJTeG0wYno1MURhdy1jZyIsImlhdCI6MTc2OTQxNjY1MiwiZXhwIjoxNzY5NDE2NzEyfQ.wSh3u89xV9EEY8Hg-zxLxAK3CLJ8_5HF2pHZjknbIjE",
+    "genre": "Music",
+    "city": "Dhaka",
+    "country": "Bangladesh",
+    "lat": 23.7643863,
+    "lng": 90.3890144
+  },
+  {
+    "id": "bangladesh-radio-goongoon",
+    "name": "Radio Goongoon",
+    "url": "https://audio.streamcast.xyz/listen/radiogoongoon/radio.mp3",
+    "genre": "Music",
+    "city": "Dhaka",
+    "country": "Bangladesh",
+    "lat": 23.7643863,
+    "lng": 90.3890144
+  },
+  {
+    "id": "bangladesh-radiosangbadcom",
+    "name": "Radiosangbad.com",
+    "url": "https://stream-177.zeno.fm/mnhbu6q6ng0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJtbmhidTZxNm5nMHV2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiX0o0V05vek1ST0s5TzBEbDNaRG13USIsImlhdCI6MTc2OTQxNjY1MiwiZXhwIjoxNzY5NDE2NzEyfQ.c_sycobApZxyXe8zXlpWIH7frZH-iWZ-MPvjZcGaXMk",
+    "genre": "Music",
+    "city": "Rajshahi",
+    "country": "Bangladesh",
+    "lat": 24.6285432,
+    "lng": 89.0376862
+  },
+  {
+    "id": "bangladesh-ankora-radio",
+    "name": "Ankora Radio",
+    "url": "https://stream-175.zeno.fm/xush70b1cbruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ4dXNoNzBiMWNicnV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiRDFwVG9IOVVUb2FDV2dIbXFNdnJqZyIsImlhdCI6MTc2OTQxNjY1MiwiZXhwIjoxNzY5NDE2NzEyfQ.eiGh9ho4YtQkEC_M00PSrTpIsbVurDZwR0_AazcEfRk",
+    "genre": "Music",
+    "city": "Dhaka",
+    "country": "Bangladesh",
+    "lat": 23.7643863,
+    "lng": 90.3890144
+  },
+  {
+    "id": "bangladesh-bu-radio--barishal-university",
+    "name": "BU Radio - Barishal University",
+    "url": "https://stream-177.zeno.fm/x3wb4hevj5atv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ4M3diNGhldmo1YXR2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoicENGZWJJdE5ScE9sb25CSnZYVklIdyIsImlhdCI6MTc2OTQxNjY1MiwiZXhwIjoxNzY5NDE2NzEyfQ.pytWkDmbItHDyTOO-b6oev2DAIqp9hPoe0zcWHl2Gz0",
+    "genre": "Music",
+    "city": "Dhaka",
+    "country": "Bangladesh",
+    "lat": 23.7643863,
+    "lng": 90.3890144
+  },
+  {
+    "id": "bangladesh-radio-foorti-fm-880",
+    "name": "Radio Foorti FM 88.0",
+    "url": "https://stream-177.zeno.fm/cwa3vg8s8druv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjd2Ezdmc4czhkcnV2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiZWJPb3A0RVBSamFlcHZuakNNQlNYQSIsImlhdCI6MTc2OTQxNjY1MiwiZXhwIjoxNzY5NDE2NzEyfQ.MbrWMZ6E9Pr1Hwh4k7WadE8FMBQNBtPFE4H7_uZmoYQ",
+    "genre": "Music",
+    "city": "Dhaka",
+    "country": "Bangladesh",
+    "lat": 23.7643863,
+    "lng": 90.3890144
+  },
+  {
+    "id": "bangladesh-radio-shadhin-924-fm",
+    "name": "Radio Shadhin 92.4 FM",
+    "url": "https://stream-153.zeno.fm/eabgu655puquv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJlYWJndTY1NXB1cXV2IiwiaG9zdCI6InN0cmVhbS0xNTMuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiWVRCNEpLM01TUE9tRW9FejlSQ1YtZyIsImlhdCI6MTc2OTQxNjY1MiwiZXhwIjoxNzY5NDE2NzEyfQ.mKbcm_QrgMJs2TbqgnheREG6aYfzD9Xy4_RuLPVehWY",
+    "genre": "Music",
+    "city": "Dhaka",
+    "country": "Bangladesh",
+    "lat": 23.7643863,
+    "lng": 90.3890144
+  },
+  {
+    "id": "bangladesh-radio-bhumi-928-fm",
+    "name": "Radio Bhumi 92.8 FM",
+    "url": "https://stream-154.zeno.fm/ybf1umk1k18uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5YmYxdW1rMWsxOHV2IiwiaG9zdCI6InN0cmVhbS0xNTQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiVjFDdENIbVFSWk9ZOEpreHBuNGJqUSIsImlhdCI6MTc2OTQxNjY1MiwiZXhwIjoxNzY5NDE2NzEyfQ.lAn-XyNtascIQXKw8IdnFDzZ1gIISG4SnaFI-lhhoU8",
+    "genre": "Music",
+    "city": "Dhaka",
+    "country": "Bangladesh",
+    "lat": 23.7643863,
+    "lng": 90.3890144
+  },
+  {
+    "id": "bangladesh-bhutan-broadcasting-service-bbs-2",
+    "name": "Bhutan Broadcasting Service BBS 2",
+    "url": "https://radio.bbs.bt/dz-ch",
+    "genre": "Music",
+    "city": "Sylhet",
+    "country": "Bangladesh",
+    "lat": 24.7358854,
+    "lng": 91.6852476
+  },
+  {
+    "id": "bangladesh-ktr-radio-932-fm",
+    "name": "KTR Radio 93.2 FM",
+    "url": "https://stream-177.zeno.fm/14p58qgm2p8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIxNHA1OHFnbTJwOHV2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiMlhCV2NyQ3FRZy1LN1VjX2M2RExCQSIsImlhdCI6MTc2OTQxNjY1MywiZXhwIjoxNzY5NDE2NzEzfQ.MMR90tQeWuPMYjFkmYRd3Gb-LvId27SefqmDoVytDLM",
+    "genre": "Music",
+    "city": "Rajshahi",
+    "country": "Bangladesh",
+    "lat": 24.6285432,
+    "lng": 89.0376862
+  },
+  {
+    "id": "bangladesh-radio-milan-fm-904",
+    "name": "Radio Milan FM 90.4",
+    "url": "https://stream-175.zeno.fm/io4zzsy1ndbvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJpbzR6enN5MW5kYnZ2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoidzVtWVFOUF9RWHlmQVhGSnNoeUZ6USIsImlhdCI6MTc2OTQxNjY1NCwiZXhwIjoxNzY5NDE2NzE0fQ.9QQHyVQueCUuY1Gl4B9QtykR4sjlT7vZtcdlyKE847E",
+    "genre": "Music",
+    "city": "Barishal",
+    "country": "Bangladesh",
+    "lat": 22.4934035,
+    "lng": 90.3548015
+  },
+  {
+    "id": "bangladesh-radio-vrishti--maithili",
+    "name": "Radio Vrishti - Maithili",
+    "url": "https://stream-158.zeno.fm/n7zztgyseaduv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJuN3p6dGd5c2VhZHV2IiwiaG9zdCI6InN0cmVhbS0xNTguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiVE1PSVJ0SEhSSnVYaVlxb01jRUdhQSIsImlhdCI6MTc2OTQxNjY1NCwiZXhwIjoxNzY5NDE2NzE0fQ.wLtMUFMsc3QKM6YGvHYnxvZBvyJB4FghjK4uJm2mn2g",
+    "genre": "Music",
+    "city": "Rajshahi",
+    "country": "Bangladesh",
+    "lat": 24.6285432,
+    "lng": 89.0376862
+  },
+  {
+    "id": "bangladesh-radio-mahananda-988-fm",
+    "name": "Radio Mahananda 98.8 FM",
+    "url": "https://streaming.radiomahananda.fm/proxy/radiomahananda/stream",
+    "genre": "Music",
+    "city": "Chapai Nawabganj",
+    "country": "Bangladesh",
+    "lat": 24.5998869,
+    "lng": 88.2850466
+  },
+  {
+    "id": "bangladesh-radio-active-fm-904",
+    "name": "Radio Active FM 90.4",
+    "url": "https://stream-161.zeno.fm/ogoasntaulstv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJvZ29hc250YXVsc3R2IiwiaG9zdCI6InN0cmVhbS0xNjEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoicEMyRThyMHdRdmF4T0pVanZtMDhtUSIsImlhdCI6MTc2OTQxNjY1NCwiZXhwIjoxNzY5NDE2NzE0fQ.y8bStYIoJkg-AJPrgJUCvQWLl4fVXd1q-6slXjaToFM",
+    "genre": "Music",
+    "city": "Chapai Nawabganj",
+    "country": "Bangladesh",
+    "lat": 24.5998869,
+    "lng": 88.2850466
+  },
+  {
+    "id": "bangladesh-radio-quarantine-kolkata",
+    "name": "Radio Quarantine Kolkata",
+    "url": "https://stream-179.zeno.fm/qkuxqw830tzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxa3V4cXc4MzB0enV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiTUR6bjEtQ3ZRS0NpTEEwRjUzNnVsZyIsImlhdCI6MTc2OTQxNjY1NCwiZXhwIjoxNzY5NDE2NzE0fQ.UdNQaB5kkl1_KKyNul72wwxCSbi_3m-RHvFA4lKwHuc",
+    "genre": "Music",
+    "city": "Nalta Sharif",
+    "country": "Bangladesh",
+    "lat": 22.5141841,
+    "lng": 89.0132086
+  },
+  {
+    "id": "bangladesh-radio-today-896-fm",
+    "name": "Radio Today 89.6 FM",
+    "url": "https://stream-141.zeno.fm/8wv4d8g4344tv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI4d3Y0ZDhnNDM0NHR2IiwiaG9zdCI6InN0cmVhbS0xNDEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoic092bUdueDNTdUtpbzZpNnJrSnBNUSIsImlhdCI6MTc2OTQxNjY1NCwiZXhwIjoxNzY5NDE2NzE0fQ.t035BnBqoQQH3FB3ucebQcq2CBW7xZ1C5gcSlQwVrrQ",
+    "genre": "Music",
+    "city": "Dhaka",
+    "country": "Bangladesh",
+    "lat": 23.7643863,
+    "lng": 90.3890144
+  }
+]

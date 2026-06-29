@@ -1,0 +1,542 @@
+[
+    {
+        "name": "Megafon FM 95.7",
+        "city": "Budapest",
+        "country": "Hungary",
+        "url": "http://78.131.58.127:8000/stream"
+    },
+    {
+        "name": "Trió FM 97.7",
+        "city": "Budapest",
+        "country": "Hungary",
+        "url": "http://92.119.123.141:9090/stream"
+    },
+    {
+        "name": "MegaDance Rádió",
+        "city": "Budapest",
+        "country": "Hungary",
+        "url": "http://megadanceradio.hopto.org:8000/livemega.mp3"
+    },
+    {
+        "name": "MixRadio - Today's Hits",
+        "city": "Budapest",
+        "country": "Hungary",
+        "url": "http://45.67.156.157:18006/live"
+    },
+    {
+        "name": "Argentine Tango Radio",
+        "city": "Budapest",
+        "country": "Hungary",
+        "url": "https://ais-sa2.cdnstream1.com/2202_128.mp3"
+    },
+    {
+        "name": "Rádió Comedy",
+        "city": "Budapest",
+        "country": "Hungary",
+        "url": "https://a7.asurahosting.com:8430/radio.mp3"
+    },
+    {
+        "name": "Cegléd Rádió",
+        "city": "Budapest",
+        "country": "Hungary",
+        "url": "http://stream.cegledradio.hu:4387/mp3"
+    },
+    {
+        "name": "Európa Rádió FM 94.4",
+        "city": "Debrecen",
+        "country": "Hungary",
+        "url": "https://europaradio.hu/debrecen"
+    },
+    {
+        "name": "Sztráda Rádió",
+        "city": "Budapest",
+        "country": "Hungary",
+        "url": "http://stream.diazol.hu:35080/live.mp3"
+    },
+    {
+        "name": "Mária Rádió Mór",
+        "city": "Budapest",
+        "country": "Hungary",
+        "url": "http://mariaradio.hu:8000/mr_mor"
+    },
+    {
+        "name": "MR2 Petofi Radio",
+        "city": "Budapest",
+        "country": "Hungary",
+        "url": "http://mr-stream.mediaconnect.hu/4738/mr2.mp3"
+    },
+    {
+        "name": "Manna FM 98.6",
+        "city": "Budapest",
+        "country": "Hungary",
+        "url": "https://icast.connectmedia.hu/4780/live.mp3"
+    },
+    {
+        "name": "MR1 Kossuth Radio",
+        "city": "Budapest",
+        "country": "Hungary",
+        "url": "https://icast.connectmedia.hu/4726/mr1ex.mp3"
+    },
+    {
+        "name": "Best FM 104.6",
+        "city": "Debrecen",
+        "country": "Hungary",
+        "url": "https://streams1.webthings.hu/bestfm.mp3"
+    },
+    {
+        "name": "Retro Rádió",
+        "city": "Budapest",
+        "country": "Hungary",
+        "url": "https://icast.connectmedia.hu/5001/live.mp3"
+    },
+    {
+        "name": "Radio 24 Dunaujvaros",
+        "city": "Budapest",
+        "country": "Hungary",
+        "url": "https://s01.diazol.hu:10102/live.mp3/"
+    },
+    {
+        "name": "Radio 1 FM 89.5",
+        "city": "Budapest",
+        "country": "Hungary",
+        "url": "https://icast.connectmedia.hu/5201/live.mp3"
+    },
+    {
+        "name": "Radio M",
+        "city": "Debrecen",
+        "country": "Hungary",
+        "url": "https://stream.42netmedia.com:8443/radiom"
+    },
+    {
+        "name": "Hobby Rádió",
+        "city": "Debrecen",
+        "country": "Hungary",
+        "url": "http://hobbyradio.hu:8000/hobbyradio.mp3"
+    },
+    {
+        "name": "Radio Now!",
+        "city": "Budapest",
+        "country": "Hungary",
+        "url": "https://s01.diazol.hu:10072/now"
+    },
+    {
+        "name": "Shine FM Radio",
+        "city": "Debrecen",
+        "country": "Hungary",
+        "url": "https://s01.diazol.hu:10042/stream/"
+    },
+    {
+        "name": "Radio 1 Békéscsaba FM 104.0",
+        "city": "Debrecen",
+        "country": "Hungary",
+        "url": "https://icast.connectmedia.hu/5233/live.mp3"
+    },
+    {
+        "name": "Best FM 103.9 Nyíregyháza",
+        "city": "Nyíregyháza",
+        "country": "Hungary",
+        "url": "https://icast.connectmedia.hu/5115/live.mp3"
+    },
+    {
+        "name": "Európa Rádió FM 100.5",
+        "city": "Nyíregyháza",
+        "country": "Hungary",
+        "url": "https://europaradio.hu/nyiregyhaza"
+    },
+    {
+        "name": "Sunshine Rádió 99.4 FM",
+        "city": "Nyíregyháza",
+        "country": "Hungary",
+        "url": "http://stream.composeit.hu:8100/sunshine"
+    },
+    {
+        "name": "RVE Muzică",
+        "city": "Nyíregyháza",
+        "country": "Hungary",
+        "url": "http://162.244.80.32:9470/;stream.mp3"
+    },
+    {
+        "name": "Rádió 1 Nyíregyháza",
+        "city": "Nyíregyháza",
+        "country": "Hungary",
+        "url": "https://icast.connectmedia.hu/5218/live.mp3"
+    },
+    {
+        "name": "Klubrádió FM",
+        "city": "Budapest",
+        "country": "Hungary",
+        "url": "https://hu-stream04.klubradio.hu:8443/bpstream"
+    },
+    {
+        "name": "Európa Rádió FM 100.0",
+        "city": "Nyíregyháza",
+        "country": "Hungary",
+        "url": "https://europaradio.hu/satoraljaujhely"
+    },
+    {
+        "name": "Európa Rádió FM 90.4",
+        "city": "Nyíregyháza",
+        "country": "Hungary",
+        "url": "https://europaradio.hu/miskolc"
+    },
+    {
+        "name": "HírFM Nyíregyháza 102.6 FM",
+        "city": "Debrecen",
+        "country": "Hungary",
+        "url": "https://n29a-eu.rcs.revma.com/bck7den8b2uvv?rj-ttl=5&rj-tok=AAABm_mkZ1cA-g7wDAGwWdiPmg"
+    },
+    {
+        "name": "Folkrádió",
+        "city": "Debrecen",
+        "country": "Hungary",
+        "url": "https://stream.folkradio.hu/folkradio.mp3"
+    },
+    {
+        "name": "Radio E",
+        "city": "Székesfehérvár",
+        "country": "Hungary",
+        "url": "http://www.radioe.net:8080/efm_high"
+    },
+    {
+        "name": "Taska Radio 97.5",
+        "city": "Székesfehérvár",
+        "country": "Hungary",
+        "url": "https://stream1.virtualisan.net/prx/7070/"
+    },
+    {
+        "name": "Alpha Radio 88.9 FM",
+        "city": "Székesfehérvár",
+        "country": "Hungary",
+        "url": "https://radioe.net:8443/alpha_high"
+    },
+    {
+        "name": "Lépés Rádió",
+        "city": "Debrecen",
+        "country": "Hungary",
+        "url": "https://stream.nmih.hu:4002/live.mp3"
+    },
+    {
+        "name": "Rádió7",
+        "city": "Szeged",
+        "country": "Hungary",
+        "url": "http://netradio.radio7.hu:8300/stream.mp3"
+    },
+    {
+        "name": "Radio 88 FM 95.4",
+        "city": "Szeged",
+        "country": "Hungary",
+        "url": "https://stream.radio88.hu/onair.mp3"
+    },
+    {
+        "name": "Szent István Rádió",
+        "city": "Miskolc",
+        "country": "Hungary",
+        "url": "http://online.szentistvanradio.hu:7000/adas"
+    },
+    {
+        "name": "Győr Plusz Radio",
+        "city": "Győr",
+        "country": "Hungary",
+        "url": "https://stream.42netmedia.com:8443/sc_gyor1"
+    },
+    {
+        "name": "Balaton Rádió FM 88.7",
+        "city": "Győr",
+        "country": "Hungary",
+        "url": "http://radioe.net:8080/fm887"
+    },
+    {
+        "name": "Callisto Rádió",
+        "city": "Győr",
+        "country": "Hungary",
+        "url": "http://188.165.11.30:4500/live.mp3/"
+    },
+    {
+        "name": "Radio 1 Miskolc 96.3",
+        "city": "Miskolc",
+        "country": "Hungary",
+        "url": "https://icast.connectmedia.hu/5211/live.mp3"
+    },
+    {
+        "name": "Radio Ada 107.7 FM",
+        "city": "Szeged",
+        "country": "Hungary",
+        "url": "https://acp.adiswitch.com/proxy/radioada/stream"
+    },
+    {
+        "name": "FM 103 Csillagpont Radio",
+        "city": "Miskolc",
+        "country": "Hungary",
+        "url": "http://streamer1.borsodweb.hu:48000/csillagpont"
+    },
+    {
+        "name": "Deja Vu Radio",
+        "city": "Szeged",
+        "country": "Hungary",
+        "url": "https://adas.dejavuradio.hu:8178/dejavuradio"
+    },
+    {
+        "name": " FMRádió 1 Szeged ",
+        "city": "Szeged",
+        "country": "Hungary",
+        "url": "https://icast.connectmedia.hu/5232/live.mp3"
+    },
+    {
+        "name": "Rábaköz Rádió FM 94.5",
+        "city": "Győr",
+        "country": "Hungary",
+        "url": "https://radio.molnarkft.hu/rabakozradio"
+    },
+    {
+        "name": "Halas Rádió FM 92.9",
+        "city": "Szeged",
+        "country": "Hungary",
+        "url": "https://halas.str.42net.hu/stream"
+    },
+    {
+        "name": "Rádió Smile FM 89.9",
+        "city": "Szeged",
+        "country": "Hungary",
+        "url": "https://smile.str.42net.hu/stream/"
+    },
+    {
+        "name": "Naš MM Radio 97.8 FM",
+        "city": "Szeged",
+        "country": "Hungary",
+        "url": "https://radio.dukahosting.com:7045/index.html?sid=1"
+    },
+    {
+        "name": "Regina Régi Slágerek Old Hits Radio",
+        "city": "Győr",
+        "country": "Hungary",
+        "url": "https://cast1.asurahosting.com/proxy/zoltan1/stream"
+    },
+    {
+        "name": "X Music",
+        "city": "Győr",
+        "country": "Hungary",
+        "url": "https://ip169.ozelip.com/7774/stream"
+    },
+    {
+        "name": "Start Rádió 98.4 FM",
+        "city": "Békéscsaba",
+        "country": "Hungary",
+        "url": "https://online.startradio.hu/start.mp3"
+    },
+    {
+        "name": "Pannónia Rádió",
+        "city": "Pécs",
+        "country": "Hungary",
+        "url": "http://kft.kesintisizyayin.com:8130/stream/"
+    },
+    {
+        "name": "Csaba Rádió FM 88.9",
+        "city": "Békéscsaba",
+        "country": "Hungary",
+        "url": "https://csabaradio.hu/csabastream"
+    },
+    {
+        "name": "I Love Pécs!",
+        "city": "Pécs",
+        "country": "Hungary",
+        "url": "http://radio.ilovepecs.hu:8200/ilp.mp3"
+    },
+    {
+        "name": "Radio Baranja FM 88",
+        "city": "Pécs",
+        "country": "Hungary",
+        "url": "https://s8.iqstreaming.com:2020/stream/radio_baranja/stream/"
+    },
+    {
+        "name": "Radio Našice FM 88.7",
+        "city": "Pécs",
+        "country": "Hungary",
+        "url": "https://s8.iqstreaming.com:8038/stream"
+    },
+    {
+        "name": "Speed FM",
+        "city": "Kecskemét",
+        "country": "Hungary",
+        "url": "https://a3.asurahosting.com:6430/radio.mp3"
+    },
+    {
+        "name": "Radio 1 Pécs",
+        "city": "Pécs",
+        "country": "Hungary",
+        "url": "https://stream.radio1pecs.hu/pecs.mp3"
+    },
+    {
+        "name": "Radio Donji Miholjac FM 92.3",
+        "city": "Pécs",
+        "country": "Hungary",
+        "url": "https://s8.iqstreaming.com:8032/stream"
+    },
+    {
+        "name": "Radio Ypsilon 94.5 FM",
+        "city": "Sopron",
+        "country": "Hungary",
+        "url": "http://mp3.radioypsilon.at:8000/mp3-160"
+    },
+    {
+        "name": "Radio Slatina FM 107.4",
+        "city": "Pécs",
+        "country": "Hungary",
+        "url": "https://a1.asurahosting.com/listen/radio_slatina/radio.mp3"
+    },
+    {
+        "name": "Korona Rádió",
+        "city": "Kecskemét",
+        "country": "Hungary",
+        "url": "http://82.141.165.6:8000/index.html?sid=1"
+    },
+    {
+        "name": "ORF Radio Burgenland",
+        "city": "Sopron",
+        "country": "Hungary",
+        "url": "https://orf-live.ors-shoutcast.at/bgl-q1a"
+    },
+    {
+        "name": "Best FM 101.7",
+        "city": "Pécs",
+        "country": "Hungary",
+        "url": "https://icast.connectmedia.hu/5128/live.mp3"
+    },
+    {
+        "name": "Radio 1 Gong",
+        "city": "Kecskemét",
+        "country": "Hungary",
+        "url": "https://icast.connectmedia.hu/5241/live.mp3"
+    },
+    {
+        "name": "RVE Viena Deutsch",
+        "city": "Sopron",
+        "country": "Hungary",
+        "url": "https://s2.free-shoutcast.com/stream/18120"
+    },
+    {
+        "name": "Oxygen Kids",
+        "city": "Székesfehérvár",
+        "country": "Hungary",
+        "url": "https://oxygenmusic.hu:8443/oxygenkids_128"
+    },
+    {
+        "name": "RTV Unirea",
+        "city": "Sopron",
+        "country": "Hungary",
+        "url": "https://s1.bcmsol.ro/8002/stream"
+    },
+    {
+        "name": "Aktív Rádió",
+        "city": "Szolnok",
+        "country": "Hungary",
+        "url": "http://aktivradio.hu:8000/aktiv.mp3"
+    },
+    {
+        "name": "Paks FM 96.3",
+        "city": "Dunaújváros",
+        "country": "Hungary",
+        "url": "http://str2.42net.hu:8000/paks_fm"
+    },
+    {
+        "name": "Studio M 98.8",
+        "city": "Zalaegerszeg",
+        "country": "Hungary",
+        "url": "https://a4.asurahosting.com:7090/studiom.aac"
+    },
+    {
+        "name": "Lucky Radio",
+        "city": "Baja",
+        "country": "Hungary",
+        "url": "http://cmr-hosting.com:8470/;stream.mp3"
+    },
+    {
+        "name": "Radio 1 Eger 101.3",
+        "city": "Szolnok",
+        "country": "Hungary",
+        "url": "https://dc2.dcsolutions.hu:8445/radio1eger"
+    },
+    {
+        "name": "MoMo Rádió - Children music",
+        "city": "Sopron",
+        "country": "Hungary",
+        "url": "https://s03.diazol.hu:7092/zene.mp3/"
+    },
+    {
+        "name": "MoMo Rádió - Children tales",
+        "city": "Sopron",
+        "country": "Hungary",
+        "url": "https://s03.diazol.hu:7092/mese.mp3/"
+    },
+    {
+        "name": "Best FM 102.4",
+        "city": "Szolnok",
+        "country": "Hungary",
+        "url": "https://icast.connectmedia.hu/5112/live.mp3/"
+    },
+    {
+        "name": "Radio 1 FM 105.6",
+        "city": "Zalaegerszeg",
+        "country": "Hungary",
+        "url": "https://azuracast.novi-net.net/radio/8020/radio1.aac"
+    },
+    {
+        "name": "Egerszeg Rádió FM 95.1",
+        "city": "Zalaegerszeg",
+        "country": "Hungary",
+        "url": "https://egerszeg.str.42net.hu/stream"
+    },
+    {
+        "name": "Radio Drava FM 92.5",
+        "city": "Zalaegerszeg",
+        "country": "Hungary",
+        "url": "https://streaming.radio-drava.hr/live"
+    },
+    {
+        "name": "Radio MORA",
+        "city": "Sopron",
+        "country": "Hungary",
+        "url": "https://server4.streamserver24.com:26250/stream"
+    },
+    {
+        "name": "Maxiradio FM 92.4",
+        "city": "Gyöngyös",
+        "country": "Hungary",
+        "url": "https://a2.asurahosting.com:8060/radio.mp3"
+    },
+    {
+        "name": "Korona FM 100",
+        "city": "Baja",
+        "country": "Hungary",
+        "url": "https://stream.koronafm100.hu/listen/koronafm100/stream_sq.mp3"
+    },
+    {
+        "name": "Rádió Pápa 95.7 FM",
+        "city": "Pápa",
+        "country": "Hungary",
+        "url": "https://s01.diazol.hu:9072/stream"
+    },
+    {
+        "name": "Bajai Rádió FM 89.8",
+        "city": "Baja",
+        "country": "Hungary",
+        "url": "https://s03.diazol.hu:7002/live.mp3"
+    },
+    {
+        "name": "Radio Ludbreg",
+        "city": "Zalaegerszeg",
+        "country": "Hungary",
+        "url": "https://a1.asurahosting.com/listen/radioludbreg/radio.mp3"
+    },
+    {
+        "name": "Radio Orahovica FM 95.7",
+        "city": "Pécs",
+        "country": "Hungary",
+        "url": "https://ec2s.crolive.com.hr:2595/stream"
+    },
+    {
+        "name": "Groove City",
+        "city": "Dunaújváros",
+        "country": "Hungary",
+        "url": "https://s03.diazol.hu:35112/city.mp3"
+    }
+]

@@ -1,0 +1,422 @@
+[
+  {
+    "id": "moldova-radio-7-fm-1052",
+    "name": "Radio 7 FM 105.2",
+    "url": "http://109.185.173.143:8000/",
+    "genre": "Music",
+    "city": "Chișinău",
+    "country": "Moldova",
+    "lat": 47.0245117,
+    "lng": 28.8322923
+  },
+  {
+    "id": "moldova-pro-dj-radio",
+    "name": "Pro Dj Radio",
+    "url": "https://live.prodjradio.net:8065/radio",
+    "genre": "Music",
+    "city": "Orhei",
+    "country": "Moldova",
+    "lat": 47.3782288,
+    "lng": 28.8246754
+  },
+  {
+    "id": "moldova-pro-lider-fm-924",
+    "name": "Pro Lider FM 92.4",
+    "url": "http://liderfm.go.ro:8000/stream/1/",
+    "genre": "Music",
+    "city": "Chișinău",
+    "country": "Moldova",
+    "lat": 47.0245117,
+    "lng": 28.8322923
+  },
+  {
+    "id": "moldova-radio-studentus",
+    "name": "Radio Studentus",
+    "url": "http://radiolive.studentus.md:8000/live",
+    "genre": "Music",
+    "city": "Chișinău",
+    "country": "Moldova",
+    "lat": 47.0245117,
+    "lng": 28.8322923
+  },
+  {
+    "id": "moldova-dance-fm-1013",
+    "name": "Dance FM 101.3",
+    "url": "https://stream.mmgmoldova.md:8443/dancefm",
+    "genre": "Music",
+    "city": "Chișinău",
+    "country": "Moldova",
+    "lat": 47.0245117,
+    "lng": 28.8322923
+  },
+  {
+    "id": "moldova-love-radio-916-fm",
+    "name": "Love Radio 91.6 FM",
+    "url": "https://stream.mmgmoldova.md:8443/lovefm",
+    "genre": "Music",
+    "city": "Chișinău",
+    "country": "Moldova",
+    "lat": 47.0245117,
+    "lng": 28.8322923
+  },
+  {
+    "id": "moldova-hit-fm-dance-hits",
+    "name": "Hit FM Dance Hits",
+    "url": "https://radio4.dixi.md/listen/hit_fm_dance_hits/hitfmdancehits128.aac",
+    "genre": "Music",
+    "city": "Chișinău",
+    "country": "Moldova",
+    "lat": 47.0245117,
+    "lng": 28.8322923
+  },
+  {
+    "id": "moldova-kiss-fm-chișinău",
+    "name": "Kiss FM Chișinău",
+    "url": "https://live.kissfm.ro/kissfm.chisinau",
+    "genre": "Music",
+    "city": "Chișinău",
+    "country": "Moldova",
+    "lat": 47.0245117,
+    "lng": 28.8322923
+  },
+  {
+    "id": "moldova-radio-armonia",
+    "name": "Radio Armonia",
+    "url": "https://video.bluespot.ro/stream",
+    "genre": "Music",
+    "city": "Chișinău",
+    "country": "Moldova",
+    "lat": 47.0245117,
+    "lng": 28.8322923
+  },
+  {
+    "id": "moldova-radio-plai",
+    "name": "Radio Plai",
+    "url": "https://stream.radioplai.md/live",
+    "genre": "Music",
+    "city": "Chișinău",
+    "country": "Moldova",
+    "lat": 47.0245117,
+    "lng": 28.8322923
+  },
+  {
+    "id": "moldova-romano-patrin-fm",
+    "name": "Romano Patrin FM",
+    "url": "https://mediaserv38.live-streams.nl:8074/stream",
+    "genre": "Music",
+    "city": "Chișinău",
+    "country": "Moldova",
+    "lat": 47.0245117,
+    "lng": 28.8322923
+  },
+  {
+    "id": "moldova-new-radio",
+    "name": "New Radio",
+    "url": "https://stream.newradio.md/stream",
+    "genre": "Music",
+    "city": "Chișinău",
+    "country": "Moldova",
+    "lat": 47.0245117,
+    "lng": 28.8322923
+  },
+  {
+    "id": "moldova-radio-enigma-hit",
+    "name": "Radio Enigma Hit",
+    "url": "https://radiointact.ro/8050/stream",
+    "genre": "Music",
+    "city": "Chișinău",
+    "country": "Moldova",
+    "lat": 47.0245117,
+    "lng": 28.8322923
+  },
+  {
+    "id": "moldova-radio-record-1079-fm",
+    "name": "Radio Record 107.9 FM",
+    "url": "https://air.radiorecord.md/RecordMD",
+    "genre": "Music",
+    "city": "Chișinău",
+    "country": "Moldova",
+    "lat": 47.0245117,
+    "lng": 28.8322923
+  },
+  {
+    "id": "moldova-om-radio",
+    "name": "OM Radio",
+    "url": "http://188.138.251.192:8002/index.html?sid=1",
+    "genre": "Music",
+    "city": "Soroca",
+    "country": "Moldova",
+    "lat": 48.1571286,
+    "lng": 28.2996052
+  },
+  {
+    "id": "moldova-ercis-fm",
+    "name": "Ercis FM",
+    "url": "https://stream-161.zeno.fm/ehbuv5erws8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJlaGJ1djVlcndzOHV2IiwiaG9zdCI6InN0cmVhbS0xNjEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiV1ZkUm5Cd2ZTTmFIb2VRY2NzaVZvdyIsImlhdCI6MTc2OTQyMDc5MSwiZXhwIjoxNzY5NDIwODUxfQ.OBTyOnrO9j4W9X1HPSzGpGFcK9IsjV3hHyGneRiyW-M",
+    "genre": "Music",
+    "city": "Tiraspol",
+    "country": "Moldova",
+    "lat": 46.8371103,
+    "lng": 29.6109989
+  },
+  {
+    "id": "moldova-radio-noroc",
+    "name": "Radio Noroc",
+    "url": "https://stream.noroc.tv/radionoroc_128",
+    "genre": "Music",
+    "city": "Chișinău",
+    "country": "Moldova",
+    "lat": 47.0245117,
+    "lng": 28.8322923
+  },
+  {
+    "id": "moldova-hit-fm-русское-хитовое",
+    "name": "Hit FM Русское Хитовое",
+    "url": "https://radio3.dixi.md/listen/hit_fm_russkoe_hitovoe/hitfm_ruhit128.aac",
+    "genre": "Music",
+    "city": "Chișinău",
+    "country": "Moldova",
+    "lat": 47.0245117,
+    "lng": 28.8322923
+  },
+  {
+    "id": "moldova-radio-one-fm-962",
+    "name": "Radio ONE FM 96.2",
+    "url": "https://radio1.md/r1",
+    "genre": "Music",
+    "city": "Chișinău",
+    "country": "Moldova",
+    "lat": 47.0245117,
+    "lng": 28.8322923
+  },
+  {
+    "id": "moldova-news-fm-pascani",
+    "name": "News FM Pascani",
+    "url": "https://stream2.rcast.net/64531",
+    "genre": "Music",
+    "city": "Soroca",
+    "country": "Moldova",
+    "lat": 48.1571286,
+    "lng": 28.2996052
+  },
+  {
+    "id": "moldova-roman-fm-942",
+    "name": "Roman FM 94.2",
+    "url": "https://live.romanfm.ro:8000/;rfm",
+    "genre": "Music",
+    "city": "Orhei",
+    "country": "Moldova",
+    "lat": 47.3782288,
+    "lng": 28.8246754
+  },
+  {
+    "id": "moldova-publika-fm-921",
+    "name": "Publika FM 92.1",
+    "url": "https://publikafm.md/publikafm",
+    "genre": "Music",
+    "city": "Tiraspol",
+    "country": "Moldova",
+    "lat": 46.8371103,
+    "lng": 29.6109989
+  },
+  {
+    "id": "moldova-radio-logos-moldova",
+    "name": "Radio Logos Moldova",
+    "url": "http://asculta.logos.md:10000/live?.mp3/;",
+    "genre": "Music",
+    "city": "Chișinău",
+    "country": "Moldova",
+    "lat": 47.0245117,
+    "lng": 28.8322923
+  },
+  {
+    "id": "moldova-jurnal-fm",
+    "name": "Jurnal FM",
+    "url": "https://audio.jurnalfm.md/hq",
+    "genre": "Music",
+    "city": "Chișinău",
+    "country": "Moldova",
+    "lat": 47.0245117,
+    "lng": 28.8322923
+  },
+  {
+    "id": "moldova-viva-fm-botoșani",
+    "name": "Viva FM Botoșani",
+    "url": "https://cloud.radiosonicpanel.ro:8006/stream",
+    "genre": "Music",
+    "city": "Soroca",
+    "country": "Moldova",
+    "lat": 48.1571286,
+    "lng": 28.2996052
+  },
+  {
+    "id": "moldova-radio-vocea-speranței",
+    "name": "Radio Vocea Speranței",
+    "url": "http://31.131.2.5:8000/rvs_mp3",
+    "genre": "Music",
+    "city": "Chișinău",
+    "country": "Moldova",
+    "lat": 47.0245117,
+    "lng": 28.8322923
+  },
+  {
+    "id": "moldova-megapolis-fm-886",
+    "name": "Megapolis FM 88.6",
+    "url": "https://megapolisfm.md:8443/886",
+    "genre": "Music",
+    "city": "Chișinău",
+    "country": "Moldova",
+    "lat": 47.0245117,
+    "lng": 28.8322923
+  },
+  {
+    "id": "moldova-muz-fm",
+    "name": "Muz FM",
+    "url": "https://live.muzfm.md:8000/muzfm",
+    "genre": "Music",
+    "city": "Chișinău",
+    "country": "Moldova",
+    "lat": 47.0245117,
+    "lng": 28.8322923
+  },
+  {
+    "id": "moldova-radio-21-fm-1027",
+    "name": "Radio 21 FM 102.7",
+    "url": "http://217.26.167.180:8083/Radio21.mp3",
+    "genre": "Music",
+    "city": "Chișinău",
+    "country": "Moldova",
+    "lat": 47.0245117,
+    "lng": 28.8322923
+  },
+  {
+    "id": "moldova-radio-moldova-muzical",
+    "name": "Radio Moldova Muzical",
+    "url": "http://radiolive.trm.md:8000/RM-muzical-256",
+    "genre": "Music",
+    "city": "Chișinău",
+    "country": "Moldova",
+    "lat": 47.0245117,
+    "lng": 28.8322923
+  },
+  {
+    "id": "moldova-aquarelle-fm-907",
+    "name": "Aquarelle FM 90.7",
+    "url": "http://live.aquarellefm.md:8000/Aquarellefm.aac",
+    "genre": "Music",
+    "city": "Chișinău",
+    "country": "Moldova",
+    "lat": 47.0051517,
+    "lng": 28.8361393
+  },
+  {
+    "id": "moldova-hit-fm-best-hits",
+    "name": "Hit FM Best Hits",
+    "url": "https://radio3.dixi.md/listen/hit_fm_best_hits/hitfm_besthits128.aac",
+    "genre": "Music",
+    "city": "Chișinău",
+    "country": "Moldova",
+    "lat": 47.0245117,
+    "lng": 28.8322923
+  },
+  {
+    "id": "moldova-radio-relax-funk-soul",
+    "name": "Radio Relax Funk & Soul",
+    "url": "https://radio1.dixi.md/listen/relax_funk_soul/relaxfunkandsoul128.aac",
+    "genre": "Music",
+    "city": "Chișinău",
+    "country": "Moldova",
+    "lat": 47.0245117,
+    "lng": 28.8322923
+  },
+  {
+    "id": "moldova-retro-fm-891",
+    "name": "Retro FM 89.1",
+    "url": "https://efir.retrofm.md:8000/retro",
+    "genre": "Music",
+    "city": "Chișinău",
+    "country": "Moldova",
+    "lat": 47.0245117,
+    "lng": 28.8322923
+  },
+  {
+    "id": "moldova-radio-roks-967-fm",
+    "name": "Radio Roks 96.7 FM",
+    "url": "https://stream.dixi.md:9443/Roks",
+    "genre": "Music",
+    "city": "Chișinău",
+    "country": "Moldova",
+    "lat": 47.0245117,
+    "lng": 28.8322923
+  },
+  {
+    "id": "moldova-vocea-basarabiei",
+    "name": "Vocea Basarabiei",
+    "url": "https://stream.noroc.tv/radiovb_aac",
+    "genre": "Music",
+    "city": "Chișinău",
+    "country": "Moldova",
+    "lat": 47.0245117,
+    "lng": 28.8322923
+  },
+  {
+    "id": "moldova-hit-fm-hot-hits",
+    "name": "Hit FM Hot Hits",
+    "url": "https://radio3.dixi.md/listen/hit_fm_hot_hits/hitfm_hothits128.aac",
+    "genre": "Music",
+    "city": "Chișinău",
+    "country": "Moldova",
+    "lat": 47.0245117,
+    "lng": 28.8322923
+  },
+  {
+    "id": "moldova-avto-radio-1032-fm",
+    "name": "Avto Radio 103.2 FM",
+    "url": "https://streams.radiozum.md/listen/autoradio/autoradio",
+    "genre": "Music",
+    "city": "Chișinău",
+    "country": "Moldova",
+    "lat": 47.0245117,
+    "lng": 28.8322923
+  },
+  {
+    "id": "moldova-russkoe-radio-fm-1059",
+    "name": "Russkoe Radio FM 105.9",
+    "url": "https://live.ruradio.md/ruradio",
+    "genre": "Music",
+    "city": "Chișinău",
+    "country": "Moldova",
+    "lat": 47.0245117,
+    "lng": 28.8322923
+  },
+  {
+    "id": "moldova-maestro-fm",
+    "name": "Maestro FM",
+    "url": "https://live.maestrofm.md/maestro",
+    "genre": "Music",
+    "city": "Chișinău",
+    "country": "Moldova",
+    "lat": 47.0051517,
+    "lng": 28.8361393
+  },
+  {
+    "id": "moldova-radio-micul-samaritean",
+    "name": "Radio Micul Samaritean",
+    "url": "https://s5.radio.co/sfff7b7e97/listen",
+    "genre": "Music",
+    "city": "Chișinău",
+    "country": "Moldova",
+    "lat": 47.0245117,
+    "lng": 28.8322923
+  },
+  {
+    "id": "moldova-hit-fm-tricolor-de-hituri",
+    "name": "Hit FM Tricolor de hituri",
+    "url": "https://radio3.dixi.md/listen/hit_fm_tricolour/hitfmtricolor128.aac",
+    "genre": "Music",
+    "city": "Chișinău",
+    "country": "Moldova",
+    "lat": 47.0245117,
+    "lng": 28.8322923
+  }
+]

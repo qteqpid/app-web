@@ -1,0 +1,162 @@
+[
+  {
+    "id": "comoros-rafa-fm-1035",
+    "name": "RAFA FM 103.5",
+    "url": "http://radios.justweb.pt:8026/stream",
+    "genre": "Music",
+    "city": "Díli",
+    "country": "Timor-Leste",
+    "lat": -8.5536809,
+    "lng": 125.5784093
+  },
+  {
+    "id": "comoros-max-969-fm",
+    "name": "Max 96.9 FM",
+    "url": "https://pu.klikhost.com/proxy/maxfmwaingapu/stream",
+    "genre": "Music",
+    "city": "Díli",
+    "country": "Timor-Leste",
+    "lat": -8.5536809,
+    "lng": 125.5784093
+  },
+  {
+    "id": "comoros-gobers-radio",
+    "name": "Gobers Radio",
+    "url": "https://sx.alhasmedia.com/radio/8140/radio",
+    "genre": "Music",
+    "city": "Díli",
+    "country": "Timor-Leste",
+    "lat": -8.5536809,
+    "lng": 125.5784093
+  },
+  {
+    "id": "comoros-radio-domoni-inter",
+    "name": "Radio Domoni Inter",
+    "url": "http://domoni-inter.org:8000/live",
+    "genre": "Music",
+    "city": "Mutsamudu",
+    "country": "Comoros",
+    "lat": -12.168846,
+    "lng": 44.3942831
+  },
+  {
+    "id": "comoros-rf-mayotte",
+    "name": "RF Mayotte",
+    "url": "https://radio.mayotte-streaming.com:10998/index.html",
+    "genre": "Music",
+    "city": "Mutsamudu",
+    "country": "Comoros",
+    "lat": -12.168846,
+    "lng": 44.3942831
+  },
+  {
+    "id": "comoros-radio-mauloko-fm-897",
+    "name": "Radio Mauloko FM 89.7",
+    "url": "https://streaming.kalohan.net/proxy/mauloko?mp=/stream",
+    "genre": "Music",
+    "city": "Díli",
+    "country": "Timor-Leste",
+    "lat": -8.5536809,
+    "lng": 125.5784093
+  },
+  {
+    "id": "comoros-rádio-liberdade-958-fm",
+    "name": "Rádio Liberdade 95.8 FM",
+    "url": "https://streaming.kalohan.net/proxy/raliber?mp=/stream",
+    "genre": "Music",
+    "city": "Díli",
+    "country": "Timor-Leste",
+    "lat": -8.5536809,
+    "lng": 125.5784093
+  },
+  {
+    "id": "comoros-rádio-rakambia-fm-995",
+    "name": "Rádio Rakambia FM 99.5",
+    "url": "https://streaming.kalohan.net/proxy/rakambia?mp=/stream",
+    "genre": "Music",
+    "city": "Díli",
+    "country": "Timor-Leste",
+    "lat": -8.5536809,
+    "lng": 125.5784093
+  },
+  {
+    "id": "comoros-rri-pro-4-ambon-fm-901",
+    "name": "RRI Pro 4 Ambon FM 90.1",
+    "url": "https://stream-node2.rri.co.id/streaming/15/9315/rriambonpro4.mp3",
+    "genre": "Music",
+    "city": "Díli",
+    "country": "Timor-Leste",
+    "lat": -8.5536809,
+    "lng": 125.5784093
+  },
+  {
+    "id": "comoros-radio-comunidade-comoro-fm-941",
+    "name": "Radio Comunidade Comoro FM 94.1",
+    "url": "https://streaming.kalohan.net/proxy/comoro?mp=/stream",
+    "genre": "Music",
+    "city": "Díli",
+    "country": "Timor-Leste",
+    "lat": -8.5536809,
+    "lng": 125.5784093
+  },
+  {
+    "id": "comoros-rri-pro-1-kupang-fm-944",
+    "name": "RRI Pro 1 Kupang FM 94.4",
+    "url": "https://stream-node2.rri.co.id/streaming/13/9213/rrikupangpro1.mp3",
+    "genre": "Music",
+    "city": "Díli",
+    "country": "Timor-Leste",
+    "lat": -8.5536809,
+    "lng": 125.5784093
+  },
+  {
+    "id": "comoros-sun-fm-mayotte",
+    "name": "SUN FM Mayotte",
+    "url": "https://listen.radioking.com/radio/669814/stream/733864",
+    "genre": "Music",
+    "city": "Mutsamudu",
+    "country": "Comoros",
+    "lat": -12.168846,
+    "lng": 44.3942831
+  },
+  {
+    "id": "comoros-rri-pro-1-fm-978",
+    "name": "RRI Pro 1 FM 97.8",
+    "url": "https://stream-node1.rri.co.id/streaming/37/9137/web-rribaubaupro1.mp3",
+    "genre": "Music",
+    "city": "Díli",
+    "country": "Timor-Leste",
+    "lat": -8.5536809,
+    "lng": 125.5784093
+  },
+  {
+    "id": "comoros-m-radio-mutsamudu",
+    "name": "M Radio Mutsamudu",
+    "url": "https://stream-179.zeno.fm/b0y3da8zxqzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJiMHkzZGE4enhxenV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoidmJtWXE2RXdUX21fOGpVa3NVNWRXQSIsImlhdCI6MTc2OTQxNzgyMywiZXhwIjoxNzY5NDE3ODgzfQ.8lSOznofz8zQIzl0CYzRVLdBY-mX-2ysUUApOc8xHgc",
+    "genre": "Music",
+    "city": "Mutsamudu",
+    "country": "Comoros",
+    "lat": -12.168846,
+    "lng": 44.3942831
+  },
+  {
+    "id": "comoros-radio-dracktrar-patsy-fm-980",
+    "name": "Radio Dracktrar Patsy FM 98.0",
+    "url": "https://stream-177.zeno.fm/gv2x4k52es8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJndjJ4NGs1MmVzOHV2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiaXZienhwUzFUN1dFX21jeTNzWXp1QSIsImlhdCI6MTc2OTQxNzgyNCwiZXhwIjoxNzY5NDE3ODg0fQ.fSEbKY4qWPE9oUflKctNVdPxWo4-k30Ah6HZJRxybBk",
+    "genre": "Music",
+    "city": "Mutsamudu",
+    "country": "Comoros",
+    "lat": -12.168846,
+    "lng": 44.3942831
+  },
+  {
+    "id": "comoros-rmv-fm-1025-radio-mirereni-village",
+    "name": "RMV FM 102.5 Radio Miréréni Village",
+    "url": "https://live.myradio.yt:1100/stream",
+    "genre": "Music",
+    "city": "Mutsamudu",
+    "country": "Comoros",
+    "lat": -12.168846,
+    "lng": 44.3942831
+  }
+]

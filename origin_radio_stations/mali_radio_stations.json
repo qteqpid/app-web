@@ -1,0 +1,652 @@
+[
+  {
+    "id": "mali-radio-benno-fm-1060",
+    "name": "Radio Benno FM 106.0",
+    "url": "https://betelgeuse.dribbcast.com/proxy/bennofm?mp=/stream",
+    "genre": "Music",
+    "city": "Kirane",
+    "country": "Mali",
+    "lat": 15.40824,
+    "lng": -10.2255
+  },
+  {
+    "id": "mali-porokhane-fm",
+    "name": "Porokhane FM",
+    "url": "https://betelgeuse.dribbcast.com/proxy/mamediarra?mp=/stream",
+    "genre": "Music",
+    "city": "Kersignané",
+    "country": "Mali",
+    "lat": 14.992796,
+    "lng": -10.984952
+  },
+  {
+    "id": "mali-radio-kassara-barikama",
+    "name": "Radio Kassara Barikama",
+    "url": "https://stream-155.zeno.fm/u5u4gvaxh4duv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1NXU0Z3ZheGg0ZHV2IiwiaG9zdCI6InN0cmVhbS0xNTUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiWTNtRVdKUG5RY3EwQ1BIaFF4U0tIZyIsImlhdCI6MTc2OTQyMDUwMywiZXhwIjoxNzY5NDIwNTYzfQ.EvwHwdJqAmyAQSMqsdzvnzqccY9vGzVa4RM_CFp37HY",
+    "genre": "Music",
+    "city": "Bamako",
+    "country": "Mali",
+    "lat": 12.649319,
+    "lng": -8.000337
+  },
+  {
+    "id": "mali-info-radio-911-fm",
+    "name": "Info Radio 91.1 FM",
+    "url": "https://stream-176.zeno.fm/ey34mac27vzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJleTM0bWFjMjd2enV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoieThiSjVJQ0NTbWVIU3NKak5HdEIxdyIsImlhdCI6MTc2OTQyMDUwMywiZXhwIjoxNzY5NDIwNTYzfQ.Gjl1QKASKUnFuyA5DUOk3NuV5F5YZo6RTGI1Bo_AY4k",
+    "genre": "Music",
+    "city": "San",
+    "country": "Mali",
+    "lat": 13.3043073,
+    "lng": -4.8957273
+  },
+  {
+    "id": "mali-palabre-fm-922",
+    "name": "Palabre FM 92.2",
+    "url": "https://stream-178.zeno.fm/581q2b6cay8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI1ODFxMmI2Y2F5OHV2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiQXZYNWdzZE9SWUcxREN1QnVWckJSZyIsImlhdCI6MTc2OTQyMDUwMywiZXhwIjoxNzY5NDIwNTYzfQ.5K5rwKJZrAh5rzg0ckLCn7xtFZMK00vMR1l9NoLpP_k",
+    "genre": "Music",
+    "city": "San",
+    "country": "Mali",
+    "lat": 13.3043073,
+    "lng": -4.8957273
+  },
+  {
+    "id": "mali-medina-baye-fm",
+    "name": "Medina Baye FM",
+    "url": "https://stream-151.zeno.fm/ym9nqku50ueuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5bTlucWt1NTB1ZXV2IiwiaG9zdCI6InN0cmVhbS0xNTEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoidlB3NGhicDVUYVdxTHMzRU1ibGFfZyIsImlhdCI6MTc2OTQyMDUwMywiZXhwIjoxNzY5NDIwNTYzfQ.VkQkNIFnlN2lhXCZCsJR5wljiK0NpLKbQvfNNwiLuNU",
+    "genre": "Music",
+    "city": "Kersignané",
+    "country": "Mali",
+    "lat": 14.992796,
+    "lng": -10.984952
+  },
+  {
+    "id": "mali-radio-kankan",
+    "name": "Radio Kankan",
+    "url": "https://stream-178.zeno.fm/ab9q4v3mb?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJhYjlxNHYzbWIiLCJob3N0Ijoic3RyZWFtLTE3OC56ZW5vLmZtIiwidG0iOmZhbHNlLCJydHRsIjo1LCJqdGkiOiJJZWkxU0hnalFDcWtNeW9BVXJrZ2J3IiwiaWF0IjoxNzY5NDIwNTAzLCJleHAiOjE3Njk0MjA1NjN9.i_XDuHcpL6ZTtvhqjCezQRm7tgxQoHVkaOKDVAoWtI8",
+    "genre": "Music",
+    "city": "Bamako",
+    "country": "Mali",
+    "lat": 12.649319,
+    "lng": -8.000337
+  },
+  {
+    "id": "mali-radio-iqra-961-fm",
+    "name": "Radio Iqra 96.1 FM",
+    "url": "https://stream-179.zeno.fm/ghjewb6oraitv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJnaGpld2I2b3JhaXR2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoieWs3SUw1cXZTVGlaSW1ndkhsRnZ6QSIsImlhdCI6MTc2OTQyMDUwMywiZXhwIjoxNzY5NDIwNTYzfQ.FcYB48o4BOLuj3DYFsH0EYcPITnAxa9ajuq2F3IFc8M",
+    "genre": "Music",
+    "city": "San",
+    "country": "Mali",
+    "lat": 13.3043073,
+    "lng": -4.8957273
+  },
+  {
+    "id": "mali-radio-madjoura-fm-940",
+    "name": "Radio Madjoura FM 94.0",
+    "url": "https://stream-152.zeno.fm/445tct5avewtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0NDV0Y3Q1YXZld3R2IiwiaG9zdCI6InN0cmVhbS0xNTIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiOVRrQXYyMU9TTlNNQWx5bUMwbDIzQSIsImlhdCI6MTc2OTQyMDUwMywiZXhwIjoxNzY5NDIwNTYzfQ.CqZ_e6pay75WP_hA_UvYgstuyUQ4JIhW_PcjpizvECU",
+    "genre": "Music",
+    "city": "Bamako",
+    "country": "Mali",
+    "lat": 12.649319,
+    "lng": -8.000337
+  },
+  {
+    "id": "mali-radio-nieta",
+    "name": "Radio Nieta",
+    "url": "https://stream-154.zeno.fm/u0dd022mb?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1MGRkMDIybWIiLCJob3N0Ijoic3RyZWFtLTE1NC56ZW5vLmZtIiwidG0iOmZhbHNlLCJydHRsIjo1LCJqdGkiOiI2R1gwaGF2eVRxMnE0TDNmUnJNMjNBIiwiaWF0IjoxNzY5NDIwNTAzLCJleHAiOjE3Njk0MjA1NjN9.e11cBdE9bMQxLorQYSRN_AeWWJlnNWoNKoBYxN3zaYE",
+    "genre": "Music",
+    "city": "Bamako",
+    "country": "Mali",
+    "lat": 12.649319,
+    "lng": -8.000337
+  },
+  {
+    "id": "mali-radio-jiida-fm-880",
+    "name": "Radio Jiida FM 88.0",
+    "url": "https://stream-151.zeno.fm/6qyn64rr9mruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2cXluNjRycjltcnV2IiwiaG9zdCI6InN0cmVhbS0xNTEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiekNranN0MlNUSEM3ZzVSaVR2WXdzUSIsImlhdCI6MTc2OTQyMDUwMywiZXhwIjoxNzY5NDIwNTYzfQ.EVqriwmILTbZnsGZ0vZrnamzJgCh9Z7A9XVGZCKGjC8",
+    "genre": "Music",
+    "city": "Bamako",
+    "country": "Mali",
+    "lat": 12.649319,
+    "lng": -8.000337
+  },
+  {
+    "id": "mali-radio-bintumani-fm-937",
+    "name": "Radio Bintumani FM 93.7",
+    "url": "https://stream-178.zeno.fm/6cfh59xseg0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2Y2ZoNTl4c2VnMHV2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiTVFWSmRLYVhUTnVPRHktUjJuQVVGZyIsImlhdCI6MTc2OTQyMDUwMywiZXhwIjoxNzY5NDIwNTYzfQ.hP2Qss2ee0LeO-o9CGG2UCeMDHhE8pxX9D4rmROczwU",
+    "genre": "Music",
+    "city": "Bamako",
+    "country": "Mali",
+    "lat": 12.649319,
+    "lng": -8.000337
+  },
+  {
+    "id": "mali-horizon-fm-ouaga-1052",
+    "name": "Horizon FM Ouaga 105.2",
+    "url": "https://stream-175.zeno.fm/7861hrn4bf9uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI3ODYxaHJuNGJmOXV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiLUhBWHZjUkpUZEs1b25ZR0NFdTE0QSIsImlhdCI6MTc2OTQyMDUwMywiZXhwIjoxNzY5NDIwNTYzfQ._5zSGpjR_08EzJ6bFX0OTWCf5MNxB6gKbeGy3bnilC0",
+    "genre": "Music",
+    "city": "Touba",
+    "country": "Mali",
+    "lat": 13.4636753,
+    "lng": -7.380481
+  },
+  {
+    "id": "mali-radio-feremandougou-1037-fm",
+    "name": "Radio Feremandougou 103.7 FM",
+    "url": "https://stream-155.zeno.fm/slsb3sxzxqxvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzbHNiM3N4enhxeHZ2IiwiaG9zdCI6InN0cmVhbS0xNTUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoid1U2enpQeDBTeWloOVlfdTkxWGlWZyIsImlhdCI6MTc2OTQyMDUwMywiZXhwIjoxNzY5NDIwNTYzfQ.IHjhI8jDo55Qc0wSj73kquoQdhgWmBskiyoL1nKO3FA",
+    "genre": "Music",
+    "city": "Bamako",
+    "country": "Mali",
+    "lat": 12.649319,
+    "lng": -8.000337
+  },
+  {
+    "id": "mali-radio-dambe-kersignane",
+    "name": "Radio Dambe Kersignané",
+    "url": "https://stream-177.zeno.fm/89fkq77gb4duv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI4OWZrcTc3Z2I0ZHV2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoibmt1SEx2bWFSODJ6MUhGeUZzS2dMdyIsImlhdCI6MTc2OTQyMDUwMywiZXhwIjoxNzY5NDIwNTYzfQ.hL9to99Qj_DF2b03gNYbgwu5Ibq0QTgrOWIbLSVUELU",
+    "genre": "Music",
+    "city": "Kersignané",
+    "country": "Mali",
+    "lat": 14.992796,
+    "lng": -10.984952
+  },
+  {
+    "id": "mali-pognere-fm-1002",
+    "name": "Pognere FM 100.2",
+    "url": "https://stream-178.zeno.fm/74514wb9yy8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI3NDUxNHdiOXl5OHV2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoib2NYMmZoY0tUV0NwZ2NaTk9fZW9idyIsImlhdCI6MTc2OTQyMDUwMywiZXhwIjoxNzY5NDIwNTYzfQ.pUVRolkDA6ic8cuylkcbQt7kh4e-gRy34mSKD7MQJ-c",
+    "genre": "Music",
+    "city": "San",
+    "country": "Mali",
+    "lat": 13.3043073,
+    "lng": -4.8957273
+  },
+  {
+    "id": "mali-joliba-fm-1050",
+    "name": "Joliba FM 105.0",
+    "url": "https://stream-177.zeno.fm/bux0vqx79zquv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJidXgwdnF4Nzl6cXV2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoic2xvT2RLaldRdXllODNnNWtvdGxkdyIsImlhdCI6MTc2OTQyMDUwMywiZXhwIjoxNzY5NDIwNTYzfQ.pF2ajApJCjSSe3ji_4yKZYv1AuR9ca_UxyvVWzheNpM",
+    "genre": "Music",
+    "city": "Bamako",
+    "country": "Mali",
+    "lat": 12.649319,
+    "lng": -8.000337
+  },
+  {
+    "id": "mali-radio-kledu",
+    "name": "Radio Kledu",
+    "url": "https://stream-142.zeno.fm/yerp85sughwtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5ZXJwODVzdWdod3R2IiwiaG9zdCI6InN0cmVhbS0xNDIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiWHktdXQwSTBSQWE2OHNwNVpaUS1xQSIsImlhdCI6MTc2OTQyMDUwMywiZXhwIjoxNzY5NDIwNTYzfQ.zYOgsGVHYVo70_TVSIsI3S0iKPPi5dc9tsJYCQZW-9E",
+    "genre": "Music",
+    "city": "Bamako",
+    "country": "Mali",
+    "lat": 12.649319,
+    "lng": -8.000337
+  },
+  {
+    "id": "mali-gpp-guinee-972-fm",
+    "name": "GPP Guinee 97.2 FM",
+    "url": "https://media2.streambrothers.com:8030/stream",
+    "genre": "Music",
+    "city": "Bamako",
+    "country": "Mali",
+    "lat": 12.649319,
+    "lng": -8.000337
+  },
+  {
+    "id": "mali-pomorski-radio",
+    "name": "Pomorski Radio",
+    "url": "http://85.17.172.242:8010/live.mp3",
+    "genre": "Music",
+    "city": "Mali Lošinj",
+    "country": "Croatia",
+    "lat": 44.5316056,
+    "lng": 14.4694111
+  },
+  {
+    "id": "mali-radio-paysan-san",
+    "name": "Radio Paysan San",
+    "url": "https://listen.radioking.com/radio/592033/stream/652837",
+    "genre": "Music",
+    "city": "Bamako",
+    "country": "Mali",
+    "lat": 12.649319,
+    "lng": -8.000337
+  },
+  {
+    "id": "mali-radio-mali-lošinj-jadranka-grupa",
+    "name": "Radio Mali Lošinj (Jadranka Grupa)",
+    "url": "http://n0e.radiojar.com/ppdr62bnmrhvv?rj-ttl=5&rj-tok=AAABm_m3bp4APqMYTS_qMD9Fgg",
+    "genre": "Music",
+    "city": "Mali Lošinj",
+    "country": "Croatia",
+    "lat": 44.5316056,
+    "lng": 14.4694111
+  },
+  {
+    "id": "mali-radio-kastav-fm-903",
+    "name": "Radio Kastav FM 90.3",
+    "url": "http://proxima.shoutca.st:8559/stream",
+    "genre": "Music",
+    "city": "Mali Lošinj",
+    "country": "Croatia",
+    "lat": 44.5316056,
+    "lng": 14.4694111
+  },
+  {
+    "id": "mali-nový-rádio-petrovec-fm-914",
+    "name": "Nový Rádio Petrovec FM 91.4",
+    "url": "http://217.17.97.1:18180/",
+    "genre": "Music",
+    "city": "Mali Iđoš",
+    "country": "Serbia",
+    "lat": 45.7067012,
+    "lng": 19.666121
+  },
+  {
+    "id": "mali-blue-waves-radio-937-fm",
+    "name": "Blue Waves Radio 93.7 FM",
+    "url": "https://bluewaves.radioca.st/;stream.mp3",
+    "genre": "Music",
+    "city": "Touba",
+    "country": "Mali",
+    "lat": 13.4636753,
+    "lng": -7.380481
+  },
+  {
+    "id": "mali-medulin-fm-950",
+    "name": "Medulin FM 95.0",
+    "url": "https://de1.streamingpulse.com/ssl/MedulinFM",
+    "genre": "Music",
+    "city": "Mali Lošinj",
+    "country": "Croatia",
+    "lat": 44.5316056,
+    "lng": 14.4694111
+  },
+  {
+    "id": "mali-bravo-1071-fm",
+    "name": "Bravo! 107.1 FM",
+    "url": "https://relay1.social3.hr/radio/8310/radio.mp3",
+    "genre": "Music",
+    "city": "Mali Lošinj",
+    "country": "Croatia",
+    "lat": 44.5316056,
+    "lng": 14.4694111
+  },
+  {
+    "id": "mali-radio-active-fm-1054",
+    "name": "Radio Active FM 105.4",
+    "url": "https://active96-naxinacional.streaming.rs:8557/;stream.nsv",
+    "genre": "Music",
+    "city": "Mali Iđoš",
+    "country": "Serbia",
+    "lat": 45.7067012,
+    "lng": 19.666121
+  },
+  {
+    "id": "mali-radio-banovina-968-fm",
+    "name": "Radio Banovina 96.8 FM",
+    "url": "https://audio.radio-banovina.hr:9998/stream",
+    "genre": "Music",
+    "city": "Mali Lošinj",
+    "country": "Croatia",
+    "lat": 44.5316056,
+    "lng": 14.4694111
+  },
+  {
+    "id": "mali-radio-kaštel",
+    "name": "Radio Kaštel",
+    "url": "https://kastel2020.radioca.st/stream",
+    "genre": "Music",
+    "city": "Mali Lošinj",
+    "country": "Croatia",
+    "lat": 44.5316056,
+    "lng": 14.4694111
+  },
+  {
+    "id": "mali-radio-q",
+    "name": "Radio Q",
+    "url": "http://as.q-media.rs:8000/mp3",
+    "genre": "Music",
+    "city": "Mali Iđoš",
+    "country": "Serbia",
+    "lat": 45.7067012,
+    "lng": 19.666121
+  },
+  {
+    "id": "mali-radio-ada-1077-fm",
+    "name": "Radio Ada 107.7 FM",
+    "url": "https://acp.adiswitch.com/proxy/radioada/stream",
+    "genre": "Music",
+    "city": "Mali Iđoš",
+    "country": "Serbia",
+    "lat": 45.7067012,
+    "lng": 19.666121
+  },
+  {
+    "id": "mali-happy-fm",
+    "name": "Happy FM",
+    "url": "https://audio.social3.hr/listen/happy_aac/stream",
+    "genre": "Music",
+    "city": "Mali Lošinj",
+    "country": "Croatia",
+    "lat": 44.5316056,
+    "lng": 14.4694111
+  },
+  {
+    "id": "mali-extra-fm",
+    "name": "Extra FM",
+    "url": "https://audio.social3.hr/listen/extra_aac/stream",
+    "genre": "Music",
+    "city": "Mali Lošinj",
+    "country": "Croatia",
+    "lat": 44.5316056,
+    "lng": 14.4694111
+  },
+  {
+    "id": "mali-radio-labin-fm-910",
+    "name": "Radio Labin FM 91.0",
+    "url": "https://c2.hostingcentar.com/streams/radiolabin/",
+    "genre": "Music",
+    "city": "Mali Lošinj",
+    "country": "Croatia",
+    "lat": 44.5316056,
+    "lng": 14.4694111
+  },
+  {
+    "id": "mali-radio-lola",
+    "name": "Radio LOLA",
+    "url": "https://streaming.tdiradio.com/radiolola.mp3",
+    "genre": "Music",
+    "city": "Mali Iđoš",
+    "country": "Serbia",
+    "lat": 45.7067012,
+    "lng": 19.666121
+  },
+  {
+    "id": "mali-naš-mm-radio-978-fm",
+    "name": "Naš MM Radio 97.8 FM",
+    "url": "https://radio.dukahosting.com:7045/index.html?sid=1",
+    "genre": "Music",
+    "city": "Mali Iđoš",
+    "country": "Serbia",
+    "lat": 45.7067012,
+    "lng": 19.666121
+  },
+  {
+    "id": "mali-naxi-ex-yu-radio",
+    "name": "Naxi EX YU Radio",
+    "url": "https://naxidigital-exyu128ssl.streaming.rs:8242/",
+    "genre": "Music",
+    "city": "Mali Iđoš",
+    "country": "Serbia",
+    "lat": 45.7067012,
+    "lng": 19.666121
+  },
+  {
+    "id": "mali-radyo-natin-malita-1055-fm",
+    "name": "Radyo Natin Malita 105.5 FM",
+    "url": "https://link.radyonatinfm.com:8020/malita",
+    "genre": "Music",
+    "city": "Malita",
+    "country": "Philippines",
+    "lat": 6.4143745,
+    "lng": 125.6109051
+  },
+  {
+    "id": "mali-j1hd-fm-991",
+    "name": "J1HD FM 99.1",
+    "url": "https://maggie.torontocast.com:2000/stream/J1HD/",
+    "genre": "Music",
+    "city": "Malibu CA",
+    "country": "United States",
+    "lat": 34.035591,
+    "lng": -118.689423
+  },
+  {
+    "id": "mali-naxi-radio-fm",
+    "name": "Naxi Radio FM",
+    "url": "https://naxi128.streaming.rs:9152/",
+    "genre": "Music",
+    "city": "Mali Iđoš",
+    "country": "Serbia",
+    "lat": 45.7067012,
+    "lng": 19.666121
+  },
+  {
+    "id": "mali-dolphin-radio",
+    "name": "Dolphin Radio",
+    "url": "http://backbonenetworks.streamguys.com/channelisland",
+    "genre": "Music",
+    "city": "Malibu CA",
+    "country": "United States",
+    "lat": 34.035591,
+    "lng": -118.689423
+  },
+  {
+    "id": "mali-classic-hits-jfrc",
+    "name": "Classic Hits JFRC",
+    "url": "https://usa14.fastcast4u.com/proxy/jfrcradio?mp=/1",
+    "genre": "Music",
+    "city": "Malibu CA",
+    "country": "United States",
+    "lat": 34.035591,
+    "lng": -118.689423
+  },
+  {
+    "id": "mali-radio-karolina-1063-fm",
+    "name": "Radio Karolina 106.3 FM",
+    "url": "https://streaming.karolina.rs/karolina.mp3",
+    "genre": "Music",
+    "city": "Mali Iđoš",
+    "country": "Serbia",
+    "lat": 45.7067012,
+    "lng": 19.666121
+  },
+  {
+    "id": "mali-abn-old-time-radio-am-1610",
+    "name": "ABN Old-Time Radio AM 1610",
+    "url": "https://s6.yesstreaming.net:18000/listen",
+    "genre": "Music",
+    "city": "Malibu CA",
+    "country": "United States",
+    "lat": 34.035591,
+    "lng": -118.689423
+  },
+  {
+    "id": "mali-koko-lp-radio-963-fm",
+    "name": "KOKO LP Radio 96.3 FM",
+    "url": "https://s2.yesstreaming.net:7031/stream",
+    "genre": "Music",
+    "city": "Malibu CA",
+    "country": "United States",
+    "lat": 34.035591,
+    "lng": -118.689423
+  },
+  {
+    "id": "mali-radio-s-3-juzni",
+    "name": "Radio S 3 Juzni",
+    "url": "https://stream.radios.rs:9038/index.html?sid=1",
+    "genre": "Music",
+    "city": "Mali Iđoš",
+    "country": "Serbia",
+    "lat": 45.7067012,
+    "lng": 19.666121
+  },
+  {
+    "id": "mali-kbrw-am-680",
+    "name": "KBRW-AM 680",
+    "url": "https://tektite.streamguys1.com:5345/live",
+    "genre": "Music",
+    "city": "Malibu CA",
+    "country": "United States",
+    "lat": 34.035591,
+    "lng": -118.689423
+  },
+  {
+    "id": "mali-live-1055-mobile-radio-station",
+    "name": "Live 105.5 Mobile Radio Station",
+    "url": "https://cast2.asurahosting.com/proxy/1055/stream",
+    "genre": "Music",
+    "city": "Malibu CA",
+    "country": "United States",
+    "lat": 34.035591,
+    "lng": -118.689423
+  },
+  {
+    "id": "mali-smooth-jazz-247",
+    "name": "Smooth Jazz 24/7",
+    "url": "https://ais-edge89-dal02.cdnstream.com/2124_128.mp3",
+    "genre": "Music",
+    "city": "Malibu CA",
+    "country": "United States",
+    "lat": 34.035591,
+    "lng": -118.689423
+  },
+  {
+    "id": "mali-vajdaságretro-fm-875",
+    "name": "Vajdaságretro FM 87.5",
+    "url": "https://sp1.19cloudsnetwork.gr:8032/index.html?sid=1",
+    "genre": "Music",
+    "city": "Mali Iđoš",
+    "country": "Serbia",
+    "lat": 45.7067012,
+    "lng": 19.666121
+  },
+  {
+    "id": "mali-kcrw-fm-899",
+    "name": "KCRW FM 89.9",
+    "url": "https://streams.kcrw.com/kcrw_mp3",
+    "genre": "Music",
+    "city": "Malibu CA",
+    "country": "United States",
+    "lat": 34.035591,
+    "lng": -118.689423
+  },
+  {
+    "id": "mali-k101-love-radio-gensan",
+    "name": "K101 Love Radio Gensan",
+    "url": "https://loveradiogensan.radioca.st/index.html?sid=1",
+    "genre": "Music",
+    "city": "Malita",
+    "country": "Philippines",
+    "lat": 6.4143745,
+    "lng": 125.6109051
+  },
+  {
+    "id": "mali-love-radio-fm-1063",
+    "name": "Love Radio FM 106.3",
+    "url": "https://lovemalaybalay.radioca.st/index.html?sid=1",
+    "genre": "Music",
+    "city": "Malita",
+    "country": "Philippines",
+    "lat": 6.4143745,
+    "lng": 125.6109051
+  },
+  {
+    "id": "mali-kabc-790-am",
+    "name": "KABC 790 AM",
+    "url": "https://18233.live.streamtheworld.com:443/KABCAMAAC.aac",
+    "genre": "Music",
+    "city": "Malibu CA",
+    "country": "United States",
+    "lat": 34.035591,
+    "lng": -118.689423
+  },
+  {
+    "id": "mali-easy-rock-963-fm",
+    "name": "Easy Rock 96.3 FM",
+    "url": "https://azura.easyrock.com.ph/listen/easy_rock_manila/radio.mp3",
+    "genre": "Music",
+    "city": "Malita",
+    "country": "Philippines",
+    "lat": 6.4143745,
+    "lng": 125.6109051
+  },
+  {
+    "id": "mali-fox-news-radio",
+    "name": "Fox News Radio",
+    "url": "https://prod-54-159-73-9.amperwave.net/foxnewsradio-foxnewsradioaac-imc?session-id=6a00b8a927b9a68259d74a1c72c21687",
+    "genre": "Music",
+    "city": "Malibu CA",
+    "country": "United States",
+    "lat": 34.035591,
+    "lng": -118.689423
+  },
+  {
+    "id": "mali-jamz-radio-philippines",
+    "name": "Jamz Radio Philippines",
+    "url": "https://stream-177.zeno.fm/yu7rwcq3wy5tv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5dTdyd2NxM3d5NXR2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiV0pMVFotdF9UQkNlVDgtM0doQmp3QSIsImlhdCI6MTc2OTQyMDUxMSwiZXhwIjoxNzY5NDIwNTcxfQ.-tkuOOC0zvdrhIhBkC-XVue-dGMwtbPsKs4t_RaC80o",
+    "genre": "Music",
+    "city": "Malita",
+    "country": "Philippines",
+    "lat": 6.4143745,
+    "lng": 125.6109051
+  },
+  {
+    "id": "mali-yes-fm-1011",
+    "name": "Yes! FM 101.1",
+    "url": "https://azura.yesfm.com.ph/listen/yes_fm_manila/radio.mp3",
+    "genre": "Music",
+    "city": "Malita",
+    "country": "Philippines",
+    "lat": 6.4143745,
+    "lng": 125.6109051
+  },
+  {
+    "id": "mali-love-radio-fm-907",
+    "name": "Love Radio FM 90.7",
+    "url": "https://azura.loveradio.com.ph/listen/love_radio_manila/radio.mp3",
+    "genre": "Music",
+    "city": "Malita",
+    "country": "Philippines",
+    "lat": 6.4143745,
+    "lng": 125.6109051
+  },
+  {
+    "id": "mali-dxmc-am-1026-bombo-radyo",
+    "name": "DXMC AM 1026 Bombo Radyo",
+    "url": "https://stream-143.zeno.fm/s81g7zfnz9duv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzODFnN3pmbno5ZHV2IiwiaG9zdCI6InN0cmVhbS0xNDMuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoidmJXWDh5RXlRcmU4Mk95UzZ1VEpkUSIsImlhdCI6MTc2OTQyMDUxMiwiZXhwIjoxNzY5NDIwNTcyfQ.aSvHZNUjvBMHXIuj0r7Q-87XX1fexat6HKH8qWBqIpg",
+    "genre": "Music",
+    "city": "Malita",
+    "country": "Philippines",
+    "lat": 6.4143745,
+    "lng": 125.6109051
+  },
+  {
+    "id": "mali-downtown-eclipse",
+    "name": "Downtown Eclipse",
+    "url": "https://stream-176.zeno.fm/81sjev0tizduv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI4MXNqZXYwdGl6ZHV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiVDhWWXJWQmRUSGlsUWU2dWIyU05oQSIsImlhdCI6MTc2OTQyMDUxMiwiZXhwIjoxNzY5NDIwNTcyfQ.qhme_LDX2BHj0XCltOFZdcXy5ffOGLxzvrLTtpaNsL0",
+    "genre": "Music",
+    "city": "Malita",
+    "country": "Philippines",
+    "lat": 6.4143745,
+    "lng": 125.6109051
+  },
+  {
+    "id": "mali-home-radio-979-fm",
+    "name": "Home Radio 97.9 FM",
+    "url": "https://hrmanila.radioca.st/stream",
+    "genre": "Music",
+    "city": "Malita",
+    "country": "Philippines",
+    "lat": 6.4143745,
+    "lng": 125.6109051
+  },
+  {
+    "id": "mali-915-win-radio",
+    "name": "91.5 Win Radio",
+    "url": "https://stream-162.zeno.fm/2ss1hgnu6hhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIyc3MxaGdudTZoaHZ2IiwiaG9zdCI6InN0cmVhbS0xNjIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiMjAta2JYMTVSLWFpMExhWVZMNTRzZyIsImlhdCI6MTc2OTQyMDUxMywiZXhwIjoxNzY5NDIwNTczfQ.QU6ZV6LCgMU7miA3X0hOvBrBJqs6pHR8R7G4C7uUQAI",
+    "genre": "Music",
+    "city": "Malita",
+    "country": "Philippines",
+    "lat": 6.4143745,
+    "lng": 125.6109051
+  },
+  {
+    "id": "mali-kznq-fm-1015-q-country",
+    "name": "KZNQ FM 101.5 Q-Country",
+    "url": "https://noasrv.caster.fm:10054/kznqfm",
+    "genre": "Music",
+    "city": "Malibu CA",
+    "country": "United States",
+    "lat": 34.035591,
+    "lng": -118.689423
+  }
+]

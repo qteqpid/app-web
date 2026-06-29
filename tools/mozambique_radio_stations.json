@@ -1,0 +1,164 @@
+[
+    {
+        "name": "EBIS 2 FM",
+        "city": "Maputo",
+        "country": "Mozambique",
+        "url": "http://ebisradio.zapto.org:8002/stream"
+    },
+    {
+        "name": "Super FM 101.9",
+        "city": "Maputo",
+        "country": "Mozambique",
+        "url": "http://41.223.153.14:8000/;stream/1"
+    },
+    {
+        "name": "HFM964",
+        "city": "Maputo",
+        "country": "Mozambique",
+        "url": "https://edge.iono.fm/xice/327_medium.mp3"
+    },
+    {
+        "name": "Diamond FM 103.8",
+        "city": "Beira",
+        "country": "Mozambique",
+        "url": "https://edge.iono.fm/xice/160_medium.aac"
+    },
+    {
+        "name": "Naas Top Stereo",
+        "city": "Maputo",
+        "country": "Mozambique",
+        "url": "https://live.exertion.in/radio/8070/radio.mp3"
+    },
+    {
+        "name": "Rise FM",
+        "city": "Maputo",
+        "country": "Mozambique",
+        "url": "https://edge.iono.fm/xice/73_medium.mp3"
+    },
+    {
+        "name": "LM Radio 87.8 FM",
+        "city": "Maputo",
+        "country": "Mozambique",
+        "url": "https://cast6.asurahosting.com/proxy/lmradioc/stream"
+    },
+    {
+        "name": "Radio Domoni Inter",
+        "city": "Pemba",
+        "country": "Mozambique",
+        "url": "http://domoni-inter.org:8000/live"
+    },
+    {
+        "name": "VOC FM Siswati",
+        "city": "Maputo",
+        "country": "Mozambique",
+        "url": "https://edge.iono.fm/xice/350_high.aac"
+    },
+    {
+        "name": "VOC FM English 102 FM",
+        "city": "Matola",
+        "country": "Mozambique",
+        "url": "https://edge.iono.fm/xice/352_medium.aac"
+    },
+    {
+        "name": "EBIS 1 FM",
+        "city": "Matola",
+        "country": "Mozambique",
+        "url": "http://ebisradio.zapto.org:8000/stream"
+    },
+    {
+        "name": "HevoiFM 100.2",
+        "city": "Beira",
+        "country": "Mozambique",
+        "url": "https://s27.myradiostream.com:17754/listen.m4a"
+    },
+    {
+        "name": "RS-Mayotte",
+        "city": "Pemba",
+        "country": "Mozambique",
+        "url": "https://radio.mayotte-streaming.com/8008/stream"
+    },
+    {
+        "name": "Chisomo Radio Station FM 97.0",
+        "city": "Nampula",
+        "country": "Mozambique",
+        "url": "https://radio.exclusivemw.cloud/listen/chisomo_radio_station/radio.mp3"
+    },
+    {
+        "name": "Radio Bembeke FM",
+        "city": "Nampula",
+        "country": "Mozambique",
+        "url": "https://radio.exclusivemw.cloud/listen/radio_bembeke_fm/radio.mp3"
+    },
+    {
+        "name": "zim NET radio Gospel Channel",
+        "city": "Beira",
+        "country": "Mozambique",
+        "url": "https://zimnetradio.net/gcstream/radio.mp3/;stream.mp3"
+    },
+    {
+        "name": "Rádio Miramar 101.4 FM",
+        "city": "Maputo",
+        "country": "Mozambique",
+        "url": "https://nl.digitalrm.pt:8150/stream"
+    },
+    {
+        "name": "Radio Dracktrar Patsy FM 98.0",
+        "city": "Pemba",
+        "country": "Mozambique",
+        "url": "https://stream-177.zeno.fm/gv2x4k52es8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJndjJ4NGs1MmVzOHV2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiNHl3RnBJNUFSb3lFLW5VOEI0UUNWUSIsImlhdCI6MTc2OTQyMDk3NiwiZXhwIjoxNzY5NDIxMDM2fQ.p1ypCD7hIYkD16MXjtuR38lIzJliP_WeZEWsSbZLb6o"
+    },
+    {
+        "name": "Mudziwathu Radio",
+        "city": "Tete",
+        "country": "Mozambique",
+        "url": "https://radio.exclusivemw.cloud/listen/mudziwathu_fm/radio.mp3"
+    },
+    {
+        "name": "Nkhotakota Radio",
+        "city": "Lichinga",
+        "country": "Mozambique",
+        "url": "https://radio.exclusivemw.cloud/listen/nkhotako_radio/radio.mp3"
+    },
+    {
+        "name": "Rádio Sem Fronteiras FM 102.1",
+        "city": "Pemba",
+        "country": "Mozambique",
+        "url": "https://ssl.stmxp.net:8030/index.html?sid=1"
+    },
+    {
+        "name": "Jamii FM 90.5",
+        "city": "Nampula",
+        "country": "Mozambique",
+        "url": "https://radiotadio.co.tz/jamii-fm-stream"
+    },
+    {
+        "name": "GZU Campus Radio",
+        "city": "Manica",
+        "country": "Mozambique",
+        "url": "http://41.174.189.194:88/broadwave.mp3?src=1&rate=1/;"
+    },
+    {
+        "name": "Angaliba FM",
+        "city": "Quelimane",
+        "country": "Mozambique",
+        "url": "https://stream-156.zeno.fm/0ajwxky74i7uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwYWp3eGt5NzRpN3V2IiwiaG9zdCI6InN0cmVhbS0xNTYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiRnBEVWxfNU9Rai1hWVBXemRET2Q1QSIsImlhdCI6MTc2OTQyMDk3OCwiZXhwIjoxNzY5NDIxMDM4fQ.dNuETJ8_I6UATdmnSHGsjescspO-puj0UtlylEwF0dg"
+    },
+    {
+        "name": "Khulumani FM 95.0",
+        "city": "Manica",
+        "country": "Mozambique",
+        "url": "https://khulumanistream.zbc.co.zw:8000/radio.mp3"
+    },
+    {
+        "name": "Rádio Mega FM 104.7",
+        "city": "Beira",
+        "country": "Mozambique",
+        "url": "https://servidor24.brlogic.com:7066/live"
+    },
+    {
+        "name": "Uwala FM",
+        "city": "Lichinga",
+        "country": "Mozambique",
+        "url": "https://servidor22.brlogic.com:7078/live"
+    }
+]

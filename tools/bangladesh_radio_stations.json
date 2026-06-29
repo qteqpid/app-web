@@ -1,0 +1,170 @@
+[
+    {
+        "name": "Jago FM 94.4",
+        "city": "Dhaka",
+        "country": "Bangladesh",
+        "url": "http://139.59.86.99:12496/stream"
+    },
+    {
+        "name": "Hindi Desi Bollywood Evergreen Hits",
+        "city": "Dhaka",
+        "country": "Bangladesh",
+        "url": "http://cast2.asurahosting.com:8569/stream"
+    },
+    {
+        "name": "FnF.FM Bangla Radio",
+        "city": "Dhaka",
+        "country": "Bangladesh",
+        "url": "http://eu6.fastcast4u.com:5099/;stream"
+    },
+    {
+        "name": "Traffic FM 88.8",
+        "city": "Dhaka",
+        "country": "Bangladesh",
+        "url": "http://as3.digitalsynapsebd.com:8263/;stream.mp3"
+    },
+    {
+        "name": "Rajshahi AM 1080",
+        "city": "Dhaka",
+        "country": "Bangladesh",
+        "url": "https://as1.digitalsynapsebd.com/proxy/bbrajmw/stream"
+    },
+    {
+        "name": "বাংলাদেশ বেতার Betar - Dhaka-A",
+        "city": "Dhaka",
+        "country": "Bangladesh",
+        "url": "https://as1.digitalsynapsebd.com/proxy/bbdkka/stream"
+    },
+    {
+        "name": "Young Leaders Forum",
+        "city": "Dhaka",
+        "country": "Bangladesh",
+        "url": "https://studio26.radiolize.com/radio/8040/radio.mp3"
+    },
+    {
+        "name": "Radio Sugar 90.8 FM",
+        "city": "Rajshahi",
+        "country": "Bangladesh",
+        "url": "http://188.165.222.198:8157/stream?type=http"
+    },
+    {
+        "name": "Peoples Radio 91.6 FM",
+        "city": "Dhaka",
+        "country": "Bangladesh",
+        "url": "https://s3.myradiostream.com:14498/listen.mp3/"
+    },
+    {
+        "name": "Radio Bikrampur 99.2 FM",
+        "city": "Dhaka",
+        "country": "Bangladesh",
+        "url": "https://cast3.my-control-panel.com/proxy/radiobikrampur/stream"
+    },
+    {
+        "name": "Radio Nalta 99.2FM",
+        "city": "Dhaka",
+        "country": "Bangladesh",
+        "url": "https://centova47.instainternet.com/proxy/radionalta?mp=/stream"
+    },
+    {
+        "name": "Radio Padma 99.2",
+        "city": "Rajshahi",
+        "country": "Bangladesh",
+        "url": "https://radiopadmabd.radioca.st/radiopadma"
+    },
+    {
+        "name": "Dhaka FM 90.4",
+        "city": "Dhaka",
+        "country": "Bangladesh",
+        "url": "https://stream-158.zeno.fm/u9mphfk604zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1OW1waGZrNjA0enV2IiwiaG9zdCI6InN0cmVhbS0xNTguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiTjZ1dzZPeGJTeG0wYno1MURhdy1jZyIsImlhdCI6MTc2OTQxNjY1MiwiZXhwIjoxNzY5NDE2NzEyfQ.wSh3u89xV9EEY8Hg-zxLxAK3CLJ8_5HF2pHZjknbIjE"
+    },
+    {
+        "name": "Radio Goongoon",
+        "city": "Dhaka",
+        "country": "Bangladesh",
+        "url": "https://audio.streamcast.xyz/listen/radiogoongoon/radio.mp3"
+    },
+    {
+        "name": "Radiosangbad.com",
+        "city": "Rajshahi",
+        "country": "Bangladesh",
+        "url": "https://stream-177.zeno.fm/mnhbu6q6ng0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJtbmhidTZxNm5nMHV2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiX0o0V05vek1ST0s5TzBEbDNaRG13USIsImlhdCI6MTc2OTQxNjY1MiwiZXhwIjoxNzY5NDE2NzEyfQ.c_sycobApZxyXe8zXlpWIH7frZH-iWZ-MPvjZcGaXMk"
+    },
+    {
+        "name": "Ankora Radio",
+        "city": "Dhaka",
+        "country": "Bangladesh",
+        "url": "https://stream-175.zeno.fm/xush70b1cbruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ4dXNoNzBiMWNicnV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiRDFwVG9IOVVUb2FDV2dIbXFNdnJqZyIsImlhdCI6MTc2OTQxNjY1MiwiZXhwIjoxNzY5NDE2NzEyfQ.eiGh9ho4YtQkEC_M00PSrTpIsbVurDZwR0_AazcEfRk"
+    },
+    {
+        "name": "BU Radio - Barishal University",
+        "city": "Dhaka",
+        "country": "Bangladesh",
+        "url": "https://stream-177.zeno.fm/x3wb4hevj5atv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ4M3diNGhldmo1YXR2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoicENGZWJJdE5ScE9sb25CSnZYVklIdyIsImlhdCI6MTc2OTQxNjY1MiwiZXhwIjoxNzY5NDE2NzEyfQ.pytWkDmbItHDyTOO-b6oev2DAIqp9hPoe0zcWHl2Gz0"
+    },
+    {
+        "name": "Radio Foorti FM 88.0",
+        "city": "Dhaka",
+        "country": "Bangladesh",
+        "url": "https://stream-177.zeno.fm/cwa3vg8s8druv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjd2Ezdmc4czhkcnV2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiZWJPb3A0RVBSamFlcHZuakNNQlNYQSIsImlhdCI6MTc2OTQxNjY1MiwiZXhwIjoxNzY5NDE2NzEyfQ.MbrWMZ6E9Pr1Hwh4k7WadE8FMBQNBtPFE4H7_uZmoYQ"
+    },
+    {
+        "name": "Radio Shadhin 92.4 FM",
+        "city": "Dhaka",
+        "country": "Bangladesh",
+        "url": "https://stream-153.zeno.fm/eabgu655puquv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJlYWJndTY1NXB1cXV2IiwiaG9zdCI6InN0cmVhbS0xNTMuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiWVRCNEpLM01TUE9tRW9FejlSQ1YtZyIsImlhdCI6MTc2OTQxNjY1MiwiZXhwIjoxNzY5NDE2NzEyfQ.mKbcm_QrgMJs2TbqgnheREG6aYfzD9Xy4_RuLPVehWY"
+    },
+    {
+        "name": "Radio Bhumi 92.8 FM",
+        "city": "Dhaka",
+        "country": "Bangladesh",
+        "url": "https://stream-154.zeno.fm/ybf1umk1k18uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5YmYxdW1rMWsxOHV2IiwiaG9zdCI6InN0cmVhbS0xNTQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiVjFDdENIbVFSWk9ZOEpreHBuNGJqUSIsImlhdCI6MTc2OTQxNjY1MiwiZXhwIjoxNzY5NDE2NzEyfQ.lAn-XyNtascIQXKw8IdnFDzZ1gIISG4SnaFI-lhhoU8"
+    },
+    {
+        "name": "Bhutan Broadcasting Service BBS 2",
+        "city": "Sylhet",
+        "country": "Bangladesh",
+        "url": "https://radio.bbs.bt/dz-ch"
+    },
+    {
+        "name": "KTR Radio 93.2 FM",
+        "city": "Rajshahi",
+        "country": "Bangladesh",
+        "url": "https://stream-177.zeno.fm/14p58qgm2p8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIxNHA1OHFnbTJwOHV2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiMlhCV2NyQ3FRZy1LN1VjX2M2RExCQSIsImlhdCI6MTc2OTQxNjY1MywiZXhwIjoxNzY5NDE2NzEzfQ.MMR90tQeWuPMYjFkmYRd3Gb-LvId27SefqmDoVytDLM"
+    },
+    {
+        "name": "Radio Milan FM 90.4",
+        "city": "Barishal",
+        "country": "Bangladesh",
+        "url": "https://stream-175.zeno.fm/io4zzsy1ndbvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJpbzR6enN5MW5kYnZ2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoidzVtWVFOUF9RWHlmQVhGSnNoeUZ6USIsImlhdCI6MTc2OTQxNjY1NCwiZXhwIjoxNzY5NDE2NzE0fQ.9QQHyVQueCUuY1Gl4B9QtykR4sjlT7vZtcdlyKE847E"
+    },
+    {
+        "name": "Radio Vrishti - Maithili",
+        "city": "Rajshahi",
+        "country": "Bangladesh",
+        "url": "https://stream-158.zeno.fm/n7zztgyseaduv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJuN3p6dGd5c2VhZHV2IiwiaG9zdCI6InN0cmVhbS0xNTguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiVE1PSVJ0SEhSSnVYaVlxb01jRUdhQSIsImlhdCI6MTc2OTQxNjY1NCwiZXhwIjoxNzY5NDE2NzE0fQ.wLtMUFMsc3QKM6YGvHYnxvZBvyJB4FghjK4uJm2mn2g"
+    },
+    {
+        "name": "Radio Mahananda 98.8 FM",
+        "city": "Chapai Nawabganj",
+        "country": "Bangladesh",
+        "url": "https://streaming.radiomahananda.fm/proxy/radiomahananda/stream"
+    },
+    {
+        "name": "Radio Active FM 90.4",
+        "city": "Chapai Nawabganj",
+        "country": "Bangladesh",
+        "url": "https://stream-161.zeno.fm/ogoasntaulstv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJvZ29hc250YXVsc3R2IiwiaG9zdCI6InN0cmVhbS0xNjEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoicEMyRThyMHdRdmF4T0pVanZtMDhtUSIsImlhdCI6MTc2OTQxNjY1NCwiZXhwIjoxNzY5NDE2NzE0fQ.y8bStYIoJkg-AJPrgJUCvQWLl4fVXd1q-6slXjaToFM"
+    },
+    {
+        "name": "Radio Quarantine Kolkata",
+        "city": "Nalta Sharif",
+        "country": "Bangladesh",
+        "url": "https://stream-179.zeno.fm/qkuxqw830tzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxa3V4cXc4MzB0enV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiTUR6bjEtQ3ZRS0NpTEEwRjUzNnVsZyIsImlhdCI6MTc2OTQxNjY1NCwiZXhwIjoxNzY5NDE2NzE0fQ.UdNQaB5kkl1_KKyNul72wwxCSbi_3m-RHvFA4lKwHuc"
+    },
+    {
+        "name": "Radio Today 89.6 FM",
+        "city": "Radio Bhumi 92.8 FM",
+        "country": "Dhaka, Bangladesh",
+        "url": "https://stream-141.zeno.fm/8wv4d8g4344tv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI4d3Y0ZDhnNDM0NHR2IiwiaG9zdCI6InN0cmVhbS0xNDEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoic092bUdueDNTdUtpbzZpNnJrSnBNUSIsImlhdCI6MTc2OTQxNjY1NCwiZXhwIjoxNzY5NDE2NzE0fQ.t035BnBqoQQH3FB3ucebQcq2CBW7xZ1C5gcSlQwVrrQ"
+    }
+]

@@ -1,0 +1,522 @@
+[
+  {
+    "id": "albania-radio-7",
+    "name": "Radio 7",
+    "url": "http://cp1.sednastream.com:8013/live",
+    "genre": "Music",
+    "city": "Tirana",
+    "country": "Albania",
+    "lat": 41.3281482,
+    "lng": 19.8184435
+  },
+  {
+    "id": "albania-radio-tirana-1-995fm",
+    "name": "Radio Tirana 1 99.5FM",
+    "url": "http://79.106.48.2:8000/radiotirana1",
+    "genre": "Music",
+    "city": "Tirana",
+    "country": "Albania",
+    "lat": 41.3281482,
+    "lng": 19.8184435
+  },
+  {
+    "id": "albania-radio-1-fm-932",
+    "name": "Radio 1 FM 93.2",
+    "url": "http://audio.radio1.al:88/broadwavehigh.mp3",
+    "genre": "Music",
+    "city": "Tirana",
+    "country": "Albania",
+    "lat": 41.3281482,
+    "lng": 19.8184435
+  },
+  {
+    "id": "albania-radio-gora-fm-1063",
+    "name": "Radio Gora FM 106.3",
+    "url": "http://uzivo.radiogora.org:8117/stream.mp3",
+    "genre": "Music",
+    "city": "Tirana",
+    "country": "Albania",
+    "lat": 41.3281482,
+    "lng": 19.8184435
+  },
+  {
+    "id": "albania-top-albania-radio",
+    "name": "Top Albania Radio",
+    "url": "https://live.top-media.al/tar",
+    "genre": "Music",
+    "city": "Tirana",
+    "country": "Albania",
+    "lat": 41.3281482,
+    "lng": 19.8184435
+  },
+  {
+    "id": "albania-radio-lushnja-955-fm",
+    "name": "Radio Lushnja 95.5 FM",
+    "url": "https://stream.radiolushnja.al/listen/radio_lushnja/radio.mp3",
+    "genre": "Music",
+    "city": "Tirana",
+    "country": "Albania",
+    "lat": 41.3281482,
+    "lng": 19.8184435
+  },
+  {
+    "id": "albania-play-radio-911-fm",
+    "name": "Play Radio 91.1 FM",
+    "url": "https://business.playfm.al:8170/paperplay",
+    "genre": "Music",
+    "city": "Tirana",
+    "country": "Albania",
+    "lat": 41.3281482,
+    "lng": 19.8184435
+  },
+  {
+    "id": "albania-radio-tirana-fëmijë",
+    "name": "Radio Tirana Fëmijë",
+    "url": "http://79.106.48.2:8000/radiotiranafemije",
+    "genre": "Music",
+    "city": "Tirana",
+    "country": "Albania",
+    "lat": 41.3281482,
+    "lng": 19.8184435
+  },
+  {
+    "id": "albania-kolektiv-radio",
+    "name": "Kolektiv Radio",
+    "url": "https://kolektivstudio.com/listen/kolektiv_radio/radio.mp3",
+    "genre": "Music",
+    "city": "Tirana",
+    "country": "Albania",
+    "lat": 41.3281482,
+    "lng": 19.8184435
+  },
+  {
+    "id": "albania-love-radio-fm-907",
+    "name": "Love Radio FM 90.7",
+    "url": "https://radio.albanialoveradio.al/stream",
+    "genre": "Music",
+    "city": "Tirana",
+    "country": "Albania",
+    "lat": 41.3281482,
+    "lng": 19.8184435
+  },
+  {
+    "id": "albania-radio-sol-890",
+    "name": "Radio Sol 89.0",
+    "url": "https://cp1.sednastream.com/proxy/radiosol?mp=/stream",
+    "genre": "Music",
+    "city": "Tirana",
+    "country": "Albania",
+    "lat": 41.3281482,
+    "lng": 19.8184435
+  },
+  {
+    "id": "albania-club-fm-shqiperi-1004",
+    "name": "Club FM Shqiperi 100.4",
+    "url": "https://cp1.sednastream.com/proxy/clubfm?mp=/stream",
+    "genre": "Music",
+    "city": "Tirana",
+    "country": "Albania",
+    "lat": 41.3281482,
+    "lng": 19.8184435
+  },
+  {
+    "id": "albania-radio-shqip-fm-920",
+    "name": "Radio Shqip FM 92.0",
+    "url": "https://cp1.sednastream.com/proxy/radioshqip?mp=%2F%3Bstream.mp3",
+    "genre": "Music",
+    "city": "Tirana",
+    "country": "Albania",
+    "lat": 41.3281482,
+    "lng": 19.8184435
+  },
+  {
+    "id": "albania-alpo-radio-941-fm",
+    "name": "Alpo Radio 94.1 FM",
+    "url": "https://cp1.sednastream.com/proxy/alporadio/stream",
+    "genre": "Music",
+    "city": "Tirana",
+    "country": "Albania",
+    "lat": 41.3281482,
+    "lng": 19.8184435
+  },
+  {
+    "id": "albania-gradski-media-service",
+    "name": "Gradski Media Service",
+    "url": "https://dc1.serverse.com/proxy/akrpnnld/stream",
+    "genre": "Music",
+    "city": "Tirana",
+    "country": "Albania",
+    "lat": 41.3281482,
+    "lng": 19.8184435
+  },
+  {
+    "id": "albania-radio-podgorica",
+    "name": "Radio Podgorica",
+    "url": "https://s13.ssl-stream.com/proxy/podgoricaradio?mp=/stream",
+    "genre": "Music",
+    "city": "Tirana",
+    "country": "Albania",
+    "lat": 41.3281482,
+    "lng": 19.8184435
+  },
+  {
+    "id": "albania-radio-cetinje",
+    "name": "Radio Cetinje",
+    "url": "http://78.129.228.187:8007/stream",
+    "genre": "Music",
+    "city": "Shkodër",
+    "country": "Albania",
+    "lat": 42.0681371,
+    "lng": 19.5121437
+  },
+  {
+    "id": "albania-radio-dj-982-fm",
+    "name": "Radio DJ 98.2 FM",
+    "url": "https://radio.albaniaradiodj.al/stream",
+    "genre": "Music",
+    "city": "Tirana",
+    "country": "Albania",
+    "lat": 41.3281482,
+    "lng": 19.8184435
+  },
+  {
+    "id": "albania-radio-tirana-klasik-1012-fm",
+    "name": "Radio Tirana Klasik 101.2 FM",
+    "url": "http://79.106.48.2:8000/radiotiranaklasik1",
+    "genre": "Music",
+    "city": "Shkodër",
+    "country": "Albania",
+    "lat": 42.0681371,
+    "lng": 19.5121437
+  },
+  {
+    "id": "albania-radio-budva-fm-987",
+    "name": "Radio Budva FM 98.7",
+    "url": "https://c8.radioboss.fm:18199/stream",
+    "genre": "Music",
+    "city": "Lezhë",
+    "country": "Albania",
+    "lat": 41.7816638,
+    "lng": 19.6433538
+  },
+  {
+    "id": "albania-play-radio-fm-904",
+    "name": "Play Radio FM 90.4",
+    "url": "https://radio.shoutcast.mk:8046/index.html?sid=1",
+    "genre": "Music",
+    "city": "Tirana",
+    "country": "Albania",
+    "lat": 41.3281482,
+    "lng": 19.8184435
+  },
+  {
+    "id": "albania-radio-tirana-jazz",
+    "name": "Radio Tirana Jazz",
+    "url": "http://79.106.48.2:8000/radiotiranajazz",
+    "genre": "Music",
+    "city": "Lezhë",
+    "country": "Albania",
+    "lat": 41.7816638,
+    "lng": 19.6433538
+  },
+  {
+    "id": "albania-radio-jehona-fm-1076",
+    "name": "Radio Jehona FM 107.6",
+    "url": "https://stream.iradio.pro/proxy/radiojehona?mp=/1",
+    "genre": "Music",
+    "city": "Shkodër",
+    "country": "Albania",
+    "lat": 42.0681371,
+    "lng": 19.5121437
+  },
+  {
+    "id": "albania-radio-lezha",
+    "name": "Radio Lezha",
+    "url": "https://stream-157.zeno.fm/5sdeyn171k8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI1c2RleW4xNzFrOHV2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiSHhTZFJQU0JUWVNNVjhHUnNwMTRSUSIsImlhdCI6MTc2OTQxNjEwOCwiZXhwIjoxNzY5NDE2MTY4fQ.L9Gekim3u4MkfzsqznTBOluMmQHeXOP9gCVDSii4WMs",
+    "genre": "Music",
+    "city": "Tirana",
+    "country": "Albania",
+    "lat": 41.3281482,
+    "lng": 19.8184435
+  },
+  {
+    "id": "albania-dibulla-stereo-1071-fm",
+    "name": "Dibulla Stereo 107.1 FM",
+    "url": "https://virtual4.emisorasvirtuales.com:8100/live",
+    "genre": "Music",
+    "city": "Albania",
+    "country": "Colombia",
+    "lat": 5.7587654,
+    "lng": -73.9151617
+  },
+  {
+    "id": "albania-tdi-radio--crna-gore",
+    "name": "TDI Radio - Crna Gore",
+    "url": "https://streaming.tdiradio.com/crnagora.mp3",
+    "genre": "Music",
+    "city": "Shkodër",
+    "country": "Albania",
+    "lat": 42.0681371,
+    "lng": 19.5121437
+  },
+  {
+    "id": "albania-kiis-fm-958",
+    "name": "KIIS FM 95.8",
+    "url": "http://streams.enjoyfm.gr:48500/kiis958.mp3",
+    "genre": "Music",
+    "city": "Lushnjë",
+    "country": "Albania",
+    "lat": 40.9422038,
+    "lng": 19.7059724
+  },
+  {
+    "id": "albania-radio-bruškin",
+    "name": "Radio Bruškin",
+    "url": "https://player.radiobruskin.me/proxy/radiobruskin/stream",
+    "genre": "Music",
+    "city": "Shkodër",
+    "country": "Albania",
+    "lat": 42.0681371,
+    "lng": 19.5121437
+  },
+  {
+    "id": "albania-fiesta-stereo-1077-fm",
+    "name": "Fiesta Stéreo 107.7 FM",
+    "url": "https://streaming.radiosenlinea.com.ar/8744/stream",
+    "genre": "Music",
+    "city": "Albania",
+    "country": "Colombia",
+    "lat": 5.7587654,
+    "lng": -73.9151617
+  },
+  {
+    "id": "albania-cardenal-stereo-947-fm",
+    "name": "Cardenal Stereo 94.7 FM",
+    "url": "https://usest-sp1.golivestream.net/8002/stream",
+    "genre": "Music",
+    "city": "Albania",
+    "country": "Colombia",
+    "lat": 5.7587654,
+    "lng": -73.9151617
+  },
+  {
+    "id": "albania-radio-106-bitola",
+    "name": "Radio 106 Bitola",
+    "url": "http://stream.zemi.mk:8003/1",
+    "genre": "Music",
+    "city": "Pogradec",
+    "country": "Albania",
+    "lat": 40.8998739,
+    "lng": 20.6573881
+  },
+  {
+    "id": "albania-en-plo-892",
+    "name": "En Plo 89.2",
+    "url": "http://51.38.125.141:1070/enplofm",
+    "genre": "Music",
+    "city": "Gjirokaster",
+    "country": "Albania",
+    "lat": 40.0770871,
+    "lng": 20.1393359
+  },
+  {
+    "id": "albania-beraka-estereo-882-fm",
+    "name": "Beraka Estereo 88.2 FM",
+    "url": "https://stream-159.zeno.fm/pdtx9g3mzc9uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwZHR4OWczbXpjOXV2IiwiaG9zdCI6InN0cmVhbS0xNTkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiX2Fnd1ZlckRRNHliRmNXMFRzeS0tdyIsImlhdCI6MTc2OTQxNjExMCwiZXhwIjoxNzY5NDE2MTcwfQ.GCpMHICpCAqm5FbxIaP8P3nBTe91WXprN6gZHeR_GEU",
+    "genre": "Music",
+    "city": "Albania",
+    "country": "Colombia",
+    "lat": 5.7587654,
+    "lng": -73.9151617
+  },
+  {
+    "id": "albania-power-fm-923",
+    "name": "Power FM 92.3",
+    "url": "https://neos.win:59230/stream",
+    "genre": "Music",
+    "city": "Gjirokaster",
+    "country": "Albania",
+    "lat": 40.0770871,
+    "lng": 20.1393359
+  },
+  {
+    "id": "albania-radio-pela-fm-968",
+    "name": "Radio Pela FM 96.8",
+    "url": "https://cloud.mkdstream.com/p/8131/stream",
+    "genre": "Music",
+    "city": "Pogradec",
+    "country": "Albania",
+    "lat": 40.8998739,
+    "lng": 20.6573881
+  },
+  {
+    "id": "albania-sky-radio-992-fm",
+    "name": "Sky Radio 99.2 FM",
+    "url": "https://media.skyradio.gr:9920/stream",
+    "genre": "Music",
+    "city": "Gjirokaster",
+    "country": "Albania",
+    "lat": 40.0770871,
+    "lng": 20.1393359
+  },
+  {
+    "id": "albania-fonseca-stereo-883-fm",
+    "name": "Fonseca Stereo 88.3 FM",
+    "url": "https://stream-155.zeno.fm/cep2gepcqzftv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjZXAyZ2VwY3F6ZnR2IiwiaG9zdCI6InN0cmVhbS0xNTUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiYmhRUHpEUnZRcVNWeEZMRE1aVzBYZyIsImlhdCI6MTc2OTQxNjExMCwiZXhwIjoxNzY5NDE2MTcwfQ.7TSG7oxlLNZ19O2_QjEJDrxNkm8mM7kK4CcGSYVkQA0",
+    "genre": "Music",
+    "city": "Albania",
+    "country": "Colombia",
+    "lat": 5.7587654,
+    "lng": -73.9151617
+  },
+  {
+    "id": "albania-rythmos-fm-104-rythmos-fm-104",
+    "name": "Rythmos FM 104 (Rythmos FM 104)",
+    "url": "https://i7.streams.ovh/ic/rythmos1044/stream",
+    "genre": "Music",
+    "city": "Pogradec",
+    "country": "Albania",
+    "lat": 40.8998739,
+    "lng": 20.6573881
+  },
+  {
+    "id": "albania-cfm-999",
+    "name": "CFM 99.9",
+    "url": "https://cast4.magicstreams.gr:2200/ssl/zhzcmfjd?mp=/live",
+    "genre": "Music",
+    "city": "Pogradec",
+    "country": "Albania",
+    "lat": 40.8998739,
+    "lng": 20.6573881
+  },
+  {
+    "id": "albania-radio-maria-fm-900",
+    "name": "Radio Maria FM 90.0",
+    "url": "http://dreamsiteradiocp5.com:8075/stream",
+    "genre": "Music",
+    "city": "Tirana",
+    "country": "Albania",
+    "lat": 41.3281482,
+    "lng": 19.8184435
+  },
+  {
+    "id": "albania-aktina-radio-fm-1047",
+    "name": "Aktina Radio FM 104.7",
+    "url": "https://sc2.streamwithq.com:2000/stream/Aktina1047",
+    "genre": "Music",
+    "city": "Sarandë",
+    "country": "Albania",
+    "lat": 39.8752198,
+    "lng": 20.0065258
+  },
+  {
+    "id": "albania-radio-saranda-961-fm",
+    "name": "Radio Saranda 96.1 FM",
+    "url": "https://s64.radiolize.com/radio/8050/radio.mp3",
+    "genre": "Music",
+    "city": "Sarandë",
+    "country": "Albania",
+    "lat": 39.8752198,
+    "lng": 20.0065258
+  },
+  {
+    "id": "albania-olímpica-stereo",
+    "name": "Olímpica Stereo",
+    "url": "https://18493.live.streamtheworld.com:443/OLP_MEDELLINAAC.aac",
+    "genre": "Music",
+    "city": "Albania",
+    "country": "Colombia",
+    "lat": 5.7587654,
+    "lng": -73.9151617
+  },
+  {
+    "id": "albania-radio-marimanga",
+    "name": "Radio Marimanga",
+    "url": "https://a9.asurahosting.com/listen/radio_marimanga/radio.mp3",
+    "genre": "Music",
+    "city": "Tirana",
+    "country": "Albania",
+    "lat": 41.3281482,
+    "lng": 19.8184435
+  },
+  {
+    "id": "albania-w-radio-fm-999",
+    "name": "W Radio FM 99.9",
+    "url": "https://27413.live.streamtheworld.com:443/WRADIOAAC.aac",
+    "genre": "Music",
+    "city": "Albania",
+    "country": "Colombia",
+    "lat": 5.7587654,
+    "lng": -73.9151617
+  },
+  {
+    "id": "albania-radio-one-fm-952",
+    "name": "Radio One FM 95.2",
+    "url": "https://cp1.sednastream.com/proxy/radioone94?mp=/stream",
+    "genre": "Music",
+    "city": "Tirana",
+    "country": "Albania",
+    "lat": 41.3281482,
+    "lng": 19.8184435
+  },
+  {
+    "id": "albania-4u-radio-fm-931",
+    "name": "4U Radio FM 93.1",
+    "url": "https://netradio.live24.gr/4uradio931",
+    "genre": "Music",
+    "city": "Sarandë",
+    "country": "Albania",
+    "lat": 39.8752198,
+    "lng": 20.0065258
+  },
+  {
+    "id": "albania-caracol-radio",
+    "name": "Caracol Radio",
+    "url": "https://26523.live.streamtheworld.com:443/CARACOL_RADIOAAC.aac",
+    "genre": "Music",
+    "city": "Albania",
+    "country": "Colombia",
+    "lat": 5.7587654,
+    "lng": -73.9151617
+  },
+  {
+    "id": "albania-candela-estereo",
+    "name": "Candela Estéreo",
+    "url": "https://26583.live.streamtheworld.com:443/CANDELAESTEREO.mp3?dist=RadioGarden",
+    "genre": "Music",
+    "city": "Albania",
+    "country": "Colombia",
+    "lat": 5.7587654,
+    "lng": -73.9151617
+  },
+  {
+    "id": "albania-radio-mojahed",
+    "name": "Radio Mojahed",
+    "url": "https://s2.radio.co/s830691c74/listen",
+    "genre": "Music",
+    "city": "Tirana",
+    "country": "Albania",
+    "lat": 41.3281482,
+    "lng": 19.8184435
+  },
+  {
+    "id": "albania-αntennes-936",
+    "name": "Αntennes 93.6",
+    "url": "https://cast.streams.ovh:9177/live",
+    "genre": "Music",
+    "city": "Gjirokaster",
+    "country": "Albania",
+    "lat": 40.0770871,
+    "lng": 20.1393359
+  },
+  {
+    "id": "albania-nrg-radio",
+    "name": "NRG Radio",
+    "url": "https://ice31.securenetsystems.net/AL09",
+    "genre": "Music",
+    "city": "Tirana",
+    "country": "Albania",
+    "lat": 41.3281482,
+    "lng": 19.8184435
+  }
+]

@@ -1,0 +1,518 @@
+[
+    {
+        "name": "Zefir FM",
+        "city": "Kyiv",
+        "country": "Ukraine",
+        "url": "http://178.124.152.212:8008/Zefir"
+    },
+    {
+        "name": "109 FM Ukraine",
+        "city": "Kyiv",
+        "country": "Ukraine",
+        "url": "http://solid48.streamupsolutions.com:8077/109fm_live"
+    },
+    {
+        "name": "Радіо НВ",
+        "city": "Kyiv",
+        "country": "Ukraine",
+        "url": "http://91.218.212.84:8000/radionv.mp3"
+    },
+    {
+        "name": "Kiss FM",
+        "city": "Kyiv",
+        "country": "Ukraine",
+        "url": "https://online.kissfm.ua/KissFM"
+    },
+    {
+        "name": "Hit FM Best",
+        "city": "Kyiv",
+        "country": "Ukraine",
+        "url": "https://online.hitfm.ua/HitFM_Best"
+    },
+    {
+        "name": "Shlager FM 101.9",
+        "city": "Kyiv",
+        "country": "Ukraine",
+        "url": "https://cast.brg.ua/shlager_main_public_mp3_hq"
+    },
+    {
+        "name": "Record FM 105.2",
+        "city": "Kyiv",
+        "country": "Ukraine",
+        "url": "https://a13.asurahosting.com/listen/record_fm_105.2/radio.mp3"
+    },
+    {
+        "name": "Hit FM",
+        "city": "Kyiv",
+        "country": "Ukraine",
+        "url": "https://online.hitfm.ua/HitFM"
+    },
+    {
+        "name": "Hromadske Radio",
+        "city": "Kyiv",
+        "country": "Ukraine",
+        "url": "https://hromadske.radio/radio_https_upstream"
+    },
+    {
+        "name": "Classic Radio",
+        "city": "Kyiv",
+        "country": "Ukraine",
+        "url": "https://online.classicradio.ua/ClassicRadio"
+    },
+    {
+        "name": "Radio Relax FM",
+        "city": "Kyiv",
+        "country": "Ukraine",
+        "url": "https://online.radiorelax.ua/RadioRelax"
+    },
+    {
+        "name": "Romano Patrin FM",
+        "city": "Kyiv",
+        "country": "Ukraine",
+        "url": "https://mediaserv38.live-streams.nl:8074/stream"
+    },
+    {
+        "name": "Gomel FM 101.3",
+        "city": "Kyiv",
+        "country": "Ukraine",
+        "url": "https://stream2.datacenter.by/gomelfm"
+    },
+    {
+        "name": "Stilnoe Radio",
+        "city": "Kyiv",
+        "country": "Ukraine",
+        "url": "http://radio.stilnoe.fm:8080/radio-stilnoe"
+    },
+    {
+        "name": "ABN Radio",
+        "city": "Lviv",
+        "country": "Ukraine",
+        "url": "http://stream-178.zeno.fm/ilibzonk6hotv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJpbGliem9uazZob3R2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiYzNFbldaMFlRRFdQeDFpay1MTS05ZyIsImlhdCI6MTc2OTQyMzk2MCwiZXhwIjoxNzY5NDI0MDIwfQ.g8lB7Z5h2BWazUz7PYDxjbz9pQZrlJ1zQCvTRd74B0c&abn128"
+    },
+    {
+        "name": "Galychyna FM 89.7",
+        "city": "Lviv",
+        "country": "Ukraine",
+        "url": "https://stream320.galychyna.fm/WebSite"
+    },
+    {
+        "name": "New Day 101.9 FM",
+        "city": "Kyiv",
+        "country": "Ukraine",
+        "url": "https://stream-158.zeno.fm/5burvqocukruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI1YnVydnFvY3VrcnV2IiwiaG9zdCI6InN0cmVhbS0xNTguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiZ0t5aFI0TjNUWUtoZm85UWYta2FlUSIsImlhdCI6MTc2OTQyMzk1OSwiZXhwIjoxNzY5NDI0MDE5fQ.tXrAEO9KXFBKjilG9UYX3dfl9QykV4kZMXNNP4j7xrM"
+    },
+    {
+        "name": "Kalush FM",
+        "city": "Lviv",
+        "country": "Ukraine",
+        "url": "http://195.182.22.130:8000/Streamogg"
+    },
+    {
+        "name": "Blits-FM 103.3",
+        "city": "Kyiv",
+        "country": "Ukraine",
+        "url": "https://stream.blits-fm.ua/stream320"
+    },
+    {
+        "name": "Radio z Kryivky",
+        "city": "Lviv",
+        "country": "Ukraine",
+        "url": "http://mjoystream.westeurotele.com:8000/radio-z-kryjivky"
+    },
+    {
+        "name": "Lux FM",
+        "city": "Kyiv",
+        "country": "Ukraine",
+        "url": "https://lux.radio.tvstitch.com/kyiv/lux_adv_sd"
+    },
+    {
+        "name": "FM1 Pershe Radio 87.5 FM",
+        "city": "Odesa",
+        "country": "Ukraine",
+        "url": "http://radio.grad.ua:8000/radio1-128"
+    },
+    {
+        "name": "Радіо Ісландія",
+        "city": "Kyiv",
+        "country": "Ukraine",
+        "url": "https://s3.radio.co/sa3e464c40/listen"
+    },
+    {
+        "name": "Misto FM Beats",
+        "city": "Lviv",
+        "country": "Ukraine",
+        "url": "https://stream.mistofm.com/listen/misto_fm_beats/radio.mp3"
+    },
+    {
+        "name": "Tvoe Radio 101.4 FM",
+        "city": "Lviv",
+        "country": "Ukraine",
+        "url": "https://complex.in.ua/tvoeRadio"
+    },
+    {
+        "name": "Western Pole Radio FM 104.3",
+        "city": "Lviv",
+        "country": "Ukraine",
+        "url": "https://online.z-polus.info/hq"
+    },
+    {
+        "name": "Brokenbeats.net",
+        "city": "Odesa",
+        "country": "Ukraine",
+        "url": "https://brokenbeats.net/stream/aac"
+    },
+    {
+        "name": "Pro Dj Radio",
+        "city": "Odesa",
+        "country": "Ukraine",
+        "url": "https://live.prodjradio.net:8065/radio"
+    },
+    {
+        "name": "Garmonia Mira",
+        "city": "Odesa",
+        "country": "Ukraine",
+        "url": "https://garmonia-stream.fakel.com.ua/1"
+    },
+    {
+        "name": "rukh.live",
+        "city": "Odesa",
+        "country": "Ukraine",
+        "url": "https://a1.asurahosting.com/listen/rukh/radio.mp3"
+    },
+    {
+        "name": "Pro Lider FM 92.4",
+        "city": "Odesa",
+        "country": "Ukraine",
+        "url": "http://liderfm.go.ro:8000/stream/1/"
+    },
+    {
+        "name": "ESKA Zamość 97.3 FM",
+        "city": "Lviv",
+        "country": "Ukraine",
+        "url": "https://ic1.smcdn.pl/2230-1.mp3"
+    },
+    {
+        "name": "Radio FARA",
+        "city": "Lviv",
+        "country": "Ukraine",
+        "url": "https://usa19.fastcast4u.com:5450/1"
+    },
+    {
+        "name": "Holos Svobody",
+        "city": "Kharkiv",
+        "country": "Ukraine",
+        "url": "http://stream.holos.fm:8000/holos"
+    },
+    {
+        "name": "Zhelezo FM",
+        "city": "Kharkiv",
+        "country": "Ukraine",
+        "url": "http://94.102.16.36:8000/fefm"
+    },
+    {
+        "name": "True Black Metal Radio",
+        "city": "Kharkiv",
+        "country": "Ukraine",
+        "url": "https://trueblackmetalradio.com:666/radio"
+    },
+    {
+        "name": "Radio Vtsu",
+        "city": "Kharkiv",
+        "country": "Ukraine",
+        "url": "http://vtsu.org.ua:8000/vtsu-pop"
+    },
+    {
+        "name": "TVA FM",
+        "city": "Chernivtsi",
+        "country": "Ukraine",
+        "url": "http://51.83.132.157/128"
+    },
+    {
+        "name": "Radio Cernăuți",
+        "city": "Chernivtsi",
+        "country": "Ukraine",
+        "url": "https://c4.radioboss.fm:18260/stream"
+    },
+    {
+        "name": "Радіо Накипіло",
+        "city": "Kharkiv",
+        "country": "Ukraine",
+        "url": "https://radiostream.nakypilo.ua/full"
+    },
+    {
+        "name": "Radio Enigma Hit",
+        "city": "Odesa",
+        "country": "Ukraine",
+        "url": "https://radiointact.ro/8050/stream"
+    },
+    {
+        "name": "Blysk FM 106.6",
+        "city": "Chernivtsi",
+        "country": "Ukraine",
+        "url": "https://radio.c4.com.ua:8443/320"
+    },
+    {
+        "name": "Novaline FM 97.1",
+        "city": "Kharkiv",
+        "country": "Ukraine",
+        "url": "https://stream.novaline.fm/Novaline_128"
+    },
+    {
+        "name": "Roman FM 94.2",
+        "city": "Chernivtsi",
+        "country": "Ukraine",
+        "url": "https://live.romanfm.ro:8000/;rfm"
+    },
+    {
+        "name": "News FM Pascani",
+        "city": "Chernivtsi",
+        "country": "Ukraine",
+        "url": "https://stream2.rcast.net/64531"
+    },
+    {
+        "name": "Radio Metal",
+        "city": "Kharkiv",
+        "country": "Ukraine",
+        "url": "https://listen7.myradio24.com/radiometal"
+    },
+    {
+        "name": "ВАТАН CЕДАСЫ",
+        "city": "Simferopol",
+        "country": "Ukraine",
+        "url": "http://91.214.128.125:64000/vatan"
+    },
+    {
+        "name": "Radio Novaya Rossiya FM 104.0",
+        "city": "Simferopol",
+        "country": "Ukraine",
+        "url": "http://91.194.120.107:8000/128"
+    },
+    {
+        "name": "Kometa FM 98.6",
+        "city": "Kharkiv",
+        "country": "Ukraine",
+        "url": "https://donetsk.kometa.fm/"
+    },
+    {
+        "name": "X.ON",
+        "city": "Simferopol",
+        "country": "Ukraine",
+        "url": "https://audio.x-on.com.ua:8443/x-on.mp3"
+    },
+    {
+        "name": "Радіо Кривбас 102.3 FM",
+        "city": "Simferopol",
+        "country": "Ukraine",
+        "url": "https://onair.kryvbas.fm/RadioKryvbas"
+    },
+    {
+        "name": "Megapolis FM 105.2",
+        "city": "Kryvyi Rih",
+        "country": "Ukraine",
+        "url": "https://cast.megapolis.fm/listen/kryvyi_rih/radio.mp3"
+    },
+    {
+        "name": "Nadvirna FM 107.3",
+        "city": "Ivano-Frankivsk",
+        "country": "Ukraine",
+        "url": "http://195.114.96.114:7878/"
+    },
+    {
+        "name": "Stels FM 100.9",
+        "city": "Kharkiv",
+        "country": "Ukraine",
+        "url": "https://pub0301.101.ru:8443/stream/air/aac/64/99"
+    },
+    {
+        "name": "Megapolis FM 90.9",
+        "city": "Dnipro",
+        "country": "Ukraine",
+        "url": "https://cast.megapolis.fm/listen/dnipro/radio.mp3"
+    },
+    {
+        "name": "Маруся ФМ",
+        "city": "Kharkiv",
+        "country": "Ukraine",
+        "url": "https://msk4.radio-holding.ru/marusya_default"
+    },
+    {
+        "name": "Інформатор 107.3",
+        "city": "Dnipro",
+        "country": "Ukraine",
+        "url": "https://main.inf.fm:8101/index.html?sid=1"
+    },
+    {
+        "name": "Топ Радіо FM 104.4",
+        "city": "Simferopol",
+        "country": "Ukraine",
+        "url": "https://stream.topradio.in.ua/topradio.mp3"
+    },
+    {
+        "name": "Radio Wanda FM Ukraine",
+        "city": "Chernivtsi",
+        "country": "Ukraine",
+        "url": "https://icecast.xtvmedia.pp.ua/radiowandafm_hq.mp3"
+    },
+    {
+        "name": "Radio Sighet AM 1404",
+        "city": "Ivano-Frankivsk",
+        "country": "Ukraine",
+        "url": "http://89.238.227.6:8390/index.html?sid=1"
+    },
+    {
+        "name": "Kastamonu 105 FM",
+        "city": "Simferopol",
+        "country": "Ukraine",
+        "url": "https://radyo.yayin.com.tr:4264/index.html?sid=1"
+    },
+    {
+        "name": "Радио Линия",
+        "city": "Simferopol",
+        "country": "Ukraine",
+        "url": "https://a9.radioheart.ru:8050/RH8642"
+    },
+    {
+        "name": "Closed Radio Rostova - Закрытое Радио Ростова",
+        "city": "Luhansk",
+        "country": "Ukraine",
+        "url": "http://radio.jingles.ru:8000/rostovradio"
+    },
+    {
+        "name": "Radio Vezha FM 107",
+        "city": "Ivano-Frankivsk",
+        "country": "Ukraine",
+        "url": "https://listen6.myradio24.com/69829"
+    },
+    {
+        "name": "Radio KP",
+        "city": "Simferopol",
+        "country": "Ukraine",
+        "url": "https://kpradio.hostingradio.ru:8000/crimea.radiokp128.mp3"
+    },
+    {
+        "name": "PTRK Radio",
+        "city": "Kryvyi Rih",
+        "country": "Ukraine",
+        "url": "https://radio.ptrk.tv/PTRK"
+    },
+    {
+        "name": "Radio Syaivo",
+        "city": "Ivano-Frankivsk",
+        "country": "Ukraine",
+        "url": "https://stream.ntktv.ua/syaivo.mp3"
+    },
+    {
+        "name": "Donskoe Radio FM 106.3",
+        "city": "Donetsk",
+        "country": "Ukraine",
+        "url": "http://106-3.tagan.ru:8000/DRadio128"
+    },
+    {
+        "name": "Russkoe Radio 87.5 FM",
+        "city": "Luhansk",
+        "country": "Ukraine",
+        "url": "http://listen2.myradio24.com:9000/7551"
+    },
+    {
+        "name": "Sea Radio",
+        "city": "Simferopol",
+        "country": "Ukraine",
+        "url": "https://sea.1tvcrimea.ru:19003/stream_sea.mp3"
+    },
+    {
+        "name": "Севастополь FM",
+        "city": "Kryvyi Rih",
+        "country": "Ukraine",
+        "url": "https://sfm.amgradio.ru/SFM"
+    },
+    {
+        "name": "Radio Republika 104.8 FM",
+        "city": "Luhansk",
+        "country": "Ukraine",
+        "url": "https://radio.gtrklnr.ru:8443/republic.fm"
+    },
+    {
+        "name": "Europa Plus Sevastopol",
+        "city": "Sevastopol",
+        "country": "Ukraine",
+        "url": "http://109.200.130.38:8000/europa-sev"
+    },
+    {
+        "name": "Love Radio FM 101.0",
+        "city": "Donetsk",
+        "country": "Ukraine",
+        "url": "https://online.road-radio.ru/love101"
+    },
+    {
+        "name": "Radyo Kulüp 95.5",
+        "city": "Sevastopol",
+        "country": "Ukraine",
+        "url": "https://radyo.yayin.com.tr:5894/;stream.mp3"
+    },
+    {
+        "name": "Атаман FM 105.9",
+        "city": "Luhansk",
+        "country": "Ukraine",
+        "url": "https://listen5.myradio24.com/ataman"
+    },
+    {
+        "name": "Radio Mistonad Bugom FM 101.8",
+        "city": "Vinnytsia",
+        "country": "Ukraine",
+        "url": "https://stream.mistonadbugom.com.ua/radiomistonadbugom"
+    },
+    {
+        "name": "Golos Donbasu",
+        "city": "Kamianske",
+        "country": "Ukraine",
+        "url": "http://91.218.213.49:8000/golosdonbasu-mp3"
+    },
+    {
+        "name": "Radio DFM",
+        "city": "Chernihiv",
+        "country": "Ukraine",
+        "url": "http://92.241.103.200:8081/dfm_sm"
+    },
+    {
+        "name": "Radio Mogilev",
+        "city": "Chernihiv",
+        "country": "Ukraine",
+        "url": "https://stream2.datacenter.by/tvrmogilev"
+    },
+    {
+        "name": "Radio 123",
+        "city": "Bila Tserkva",
+        "country": "Ukraine",
+        "url": "https://de1.internet-radio.com/proxy/belradio123/stream"
+    },
+    {
+        "name": "Radio KP",
+        "city": "Donetsk",
+        "country": "Ukraine",
+        "url": "https://kpradio.hostingradio.ru:8000/rostov.radiokp128.mp3"
+    },
+    {
+        "name": "Ercis FM",
+        "city": "Vinnytsia",
+        "country": "Ukraine",
+        "url": "https://stream-162.zeno.fm/ehbuv5erws8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJlaGJ1djVlcndzOHV2IiwiaG9zdCI6InN0cmVhbS0xNjIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiVmNYYnB3YkJUNjZTajZnc1p3WXZXdyIsImlhdCI6MTc2OTQyMzk3MiwiZXhwIjoxNzY5NDI0MDMyfQ.bJ0ZjER3zqMhG4lb3UUT_a3RBRd8DjgJhO3ugkhLbfg"
+    },
+    {
+        "name": "Радио Контур",
+        "city": "Donetsk",
+        "country": "Ukraine",
+        "url": "https://misato.ru-hoster.com:8029/stream"
+    },
+    {
+        "name": "Svoboda.fm",
+        "city": "Chernihiv",
+        "country": "Ukraine",
+        "url": "https://listen.radioking.com/radio/623869/stream/686722"
+    },
+    {
+        "name": "Radio-N 102.6 FM",
+        "city": "Luhansk",
+        "country": "Ukraine",
+        "url": "https://online.radio-n.ru:8000/radio"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Best On Top Radio",
+        "city": "Manama",
+        "country": "Bahrain",
+        "url": "http://198.7.62.157:10008/stream"
+    },
+    {
+        "name": "Shabakat Nur 103.1 FM",
+        "city": "Manama",
+        "country": "Bahrain",
+        "url": "https://albahrani.org/listen/shabakat_nur/SDradio.mp3"
+    },
+    {
+        "name": "Radio Suno 87.6 FM",
+        "city": "Manama",
+        "country": "Bahrain",
+        "url": "https://a1.asurahosting.com/listen/radio_suno_87.6fm/radio.mp3"
+    },
+    {
+        "name": "Plus FM 89.2",
+        "city": "Manama",
+        "country": "Bahrain",
+        "url": "https://l3.itworkscdn.net/itwaudio/9026/stream.mp3"
+    },
+    {
+        "name": "Miraath Al Anbiyya",
+        "city": "Manama",
+        "country": "Bahrain",
+        "url": "https://radio.al7eah.net/8010/stream"
+    },
+    {
+        "name": "Voice of Ummah",
+        "city": "Manama",
+        "country": "Bahrain",
+        "url": "https://mediati.me/radio/8010/radio.mp3"
+    },
+    {
+        "name": "Radio Bahrain 96.5 FM",
+        "city": "Manama",
+        "country": "Bahrain",
+        "url": "https://stream-14.aiir.com/uejfkn0dchcuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1ZWpma24wZGNoY3V2IiwiaG9zdCI6InN0cmVhbS0xNC5haWlyLmNvbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiZUFQUTF6V0lRN1NPdnBydF90bTFEQSIsImlhdCI6MTc2OTQxNjYyMiwiZXhwIjoxNzY5NDE2NjgyfQ.GcUdJ8Darh0lXzJtw9_SV7HQloutqVw8BqkikgenBLA"
+    },
+    {
+        "name": "Live FM 107.2",
+        "city": "Manama",
+        "country": "Bahrain",
+        "url": "https://stream-15.aiir.com/dbv0rxpwp6ytv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJkYnYwcnhwd3A2eXR2IiwiaG9zdCI6InN0cmVhbS0xNS5haWlyLmNvbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoib2hYaEVqNl9UY3FyVGNJY1ppVUVGQSIsImlhdCI6MTc2OTQxNjYyMiwiZXhwIjoxNzY5NDE2NjgyfQ.JaheJShJNfkqGGYv-cpouqZFdvu8c0PjP5OIIf-ioUs"
+    },
+    {
+        "name": "Uthamiyae FM Radio",
+        "city": "Manama",
+        "country": "Bahrain",
+        "url": "https://ssl.aloncast.com:1595/"
+    },
+    {
+        "name": "BFBS Bahrain",
+        "city": "Manama",
+        "country": "Bahrain",
+        "url": "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs9.mp3"
+    }
+]

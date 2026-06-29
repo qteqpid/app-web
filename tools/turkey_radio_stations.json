@@ -1,0 +1,722 @@
+[
+    {
+        "name": "Kral Pop",
+        "city": "İstanbul",
+        "country": "Türkiye",
+        "url": "http://46.20.3.202/"
+    },
+    {
+        "name": "Radyo Spor",
+        "city": "İstanbul",
+        "country": "Türkiye",
+        "url": "http://37.247.100.118/stream/70/"
+    },
+    {
+        "name": "Baba Radyo",
+        "city": "İstanbul",
+        "country": "Türkiye",
+        "url": "http://37.247.98.7/;stream.mp3"
+    },
+    {
+        "name": "HaYaTMix",
+        "city": "İstanbul",
+        "country": "Türkiye",
+        "url": "https://hayatmix.yayin.com.tr/stream"
+    },
+    {
+        "name": "Dost FM",
+        "city": "Ankara",
+        "country": "Türkiye",
+        "url": "http://yayin.dostfm.com:8920/;&amp;lang=auto&amp;codec=mp3&amp;tracking=true&amp;volume=65&amp;autoplay=false&amp;buffering=5"
+    },
+    {
+        "name": "Gözde Fm Yalova 92.2",
+        "city": "İstanbul",
+        "country": "Türkiye",
+        "url": "https://gozdefm.80.yayin.com.tr/stream/1/"
+    },
+    {
+        "name": "Radyo 44",
+        "city": "İstanbul",
+        "country": "Türkiye",
+        "url": "https://radyo44.80.yayin.com.tr/stream"
+    },
+    {
+        "name": "Radyo Haber FM 106.9",
+        "city": "İstanbul",
+        "country": "Türkiye",
+        "url": "https://stream.netradyom.com/listen/radyohaber/radio.mp3"
+    },
+    {
+        "name": "Aşk FM 102.1",
+        "city": "Ankara",
+        "country": "Türkiye",
+        "url": "https://stream.netradyom.com/radio/8000/radio.mp3"
+    },
+    {
+        "name": "Show Radyo",
+        "city": "İstanbul",
+        "country": "Türkiye",
+        "url": "https://showradyo.radyotvonline.net/showradyoaac"
+    },
+    {
+        "name": "Bayram FM",
+        "city": "İstanbul",
+        "country": "Türkiye",
+        "url": "https://sslyayin.netyayin.net/3442/stream"
+    },
+    {
+        "name": "Küpe FM 89.7",
+        "city": "İstanbul",
+        "country": "Türkiye",
+        "url": "https://icecast.netmedya.net/kupefm"
+    },
+    {
+        "name": "Radyo Yüksel",
+        "city": "İstanbul",
+        "country": "Türkiye",
+        "url": "https://yayin2.canliyayin.org:8232/;stream"
+    },
+    {
+        "name": "Radyo Fenomen 100.4 FM",
+        "city": "İstanbul",
+        "country": "Türkiye",
+        "url": "https://live.radyofenomen.com/fenomen/128/icecast.audio"
+    },
+    {
+        "name": "Radio Line FM 99.1",
+        "city": "İstanbul",
+        "country": "Türkiye",
+        "url": "https://online.radioline.fm:8443/stream"
+    },
+    {
+        "name": "Meteorolojinin Sesi Radyosu",
+        "city": "Ankara",
+        "country": "Türkiye",
+        "url": "https://radyomgm.canliyayinda.com/;stream.mp3"
+    },
+    {
+        "name": "JoyTurk FM 89.0",
+        "city": "İstanbul",
+        "country": "Türkiye",
+        "url": "https://22183.live.streamtheworld.com:443/JOY_TURKAAC.aac"
+    },
+    {
+        "name": "Joy FM",
+        "city": "İstanbul",
+        "country": "Türkiye",
+        "url": "https://25683.live.streamtheworld.com:443/JOY_FMAAC.aac"
+    },
+    {
+        "name": "Radyo Ankara 106.7 FM",
+        "city": "Ankara",
+        "country": "Türkiye",
+        "url": "https://radyoankara.ozelip.net/radyoankara/stream"
+    },
+    {
+        "name": "Radyo Özgür 105.1 FM",
+        "city": "Ankara",
+        "country": "Türkiye",
+        "url": "https://radyoozgur.kesintisizyayin.com:9898/;*.nsv"
+    },
+    {
+        "name": "DamarFM",
+        "city": "Ankara",
+        "country": "Türkiye",
+        "url": "https://yayin.damarfm.com/dinle/stream"
+    },
+    {
+        "name": "Heart FM",
+        "city": "Ankara",
+        "country": "Türkiye",
+        "url": "https://live.heartfm.com.tr/listen/heart_fm/128.aac"
+    },
+    {
+        "name": "TRT FM",
+        "city": "Ankara",
+        "country": "Türkiye",
+        "url": "https://trt.radyotvonline.net/trtfm"
+    },
+    {
+        "name": "Radyo Yankı 91.0",
+        "city": "Ankara",
+        "country": "Türkiye",
+        "url": "https://radyoyanki.ozelip.com:9918/;stream.mp3"
+    },
+    {
+        "name": "Aksaray FM 99.5",
+        "city": "Ankara",
+        "country": "Türkiye",
+        "url": "https://sssx.radyosfer.com/aksarayfm/stream//"
+    },
+    {
+        "name": "Ankara Çağdaş Sanat Radyosu",
+        "city": "Ankara",
+        "country": "Türkiye",
+        "url": "https://ip169.ozelip.com:10838/stream"
+    },
+    {
+        "name": "Yozgat FM 96.7",
+        "city": "Ankara",
+        "country": "Türkiye",
+        "url": "https://sslyayin.netyayin.net:10921/stream/"
+    },
+    {
+        "name": "Ozel FM 103.2",
+        "city": "Bursa",
+        "country": "Türkiye",
+        "url": "https://ozelfm.80.yayin.com.tr/;stream/1"
+    },
+    {
+        "name": "Radyo Kent FM 99.0",
+        "city": "Ankara",
+        "country": "Türkiye",
+        "url": "https://live.sinirsizhost.com/8024/stream"
+    },
+    {
+        "name": "Radyo Zonguldak",
+        "city": "Ankara",
+        "country": "Türkiye",
+        "url": "https://anadolu.liderhost.com.tr:10920/;stream.mp3"
+    },
+    {
+        "name": "Radyo Bu FM 95.4",
+        "city": "Bursa",
+        "country": "Türkiye",
+        "url": "https://radyo.yayindakiler.com:8006/stream.mp3"
+    },
+    {
+        "name": "Radyo Turk 94.4",
+        "city": "Bursa",
+        "country": "Türkiye",
+        "url": "https://radyo.yayindakiler.com:4028/stream/"
+    },
+    {
+        "name": "Radyo Aktif FM 92.6",
+        "city": "Bursa",
+        "country": "Türkiye",
+        "url": "https://sssx.radyosfer.com/radyoaktif/stream/1/"
+    },
+    {
+        "name": "Radyo ODTÜ Rock",
+        "city": "Ankara",
+        "country": "Türkiye",
+        "url": "https://stream3.radyoodtu.com.tr:8000/rock"
+    },
+    {
+        "name": "Radyo BursadaBugün FM 94.2",
+        "city": "Bursa",
+        "country": "Türkiye",
+        "url": "https://radyo.bursadabugun.com/stream/"
+    },
+    {
+        "name": "Radyo 45'lik",
+        "city": "İstanbul",
+        "country": "Türkiye",
+        "url": "https://stream.radyo45lik.com:4545/stream"
+    },
+    {
+        "name": "Radyo Cagdas 89.5",
+        "city": "Bursa",
+        "country": "Türkiye",
+        "url": "https://icecast.netmedya.net/radyocagdas"
+    },
+    {
+        "name": "Erciyes Üniversite FM 98.3",
+        "city": "Kayseri",
+        "country": "Türkiye",
+        "url": "https://radio.socialsmart.tv:8000/default"
+    },
+    {
+        "name": "Radyo Alaturka",
+        "city": "İstanbul",
+        "country": "Türkiye",
+        "url": "https://yayin.jumboserver.net:9100/stream"
+    },
+    {
+        "name": "Radyo Venüs FM 92.2",
+        "city": "Bursa",
+        "country": "Türkiye",
+        "url": "https://stream2.rtvtakip.com:7005/;stream.mp3"
+    },
+    {
+        "name": "Radyo Türk 98.0 FM",
+        "city": "Kayseri",
+        "country": "Türkiye",
+        "url": "https://radyo.yayindakiler.com:6191/;stream.mp3"
+    },
+    {
+        "name": "ikariaki radiofonia",
+        "city": "İzmir",
+        "country": "Türkiye",
+        "url": "http://sc2.streamwithq.com:8042/stream"
+    },
+    {
+        "name": "Kolej FM 96.9",
+        "city": "Kayseri",
+        "country": "Türkiye",
+        "url": "https://sssx.radyosfer.com/kolejfm/stream/1/"
+    },
+    {
+        "name": "Radyo Trafik Izmir - 102.5 MHz",
+        "city": "İzmir",
+        "country": "Türkiye",
+        "url": "http://37.247.100.118/stream/179/"
+    },
+    {
+        "name": "Enderun FM 88.2",
+        "city": "Kayseri",
+        "country": "Türkiye",
+        "url": "https://yayin2.canliyayin.org:10996/index.html?sid=1"
+    },
+    {
+        "name": "Elbistan Kent FM 95.0",
+        "city": "Kayseri",
+        "country": "Türkiye",
+        "url": "https://radyo.arkacadde.org/4648/elbistankentfm.mp3"
+    },
+    {
+        "name": "Batı Radyo 93.6",
+        "city": "İzmir",
+        "country": "Türkiye",
+        "url": "https://sslyayin.netyayin.net:10902/index.html?sid=1"
+    },
+    {
+        "name": "Radyo Erkan 93.3 FM",
+        "city": "Kayseri",
+        "country": "Türkiye",
+        "url": "https://stream.radyolarburada.com/listen/erkanfm/erkanfm/radio.mp3"
+    },
+    {
+        "name": "Göksun FM 98.5",
+        "city": "Kayseri",
+        "country": "Türkiye",
+        "url": "https://sslyayin.netyayin.net:10970/;stream.mp3"
+    },
+    {
+        "name": "Gözde FM 103.5",
+        "city": "Kayseri",
+        "country": "Türkiye",
+        "url": "https://sslyayin.radyoyayini.com:7067/stream"
+    },
+    {
+        "name": "Radyo Gul 91.7",
+        "city": "Bursa",
+        "country": "Türkiye",
+        "url": "https://yayin2.canliyayin.org:8866/index.html?sid=1"
+    },
+    {
+        "name": "Anemos FM 95.6",
+        "city": "İzmir",
+        "country": "Türkiye",
+        "url": "https://solid48.streamupsolutions.com/proxy/vqdawvmf/stream"
+    },
+    {
+        "name": "Akdeniz Uni FM",
+        "city": "Antalya",
+        "country": "Türkiye",
+        "url": "https://s2.radiolize.com/radio/8020/radio.mp3"
+    },
+    {
+        "name": "Radyo Remix",
+        "city": "İzmir",
+        "country": "Türkiye",
+        "url": "https://radyo.yayin.com.tr:5250/playlist.mp3"
+    },
+    {
+        "name": "PirateFM Top Vibes",
+        "city": "İzmir",
+        "country": "Türkiye",
+        "url": "https://live.piratefm.net/listen/top/top"
+    },
+    {
+        "name": "Radio Antalya",
+        "city": "Antalya",
+        "country": "Türkiye",
+        "url": "https://my.radiolize.com/radio/8000/radio.mp3"
+    },
+    {
+        "name": "105 FM",
+        "city": "İzmir",
+        "country": "Türkiye",
+        "url": "https://105fm.espiv.net/listen/105fm/stream.mp3"
+    },
+    {
+        "name": "Radyo Bizim FM",
+        "city": "Antalya",
+        "country": "Türkiye",
+        "url": "http://radyo.radyobizimfm.com:9212/;type=mp3"
+    },
+    {
+        "name": "Radyo Sultan FM 94.5",
+        "city": "Antalya",
+        "country": "Türkiye",
+        "url": "http://afyonradyosultan.ozelip.com:9920/index.html?sid=1"
+    },
+    {
+        "name": "Radyo Kilim 100.0",
+        "city": "Gaziantep",
+        "country": "Türkiye",
+        "url": "http://yayin.netyayin.net:2727/1"
+    },
+    {
+        "name": "HKÜ Radyo 106.8 FM",
+        "city": "Gaziantep",
+        "country": "Türkiye",
+        "url": "https://radio.hku.edu.tr:8000/radio.mp3"
+    },
+    {
+        "name": "Radyo Akdeniz FM 95.0",
+        "city": "Antalya",
+        "country": "Türkiye",
+        "url": "https://yayin.radyoakdeniz.com/9470/stream"
+    },
+    {
+        "name": "Radyo Talya",
+        "city": "Antalya",
+        "country": "Türkiye",
+        "url": "https://yayin.radyotalya.com:9424/stream"
+    },
+    {
+        "name": "Gün FM",
+        "city": "Antalya",
+        "country": "Türkiye",
+        "url": "https://ssl120.radyotelekom.com.tr/8130/stream"
+    },
+    {
+        "name": "Olay FM 93.5",
+        "city": "Antalya",
+        "country": "Türkiye",
+        "url": "https://netyayin.jsproduksiyon.com:9010/olayfm"
+    },
+    {
+        "name": "Gurbetci FM 105.4",
+        "city": "Antalya",
+        "country": "Türkiye",
+        "url": "https://sssx.radyosfer.com/gurbetcifm/stream"
+    },
+    {
+        "name": "Hatay Dost FM 90.7",
+        "city": "Gaziantep",
+        "country": "Türkiye",
+        "url": "http://yayin.netyayin.net:1515/streype=.mp3"
+    },
+    {
+        "name": "Radyo İhya FM 100.4",
+        "city": "Gaziantep",
+        "country": "Türkiye",
+        "url": "https://radyo.yayin.com.tr:2727/stream"
+    },
+    {
+        "name": "Davet Radyo",
+        "city": "Gaziantep",
+        "country": "Türkiye",
+        "url": "https://stream-176.zeno.fm/xzuwreqpfg0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ4enV3cmVxcGZnMHV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiU3lQVDZLSDFUSmFyUEFJQjlBZFY0ZyIsImlhdCI6MTc2OTQyMzg1NCwiZXhwIjoxNzY5NDIzOTE0fQ.-77X1Jl-W4sylrfrQZjQRh-PVovOMjH6yypa0MdiEL4"
+    },
+    {
+        "name": "Radyo Şi̇ri̇nnar FM 101",
+        "city": "Gaziantep",
+        "country": "Türkiye",
+        "url": "https://sssx.radyosfer.com/sirinnarfm/stream/"
+    },
+    {
+        "name": "Radyo Şafak FM 98.0",
+        "city": "Gaziantep",
+        "country": "Türkiye",
+        "url": "https://yayin2.canliyayin.org:10970/;stream.mp3"
+    },
+    {
+        "name": "Radyo Hayat FM 94.5",
+        "city": "Mersin",
+        "country": "Türkiye",
+        "url": "http://live4.radyotvonline.com:9450/"
+    },
+    {
+        "name": "بيسان اف ام Bissan FM",
+        "city": "Gaziantep",
+        "country": "Türkiye",
+        "url": "https://eu10.fastcast4u.com/bissanraqqa2021"
+    },
+    {
+        "name": "Kosmos 93.8 FM",
+        "city": "Antalya",
+        "country": "Türkiye",
+        "url": "https://netradio.live24.gr/kosmos938rodos"
+    },
+    {
+        "name": "Mersin FM",
+        "city": "Mersin",
+        "country": "Türkiye",
+        "url": "https://tr2.socialsmart.tv/tepemedya/mersinfm/icecast.audio"
+    },
+    {
+        "name": "Kent Radyo 98.5",
+        "city": "Mersin",
+        "country": "Türkiye",
+        "url": "https://anadolu.liderhost.com.tr:10906/;listen.pls?sid=1"
+    },
+    {
+        "name": "Şahin FM",
+        "city": "Gaziantep",
+        "country": "Türkiye",
+        "url": "https://yayin2.canliyayin.org:7200/stream"
+    },
+    {
+        "name": "Ruwave 94FM Alanya",
+        "city": "Antalya",
+        "country": "Türkiye",
+        "url": "https://listen4.myradio24.com/ruwave"
+    },
+    {
+        "name": "Mix 91.6 FM",
+        "city": "Mersin",
+        "country": "Türkiye",
+        "url": "https://mixfm.ozelip.com/9598/stream"
+    },
+    {
+        "name": "Enerji 93.1 FM",
+        "city": "Mersin",
+        "country": "Türkiye",
+        "url": "https://live.enerjiplay.com/stream/enerji"
+    },
+    {
+        "name": "Radyo Ti",
+        "city": "Samsun",
+        "country": "Türkiye",
+        "url": "http://anadolu.liderhost.com.tr:8040/stream"
+    },
+    {
+        "name": "Konya FM 99.5",
+        "city": "Konya",
+        "country": "Türkiye",
+        "url": "https://sssx.radyosfer.com/konyafm/stream"
+    },
+    {
+        "name": "Feelgood.FM",
+        "city": "Mersin",
+        "country": "Türkiye",
+        "url": "https://radio.feelgood.fm/aac"
+    },
+    {
+        "name": "RadioTEDU Jazz",
+        "city": "Konya",
+        "country": "Türkiye",
+        "url": "https://stream.radiotedu.com/cazz"
+    },
+    {
+        "name": "Radyo Net FM",
+        "city": "Konya",
+        "country": "Türkiye",
+        "url": "https://stream.turkiyeradyolari.com/radyonetfm/stream"
+    },
+    {
+        "name": "K1K4 Radio",
+        "city": "Konya",
+        "country": "Türkiye",
+        "url": "https://radyo1.radyo-dinle.tc:7055/stream.mp3/"
+    },
+    {
+        "name": "Radyo Gerçek 93.5 FM",
+        "city": "Samsun",
+        "country": "Türkiye",
+        "url": "https://ssl120.radyotelekom.com.tr:8198/;listen.pls"
+    },
+    {
+        "name": "Tutku FM 104.0",
+        "city": "Samsun",
+        "country": "Türkiye",
+        "url": "https://sslyayin.radyoyayini.com/8012/stream/"
+    },
+    {
+        "name": "Radyo Sinerji 98.9 FM",
+        "city": "Samsun",
+        "country": "Türkiye",
+        "url": "https://radio.guventechnology.com/9994/stream"
+    },
+    {
+        "name": "Melodi FM 90.5",
+        "city": "Samsun",
+        "country": "Türkiye",
+        "url": "https://sssx.radyosfer.com/unyemelodifm/stream"
+    },
+    {
+        "name": "Sivas FM",
+        "city": "Samsun",
+        "country": "Türkiye",
+        "url": "https://yayin2.canliyayin.org:8180/;stream.nsv"
+    },
+    {
+        "name": "Radyo 11 Bilecik",
+        "city": "Gebze",
+        "country": "Türkiye",
+        "url": "http://95.173.161.131:9832/index.html?sid=1"
+    },
+    {
+        "name": "Haber Radyo FM 103.5",
+        "city": "Samsun",
+        "country": "Türkiye",
+        "url": "https://sslyayin.radyoyayini.com/8012/stream"
+    },
+    {
+        "name": "Radyo Karadeniz 105.3 FM",
+        "city": "Izmit",
+        "country": "Türkiye",
+        "url": "https://sslyayin.netyayin.net/8012/stream"
+    },
+    {
+        "name": "Mega FM",
+        "city": "Izmit",
+        "country": "Türkiye",
+        "url": "https://sssx.radyosfer.com/megafm/stream"
+    },
+    {
+        "name": "Ereğli FM 91.7",
+        "city": "Ereğli",
+        "country": "Türkiye",
+        "url": "https://radyo.yayindakiler.com:3000/stream/"
+    },
+    {
+        "name": "αρμονία FM",
+        "city": "Bodrum",
+        "country": "Türkiye",
+        "url": "http://s3.onweb.gr:8500/index.html?sid=1"
+    },
+    {
+        "name": "Radyo Melodi FM 104.0",
+        "city": "Samsun",
+        "country": "Türkiye",
+        "url": "https://radyo1.radyo-dinle.tc:8196/index.html?sid=1"
+    },
+    {
+        "name": "Can Radyo",
+        "city": "Şanlıurfa",
+        "country": "Türkiye",
+        "url": "http://yayin.yayindakiler.com:2028/;*.mp3"
+    },
+    {
+        "name": "Demokrat FM 92.4",
+        "city": "Ereğli",
+        "country": "Türkiye",
+        "url": "https://sonic.dcnet.com.tr/8078/stream"
+    },
+    {
+        "name": "Ego Radyo 94.3 FM",
+        "city": "Bodrum",
+        "country": "Türkiye",
+        "url": "https://radio.guventechnology.com/9372/stream"
+    },
+    {
+        "name": "Radio 1 FM 88",
+        "city": "Bodrum",
+        "country": "Türkiye",
+        "url": "https://cast2.radiohost.ovh/8000?mp=/stream/"
+    },
+    {
+        "name": "Radio Party4us",
+        "city": "Bodrum",
+        "country": "Türkiye",
+        "url": "https://ip169.ozelip.com/8046/stream"
+    },
+    {
+        "name": "Can Radyo 99.0",
+        "city": "Ereğli",
+        "country": "Türkiye",
+        "url": "https://dinle.ereglicanradyo.com/8030/stream"
+    },
+    {
+        "name": "Radyo Seyhan 103.3 FM",
+        "city": "Adana",
+        "country": "Türkiye",
+        "url": "https://sssx.radyosfer.com/radyoseyhan/stream//"
+    },
+    {
+        "name": "Bodrum FM 101.7",
+        "city": "Bodrum",
+        "country": "Türkiye",
+        "url": "https://live.bodrumfm.org/stream.mp3"
+    },
+    {
+        "name": "Radyo Munzur",
+        "city": "Malatya",
+        "country": "Türkiye",
+        "url": "http://yayin1.yayindakiler.com:3002/;stream.nsv"
+    },
+    {
+        "name": "Sultan Radyo FM 106.0",
+        "city": "Adana",
+        "country": "Türkiye",
+        "url": "https://kilissul.80.yayin.com.tr//stream"
+    },
+    {
+        "name": "Radio Proto FM 91.5",
+        "city": "Bodrum",
+        "country": "Türkiye",
+        "url": "https://centova.gr-net.gr/proxy/radiokos/stream"
+    },
+    {
+        "name": "Radyo Urfa FM 91.5",
+        "city": "Şanlıurfa",
+        "country": "Türkiye",
+        "url": "https://radyourfa.ozelip.com/8038/stream"
+    },
+    {
+        "name": "Dirbesiye FM",
+        "city": "Şanlıurfa",
+        "country": "Türkiye",
+        "url": "https://dirbesiyefm-rojavaradio.radioca.st/stream/"
+    },
+    {
+        "name": "Radyo Tek 97.0 FM",
+        "city": "Malatya",
+        "country": "Türkiye",
+        "url": "http://yayin2.yayindakiler.com:4202/;stream.mp3"
+    },
+    {
+        "name": "Radyo Çağlar FM 95.3",
+        "city": "Malatya",
+        "country": "Türkiye",
+        "url": "https://sssx.radyosfer.com/radyocaglar/stream"
+    },
+    {
+        "name": "Electronica Vibes Pirate Radio GR",
+        "city": "Manisa",
+        "country": "Türkiye",
+        "url": "https://live.piratefm.net/listen/electronica_vibes/electronica_vibes"
+    },
+    {
+        "name": "Radyo Zafer FM 98.3",
+        "city": "Malatya",
+        "country": "Türkiye",
+        "url": "https://radyozafer.ozelip.com:8034/;*.nsv"
+    },
+    {
+        "name": "Üni FM 94.0",
+        "city": "Elâzığ",
+        "country": "Türkiye",
+        "url": "https://unifmcom.80.yayin.com.tr/;type=mp3"
+    },
+    {
+        "name": "Mavi Radyo",
+        "city": "Malatya",
+        "country": "Türkiye",
+        "url": "https://yayin.turkhosted.com/6066/stream"
+    },
+    {
+        "name": "Radyo Azelya 94.3 FM",
+        "city": "Elâzığ",
+        "country": "Türkiye",
+        "url": "https://sssx.radyosfer.com/radyoazelya/stream"
+    },
+    {
+        "name": "Tempo FM 90.2",
+        "city": "Manisa",
+        "country": "Türkiye",
+        "url": "https://sssx.radyosfer.com/tempofm/stream"
+    },
+    {
+        "name": "Radyo Sahil 95.0 Mhz",
+        "city": "Manisa",
+        "country": "Türkiye",
+        "url": "https://radyo1.radyo-dinle.tc/8056/stream:/stream"
+    }
+]

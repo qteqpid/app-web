@@ -1,0 +1,62 @@
+[
+  {
+    "id": "liechtenstein-radio-proton-1043-fm",
+    "name": "Radio Proton 104.3 FM",
+    "url": "http://radioproton.at:8000/protonquality.ogg",
+    "genre": "Music",
+    "city": "Vaduz",
+    "country": "Liechtenstein",
+    "lat": 47.1392862,
+    "lng": 9.5227962
+  },
+  {
+    "id": "liechtenstein-rso-radio-suedostschweiz",
+    "name": "RSO Radio Suedostschweiz",
+    "url": "https://somedia-2.streaming.deliver.media/rso_mp3_128",
+    "genre": "Music",
+    "city": "Vaduz",
+    "country": "Liechtenstein",
+    "lat": 47.1392862,
+    "lng": 9.5227962
+  },
+  {
+    "id": "liechtenstein-radio-vaterland",
+    "name": "Radio Vaterland",
+    "url": "https://radiostream.radiobutler.com/7e9d5eb6-9249-4c7a-9f1c-6d4b9c7a48a8",
+    "genre": "Music",
+    "city": "Vaduz",
+    "country": "Liechtenstein",
+    "lat": 47.1392862,
+    "lng": 9.5227962
+  },
+  {
+    "id": "liechtenstein-jazznet247-radio-europe",
+    "name": "JazzNet247 Radio Europe",
+    "url": "https://das-edge15-live365-dal02.cdnstream.com/a42831",
+    "genre": "Music",
+    "city": "Vaduz",
+    "country": "Liechtenstein",
+    "lat": 47.1392862,
+    "lng": 9.5227962
+  },
+  {
+    "id": "liechtenstein-campus-radio-universität-liechtenstein",
+    "name": "Campus Radio Universität Liechtenstein",
+    "url": "https://campusradioli.out.airtime.pro/campusradioli_a",
+    "genre": "Music",
+    "city": "Vaduz",
+    "country": "Liechtenstein",
+    "lat": 47.1392862,
+    "lng": 9.5227962
+  },
+  {
+    "id": "liechtenstein-antenne-vorarlberg-2000er",
+    "name": "Antenne Vorarlberg 2000er",
+    "url": "https://edge09.radio.antennevorarlberg.at/av-2000er",
+    "genre": "Music",
+    "city": "Vaduz",
+    "country": "Liechtenstein",
+    "lat": 47.1392862,
+    "lng": 9.5227962
+  }
+]

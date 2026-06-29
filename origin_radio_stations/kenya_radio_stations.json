@@ -1,0 +1,622 @@
+[
+  {
+    "id": "kenya-hope-fm-933",
+    "name": "Hope FM 93.3",
+    "url": "https://a5.asurahosting.com:7530/radio.mp3",
+    "genre": "Music",
+    "city": "Nairobi",
+    "country": "Kenya",
+    "lat": -1.2890006,
+    "lng": 36.8172812
+  },
+  {
+    "id": "kenya-radio-thome-fm-881",
+    "name": "Radio Thome FM 88.1",
+    "url": "https://s3.free-shoutcast.com/stream/18270",
+    "genre": "Music",
+    "city": "Nairobi",
+    "country": "Kenya",
+    "lat": -1.2890006,
+    "lng": 36.8172812
+  },
+  {
+    "id": "kenya-nrg-radio-971-fm",
+    "name": "NRG Radio 97.1 FM",
+    "url": "https://uksouth.streaming.broadcast.radio/nrg",
+    "genre": "Music",
+    "city": "Nairobi",
+    "country": "Kenya",
+    "lat": -1.2890006,
+    "lng": 36.8172812
+  },
+  {
+    "id": "kenya-radio-47-1030-fm",
+    "name": "Radio 47 103.0 FM",
+    "url": "https://streaming.shoutcast.com/radio-47",
+    "genre": "Music",
+    "city": "Nairobi",
+    "country": "Kenya",
+    "lat": -1.2890006,
+    "lng": 36.8172812
+  },
+  {
+    "id": "kenya-nation-fm-963",
+    "name": "Nation FM 96.3",
+    "url": "http://n0a.radiojar.com/3by7s8eg65quv?rj-ttl=5&rj-tok=AAABm_mtuPEA8tTdFXFrYl_Zew",
+    "genre": "Music",
+    "city": "Nairobi",
+    "country": "Kenya",
+    "lat": -1.2890006,
+    "lng": 36.8172812
+  },
+  {
+    "id": "kenya-radio-44-fm-916",
+    "name": "Radio 44 FM 91.6",
+    "url": "https://main.smanelcast.com:8030/radio.mp3",
+    "genre": "Music",
+    "city": "Nairobi",
+    "country": "Kenya",
+    "lat": -1.2890006,
+    "lng": 36.8172812
+  },
+  {
+    "id": "kenya-mutongoi-fm",
+    "name": "Mutongoi FM",
+    "url": "https://stream-178.zeno.fm/u6wh2czf8e9uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1NndoMmN6ZjhlOXV2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiWVFEMW83UWVSWDJBVER6dHVfQUNOZyIsImlhdCI6MTc2OTQxOTg3MCwiZXhwIjoxNzY5NDE5OTMwfQ.snvKYzgowpoWB95tLTN46IKVl0CNYkx09-6vwqjEsAo",
+    "genre": "Music",
+    "city": "Nairobi",
+    "country": "Kenya",
+    "lat": -1.2890006,
+    "lng": 36.8172812
+  },
+  {
+    "id": "kenya-kbc-english-service-fm-956",
+    "name": "KBC English Service FM 95.6",
+    "url": "https://stream-160.zeno.fm/mhmwnyyst5quv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJtaG13bnl5c3Q1cXV2IiwiaG9zdCI6InN0cmVhbS0xNjAuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiTWZMWm5pYmdTMldXQ3VVMms0OVoxZyIsImlhdCI6MTc2OTQxOTg3MCwiZXhwIjoxNzY5NDE5OTMwfQ.VZsPfmHRykf9munM9vCxbFNGq-EN9K46goojNukZ9Sg",
+    "genre": "Music",
+    "city": "Nairobi",
+    "country": "Kenya",
+    "lat": -1.2890006,
+    "lng": 36.8172812
+  },
+  {
+    "id": "kenya-ghetto-fm-895",
+    "name": "Ghetto FM 89.5",
+    "url": "https://stream-154.zeno.fm/eghcv7h647zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJlZ2hjdjdoNjQ3enV2IiwiaG9zdCI6InN0cmVhbS0xNTQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiUnFMMGEtbWZRcnlLN05ya2tSMHExQSIsImlhdCI6MTc2OTQxOTg3MCwiZXhwIjoxNzY5NDE5OTMwfQ.1_bN1wlEGWujUlmgRbsuI9w5oE6zEKGiA32LaoSqcBU",
+    "genre": "Music",
+    "city": "Nairobi",
+    "country": "Kenya",
+    "lat": -1.2890006,
+    "lng": 36.8172812
+  },
+  {
+    "id": "kenya-flamingo-radio-fm-1080",
+    "name": "Flamingo Radio FM 108.0",
+    "url": "https://stream-177.zeno.fm/215bpympks8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIyMTVicHltcGtzOHV2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiM0NzbEZ2cVhSQ0tFdTl0V1l4Vkg3dyIsImlhdCI6MTc2OTQxOTg3MCwiZXhwIjoxNzY5NDE5OTMwfQ.YEKePVblNv-fLde5DH9vs12jLRgN-e0CfO4KpPnCOVY",
+    "genre": "Music",
+    "city": "Nairobi",
+    "country": "Kenya",
+    "lat": -1.2890006,
+    "lng": 36.8172812
+  },
+  {
+    "id": "kenya-tuliza-fm",
+    "name": "Tuliza FM",
+    "url": "https://uk4-vn.mixstream.net/:8146/index.html?sid=1",
+    "genre": "Music",
+    "city": "Nairobi",
+    "country": "Kenya",
+    "lat": -1.2890006,
+    "lng": 36.8172812
+  },
+  {
+    "id": "kenya-strath-hits-radio",
+    "name": "Strath Hits Radio",
+    "url": "https://radiostrathmore.out.airtime.pro/radiostrathmore_b",
+    "genre": "Music",
+    "city": "Nairobi",
+    "country": "Kenya",
+    "lat": -1.2890006,
+    "lng": 36.8172812
+  },
+  {
+    "id": "kenya-jesus-is-lord-fm-1059",
+    "name": "Jesus Is Lord FM 105.9",
+    "url": "https://s3.radio.co/s97f38db97/listen",
+    "genre": "Music",
+    "city": "Nairobi",
+    "country": "Kenya",
+    "lat": -1.2890006,
+    "lng": 36.8172812
+  },
+  {
+    "id": "kenya-radio-254",
+    "name": "Radio 254",
+    "url": "https://s4.radio.co/sba1f00abf/listen",
+    "genre": "Music",
+    "city": "Nairobi",
+    "country": "Kenya",
+    "lat": -1.2890006,
+    "lng": 36.8172812
+  },
+  {
+    "id": "kenya-radio-jambo-fm-975",
+    "name": "Radio Jambo FM 97.5",
+    "url": "https://radiojambo-atunwadigital.streamguys1.com/radiojambo",
+    "genre": "Music",
+    "city": "Nairobi",
+    "country": "Kenya",
+    "lat": -1.2890006,
+    "lng": 36.8172812
+  },
+  {
+    "id": "kenya-sauti-ya-pwani-fm-942",
+    "name": "Sauti Ya Pwani FM 94.2",
+    "url": "https://sapircast.caster.fm:15853/QtKG2",
+    "genre": "Music",
+    "city": "Mombasa",
+    "country": "Kenya",
+    "lat": -4.05052,
+    "lng": 39.667169
+  },
+  {
+    "id": "kenya-homeboyz-radio-fm-1035",
+    "name": "HomeBoyz Radio FM 103.5",
+    "url": "https://homeboyzradio-atunwadigital.streamguys1.com/homeboyzradio",
+    "genre": "Music",
+    "city": "Nairobi",
+    "country": "Kenya",
+    "lat": -1.2890006,
+    "lng": 36.8172812
+  },
+  {
+    "id": "kenya-sifa-fm-voi-1077",
+    "name": "Sifa FM Voi 107.7",
+    "url": "https://audio-edge-fvq45.ams.d.radiomast.io/55362b64-fae9-4901-af1f-2a5912e27073",
+    "genre": "Music",
+    "city": "Mombasa",
+    "country": "Kenya",
+    "lat": -4.05052,
+    "lng": 39.667169
+  },
+  {
+    "id": "kenya-pwani-fm-1031",
+    "name": "Pwani FM 103.1",
+    "url": "https://stream-151.zeno.fm/smhmfr1a94zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzbWhtZnIxYTk0enV2IiwiaG9zdCI6InN0cmVhbS0xNTEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiSFNBOFJFU1RULWl3bWRIUXNWdFhRdyIsImlhdCI6MTc2OTQxOTg3MiwiZXhwIjoxNzY5NDE5OTMyfQ.xfjC7VsTT-BJQ13A5kGMR-hH8Dg7swZDH51nzsWGi5w",
+    "genre": "Music",
+    "city": "Mombasa",
+    "country": "Kenya",
+    "lat": -4.05052,
+    "lng": 39.667169
+  },
+  {
+    "id": "kenya-radio-kaya-fm-931",
+    "name": "Radio Kaya FM 93.1",
+    "url": "https://usa9-vn.mixstream.net/:8084/index.html?sid=1",
+    "genre": "Music",
+    "city": "Mombasa",
+    "country": "Kenya",
+    "lat": -4.05052,
+    "lng": 39.667169
+  },
+  {
+    "id": "kenya-hekima-fm-1017",
+    "name": "Hekima FM 101.7",
+    "url": "https://audio-edge-fvq45.ams.d.radiomast.io/534b5849-6a62-4771-8f7c-05c1d62f3166",
+    "genre": "Music",
+    "city": "Garissa",
+    "country": "Kenya",
+    "lat": -0.5236333,
+    "lng": 40.3564053
+  },
+  {
+    "id": "kenya-radio-kaya-fm-913",
+    "name": "Radio Kaya FM 91.3",
+    "url": "https://usa9-vn.mixstream.net/:8084/listen.mp3",
+    "genre": "Music",
+    "city": "Mombasa",
+    "country": "Kenya",
+    "lat": -4.05052,
+    "lng": 39.667169
+  },
+  {
+    "id": "kenya-shalom-radio-fm-973",
+    "name": "Shalom Radio FM 97.3",
+    "url": "https://uk3-vn.mixstream.net/:8144/listen.mp3",
+    "genre": "Music",
+    "city": "Mombasa",
+    "country": "Kenya",
+    "lat": -4.05052,
+    "lng": 39.667169
+  },
+  {
+    "id": "kenya-coco-fm-radio-989",
+    "name": "Coco FM Radio 98.9",
+    "url": "https://stream-146.zeno.fm/ki2jypviprwuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJraTJqeXB2aXByd3V2IiwiaG9zdCI6InN0cmVhbS0xNDYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiMmJNS2dkMC1UbTJiVUV4WF9GQ1lwQSIsImlhdCI6MTc2OTQxOTg3MywiZXhwIjoxNzY5NDE5OTMzfQ.YFSU4jWZd7l-sr4-EfK3Mo45f7XayBbSZUnGv3FUavQ",
+    "genre": "Music",
+    "city": "Mombasa",
+    "country": "Kenya",
+    "lat": -4.05052,
+    "lng": 39.667169
+  },
+  {
+    "id": "kenya-swahilipot-fm-917",
+    "name": "Swahilipot FM 91.7",
+    "url": "https://swahilipotfm.out.airtime.pro:8000/swahilipotfm_a",
+    "genre": "Music",
+    "city": "Mombasa",
+    "country": "Kenya",
+    "lat": -4.05052,
+    "lng": 39.667169
+  },
+  {
+    "id": "kenya-wimwaro-fm-930",
+    "name": "Wimwaro FM 93.0",
+    "url": "http://wimwarofm.atunwadigital.streamguys1.com/wimwarofm",
+    "genre": "Music",
+    "city": "Garissa",
+    "country": "Kenya",
+    "lat": -0.5236333,
+    "lng": 40.3564053
+  },
+  {
+    "id": "kenya-dayo-radio",
+    "name": "DAYO Radio",
+    "url": "https://servidor40-5.brlogic.com:7120/live",
+    "genre": "Music",
+    "city": "Mombasa",
+    "country": "Kenya",
+    "lat": -4.05052,
+    "lng": 39.667169
+  },
+  {
+    "id": "kenya-radio-injili-fm-1037",
+    "name": "Radio Injili FM 103.7",
+    "url": "https://c44.radioboss.fm/stream/73",
+    "genre": "Music",
+    "city": "Nakuru",
+    "country": "Kenya",
+    "lat": -0.2802724,
+    "lng": 36.0712048
+  },
+  {
+    "id": "kenya-nyaluo-radio",
+    "name": "Nyaluo Radio",
+    "url": "http://172.105.25.197/radio/8000/radio.mp3",
+    "genre": "Music",
+    "city": "Nakuru",
+    "country": "Kenya",
+    "lat": -0.2802724,
+    "lng": 36.0712048
+  },
+  {
+    "id": "kenya-rtg-garissa-radio",
+    "name": "RTG Garissa Radio",
+    "url": "https://stream-176.zeno.fm/mybcayfbzv6tv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJteWJjYXlmYnp2NnR2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiUHdnSGtaNlFReUtjU0JMX0JOU1JJQSIsImlhdCI6MTc2OTQxOTg3NCwiZXhwIjoxNzY5NDE5OTM0fQ.NcLjqQ99NsqPfOqvDfukN71vcqYOO4gDYKTJj2wDs8s",
+    "genre": "Music",
+    "city": "Garissa",
+    "country": "Kenya",
+    "lat": -0.5236333,
+    "lng": 40.3564053
+  },
+  {
+    "id": "kenya-sauti-ya-quran-fm",
+    "name": "Sauti Ya Quran FM",
+    "url": "https://stream-177.zeno.fm/igtk1anecmcvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJpZ3RrMWFuZWNtY3Z2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiSFpFMF81aHpSNDJnUTVYeGJCM1ItUSIsImlhdCI6MTc2OTQxOTg3NCwiZXhwIjoxNzY5NDE5OTM0fQ.GhMrn69hls03B2EiFyKcxbJCtpdSpbWNfD4CUWz_4Ao",
+    "genre": "Music",
+    "city": "Mombasa",
+    "country": "Kenya",
+    "lat": -4.05052,
+    "lng": 39.667169
+  },
+  {
+    "id": "kenya-radio-imaan",
+    "name": "Radio Imaan",
+    "url": "https://stream-179.zeno.fm/iggk6hct2dovv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJpZ2drNmhjdDJkb3Z2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiV0tPaUMzQi1SMTI5VDU2U0tYRnVJQSIsImlhdCI6MTc2OTQxOTg3NCwiZXhwIjoxNzY5NDE5OTM0fQ.MdpkVz5SN2nctViknneWQ108QYmaSw69DSDJ-cXTRFQ",
+    "genre": "Music",
+    "city": "Garissa",
+    "country": "Kenya",
+    "lat": -0.5236333,
+    "lng": 40.3564053
+  },
+  {
+    "id": "kenya-caafimaadka-fm",
+    "name": "Caafimaadka FM",
+    "url": "https://stream-179.zeno.fm/jgplnwbkhcwvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJqZ3Bsbndia2hjd3Z2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiUU5BaHNfeF9RMXktdjRUamY0ZXRLdyIsImlhdCI6MTc2OTQxOTg3NCwiZXhwIjoxNzY5NDE5OTM0fQ.HbbMzaM3KX5BOKpLi58zNINqkh3mcIvvv7UziC80dG0",
+    "genre": "Music",
+    "city": "Garissa",
+    "country": "Kenya",
+    "lat": -0.5236333,
+    "lng": 40.3564053
+  },
+  {
+    "id": "kenya-radio-barkulmis",
+    "name": "Radio Barkulmis",
+    "url": "https://stream-175.zeno.fm/ihtlzrj7x7otv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJpaHRsenJqN3g3b3R2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiREdLSEIzOU1RWjJLY3dOd3FQTHJIZyIsImlhdCI6MTc2OTQxOTg3NCwiZXhwIjoxNzY5NDE5OTM0fQ.Dp-nJFHTkob-6U4AX-IEWHUcLrsAt8BFtMsay_4rGeU",
+    "genre": "Music",
+    "city": "Garissa",
+    "country": "Kenya",
+    "lat": -0.5236333,
+    "lng": 40.3564053
+  },
+  {
+    "id": "kenya-blue-radio",
+    "name": "Blue Radio",
+    "url": "https://servidor24.brlogic.com:7630/live",
+    "genre": "Music",
+    "city": "Mombasa",
+    "country": "Kenya",
+    "lat": -4.05052,
+    "lng": 39.667169
+  },
+  {
+    "id": "kenya-iqra-fm-950",
+    "name": "IQRA FM 95.0",
+    "url": "https://servidor25-2.brlogic.com:7002/live",
+    "genre": "Music",
+    "city": "Nairobi",
+    "country": "Kenya",
+    "lat": -1.2890006,
+    "lng": 36.8172812
+  },
+  {
+    "id": "kenya-rware-radio-1017-fm",
+    "name": "Rware Radio 101.7 FM",
+    "url": "https://stream-179.zeno.fm/zicehilll6fvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ6aWNlaGlsbGw2ZnZ2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoibmdBSEJ4Rk9TT09TVl9ucUMzTHZSZyIsImlhdCI6MTc2OTQxOTg3NSwiZXhwIjoxNzY5NDE5OTM1fQ.q1nw_3ScGaFp5F3FjiXMH_N4VAhwYT1lBRpoIz7wzWU",
+    "genre": "Music",
+    "city": "Garissa",
+    "country": "Kenya",
+    "lat": -0.5236333,
+    "lng": 40.3564053
+  },
+  {
+    "id": "kenya-sulwe-fm-896",
+    "name": "Sulwe FM 89.6",
+    "url": "https://sulwefm-atunwadigital.streamguys1.com/sulwefm",
+    "genre": "Music",
+    "city": "Nakuru",
+    "country": "Kenya",
+    "lat": -0.2802724,
+    "lng": 36.0712048
+  },
+  {
+    "id": "kenya-jabulani-radio",
+    "name": "Jabulani Radio",
+    "url": "https://listen.radioking.com/radio/626272/stream/688567",
+    "genre": "Music",
+    "city": "Nakuru",
+    "country": "Kenya",
+    "lat": -0.2802724,
+    "lng": 36.0712048
+  },
+  {
+    "id": "kenya-north-rift-radio-1049-fm",
+    "name": "North Rift Radio 104.9 FM",
+    "url": "https://stream.northriftradio.fynradio.com/",
+    "genre": "Music",
+    "city": "Kitale",
+    "country": "Kenya",
+    "lat": 1.018076,
+    "lng": 35.000236
+  },
+  {
+    "id": "kenya-bk-radio-fm-993",
+    "name": "BK Radio FM 99.3",
+    "url": "https://stream.bkradio1.fynradio.com/",
+    "genre": "Music",
+    "city": "Kitale",
+    "country": "Kenya",
+    "lat": 1.018076,
+    "lng": 35.000236
+  },
+  {
+    "id": "kenya-county-fm-903",
+    "name": "County FM 90.3",
+    "url": "http://196.202.194.147:8090/",
+    "genre": "Music",
+    "city": "Voi",
+    "country": "Kenya",
+    "lat": -3.5592753,
+    "lng": 38.8035102
+  },
+  {
+    "id": "kenya-radio-maria-fm-900",
+    "name": "Radio Maria FM 90.0",
+    "url": "https://dreamsiteradiocp2.com/proxy/rmkenya2?mp=/stream",
+    "genre": "Music",
+    "city": "Nyeri",
+    "country": "Kenya",
+    "lat": -0.3212105,
+    "lng": 36.9295615
+  },
+  {
+    "id": "kenya-aperit-fm-930",
+    "name": "Aperit FM 93.0",
+    "url": "https://stream.aperit.fynradio.com/",
+    "genre": "Music",
+    "city": "Eldoret",
+    "country": "Kenya",
+    "lat": 0.5198329,
+    "lng": 35.2715481
+  },
+  {
+    "id": "kenya-imani-radio",
+    "name": "Imani Radio",
+    "url": "https://stream-161.zeno.fm/hgaxpnxiqfwuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJoZ2F4cG54aXFmd3V2IiwiaG9zdCI6InN0cmVhbS0xNjEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoibzV5OFF2Y01RdGk4MXR0eEZJMGpzdyIsImlhdCI6MTc2OTQxOTg3NywiZXhwIjoxNzY5NDE5OTM3fQ.bHCZWvxY_3GvWc74Jyf2GsjSpAHWH7GgWRyeVtGCVU8",
+    "genre": "Music",
+    "city": "Kitale",
+    "country": "Kenya",
+    "lat": 1.018076,
+    "lng": 35.000236
+  },
+  {
+    "id": "kenya-sifa-fm-marsabit-1011",
+    "name": "Sifa FM Marsabit 101.1",
+    "url": "https://audio-edge-fvq45.ams.d.radiomast.io/add9b317-1b93-49dd-aa5a-69352de0a76a",
+    "genre": "Music",
+    "city": "Wajir",
+    "country": "Kenya",
+    "lat": 1.9394402,
+    "lng": 40.024736
+  },
+  {
+    "id": "kenya-mumbo-fm",
+    "name": "Mumbo FM",
+    "url": "https://usa7-vn.mixstream.net/:8004/listen.mp3",
+    "genre": "Music",
+    "city": "Bungoma",
+    "country": "Kenya",
+    "lat": 0.7829245,
+    "lng": 34.7191681
+  },
+  {
+    "id": "kenya-upendo-fm-894",
+    "name": "Upendo FM 89.4",
+    "url": "https://stream-177.zeno.fm/pbzn43z1mkeuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwYnpuNDN6MW1rZXV2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiUFVkNzJNQk1TTktDLW4tR01pemV3QSIsImlhdCI6MTc2OTQxOTg3NywiZXhwIjoxNzY5NDE5OTM3fQ.DMnL4hhYK8P-7J9YCodhrVu7T_DjlaoOSeoAU95-QbY",
+    "genre": "Music",
+    "city": "Kitale",
+    "country": "Kenya",
+    "lat": 1.018076,
+    "lng": 35.000236
+  },
+  {
+    "id": "kenya-radio-vuna-1020-fm",
+    "name": "Radio Vuna 102.0 FM",
+    "url": "https://securestreams4.autopo.st:1646/stream.mp3/",
+    "genre": "Music",
+    "city": "Nakuru",
+    "country": "Kenya",
+    "lat": -0.2802724,
+    "lng": 36.0712048
+  },
+  {
+    "id": "kenya-sidai-fm",
+    "name": "Sidai FM",
+    "url": "http://197.248.25.27:1234/",
+    "genre": "Music",
+    "city": "Narok",
+    "country": "Kenya",
+    "lat": -1.2779366,
+    "lng": 35.4774228
+  },
+  {
+    "id": "kenya-mbci-radio",
+    "name": "MBCI Radio",
+    "url": "https://radio.mainconnect.co.ke/mbci",
+    "genre": "Music",
+    "city": "Nakuru",
+    "country": "Kenya",
+    "lat": -0.2802724,
+    "lng": 36.0712048
+  },
+  {
+    "id": "kenya-mitume-radio-897-fm",
+    "name": "Mitume Radio 89.7 FM",
+    "url": "https://stream-177.zeno.fm/4ttkt9evbkeuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0dHRrdDlldmJrZXV2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoic2VHRF9NSzhSZ2U1SmhMa3BaUlVUQSIsImlhdCI6MTc2OTQxOTg3NywiZXhwIjoxNzY5NDE5OTM3fQ.FnSfs4IzJOuk4f0c0e6e4oXoR0lrUJu44ubk2Y4UD-0",
+    "genre": "Music",
+    "city": "Kitale",
+    "country": "Kenya",
+    "lat": 1.018076,
+    "lng": 35.000236
+  },
+  {
+    "id": "kenya-eldas-fm",
+    "name": "Eldas FM",
+    "url": "https://stream-179.zeno.fm/o3w79jqhfefvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJvM3c3OWpxaGZlZnZ2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiaG55VkhwMXhRTmVxWktPak80eUpIQSIsImlhdCI6MTc2OTQxOTg3OCwiZXhwIjoxNzY5NDE5OTM4fQ.1XxkAln2aqUOktDKksuVVNW6R8xvB8kL85pxSHno5sE",
+    "genre": "Music",
+    "city": "Wajir",
+    "country": "Kenya",
+    "lat": 1.9394402,
+    "lng": 40.024736
+  },
+  {
+    "id": "kenya-radio-tumaini-929-fm",
+    "name": "Radio Tumaini 92.9 FM",
+    "url": "https://stream-164.zeno.fm/nu9qfhxx9reuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJudTlxZmh4eDlyZXV2IiwiaG9zdCI6InN0cmVhbS0xNjQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiTm53bDBJX1hTZktRb0Y5ZVBoakYyUSIsImlhdCI6MTc2OTQxOTg3OSwiZXhwIjoxNzY5NDE5OTM5fQ.3Cphn-Lh4qSe7qQhrX0KCleRtejBiLCMf4XKPE4FmT8",
+    "genre": "Music",
+    "city": "Voi",
+    "country": "Kenya",
+    "lat": -3.5592753,
+    "lng": 38.8035102
+  },
+  {
+    "id": "kenya-radio-halgan",
+    "name": "Radio Halgan",
+    "url": "https://stream-179.zeno.fm/mkbyjcodywrvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJta2J5amNvZHl3cnZ2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiVUFOaGRYcnhURDZRdE5GeDdYZjBUUSIsImlhdCI6MTc2OTQxOTg3OCwiZXhwIjoxNzY5NDE5OTM4fQ.91q0Qa-hkdcn72z8ss4j0L-kc8cZ9qVwU4WBlZr2-j4",
+    "genre": "Music",
+    "city": "Wajir",
+    "country": "Kenya",
+    "lat": 1.9394402,
+    "lng": 40.024736
+  },
+  {
+    "id": "kenya-minto-fm",
+    "name": "Minto FM",
+    "url": "https://stream-153.zeno.fm/u3dw22zst5quv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1M2R3MjJ6c3Q1cXV2IiwiaG9zdCI6InN0cmVhbS0xNTMuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoid0lwbmU2Qk9STnlvR2kwZDZJY3JJQSIsImlhdCI6MTc2OTQxOTg3OSwiZXhwIjoxNzY5NDE5OTM5fQ.1CZRO9gPUtviwyMHchsnSAvHkNeuJyphuk0toameLgk",
+    "genre": "Music",
+    "city": "Kericho",
+    "country": "Kenya",
+    "lat": -0.3209968,
+    "lng": 35.2261276
+  },
+  {
+    "id": "kenya-nenyon-fm-1043",
+    "name": "Nenyon FM 104.3",
+    "url": "https://stream-167.zeno.fm/60ykr4csvxhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2MHlrcjRjc3Z4aHZ2IiwiaG9zdCI6InN0cmVhbS0xNjcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiTVE5Qi1Fc0xRX09SLWNJTjJxbDY0dyIsImlhdCI6MTc2OTQxOTg3OCwiZXhwIjoxNzY5NDE5OTM4fQ.u55w4LVlko_fxvnYULIHPyCWUoBfYlP-w6BSwmTXX5c",
+    "genre": "Music",
+    "city": "Kitale",
+    "country": "Kenya",
+    "lat": 1.018076,
+    "lng": 35.000236
+  },
+  {
+    "id": "kenya-awr-kisima-897-fm",
+    "name": "AWR Kisima 89.7 FM",
+    "url": "https://stream10.awr.live/listen/kisima/low",
+    "genre": "Music",
+    "city": "Nyamira",
+    "country": "Kenya",
+    "lat": -0.6517907,
+    "lng": 34.934167
+  },
+  {
+    "id": "kenya-radio-jangwani-fm-1063",
+    "name": "Radio Jangwani FM 106.3",
+    "url": "https://stream-175.zeno.fm/58y70ewrqkeuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI1OHk3MGV3cnFrZXV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiMjJXSUFkcWxUQkNvRmdxYnFablRiUSIsImlhdCI6MTc2OTQxOTg4MCwiZXhwIjoxNzY5NDE5OTQwfQ.5WbWB5S4nR4VJLpwW-3oPOb48VRyiB6IjkFEq9nNdq8",
+    "genre": "Music",
+    "city": "Marsabit",
+    "country": "Kenya",
+    "lat": 2.8579583,
+    "lng": 37.7154892
+  },
+  {
+    "id": "kenya-sema-fm-983",
+    "name": "Sema FM 98.3",
+    "url": "https://stream-177.zeno.fm/b7u3cercjsxvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJiN3UzY2VyY2pzeHZ2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoieUFHU2NIU3RTTldNU09JdXA0MjJpZyIsImlhdCI6MTc2OTQxOTg4MCwiZXhwIjoxNzY5NDE5OTQwfQ.T13_WABzzeZIBvPXzRQF27B10_lTTELTHswobp8OHwQ",
+    "genre": "Music",
+    "city": "Kapenguria",
+    "country": "Kenya",
+    "lat": 1.2522515,
+    "lng": 35.0909919
+  },
+  {
+    "id": "kenya-ejok-fm-879",
+    "name": "Ejok FM 87.9",
+    "url": "https://stream-162.zeno.fm/b9u3fbs4kuhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJiOXUzZmJzNGt1aHZ2IiwiaG9zdCI6InN0cmVhbS0xNjIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiLTlOMHpuY0dTYU93a2wzM0M5MnpYQSIsImlhdCI6MTc2OTQxOTg4MCwiZXhwIjoxNzY5NDE5OTQwfQ.bdBc44-lneHtCfhzWB7c22ILffW0HZ7yQexhZtTavmM",
+    "genre": "Music",
+    "city": "Marsabit",
+    "country": "Kenya",
+    "lat": 2.8579583,
+    "lng": 37.7154892
+  },
+  {
+    "id": "kenya-kimuri-radio-1006-fm",
+    "name": "Kimuri Radio 100.6 FM",
+    "url": "https://stream-176.zeno.fm/gcp4rppfakhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJnY3A0cnBwZmFraHZ2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoieXF1dnB5TW9UZi0zT003TlNScUszQSIsImlhdCI6MTc2OTQxOTg4MSwiZXhwIjoxNzY5NDE5OTQxfQ.53XkKXtcoDxP7R9DvrBXRfq54OZfEDslNIjD3zU67rc",
+    "genre": "Music",
+    "city": "Embu",
+    "country": "Kenya",
+    "lat": -0.5359479,
+    "lng": 37.6652884
+  }
+]

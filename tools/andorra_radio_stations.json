@@ -1,0 +1,80 @@
+[
+    {
+        "name": "Proxima FM 94.6",
+        "city": "Andorra la Vella",
+        "country": "Andorra",
+        "url": "http://91.187.93.115:8000/;stream/1"
+    },
+    {
+        "name": "Oxygène FM 94.2",
+        "city": "Les Escaldes",
+        "country": "Andorra",
+        "url": "http://stream.radios-arra.fr:8000/oxygenefm"
+    },
+    {
+        "name": "KW Rock_!",
+        "city": "Andorra la Vella",
+        "country": "Andorra",
+        "url": "http://usa7.fastcast4u.com:5230/stream/"
+    },
+    {
+        "name": "Ràdio Flaix FM AND",
+        "city": "Andorra la Vella",
+        "country": "Andorra",
+        "url": "https://streaming.giraweb.com/8020/stream"
+    },
+    {
+        "name": "Ràdio Flaix BAC AND",
+        "city": "Andorra la Vella",
+        "country": "Andorra",
+        "url": "https://streaming.giraweb.com/8010/stream"
+    },
+    {
+        "name": "Pyrénées FM",
+        "city": "Andorra la Vella",
+        "country": "Andorra",
+        "url": "https://antenne.pyreneesfm.com/direct.mp3"
+    },
+    {
+        "name": "Ràdio Valira",
+        "city": "Andorra la Vella",
+        "country": "Andorra",
+        "url": "https://mars.streamerr.co/8022/stream"
+    },
+    {
+        "name": "Ràdio 24 Andorra 101.5 FM",
+        "city": "Andorra la Vella",
+        "country": "Andorra",
+        "url": "https://stream.radio24andorra.com/8020/stream"
+    },
+    {
+        "name": "Viqui Ràdio",
+        "city": "Les Escaldes",
+        "country": "Andorra",
+        "url": "https://viquiradio.cat/listen/viquiradio/viquiradio.mp3"
+    },
+    {
+        "name": "Radio Couserans",
+        "city": "Andorra la Vella",
+        "country": "Andorra",
+        "url": "https://n14.rcs.revma.com/w6u9tk4a6nhvv?rj-ttl=5&rj-tok=AAABm_l1eHoAsXhJE9PvOZloUQ"
+    },
+    {
+        "name": "Ràdio SER Principat d'Andorra",
+        "city": "Andorra la Vella",
+        "country": "Andorra",
+        "url": "https://27903.live.streamtheworld.com:443/SER_ANDORRA.mp3"
+    },
+    {
+        "name": "Solsona FM",
+        "city": "Andorra la Vella",
+        "country": "Andorra",
+        "url": "https://streaming.enacast.com/solsonafmHD.mp3"
+    },
+    {
+        "name": "RàdioSeu",
+        "city": "Andorra la Vella",
+        "country": "Andorra",
+        "url": "https://streaming.enacast.com/radiolaseu128.mp3"
+    }
+]

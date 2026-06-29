@@ -1,0 +1,122 @@
+[
+    {
+        "name": "JazzySoulRadio",
+        "city": "Francistown",
+        "country": "Botswana",
+        "url": "https://az13.yesstreaming.net:8360/radio.mp3"
+    },
+    {
+        "name": "Mahikeng FM 96.7",
+        "city": "Gaborone",
+        "country": "Botswana",
+        "url": "https://edge.iono.fm/xice/178_medium.aac"
+    },
+    {
+        "name": "Otji FM 107.6",
+        "city": "Ghanzi",
+        "country": "Botswana",
+        "url": "https://carina.streamerr.co/stream/otjifm/stream"
+    },
+    {
+        "name": "Choice FM 101.1",
+        "city": "Francistown",
+        "country": "Botswana",
+        "url": "http://sv6.famcast.co.za:8000/choicelive"
+    },
+    {
+        "name": "Byta FM Radio 90.3",
+        "city": "Nata",
+        "country": "Botswana",
+        "url": "https://s13.myradiostream.com/:38946/listen.mp3/"
+    },
+    {
+        "name": "Duma FM 93.0",
+        "city": "Gaborone",
+        "country": "Botswana",
+        "url": "http://s3.voscast.com:10076/index.html?sid=1"
+    },
+    {
+        "name": "Madibeng FM 105.3",
+        "city": "Gaborone",
+        "country": "Botswana",
+        "url": "https://cast3.my-control-panel.com/proxy/madibengfm/stream"
+    },
+    {
+        "name": "PUKfm 93.6",
+        "city": "Gaborone",
+        "country": "Botswana",
+        "url": "https://cast3.my-control-panel.com/proxy/pukfm/stream"
+    },
+    {
+        "name": "Overvaal Stereo",
+        "city": "Gaborone",
+        "country": "Botswana",
+        "url": "https://cast3.my-control-panel.com/proxy/overvaalstereo/stream"
+    },
+    {
+        "name": "Mambokadzi DreamRadio",
+        "city": "Francistown",
+        "country": "Botswana",
+        "url": "https://cast3.asurahosting.com/proxy/dreamradio/stream.mp3"
+    },
+    {
+        "name": "The Cross FM",
+        "city": "Gaborone",
+        "country": "Botswana",
+        "url": "http://n08.radiojar.com/pwd30v5rv98uv?rj-ttl=5&rj-tok=AAABm_mCWBoAwWuZBWoo-Y4WqA"
+    },
+    {
+        "name": "Waterberg Stereo FM 104.9",
+        "city": "Francistown",
+        "country": "Botswana",
+        "url": "https://fm1.cvdrbroadcastsolutions.com:8443/waterberg_stereo.aac"
+    },
+    {
+        "name": "Gabz FM",
+        "city": "Gaborone",
+        "country": "Botswana",
+        "url": "https://stream-152.zeno.fm/y4fgv9tfy4zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5NGZndjl0Znk0enV2IiwiaG9zdCI6InN0cmVhbS0xNTIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiaDhLODdIX25RVHVaYlBicG5tb29tQSIsImlhdCI6MTc2OTQxNzAyNywiZXhwIjoxNzY5NDE3MDg3fQ.uMg0qAKOANOZfFHlKOZfsBzo7pg-LAO_rV8ihq8qlkA"
+    },
+    {
+        "name": "Chikuni Radio FM 91.9",
+        "city": "Nata",
+        "country": "Botswana",
+        "url": "https://chikunir.radioca.st/live"
+    },
+    {
+        "name": "Munghana Lonene FM",
+        "city": "Francistown",
+        "country": "Botswana",
+        "url": "https://28503.live.streamtheworld.com:443/MUNGANALONENEAAC.aac"
+    },
+    {
+        "name": "UB Radio",
+        "city": "Gaborone",
+        "country": "Botswana",
+        "url": "https://n14.rcs.revma.com/63tt2c7su8hvv?rj-ttl=5&rj-tok=AAABm_mCV7wATpf7Ek7rylxDOw"
+    },
+    {
+        "name": "Harties FM",
+        "city": "Gaborone",
+        "country": "Botswana",
+        "url": "https://s5.radio.co/s68c6f4028/listen"
+    },
+    {
+        "name": "Afrika-Boom",
+        "city": "Ghanzi",
+        "country": "Botswana",
+        "url": "https://stream.radio.co/se53fee01d/listen"
+    },
+    {
+        "name": "Kalahari Radio",
+        "city": "Ghanzi",
+        "country": "Botswana",
+        "url": "https://s2.radio.co/s26e32fe8f/listen"
+    },
+    {
+        "name": "Skyz Metro FM",
+        "city": "Nata",
+        "country": "Botswana",
+        "url": "https://stream-157.zeno.fm/2634b6n4qy8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIyNjM0YjZuNHF5OHV2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiQ0dodThFM2RSbE9LSmhlWHBGYkltZyIsImlhdCI6MTc2OTQxNzAyOSwiZXhwIjoxNzY5NDE3MDg5fQ.TmdFK1JOQwzFH60Jz939HH2FadL6h9oDHDKP-6QKnII"
+    }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "id": "uzbekistan-oriat-dono-1024fm",
+    "name": "Oriat Dono 102.4FM",
+    "url": "http://46.8.35.26:8012/dono",
+    "genre": "Music",
+    "city": "Tashkent",
+    "country": "Uzbekistan",
+    "lat": 41.3123363,
+    "lng": 69.2787079
+  },
+  {
+    "id": "uzbekistan-аъло-фм",
+    "name": "Аъло ФМ",
+    "url": "http://tabassum.uz:9000/alo_low",
+    "genre": "Music",
+    "city": "Tashkent",
+    "country": "Uzbekistan",
+    "lat": 41.3123363,
+    "lng": 69.2787079
+  },
+  {
+    "id": "uzbekistan-navruz-fm-884",
+    "name": "Navruz FM 88.4",
+    "url": "http://navruzfm.uz:9000/navruz_low",
+    "genre": "Music",
+    "city": "Tashkent",
+    "country": "Uzbekistan",
+    "lat": 41.3123363,
+    "lng": 69.2787079
+  },
+  {
+    "id": "uzbekistan-oriat-fm-1005",
+    "name": "Oriat FM 100.5",
+    "url": "http://194.5.152.248:8000/fm",
+    "genre": "Music",
+    "city": "Tashkent",
+    "country": "Uzbekistan",
+    "lat": 41.3123363,
+    "lng": 69.2787079
+  },
+  {
+    "id": "uzbekistan-dfm-1055",
+    "name": "DFM 105.5",
+    "url": "https://c16.radioboss.fm:18234/stream",
+    "genre": "Music",
+    "city": "Tashkent",
+    "country": "Uzbekistan",
+    "lat": 41.3123363,
+    "lng": 69.2787079
+  },
+  {
+    "id": "uzbekistan-radio-uzbegim-taronasi-fm-1010",
+    "name": "Radio Uzbegim Taronasi FM 101.0",
+    "url": "https://fm101.uz:9943/fm101_low.aac",
+    "genre": "Music",
+    "city": "Tashkent",
+    "country": "Uzbekistan",
+    "lat": 41.3123363,
+    "lng": 69.2787079
+  },
+  {
+    "id": "uzbekistan-iradio-fm-920",
+    "name": "IRadio FM 92.0",
+    "url": "http://212.112.123.200:8000/stream.ogg",
+    "genre": "Music",
+    "city": "Tashkent",
+    "country": "Uzbekistan",
+    "lat": 41.3123363,
+    "lng": 69.2787079
+  },
+  {
+    "id": "uzbekistan-am-1170",
+    "name": "AM 1170",
+    "url": "https://whmsonic.radio.gov.pk:8072/relay/",
+    "genre": "Music",
+    "city": "Tashkent",
+    "country": "Uzbekistan",
+    "lat": 41.3123363,
+    "lng": 69.2787079
+  },
+  {
+    "id": "uzbekistan-hitfm",
+    "name": "Hit.FM",
+    "url": "https://live.hitfm.uz/hitfmuz",
+    "genre": "Music",
+    "city": "Tashkent",
+    "country": "Uzbekistan",
+    "lat": 41.3123363,
+    "lng": 69.2787079
+  },
+  {
+    "id": "uzbekistan-islomuz",
+    "name": "Islom.uz",
+    "url": "https://radio.islom.uz/islomuz",
+    "genre": "Music",
+    "city": "Tashkent",
+    "country": "Uzbekistan",
+    "lat": 41.3123363,
+    "lng": 69.2787079
+  },
+  {
+    "id": "uzbekistan-see-the-sea-fm",
+    "name": "See The Sea FM",
+    "url": "https://listen5.myradio24.com/seethesea",
+    "genre": "Music",
+    "city": "Samarkand",
+    "country": "Uzbekistan",
+    "lat": 39.6550017,
+    "lng": 66.9756954
+  },
+  {
+    "id": "uzbekistan-pink-unicorn-radio",
+    "name": "Pink Unicorn Radio",
+    "url": "https://listen6.myradio24.com/unicorn",
+    "genre": "Music",
+    "city": "Samarkand",
+    "country": "Uzbekistan",
+    "lat": 39.6550017,
+    "lng": 66.9756954
+  },
+  {
+    "id": "uzbekistan-радио-европа-плюс-ош-1038",
+    "name": "Радио Европа Плюс Ош 103.8",
+    "url": "https://europaplus.hostingradio.ru:8014/europaplus320.mp3",
+    "genre": "Music",
+    "city": "Tashkent",
+    "country": "Uzbekistan",
+    "lat": 41.3123363,
+    "lng": 69.2787079
+  },
+  {
+    "id": "uzbekistan-quranuz-radio",
+    "name": "Quran.uz radio",
+    "url": "https://radio.islom.uz/quranuz",
+    "genre": "Music",
+    "city": "Tashkent",
+    "country": "Uzbekistan",
+    "lat": 41.3123363,
+    "lng": 69.2787079
+  }
+]

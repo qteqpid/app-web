@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Best On Top Radio",
+        "city": "Kuwait City",
+        "country": "Kuwait",
+        "url": "http://198.7.62.157:10008/stream"
+    },
+    {
+        "name": "Times Square Radio 102.5 FM",
+        "city": "Kuwait City",
+        "country": "Kuwait",
+        "url": "https://edge.mixlr.com/channel/slpyo"
+    },
+    {
+        "name": "Alrasheed FM 91.5",
+        "city": "Kuwait City",
+        "country": "Kuwait",
+        "url": "https://streaming.shoutcast.com/alrasheed-fm"
+    },
+    {
+        "name": "Radio Asharq with Bloomberg",
+        "city": "Kuwait City",
+        "country": "Kuwait",
+        "url": "https://l3.itworkscdn.net/asharqradioalive/asharqradioa/icecast.audio"
+    },
+    {
+        "name": "Live FM 107.2",
+        "city": "Kuwait City",
+        "country": "Kuwait",
+        "url": "https://stream-14.aiir.com/dbv0rxpwp6ytv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJkYnYwcnhwd3A2eXR2IiwiaG9zdCI6InN0cmVhbS0xNC5haWlyLmNvbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiMFhJcG1NcVZUVnFXLV9LdkJiaE5LZyIsImlhdCI6MTc2OTQxOTk2MywiZXhwIjoxNzY5NDIwMDIzfQ.OyNhw6pf1Oh8D8XYHHbvbrnnv32DfDMjP5xsJoKyPgQ"
+    },
+    {
+        "name": "BFBS Bahrain",
+        "city": "Kuwait City",
+        "country": "Kuwait",
+        "url": "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs9.mp3"
+    },
+    {
+        "name": "Radio Suno Melody",
+        "city": "Salmiya",
+        "country": "Kuwait",
+        "url": "https://14993.live.streamtheworld.com:443/RADIO_SUNO_MELODY_S06AAC.aac"
+    }
+]

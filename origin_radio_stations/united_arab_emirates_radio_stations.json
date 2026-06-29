@@ -1,0 +1,282 @@
+[
+  {
+    "id": "united-rak-radio-uae",
+    "name": "RAK Radio UAE",
+    "url": "https://stream.chiliradio.app/gulfradio",
+    "genre": "Music",
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "lat": 25.0742823,
+    "lng": 55.1885387
+  },
+  {
+    "id": "united-suno-fm-1024",
+    "name": "Suno FM 102.4",
+    "url": "http://51.255.235.165:5476/;stream.mp3",
+    "genre": "Music",
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "lat": 25.0742823,
+    "lng": 55.1885387
+  },
+  {
+    "id": "united-radio-chaska",
+    "name": "Radio Chaska",
+    "url": "https://qurum.ddns.net:8000/radio.mp3",
+    "genre": "Music",
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "lat": 25.0742823,
+    "lng": 55.1885387
+  },
+  {
+    "id": "united-volna-1032-fm",
+    "name": "Volna 103.2 FM",
+    "url": "https://de1.streamingpulse.com/ssl/radiovolna",
+    "genre": "Music",
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "lat": 25.0742823,
+    "lng": 55.1885387
+  },
+  {
+    "id": "united-zayed-quran-–-976-fm",
+    "name": "Zayed Quran – 97.6 FM",
+    "url": "http://ccfz.dyndns.org:4427/zfm",
+    "genre": "Music",
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "lat": 25.0742823,
+    "lng": 55.1885387
+  },
+  {
+    "id": "united-sharjah-quran-radio",
+    "name": "Sharjah Quran Radio",
+    "url": "https://l3.itworkscdn.net/smcquranlive/quranradiolive/icecast.audio",
+    "genre": "Music",
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "lat": 25.0742823,
+    "lng": 55.1885387
+  },
+  {
+    "id": "united-dubai-holy-quran-fm-914",
+    "name": "Dubai Holy Quran FM 91.4",
+    "url": "https://uk5.internet-radio.com/proxy/dubaiholyquran?mp=/stream;",
+    "genre": "Music",
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "lat": 25.0742823,
+    "lng": 55.1885387
+  },
+  {
+    "id": "united-mirchi-fm-1024",
+    "name": "Mirchi FM 102.4",
+    "url": "https://eu8.fastcast4u.com/proxy/clyedupq?mp=/1",
+    "genre": "Music",
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "lat": 25.0742823,
+    "lng": 55.1885387
+  },
+  {
+    "id": "united-radio-khushi-922-fm",
+    "name": "Radio Khushi 92.2 FM",
+    "url": "https://centova.aarenworld.com/proxy/radiokushi/stream",
+    "genre": "Music",
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "lat": 25.0742823,
+    "lng": 55.1885387
+  },
+  {
+    "id": "united-tamil-fm-894",
+    "name": "Tamil FM 89.4",
+    "url": "https://centova.aarenworld.com/proxy/894tamilfm/stream",
+    "genre": "Music",
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "lat": 25.0742823,
+    "lng": 55.1885387
+  },
+  {
+    "id": "united-sky-news-arabia-fm-905",
+    "name": "Sky News Arabia FM 90.5",
+    "url": "https://radio.skynewsarabia.com/stream/radio/skynewsarabia",
+    "genre": "Music",
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "lat": 25.0742823,
+    "lng": 55.1885387
+  },
+  {
+    "id": "united-radio-ayk",
+    "name": "Radio AYK",
+    "url": "http://64.150.176.42:8117/;listen.mp3",
+    "genre": "Music",
+    "city": "Sharjah",
+    "country": "United Arab Emirates",
+    "lat": 25.2797555,
+    "lng": 56.2775651
+  },
+  {
+    "id": "united-talk-1003",
+    "name": "Talk 100.3",
+    "url": "https://funasia.streamguys1.com/live13",
+    "genre": "Music",
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "lat": 25.0742823,
+    "lng": 55.1885387
+  },
+  {
+    "id": "united-radio-italia--dubai-953-fm",
+    "name": "Radio Italia - Dubai 95.3 FM",
+    "url": "http://ice62.fluidstream.net:8090/ita_dubai_in.aac",
+    "genre": "Music",
+    "city": "Ras Al Khaima",
+    "country": "United Arab Emirates",
+    "lat": 25.7737705,
+    "lng": 55.938232
+  },
+  {
+    "id": "united-fujairah-926-fm",
+    "name": "Fujairah 92.6 FM",
+    "url": "https://fujairah.fm/stream.php",
+    "genre": "Music",
+    "city": "Sharjah",
+    "country": "United Arab Emirates",
+    "lat": 25.2797555,
+    "lng": 56.2775651
+  },
+  {
+    "id": "united-fujairah-fm-–-926-fm",
+    "name": "Fujairah FM – 92.6 FM",
+    "url": "http://ccfz.dyndns.org:4427/live",
+    "genre": "Music",
+    "city": "Fujairah",
+    "country": "United Arab Emirates",
+    "lat": 25.4147357,
+    "lng": 56.2313667
+  },
+  {
+    "id": "united-radio-suno-melody",
+    "name": "Radio Suno Melody",
+    "url": "https://27143.live.streamtheworld.com:443/RADIO_SUNO_MELODY_S06AAC.aac",
+    "genre": "Music",
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "lat": 25.0742823,
+    "lng": 55.1885387
+  },
+  {
+    "id": "united-al-khaleejiya-fm-1009",
+    "name": "Al Khaleejiya FM 100.9",
+    "url": "https://n13.radiojar.com/5wpf9e4erxquv?rj-ttl=5&rj-tok=AAABm_ns2yQAftIFwTHmkl3gqQ",
+    "genre": "Music",
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "lat": 25.0742823,
+    "lng": 55.1885387
+  },
+  {
+    "id": "united-dilse-fm-908",
+    "name": "Dilse FM 90.8",
+    "url": "https://a7.asurahosting.com:7440/radio.mp3",
+    "genre": "Music",
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "lat": 25.0742823,
+    "lng": 55.1885387
+  },
+  {
+    "id": "united-aloula-radio",
+    "name": "Aloula Radio",
+    "url": "http://uk6.internet-radio.com:8103/stream/",
+    "genre": "Music",
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "lat": 25.0742823,
+    "lng": 55.1885387
+  },
+  {
+    "id": "united-beat-978",
+    "name": "Beat 97.8",
+    "url": "https://funasia.streamguys1.com/live3",
+    "genre": "Music",
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "lat": 25.0742823,
+    "lng": 55.1885387
+  },
+  {
+    "id": "united-oman-foreign-program-fm-904",
+    "name": "Oman Foreign Program FM 90.4",
+    "url": "https://partrdo.mangomolo.com/engrdo.mp3",
+    "genre": "Music",
+    "city": "Ras Al Khaima",
+    "country": "United Arab Emirates",
+    "lat": 25.7737705,
+    "lng": 55.938232
+  },
+  {
+    "id": "united-uthamiyae-fm-radio",
+    "name": "Uthamiyae FM Radio",
+    "url": "https://ssl.aloncast.com:1595/",
+    "genre": "Music",
+    "city": "Sharjah",
+    "country": "United Arab Emirates",
+    "lat": 25.2797555,
+    "lng": 56.2775651
+  },
+  {
+    "id": "united-luv-1071",
+    "name": "Luv 107.1",
+    "url": "https://funasia.streamguys1.com/live2",
+    "genre": "Music",
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "lat": 25.0742823,
+    "lng": 55.1885387
+  },
+  {
+    "id": "united-radio-keralam-am-1476",
+    "name": "Radio Keralam AM 1476",
+    "url": "https://ice31.securenetsystems.net/RADIOKERAL",
+    "genre": "Music",
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "lat": 25.0742823,
+    "lng": 55.1885387
+  },
+  {
+    "id": "united-so-radio-oman-914-fm",
+    "name": "So! Radio Oman 91.4 FM",
+    "url": "https://listen-soradio.sharp-stream.com/soradio_high.mp3",
+    "genre": "Music",
+    "city": "Abu Dhabi",
+    "country": "United Arab Emirates",
+    "lat": 24.4538352,
+    "lng": 54.3774014
+  },
+  {
+    "id": "united-radio-suno-tamil",
+    "name": "Radio Suno Tamil",
+    "url": "https://16613.live.streamtheworld.com:443/RADIO_SUNO_TAMIL_S01AAC.aac",
+    "genre": "Music",
+    "city": "Ras Al Khaima",
+    "country": "United Arab Emirates",
+    "lat": 25.7737705,
+    "lng": 55.938232
+  },
+  {
+    "id": "united-russian-emirates-radio",
+    "name": "Russian Emirates Radio",
+    "url": "https://a4.radioheart.ru:9041/RH32763",
+    "genre": "Music",
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "lat": 25.0742823,
+    "lng": 55.1885387
+  }
+]

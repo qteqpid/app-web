@@ -1,0 +1,122 @@
+[
+  {
+    "id": "mongolia-radio-cultura",
+    "name": "Radio Cultura",
+    "url": "http://icecast.vgtrk.cdnvideo.ru/kulturafm_mp3_192kbps",
+    "genre": "Music",
+    "city": "Ulaanbaatar",
+    "country": "Mongolia",
+    "lat": 47.9184676,
+    "lng": 106.9177016
+  },
+  {
+    "id": "mongolia-staroe-dobroe-radio-1053-fm",
+    "name": "Staroe Dobroe Radio 105.3 FM",
+    "url": "http://91.189.162.134:8008/;stream.nsv",
+    "genre": "Music",
+    "city": "Ulaanbaatar",
+    "country": "Mongolia",
+    "lat": 47.9184676,
+    "lng": 106.9177016
+  },
+  {
+    "id": "mongolia-ger-buliin-radio-fm-1045",
+    "name": "Ger Buliin Radio FM 104.5",
+    "url": "https://c2.radioboss.fm/stream/394",
+    "genre": "Music",
+    "city": "Ulaanbaatar",
+    "country": "Mongolia",
+    "lat": 47.9184676,
+    "lng": 106.9177016
+  },
+  {
+    "id": "mongolia-beijing-joy-radio-876-fm",
+    "name": "Beijing Joy Radio 87.6 FM",
+    "url": "https://lhttp.qingting.fm/live/333/64k.mp3",
+    "genre": "Music",
+    "city": "Darkhan",
+    "country": "Mongolia",
+    "lat": 49.4922428,
+    "lng": 105.9361613
+  },
+  {
+    "id": "mongolia-beijing-sports-radio-fm-1025",
+    "name": "Beijing Sports Radio FM 102.5",
+    "url": "https://lhttp.qingting.fm/live/335/64k.mp3",
+    "genre": "Music",
+    "city": "Ulaanbaatar",
+    "country": "Mongolia",
+    "lat": 47.9184676,
+    "lng": 106.9177016
+  },
+  {
+    "id": "mongolia-international-radio-921-fm",
+    "name": "International Radio 92.1 FM",
+    "url": "https://s6.yesstreaming.net:7092/stream",
+    "genre": "Music",
+    "city": "Ulaanbaatar",
+    "country": "Mongolia",
+    "lat": 47.9184676,
+    "lng": 106.9177016
+  },
+  {
+    "id": "mongolia-shandong-classical-music-fm-105",
+    "name": "Shandong Classical Music FM 105",
+    "url": "https://lhttp.qingting.fm/live/20240/64k.mp3",
+    "genre": "Music",
+    "city": "Ulaanbaatar",
+    "country": "Mongolia",
+    "lat": 47.9184676,
+    "lng": 106.9177016
+  },
+  {
+    "id": "mongolia-elgen-nutag-fm-969",
+    "name": "Elgen Nutag FM 96.9",
+    "url": "https://a6.asurahosting.com:7210/radio.mp3",
+    "genre": "Music",
+    "city": "Ulaanbaatar",
+    "country": "Mongolia",
+    "lat": 47.9184676,
+    "lng": 106.9177016
+  },
+  {
+    "id": "mongolia-дархан-эхлэл-радио-879",
+    "name": "Дархан ЭХЛЭЛ радио 87.9",
+    "url": "https://stream-179.zeno.fm/ch8r2wws538uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjaDhyMnd3czUzOHV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoickZfX1g4dTlSSHV6XzQ2WUZ2TEZzUSIsImlhdCI6MTc2OTQyMDg2NCwiZXhwIjoxNzY5NDIwOTI0fQ.-pvu0J_KQ-GzSNqKBShjpMVPJCg-peKM124vLNdqDBQ",
+    "genre": "Music",
+    "city": "Ulaanbaatar",
+    "country": "Mongolia",
+    "lat": 47.9184676,
+    "lng": 106.9177016
+  },
+  {
+    "id": "mongolia-mgl-radio",
+    "name": "MGL Radio",
+    "url": "https://s17.ssl-stream.com/proxy/mglradio?mp=/stream",
+    "genre": "Music",
+    "city": "Ulaanbaatar",
+    "country": "Mongolia",
+    "lat": 47.9184676,
+    "lng": 106.9177016
+  },
+  {
+    "id": "mongolia-buryad-fm",
+    "name": "Buryad FM",
+    "url": "https://buryadfm.hostingradio.ru:8018/buryadfm128.mp3",
+    "genre": "Music",
+    "city": "Ulaanbaatar",
+    "country": "Mongolia",
+    "lat": 47.9184676,
+    "lng": 106.9177016
+  },
+  {
+    "id": "mongolia-radio-sibir-fm-1037",
+    "name": "Radio Sibir FM 103.7",
+    "url": "https://ctv7.ru/radio/",
+    "genre": "Music",
+    "city": "Darkhan",
+    "country": "Mongolia",
+    "lat": 49.4922428,
+    "lng": 105.9361613
+  }
+]

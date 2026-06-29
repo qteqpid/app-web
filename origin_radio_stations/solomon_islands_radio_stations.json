@@ -1,0 +1,202 @@
+[
+  {
+    "id": "solomon-radio-hit-si",
+    "name": "Radio Hit si",
+    "url": "http://stream03.exit.si:8000/radiohit?.mp3",
+    "genre": "Music",
+    "city": "Ljubljana",
+    "country": "Slovenia",
+    "lat": 46.0500268,
+    "lng": 14.5069289
+  },
+  {
+    "id": "solomon-radio-salomon",
+    "name": "Radio Salomon",
+    "url": "http://stream.radiosalomon.si/Salomon",
+    "genre": "Music",
+    "city": "Ljubljana",
+    "country": "Slovenia",
+    "lat": 46.0500268,
+    "lng": 14.5069289
+  },
+  {
+    "id": "solomon-national-broadcasting-corporation",
+    "name": "National Broadcasting Corporation",
+    "url": "https://natradio.nbc.com.pg/listen/nbcnationalradio/nbc.mp3",
+    "genre": "Music",
+    "city": "Honiara",
+    "country": "Solomon Islands",
+    "lat": -9.4310769,
+    "lng": 159.9552552
+  },
+  {
+    "id": "solomon-rock-radio",
+    "name": "Rock Radio",
+    "url": "https://stream.nextmedia.si/proxy/rockr1_1?mp=/rock",
+    "genre": "Music",
+    "city": "Ljubljana",
+    "country": "Slovenia",
+    "lat": 46.0500268,
+    "lng": 14.5069289
+  },
+  {
+    "id": "solomon-hitradio-center",
+    "name": "Hitradio Center",
+    "url": "https://stream.nextmedia.si/proxy/center4?mp=/center",
+    "genre": "Music",
+    "city": "Ljubljana",
+    "country": "Slovenia",
+    "lat": 46.0500268,
+    "lng": 14.5069289
+  },
+  {
+    "id": "solomon-radio-ekspres",
+    "name": "Radio Ekspres",
+    "url": "https://stream.nextmedia.si/proxy/ekspres1?mp=/stream",
+    "genre": "Music",
+    "city": "Ljubljana",
+    "country": "Slovenia",
+    "lat": 46.0500268,
+    "lng": 14.5069289
+  },
+  {
+    "id": "solomon-radio-frajer",
+    "name": "Radio Frajer",
+    "url": "https://stream.nextmedia.si/proxy/frajer_1?mp=/frajer",
+    "genre": "Music",
+    "city": "Ljubljana",
+    "country": "Slovenia",
+    "lat": 46.0500268,
+    "lng": 14.5069289
+  },
+  {
+    "id": "solomon-best-fm-1016",
+    "name": "best FM 101.6",
+    "url": "https://live.radio.si/BestFM",
+    "genre": "Music",
+    "city": "Ljubljana",
+    "country": "Slovenia",
+    "lat": 46.0500268,
+    "lng": 14.5069289
+  },
+  {
+    "id": "solomon-val-202",
+    "name": "VAL 202",
+    "url": "https://mp3.rtvslo.si/val202",
+    "genre": "Music",
+    "city": "Ljubljana",
+    "country": "Slovenia",
+    "lat": 46.0500268,
+    "lng": 14.5069289
+  },
+  {
+    "id": "solomon-radio-1",
+    "name": "Radio 1",
+    "url": "https://live.radio1.si/Radio1",
+    "genre": "Music",
+    "city": "Ljubljana",
+    "country": "Slovenia",
+    "lat": 46.0500268,
+    "lng": 14.5069289
+  },
+  {
+    "id": "solomon-radio-slovenija-a1",
+    "name": "Radio Slovenija A1",
+    "url": "https://mp3.rtvslo.si/ra1",
+    "genre": "Music",
+    "city": "Ljubljana",
+    "country": "Slovenia",
+    "lat": 46.0500268,
+    "lng": 14.5069289
+  },
+  {
+    "id": "solomon-moj-radio",
+    "name": "MOJ Radio",
+    "url": "https://eu4.fastcast4u.com/proxy/svidakov?mp=/1",
+    "genre": "Music",
+    "city": "Ljubljana",
+    "country": "Slovenia",
+    "lat": 46.0500268,
+    "lng": 14.5069289
+  },
+  {
+    "id": "solomon-hit1003",
+    "name": "Hit100.3",
+    "url": "https://legacy.scahw.com.au/4mky_32",
+    "genre": "Music",
+    "city": "Honiara",
+    "country": "Solomon Islands",
+    "lat": -9.4310769,
+    "lng": 159.9552552
+  },
+  {
+    "id": "solomon-radio-1-litija",
+    "name": "Radio 1 Litija",
+    "url": "http://live3.infonetmedia.si/Radio1LI?.mp3",
+    "genre": "Music",
+    "city": "Ljubljana",
+    "country": "Slovenia",
+    "lat": 46.0500268,
+    "lng": 14.5069289
+  },
+  {
+    "id": "solomon-nia-radio--lofi",
+    "name": "NIA Radio - LoFi",
+    "url": "https://radio.nia.nc/radio/8020/lofi-hq-stream.aac",
+    "genre": "Music",
+    "city": "Honiara",
+    "country": "Solomon Islands",
+    "lat": -9.4310769,
+    "lng": 159.9552552
+  },
+  {
+    "id": "solomon-radio-aktual",
+    "name": "Radio Aktual",
+    "url": "https://live.radio.si/Aktual",
+    "genre": "Music",
+    "city": "Ljubljana",
+    "country": "Slovenia",
+    "lat": 46.0500268,
+    "lng": 14.5069289
+  },
+  {
+    "id": "solomon-radio-zeleni-val",
+    "name": "Radio Zeleni val",
+    "url": "https://jurepeterka.radioca.st/stream/1/",
+    "genre": "Music",
+    "city": "Ljubljana",
+    "country": "Slovenia",
+    "lat": 46.0500268,
+    "lng": 14.5069289
+  },
+  {
+    "id": "solomon-rambo-amadeus",
+    "name": "Rambo Amadeus",
+    "url": "https://prd-icecast.spectar.tv/ramboamadeus",
+    "genre": "Music",
+    "city": "Ljubljana",
+    "country": "Slovenia",
+    "lat": 46.0500268,
+    "lng": 14.5069289
+  },
+  {
+    "id": "solomon-radio-kranj-973-fm",
+    "name": "Radio Kranj 97.3 FM",
+    "url": "https://live.radio.si/Kranj",
+    "genre": "Music",
+    "city": "Ljubljana",
+    "country": "Slovenia",
+    "lat": 46.0500268,
+    "lng": 14.5069289
+  },
+  {
+    "id": "solomon-laef-fm",
+    "name": "Laef FM",
+    "url": "https://stream-165.zeno.fm/mrvrbms4g2vuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJtcnZyYm1zNGcydnV2IiwiaG9zdCI6InN0cmVhbS0xNjUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiM1hqU2VwRXpSTXFXOFN5YWNqN2RyZyIsImlhdCI6MTc2OTQyMjk3NywiZXhwIjoxNzY5NDIzMDM3fQ.FMS6WtQIWaxOiCF_WPXipx6hcFvTlZUeRBkefSjOqSs",
+    "genre": "Music",
+    "city": "Honiara",
+    "country": "Solomon Islands",
+    "lat": -9.4310769,
+    "lng": 159.9552552
+  }
+]

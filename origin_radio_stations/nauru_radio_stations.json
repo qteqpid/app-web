@@ -1,0 +1,732 @@
+[
+  {
+    "id": "nauru-nyaluo-radio",
+    "name": "Nyaluo Radio",
+    "url": "http://172.105.25.197/radio/8000/radio.mp3",
+    "genre": "Music",
+    "city": "Nakuru",
+    "country": "Kenya",
+    "lat": -0.2802724,
+    "lng": 36.0712048
+  },
+  {
+    "id": "nauru-radio-injili-fm-1037",
+    "name": "Radio Injili FM 103.7",
+    "url": "https://c44.radioboss.fm/stream/73",
+    "genre": "Music",
+    "city": "Nakuru",
+    "country": "Kenya",
+    "lat": -0.2802724,
+    "lng": 36.0712048
+  },
+  {
+    "id": "nauru-life-fm-kiribati",
+    "name": "Life FM Kiribati",
+    "url": "https://streams3.vision.org.au/lifefm.aac",
+    "genre": "Music",
+    "city": "Yaren",
+    "country": "Nauru",
+    "lat": -0.5471064,
+    "lng": 166.9163479
+  },
+  {
+    "id": "nauru-national-broadcasting-corporation",
+    "name": "National Broadcasting Corporation",
+    "url": "https://natradio.nbc.com.pg/listen/nbcnationalradio/nbc.mp3",
+    "genre": "Music",
+    "city": "Yaren",
+    "country": "Nauru",
+    "lat": -0.5471064,
+    "lng": 166.9163479
+  },
+  {
+    "id": "nauru-nia-radio--lofi",
+    "name": "NIA Radio - LoFi",
+    "url": "https://radio.nia.nc/radio/8020/lofi-hq-stream.aac",
+    "genre": "Music",
+    "city": "Yaren",
+    "country": "Nauru",
+    "lat": -0.5471064,
+    "lng": 166.9163479
+  },
+  {
+    "id": "nauru-hope-fm-933",
+    "name": "Hope FM 93.3",
+    "url": "https://a5.asurahosting.com:7530/radio.mp3",
+    "genre": "Music",
+    "city": "Nakuru",
+    "country": "Kenya",
+    "lat": -0.2802724,
+    "lng": 36.0712048
+  },
+  {
+    "id": "nauru-nrg-radio-971-fm",
+    "name": "NRG Radio 97.1 FM",
+    "url": "https://uksouth.streaming.broadcast.radio/nrg",
+    "genre": "Music",
+    "city": "Nakuru",
+    "country": "Kenya",
+    "lat": -0.2802724,
+    "lng": 36.0712048
+  },
+  {
+    "id": "nauru-radio-47-1030-fm",
+    "name": "Radio 47 103.0 FM",
+    "url": "https://streaming.shoutcast.com/radio-47",
+    "genre": "Music",
+    "city": "Nakuru",
+    "country": "Kenya",
+    "lat": -0.2802724,
+    "lng": 36.0712048
+  },
+  {
+    "id": "nauru-rádio-clube-1009-fm",
+    "name": "Rádio Clube 100.9 FM",
+    "url": "https://9105.brasilstream.com.br/stream",
+    "genre": "Music",
+    "city": "Hernandarias",
+    "country": "Paraguay",
+    "lat": -25.4041794,
+    "lng": -54.6320387
+  },
+  {
+    "id": "nauru-jabulani-radio",
+    "name": "Jabulani Radio",
+    "url": "https://listen.radioking.com/radio/626272/stream/688567",
+    "genre": "Music",
+    "city": "Nakuru",
+    "country": "Kenya",
+    "lat": -0.2802724,
+    "lng": 36.0712048
+  },
+  {
+    "id": "nauru-mbci-radio",
+    "name": "MBCI Radio",
+    "url": "https://radio.mainconnect.co.ke/mbci",
+    "genre": "Music",
+    "city": "Nakuru",
+    "country": "Kenya",
+    "lat": -0.2802724,
+    "lng": 36.0712048
+  },
+  {
+    "id": "nauru-kbc-english-service-fm-956",
+    "name": "KBC English Service FM 95.6",
+    "url": "https://stream-160.zeno.fm/mhmwnyyst5quv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJtaG13bnl5c3Q1cXV2IiwiaG9zdCI6InN0cmVhbS0xNjAuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoidUs0MGJXbWxSVENRZUF6MUxuVVZ5QSIsImlhdCI6MTc2OTQyMTA0NSwiZXhwIjoxNzY5NDIxMTA1fQ.kN4LexpqOzzZxwx-IvxBfLfpZvrPWRGSl_KnobawhsM",
+    "genre": "Music",
+    "city": "Nakuru",
+    "country": "Kenya",
+    "lat": -0.2802724,
+    "lng": 36.0712048
+  },
+  {
+    "id": "nauru-flamingo-radio-fm-1080",
+    "name": "Flamingo Radio FM 108.0",
+    "url": "https://stream-177.zeno.fm/215bpympks8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIyMTVicHltcGtzOHV2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiR3dTMHZFNUtRLXlhSEdtd1EzOFgyZyIsImlhdCI6MTc2OTQyMTA0NSwiZXhwIjoxNzY5NDIxMTA1fQ.DL-Ub8flHdnEgJ9mxMnP56XOFAGnea1q_u1TNfoXFbo",
+    "genre": "Music",
+    "city": "Nakuru",
+    "country": "Kenya",
+    "lat": -0.2802724,
+    "lng": 36.0712048
+  },
+  {
+    "id": "nauru-ñacurutu-news-radio-online",
+    "name": "Ñacurutu News Radio Online",
+    "url": "https://stream-178.zeno.fm/z1h0gqak98quv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ6MWgwZ3Fhazk4cXV2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiTlozX3pDeDlTeDJHczUtWW1EV0R4USIsImlhdCI6MTc2OTQyMTA0NSwiZXhwIjoxNzY5NDIxMTA1fQ.6PcSd3tI2GCx2B3S5DHX2er257Tk4KTyGN0ZI3YEzB4",
+    "genre": "Music",
+    "city": "Hernandarias",
+    "country": "Paraguay",
+    "lat": -25.4041794,
+    "lng": -54.6320387
+  },
+  {
+    "id": "nauru-radio-vuna-1020-fm",
+    "name": "Radio Vuna 102.0 FM",
+    "url": "https://securestreams4.autopo.st:1646/stream.mp3/",
+    "genre": "Music",
+    "city": "Nakuru",
+    "country": "Kenya",
+    "lat": -0.2802724,
+    "lng": 36.0712048
+  },
+  {
+    "id": "nauru-fm96",
+    "name": "FM96",
+    "url": "https://n14.rcs.revma.com/q8txpfyyay3vv?rj-ttl=5&rj-tok=AAABm_m_pv0AkUKBC-69LJJCAA",
+    "genre": "Music",
+    "city": "Yaren",
+    "country": "Nauru",
+    "lat": -0.5471064,
+    "lng": 166.9163479
+  },
+  {
+    "id": "nauru-sulwe-fm-896",
+    "name": "Sulwe FM 89.6",
+    "url": "https://sulwefm-atunwadigital.streamguys1.com/sulwefm",
+    "genre": "Music",
+    "city": "Nakuru",
+    "country": "Kenya",
+    "lat": -0.2802724,
+    "lng": 36.0712048
+  },
+  {
+    "id": "nauru-jesus-is-lord-fm-1059",
+    "name": "Jesus Is Lord FM 105.9",
+    "url": "https://s3.radio.co/s97f38db97/listen",
+    "genre": "Music",
+    "city": "Nakuru",
+    "country": "Kenya",
+    "lat": -0.2802724,
+    "lng": 36.0712048
+  },
+  {
+    "id": "nauru-ñandutí-1020-am",
+    "name": "Ñandutí 1020 AM",
+    "url": "https://cp9.serverse.com/proxy/naduti1020/stream",
+    "genre": "Music",
+    "city": "Hernandarias",
+    "country": "Paraguay",
+    "lat": -25.4041794,
+    "lng": -54.6320387
+  },
+  {
+    "id": "nauru-abc-am-730",
+    "name": "ABC AM 730",
+    "url": "https://media.streambrothers.com:8342/stream",
+    "genre": "Music",
+    "city": "Hernandarias",
+    "country": "Paraguay",
+    "lat": -25.4041794,
+    "lng": -54.6320387
+  },
+  {
+    "id": "nauru-v6-bbc-baptist-radio-chuuk-885-fm",
+    "name": "V6 BBC Baptist Radio Chuuk 88.5 FM",
+    "url": "https://streaming.radio.co/s25a6afba9/listen",
+    "genre": "Music",
+    "city": "Yaren",
+    "country": "Nauru",
+    "lat": -0.5471064,
+    "lng": 166.9163479
+  },
+  {
+    "id": "nauru-magic-fm-929",
+    "name": "Magic FM 92.9",
+    "url": "https://stream2.rcast.net/69241.mp3",
+    "genre": "Music",
+    "city": "Dar es Salaam",
+    "country": "Tanzania",
+    "lat": -6.8160837,
+    "lng": 39.2803583
+  },
+  {
+    "id": "nauru-mjini-fm-925",
+    "name": "Mjini FM 92.5",
+    "url": "http://196.200.227.154:8000/mjinifm.mp3",
+    "genre": "Music",
+    "city": "Dar es Salaam",
+    "country": "Tanzania",
+    "lat": -6.8160837,
+    "lng": 39.2803583
+  },
+  {
+    "id": "nauru-rádio-costa-oeste-1065-fm",
+    "name": "Rádio Costa Oeste 106.5 FM",
+    "url": "https://f100.fabricahost.com.br/costaoestesmpr?f=1769421047N01KFWVD1W8VCC62KZZDAMM7AYV&tid=01KFWVD1W8KS9N18B2ZZ3DQG08",
+    "genre": "Music",
+    "city": "Hernandarias",
+    "country": "Paraguay",
+    "lat": -25.4041794,
+    "lng": -54.6320387
+  },
+  {
+    "id": "nauru-midundo-online-radio",
+    "name": "Midundo Online Radio",
+    "url": "http://midundo.fauluhost.co.tz:8000/_a",
+    "genre": "Music",
+    "city": "Dar es Salaam",
+    "country": "Tanzania",
+    "lat": -6.8160837,
+    "lng": 39.2803583
+  },
+  {
+    "id": "nauru-nuru-naiangaze-radio",
+    "name": "Nuru Naiangaze Radio",
+    "url": "https://a2.asurahosting.com:6110/radio.mp3",
+    "genre": "Music",
+    "city": "Dar es Salaam",
+    "country": "Tanzania",
+    "lat": -6.8160837,
+    "lng": 39.2803583
+  },
+  {
+    "id": "nauru-radio-maria-tanzania-fm-891",
+    "name": "Radio Maria Tanzania FM 89.1",
+    "url": "https://dreamsiteradiocp2.com/proxy/rmtanzania2?mp=/stream",
+    "genre": "Music",
+    "city": "Dar es Salaam",
+    "country": "Tanzania",
+    "lat": -6.8160837,
+    "lng": 39.2803583
+  },
+  {
+    "id": "nauru-morningstar-radio",
+    "name": "MorningStar Radio",
+    "url": "http://n03.radiojar.com/qpgu3a299rmtv?rj-ttl=5&rj-tok=AAABm_m_td4APwnIbhXFJJ473w",
+    "genre": "Music",
+    "city": "Dar es Salaam",
+    "country": "Tanzania",
+    "lat": -6.8160837,
+    "lng": 39.2803583
+  },
+  {
+    "id": "nauru-crown-fm-921",
+    "name": "Crown FM 92.1",
+    "url": "https://radio.crownmedia.co.tz:8443/crown",
+    "genre": "Music",
+    "city": "Dar es Salaam",
+    "country": "Tanzania",
+    "lat": -6.8160837,
+    "lng": 39.2803583
+  },
+  {
+    "id": "nauru-clouds-fm-885",
+    "name": "Clouds FM 88.5",
+    "url": "https://eu6.fastcast4u.com/proxy/cloudsfm?mp=/1",
+    "genre": "Music",
+    "city": "Dar es Salaam",
+    "country": "Tanzania",
+    "lat": -6.8160837,
+    "lng": 39.2803583
+  },
+  {
+    "id": "nauru-naranjaty-1033-fm",
+    "name": "Naranjaty 103.3 FM",
+    "url": "https://naranjaty.com/listen/radio_naranjaty/player.mp3",
+    "genre": "Music",
+    "city": "Hernandarias",
+    "country": "Paraguay",
+    "lat": -25.4041794,
+    "lng": -54.6320387
+  },
+  {
+    "id": "nauru-radio-one-stereo-fm-897",
+    "name": "Radio One Stereo FM 89.7",
+    "url": "https://radioonetanzania.radioca.st/stream",
+    "genre": "Music",
+    "city": "Dar es Salaam",
+    "country": "Tanzania",
+    "lat": -6.8160837,
+    "lng": 39.2803583
+  },
+  {
+    "id": "nauru-east-africa-radio-fm-881",
+    "name": "East Africa Radio FM 88.1",
+    "url": "https://eatv.radioca.st/stream",
+    "genre": "Music",
+    "city": "Dar es Salaam",
+    "country": "Tanzania",
+    "lat": -6.8160837,
+    "lng": 39.2803583
+  },
+  {
+    "id": "nauru-bongo-fm",
+    "name": "Bongo FM",
+    "url": "https://a7.asurahosting.com:8660/radio.mp3",
+    "genre": "Music",
+    "city": "Dar es Salaam",
+    "country": "Tanzania",
+    "lat": -6.8160837,
+    "lng": 39.2803583
+  },
+  {
+    "id": "nauru-ufm-1073",
+    "name": "UFM 107.3",
+    "url": "https://stream-168.zeno.fm/nzr36a3un0hvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJuenIzNmEzdW4waHZ2IiwiaG9zdCI6InN0cmVhbS0xNjguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiSmoyRHB1dmFUaEtIalRDY0VsRy1CUSIsImlhdCI6MTc2OTQyMTA0OSwiZXhwIjoxNzY5NDIxMTA5fQ.vLvp45TV3M_iOcad0Cb6tnsj0qxecBNO7LpK0rF0Ybs",
+    "genre": "Music",
+    "city": "Dar es Salaam",
+    "country": "Tanzania",
+    "lat": -6.8160837,
+    "lng": 39.2803583
+  },
+  {
+    "id": "nauru-oriat-dono-1024fm",
+    "name": "Oriat Dono 102.4FM",
+    "url": "http://46.8.35.26:8012/dono",
+    "genre": "Music",
+    "city": "Tashkent",
+    "country": "Uzbekistan",
+    "lat": 41.3123363,
+    "lng": 69.2787079
+  },
+  {
+    "id": "nauru-oriat-fm-1005",
+    "name": "Oriat FM 100.5",
+    "url": "http://194.5.152.248:8000/fm",
+    "genre": "Music",
+    "city": "Tashkent",
+    "country": "Uzbekistan",
+    "lat": 41.3123363,
+    "lng": 69.2787079
+  },
+  {
+    "id": "nauru-navruz-fm-884",
+    "name": "Navruz FM 88.4",
+    "url": "http://navruzfm.uz:9000/navruz_low",
+    "genre": "Music",
+    "city": "Tashkent",
+    "country": "Uzbekistan",
+    "lat": 41.3123363,
+    "lng": 69.2787079
+  },
+  {
+    "id": "nauru-hitfm",
+    "name": "Hit.FM",
+    "url": "https://live.hitfm.uz/hitfmuz",
+    "genre": "Music",
+    "city": "Tashkent",
+    "country": "Uzbekistan",
+    "lat": 41.3123363,
+    "lng": 69.2787079
+  },
+  {
+    "id": "nauru-radio-kaya-fm-913",
+    "name": "Radio Kaya FM 91.3",
+    "url": "https://usa9-vn.mixstream.net/:8084/listen.mp3",
+    "genre": "Music",
+    "city": "Dar es Salaam",
+    "country": "Tanzania",
+    "lat": -6.8160837,
+    "lng": 39.2803583
+  },
+  {
+    "id": "nauru-coco-fm-radio-989",
+    "name": "Coco FM Radio 98.9",
+    "url": "https://stream-146.zeno.fm/ki2jypviprwuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJraTJqeXB2aXByd3V2IiwiaG9zdCI6InN0cmVhbS0xNDYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiTDJna2RqXzhUWldYSjMxYVZmQ1FkUSIsImlhdCI6MTc2OTQyMTA1MCwiZXhwIjoxNzY5NDIxMTEwfQ.hiO0z7r_pe-oShvehrEndqxC2uK9eD1gyDrAq1fDXb4",
+    "genre": "Music",
+    "city": "Dar es Salaam",
+    "country": "Tanzania",
+    "lat": -6.8160837,
+    "lng": 39.2803583
+  },
+  {
+    "id": "nauru-rádio-grande-lago-am-580",
+    "name": "Rádio Grande Lago AM 580",
+    "url": "https://str1.streamhostpg.com.br:8018/stream",
+    "genre": "Music",
+    "city": "Hernandarias",
+    "country": "Paraguay",
+    "lat": -25.4041794,
+    "lng": -54.6320387
+  },
+  {
+    "id": "nauru-pwani-fm-1031",
+    "name": "Pwani FM 103.1",
+    "url": "https://stream-153.zeno.fm/smhmfr1a94zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzbWhtZnIxYTk0enV2IiwiaG9zdCI6InN0cmVhbS0xNTMuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiMmtQWk9tQ2NTN0NsSzNLanNJdzZWUSIsImlhdCI6MTc2OTQyMTA1MCwiZXhwIjoxNzY5NDIxMTEwfQ.I-w5ldrS21092_7iitwDKngWZ0zl5wKIIcjf91CJOkE",
+    "genre": "Music",
+    "city": "Dar es Salaam",
+    "country": "Tanzania",
+    "lat": -6.8160837,
+    "lng": 39.2803583
+  },
+  {
+    "id": "nauru-dfm-1055",
+    "name": "DFM 105.5",
+    "url": "https://c16.radioboss.fm:18234/stream",
+    "genre": "Music",
+    "city": "Tashkent",
+    "country": "Uzbekistan",
+    "lat": 41.3123363,
+    "lng": 69.2787079
+  },
+  {
+    "id": "nauru-radio-tumaini-929-fm",
+    "name": "Radio Tumaini 92.9 FM",
+    "url": "https://stream-164.zeno.fm/nu9qfhxx9reuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJudTlxZmh4eDlyZXV2IiwiaG9zdCI6InN0cmVhbS0xNjQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiQXpVNGExcjFTRXVaRkxaUTUwWkxTUSIsImlhdCI6MTc2OTQyMTA1MCwiZXhwIjoxNzY5NDIxMTEwfQ.iXHSvdKalmW1dmBgfqMfk4HtwuCX-Hw2tPAA13-MJkw",
+    "genre": "Music",
+    "city": "Dar es Salaam",
+    "country": "Tanzania",
+    "lat": -6.8160837,
+    "lng": 39.2803583
+  },
+  {
+    "id": "nauru-iradio-fm-920",
+    "name": "IRadio FM 92.0",
+    "url": "http://212.112.123.200:8000/stream.ogg",
+    "genre": "Music",
+    "city": "Tashkent",
+    "country": "Uzbekistan",
+    "lat": 41.3123363,
+    "lng": 69.2787079
+  },
+  {
+    "id": "nauru-аъло-фм",
+    "name": "Аъло ФМ",
+    "url": "http://tabassum.uz:9000/alo_low",
+    "genre": "Music",
+    "city": "Tashkent",
+    "country": "Uzbekistan",
+    "lat": 41.3123363,
+    "lng": 69.2787079
+  },
+  {
+    "id": "nauru-islomuz",
+    "name": "Islom.uz",
+    "url": "https://radio.islom.uz/islomuz",
+    "genre": "Music",
+    "city": "Tashkent",
+    "country": "Uzbekistan",
+    "lat": 41.3123363,
+    "lng": 69.2787079
+  },
+  {
+    "id": "nauru-am-1170",
+    "name": "AM 1170",
+    "url": "https://whmsonic.radio.gov.pk:8072/relay/",
+    "genre": "Music",
+    "city": "Tashkent",
+    "country": "Uzbekistan",
+    "lat": 41.3123363,
+    "lng": 69.2787079
+  },
+  {
+    "id": "nauru-imbanasi",
+    "name": "ImbaNasi",
+    "url": "https://stream-161.zeno.fm/dsfhivkawjiuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJkc2ZoaXZrYXdqaXV2IiwiaG9zdCI6InN0cmVhbS0xNjEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiSVFLZmpFQ0tST0d1cmgycHhLc1J1USIsImlhdCI6MTc2OTQyMTA1MSwiZXhwIjoxNzY5NDIxMTExfQ.e7LYoWdPV3xTqGSIRbx7dN8I-5k3H6gmfHWsDMGYcyU",
+    "genre": "Music",
+    "city": "Dar es Salaam",
+    "country": "Tanzania",
+    "lat": -6.8160837,
+    "lng": 39.2803583
+  },
+  {
+    "id": "nauru-radio-uzbegim-taronasi-fm-1010",
+    "name": "Radio Uzbegim Taronasi FM 101.0",
+    "url": "https://fm101.uz:9943/fm101_low.aac",
+    "genre": "Music",
+    "city": "Tashkent",
+    "country": "Uzbekistan",
+    "lat": 41.3123363,
+    "lng": 69.2787079
+  },
+  {
+    "id": "nauru-universe-night-radio",
+    "name": "Universe Night Radio",
+    "url": "http://us.ishout.net:8275/stream",
+    "genre": "Music",
+    "city": "San Francisco CA",
+    "country": "United States",
+    "lat": 37.8262322,
+    "lng": -122.4221501
+  },
+  {
+    "id": "nauru-kvvn",
+    "name": "KVVN",
+    "url": "https://us2.maindigitalstream.com/ssl/KVVN",
+    "genre": "Music",
+    "city": "San Francisco CA",
+    "country": "United States",
+    "lat": 37.8262322,
+    "lng": -122.4221501
+  },
+  {
+    "id": "nauru-soma-fm-the-dark-zone",
+    "name": "Soma FM The Dark Zone",
+    "url": "https://ice6.somafm.com/darkzone-128-mp3",
+    "genre": "Music",
+    "city": "San Francisco CA",
+    "country": "United States",
+    "lat": 37.8262322,
+    "lng": -122.4221501
+  },
+  {
+    "id": "nauru-south-of-gilman-st",
+    "name": "South of Gilman St.",
+    "url": "http://stream.southofgilman.org:8000/",
+    "genre": "Music",
+    "city": "San Francisco CA",
+    "country": "United States",
+    "lat": 37.8262322,
+    "lng": -122.4221501
+  },
+  {
+    "id": "nauru-sf70s",
+    "name": "SF70s",
+    "url": "https://stream4.rcast.net/72991/",
+    "genre": "Music",
+    "city": "San Francisco CA",
+    "country": "United States",
+    "lat": 37.8262322,
+    "lng": -122.4221501
+  },
+  {
+    "id": "nauru-soma-fm-underground-80s",
+    "name": "Soma FM Underground 80s",
+    "url": "https://ice1.somafm.com/u80s-256-mp3",
+    "genre": "Music",
+    "city": "San Francisco CA",
+    "country": "United States",
+    "lat": 37.8262322,
+    "lng": -122.4221501
+  },
+  {
+    "id": "nauru-psyched-radio-sf",
+    "name": "Psyched Radio SF",
+    "url": "https://us3.internet-radio.com/proxy/psychedradiosf?mp=/stream;",
+    "genre": "Music",
+    "city": "San Francisco CA",
+    "country": "United States",
+    "lat": 37.8262322,
+    "lng": -122.4221501
+  },
+  {
+    "id": "nauru-kalw-fm-917",
+    "name": "KALW FM 91.7",
+    "url": "https://kalw-live.streamguys1.com/kalw",
+    "genre": "Music",
+    "city": "San Francisco CA",
+    "country": "United States",
+    "lat": 37.8262322,
+    "lng": -122.4221501
+  },
+  {
+    "id": "nauru-jake-radio",
+    "name": "Jake Radio",
+    "url": "https://yerbabue-geckohost.radioca.st/stream",
+    "genre": "Music",
+    "city": "San Francisco CA",
+    "country": "United States",
+    "lat": 37.8262322,
+    "lng": -122.4221501
+  },
+  {
+    "id": "nauru-radio-free-africa-fm-898",
+    "name": "Radio Free Africa FM 89.8",
+    "url": "https://s3.radio.co/s8df0149e0/listen",
+    "genre": "Music",
+    "city": "Dar es Salaam",
+    "country": "Tanzania",
+    "lat": -6.8160837,
+    "lng": 39.2803583
+  },
+  {
+    "id": "nauru-радио-европа-плюс-ош-1038",
+    "name": "Радио Европа Плюс Ош 103.8",
+    "url": "https://europaplus.hostingradio.ru:8014/europaplus320.mp3",
+    "genre": "Music",
+    "city": "Tashkent",
+    "country": "Uzbekistan",
+    "lat": 41.3123363,
+    "lng": 69.2787079
+  },
+  {
+    "id": "nauru-pacifiklive",
+    "name": "PacifikLive",
+    "url": "https://pacifiklive.streamguys1.com/live",
+    "genre": "Music",
+    "city": "San Francisco CA",
+    "country": "United States",
+    "lat": 37.8262322,
+    "lng": -122.4221501
+  },
+  {
+    "id": "nauru-smooth-jazz-247",
+    "name": "Smooth Jazz 24/7",
+    "url": "https://ais-edge89-dal02.cdnstream.com/2124_128.mp3",
+    "genre": "Music",
+    "city": "San Francisco CA",
+    "country": "United States",
+    "lat": 37.8262322,
+    "lng": -122.4221501
+  },
+  {
+    "id": "nauru-kqed-fm-885",
+    "name": "KQED FM 88.5",
+    "url": "https://streams.kqed.org/",
+    "genre": "Music",
+    "city": "San Francisco CA",
+    "country": "United States",
+    "lat": 37.8262322,
+    "lng": -122.4221501
+  },
+  {
+    "id": "nauru-abn-old-time-radio-am-1610",
+    "name": "ABN Old-Time Radio AM 1610",
+    "url": "https://s6.yesstreaming.net:18000/listen",
+    "genre": "Music",
+    "city": "San Francisco CA",
+    "country": "United States",
+    "lat": 37.8262322,
+    "lng": -122.4221501
+  },
+  {
+    "id": "nauru-ksan-fm-1077",
+    "name": "KSAN-FM 107.7",
+    "url": "https://27283.live.streamtheworld.com:443/KSANFMAAC.aac",
+    "genre": "Music",
+    "city": "San Francisco CA",
+    "country": "United States",
+    "lat": 37.8262322,
+    "lng": -122.4221501
+  },
+  {
+    "id": "nauru-kbrw-am-680",
+    "name": "KBRW-AM 680",
+    "url": "https://tektite.streamguys1.com:5345/live",
+    "genre": "Music",
+    "city": "San Francisco CA",
+    "country": "United States",
+    "lat": 37.8262322,
+    "lng": -122.4221501
+  },
+  {
+    "id": "nauru-koko-lp-radio-963-fm",
+    "name": "KOKO LP Radio 96.3 FM",
+    "url": "https://s2.yesstreaming.net:7031/stream",
+    "genre": "Music",
+    "city": "San Francisco CA",
+    "country": "United States",
+    "lat": 37.8262322,
+    "lng": -122.4221501
+  },
+  {
+    "id": "nauru-classical-kdfc-1049-fm",
+    "name": "Classical KDFC 104.9 FM",
+    "url": "https://27263.live.streamtheworld.com:443/KDFCFMAAC.aac",
+    "genre": "Music",
+    "city": "San Francisco CA",
+    "country": "United States",
+    "lat": 37.8262322,
+    "lng": -122.4221501
+  },
+  {
+    "id": "nauru-knbr-680--knbr",
+    "name": "KNBR 680 - KNBR",
+    "url": "https://22963.live.streamtheworld.com:443/KNBRAM_SC",
+    "genre": "Music",
+    "city": "San Francisco CA",
+    "country": "United States",
+    "lat": 37.8262322,
+    "lng": -122.4221501
+  },
+  {
+    "id": "nauru-fox-news-radio",
+    "name": "Fox News Radio",
+    "url": "https://prod-54-159-73-9.amperwave.net/foxnewsradio-foxnewsradioaac-imc?session-id=ed55aeaa557c7a3c94eaae0c121386ef",
+    "genre": "Music",
+    "city": "San Francisco CA",
+    "country": "United States",
+    "lat": 37.8262322,
+    "lng": -122.4221501
+  },
+  {
+    "id": "nauru-kcsm-jazz-91",
+    "name": "KCSM Jazz 91",
+    "url": "https://ice5.securenetsystems.net/KCSM",
+    "genre": "Music",
+    "city": "San Francisco CA",
+    "country": "United States",
+    "lat": 37.8262322,
+    "lng": -122.4221501
+  }
+]

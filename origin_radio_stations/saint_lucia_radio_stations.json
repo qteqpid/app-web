@@ -1,0 +1,252 @@
+[
+  {
+    "id": "saint-radio-fusion-fm-953",
+    "name": "Radio Fusion FM 95.3",
+    "url": "http://france16.coollabel-productions.com:8276/stream",
+    "genre": "Music",
+    "city": "Castries City",
+    "country": "Saint Lucia",
+    "lat": 14.0105909,
+    "lng": -60.991362
+  },
+  {
+    "id": "saint-radio-100",
+    "name": "Radio 100",
+    "url": "http://media.carib.pro/radio100",
+    "genre": "Music",
+    "city": "Castries City",
+    "country": "Saint Lucia",
+    "lat": 14.0105909,
+    "lng": -60.991362
+  },
+  {
+    "id": "saint-prayz-fm-985",
+    "name": "Prayz FM 98.5",
+    "url": "http://media.carib.pro/prayz",
+    "genre": "Music",
+    "city": "Castries City",
+    "country": "Saint Lucia",
+    "lat": 14.0105909,
+    "lng": -60.991362
+  },
+  {
+    "id": "saint-real-strong-radio",
+    "name": "Real Strong Radio",
+    "url": "http://158.69.114.190:8028/stream",
+    "genre": "Music",
+    "city": "Castries City",
+    "country": "Saint Lucia",
+    "lat": 14.0105909,
+    "lng": -60.991362
+  },
+  {
+    "id": "saint-real-fm",
+    "name": "Real FM",
+    "url": "http://s7.voscast.com:8840/index.html?sid=1",
+    "genre": "Music",
+    "city": "Castries City",
+    "country": "Saint Lucia",
+    "lat": 14.0105909,
+    "lng": -60.991362
+  },
+  {
+    "id": "saint-rev-up-slu-959-fm",
+    "name": "REV-UP SLU 95.9 FM",
+    "url": "https://caribspy.com/proxy/revupslu/stream",
+    "genre": "Music",
+    "city": "Castries City",
+    "country": "Saint Lucia",
+    "lat": 14.0105909,
+    "lng": -60.991362
+  },
+  {
+    "id": "saint-radio-caribbean-international-1011-fm",
+    "name": "Radio Caribbean International 101.1 FM",
+    "url": "https://caribspy.com/proxy/rcistlucia/stream",
+    "genre": "Music",
+    "city": "Castries City",
+    "country": "Saint Lucia",
+    "lat": 14.0105909,
+    "lng": -60.991362
+  },
+  {
+    "id": "saint-rma-antilles",
+    "name": "RMA Antilles",
+    "url": "https://radio3.pro-fhi.net/listen-pzjdzjjq-stream.mp3",
+    "genre": "Music",
+    "city": "Castries City",
+    "country": "Saint Lucia",
+    "lat": 14.0105909,
+    "lng": -60.991362
+  },
+  {
+    "id": "saint-power-979-fm",
+    "name": "Power 97.9 FM",
+    "url": "https://usa10.fastcast4u.com/power979fm",
+    "genre": "Music",
+    "city": "Castries City",
+    "country": "Saint Lucia",
+    "lat": 14.0105909,
+    "lng": -60.991362
+  },
+  {
+    "id": "saint-actif-canal-sport",
+    "name": "Actif Canal Sport",
+    "url": "https://centova12.instainternet.com/proxy/acs?mp=/stream",
+    "genre": "Music",
+    "city": "Castries City",
+    "country": "Saint Lucia",
+    "lat": 14.0105909,
+    "lng": -60.991362
+  },
+  {
+    "id": "saint-sky-fm-931",
+    "name": "Sky FM 93.1",
+    "url": "https://c17.radioboss.fm:8509/stream",
+    "genre": "Music",
+    "city": "Castries City",
+    "country": "Saint Lucia",
+    "lat": 14.0105909,
+    "lng": -60.991362
+  },
+  {
+    "id": "saint-vybe-radio",
+    "name": "Vybe Radio",
+    "url": "https://us2.internet-radio.com/proxy/vyberadio/stream",
+    "genre": "Music",
+    "city": "Castries City",
+    "country": "Saint Lucia",
+    "lat": 14.0105909,
+    "lng": -60.991362
+  },
+  {
+    "id": "saint-rci-live",
+    "name": "RCI Live",
+    "url": "https://n04a-eu.rcs.revma.com/gf7d96rtpwzuv?rj-ttl=5&rj-tok=AAABm_nUhHwAFU5WgLtU1to6BA",
+    "genre": "Music",
+    "city": "Castries City",
+    "country": "Saint Lucia",
+    "lat": 14.0105909,
+    "lng": -60.991362
+  },
+  {
+    "id": "saint-soufriere-fm-885",
+    "name": "Soufrière FM 88.5",
+    "url": "https://cast1.asurahosting.com/proxy/romanus/stream",
+    "genre": "Music",
+    "city": "Soufrière",
+    "country": "Saint Lucia",
+    "lat": 13.8522266,
+    "lng": -61.0238291
+  },
+  {
+    "id": "saint-unity-fm-905",
+    "name": "Unity FM 90.5",
+    "url": "https://free.rcast.net/62265",
+    "genre": "Music",
+    "city": "Castries City",
+    "country": "Saint Lucia",
+    "lat": 14.0105909,
+    "lng": -60.991362
+  },
+  {
+    "id": "saint-boomstation-slu-899-fm",
+    "name": "Boomstation SLU 89.9 FM",
+    "url": "https://cast4.asurahosting.com/proxy/boomsta2/stream",
+    "genre": "Music",
+    "city": "Soufrière",
+    "country": "Saint Lucia",
+    "lat": 13.8522266,
+    "lng": -61.0238291
+  },
+  {
+    "id": "saint-radio-actif-martinique-928-fm",
+    "name": "Radio Actif Martinique 92.8 FM",
+    "url": "https://free.rcast.net/67632",
+    "genre": "Music",
+    "city": "Vieux Fort",
+    "country": "Saint Lucia",
+    "lat": 13.7729692,
+    "lng": -60.9579939
+  },
+  {
+    "id": "saint-fire-online",
+    "name": "Fire Online",
+    "url": "https://caribspy.com/proxy/fireonlineradio?mp=/1",
+    "genre": "Music",
+    "city": "Gros Islet",
+    "country": "Saint Lucia",
+    "lat": 14.0801333,
+    "lng": -60.9524988
+  },
+  {
+    "id": "saint-caribbean-hot-fm",
+    "name": "Caribbean Hot FM",
+    "url": "https://auds1.intacs.com/caribbeanhotfm",
+    "genre": "Music",
+    "city": "Castries City",
+    "country": "Saint Lucia",
+    "lat": 14.0105909,
+    "lng": -60.991362
+  },
+  {
+    "id": "saint-chronicles-christian-radio",
+    "name": "Chronicles Christian Radio",
+    "url": "https://chronicles.radioca.st/stream",
+    "genre": "Music",
+    "city": "Vieux Fort",
+    "country": "Saint Lucia",
+    "lat": 13.7729692,
+    "lng": -60.9579939
+  },
+  {
+    "id": "saint-denneryfm",
+    "name": "DenneryFM",
+    "url": "https://c21.radioboss.fm/stream/62",
+    "genre": "Music",
+    "city": "Dennery",
+    "country": "Saint Lucia",
+    "lat": 13.9235587,
+    "lng": -60.9248376
+  },
+  {
+    "id": "saint-knc-radio",
+    "name": "KNC Radio",
+    "url": "https://s4.radio.co/s5c3f76f25/listen",
+    "genre": "Music",
+    "city": "Castries City",
+    "country": "Saint Lucia",
+    "lat": 14.0105909,
+    "lng": -60.991362
+  },
+  {
+    "id": "saint-rhythm-955-fm",
+    "name": "Rhythm 95.5 FM",
+    "url": "https://streaming.radio.co/s89040d652/listen",
+    "genre": "Music",
+    "city": "Castries City",
+    "country": "Saint Lucia",
+    "lat": 14.0105909,
+    "lng": -60.991362
+  },
+  {
+    "id": "saint-rjl-radio",
+    "name": "RJL Radio",
+    "url": "https://s3.radio.co/sc5bdee4a4/listen",
+    "genre": "Music",
+    "city": "Vieux Fort",
+    "country": "Saint Lucia",
+    "lat": 13.7729692,
+    "lng": -60.9579939
+  },
+  {
+    "id": "saint-the-wave-fm-937",
+    "name": "The Wave FM 93.7",
+    "url": "https://ice66.securenetsystems.net/THEWAVE",
+    "genre": "Music",
+    "city": "Castries City",
+    "country": "Saint Lucia",
+    "lat": 14.0105909,
+    "lng": -60.991362
+  }
+]

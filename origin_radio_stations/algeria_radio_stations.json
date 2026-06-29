@@ -1,0 +1,512 @@
+[
+  {
+    "id": "algeria-skyrock-alger",
+    "name": "Skyrock Alger",
+    "url": "https://icecast.skyrock.net/s/alger_aac_128k?tvr_name=radiogarden&tvr_section1=64aac",
+    "genre": "Music",
+    "city": "Algiers",
+    "country": "Algeria",
+    "lat": 36.7729333,
+    "lng": 3.0588445
+  },
+  {
+    "id": "algeria-radio-ain-defla",
+    "name": "Radio Ain Defla",
+    "url": "https://radioaindefla.ice.infomaniak.ch/aindefla.mp3",
+    "genre": "Music",
+    "city": "Algiers",
+    "country": "Algeria",
+    "lat": 36.7729333,
+    "lng": 3.0588445
+  },
+  {
+    "id": "algeria-radio-tamenrasset",
+    "name": "Radio Tamenrasset",
+    "url": "https://radiotamanrasset.ice.infomaniak.ch/tamanrasset.mp3",
+    "genre": "Music",
+    "city": "Tamanrasset",
+    "country": "Algeria",
+    "lat": 24.3753438,
+    "lng": 4.3208436
+  },
+  {
+    "id": "algeria-zaman-fm",
+    "name": "Zaman FM",
+    "url": "https://radiozamen.ice.infomaniak.ch/zamen.mp3",
+    "genre": "Music",
+    "city": "Algiers",
+    "country": "Algeria",
+    "lat": 36.7729333,
+    "lng": 3.0588445
+  },
+  {
+    "id": "algeria-radio-bouira",
+    "name": "Radio Bouira",
+    "url": "https://radiobouira.ice.infomaniak.ch/bouira.mp3",
+    "genre": "Music",
+    "city": "Algiers",
+    "country": "Algeria",
+    "lat": 36.7729333,
+    "lng": 3.0588445
+  },
+  {
+    "id": "algeria-radio-boumerdes",
+    "name": "Radio Boumerdes",
+    "url": "https://radioboumerdes.ice.infomaniak.ch/boumerdes.mp3",
+    "genre": "Music",
+    "city": "Algiers",
+    "country": "Algeria",
+    "lat": 36.7729333,
+    "lng": 3.0588445
+  },
+  {
+    "id": "algeria-radio-algerie-coran-إذاعة-القرآن-الكريم",
+    "name": "Radio Algérie Coran إذاعة القرآن الكريم",
+    "url": "https://radiocoran.ice.infomaniak.ch/coran.mp3",
+    "genre": "Music",
+    "city": "Algiers",
+    "country": "Algeria",
+    "lat": 36.7729333,
+    "lng": 3.0588445
+  },
+  {
+    "id": "algeria-radio-algerie-el-bahdja",
+    "name": "Radio Algérie El Bahdja",
+    "url": "https://radioelbahdja.ice.infomaniak.ch/elbahdja.mp3",
+    "genre": "Music",
+    "city": "Algiers",
+    "country": "Algeria",
+    "lat": 36.7729333,
+    "lng": 3.0588445
+  },
+  {
+    "id": "algeria-ifrikya-fm-1056",
+    "name": "Ifrikya FM 105.6",
+    "url": "https://radioifrikya.ice.infomaniak.ch/ifrikya.mp3",
+    "genre": "Music",
+    "city": "Tamanrasset",
+    "country": "Algeria",
+    "lat": 24.3753438,
+    "lng": 4.3208436
+  },
+  {
+    "id": "algeria-radio-blida",
+    "name": "Radio Blida",
+    "url": "https://radioblida.ice.infomaniak.ch/blida.mp3",
+    "genre": "Music",
+    "city": "Algiers",
+    "country": "Algeria",
+    "lat": 36.7729333,
+    "lng": 3.0588445
+  },
+  {
+    "id": "algeria-radio-ouargla",
+    "name": "Radio Ouargla",
+    "url": "https://radioouargla.ice.infomaniak.ch/ouargla.mp3",
+    "genre": "Music",
+    "city": "Tamanrasset",
+    "country": "Algeria",
+    "lat": 24.3753438,
+    "lng": 4.3208436
+  },
+  {
+    "id": "algeria-radio-ghardaïa",
+    "name": "Radio Ghardaïa",
+    "url": "https://radioghardaia.ice.infomaniak.ch/ghardaia.mp3",
+    "genre": "Music",
+    "city": "Tamanrasset",
+    "country": "Algeria",
+    "lat": 24.3753438,
+    "lng": 4.3208436
+  },
+  {
+    "id": "algeria-radio-jil-fm",
+    "name": "Radio Jil-FM",
+    "url": "https://radiojeunesse.ice.infomaniak.ch/jeunesse.mp3",
+    "genre": "Music",
+    "city": "Algiers",
+    "country": "Algeria",
+    "lat": 36.7729333,
+    "lng": 3.0588445
+  },
+  {
+    "id": "algeria-radio-algerie-chaîne-3-français",
+    "name": "Radio Algérie Chaîne 3 (Français)",
+    "url": "https://radiochaine3.ice.infomaniak.ch/chaine3.mp3",
+    "genre": "Music",
+    "city": "Algiers",
+    "country": "Algeria",
+    "lat": 36.7729333,
+    "lng": 3.0588445
+  },
+  {
+    "id": "algeria-radio-illizi",
+    "name": "Radio Illizi",
+    "url": "https://radioillizi.ice.infomaniak.ch/illizi.mp3",
+    "genre": "Music",
+    "city": "Tamanrasset",
+    "country": "Algeria",
+    "lat": 24.3753438,
+    "lng": 4.3208436
+  },
+  {
+    "id": "algeria-radio-algerie-culture",
+    "name": "Radio Algérie Culture",
+    "url": "https://radioculture.ice.infomaniak.ch/culture.mp3",
+    "genre": "Music",
+    "city": "Algiers",
+    "country": "Algeria",
+    "lat": 36.7729333,
+    "lng": 3.0588445
+  },
+  {
+    "id": "algeria-radio-bordj-bou-arreridj",
+    "name": "Radio Bordj Bou Arreridj",
+    "url": "https://radiobordjboubrreridj.ice.infomaniak.ch/bordjboubrreridj.mp3",
+    "genre": "Music",
+    "city": "Algiers",
+    "country": "Algeria",
+    "lat": 36.7729333,
+    "lng": 3.0588445
+  },
+  {
+    "id": "algeria-radio-adrar",
+    "name": "Radio Adrar",
+    "url": "https://radioadrar.ice.infomaniak.ch/adrar.mp3",
+    "genre": "Music",
+    "city": "Tamanrasset",
+    "country": "Algeria",
+    "lat": 24.3753438,
+    "lng": 4.3208436
+  },
+  {
+    "id": "algeria-radio-algerie-chaîne-2",
+    "name": "Radio Algérie Chaîne 2",
+    "url": "https://radiochaine2.ice.infomaniak.ch/chaine2.mp3",
+    "genre": "Music",
+    "city": "Algiers",
+    "country": "Algeria",
+    "lat": 36.7729333,
+    "lng": 3.0588445
+  },
+  {
+    "id": "algeria-radio-algerie-chaîne-1",
+    "name": "Radio Algérie Chaîne 1",
+    "url": "https://radiochaine1.ice.infomaniak.ch/chaine1.mp3",
+    "genre": "Music",
+    "city": "Algiers",
+    "country": "Algeria",
+    "lat": 36.7729333,
+    "lng": 3.0588445
+  },
+  {
+    "id": "algeria-legend-fm-987",
+    "name": "Legend FM 98.7",
+    "url": "https://stream-176.zeno.fm/cay110vfguhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjYXkxMTB2Zmd1aHZ2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiRVdyLTNha3VSTkdkOFZqeGJvSklKUSIsImlhdCI6MTc2OTQxNjE1MCwiZXhwIjoxNzY5NDE2MjEwfQ.QwwPAvGWxcseeIaEETIaRRz6cq0LH9aOQEx237Kshqc",
+    "genre": "Music",
+    "city": "Tamanrasset",
+    "country": "Algeria",
+    "lat": 24.3753438,
+    "lng": 4.3208436
+  },
+  {
+    "id": "algeria-radio-el-tarf",
+    "name": "Radio El Tarf",
+    "url": "https://radiotaref.ice.infomaniak.ch/taref.mp3",
+    "genre": "Music",
+    "city": "Tebessa",
+    "country": "Algeria",
+    "lat": 35.4035956,
+    "lng": 8.1212322
+  },
+  {
+    "id": "algeria-radio-bejaia",
+    "name": "Radio Bejaia",
+    "url": "https://radiobejaia.ice.infomaniak.ch/bejaia.mp3",
+    "genre": "Music",
+    "city": "Boumerdes",
+    "country": "Algeria",
+    "lat": 36.7358032,
+    "lng": 3.6163046
+  },
+  {
+    "id": "algeria-radio-mostaganem",
+    "name": "Radio Mostaganem",
+    "url": "https://radiomostaganem.ice.infomaniak.ch/mostaganem.mp3",
+    "genre": "Music",
+    "city": "Oran",
+    "country": "Algeria",
+    "lat": 35.7044415,
+    "lng": -0.6502981
+  },
+  {
+    "id": "algeria-radio-ain-timouchent",
+    "name": "Radio Ain Timouchent",
+    "url": "https://radioaintimouchent.ice.infomaniak.ch/aintimouchent.mp3",
+    "genre": "Music",
+    "city": "Oran",
+    "country": "Algeria",
+    "lat": 35.7044415,
+    "lng": -0.6502981
+  },
+  {
+    "id": "algeria-radio-annaba",
+    "name": "Radio Annaba",
+    "url": "https://radioannaba.ice.infomaniak.ch/annaba.mp3",
+    "genre": "Music",
+    "city": "Tebessa",
+    "country": "Algeria",
+    "lat": 35.4035956,
+    "lng": 8.1212322
+  },
+  {
+    "id": "algeria-radio-mila",
+    "name": "Radio Mila",
+    "url": "https://radiomila.ice.infomaniak.ch/mila.mp3",
+    "genre": "Music",
+    "city": "Annaba",
+    "country": "Algeria",
+    "lat": 36.8982165,
+    "lng": 7.7549272
+  },
+  {
+    "id": "algeria-radio-oran-fm-927",
+    "name": "Radio Oran FM 92.7",
+    "url": "https://radiooran.ice.infomaniak.ch/oran.mp3",
+    "genre": "Music",
+    "city": "Oran",
+    "country": "Algeria",
+    "lat": 35.7044415,
+    "lng": -0.6502981
+  },
+  {
+    "id": "algeria-radio-mascara",
+    "name": "Radio Mascara",
+    "url": "https://radiomascara.ice.infomaniak.ch/mascara.mp3",
+    "genre": "Music",
+    "city": "Oran",
+    "country": "Algeria",
+    "lat": 35.7044415,
+    "lng": -0.6502981
+  },
+  {
+    "id": "algeria-radio-tebessa",
+    "name": "Radio Tebessa",
+    "url": "https://radiotebessa-1.ice.infomaniak.ch/tebessa.mp3",
+    "genre": "Music",
+    "city": "Tebessa",
+    "country": "Algeria",
+    "lat": 35.4035956,
+    "lng": 8.1212322
+  },
+  {
+    "id": "algeria-radio-guelma",
+    "name": "Radio Guelma",
+    "url": "https://radioguelma.ice.infomaniak.ch/guelma.mp3",
+    "genre": "Music",
+    "city": "Tebessa",
+    "country": "Algeria",
+    "lat": 35.4035956,
+    "lng": 8.1212322
+  },
+  {
+    "id": "algeria-radio-oum-el-bouagui",
+    "name": "Radio Oum el Bouagui",
+    "url": "https://radiooumbouaghi.ice.infomaniak.ch/oumbouaghi.mp3",
+    "genre": "Music",
+    "city": "Tebessa",
+    "country": "Algeria",
+    "lat": 35.4035956,
+    "lng": 8.1212322
+  },
+  {
+    "id": "algeria-radio-khenchla",
+    "name": "Radio Khenchla",
+    "url": "https://radiokhenchela.ice.infomaniak.ch/khenchela.mp3",
+    "genre": "Music",
+    "city": "Tebessa",
+    "country": "Algeria",
+    "lat": 35.4035956,
+    "lng": 8.1212322
+  },
+  {
+    "id": "algeria-radio-constantine",
+    "name": "Radio Constantine",
+    "url": "https://radioconstantine.ice.infomaniak.ch/constantine.mp3",
+    "genre": "Music",
+    "city": "Constantine",
+    "country": "Algeria",
+    "lat": 36.3641642,
+    "lng": 6.6084281
+  },
+  {
+    "id": "algeria-radio-batna",
+    "name": "Radio Batna",
+    "url": "https://radiobatna.ice.infomaniak.ch/batna.mp3",
+    "genre": "Music",
+    "city": "Constantine",
+    "country": "Algeria",
+    "lat": 36.3641642,
+    "lng": 6.6084281
+  },
+  {
+    "id": "algeria-radio-biskra",
+    "name": "Radio Biskra",
+    "url": "https://radiobiskra.ice.infomaniak.ch/biskra.mp3",
+    "genre": "Music",
+    "city": "Batna",
+    "country": "Algeria",
+    "lat": 35.3384291,
+    "lng": 5.7315453
+  },
+  {
+    "id": "algeria-radio-sidi-bel-abbes",
+    "name": "Radio Sidi Bel Abbès",
+    "url": "https://radiosidibelabes.ice.infomaniak.ch/sidibelabes.mp3",
+    "genre": "Music",
+    "city": "Sidi Bel Abbès",
+    "country": "Algeria",
+    "lat": 34.682268,
+    "lng": -0.4357555
+  },
+  {
+    "id": "algeria-radio-saïda",
+    "name": "Radio Saïda",
+    "url": "https://radiosaida.ice.infomaniak.ch/saida.mp3",
+    "genre": "Music",
+    "city": "Oran",
+    "country": "Algeria",
+    "lat": 35.7044415,
+    "lng": -0.6502981
+  },
+  {
+    "id": "algeria-radio-relizane",
+    "name": "Radio Relizane",
+    "url": "https://radiorelizan.ice.infomaniak.ch/relizan.mp3",
+    "genre": "Music",
+    "city": "Oran",
+    "country": "Algeria",
+    "lat": 35.7044415,
+    "lng": -0.6502981
+  },
+  {
+    "id": "algeria-radio-chlef-fm-877",
+    "name": "Radio Chlef FM 87.7",
+    "url": "https://radiochlef.ice.infomaniak.ch/chlef.mp3",
+    "genre": "Music",
+    "city": "Sidi Bel Abbès",
+    "country": "Algeria",
+    "lat": 34.682268,
+    "lng": -0.4357555
+  },
+  {
+    "id": "algeria-radio-jijel",
+    "name": "Radio Jijel",
+    "url": "https://radiojijel.ice.infomaniak.ch/jijel.mp3",
+    "genre": "Music",
+    "city": "Constantine",
+    "country": "Algeria",
+    "lat": 36.3641642,
+    "lng": 6.6084281
+  },
+  {
+    "id": "algeria-radio-naâma",
+    "name": "Radio Naâma",
+    "url": "https://radionaama.ice.infomaniak.ch/naama.mp3",
+    "genre": "Music",
+    "city": "Sidi Bel Abbès",
+    "country": "Algeria",
+    "lat": 34.682268,
+    "lng": -0.4357555
+  },
+  {
+    "id": "algeria-radio-tiaret",
+    "name": "Radio Tiaret",
+    "url": "https://radiotiaret.ice.infomaniak.ch/tiaret.mp3",
+    "genre": "Music",
+    "city": "Tiaret",
+    "country": "Algeria",
+    "lat": 34.8947575,
+    "lng": 1.5945792
+  },
+  {
+    "id": "algeria-radio-medea",
+    "name": "Radio Médéa",
+    "url": "https://radiomedea.ice.infomaniak.ch/medea.mp3",
+    "genre": "Music",
+    "city": "Tiaret",
+    "country": "Algeria",
+    "lat": 34.8947575,
+    "lng": 1.5945792
+  },
+  {
+    "id": "algeria-radio-bechar",
+    "name": "Radio Bechar",
+    "url": "https://radiobechar.ice.infomaniak.ch/bechar.mp3",
+    "genre": "Music",
+    "city": "Bechar",
+    "country": "Algeria",
+    "lat": 31.385726,
+    "lng": -2.0115958
+  },
+  {
+    "id": "algeria-radio-el-bayadh",
+    "name": "Radio El Bayadh",
+    "url": "https://radioelbayedh.ice.infomaniak.ch/radioelbayedh.mp3",
+    "genre": "Music",
+    "city": "Tiaret",
+    "country": "Algeria",
+    "lat": 34.8947575,
+    "lng": 1.5945792
+  },
+  {
+    "id": "algeria-radio-skikda",
+    "name": "Radio Skikda",
+    "url": "https://radioskikda.ice.infomaniak.ch/skikda.mp3",
+    "genre": "Music",
+    "city": "Skikda",
+    "country": "Algeria",
+    "lat": 36.8801317,
+    "lng": 6.9077363
+  },
+  {
+    "id": "algeria-radio-tizi-ouzou",
+    "name": "Radio Tizi Ouzou",
+    "url": "https://radiotiziouzou.ice.infomaniak.ch/tiziouzou.mp3",
+    "genre": "Music",
+    "city": "Tizi Ouzou",
+    "country": "Algeria",
+    "lat": 36.7137843,
+    "lng": 4.0493919
+  },
+  {
+    "id": "algeria-radio-djelfa",
+    "name": "Radio Djelfa",
+    "url": "https://radiodjelfa.ice.infomaniak.ch/djelfa.mp3",
+    "genre": "Music",
+    "city": "Ouargla",
+    "country": "Algeria",
+    "lat": 31.9444998,
+    "lng": 5.3217813
+  },
+  {
+    "id": "algeria-radio-el-oued",
+    "name": "Radio El Oued",
+    "url": "https://radioouedsouf.ice.infomaniak.ch/ouedsouf.mp3",
+    "genre": "Music",
+    "city": "Ouargla",
+    "country": "Algeria",
+    "lat": 31.9444998,
+    "lng": 5.3217813
+  },
+  {
+    "id": "algeria-radio-tlemcen-fm-1004",
+    "name": "Radio Tlemcen FM 100.4",
+    "url": "https://radiotlemcen.ice.infomaniak.ch/tlemcen.mp3",
+    "genre": "Music",
+    "city": "Tlemcen",
+    "country": "Algeria",
+    "lat": 34.881789,
+    "lng": -1.316699
+  }
+]

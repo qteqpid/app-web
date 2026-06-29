@@ -1,0 +1,830 @@
+[
+    {
+        "name": "Platinum Gold Radio",
+        "city": "Johannesburg",
+        "country": "South Africa",
+        "url": "http://s2.voscast.com:10128/;stream.mp3"
+    },
+    {
+        "name": "kofifi FM 97.2",
+        "city": "Johannesburg",
+        "country": "South Africa",
+        "url": "http://102.68.115.115:8000/kofifi"
+    },
+    {
+        "name": "Kaya FM 95.9",
+        "city": "Johannesburg",
+        "country": "South Africa",
+        "url": "https://edge.iono.fm/xice/82_medium.mp3"
+    },
+    {
+        "name": "Air FM",
+        "city": "Cape Town",
+        "country": "South Africa",
+        "url": "https://edge.iono.fm/xice/257_medium.mp3"
+    },
+    {
+        "name": "Jozi FM 105.8",
+        "city": "Johannesburg",
+        "country": "South Africa",
+        "url": "https://edge.iono.fm/xice/51_medium.aac"
+    },
+    {
+        "name": "HOT FM 102.7",
+        "city": "Johannesburg",
+        "country": "South Africa",
+        "url": "https://edge.iono.fm/xice/57_medium.aac"
+    },
+    {
+        "name": "Joyous Radio",
+        "city": "Johannesburg",
+        "country": "South Africa",
+        "url": "https://fm1.cvdrbroadcastsolutions.com:8443/joyous_radio.aac"
+    },
+    {
+        "name": "Kasie FM 97.1",
+        "city": "Johannesburg",
+        "country": "South Africa",
+        "url": "https://s44.myradiostream.com/sc1/:9128/listen.mp3/"
+    },
+    {
+        "name": "UbuntuFM Dance Radio",
+        "city": "Johannesburg",
+        "country": "South Africa",
+        "url": "https://streaming.coollective.nl:8443/UbuntuFMdance"
+    },
+    {
+        "name": "LM Radio AM 702",
+        "city": "Johannesburg",
+        "country": "South Africa",
+        "url": "https://ukwesta.streaming.broadcast.radio/lmradio"
+    },
+    {
+        "name": "Music Radio SA",
+        "city": "Johannesburg",
+        "country": "South Africa",
+        "url": "https://musicradiosa.radioca.st/stream"
+    },
+    {
+        "name": "Chai FM 101.9",
+        "city": "Johannesburg",
+        "country": "South Africa",
+        "url": "https://zas1.ndx.co.za:8008/stream"
+    },
+    {
+        "name": "Classic Central Radio",
+        "city": "Johannesburg",
+        "country": "South Africa",
+        "url": "https://stream-175.zeno.fm/bp1pwy8mky8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJicDFwd3k4bWt5OHV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoieXJwMTFNRG5TcHVxLTk2YUZfdXBZUSIsImlhdCI6MTc2OTQyMzAxOSwiZXhwIjoxNzY5NDIzMDc5fQ.ioD7Ikokm3rdVZxkf__ArwaSdRaapvflCmW-bgE7j8E"
+    },
+    {
+        "name": "Ubiquity Radio",
+        "city": "Johannesburg",
+        "country": "South Africa",
+        "url": "https://strw2.openstream.co/613"
+    },
+    {
+        "name": "Magic 828",
+        "city": "Cape Town",
+        "country": "South Africa",
+        "url": "http://cast.fabrik.fm:8106/"
+    },
+    {
+        "name": "Metro FM 93.0",
+        "city": "Johannesburg",
+        "country": "South Africa",
+        "url": "https://28973.live.streamtheworld.com:443/METROFMAAC.aac"
+    },
+    {
+        "name": "Smile 90.4 FM",
+        "city": "Cape Town",
+        "country": "South Africa",
+        "url": "https://edge.iono.fm/xice/212_medium.aac"
+    },
+    {
+        "name": "Talk Radio 702",
+        "city": "Johannesburg",
+        "country": "South Africa",
+        "url": "https://25633.live.streamtheworld.com:443/FM702AAC.aac"
+    },
+    {
+        "name": "6Pazzi Radio",
+        "city": "Cape Town",
+        "country": "South Africa",
+        "url": "https://stream.radio.co/s51967244c/listen"
+    },
+    {
+        "name": "SA FM 104-107",
+        "city": "Johannesburg",
+        "country": "South Africa",
+        "url": "https://25243.live.streamtheworld.com:443/SAFM.mp3"
+    },
+    {
+        "name": "RSG FM 100.0",
+        "city": "Johannesburg",
+        "country": "South Africa",
+        "url": "https://28993.live.streamtheworld.com:443/RSGAAC.aac"
+    },
+    {
+        "name": "Fine Music Radio FM 101.3",
+        "city": "Cape Town",
+        "country": "South Africa",
+        "url": "https://edge.iono.fm/xice/fmr_live_medium.aac"
+    },
+    {
+        "name": "Hope FM 106.2",
+        "city": "Cape Town",
+        "country": "South Africa",
+        "url": "https://zas7.ndx.co.za:8020/stream"
+    },
+    {
+        "name": "Radio 786 FM 100.4",
+        "city": "Cape Town",
+        "country": "South Africa",
+        "url": "http://102.221.216.42:8040/stream/"
+    },
+    {
+        "name": "Jacaranda",
+        "city": "Johannesburg",
+        "country": "South Africa",
+        "url": "https://live.jacarandafm.com/jacarandahigh.mp3"
+    },
+    {
+        "name": "Whale Coast FM 96",
+        "city": "Cape Town",
+        "country": "South Africa",
+        "url": "https://edge.iono.fm/xice/309_medium.aac"
+    },
+    {
+        "name": "Jou Stasie",
+        "city": "Cape Town",
+        "country": "South Africa",
+        "url": "https://uslradio.net/8010/stream"
+    },
+    {
+        "name": "Wake UP DC",
+        "city": "Cape Town",
+        "country": "South Africa",
+        "url": "https://edge.iono.fm/xice/366_medium.aac"
+    },
+    {
+        "name": "Cape Talk AM 567",
+        "city": "Cape Town",
+        "country": "South Africa",
+        "url": "https://22733.live.streamtheworld.com:443/CAPE_TALKAAC.aac"
+    },
+    {
+        "name": "Gagasi FM",
+        "city": "Durban",
+        "country": "South Africa",
+        "url": "http://cast.fabrik.fm:8102/medium"
+    },
+    {
+        "name": "Kfm 94.5",
+        "city": "Cape Town",
+        "country": "South Africa",
+        "url": "https://25453.live.streamtheworld.com:443/KFMAAC.aac"
+    },
+    {
+        "name": "iZwelenala FM",
+        "city": "Durban",
+        "country": "South Africa",
+        "url": "https://edge.iono.fm/xice/izwelenala_live_medium.aac"
+    },
+    {
+        "name": "Radio Al-Ansaar FM 90.4",
+        "city": "Durban",
+        "country": "South Africa",
+        "url": "https://al-ansaar.simplestreaming.co.za:8010/radio.mp3"
+    },
+    {
+        "name": "Good Hope FM 94-97",
+        "city": "Cape Town",
+        "country": "South Africa",
+        "url": "https://27863.live.streamtheworld.com:443/GOODHOPEFMAAC_SC"
+    },
+    {
+        "name": "Hindvani",
+        "city": "Durban",
+        "country": "South Africa",
+        "url": "https://edge.iono.fm/xice/129_medium.aac"
+    },
+    {
+        "name": "Perron FM 95.1",
+        "city": "Cape Town",
+        "country": "South Africa",
+        "url": "https://zas4.ndx.co.za:9000/stream/"
+    },
+    {
+        "name": "Radio Free Tankwa FM 99.9",
+        "city": "Cape Town",
+        "country": "South Africa",
+        "url": "https://27393.live.streamtheworld.com:443/SAM09AAC213.aac"
+    },
+    {
+        "name": "Megazone Bollywood",
+        "city": "Durban",
+        "country": "South Africa",
+        "url": "https://vm65162.streamerr.co/listen/megazone_bollywood_/radio.mp3"
+    },
+    {
+        "name": "Vibe FM 94.7",
+        "city": "Durban",
+        "country": "South Africa",
+        "url": "https://zas3.ndx.co.za:8016/stream"
+    },
+    {
+        "name": "Good News CR FM 93.6",
+        "city": "Durban",
+        "country": "South Africa",
+        "url": "https://edge.iono.fm/xice/155_medium.aac"
+    },
+    {
+        "name": "88FM Radio Life & Style",
+        "city": "Durban",
+        "country": "South Africa",
+        "url": "https://edge.iono.fm/xice/165_medium.aac"
+    },
+    {
+        "name": "SouthSide FM 107.2",
+        "city": "Durban",
+        "country": "South Africa",
+        "url": "https://southsidefmkzn.out.airtime.pro/southsidefmkzn_a"
+    },
+    {
+        "name": "Gaan Groot Radio",
+        "city": "Cape Town",
+        "country": "South Africa",
+        "url": "https://19003.live.streamtheworld.com:443/SP_R2982692.aac"
+    },
+    {
+        "name": "PlayZN",
+        "city": "Durban",
+        "country": "South Africa",
+        "url": "https://fm1.cvdrbroadcastsolutions.com:8443/playzn.aac"
+    },
+    {
+        "name": "Maluti FM 97.1",
+        "city": "Durban",
+        "country": "South Africa",
+        "url": "https://cast3.my-control-panel.com/proxy/malutifm/stream"
+    },
+    {
+        "name": "DYR FM 105.1 Durban Youth Radio",
+        "city": "Durban",
+        "country": "South Africa",
+        "url": "https://zas4.ndx.co.za:9072/stream"
+    },
+    {
+        "name": "Sauk Radio",
+        "city": "Pretoria",
+        "country": "South Africa",
+        "url": "https://nl1.streamingpulse.com/ssl/7068"
+    },
+    {
+        "name": "UKhozi FM",
+        "city": "Durban",
+        "country": "South Africa",
+        "url": "https://25293.live.streamtheworld.com:443/UKHOZIFMAAC.aac"
+    },
+    {
+        "name": "Pretoria FM 104.2",
+        "city": "Pretoria",
+        "country": "South Africa",
+        "url": "https://edge.iono.fm/xice/362_medium.aac"
+    },
+    {
+        "name": "Groot FM 90.5",
+        "city": "Pretoria",
+        "country": "South Africa",
+        "url": "https://edge.iono.fm/xice/330_medium.aac"
+    },
+    {
+        "name": "Vuka Online Radio",
+        "city": "Pretoria",
+        "country": "South Africa",
+        "url": "http://s5.voscast.com:8542/index.html?sid=1"
+    },
+    {
+        "name": "Pheli FM 95.0",
+        "city": "Pretoria",
+        "country": "South Africa",
+        "url": "https://cast3.my-control-panel.com/proxy/phelifm/stream"
+    },
+    {
+        "name": "Lotus FM 87.7",
+        "city": "Durban",
+        "country": "South Africa",
+        "url": "https://27943.live.streamtheworld.com:443/LOTUSFMAAC.aac"
+    },
+    {
+        "name": "East Coast Gold",
+        "city": "Durban",
+        "country": "South Africa",
+        "url": "https://live.ecr.co.za/ecrgoldhigh.mp3"
+    },
+    {
+        "name": "Markaz Sahaba",
+        "city": "Durban",
+        "country": "South Africa",
+        "url": "https://zas4.ndx.co.za:9088/stream"
+    },
+    {
+        "name": "Radio Pulpit FM 97.2",
+        "city": "Pretoria",
+        "country": "South Africa",
+        "url": "https://edge.iono.fm/xice/189_medium.mp3"
+    },
+    {
+        "name": "Impact FM 103",
+        "city": "Pretoria",
+        "country": "South Africa",
+        "url": "https://edge.iono.fm/xice/204_medium.aac"
+    },
+    {
+        "name": "Lekker FM 98.3",
+        "city": "Pretoria",
+        "country": "South Africa",
+        "url": "https://zas3.ndx.co.za:8002/stream"
+    },
+    {
+        "name": "EBIS 2 FM",
+        "city": "Nelspruit",
+        "country": "South Africa",
+        "url": "http://ebisradio.zapto.org:8002/stream"
+    },
+    {
+        "name": "Rise FM",
+        "city": "Nelspruit",
+        "country": "South Africa",
+        "url": "https://edge.iono.fm/xice/73_medium.mp3"
+    },
+    {
+        "name": "Mams Radio FM 92.9",
+        "city": "Pretoria",
+        "country": "South Africa",
+        "url": "https://s2.radio.co/s5c8377e1d/listen"
+    },
+    {
+        "name": "Radio Veritas AM 576",
+        "city": "Pretoria",
+        "country": "South Africa",
+        "url": "https://zas5.ndx.co.za:9618/stream"
+    },
+    {
+        "name": "HFM964",
+        "city": "Nelspruit",
+        "country": "South Africa",
+        "url": "https://edge.iono.fm/xice/327_medium.mp3"
+    },
+    {
+        "name": "Gateway FM",
+        "city": "Polokwane",
+        "country": "South Africa",
+        "url": "https://edge.iono.fm/xice/216_medium.mp3?ref=https%3A%2F%2Fiono.fm%2Fs%2F216&adToken="
+    },
+    {
+        "name": "Capricorn FM 89.9",
+        "city": "Polokwane",
+        "country": "South Africa",
+        "url": "https://edge.iono.fm/xice/67_medium.aac"
+    },
+    {
+        "name": "Naas Top Stereo",
+        "city": "Nelspruit",
+        "country": "South Africa",
+        "url": "https://live.exertion.in/radio/8070/radio.mp3"
+    },
+    {
+        "name": "VOC FM Siswati",
+        "city": "Nelspruit",
+        "country": "South Africa",
+        "url": "https://edge.iono.fm/xice/350_high.aac"
+    },
+    {
+        "name": "UB FM Live",
+        "city": "Nelspruit",
+        "country": "South Africa",
+        "url": "https://stream.hero24.org:7098/stream"
+    },
+    {
+        "name": "Dinaledi Community Radio",
+        "city": "Pretoria",
+        "country": "South Africa",
+        "url": "https://stream-178.zeno.fm/t6226dgc2d0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0NjIyNmRnYzJkMHV2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiM2lYcHlrN3ZRNDJBYzlUUlR2cUZEQSIsImlhdCI6MTc2OTQyMzAyOSwiZXhwIjoxNzY5NDIzMDg5fQ.0BSkGjjlM4c7glcyR9LZxtJoYoWaq2VXjp55AKXOpAs"
+    },
+    {
+        "name": "Voice of Hope FM 90.5",
+        "city": "Nelspruit",
+        "country": "South Africa",
+        "url": "https://zas3.ndx.co.za:8024/stream"
+    },
+    {
+        "name": "JouRadio FM 91.0",
+        "city": "Polokwane",
+        "country": "South Africa",
+        "url": "https://audio-edge-jfbmv.sin.d.radiomast.io/a425e29b-a485-4b55-9e77-a501be8d1ee7"
+    },
+    {
+        "name": "Radio Kuber Kontrei",
+        "city": "Pretoria",
+        "country": "South Africa",
+        "url": "https://s5.radio.co/s725f4a2b5/listen"
+    },
+    {
+        "name": "Global FM",
+        "city": "Nelspruit",
+        "country": "South Africa",
+        "url": "https://play.globalfm.co.za/8010/stream"
+    },
+    {
+        "name": "Harties FM",
+        "city": "Pretoria",
+        "country": "South Africa",
+        "url": "https://s5.radio.co/s68c6f4028/listen"
+    },
+    {
+        "name": "Kosmos FM 99.3",
+        "city": "Polokwane",
+        "country": "South Africa",
+        "url": "https://edge.iono.fm/xice/296_medium.aac"
+    },
+    {
+        "name": "Kruiskyk Radio",
+        "city": "Pretoria",
+        "country": "South Africa",
+        "url": "https://streams.radio.co/s8e33c10c7/listen"
+    },
+    {
+        "name": "Ligwalagwala FM 92.5",
+        "city": "Nelspruit",
+        "country": "South Africa",
+        "url": "https://22183.live.streamtheworld.com:443/LIGWALAGWALAAAC.aac"
+    },
+    {
+        "name": "Ekse School Radio",
+        "city": "Port Elizabeth",
+        "country": "South Africa",
+        "url": "http://protostar.shoutca.st:8161/stream/"
+    },
+    {
+        "name": "Algoa FM",
+        "city": "Port Elizabeth",
+        "country": "South Africa",
+        "url": "https://edge.iono.fm/xice/54_high.mp3"
+    },
+    {
+        "name": "Radio Laeveld FM 100.5",
+        "city": "Nelspruit",
+        "country": "South Africa",
+        "url": "https://zas2.ndx.co.za:8046/stream"
+    },
+    {
+        "name": "Waterberg Stereo FM 104.9",
+        "city": "Polokwane",
+        "country": "South Africa",
+        "url": "https://fm1.cvdrbroadcastsolutions.com:8443/waterberg_stereo.aac"
+    },
+    {
+        "name": "TriBe FM",
+        "city": "Polokwane",
+        "country": "South Africa",
+        "url": "https://stream-175.zeno.fm/7rqke7pczueuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI3cnFrZTdwY3p1ZXV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiYnJJZzFOd3NUMUtVbUt4eXMwQkpzUSIsImlhdCI6MTc2OTQyMzAzMiwiZXhwIjoxNzY5NDIzMDkyfQ.fkJpCT3KeF0RY9YJ03E31mDzh_fKUmwLatvy3HRcccQ"
+    },
+    {
+        "name": "Radio IFM 88.3",
+        "city": "Port Elizabeth",
+        "country": "South Africa",
+        "url": "https://fm1.cvdrbroadcastsolutions.com:8443/ifm.aac"
+    },
+    {
+        "name": "Keith Ngesi Radio",
+        "city": "Port Elizabeth",
+        "country": "South Africa",
+        "url": "https://edge.iono.fm/xice/285_high.aac"
+    },
+    {
+        "name": "Kingfisher FM 107.5",
+        "city": "Port Elizabeth",
+        "country": "South Africa",
+        "url": "https://zas4-5-7.ndx.co.za:8034/stream"
+    },
+    {
+        "name": "Munghana Lonene FM",
+        "city": "Polokwane",
+        "country": "South Africa",
+        "url": "https://27823.live.streamtheworld.com:443/MUNGANALONENEAAC.aac"
+    },
+    {
+        "name": "OFM FM 96.2",
+        "city": "Bloemfontein",
+        "country": "South Africa",
+        "url": "https://edge.iono.fm/xice/ofm_live_medium.mp3"
+    },
+    {
+        "name": "Bay FM 107.9",
+        "city": "Port Elizabeth",
+        "country": "South Africa",
+        "url": "https://zas7.ndx.co.za:8032/stream"
+    },
+    {
+        "name": "Rosestad FM 100.6",
+        "city": "Bloemfontein",
+        "country": "South Africa",
+        "url": "https://edge.iono.fm/xice/122_medium.aac"
+    },
+    {
+        "name": "Free State FM",
+        "city": "Bloemfontein",
+        "country": "South Africa",
+        "url": "http://167.114.156.116:8670/stream"
+    },
+    {
+        "name": "Phalaphala FM",
+        "city": "Polokwane",
+        "country": "South Africa",
+        "url": "https://27793.live.streamtheworld.com:443/PHALAPHALAAAC.aac"
+    },
+    {
+        "name": "Thobela FM",
+        "city": "Polokwane",
+        "country": "South Africa",
+        "url": "https://25443.live.streamtheworld.com:443/THOBELAAAC.aac"
+    },
+    {
+        "name": "Rainbow Gospel Radio",
+        "city": "Bloemfontein",
+        "country": "South Africa",
+        "url": "http://102.130.114.184:8000/index.html;audio.mp3"
+    },
+    {
+        "name": "Mbhashe FM",
+        "city": "Port Elizabeth",
+        "country": "South Africa",
+        "url": "https://stream-163.zeno.fm/u5hrk66sxxquv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1NWhyazY2c3h4cXV2IiwiaG9zdCI6InN0cmVhbS0xNjMuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoicWowZ0JUNXpTVXE4LXJZWC1hS3N2USIsImlhdCI6MTc2OTQyMzAzMywiZXhwIjoxNzY5NDIzMDkzfQ._sM8bclPgqOyjRerxrfToVg47dH5HKujOVu5XUPPXFA"
+    },
+    {
+        "name": "Gold FM 104.3",
+        "city": "Bloemfontein",
+        "country": "South Africa",
+        "url": "http://88.198.119.244:8000/stream.mp3?_=1"
+    },
+    {
+        "name": "Luister FM 90.6",
+        "city": "Port Elizabeth",
+        "country": "South Africa",
+        "url": "http://stream2.luisterfm.co.za:8000/LuisterFM"
+    },
+    {
+        "name": "Radio Maria FM 103.3",
+        "city": "Bloemfontein",
+        "country": "South Africa",
+        "url": "https://dreamsiteradiocp5.com/proxy/rmlesotho?mp=/stream?ver=714555"
+    },
+    {
+        "name": "Radio Bloem",
+        "city": "Bloemfontein",
+        "country": "South Africa",
+        "url": "https://stream-166.zeno.fm/9fg1eqywrf9uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI5ZmcxZXF5d3JmOXV2IiwiaG9zdCI6InN0cmVhbS0xNjYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiQ1k0UzdaWlZSZ2lrdUJYMDNWYXpjUSIsImlhdCI6MTc2OTQyMzAzNSwiZXhwIjoxNzY5NDIzMDk1fQ.2nGWvXOHGBZq8NvYHd8lYRrMMfWFfZQunkyLRbL235E"
+    },
+    {
+        "name": "Overvaal Stereo",
+        "city": "Bloemfontein",
+        "country": "South Africa",
+        "url": "https://cast3.my-control-panel.com/proxy/overvaalstereo/stream"
+    },
+    {
+        "name": "trufm",
+        "city": "Port Elizabeth",
+        "country": "South Africa",
+        "url": "https://25603.live.streamtheworld.com:443/TRUFMAAC.aac"
+    },
+    {
+        "name": "Heartbeat FM 103.9",
+        "city": "George",
+        "country": "South Africa",
+        "url": "https://radio3.eclipse-streaming.co.za/listen/heart_beat_fm/radio.mp3"
+    },
+    {
+        "name": "Vuma FM 103.0",
+        "city": "Umhlanga",
+        "country": "South Africa",
+        "url": "https://edge.iono.fm/xice/77_medium.aac"
+    },
+    {
+        "name": "Lesedi FM",
+        "city": "Bloemfontein",
+        "country": "South Africa",
+        "url": "https://29103.live.streamtheworld.com:443/LESEDIAAC.aac"
+    },
+    {
+        "name": "KZN Rocks",
+        "city": "Umhlanga",
+        "country": "South Africa",
+        "url": "http://65.108.124.70:9794/stream"
+    },
+    {
+        "name": "Good News Radio Online",
+        "city": "Port Elizabeth",
+        "country": "South Africa",
+        "url": "https://18213.live.streamtheworld.com:443/SAM09AAC244.mp3"
+    },
+    {
+        "name": "Link FM 97.1",
+        "city": "East London",
+        "country": "South Africa",
+        "url": "https://de2.streamingpulse.com/ssl/LinkFM"
+    },
+    {
+        "name": "Radio Overberg FM 101.8",
+        "city": "George",
+        "country": "South Africa",
+        "url": "https://zas7.ndx.co.za:8040/stream"
+    },
+    {
+        "name": "Knysna FM 97.0",
+        "city": "Port Elizabeth",
+        "country": "South Africa",
+        "url": "https://zas4.ndx.co.za:9066/stream"
+    },
+    {
+        "name": "Rhodes Music Radio FM 89.7",
+        "city": "East London",
+        "country": "South Africa",
+        "url": "https://edge.iono.fm/xice/70_medium.aac"
+    },
+    {
+        "name": "Kumkani FM 95.8",
+        "city": "East London",
+        "country": "South Africa",
+        "url": "https://edge.iono.fm/xice/137_medium.mp3"
+    },
+    {
+        "name": "Ultracol Radio",
+        "city": "Umhlanga",
+        "country": "South Africa",
+        "url": "https://vm65162.streamerr.co/listen/ultracol_/radio.mp3"
+    },
+    {
+        "name": "Zone Radio For KZN",
+        "city": "Umhlanga",
+        "country": "South Africa",
+        "url": "https://vm65162.streamerr.co/listen/megazone_hit_radio/radio.mp3"
+    },
+    {
+        "name": "East Coast Radio",
+        "city": "Umhlanga",
+        "country": "South Africa",
+        "url": "https://live.ecr.co.za/ecrhigh.mp3"
+    },
+    {
+        "name": "IFM 102.2 FM",
+        "city": "Vanderbijlpark",
+        "country": "South Africa",
+        "url": "http://s7.voscast.com:9538/index.html?sid=1"
+    },
+    {
+        "name": "Mdantsane FM 89.5",
+        "city": "East London",
+        "country": "South Africa",
+        "url": "https://mdantsanefm.radioca.st//stream"
+    },
+    {
+        "name": "MFM 92.6",
+        "city": "Stellenbosch",
+        "country": "South Africa",
+        "url": "https://edge.iono.fm/xice/46_medium.aac"
+    },
+    {
+        "name": "Valley FM 88.8",
+        "city": "Worcester",
+        "country": "South Africa",
+        "url": "https://zas7.ndx.co.za:8036/stream"
+    },
+    {
+        "name": "Worcester FM 89.2",
+        "city": "George",
+        "country": "South Africa",
+        "url": "https://zas1.ndx.co.za:9917/stream"
+    },
+    {
+        "name": "WRFM 105.9",
+        "city": "Worcester",
+        "country": "South Africa",
+        "url": "https://zas7.ndx.co.za:8016/stream"
+    },
+    {
+        "name": "Caledon FM 89.3",
+        "city": "George",
+        "country": "South Africa",
+        "url": "https://zas2.ndx.co.za:8164/stream"
+    },
+    {
+        "name": "eRadio SA",
+        "city": "Stellenbosch",
+        "country": "South Africa",
+        "url": "https://c18.radioboss.fm/stream/528"
+    },
+    {
+        "name": "Big Indie Giant",
+        "city": "George",
+        "country": "South Africa",
+        "url": "https://puma.streemlion.com:1955/stream"
+    },
+    {
+        "name": "UMzi Online Radio",
+        "city": "Worcester",
+        "country": "South Africa",
+        "url": "https://stream-165.zeno.fm/kfnggfu6o3xvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJrZm5nZ2Z1Nm8zeHZ2IiwiaG9zdCI6InN0cmVhbS0xNjUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiYUNWcVloUnRSeXVYMEk5SFdLSWdLQSIsImlhdCI6MTc2OTQyMzAzOSwiZXhwIjoxNzY5NDIzMDk5fQ.apw7aVrhxx2s-ZI3jxYiK2e5wSXDS0Rrekg0r9ICTd0"
+    },
+    {
+        "name": "Hellenic Radio 1422 AM",
+        "city": "Edenvale",
+        "country": "South Africa",
+        "url": "https://radio3.eclipse-streaming.co.za/listen/hellenic_radio/radio.mp3"
+    },
+    {
+        "name": "Sirius FM",
+        "city": "Edenvale",
+        "country": "South Africa",
+        "url": "http://74.50.122.103:7112/index.html?sid=1"
+    },
+    {
+        "name": "Rumoer FM",
+        "city": "Edenvale",
+        "country": "South Africa",
+        "url": "https://cast6.asurahosting.com/proxy/rumoerfm/stream"
+    },
+    {
+        "name": "JustGospel",
+        "city": "Vereeniging",
+        "country": "South Africa",
+        "url": "https://radio.digibro.net:5810/stream"
+    },
+    {
+        "name": "Heidelberg Live Radio",
+        "city": "Vanderbijlpark",
+        "country": "South Africa",
+        "url": "https://stream-164.zeno.fm/ys5nqtfw2a0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5czVucXRmdzJhMHV2IiwiaG9zdCI6InN0cmVhbS0xNjQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiZVluT2o4S25TbUstQWpod0pPSmFCQSIsImlhdCI6MTc2OTQyMzA0MCwiZXhwIjoxNzY5NDIzMTAwfQ.QjtPlb6CcA2C0eYgu5b6EH266u4bnxYGPrQXoCA_L1g"
+    },
+    {
+        "name": "Vaal Stereo Online",
+        "city": "Vanderbijlpark",
+        "country": "South Africa",
+        "url": "https://s2.radio.co/sb76bb91e2/listen"
+    },
+    {
+        "name": "Rise FM 94.3",
+        "city": "Mpumalanga",
+        "country": "South Africa",
+        "url": "https://edge.iono.fm/xice/73_medium.aac"
+    },
+    {
+        "name": "VUT FM 96.9",
+        "city": "Vanderbijlpark",
+        "country": "South Africa",
+        "url": "https://s2.radio.co/sfb8777b6a/listen"
+    },
+    {
+        "name": "Cape Winelands FM",
+        "city": "Stellenbosch",
+        "country": "South Africa",
+        "url": "https://stream-177.zeno.fm/81stu658k0quv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI4MXN0dTY1OGswcXV2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiYzdlWnlRUVRSZm0yUGtWX3JhV1RrQSIsImlhdCI6MTc2OTQyMzA0MCwiZXhwIjoxNzY5NDIzMTAwfQ.hvGaQsx_UZKmIHX3O7g0xD0ZJZqKYN55lcze9_nYXt0"
+    },
+    {
+        "name": "iKaya Labantu FM",
+        "city": "Stellenbosch",
+        "country": "South Africa",
+        "url": "https://stream-176.zeno.fm/tcgduv17m5zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0Y2dkdXYxN201enV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiTnlDUHZsbWpSa21UWEpvcS1QcmpaUSIsImlhdCI6MTc2OTQyMzA0MCwiZXhwIjoxNzY5NDIzMTAwfQ.235CeCkMbApnRkQDSbZ_H7NO5iRBngED9qupsmnOBIA"
+    },
+    {
+        "name": "Radio Suid Afrika",
+        "city": "Vanderbijlpark",
+        "country": "South Africa",
+        "url": "https://s3.radio.co/s170af14fc/listen"
+    },
+    {
+        "name": "Diamond Radio",
+        "city": "Mpumalanga",
+        "country": "South Africa",
+        "url": "https://vm65162.streamerr.co/listen/diamond_fm/radio.mp3"
+    },
+    {
+        "name": "Paarl FM 96.7",
+        "city": "Paarl",
+        "country": "South Africa",
+        "url": "https://edge.iono.fm/xice/116_medium.mp3"
+    },
+    {
+        "name": "Moutse CR FM 96.3",
+        "city": "Mpumalanga",
+        "country": "South Africa",
+        "url": "https://zas7.ndx.co.za:8042/stream"
+    },
+    {
+        "name": "Sauma HD Radio",
+        "city": "Edenvale",
+        "country": "South Africa",
+        "url": "https://servidor15-2.brlogic.com:7224/live"
+    }
+]

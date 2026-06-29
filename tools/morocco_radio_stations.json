@@ -1,0 +1,278 @@
+[
+    {
+        "name": "Radio Chiclana",
+        "city": "Casablanca",
+        "country": "Morocco",
+        "url": "http://srv0435.lcinternet.com:8000/stream"
+    },
+    {
+        "name": "Yabiladi Azawan Amazigh",
+        "city": "Casablanca",
+        "country": "Morocco",
+        "url": "https://radio.yabiladi.com:9002/;stream.mp3"
+    },
+    {
+        "name": "Yabiladi Radio",
+        "city": "Casablanca",
+        "country": "Morocco",
+        "url": "https://radio.yabiladi.com:8002/;stream.mp3"
+    },
+    {
+        "name": "MFM Radio 106.0 FM",
+        "city": "Casablanca",
+        "country": "Morocco",
+        "url": "https://a5.asurahosting.com:7980/radio.mp3"
+    },
+    {
+        "name": "Ness Radio",
+        "city": "Casablanca",
+        "country": "Morocco",
+        "url": "https://radio.nessradio.net:8212/nessradio"
+    },
+    {
+        "name": "Atlantic Radio 92.5 FM",
+        "city": "Casablanca",
+        "country": "Morocco",
+        "url": "https://atlantic-sonic.nindohost.net:9300/stream"
+    },
+    {
+        "name": "Radio Tanger Med",
+        "city": "Casablanca",
+        "country": "Morocco",
+        "url": "https://radiotangermed-22.ice.infomaniak.ch/radiotangermed-22-128.mp3"
+    },
+    {
+        "name": "Radio Barbate FM 107.4",
+        "city": "Casablanca",
+        "country": "Morocco",
+        "url": "http://radio.barbate.es:7545/stream"
+    },
+    {
+        "name": "Medina FM 92.9 FM",
+        "city": "Casablanca",
+        "country": "Morocco",
+        "url": "https://medinafm.ice.infomaniak.ch/medinafm-128.mp3"
+    },
+    {
+        "name": "Radio Star Maroc",
+        "city": "Casablanca",
+        "country": "Morocco",
+        "url": "https://a2.asurahosting.com:6100/radio.mp3"
+    },
+    {
+        "name": "Radio Aswat 104.3 FM",
+        "city": "Casablanca",
+        "country": "Morocco",
+        "url": "https://aswat.ice.infomaniak.ch/aswat-high.mp3"
+    },
+    {
+        "name": "Adwaa Radio",
+        "city": "Casablanca",
+        "country": "Morocco",
+        "url": "https://stream-154.zeno.fm/5bxh2nh0x1zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI1YnhoMm5oMHgxenV2IiwiaG9zdCI6InN0cmVhbS0xNTQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoib2lkTmo5OWdUc0dMM2xCeHp1LUFSUSIsImlhdCI6MTc2OTQyMDkzNSwiZXhwIjoxNzY5NDIwOTk1fQ.lqkyPtLjEEULd3A0VdpV0GkPzjLKMxq1eidNQr8y0vI"
+    },
+    {
+        "name": "Adwaa FM 2 Lights for the Holy Quran",
+        "city": "Casablanca",
+        "country": "Morocco",
+        "url": "https://stream-159.zeno.fm/vrrtqsh0x1zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2cnJ0cXNoMHgxenV2IiwiaG9zdCI6InN0cmVhbS0xNTkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoid2tDS2IxdlNTdHFtMHUyamNzVG05QSIsImlhdCI6MTc2OTQyMDkzNSwiZXhwIjoxNzY5NDIwOTk1fQ.D9JzrM2up6Tg3E-e3ZpA9UlLCIhJ0ZU22luU8pP2OcI"
+    },
+    {
+        "name": "U Radio 99.0 FM",
+        "city": "Rabat",
+        "country": "Morocco",
+        "url": "https://uradio-aac.ice.infomaniak.ch/uradio.aac"
+    },
+    {
+        "name": "Med Radio 88.2 FM",
+        "city": "Casablanca",
+        "country": "Morocco",
+        "url": "https://medradio.ice.infomaniak.ch/medradio-128.mp3"
+    },
+    {
+        "name": "Skyrock Casablanca",
+        "city": "Casablanca",
+        "country": "Morocco",
+        "url": "https://icecast.skyrock.net/s/casa_aac_128k?tvr_name=radiogarden&tvr_section1=64aac"
+    },
+    {
+        "name": "Radio Mars 91.2 FM",
+        "city": "Casablanca",
+        "country": "Morocco",
+        "url": "https://radiomars.ice.infomaniak.ch/radiomars-128.mp3"
+    },
+    {
+        "name": "Hit Radio 100% Party",
+        "city": "Rabat",
+        "country": "Morocco",
+        "url": "https://dancefloor.ice.infomaniak.ch/dancefloor-128.mp3"
+    },
+    {
+        "name": "Radio Azawan",
+        "city": "Rabat",
+        "country": "Morocco",
+        "url": "https://az-maroc.ice.infomaniak.ch/az-maroc-128.mp3"
+    },
+    {
+        "name": "Radio de  l'Information Marocaine",
+        "city": "Rabat",
+        "country": "Morocco",
+        "url": "https://streaming.rimradio.ma/live"
+    },
+    {
+        "name": "Radio Manarat",
+        "city": "Rabat",
+        "country": "Morocco",
+        "url": "https://listen.radioking.com/radio/252934/stream/297379"
+    },
+    {
+        "name": "Radio Campus",
+        "city": "Casablanca",
+        "country": "Morocco",
+        "url": "https://radiocampus.ice.infomaniak.ch/radiocampus-128.mp3"
+    },
+    {
+        "name": "Hit Radio 100% Classique",
+        "city": "Rabat",
+        "country": "Morocco",
+        "url": "https://gold.ice.infomaniak.ch/gold-128.mp3"
+    },
+    {
+        "name": "Adwaa FM 3 Silent Lights",
+        "city": "Rabat",
+        "country": "Morocco",
+        "url": "https://stream-151.zeno.fm/x4451xh0x1zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ4NDQ1MXhoMHgxenV2IiwiaG9zdCI6InN0cmVhbS0xNTEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoibE5BbE5GbGRST0NFYkZOUHk3a0c4QSIsImlhdCI6MTc2OTQyMDkzOCwiZXhwIjoxNzY5NDIwOTk4fQ.-534qCp9wpHEkoAx9gGxXFAGEe4gqwpQ-z0wqV31Fqw"
+    },
+    {
+        "name": "Hit Radio 100% Mgharba",
+        "city": "Rabat",
+        "country": "Morocco",
+        "url": "https://mgharba.ice.infomaniak.ch/mgharba-128.mp3"
+    },
+    {
+        "name": "U Rban",
+        "city": "Casablanca",
+        "country": "Morocco",
+        "url": "https://urban.ice.infomaniak.ch/urban-128.aac"
+    },
+    {
+        "name": "CAP Radio 105.4 FM",
+        "city": "Tangier",
+        "country": "Morocco",
+        "url": "https://listen.radioking.com/radio/710810/stream/776366"
+    },
+    {
+        "name": "U Dance",
+        "city": "Rabat",
+        "country": "Morocco",
+        "url": "https://udance.ice.infomaniak.ch/udance-128.aac"
+    },
+    {
+        "name": "Hit Radio 99.8 FM",
+        "city": "Rabat",
+        "country": "Morocco",
+        "url": "https://hitradio-maroc.ice.infomaniak.ch/hitradio-maroc-128.mp3"
+    },
+    {
+        "name": "Classic Radio Non Stop",
+        "city": "Agadir",
+        "country": "Morocco",
+        "url": "https://smeuh.org:8443/classicradiononstop.mp3"
+    },
+    {
+        "name": "Hit Radio 100% TikTok",
+        "city": "Rabat",
+        "country": "Morocco",
+        "url": "https://buzz.ice.infomaniak.ch/buzz-128.mp3"
+    },
+    {
+        "name": "La Confiserie Sonore",
+        "city": "Marrakesh",
+        "country": "Morocco",
+        "url": "https://listen.radioking.com/radio/115108/stream/157846"
+    },
+    {
+        "name": "U 90",
+        "city": "Rabat",
+        "country": "Morocco",
+        "url": "https://u90.ice.infomaniak.ch/u90-128.aac"
+    },
+    {
+        "name": "La Mas Latina FM",
+        "city": "Agadir",
+        "country": "Morocco",
+        "url": "https://radiostreaming.online/8026/stream"
+    },
+    {
+        "name": "Cope Gibraltar 94.7 FM",
+        "city": "Tangier",
+        "country": "Morocco",
+        "url": "https://stream-153.zeno.fm/vvevgprh0eruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2dmV2Z3ByaDBlcnV2IiwiaG9zdCI6InN0cmVhbS0xNTMuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiZzRDbTVGWERTUHlxX3M5dmJSaVlBZyIsImlhdCI6MTc2OTQyMDk0MiwiZXhwIjoxNzY5NDIxMDAyfQ.khDAi81pZzopoLFJlgagIpRiybXnhLfi_sfo9PCgSds"
+    },
+    {
+        "name": "Adwaa FM 4 Children's Light",
+        "city": "Agadir",
+        "country": "Morocco",
+        "url": "https://stream-160.zeno.fm/8wrs2bh0x1zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI4d3JzMmJoMHgxenV2IiwiaG9zdCI6InN0cmVhbS0xNjAuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiaW5lOFRmZUVUbGFSWHNaNm1JaktwdyIsImlhdCI6MTc2OTQyMDk0MiwiZXhwIjoxNzY5NDIxMDAyfQ.QYXM7IMpH1OMJFmvAu9KR0zduHFdaCNXaaFyHsB4Xhw"
+    },
+    {
+        "name": "Radio Atbir",
+        "city": "Marrakesh",
+        "country": "Morocco",
+        "url": "https://stream-151.zeno.fm/bqdbb6hd0neuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJicWRiYjZoZDBuZXV2IiwiaG9zdCI6InN0cmVhbS0xNTEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiVk51YVNMa2VSbzZrYkYxWkZEZVpEdyIsImlhdCI6MTc2OTQyMDk0MiwiZXhwIjoxNzY5NDIxMDAyfQ.mtWH0mj9BJBqU4IoNX5Z77vSC4IexGllGNPVtlfTIBE"
+    },
+    {
+        "name": "Adwaa FM 5",
+        "city": "Salé",
+        "country": "Morocco",
+        "url": "https://stream-158.zeno.fm/ezxx195gq2zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJlenh4MTk1Z3EyenV2IiwiaG9zdCI6InN0cmVhbS0xNTguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiQTlxaDM3aVhSWlNzRHkwWERVZE9wUSIsImlhdCI6MTc2OTQyMDk0MiwiZXhwIjoxNzY5NDIxMDAyfQ.fm53kpVjcEOUWYKaDnVLDevIWgMyjlKCnPshGGssz3Y"
+    },
+    {
+        "name": "BFBS Gibraltar",
+        "city": "Tangier",
+        "country": "Morocco",
+        "url": "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs7.mp3?platform=radiogarden"
+    },
+    {
+        "name": "Onda Cero Algeciras FM 89.1",
+        "city": "Tangier",
+        "country": "Morocco",
+        "url": "https://27903.live.streamtheworld.com:443/OC_ALGECIRASAAC.aac"
+    },
+    {
+        "name": "Radio Vida Cádiz 95.1 FM",
+        "city": "Meknes",
+        "country": "Morocco",
+        "url": "https://radiovida-direct.sharp-stream.com/radiovida.mp3"
+    },
+    {
+        "name": "Cadena 100 Gibraltar",
+        "city": "Ksar es Seghir",
+        "country": "Morocco",
+        "url": "https://stream-155.zeno.fm/fkq1xae5bzzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJma3ExeGFlNWJ6enV2IiwiaG9zdCI6InN0cmVhbS0xNTUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiSV9WRFRQdzRRajJaTzFHVTRRWGh1ZyIsImlhdCI6MTc2OTQyMDk0MywiZXhwIjoxNzY5NDIxMDAzfQ.dTkaWOdny1cvhr4LTVZz6EaE9wW6vLv74VsvlAdnSzs"
+    },
+    {
+        "name": "Morocco English Radio",
+        "city": "Mohammedia",
+        "country": "Morocco",
+        "url": "https://streamer.radio.co/s6cba51492/listen"
+    },
+    {
+        "name": "U Pop",
+        "city": "Marrakesh",
+        "country": "Morocco",
+        "url": "https://upop.ice.infomaniak.ch/upop-128.aac"
+    },
+    {
+        "name": "Go Go Radio Gibraltar",
+        "city": "Ksar es Seghir",
+        "country": "Morocco",
+        "url": "https://stream2.rcast.net/70760"
+    },
+    {
+        "name": "Radio Tindouf",
+        "city": "Marrakesh",
+        "country": "Morocco",
+        "url": "https://radiotindouf.ice.infomaniak.ch/tindouf.mp3"
+    }
+]

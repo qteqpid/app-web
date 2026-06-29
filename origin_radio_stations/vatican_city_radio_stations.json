@@ -1,0 +1,232 @@
+[
+  {
+    "id": "vatican-radio-medua-fm-887",
+    "name": "Radio Medua FM 88.7",
+    "url": "http://5.135.39.189:8030/stream",
+    "genre": "Music",
+    "city": "Capo Vaticano",
+    "country": "Italy",
+    "lat": 38.6196976,
+    "lng": 15.830186
+  },
+  {
+    "id": "vatican-radio-crik-crok",
+    "name": "Radio Crik Crok",
+    "url": "http://178.32.139.167:8282/",
+    "genre": "Music",
+    "city": "Vatican City",
+    "country": "Vatican City",
+    "lat": 41.9034912,
+    "lng": 12.4528349
+  },
+  {
+    "id": "vatican-radio-eco-sud",
+    "name": "Radio Eco Sud",
+    "url": "http://nr9.newradio.it:9577/stream/",
+    "genre": "Music",
+    "city": "Capo Vaticano",
+    "country": "Italy",
+    "lat": 38.6196976,
+    "lng": 15.830186
+  },
+  {
+    "id": "vatican-radio-dimensione-musica-fm-953",
+    "name": "Radio Dimensione Musica FM 95.3",
+    "url": "https://shoutcast2.streamingmedia.it/proxy/rdm?mp=/stream",
+    "genre": "Music",
+    "city": "Vatican City",
+    "country": "Vatican City",
+    "lat": 41.9034912,
+    "lng": 12.4528349
+  },
+  {
+    "id": "vatican-radio-underground-italia-fm",
+    "name": "Radio Underground Italia FM",
+    "url": "https://nr14.newradio.it:8707/stream",
+    "genre": "Music",
+    "city": "Vatican City",
+    "country": "Vatican City",
+    "lat": 41.9034912,
+    "lng": 12.4528349
+  },
+  {
+    "id": "vatican-radio-bimbo",
+    "name": "Radio Bimbo",
+    "url": "https://radiobim-danidi01.radioca.st/stream",
+    "genre": "Music",
+    "city": "Vatican City",
+    "country": "Vatican City",
+    "lat": 41.9034912,
+    "lng": 12.4528349
+  },
+  {
+    "id": "vatican-solo-radio",
+    "name": "Solo Radio",
+    "url": "https://soloradio.sailweb.cloud/soloradio256.mp3",
+    "genre": "Music",
+    "city": "Vatican City",
+    "country": "Vatican City",
+    "lat": 41.9034912,
+    "lng": 12.4528349
+  },
+  {
+    "id": "vatican-radio-vaticana--chinese",
+    "name": "Radio Vaticana - Chinese",
+    "url": "https://radio.vaticannews.va/stream-zh",
+    "genre": "Music",
+    "city": "Vatican City",
+    "country": "Vatican City",
+    "lat": 41.9034912,
+    "lng": 12.4528349
+  },
+  {
+    "id": "vatican-radio-vaticana-malayalam",
+    "name": "Radio Vaticana Malayalam",
+    "url": "https://radio.vaticannews.va/stream-ml",
+    "genre": "Music",
+    "city": "Vatican City",
+    "country": "Vatican City",
+    "lat": 41.9034912,
+    "lng": 12.4528349
+  },
+  {
+    "id": "vatican-radio-vaticana--italian",
+    "name": "Radio Vaticana - Italian",
+    "url": "https://radio.vaticannews.va/stream-it",
+    "genre": "Music",
+    "city": "Vatican City",
+    "country": "Vatican City",
+    "lat": 41.9034912,
+    "lng": 12.4528349
+  },
+  {
+    "id": "vatican-radio-vaticana--german",
+    "name": "Radio Vaticana - German",
+    "url": "https://radio.vaticannews.va/stream-de",
+    "genre": "Music",
+    "city": "Vatican City",
+    "country": "Vatican City",
+    "lat": 41.9034912,
+    "lng": 12.4528349
+  },
+  {
+    "id": "vatican-radio-vaticana--english",
+    "name": "Radio Vaticana - English",
+    "url": "https://radio.vaticannews.va/stream-en",
+    "genre": "Music",
+    "city": "Vatican City",
+    "country": "Vatican City",
+    "lat": 41.9034912,
+    "lng": 12.4528349
+  },
+  {
+    "id": "vatican-radio-atlantide-capo-vaticano",
+    "name": "Radio Atlantide Capo Vaticano",
+    "url": "https://eu1.reliastream.com/proxy/racvracv?mp=/stream",
+    "genre": "Music",
+    "city": "Capo Vaticano",
+    "country": "Italy",
+    "lat": 38.6196976,
+    "lng": 15.830186
+  },
+  {
+    "id": "vatican-radio-vaticana--russian",
+    "name": "Radio Vaticana - Russian",
+    "url": "https://radio.vaticannews.va/stream-ru",
+    "genre": "Music",
+    "city": "Vatican City",
+    "country": "Vatican City",
+    "lat": 41.9034912,
+    "lng": 12.4528349
+  },
+  {
+    "id": "vatican-radio-vaticana--spanish",
+    "name": "Radio Vaticana - Spanish",
+    "url": "https://radio.vaticannews.va/stream-es",
+    "genre": "Music",
+    "city": "Vatican City",
+    "country": "Vatican City",
+    "lat": 41.9034912,
+    "lng": 12.4528349
+  },
+  {
+    "id": "vatican-radio-vaticana--french",
+    "name": "Radio Vaticana - French",
+    "url": "https://radio.vaticannews.va/stream-fr",
+    "genre": "Music",
+    "city": "Vatican City",
+    "country": "Vatican City",
+    "lat": 41.9034912,
+    "lng": 12.4528349
+  },
+  {
+    "id": "vatican-rds-fm-1030",
+    "name": "RDS FM 103.0",
+    "url": "https://icstream.rds.radio/rds",
+    "genre": "Music",
+    "city": "Capo Vaticano",
+    "country": "Italy",
+    "lat": 38.6196976,
+    "lng": 15.830186
+  },
+  {
+    "id": "vatican-radio-24--fm-1068",
+    "name": "Radio 24 - FM 106.8",
+    "url": "http://shoutcast2.radio24.ilsole24ore.com:8000/index.html?sid=1",
+    "genre": "Music",
+    "city": "Capo Vaticano",
+    "country": "Italy",
+    "lat": 38.6196976,
+    "lng": 15.830186
+  },
+  {
+    "id": "vatican-radio-vaticana--portuguese",
+    "name": "Radio Vaticana - Portuguese",
+    "url": "https://radio.vaticannews.va/stream-pt",
+    "genre": "Music",
+    "city": "Vatican City",
+    "country": "Vatican City",
+    "lat": 41.9034912,
+    "lng": 12.4528349
+  },
+  {
+    "id": "vatican-rai-radio-2",
+    "name": "Rai Radio 2",
+    "url": "https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S35942484/yp5F67151K92/icecast",
+    "genre": "Music",
+    "city": "Capo Vaticano",
+    "country": "Italy",
+    "lat": 38.6196976,
+    "lng": 15.830186
+  },
+  {
+    "id": "vatican-rai-radio-3",
+    "name": "Rai Radio 3",
+    "url": "https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S56630579/yEbkcBtIoSwd/icecast",
+    "genre": "Music",
+    "city": "Capo Vaticano",
+    "country": "Italy",
+    "lat": 38.6196976,
+    "lng": 15.830186
+  },
+  {
+    "id": "vatican-rai-radio-1",
+    "name": "Rai Radio 1",
+    "url": "https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S16355530/Q4zh3NTu28Rx/icecast",
+    "genre": "Music",
+    "city": "Capo Vaticano",
+    "country": "Italy",
+    "lat": 38.6196976,
+    "lng": 15.830186
+  },
+  {
+    "id": "vatican-rcu-radio-cover-uno",
+    "name": "RCU Radio Cover Uno",
+    "url": "https://radiocoveruno.stream.laut.fm/radiocoveruno?t302=2026-01-26_10-45-12&uuid=849c1406-820f-4c1b-9d33-1602b6435a47",
+    "genre": "Music",
+    "city": "Capo Vaticano",
+    "country": "Italy",
+    "lat": 38.6196976,
+    "lng": 15.830186
+  }
+]

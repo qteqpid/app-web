@@ -1,0 +1,128 @@
+[
+    {
+        "name": "TWR Malawi",
+        "city": "Lilongwe",
+        "country": "Malawi",
+        "url": "https://s8.streamafrica.net/listen/twr_malawi/radio.mp3"
+    },
+    {
+        "name": "Groove 100 FM",
+        "city": "Lilongwe",
+        "country": "Malawi",
+        "url": "https://radio.exclusivemw.cloud/listen/groove_fm/radio.mp3"
+    },
+    {
+        "name": "Umunthu FM",
+        "city": "Lilongwe",
+        "country": "Malawi",
+        "url": "https://host2.streamafrica.net/listen/umunthu/radio.mp3"
+    },
+    {
+        "name": "Timveni Radio 89.6 FM",
+        "city": "Lilongwe",
+        "country": "Malawi",
+        "url": "https://radio.exclusivemw.cloud/listen/timveni_radio/radio.mp3"
+    },
+    {
+        "name": "Mudziwathu Radio",
+        "city": "Lilongwe",
+        "country": "Malawi",
+        "url": "https://radio.exclusivemw.cloud/listen/mudziwathu_fm/radio.mp3"
+    },
+    {
+        "name": "Beyond FM",
+        "city": "Lilongwe",
+        "country": "Malawi",
+        "url": "https://radio.exclusivemw.cloud/listen/rukuru_live/radio.mp3"
+    },
+    {
+        "name": "Chisomo Radio Station FM 97.0",
+        "city": "Lilongwe",
+        "country": "Malawi",
+        "url": "https://radio.exclusivemw.cloud/listen/chisomo_radio_station/radio.mp3"
+    },
+    {
+        "name": "Yetu Radio",
+        "city": "Blantyre",
+        "country": "Malawi",
+        "url": "https://radio.exclusivemw.cloud/listen/yetu_radio/radio.mp3"
+    },
+    {
+        "name": "Radio Bembeke FM",
+        "city": "Lilongwe",
+        "country": "Malawi",
+        "url": "https://radio.exclusivemw.cloud/listen/radio_bembeke_fm/radio.mp3"
+    },
+    {
+        "name": "Nkhotakota Radio",
+        "city": "Nkhotakota",
+        "country": "Malawi",
+        "url": "https://radio.exclusivemw.cloud/listen/nkhotako_radio/radio.mp3"
+    },
+    {
+        "name": "MBC Radio 1 FM 95.4",
+        "city": "Lilongwe",
+        "country": "Malawi",
+        "url": "http://radiostream.mbc.mw:88/broadwavehigh.mp3"
+    },
+    {
+        "name": "MBC Radio 2 FM 92.2",
+        "city": "Lilongwe",
+        "country": "Malawi",
+        "url": "http://radiostream.mbc.mw:86/broadwavehigh.mp3"
+    },
+    {
+        "name": "MIJFM Malawi Institute of Journalism",
+        "city": "Lilongwe",
+        "country": "Malawi",
+        "url": "https://stream-160.zeno.fm/k6q1xwxm4ehvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJrNnExeHd4bTRlaHZ2IiwiaG9zdCI6InN0cmVhbS0xNjAuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoibXNxSjFjdktTUTJfVkxkSVh6OExIQSIsImlhdCI6MTc2OTQyMDQyOCwiZXhwIjoxNzY5NDIwNDg4fQ.jMpH_dmyDw_8TZi5xVLRcvSUD5baQiVImsLYrVPEvAs"
+    },
+    {
+        "name": "Radio Maria Malawi 99.2 FM",
+        "city": "Mangochi",
+        "country": "Malawi",
+        "url": "https://dreamsiteradiocp2.com/proxy/rmmalawi2?mp=/stream"
+    },
+    {
+        "name": "Yoneco FM",
+        "city": "Zomba",
+        "country": "Malawi",
+        "url": "https://s7.myradiostream.com:60218/listen.mp3/"
+    },
+    {
+        "name": "Radio Alinafe FM 97.1",
+        "city": "Lilongwe",
+        "country": "Malawi",
+        "url": "https://radioalinafe.live/stream"
+    },
+    {
+        "name": "Radio Dinosaur FM 107.6",
+        "city": "Karonga",
+        "country": "Malawi",
+        "url": "https://s1.free-shoutcast.com/stream/18070"
+    },
+    {
+        "name": "Radio Delight Kwitonta 89.7 FM",
+        "city": "Karonga",
+        "country": "Malawi",
+        "url": "https://s43.myradiostream.com:23820/listen.mp3"
+    },
+    {
+        "name": "Chanco Community Radio 107.6 FM",
+        "city": "Zomba",
+        "country": "Malawi",
+        "url": "https://live.netradio.pro/listen/chanco/radio.mp3"
+    },
+    {
+        "name": "ZBS Zodiak FM 97.0",
+        "city": "Lilongwe",
+        "country": "Malawi",
+        "url": "https://ice31.securenetsystems.net/0079"
+    },
+    {
+        "name": "Uwala FM",
+        "city": "Lilongwe",
+        "country": "Malawi",
+        "url": "https://servidor22.brlogic.com:7078/live"
+    }
+]

@@ -1,0 +1,732 @@
+[
+  {
+    "id": "slovakia-orf-radio-burgenland",
+    "name": "ORF Radio Burgenland",
+    "url": "https://orf-live.ors-shoutcast.at/bgl-q1a",
+    "genre": "Music",
+    "city": "Bratislava",
+    "country": "Slovakia",
+    "lat": 48.1559178,
+    "lng": 17.1313541
+  },
+  {
+    "id": "slovakia-radio-litera",
+    "name": "Radio Litera",
+    "url": "http://live.slovakradio.sk:8000/Litera_128.mp3",
+    "genre": "Music",
+    "city": "Bratislava",
+    "country": "Slovakia",
+    "lat": 48.1559178,
+    "lng": 17.1313541
+  },
+  {
+    "id": "slovakia-fun-rádio-chill",
+    "name": "Fun Rádio Chill",
+    "url": "https://stream.funradio.sk:8000/chill128.mp3",
+    "genre": "Music",
+    "city": "Bratislava",
+    "country": "Slovakia",
+    "lat": 48.1559178,
+    "lng": 17.1313541
+  },
+  {
+    "id": "slovakia-fun-rádio-80s-90s",
+    "name": "Fun Rádio 80's-90's",
+    "url": "https://stream.funradio.sk:8000/80-90-128.mp3",
+    "genre": "Music",
+    "city": "Bratislava",
+    "country": "Slovakia",
+    "lat": 48.1559178,
+    "lng": 17.1313541
+  },
+  {
+    "id": "slovakia-fun-rádio-live",
+    "name": "Fun Rádio Live",
+    "url": "https://stream.funradio.sk:8000/fun192.mp3",
+    "genre": "Music",
+    "city": "Bratislava",
+    "country": "Slovakia",
+    "lat": 48.1559178,
+    "lng": 17.1313541
+  },
+  {
+    "id": "slovakia-rve-viena-deutsch",
+    "name": "RVE Viena Deutsch",
+    "url": "https://s2.free-shoutcast.com/stream/18120",
+    "genre": "Music",
+    "city": "Bratislava",
+    "country": "Slovakia",
+    "lat": 48.1559178,
+    "lng": 17.1313541
+  },
+  {
+    "id": "slovakia-rádio-vlna",
+    "name": "Rádio Vlna",
+    "url": "https://stream.radiovlna.sk/vlna-hi.mp3",
+    "genre": "Music",
+    "city": "Bratislava",
+    "country": "Slovakia",
+    "lat": 48.1559178,
+    "lng": 17.1313541
+  },
+  {
+    "id": "slovakia-győr-plusz-radio",
+    "name": "Győr Plusz Radio",
+    "url": "https://stream.42netmedia.com:8443/sc_gyor1",
+    "genre": "Music",
+    "city": "Bratislava",
+    "country": "Slovakia",
+    "lat": 48.1559178,
+    "lng": 17.1313541
+  },
+  {
+    "id": "slovakia-rádio-vlna-oldies-party",
+    "name": "Rádio Vlna Oldies Party",
+    "url": "https://stream.radiovlna.sk:8000/party-hi.mp3",
+    "genre": "Music",
+    "city": "Bratislava",
+    "country": "Slovakia",
+    "lat": 48.1559178,
+    "lng": 17.1313541
+  },
+  {
+    "id": "slovakia-rádio-jih-cimbálka-914-fm",
+    "name": "Rádio Jih Cimbálka 91.4 FM",
+    "url": "https://icecast6.play.cz/jihcimbalka128.mp3",
+    "genre": "Music",
+    "city": "Bratislava",
+    "country": "Slovakia",
+    "lat": 48.1559178,
+    "lng": 17.1313541
+  },
+  {
+    "id": "slovakia-rádio-mária-slovensko",
+    "name": "Rádio Mária Slovensko",
+    "url": "https://dreamsiteradiocp5.com/proxy/radiomariaslomp3?mp=/stream.mp3",
+    "genre": "Music",
+    "city": "Bratislava",
+    "country": "Slovakia",
+    "lat": 48.1559178,
+    "lng": 17.1313541
+  },
+  {
+    "id": "slovakia-radio-viva",
+    "name": "Radio Viva",
+    "url": "https://stream.sepia.sk:8000/viva128.mp3",
+    "genre": "Music",
+    "city": "Bratislava",
+    "country": "Slovakia",
+    "lat": 48.1559178,
+    "lng": 17.1313541
+  },
+  {
+    "id": "slovakia-rádio-slovakia-international",
+    "name": "Rádio Slovakia International",
+    "url": "https://icecast.stv.livebox.sk/rsi_128.mp3",
+    "genre": "Music",
+    "city": "Bratislava",
+    "country": "Slovakia",
+    "lat": 48.1559178,
+    "lng": 17.1313541
+  },
+  {
+    "id": "slovakia-rádio_fm",
+    "name": "Rádio_FM",
+    "url": "https://icecast.stv.livebox.sk/fm_128.mp3",
+    "genre": "Music",
+    "city": "Bratislava",
+    "country": "Slovakia",
+    "lat": 48.1559178,
+    "lng": 17.1313541
+  },
+  {
+    "id": "slovakia-rádio-regina-stred",
+    "name": "Rádio Regina Stred",
+    "url": "https://icecast.stv.livebox.sk/regina-bb_128.mp3",
+    "genre": "Music",
+    "city": "Banská Bystrica",
+    "country": "Slovakia",
+    "lat": 48.7383895,
+    "lng": 19.1585805
+  },
+  {
+    "id": "slovakia-rádio-slovensko-966-fm",
+    "name": "Rádio Slovensko 96.6 FM",
+    "url": "https://icecast.stv.livebox.sk/slovensko_128.mp3",
+    "genre": "Music",
+    "city": "Bratislava",
+    "country": "Slovakia",
+    "lat": 48.1559178,
+    "lng": 17.1313541
+  },
+  {
+    "id": "slovakia-rádio-lumen",
+    "name": "Rádio Lumen",
+    "url": "https://audio.lumen.sk/live64.mp3",
+    "genre": "Music",
+    "city": "Banská Bystrica",
+    "country": "Slovakia",
+    "lat": 48.7383895,
+    "lng": 19.1585805
+  },
+  {
+    "id": "slovakia-tlis-rádio",
+    "name": "TLIS Rádio",
+    "url": "https://stream.tlis.sk/tlis.mp3",
+    "genre": "Music",
+    "city": "Bratislava",
+    "country": "Slovakia",
+    "lat": 48.1559178,
+    "lng": 17.1313541
+  },
+  {
+    "id": "slovakia-megafon-fm-957",
+    "name": "Megafon FM 95.7",
+    "url": "http://78.131.58.127:8000/stream",
+    "genre": "Music",
+    "city": "Banská Bystrica",
+    "country": "Slovakia",
+    "lat": 48.7383895,
+    "lng": 19.1585805
+  },
+  {
+    "id": "slovakia-radio-blanik",
+    "name": "Radio Blanik",
+    "url": "https://23543.live.streamtheworld.com:443/RADIO_BLANIK_128.mp3",
+    "genre": "Music",
+    "city": "Bratislava",
+    "country": "Slovakia",
+    "lat": 48.1559178,
+    "lng": 17.1313541
+  },
+  {
+    "id": "slovakia-rádio-beta",
+    "name": "Rádio Beta",
+    "url": "http://109.71.67.102:8000/beta_live_low.mp3",
+    "genre": "Music",
+    "city": "Banská Bystrica",
+    "country": "Slovakia",
+    "lat": 48.7383895,
+    "lng": 19.1585805
+  },
+  {
+    "id": "slovakia-rádio-pohoda",
+    "name": "Rádio Pohoda",
+    "url": "http://mpc1.mediacp.eu:18214/stream",
+    "genre": "Music",
+    "city": "Banská Bystrica",
+    "country": "Slovakia",
+    "lat": 48.7383895,
+    "lng": 19.1585805
+  },
+  {
+    "id": "slovakia-rádio-regina-banská-bystrica",
+    "name": "Rádio Regina Banská Bystrica",
+    "url": "http://live.slovakradio.sk:8000/Regina_BB_32.mp3",
+    "genre": "Music",
+    "city": "Banská Bystrica",
+    "country": "Slovakia",
+    "lat": 48.7383895,
+    "lng": 19.1585805
+  },
+  {
+    "id": "slovakia-bb-fm-1003",
+    "name": "BB FM 100.3",
+    "url": "https://stream.bbfm.sk/bbfm128.mp3",
+    "genre": "Music",
+    "city": "Banská Bystrica",
+    "country": "Slovakia",
+    "lat": 48.7383895,
+    "lng": 19.1585805
+  },
+  {
+    "id": "slovakia-rádio-regina-východ",
+    "name": "Rádio Regina Východ",
+    "url": "https://icecast.stv.livebox.sk/regina-ke_128.mp3",
+    "genre": "Music",
+    "city": "Košice",
+    "country": "Slovakia",
+    "lat": 48.7172272,
+    "lng": 21.2496774
+  },
+  {
+    "id": "slovakia-friss-fm",
+    "name": "Friss FM",
+    "url": "http://stream.frissfm.hu:10050/index.html?sid=1",
+    "genre": "Music",
+    "city": "Košice",
+    "country": "Slovakia",
+    "lat": 48.7172272,
+    "lng": 21.2496774
+  },
+  {
+    "id": "slovakia-európa-rádió-fm-904",
+    "name": "Európa Rádió FM 90.4",
+    "url": "https://europaradio.hu/miskolc",
+    "genre": "Music",
+    "city": "Košice",
+    "country": "Slovakia",
+    "lat": 48.7172272,
+    "lng": 21.2496774
+  },
+  {
+    "id": "slovakia-rádio-kiks",
+    "name": "Rádio KIKS",
+    "url": "https://online.radiokiks.sk:8000/kiks_hq.mp3",
+    "genre": "Music",
+    "city": "Košice",
+    "country": "Slovakia",
+    "lat": 48.7172272,
+    "lng": 21.2496774
+  },
+  {
+    "id": "slovakia-metal-heart-radio",
+    "name": "Metal Heart Radio",
+    "url": "http://fr.radio-streamhosting.com:8000/metalheartradio128mp3",
+    "genre": "Music",
+    "city": "Žilina",
+    "country": "Slovakia",
+    "lat": 49.2234674,
+    "lng": 18.7393139
+  },
+  {
+    "id": "slovakia-rádio-beta-hity-80s-a-90s",
+    "name": "Rádio Beta Hity 80s a 90s",
+    "url": "http://109.71.67.102:8000/beta_80a90.mp3",
+    "genre": "Music",
+    "city": "Žilina",
+    "country": "Slovakia",
+    "lat": 49.2234674,
+    "lng": 18.7393139
+  },
+  {
+    "id": "slovakia-európa-rádió-fm-1000",
+    "name": "Európa Rádió FM 100.0",
+    "url": "https://europaradio.hu/satoraljaujhely",
+    "genre": "Music",
+    "city": "Košice",
+    "country": "Slovakia",
+    "lat": 48.7172272,
+    "lng": 21.2496774
+  },
+  {
+    "id": "slovakia-na-vlne-liptova",
+    "name": "Na Vlne Liptova",
+    "url": "https://www.navlneliptova.sk/?radio_player_play=http%3A%2F%2Fradioserver.online%3A8009%2Fhq.mp3",
+    "genre": "Music",
+    "city": "Banská Bystrica",
+    "country": "Slovakia",
+    "lat": 48.7383895,
+    "lng": 19.1585805
+  },
+  {
+    "id": "slovakia-audiokostel-dolní-němčí",
+    "name": "AudioKostel Dolní Němčí",
+    "url": "https://evcast.mediacp.eu:1585/stream",
+    "genre": "Music",
+    "city": "Trnava",
+    "country": "Slovakia",
+    "lat": 48.3767652,
+    "lng": 17.5858175
+  },
+  {
+    "id": "slovakia-meloradio-bielsko-biala-879-fm",
+    "name": "MeloRadio Bielsko-Biala 87.9 FM",
+    "url": "https://ml04.cdn.eurozet.pl/mel-bls.mp3",
+    "genre": "Music",
+    "city": "Žilina",
+    "country": "Slovakia",
+    "lat": 49.2234674,
+    "lng": 18.7393139
+  },
+  {
+    "id": "slovakia-radio-pohoda-2",
+    "name": "Radio Pohoda 2",
+    "url": "https://mpc1.mediacp.eu:8111/stream",
+    "genre": "Music",
+    "city": "Žilina",
+    "country": "Slovakia",
+    "lat": 49.2234674,
+    "lng": 18.7393139
+  },
+  {
+    "id": "slovakia-lemfm",
+    "name": "Lem.FM",
+    "url": "http://n0d.radiojar.com/2fa0gbhr9bhvv?rj-ttl=5&rj-tok=AAABm_ncOGoAk-rqO7mID9ye_g",
+    "genre": "Music",
+    "city": "Košice",
+    "country": "Slovakia",
+    "lat": 48.7172272,
+    "lng": 21.2496774
+  },
+  {
+    "id": "slovakia-fun-rádio-milenialky",
+    "name": "Fun Rádio Milenialky",
+    "url": "https://stream.funradio.sk:8000/milenialky128.mp3",
+    "genre": "Music",
+    "city": "Trnava",
+    "country": "Slovakia",
+    "lat": 48.3767652,
+    "lng": 17.5858175
+  },
+  {
+    "id": "slovakia-sky-rádio",
+    "name": "Sky Rádio",
+    "url": "http://stream.skyradio.sk:8000/sky128",
+    "genre": "Music",
+    "city": "Prešov",
+    "country": "Slovakia",
+    "lat": 48.9889341,
+    "lng": 21.2190987
+  },
+  {
+    "id": "slovakia-hírfm-nyíregyháza-1026-fm",
+    "name": "HírFM Nyíregyháza 102.6 FM",
+    "url": "https://n24a-eu.rcs.revma.com/bck7den8b2uvv?rj-ttl=5&rj-tok=AAABm_ncNtYA3IqWvjKkA7phQA",
+    "genre": "Music",
+    "city": "Košice",
+    "country": "Slovakia",
+    "lat": 48.7172272,
+    "lng": 21.2496774
+  },
+  {
+    "id": "slovakia-rádio-rebeca",
+    "name": "Rádio Rebeca",
+    "url": "https://mpc2.mediacp.eu:8200/rebecaweb",
+    "genre": "Music",
+    "city": "Banská Bystrica",
+    "country": "Slovakia",
+    "lat": 48.7383895,
+    "lng": 19.1585805
+  },
+  {
+    "id": "slovakia-fm-103-csillagpont-radio",
+    "name": "FM 103 Csillagpont Radio",
+    "url": "http://streamer1.borsodweb.hu:48000/csillagpont",
+    "genre": "Music",
+    "city": "Prešov",
+    "country": "Slovakia",
+    "lat": 48.9889341,
+    "lng": 21.2190987
+  },
+  {
+    "id": "slovakia-radio-aetter",
+    "name": "Radio Aetter",
+    "url": "https://stream.aetter.sk/aetter",
+    "genre": "Music",
+    "city": "Trnava",
+    "country": "Slovakia",
+    "lat": 48.3767652,
+    "lng": 17.5858175
+  },
+  {
+    "id": "slovakia-forrás-rádió-mount-fm-978",
+    "name": "Forrás Rádió Mount FM 97.8",
+    "url": "http://91.82.85.44:1630/forrasradio.mp3",
+    "genre": "Music",
+    "city": "Nitra",
+    "country": "Slovakia",
+    "lat": 48.31295,
+    "lng": 18.0894593
+  },
+  {
+    "id": "slovakia-trnavske-radio",
+    "name": "Trnavske Radio",
+    "url": "https://solid33.streamupsolutions.com/proxy/mujdmamw/trnavske",
+    "genre": "Music",
+    "city": "Trnava",
+    "country": "Slovakia",
+    "lat": 48.3767652,
+    "lng": 17.5858175
+  },
+  {
+    "id": "slovakia-radio-anioł-beskidów",
+    "name": "Radio Anioł Beskidów",
+    "url": "http://88.135.172.249:22000/stream/1/",
+    "genre": "Music",
+    "city": "Martin",
+    "country": "Slovakia",
+    "lat": 49.0724921,
+    "lng": 18.929193
+  },
+  {
+    "id": "slovakia-rdn-nowy-sącz-101,2-fm",
+    "name": "RDN Nowy Sącz 101,2 FM",
+    "url": "https://stream1.dabcom.pl/rdn_ns",
+    "genre": "Music",
+    "city": "Prešov",
+    "country": "Slovakia",
+    "lat": 48.9889341,
+    "lng": 21.2190987
+  },
+  {
+    "id": "slovakia-rádio-dychovka",
+    "name": "Rádio Dychovka",
+    "url": "https://epanel.mediacp.eu:7661/stream",
+    "genre": "Music",
+    "city": "Trenčín",
+    "country": "Slovakia",
+    "lat": 48.8922719,
+    "lng": 18.0387465
+  },
+  {
+    "id": "slovakia-radio-66",
+    "name": "Radio 66",
+    "url": "https://ice3.abradio.cz/route128.mp3",
+    "genre": "Music",
+    "city": "Trenčín",
+    "country": "Slovakia",
+    "lat": 48.8922719,
+    "lng": 18.0387465
+  },
+  {
+    "id": "slovakia-rádio-jih-889-fm",
+    "name": "Rádio Jih 88.9 FM",
+    "url": "https://icecast6.play.cz/jih128.mp3",
+    "genre": "Music",
+    "city": "Piešťany",
+    "country": "Slovakia",
+    "lat": 48.5895247,
+    "lng": 17.8213848
+  },
+  {
+    "id": "slovakia-trendy-radio",
+    "name": "Trendy Radio",
+    "url": "https://stream.trendyradio.pl/mi",
+    "genre": "Music",
+    "city": "Prešov",
+    "country": "Slovakia",
+    "lat": 48.9889341,
+    "lng": 21.2190987
+  },
+  {
+    "id": "slovakia-sub-fm-rádio",
+    "name": "Sub FM Rádio",
+    "url": "https://stream.subfm.sk/subfm",
+    "genre": "Music",
+    "city": "Piešťany",
+    "country": "Slovakia",
+    "lat": 48.5895247,
+    "lng": 17.8213848
+  },
+  {
+    "id": "slovakia-rádio-šírava-897-fm",
+    "name": "Rádio Šírava 89.7 FM",
+    "url": "https://stream.sepia.sk/radiosirava.mp3",
+    "genre": "Music",
+    "city": "Michalovce",
+    "country": "Slovakia",
+    "lat": 48.7514383,
+    "lng": 21.9211949
+  },
+  {
+    "id": "slovakia-rádio-prešov--prešovskej-univerzity",
+    "name": "Rádio Prešov - Prešovskej Univerzity",
+    "url": "https://stream-175.zeno.fm/92cv04cggfhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI5MmN2MDRjZ2dmaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiOVRiZEV3ZERReHlkVzVyWGY4emM1USIsImlhdCI6MTc2OTQyMjkxOCwiZXhwIjoxNzY5NDIyOTc4fQ.O6jwPLIsr9IOerZK9kEf0UyAliW5cqHhUHXOfOqHZEo",
+    "genre": "Music",
+    "city": "Prešov",
+    "country": "Slovakia",
+    "lat": 48.9889341,
+    "lng": 21.2190987
+  },
+  {
+    "id": "slovakia-radio-szentendre",
+    "name": "Radio Szentendre",
+    "url": "http://radioszentendre.podzone.net:13040/szentendre",
+    "genre": "Music",
+    "city": "Banská Belá",
+    "country": "Slovakia",
+    "lat": 48.4750134,
+    "lng": 18.9343398
+  },
+  {
+    "id": "slovakia-európa-rádió-fm-1005",
+    "name": "Európa Rádió FM 100.5",
+    "url": "https://europaradio.hu/nyiregyhaza",
+    "genre": "Music",
+    "city": "Michalovce",
+    "country": "Slovakia",
+    "lat": 48.7514383,
+    "lng": 21.9211949
+  },
+  {
+    "id": "slovakia-trió-fm-977",
+    "name": "Trió FM 97.7",
+    "url": "http://92.119.123.141:9090/stream",
+    "genre": "Music",
+    "city": "Halič",
+    "country": "Slovakia",
+    "lat": 48.3542823,
+    "lng": 19.5742231
+  },
+  {
+    "id": "slovakia-radio-alex-1052-fm",
+    "name": "Radio Alex 105.2 FM",
+    "url": "https://srv0.streamradiowy.eu/radioalex",
+    "genre": "Music",
+    "city": "Liptovský Mikuláš",
+    "country": "Slovakia",
+    "lat": 49.0835785,
+    "lng": 19.612785
+  },
+  {
+    "id": "slovakia-radio-1-eger-1013",
+    "name": "Radio 1 Eger 101.3",
+    "url": "https://dc2.dcsolutions.hu:8445/radio1eger",
+    "genre": "Music",
+    "city": "Halič",
+    "country": "Slovakia",
+    "lat": 48.3542823,
+    "lng": 19.5742231
+  },
+  {
+    "id": "slovakia-rádio-junior",
+    "name": "Rádio Junior",
+    "url": "http://live.slovakradio.sk:8000/Junior_32.mp3",
+    "genre": "Music",
+    "city": "Bratislava",
+    "country": "Slovakia",
+    "lat": 48.1559178,
+    "lng": 17.1313541
+  },
+  {
+    "id": "slovakia-best-fm",
+    "name": "Best FM",
+    "url": "https://stream3.bestfm.sk:8000/160.aac",
+    "genre": "Music",
+    "city": "Bratislava",
+    "country": "Slovakia",
+    "lat": 48.1559178,
+    "lng": 17.1313541
+  },
+  {
+    "id": "slovakia-radio-rock-sv",
+    "name": "Radio Rock SV",
+    "url": "https://s2.myradiostream.com:4870/listen.mp3?nocache=1769422920",
+    "genre": "Music",
+    "city": "Snina",
+    "country": "Slovakia",
+    "lat": 48.9900623,
+    "lng": 22.1556248
+  },
+  {
+    "id": "slovakia-sro-2-rádio-regina-západ",
+    "name": "SRo 2 Rádio Regina Západ",
+    "url": "http://live.slovakradio.sk:8000/Regina_BA_128.mp3",
+    "genre": "Music",
+    "city": "Bratislava",
+    "country": "Slovakia",
+    "lat": 48.1559178,
+    "lng": 17.1313541
+  },
+  {
+    "id": "slovakia-radio-jazz",
+    "name": "Radio Jazz",
+    "url": "https://stream.sepia.sk:8000/jazz192.mp3",
+    "genre": "Music",
+    "city": "Bratislava",
+    "country": "Slovakia",
+    "lat": 48.1559178,
+    "lng": 17.1313541
+  },
+  {
+    "id": "slovakia-radio-andrychów-am-1584",
+    "name": "Radio Andrychów AM 1584",
+    "url": "https://s1.slotex.pl:7424/stream/1/",
+    "genre": "Music",
+    "city": "Liptovský Mikuláš",
+    "country": "Slovakia",
+    "lat": 49.0835785,
+    "lng": 19.612785
+  },
+  {
+    "id": "slovakia-fit-family-rádio",
+    "name": "FIT Family RÁDIO",
+    "url": "https://solid1.streamupsolutions.com/proxy/utwrguip/stream",
+    "genre": "Music",
+    "city": "Halič",
+    "country": "Slovakia",
+    "lat": 48.3542823,
+    "lng": 19.5742231
+  },
+  {
+    "id": "slovakia-rádio-vlna-golden-hits",
+    "name": "Rádio Vlna Golden Hits",
+    "url": "https://stream.radiovlna.sk/gold-hi.mp3",
+    "genre": "Music",
+    "city": "Bratislava",
+    "country": "Slovakia",
+    "lat": 48.1559178,
+    "lng": 17.1313541
+  },
+  {
+    "id": "slovakia-rádio-patria",
+    "name": "Rádio Patria",
+    "url": "https://icecast.stv.livebox.sk/patria_128.mp3",
+    "genre": "Music",
+    "city": "Bratislava",
+    "country": "Slovakia",
+    "lat": 48.1559178,
+    "lng": 17.1313541
+  },
+  {
+    "id": "slovakia-top-rádio-972-fm",
+    "name": "Top Rádio 97.2 FM",
+    "url": "https://solid1.streamupsolutions.com/proxy/vhhggmih/stream",
+    "genre": "Music",
+    "city": "Bratislava",
+    "country": "Slovakia",
+    "lat": 48.1559178,
+    "lng": 17.1313541
+  },
+  {
+    "id": "slovakia-rádio-sity",
+    "name": "Rádio SiTy",
+    "url": "https://radiosity.online:8000/aac",
+    "genre": "Music",
+    "city": "Bratislava",
+    "country": "Slovakia",
+    "lat": 48.1559178,
+    "lng": 17.1313541
+  },
+  {
+    "id": "slovakia-rádio-7",
+    "name": "Rádio 7",
+    "url": "https://play.radio7.sk/128",
+    "genre": "Music",
+    "city": "Bratislava",
+    "country": "Slovakia",
+    "lat": 48.1559178,
+    "lng": 17.1313541
+  },
+  {
+    "id": "slovakia-fresh-rádio",
+    "name": "Fresh Rádio",
+    "url": "https://icecast2.radionet.sk/freshradio.sk",
+    "genre": "Music",
+    "city": "Bratislava",
+    "country": "Slovakia",
+    "lat": 48.1559178,
+    "lng": 17.1313541
+  },
+  {
+    "id": "slovakia-radio-rusyn-fm",
+    "name": "Radio Rusyn FM",
+    "url": "https://stream.rusyn.fm/rusyny.mp3",
+    "genre": "Music",
+    "city": "Bratislava",
+    "country": "Slovakia",
+    "lat": 48.1559178,
+    "lng": 17.1313541
+  },
+  {
+    "id": "slovakia-hitradio-slovakia",
+    "name": "Hitradio Slovakia",
+    "url": "https://hitradioslovakia.stream.laut.fm/hitradioslovakia?t302=2026-01-26_10-22-02&uuid=d7843f87-e0c8-4642-b97a-58d87df54b18",
+    "genre": "Music",
+    "city": "Bratislava",
+    "country": "Slovakia",
+    "lat": 48.1559178,
+    "lng": 17.1313541
+  }
+]

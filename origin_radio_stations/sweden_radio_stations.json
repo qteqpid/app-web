@@ -1,0 +1,792 @@
+[
+  {
+    "id": "sweden-mrs-90½-fm",
+    "name": "MRS 90½ FM",
+    "url": "http://radiostreamthree.mine.nu/MRS9050one",
+    "genre": "Music",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "lat": 59.3251172,
+    "lng": 18.0710935
+  },
+  {
+    "id": "sweden-oldies-fm",
+    "name": "Oldies FM",
+    "url": "https://stream3.themediasite.co.uk:8030/stream",
+    "genre": "Music",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "lat": 59.3251172,
+    "lng": 18.0710935
+  },
+  {
+    "id": "sweden-stockholm-närradio-fm-953",
+    "name": "Stockholm Närradio FM 95.3",
+    "url": "http://live.narradio.se:8020/index.html?sid=1",
+    "genre": "Music",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "lat": 59.3251172,
+    "lng": 18.0710935
+  },
+  {
+    "id": "sweden-stockholm-närradio-fm-880",
+    "name": "Stockholm Närradio FM 88.0",
+    "url": "http://live.narradio.se:8010/index.html?sid=1",
+    "genre": "Music",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "lat": 59.3251172,
+    "lng": 18.0710935
+  },
+  {
+    "id": "sweden-sr-p2-alltid-musik",
+    "name": "SR P2 Alltid Musik",
+    "url": "https://edge2.sr.se/p2-aac-320",
+    "genre": "Music",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "lat": 59.3251172,
+    "lng": 18.0710935
+  },
+  {
+    "id": "sweden-sr-radio-finska",
+    "name": "SR Radio Finska",
+    "url": "https://edge1.sr.se/finska-aac-320",
+    "genre": "Music",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "lat": 59.3251172,
+    "lng": 18.0710935
+  },
+  {
+    "id": "sweden-sr-p1",
+    "name": "SR P1",
+    "url": "https://edge1.sr.se/p1-aac-320",
+    "genre": "Music",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "lat": 59.3251172,
+    "lng": 18.0710935
+  },
+  {
+    "id": "sweden-sr-p4-stockholm",
+    "name": "SR P4 Stockholm",
+    "url": "https://edge1.sr.se/p4sth-aac-320",
+    "genre": "Music",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "lat": 59.3251172,
+    "lng": 18.0710935
+  },
+  {
+    "id": "sweden-spinning-seal-fm",
+    "name": "Spinning Seal FM",
+    "url": "https://stream-178.zeno.fm/9q3ez3k3fchvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI5cTNlejNrM2ZjaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoibWszUERGWU5UOXVNdy1nSU5hWnE2USIsImlhdCI6MTc2OTQyMzM2OSwiZXhwIjoxNzY5NDIzNDI5fQ.cnx46w6jQhskXtSLF1qdCz-P_ljuyq-8NbCb26atUUM",
+    "genre": "Music",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "lat": 59.3251172,
+    "lng": 18.0710935
+  },
+  {
+    "id": "sweden-country-rocks-radio",
+    "name": "Country Rocks Radio",
+    "url": "https://stream.dbmedia.se/crrMP3",
+    "genre": "Music",
+    "city": "Staffanstorp",
+    "country": "Sweden",
+    "lat": 55.65,
+    "lng": 13.2
+  },
+  {
+    "id": "sweden-dansbandskanalen-1065-fm",
+    "name": "Dansbandskanalen 106.5 FM",
+    "url": "https://stream.dbmedia.se/dbkMP3",
+    "genre": "Music",
+    "city": "Staffanstorp",
+    "country": "Sweden",
+    "lat": 55.65,
+    "lng": 13.2
+  },
+  {
+    "id": "sweden-clubalicious-radio",
+    "name": "Clubalicious Radio",
+    "url": "https://listen.radioking.com/radio/319832/stream/367451",
+    "genre": "Music",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "lat": 59.3251172,
+    "lng": 18.0710935
+  },
+  {
+    "id": "sweden-rix-fm",
+    "name": "Rix FM",
+    "url": "https://fm01-ice.stream.khz.se/fm01_mp3",
+    "genre": "Music",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "lat": 59.3251172,
+    "lng": 18.0710935
+  },
+  {
+    "id": "sweden-star-fm",
+    "name": "Star FM",
+    "url": "https://fm05-ice.stream.khz.se/fm05_mp3",
+    "genre": "Music",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "lat": 59.3251172,
+    "lng": 18.0710935
+  },
+  {
+    "id": "sweden-sr-p3",
+    "name": "SR P3",
+    "url": "https://edge2.sr.se/p3-aac-320",
+    "genre": "Music",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "lat": 59.3251172,
+    "lng": 18.0710935
+  },
+  {
+    "id": "sweden-radio-viking-101,4",
+    "name": "Radio Viking 101,4",
+    "url": "https://n06.rcs.revma.com/qp6w2wzrruhvv?rj-ttl=5&rj-tok=AAABm_njHpUA6nKHKqfwis0DGQ",
+    "genre": "Music",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "lat": 59.3251172,
+    "lng": 18.0710935
+  },
+  {
+    "id": "sweden-guldkanalen",
+    "name": "Guldkanalen",
+    "url": "https://stream.dbmedia.se/gk96",
+    "genre": "Music",
+    "city": "Staffanstorp",
+    "country": "Sweden",
+    "lat": 55.65,
+    "lng": 13.2
+  },
+  {
+    "id": "sweden-dansbandskanalen-julmusik",
+    "name": "Dansbandskanalen Julmusik",
+    "url": "https://stream.dbmedia.se/dbkjulMP3?.mp3",
+    "genre": "Music",
+    "city": "Staffanstorp",
+    "country": "Sweden",
+    "lat": 55.65,
+    "lng": 13.2
+  },
+  {
+    "id": "sweden-guldkanalen-60-tal",
+    "name": "Guldkanalen 60-tal",
+    "url": "https://stream.dbmedia.se/gk60talMP3",
+    "genre": "Music",
+    "city": "Staffanstorp",
+    "country": "Sweden",
+    "lat": 55.65,
+    "lng": 13.2
+  },
+  {
+    "id": "sweden-helsingborgs-närradio-fm-992",
+    "name": "Helsingborgs Närradio FM 99.2",
+    "url": "http://deb.patrikmalmgrenrask.se:8010/index.html?sid=1",
+    "genre": "Music",
+    "city": "Staffanstorp",
+    "country": "Sweden",
+    "lat": 55.65,
+    "lng": 13.2
+  },
+  {
+    "id": "sweden-dr-p6beat",
+    "name": "DR P6Beat",
+    "url": "http://live-icy.gss.dr.dk/A/A29H.mp3",
+    "genre": "Music",
+    "city": "Staffanstorp",
+    "country": "Sweden",
+    "lat": 55.65,
+    "lng": 13.2
+  },
+  {
+    "id": "sweden-guldkanalen-70-tal",
+    "name": "Guldkanalen 70-tal",
+    "url": "https://stream.dbmedia.se/gk70tal96",
+    "genre": "Music",
+    "city": "Staffanstorp",
+    "country": "Sweden",
+    "lat": 55.65,
+    "lng": 13.2
+  },
+  {
+    "id": "sweden-radio-gbg-laganini",
+    "name": "Radio GBG Laganini",
+    "url": "http://62.210.188.38:8050/relay3",
+    "genre": "Music",
+    "city": "Gothenburg",
+    "country": "Sweden",
+    "lat": 57.7072326,
+    "lng": 11.9670171
+  },
+  {
+    "id": "sweden-radio-gbg-narodna",
+    "name": "Radio GBG Narodna",
+    "url": "http://62.210.188.38:8050/relay2",
+    "genre": "Music",
+    "city": "Gothenburg",
+    "country": "Sweden",
+    "lat": 57.7072326,
+    "lng": 11.9670171
+  },
+  {
+    "id": "sweden-fm-920",
+    "name": "FM 92.0",
+    "url": "http://stream.wlmm.dk/902fmmp3",
+    "genre": "Music",
+    "city": "Malmö",
+    "country": "Sweden",
+    "lat": 55.6052931,
+    "lng": 13.0001566
+  },
+  {
+    "id": "sweden-hitcity-öresund",
+    "name": "Hitcity Öresund",
+    "url": "https://stream.hitcity.se/livehq",
+    "genre": "Music",
+    "city": "Staffanstorp",
+    "country": "Sweden",
+    "lat": 55.65,
+    "lng": 13.2
+  },
+  {
+    "id": "sweden-radio-malmökanalen-fm-892",
+    "name": "Radio Malmökanalen FM 89.2",
+    "url": "https://stream.nsp.se/MNR89_AAC_Hi",
+    "genre": "Music",
+    "city": "Malmö",
+    "country": "Sweden",
+    "lat": 55.6052931,
+    "lng": 13.0001566
+  },
+  {
+    "id": "sweden-radio-karen-989-fm",
+    "name": "Radio Karen 98.9 FM",
+    "url": "https://s4.ssl-stream.com/listen/radio_karen/stream1",
+    "genre": "Music",
+    "city": "Malmö",
+    "country": "Sweden",
+    "lat": 55.6052931,
+    "lng": 13.0001566
+  },
+  {
+    "id": "sweden-slay-radio",
+    "name": "Slay Radio",
+    "url": "http://relay3.slayradio.org:8100/",
+    "genre": "Music",
+    "city": "Gothenburg",
+    "country": "Sweden",
+    "lat": 57.7072326,
+    "lng": 11.9670171
+  },
+  {
+    "id": "sweden-gnfnu-103,1-mhz",
+    "name": "GNF.NU 103,1 MHz",
+    "url": "http://lyssna.fnf.nu:8080/gnf103.mp3",
+    "genre": "Music",
+    "city": "Gothenburg",
+    "country": "Sweden",
+    "lat": 57.7072326,
+    "lng": 11.9670171
+  },
+  {
+    "id": "sweden-sr-p4-malmöhus",
+    "name": "SR P4 Malmöhus",
+    "url": "https://edge1.sr.se/p4malm-aac-320",
+    "genre": "Music",
+    "city": "Malmö",
+    "country": "Sweden",
+    "lat": 55.6052931,
+    "lng": 13.0001566
+  },
+  {
+    "id": "sweden-sr-din-gata",
+    "name": "SR Din Gata",
+    "url": "https://edge1.sr.se/dingata-aac-320",
+    "genre": "Music",
+    "city": "Malmö",
+    "country": "Sweden",
+    "lat": 55.6052931,
+    "lng": 13.0001566
+  },
+  {
+    "id": "sweden-radio-trollhättan-fm-906",
+    "name": "Radio Trollhättan FM 90.6",
+    "url": "http://lyssna.fnf.nu:8080/radiotrollhattan.mp3",
+    "genre": "Music",
+    "city": "Gothenburg",
+    "country": "Sweden",
+    "lat": 57.7072326,
+    "lng": 11.9670171
+  },
+  {
+    "id": "sweden-rockkanalen",
+    "name": "Rockkanalen",
+    "url": "https://stream.kanalplus.fm/kp96",
+    "genre": "Music",
+    "city": "Staffanstorp",
+    "country": "Sweden",
+    "lat": 55.65,
+    "lng": 13.2
+  },
+  {
+    "id": "sweden-sr-p4-göteborg",
+    "name": "SR P4 Göteborg",
+    "url": "https://edge2.sr.se/p4gbg-aac-320",
+    "genre": "Music",
+    "city": "Gothenburg",
+    "country": "Sweden",
+    "lat": 57.7072326,
+    "lng": 11.9670171
+  },
+  {
+    "id": "sweden-radio-af",
+    "name": "Radio AF",
+    "url": "https://n04.rcs.revma.com/e3tha8v4dkhvv?rj-ttl=5&rj-tok=AAABm_njLbwArkmlEv2YNrsX4w",
+    "genre": "Music",
+    "city": "Staffanstorp",
+    "country": "Sweden",
+    "lat": 55.65,
+    "lng": 13.2
+  },
+  {
+    "id": "sweden-sr-p4-sjuhärad",
+    "name": "SR P4 Sjuhärad",
+    "url": "https://edge2.sr.se/p4sju-aac-320",
+    "genre": "Music",
+    "city": "Gothenburg",
+    "country": "Sweden",
+    "lat": 57.7072326,
+    "lng": 11.9670171
+  },
+  {
+    "id": "sweden-retreat-radio",
+    "name": "Retreat Radio",
+    "url": "https://retreatradio.out.airtime.pro/retreatradio_b",
+    "genre": "Music",
+    "city": "Malmö",
+    "country": "Sweden",
+    "lat": 55.6052931,
+    "lng": 13.0001566
+  },
+  {
+    "id": "sweden-radio-dei-kristiinankaupunki",
+    "name": "Radio Dei Kristiinankaupunki",
+    "url": "http://isojako.radiodei.fi:8000/kristiinankaupunki",
+    "genre": "Music",
+    "city": "Umeå",
+    "country": "Sweden",
+    "lat": 63.8256568,
+    "lng": 20.2630745
+  },
+  {
+    "id": "sweden-radio-dei-pohjanmaa",
+    "name": "Radio Dei Pohjanmaa",
+    "url": "http://isojako.radiodei.fi:8000/lapua",
+    "genre": "Music",
+    "city": "Umeå",
+    "country": "Sweden",
+    "lat": 63.8256568,
+    "lng": 20.2630745
+  },
+  {
+    "id": "sweden-radio-sotenäs-fm-953",
+    "name": "Radio Sotenäs FM 95.3",
+    "url": "https://sc1.radiosotenas.se/index.html?sid=1",
+    "genre": "Music",
+    "city": "Gothenburg",
+    "country": "Sweden",
+    "lat": 57.7072326,
+    "lng": 11.9670171
+  },
+  {
+    "id": "sweden-radio-gävle-fm-1027",
+    "name": "Radio Gävle FM 102.7",
+    "url": "http://kepler.shoutca.st:8271/;stream",
+    "genre": "Music",
+    "city": "Gävle",
+    "country": "Sweden",
+    "lat": 60.6750132,
+    "lng": 17.1467019
+  },
+  {
+    "id": "sweden-radio-öckerö",
+    "name": "Radio Öckerö",
+    "url": "https://radio.darub.se/ockero.mp3",
+    "genre": "Music",
+    "city": "Gothenburg",
+    "country": "Sweden",
+    "lat": 57.7072326,
+    "lng": 11.9670171
+  },
+  {
+    "id": "sweden-radio-dei-kokkola",
+    "name": "Radio Dei Kokkola",
+    "url": "http://isojako.radiodei.fi:8000/kruunupyy",
+    "genre": "Music",
+    "city": "Umeå",
+    "country": "Sweden",
+    "lat": 63.8256568,
+    "lng": 20.2630745
+  },
+  {
+    "id": "sweden-radio-avesta-1035-fm",
+    "name": "Radio Avesta 103.5 FM",
+    "url": "http://test.radioavesta.se:8000/;stream.mp3",
+    "genre": "Music",
+    "city": "Gävle",
+    "country": "Sweden",
+    "lat": 60.6750132,
+    "lng": 17.1467019
+  },
+  {
+    "id": "sweden-sr-p4-västerbotten",
+    "name": "SR P4 Västerbotten",
+    "url": "https://edge1.sr.se/p4vbtn-aac-320",
+    "genre": "Music",
+    "city": "Umeå",
+    "country": "Sweden",
+    "lat": 63.8256568,
+    "lng": 20.2630745
+  },
+  {
+    "id": "sweden-radio-falköping-908-fm",
+    "name": "Radio Falköping 90.8 FM",
+    "url": "http://lyssna.fnf.nu:8080/fnf.mp3",
+    "genre": "Music",
+    "city": "Borås",
+    "country": "Sweden",
+    "lat": 57.7210839,
+    "lng": 12.9407407
+  },
+  {
+    "id": "sweden-radio-lidköping-938-mhz",
+    "name": "Radio Lidköping 93.8 MHz",
+    "url": "http://lyssna.fnf.nu:8080/lidkoping.mp3",
+    "genre": "Music",
+    "city": "Borås",
+    "country": "Sweden",
+    "lat": 57.7210839,
+    "lng": 12.9407407
+  },
+  {
+    "id": "sweden-pirate-rock",
+    "name": "Pirate Rock",
+    "url": "https://stream.piraterock.se:8100/webradio",
+    "genre": "Music",
+    "city": "Gothenburg",
+    "country": "Sweden",
+    "lat": 57.7072326,
+    "lng": 11.9670171
+  },
+  {
+    "id": "sweden-the-weekend-radio-show",
+    "name": "The Weekend Radio Show",
+    "url": "http://13538.cloudrad.io:9324/live",
+    "genre": "Music",
+    "city": "Halmstad",
+    "country": "Sweden",
+    "lat": 56.6739826,
+    "lng": 12.8574827
+  },
+  {
+    "id": "sweden-vättervåg-fm-98,5",
+    "name": "Vättervåg FM 98,5",
+    "url": "http://uk5.internet-radio.com:8199/live",
+    "genre": "Music",
+    "city": "Tidaholm",
+    "country": "Sweden",
+    "lat": 58.2,
+    "lng": 13.933333
+  },
+  {
+    "id": "sweden-radio-ramona",
+    "name": "Radio Ramona",
+    "url": "https://stream.protonbroadcast.com:8443/ramona.mp3",
+    "genre": "Music",
+    "city": "Umeå",
+    "country": "Sweden",
+    "lat": 63.8256568,
+    "lng": 20.2630745
+  },
+  {
+    "id": "sweden-puls-fm-1041",
+    "name": "Puls FM 104.1",
+    "url": "https://pulsfm.radioca.st/stream",
+    "genre": "Music",
+    "city": "Borås",
+    "country": "Sweden",
+    "lat": 57.7210839,
+    "lng": 12.9407407
+  },
+  {
+    "id": "sweden-radio-pe20",
+    "name": "Radio pE20",
+    "url": "https://streaming.943.se/radiope20",
+    "genre": "Music",
+    "city": "Gothenburg",
+    "country": "Sweden",
+    "lat": 57.7072326,
+    "lng": 11.9670171
+  },
+  {
+    "id": "sweden-radio-vaasa",
+    "name": "Radio Vaasa",
+    "url": "https://stream.protonbroadcast.com:8443/radiovaasa.mp3",
+    "genre": "Music",
+    "city": "Umeå",
+    "country": "Sweden",
+    "lat": 63.8256568,
+    "lng": 20.2630745
+  },
+  {
+    "id": "sweden-sr-p4-gävleborg",
+    "name": "SR P4 Gävleborg",
+    "url": "https://edge1.sr.se/p4gavl-aac-320",
+    "genre": "Music",
+    "city": "Gävle",
+    "country": "Sweden",
+    "lat": 60.6750132,
+    "lng": 17.1467019
+  },
+  {
+    "id": "sweden-radio-kinnekulle-102,6-mhz",
+    "name": "Radio Kinnekulle 102,6 MHz",
+    "url": "https://radio.fnf.nu/radiokinnekulle.mp3",
+    "genre": "Music",
+    "city": "Borås",
+    "country": "Sweden",
+    "lat": 57.7210839,
+    "lng": 12.9407407
+  },
+  {
+    "id": "sweden-radio-gagnef",
+    "name": "Radio Gagnef",
+    "url": "http://stream.ueteknik.se:8000/gagnef/",
+    "genre": "Music",
+    "city": "Örebro",
+    "country": "Sweden",
+    "lat": 59.2747287,
+    "lng": 15.2151181
+  },
+  {
+    "id": "sweden-radio-humleborg-jazzkanalen",
+    "name": "Radio Humleborg Jazzkanalen",
+    "url": "https://stream3.rcast.net/64547",
+    "genre": "Music",
+    "city": "Halmstad",
+    "country": "Sweden",
+    "lat": 56.6739826,
+    "lng": 12.8574827
+  },
+  {
+    "id": "sweden-sr-p4-halland",
+    "name": "SR P4 Halland",
+    "url": "https://edge1.sr.se/p4hall-aac-320",
+    "genre": "Music",
+    "city": "Halmstad",
+    "country": "Sweden",
+    "lat": 56.6739826,
+    "lng": 12.8574827
+  },
+  {
+    "id": "sweden-radio-nybro-fm-981",
+    "name": "Radio Nybro FM 98.1",
+    "url": "http://deb.patrikmalmgrenrask.se:8020/index.html?sid=1",
+    "genre": "Music",
+    "city": "Linköping",
+    "country": "Sweden",
+    "lat": 58.4098135,
+    "lng": 15.6245252
+  },
+  {
+    "id": "sweden-radio-dei-kemi",
+    "name": "Radio Dei Kemi",
+    "url": "http://isojako.radiodei.fi:8000/tornio",
+    "genre": "Music",
+    "city": "Luleå",
+    "country": "Sweden",
+    "lat": 65.5831187,
+    "lng": 22.1459535
+  },
+  {
+    "id": "sweden-sr-p4-uppland",
+    "name": "SR P4 Uppland",
+    "url": "https://edge2.sr.se/p4uppl-aac-320",
+    "genre": "Music",
+    "city": "Uppsala",
+    "country": "Sweden",
+    "lat": 59.8586126,
+    "lng": 17.6387436
+  },
+  {
+    "id": "sweden-sea-fm-888",
+    "name": "Sea FM 88.8",
+    "url": "https://s3.myradiostream.com/:4976/index.html?sid=1",
+    "genre": "Music",
+    "city": "Luleå",
+    "country": "Sweden",
+    "lat": 65.5831187,
+    "lng": 22.1459535
+  },
+  {
+    "id": "sweden-pop-rock-102,3",
+    "name": "Pop & Rock 102,3",
+    "url": "https://sstream.ueteknik.se/listen/poporock/radio.mp3",
+    "genre": "Music",
+    "city": "Umeå",
+    "country": "Sweden",
+    "lat": 63.8256568,
+    "lng": 20.2630745
+  },
+  {
+    "id": "sweden-jaerviradio",
+    "name": "Jaerviradio",
+    "url": "https://jarviradio.radiotaajuus.fi:9000/jr",
+    "genre": "Music",
+    "city": "Luleå",
+    "country": "Sweden",
+    "lat": 65.5831187,
+    "lng": 22.1459535
+  },
+  {
+    "id": "sweden-radio-pontos-stockholm",
+    "name": "Radio Pontos Stockholm",
+    "url": "http://pontosstockholm.com:8000/live",
+    "genre": "Music",
+    "city": "Järfälla",
+    "country": "Sweden",
+    "lat": 59.4204736,
+    "lng": 17.8285472
+  },
+  {
+    "id": "sweden-sr-p4-jonköping",
+    "name": "SR P4 Jonköping",
+    "url": "https://edge1.sr.se/p4jkpg-aac-320",
+    "genre": "Music",
+    "city": "Jönköping",
+    "country": "Sweden",
+    "lat": 57.7825634,
+    "lng": 14.165719
+  },
+  {
+    "id": "sweden-radio-tidaholm-101,6",
+    "name": "Radio Tidaholm 101,6",
+    "url": "https://streaming.943.se/radiotidaholm",
+    "genre": "Music",
+    "city": "Tidaholm",
+    "country": "Sweden",
+    "lat": 58.2,
+    "lng": 13.933333
+  },
+  {
+    "id": "sweden-sr-p4-norrbotten",
+    "name": "SR P4 Norrbotten",
+    "url": "https://edge2.sr.se/p4nbtn-aac-320",
+    "genre": "Music",
+    "city": "Luleå",
+    "country": "Sweden",
+    "lat": 65.5831187,
+    "lng": 22.1459535
+  },
+  {
+    "id": "sweden-sr-p4-dalarna",
+    "name": "SR P4 Dalarna",
+    "url": "https://edge1.sr.se/p4dala-aac-320",
+    "genre": "Music",
+    "city": "Örebro",
+    "country": "Sweden",
+    "lat": 59.2747287,
+    "lng": 15.2151181
+  },
+  {
+    "id": "sweden-sr-p4-västernorrland",
+    "name": "SR P4 Västernorrland",
+    "url": "https://edge1.sr.se/p4vnrl-aac-320",
+    "genre": "Music",
+    "city": "Sundsvall",
+    "country": "Sweden",
+    "lat": 62.3907552,
+    "lng": 17.3071024
+  },
+  {
+    "id": "sweden-sr-p4-jämtland",
+    "name": "SR P4 Jämtland",
+    "url": "https://edge1.sr.se/p4jmtl-aac-320",
+    "genre": "Music",
+    "city": "Sundsvall",
+    "country": "Sweden",
+    "lat": 62.3907552,
+    "lng": 17.3071024
+  },
+  {
+    "id": "sweden-sr-p4-skaraborg",
+    "name": "SR P4 Skaraborg",
+    "url": "https://edge2.sr.se/p4skbg-aac-320",
+    "genre": "Music",
+    "city": "Linköping",
+    "country": "Sweden",
+    "lat": 58.4098135,
+    "lng": 15.6245252
+  },
+  {
+    "id": "sweden-sr-p4-östergötland",
+    "name": "SR P4 Östergötland",
+    "url": "https://edge2.sr.se/p4ostg-aac-320",
+    "genre": "Music",
+    "city": "Örebro",
+    "country": "Sweden",
+    "lat": 59.2747287,
+    "lng": 15.2151181
+  },
+  {
+    "id": "sweden-trysilradioen-1037",
+    "name": "TrysilRadioen 103.7",
+    "url": "https://lyd.radioene.no/trysil.mp3",
+    "genre": "Music",
+    "city": "Östersund",
+    "country": "Sweden",
+    "lat": 63.1793655,
+    "lng": 14.6357061
+  },
+  {
+    "id": "sweden-radio-linköping-fm-955",
+    "name": "Radio Linköping FM 95.5",
+    "url": "https://stream.linkopingsnarradio.se:8005/radioprogram",
+    "genre": "Music",
+    "city": "Örebro",
+    "country": "Sweden",
+    "lat": 59.2747287,
+    "lng": 15.2151181
+  },
+  {
+    "id": "sweden-sr-p4-örebro",
+    "name": "SR P4 Örebro",
+    "url": "https://edge1.sr.se/p4oreb-aac-320",
+    "genre": "Music",
+    "city": "Örebro",
+    "country": "Sweden",
+    "lat": 59.2747287,
+    "lng": 15.2151181
+  },
+  {
+    "id": "sweden-radio-siljan-fm-941",
+    "name": "Radio Siljan FM 94.1",
+    "url": "https://sstream.ueteknik.se/listen/siljan/radio.mp3",
+    "genre": "Music",
+    "city": "Östersund",
+    "country": "Sweden",
+    "lat": 63.1793655,
+    "lng": 14.6357061
+  }
+]

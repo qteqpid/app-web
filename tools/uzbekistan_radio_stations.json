@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Oriat Dono 102.4FM",
+        "city": "Tashkent",
+        "country": "Uzbekistan",
+        "url": "http://46.8.35.26:8012/dono"
+    },
+    {
+        "name": "Аъло ФМ",
+        "city": "Tashkent",
+        "country": "Uzbekistan",
+        "url": "http://tabassum.uz:9000/alo_low"
+    },
+    {
+        "name": "Navruz FM 88.4",
+        "city": "Hit.FM",
+        "country": "Tashkent, Uzbekistan",
+        "url": "http://navruzfm.uz:9000/navruz_low"
+    },
+    {
+        "name": "Oriat FM 100.5",
+        "city": "Tashkent",
+        "country": "Uzbekistan",
+        "url": "http://194.5.152.248:8000/fm"
+    },
+    {
+        "name": "DFM 105.5",
+        "city": "Tashkent",
+        "country": "Uzbekistan",
+        "url": "https://c16.radioboss.fm:18234/stream"
+    },
+    {
+        "name": "Radio Uzbegim Taronasi FM 101.0",
+        "city": "Tashkent",
+        "country": "Uzbekistan",
+        "url": "https://fm101.uz:9943/fm101_low.aac"
+    },
+    {
+        "name": "IRadio FM 92.0",
+        "city": "Tashkent",
+        "country": "Uzbekistan",
+        "url": "http://212.112.123.200:8000/stream.ogg"
+    },
+    {
+        "name": "AM 1170",
+        "city": "Tashkent",
+        "country": "Uzbekistan",
+        "url": "https://whmsonic.radio.gov.pk:8072/relay/"
+    },
+    {
+        "name": "Hit.FM",
+        "city": "Tashkent",
+        "country": "Uzbekistan",
+        "url": "https://live.hitfm.uz/hitfmuz"
+    },
+    {
+        "name": "Islom.uz",
+        "city": "Radio Maxima 105.4 FM",
+        "country": "Tashkent, Uzbekistan",
+        "url": "https://radio.islom.uz/islomuz"
+    },
+    {
+        "name": "See The Sea FM",
+        "city": "Samarkand",
+        "country": "Uzbekistan",
+        "url": "https://listen5.myradio24.com/seethesea"
+    },
+    {
+        "name": "Pink Unicorn Radio",
+        "city": "Samarkand",
+        "country": "Uzbekistan",
+        "url": "https://listen6.myradio24.com/unicorn"
+    },
+    {
+        "name": "Радио Европа Плюс Ош 103.8",
+        "city": "Tashkent",
+        "country": "Uzbekistan",
+        "url": "https://europaplus.hostingradio.ru:8014/europaplus320.mp3"
+    },
+    {
+        "name": "Quran.uz radio",
+        "city": "Tashkent",
+        "country": "Uzbekistan",
+        "url": "https://radio.islom.uz/quranuz"
+    }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "id": "equatorial-ishara-radio-1007-fm",
+    "name": "Ishara Radio 100.7 FM",
+    "url": "https://a8.asurahosting.com:7030/radio.mp3",
+    "genre": "Music",
+    "city": "Boa Vista RR",
+    "country": "Brazil",
+    "lat": 2.5835241,
+    "lng": -60.6405887
+  },
+  {
+    "id": "equatorial-edu-fm",
+    "name": "Edu FM",
+    "url": "http://n07.radiojar.com/xpgemc39cxhvv?rj-ttl=5&rj-tok=AAABm_mWWyoA38lLMY67FdPWbA",
+    "genre": "Music",
+    "city": "Boa Vista RR",
+    "country": "Brazil",
+    "lat": 2.5835241,
+    "lng": -60.6405887
+  },
+  {
+    "id": "equatorial-rádio-itatiaia",
+    "name": "Rádio Itatiaia",
+    "url": "https://8903.brasilstream.com.br/stream",
+    "genre": "Music",
+    "city": "Boa Vista RR",
+    "country": "Brazil",
+    "lat": 2.5835241,
+    "lng": -60.6405887
+  },
+  {
+    "id": "equatorial-rádio-equatorial-93-fm",
+    "name": "Rádio Equatorial 93 FM",
+    "url": "https://s1.sonic.radio.br/8122/stream",
+    "genre": "Music",
+    "city": "Boa Vista RR",
+    "country": "Brazil",
+    "lat": 2.5835241,
+    "lng": -60.6405887
+  },
+  {
+    "id": "equatorial-antena-1",
+    "name": "Antena 1",
+    "url": "https://antenaone.crossradio.com.br/stream",
+    "genre": "Music",
+    "city": "Boa Vista RR",
+    "country": "Brazil",
+    "lat": 2.5835241,
+    "lng": -60.6405887
+  },
+  {
+    "id": "equatorial-monte-roraima-fm-1079",
+    "name": "Monte Roraima FM 107.9",
+    "url": "https://whd1.webradios.com.br:18556/8556",
+    "genre": "Music",
+    "city": "Boa Vista RR",
+    "country": "Brazil",
+    "lat": 2.5835241,
+    "lng": -60.6405887
+  },
+  {
+    "id": "equatorial-rádio-tropical-94",
+    "name": "Rádio Tropical 94",
+    "url": "https://tropical.jmvstream.com/live",
+    "genre": "Music",
+    "city": "Boa Vista RR",
+    "country": "Brazil",
+    "lat": 2.5835241,
+    "lng": -60.6405887
+  },
+  {
+    "id": "equatorial-rádio-toada",
+    "name": "Rádio Toada",
+    "url": "https://s44.maxcast.com.br:8100/live",
+    "genre": "Music",
+    "city": "Boa Vista RR",
+    "country": "Brazil",
+    "lat": 2.5835241,
+    "lng": -60.6405887
+  },
+  {
+    "id": "equatorial-alpha-fm-1017",
+    "name": "Alpha FM 101.7",
+    "url": "https://27353.live.streamtheworld.com:443/RADIO_ALPHAFMAAC.aac",
+    "genre": "Music",
+    "city": "Boa Vista RR",
+    "country": "Brazil",
+    "lat": 2.5835241,
+    "lng": -60.6405887
+  },
+  {
+    "id": "equatorial-rádio-jb-fm-99,9",
+    "name": "Rádio JB FM 99,9",
+    "url": "https://27343.live.streamtheworld.com:443/JBFMAAC.aac",
+    "genre": "Music",
+    "city": "Boa Vista RR",
+    "country": "Brazil",
+    "lat": 2.5835241,
+    "lng": -60.6405887
+  }
+]

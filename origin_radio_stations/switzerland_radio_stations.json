@@ -1,0 +1,1532 @@
+[
+  {
+    "id": "switzerland-srf-4-news",
+    "name": "SRF 4 News",
+    "url": "http://livestreaming-node-3.srg-ssr.ch/srgssr/srf4news/mp3/128",
+    "genre": "Music",
+    "city": "Zürich",
+    "country": "Switzerland",
+    "lat": 47.3744489,
+    "lng": 8.5410422
+  },
+  {
+    "id": "switzerland-swisscountryradio",
+    "name": "SwissCountryRadio",
+    "url": "https://scr.streaming.deliver.media/scr_aac_128",
+    "genre": "Music",
+    "city": "Zürich",
+    "country": "Switzerland",
+    "lat": 47.3744489,
+    "lng": 8.5410422
+  },
+  {
+    "id": "switzerland-frequence-banane",
+    "name": "Fréquence Banane",
+    "url": "https://player.frequencebanane.ch/fb_192",
+    "genre": "Music",
+    "city": "Lausanne",
+    "country": "Switzerland",
+    "lat": 46.5218269,
+    "lng": 6.6327025
+  },
+  {
+    "id": "switzerland-r102",
+    "name": "R102",
+    "url": "https://nr11.newradio.it:19334/stream",
+    "genre": "Music",
+    "city": "Zürich",
+    "country": "Switzerland",
+    "lat": 47.3744489,
+    "lng": 8.5410422
+  },
+  {
+    "id": "switzerland-couleur3",
+    "name": "Couleur3",
+    "url": "http://livestreaming-node-4.srg-ssr.ch/srgssr/couleur3/mp3/128",
+    "genre": "Music",
+    "city": "Zürich",
+    "country": "Switzerland",
+    "lat": 47.3744489,
+    "lng": 8.5410422
+  },
+  {
+    "id": "switzerland-srf-1",
+    "name": "SRF 1",
+    "url": "http://livestreaming-node-1.srg-ssr.ch/srgssr/regi_bs_bl/mp3/128",
+    "genre": "Music",
+    "city": "Zürich",
+    "country": "Switzerland",
+    "lat": 47.3744489,
+    "lng": 8.5410422
+  },
+  {
+    "id": "switzerland-rts-la-premiere",
+    "name": "RTS La Première",
+    "url": "http://livestreaming-node-2.srg-ssr.ch/srgssr/la-1ere/mp3/128",
+    "genre": "Music",
+    "city": "Zürich",
+    "country": "Switzerland",
+    "lat": 47.3744489,
+    "lng": 8.5410422
+  },
+  {
+    "id": "switzerland-srf-3",
+    "name": "SRF 3",
+    "url": "http://livestreaming-node-1.srg-ssr.ch/srgssr/srf3/mp3/128",
+    "genre": "Music",
+    "city": "Zürich",
+    "country": "Switzerland",
+    "lat": 47.3744489,
+    "lng": 8.5410422
+  },
+  {
+    "id": "switzerland-80s-forever-radio",
+    "name": "80s Forever Radio",
+    "url": "https://azuracast.ssl-stream.com/radio/8050/256.mp3",
+    "genre": "Music",
+    "city": "Zürich",
+    "country": "Switzerland",
+    "lat": 47.3744489,
+    "lng": 8.5410422
+  },
+  {
+    "id": "switzerland-radio-lora",
+    "name": "Radio LoRa",
+    "url": "https://lora.ice.infomaniak.ch/lora.mp3",
+    "genre": "Music",
+    "city": "Zürich",
+    "country": "Switzerland",
+    "lat": 47.3744489,
+    "lng": 8.5410422
+  },
+  {
+    "id": "switzerland-rs-dance-station",
+    "name": "RS dance station",
+    "url": "https://n03.radiojar.com/exqtsg93krruv?rj-ttl=5&rj-tok=AAABm_nj0iAAbpL3HR0Lg8CBWg",
+    "genre": "Music",
+    "city": "Zürich",
+    "country": "Switzerland",
+    "lat": 47.3744489,
+    "lng": 8.5410422
+  },
+  {
+    "id": "switzerland-goat-radio",
+    "name": "Goat Radio",
+    "url": "https://20min.dmd2streaming.com/20minuten_radio_128.mp3",
+    "genre": "Music",
+    "city": "Zürich",
+    "country": "Switzerland",
+    "lat": 47.3744489,
+    "lng": 8.5410422
+  },
+  {
+    "id": "switzerland-vintage-radio",
+    "name": "Vintage Radio",
+    "url": "https://vintageradio.ice.infomaniak.ch/vintageradio-high.mp3",
+    "genre": "Music",
+    "city": "Zürich",
+    "country": "Switzerland",
+    "lat": 47.3744489,
+    "lng": 8.5410422
+  },
+  {
+    "id": "switzerland-walts-welt",
+    "name": "Walts Welt",
+    "url": "https://waltswelt.out.airtime.pro/waltswelt_a",
+    "genre": "Music",
+    "city": "Zürich",
+    "country": "Switzerland",
+    "lat": 47.3744489,
+    "lng": 8.5410422
+  },
+  {
+    "id": "switzerland-loose-antenna",
+    "name": "Loose Antenna",
+    "url": "https://stream.looseantenna.fm:8000/default.mp3",
+    "genre": "Music",
+    "city": "Lausanne",
+    "country": "Switzerland",
+    "lat": 46.5218269,
+    "lng": 6.6327025
+  },
+  {
+    "id": "switzerland-dj-radio",
+    "name": "DJ Radio",
+    "url": "https://my105.stream16.radiohost.de/my105-todaysbestmusic_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzY5NDIzNzE2JmQ9NTkwOGQxY2QxNTYwOGNhYjcyN2I",
+    "genre": "Music",
+    "city": "Zürich",
+    "country": "Switzerland",
+    "lat": 47.3744489,
+    "lng": 8.5410422
+  },
+  {
+    "id": "switzerland-radio-24",
+    "name": "Radio 24",
+    "url": "https://chmedia.streamabc.net/79-r24-mp3-192-6659699?sABC=69774239%230%2375p922pr1rq3nr63r4683s5131rr6q39%23enqvbtneqra&aw_0_1st.playerid=radiogarden&amsparams=playerid:radiogarden;skey:1769423417",
+    "genre": "Music",
+    "city": "Zürich",
+    "country": "Switzerland",
+    "lat": 47.3744489,
+    "lng": 8.5410422
+  },
+  {
+    "id": "switzerland-virgin-radio-switzerland",
+    "name": "Virgin Radio Switzerland",
+    "url": "https://chmedia.streamabc.net/79-virginrockch-mp3-192-2872456?sABC=69774239%230%2375p922pr1rq3nr63r4683s5131rr6q39%23enqvbtneqra&aw_0_1st.playerid=radiogarden&amsparams=playerid:radiogarden;skey:1769423417",
+    "genre": "Music",
+    "city": "Zürich",
+    "country": "Switzerland",
+    "lat": 47.3744489,
+    "lng": 8.5410422
+  },
+  {
+    "id": "switzerland-radio-maria-switzerland-fra",
+    "name": "Radio Maria Switzerland FRA",
+    "url": "https://dreamsiteradiocp5.com/proxy/rmsuisse2?mp=/stream",
+    "genre": "Music",
+    "city": "Lausanne",
+    "country": "Switzerland",
+    "lat": 46.5218269,
+    "lng": 6.6327025
+  },
+  {
+    "id": "switzerland-option-musique",
+    "name": "Option Musique",
+    "url": "http://livestreaming-node-2.srg-ssr.ch/srgssr/option-musique/mp3/128",
+    "genre": "Music",
+    "city": "Lausanne",
+    "country": "Switzerland",
+    "lat": 46.5218269,
+    "lng": 6.6327025
+  },
+  {
+    "id": "switzerland-energy-zürich",
+    "name": "Energy Zürich",
+    "url": "https://energyzuerich.ice.infomaniak.ch/energyzuerich-high.mp3",
+    "genre": "Music",
+    "city": "Zürich",
+    "country": "Switzerland",
+    "lat": 47.3744489,
+    "lng": 8.5410422
+  },
+  {
+    "id": "switzerland-elise-radio-morzine-883-fm",
+    "name": "Elise Radio Morzine 88.3 FM",
+    "url": "https://elise.wanastream.com:25000/stream",
+    "genre": "Music",
+    "city": "Lausanne",
+    "country": "Switzerland",
+    "lat": 46.5218269,
+    "lng": 6.6327025
+  },
+  {
+    "id": "switzerland-espace-2-fm-1003",
+    "name": "Espace 2 FM 100.3",
+    "url": "http://livestreaming-node-3.srg-ssr.ch/srgssr/espace-2/mp3/128",
+    "genre": "Music",
+    "city": "Lausanne",
+    "country": "Switzerland",
+    "lat": 46.5218269,
+    "lng": 6.6327025
+  },
+  {
+    "id": "switzerland-radio-lfm",
+    "name": "Radio LFM",
+    "url": "https://lausannefm.ice.infomaniak.ch/lausannefm-high.mp3",
+    "genre": "Music",
+    "city": "Lausanne",
+    "country": "Switzerland",
+    "lat": 46.5218269,
+    "lng": 6.6327025
+  },
+  {
+    "id": "switzerland-country-radio-switzerland",
+    "name": "Country Radio Switzerland",
+    "url": "https://countryradioswitzerland.ice.infomaniak.ch/crs-128.mp3",
+    "genre": "Music",
+    "city": "Zürich",
+    "country": "Switzerland",
+    "lat": 47.3744489,
+    "lng": 8.5410422
+  },
+  {
+    "id": "switzerland-rouge-fm",
+    "name": "Rouge FM",
+    "url": "https://rougefm.ice.infomaniak.ch/rougefm-high.mp3",
+    "genre": "Music",
+    "city": "Lausanne",
+    "country": "Switzerland",
+    "lat": 46.5218269,
+    "lng": 6.6327025
+  },
+  {
+    "id": "switzerland-redline-radio",
+    "name": "RedLine Radio",
+    "url": "https://listen.radioking.com/radio/81865/stream/161119",
+    "genre": "Music",
+    "city": "Lausanne",
+    "country": "Switzerland",
+    "lat": 46.5218269,
+    "lng": 6.6327025
+  },
+  {
+    "id": "switzerland-radio-impact",
+    "name": "Radio Impact",
+    "url": "https://listen.radioking.com/radio/689714/stream/765098",
+    "genre": "Music",
+    "city": "Lausanne",
+    "country": "Switzerland",
+    "lat": 46.5218269,
+    "lng": 6.6327025
+  },
+  {
+    "id": "switzerland-spoon-radio",
+    "name": "Spoon Radio",
+    "url": "https://spoonradio.ice.infomaniak.ch/spoonradio-high?.mp3",
+    "genre": "Music",
+    "city": "Lausanne",
+    "country": "Switzerland",
+    "lat": 46.5218269,
+    "lng": 6.6327025
+  },
+  {
+    "id": "switzerland-radio-15",
+    "name": "Radio 15",
+    "url": "https://radio15.ice.infomaniak.ch/radio15-192kbps.mp3",
+    "genre": "Music",
+    "city": "Zürich",
+    "country": "Switzerland",
+    "lat": 47.3744489,
+    "lng": 8.5410422
+  },
+  {
+    "id": "switzerland-radio-festnoz",
+    "name": "Radio Festnoz",
+    "url": "https://srv.webradiomanager.fr:1525/stream",
+    "genre": "Music",
+    "city": "Lausanne",
+    "country": "Switzerland",
+    "lat": 46.5218269,
+    "lng": 6.6327025
+  },
+  {
+    "id": "switzerland-lrdr",
+    "name": "LRDR",
+    "url": "https://listen.radioking.com/radio/12444/stream/24233",
+    "genre": "Music",
+    "city": "Lausanne",
+    "country": "Switzerland",
+    "lat": 46.5218269,
+    "lng": 6.6327025
+  },
+  {
+    "id": "switzerland-radio-eviva",
+    "name": "Radio Eviva",
+    "url": "https://chmedia.streamabc.net/79-reviva-mp3-192-3783812?sABC=6977423q%230%2375p922pr1rq3nr63r4683s5131rr6q39%23enqvbtneqra&aw_0_1st.playerid=radiogarden&amsparams=playerid:radiogarden;skey:1769423421",
+    "genre": "Music",
+    "city": "Zug",
+    "country": "Switzerland",
+    "lat": 47.1486137,
+    "lng": 8.5539378
+  },
+  {
+    "id": "switzerland-1fm--classic-country",
+    "name": "1.FM - Classic Country",
+    "url": "https://strm112.1.fm/ccountry_mobile_mp3",
+    "genre": "Music",
+    "city": "Zug",
+    "country": "Switzerland",
+    "lat": 47.1486137,
+    "lng": 8.5539378
+  },
+  {
+    "id": "switzerland-global-fm",
+    "name": "Global FM",
+    "url": "https://globalsportvaud.ice.infomaniak.ch/globalsportvaud-128.mp3",
+    "genre": "Music",
+    "city": "Lausanne",
+    "country": "Switzerland",
+    "lat": 46.5218269,
+    "lng": 6.6327025
+  },
+  {
+    "id": "switzerland-thaalam",
+    "name": "Thaalam",
+    "url": "https://thaalam.out.airtime.pro/thaalam_b",
+    "genre": "Music",
+    "city": "Zug",
+    "country": "Switzerland",
+    "lat": 47.1486137,
+    "lng": 8.5539378
+  },
+  {
+    "id": "switzerland-radio-sunshine",
+    "name": "Radio Sunshine",
+    "url": "https://chmedia.streamabc.net/79-rsunshine-mp3-192-4746851?sABC=6977423s%230%23nqoro4np7ns3rrpo06s1o0rn3s261pss%23enqvbtneqra&aw_0_1st.playerid=radiogarden&amsparams=playerid:radiogarden;skey:1769423423",
+    "genre": "Music",
+    "city": "Zug",
+    "country": "Switzerland",
+    "lat": 47.1486137,
+    "lng": 8.5539378
+  },
+  {
+    "id": "switzerland-1fm--absolute-trance",
+    "name": "1.FM - Absolute Trance",
+    "url": "https://strm112.1.fm/trance_mobile_mp3",
+    "genre": "Music",
+    "city": "Zug",
+    "country": "Switzerland",
+    "lat": 47.1486137,
+    "lng": 8.5539378
+  },
+  {
+    "id": "switzerland-1fm--disco-ball-70s-80s-radio",
+    "name": "1.FM - Disco Ball 70's-80's Radio",
+    "url": "https://strm112.1.fm/disco_mobile_mp3",
+    "genre": "Music",
+    "city": "Zug",
+    "country": "Switzerland",
+    "lat": 47.1486137,
+    "lng": 8.5539378
+  },
+  {
+    "id": "switzerland-1fm--radio-gaia",
+    "name": "1.FM - Radio Gaia",
+    "url": "https://strm112.1.fm/radiogaia_mobile_mp3",
+    "genre": "Music",
+    "city": "Zug",
+    "country": "Switzerland",
+    "lat": 47.1486137,
+    "lng": 8.5539378
+  },
+  {
+    "id": "switzerland-1fm--gorilla-fm",
+    "name": "1.FM - Gorilla FM",
+    "url": "https://strm112.1.fm/gorillafm_mobile_mp3",
+    "genre": "Music",
+    "city": "Zug",
+    "country": "Switzerland",
+    "lat": 47.1486137,
+    "lng": 8.5539378
+  },
+  {
+    "id": "switzerland-gvfm-100%-chorales",
+    "name": "GVFM 100% Chorales",
+    "url": "https://100chorales.ice.infomaniak.ch/100chorales-128.aac",
+    "genre": "Music",
+    "city": "Lausanne",
+    "country": "Switzerland",
+    "lat": 46.5218269,
+    "lng": 6.6327025
+  },
+  {
+    "id": "switzerland-radio-swissitalia",
+    "name": "Radio Swissitalia",
+    "url": "https://onair7.xdevel.com/proxy/xautocloud_ngz5_582?mp=/;stream/;",
+    "genre": "Music",
+    "city": "Geneva",
+    "country": "Switzerland",
+    "lat": 46.2017559,
+    "lng": 6.1466014
+  },
+  {
+    "id": "switzerland-christmasradiofm",
+    "name": "ChristmasRadio.fm",
+    "url": "https://xmasfm1.dmd2streaming.com/christmasradiofm-128.mp3",
+    "genre": "Music",
+    "city": "Geneva",
+    "country": "Switzerland",
+    "lat": 46.2017559,
+    "lng": 6.1466014
+  },
+  {
+    "id": "switzerland-1fm--amsterdam-trance-radio",
+    "name": "1.FM - Amsterdam Trance Radio",
+    "url": "https://strm112.1.fm/atr_mobile_mp3",
+    "genre": "Music",
+    "city": "Zug",
+    "country": "Switzerland",
+    "lat": 47.1486137,
+    "lng": 8.5539378
+  },
+  {
+    "id": "switzerland-1fm--deep-house",
+    "name": "1.FM - Deep House",
+    "url": "https://strm112.1.fm/deephouse_mobile_mp3",
+    "genre": "Music",
+    "city": "Zug",
+    "country": "Switzerland",
+    "lat": 47.1486137,
+    "lng": 8.5539378
+  },
+  {
+    "id": "switzerland-radio-vaanam-dab+",
+    "name": "Radio Vaanam DAB+",
+    "url": "https://sathees.radioca.st/index.html?sid=1",
+    "genre": "Music",
+    "city": "Geneva",
+    "country": "Switzerland",
+    "lat": 46.2017559,
+    "lng": 6.1466014
+  },
+  {
+    "id": "switzerland-1fm--classic-rock-replay-radio",
+    "name": "1.FM - Classic Rock Replay Radio",
+    "url": "https://strm112.1.fm/crock_mobile_mp3",
+    "genre": "Music",
+    "city": "Zug",
+    "country": "Switzerland",
+    "lat": 47.1486137,
+    "lng": 8.5539378
+  },
+  {
+    "id": "switzerland-radio-deep",
+    "name": "Radio Deep",
+    "url": "https://s2.radio.co/s098f4886e/listen",
+    "genre": "Music",
+    "city": "Zug",
+    "country": "Switzerland",
+    "lat": 47.1486137,
+    "lng": 8.5539378
+  },
+  {
+    "id": "switzerland-global-fm",
+    "name": "Global FM",
+    "url": "https://globalfm.ice.infomaniak.ch/globalfm-high.mp3",
+    "genre": "Music",
+    "city": "Lausanne",
+    "country": "Switzerland",
+    "lat": 46.5218269,
+    "lng": 6.6327025
+  },
+  {
+    "id": "switzerland-radio-ice-age",
+    "name": "Radio Ice Age",
+    "url": "https://radioairplay.fr:1260/stream",
+    "genre": "Music",
+    "city": "Geneva",
+    "country": "Switzerland",
+    "lat": 46.2017559,
+    "lng": 6.1466014
+  },
+  {
+    "id": "switzerland-jam-on-radio",
+    "name": "Jam On Radio",
+    "url": "https://jam-on.ice.infomaniak.ch/jam-on-128.mp3",
+    "genre": "Music",
+    "city": "Zug",
+    "country": "Switzerland",
+    "lat": 47.1486137,
+    "lng": 8.5539378
+  },
+  {
+    "id": "switzerland-radio-zones-fm-938",
+    "name": "Radio Zones FM 93.8",
+    "url": "http://radiozones.dyndns.org:8000/radiozones",
+    "genre": "Music",
+    "city": "Geneva",
+    "country": "Switzerland",
+    "lat": 46.2017559,
+    "lng": 6.1466014
+  },
+  {
+    "id": "switzerland-1fm--ottos-baroque-music",
+    "name": "1.FM - Otto's Baroque Music",
+    "url": "https://strm112.1.fm/baroque_mobile_mp3",
+    "genre": "Music",
+    "city": "Zug",
+    "country": "Switzerland",
+    "lat": 47.1486137,
+    "lng": 8.5539378
+  },
+  {
+    "id": "switzerland-radio-semnoz-fm-915",
+    "name": "Radio Semnoz FM 91.5",
+    "url": "https://listen.radioking.com/radio/76072/stream/114109",
+    "genre": "Music",
+    "city": "Geneva",
+    "country": "Switzerland",
+    "lat": 46.2017559,
+    "lng": 6.1466014
+  },
+  {
+    "id": "switzerland-maxxima",
+    "name": "Maxxima",
+    "url": "https://maxxima.mine.nu/maxxima.mp3",
+    "genre": "Music",
+    "city": "Geneva",
+    "country": "Switzerland",
+    "lat": 46.2017559,
+    "lng": 6.1466014
+  },
+  {
+    "id": "switzerland-radio-fmr-892",
+    "name": "Radio FMR 89.2",
+    "url": "http://www2.radiofmr.fr:9000/fmr-192k.mp3",
+    "genre": "Music",
+    "city": "Geneva",
+    "country": "Switzerland",
+    "lat": 46.2017559,
+    "lng": 6.1466014
+  },
+  {
+    "id": "switzerland-radio-one-fm-107",
+    "name": "Radio ONE FM 107",
+    "url": "https://onefm.ice.infomaniak.ch/onefm-high.mp3",
+    "genre": "Music",
+    "city": "Geneva",
+    "country": "Switzerland",
+    "lat": 46.2017559,
+    "lng": 6.1466014
+  },
+  {
+    "id": "switzerland-rfb-radio-frequence-bleue",
+    "name": "RFB Radio Frequence Bleue",
+    "url": "https://listen.radioking.com/radio/413467/stream/467686",
+    "genre": "Music",
+    "city": "Geneva",
+    "country": "Switzerland",
+    "lat": 46.2017559,
+    "lng": 6.1466014
+  },
+  {
+    "id": "switzerland-pinoy-ofwfmorg",
+    "name": "Pinoy-OFWFM.org",
+    "url": "https://n06.radiojar.com/4dy80ayp5gruv?rj-ttl=5&rj-tok=AAABm_nj_JIAYBK-TsGi5cOY-A",
+    "genre": "Music",
+    "city": "Geneva",
+    "country": "Switzerland",
+    "lat": 46.2017559,
+    "lng": 6.1466014
+  },
+  {
+    "id": "switzerland-ip-music-slow-radio",
+    "name": "IP Music Slow Radio",
+    "url": "https://live7.avf.ch/ipmusicslowaacp96",
+    "genre": "Music",
+    "city": "Bern",
+    "country": "Switzerland",
+    "lat": 46.9484742,
+    "lng": 7.4521749
+  },
+  {
+    "id": "switzerland-bible-radio--nt-psalmen",
+    "name": "Bible Radio - NT & Psalmen",
+    "url": "http://rs1.stream24.org:9160/stream",
+    "genre": "Music",
+    "city": "Bern",
+    "country": "Switzerland",
+    "lat": 46.9484742,
+    "lng": 7.4521749
+  },
+  {
+    "id": "switzerland-radio-canal-3--d",
+    "name": "Radio Canal 3 - D",
+    "url": "https://radio.upstream-cloud.ch/canal3allemand-192.mp3",
+    "genre": "Music",
+    "city": "Bern",
+    "country": "Switzerland",
+    "lat": 46.9484742,
+    "lng": 7.4521749
+  },
+  {
+    "id": "switzerland-radio-bollwerk",
+    "name": "Radio Bollwerk",
+    "url": "https://radio.radio-bollwerk.ch/listen/radio_bollwerk/radio.mp3",
+    "genre": "Music",
+    "city": "Bern",
+    "country": "Switzerland",
+    "lat": 46.9484742,
+    "lng": 7.4521749
+  },
+  {
+    "id": "switzerland-radio-suisse-classique",
+    "name": "Radio Suisse Classique",
+    "url": "http://livestreaming-node-1.srg-ssr.ch/srgssr/rsc_fr/mp3/128",
+    "genre": "Music",
+    "city": "Bern",
+    "country": "Switzerland",
+    "lat": 46.9484742,
+    "lng": 7.4521749
+  },
+  {
+    "id": "switzerland-zam-radio",
+    "name": "Zam Radio",
+    "url": "http://zam.zamradio.com:8022/index.html?sid=1",
+    "genre": "Music",
+    "city": "Bern",
+    "country": "Switzerland",
+    "lat": 46.9484742,
+    "lng": 7.4521749
+  },
+  {
+    "id": "switzerland-klassik-radio-schweiz",
+    "name": "Klassik Radio Schweiz",
+    "url": "https://klassikr.streamabc.net/klr-krschweiz-mp3-192-8951205?aggregator=radiogarden&listenerid=550ff14e05ff96a021217dfbbf80cebb",
+    "genre": "Music",
+    "city": "Bern",
+    "country": "Switzerland",
+    "lat": 46.9484742,
+    "lng": 7.4521749
+  },
+  {
+    "id": "switzerland-radiopolisxyz",
+    "name": "RadioPolis.xyz",
+    "url": "http://rs01.swissnwx.ch:20080/stream",
+    "genre": "Music",
+    "city": "Basel",
+    "country": "Switzerland",
+    "lat": 47.5581077,
+    "lng": 7.5878261
+  },
+  {
+    "id": "switzerland-radio-tell",
+    "name": "Radio Tell",
+    "url": "https://radiotell.dmd2streaming.com/radiotell.mp3",
+    "genre": "Music",
+    "city": "Bern",
+    "country": "Switzerland",
+    "lat": 46.9484742,
+    "lng": 7.4521749
+  },
+  {
+    "id": "switzerland-radio-swiss-classic-fm-1069",
+    "name": "Radio Swiss Classic FM 106.9",
+    "url": "http://livestreaming-node-3.srg-ssr.ch/srgssr/rsc_de/mp3/128",
+    "genre": "Music",
+    "city": "Basel",
+    "country": "Switzerland",
+    "lat": 47.5581077,
+    "lng": 7.5878261
+  },
+  {
+    "id": "switzerland-radio-swiss-pop",
+    "name": "Radio Swiss Pop",
+    "url": "http://livestreaming-node-3.srg-ssr.ch/srgssr/rsp/mp3/128",
+    "genre": "Music",
+    "city": "Basel",
+    "country": "Switzerland",
+    "lat": 47.5581077,
+    "lng": 7.5878261
+  },
+  {
+    "id": "switzerland-traxx-fm-italia",
+    "name": "Traxx FM Italia",
+    "url": "https://traxx021.ice.infomaniak.ch/traxx021-1.mp3?.mp3",
+    "genre": "Music",
+    "city": "Geneva",
+    "country": "Switzerland",
+    "lat": 46.2017559,
+    "lng": 6.1466014
+  },
+  {
+    "id": "switzerland-rockin-chair",
+    "name": "Rockin' Chair",
+    "url": "https://oliveraie68.radioca.st/stream",
+    "genre": "Music",
+    "city": "Basel",
+    "country": "Switzerland",
+    "lat": 47.5581077,
+    "lng": 7.5878261
+  },
+  {
+    "id": "switzerland-radio-basilisk",
+    "name": "Radio Basilisk",
+    "url": "https://radiobasilisk-64.ice.infomaniak.ch/radiobasilisk-64-128-2.mp3",
+    "genre": "Music",
+    "city": "Basel",
+    "country": "Switzerland",
+    "lat": 47.5581077,
+    "lng": 7.5878261
+  },
+  {
+    "id": "switzerland-energy-basel",
+    "name": "Energy Basel",
+    "url": "https://energybasel.ice.infomaniak.ch/energybasel-high.mp3",
+    "genre": "Music",
+    "city": "Basel",
+    "country": "Switzerland",
+    "lat": 47.5581077,
+    "lng": 7.5878261
+  },
+  {
+    "id": "switzerland-melody-suisse",
+    "name": "Melody Suisse",
+    "url": "https://n13.rcs.revma.com/5a05fstup42vv?rj-ttl=5&rj-tok=AAABm_nkB1oAwLkvhwXT9UWtlg",
+    "genre": "Music",
+    "city": "Geneva",
+    "country": "Switzerland",
+    "lat": 46.2017559,
+    "lng": 6.1466014
+  },
+  {
+    "id": "switzerland-radio-vostok-am-215",
+    "name": "Radio Vostok AM 215",
+    "url": "https://radiovostok.ice.infomaniak.ch/radiovostok.aac",
+    "genre": "Music",
+    "city": "Geneva",
+    "country": "Switzerland",
+    "lat": 46.2017559,
+    "lng": 6.1466014
+  },
+  {
+    "id": "switzerland-radio-quetsch",
+    "name": "Radio Quetsch",
+    "url": "https://stream.quets.ch/live",
+    "genre": "Music",
+    "city": "Basel",
+    "country": "Switzerland",
+    "lat": 47.5581077,
+    "lng": 7.5878261
+  },
+  {
+    "id": "switzerland-sunradio",
+    "name": "Sunradio",
+    "url": "http://87.237.169.24:8000/live",
+    "genre": "Music",
+    "city": "Sion",
+    "country": "Switzerland",
+    "lat": 46.2311749,
+    "lng": 7.3588795
+  },
+  {
+    "id": "switzerland-happy-radio",
+    "name": "Happy Radio",
+    "url": "https://streaming.broadcastradio.com:11345/gtradio",
+    "genre": "Music",
+    "city": "Basel",
+    "country": "Switzerland",
+    "lat": 47.5581077,
+    "lng": 7.5878261
+  },
+  {
+    "id": "switzerland-rfj",
+    "name": "RFJ",
+    "url": "https://rfj.ice.infomaniak.ch/rfj-high.mp3?.mp3",
+    "genre": "Music",
+    "city": "Basel",
+    "country": "Switzerland",
+    "lat": 47.5581077,
+    "lng": 7.5878261
+  },
+  {
+    "id": "switzerland-radio-club",
+    "name": "Radio Club",
+    "url": "https://streaming.cst98.com/club.php",
+    "genre": "Music",
+    "city": "Sion",
+    "country": "Switzerland",
+    "lat": 46.2311749,
+    "lng": 7.3588795
+  },
+  {
+    "id": "switzerland-fm1",
+    "name": "FM1",
+    "url": "https://chmedia.streamabc.net/79-fm1-mp3-192-7523806",
+    "genre": "Music",
+    "city": "Saint Gallen",
+    "country": "Switzerland",
+    "lat": 47.425618,
+    "lng": 9.3762397
+  },
+  {
+    "id": "switzerland-vibration-108-fm",
+    "name": "Vibration 108 FM",
+    "url": "https://vibration108-high.ice.infomaniak.ch/vibration108-high.mp3",
+    "genre": "Music",
+    "city": "Sion",
+    "country": "Switzerland",
+    "lat": 46.2311749,
+    "lng": 7.3588795
+  },
+  {
+    "id": "switzerland-rhonefm",
+    "name": "RhoneFM",
+    "url": "https://rhonefm.ice.infomaniak.ch/rhonefm-high.mp3",
+    "genre": "Music",
+    "city": "Sion",
+    "country": "Switzerland",
+    "lat": 46.2311749,
+    "lng": 7.3588795
+  },
+  {
+    "id": "switzerland-la-radio-du-bord-de-leau",
+    "name": "La Radio du Bord de l'Eau",
+    "url": "https://listen.radioking.com/radio/181657/stream/223426",
+    "genre": "Music",
+    "city": "Sion",
+    "country": "Switzerland",
+    "lat": 46.2311749,
+    "lng": 7.3588795
+  },
+  {
+    "id": "switzerland-vertical-radio",
+    "name": "Vertical Radio",
+    "url": "https://verticalradio.ice.infomaniak.ch/verticalradio-128.mp3",
+    "genre": "Music",
+    "city": "Sion",
+    "country": "Switzerland",
+    "lat": 46.2311749,
+    "lng": 7.3588795
+  },
+  {
+    "id": "switzerland-phare-fm-ebene",
+    "name": "Phare FM Ébène",
+    "url": "https://str0.creacast.com/pharefm_ebene",
+    "genre": "Music",
+    "city": "Basel",
+    "country": "Switzerland",
+    "lat": 47.5581077,
+    "lng": 7.5878261
+  },
+  {
+    "id": "switzerland-viva-fm",
+    "name": "Viva FM",
+    "url": "https://vivafm.ice.infomaniak.ch/vivafm-96.mp3",
+    "genre": "Music",
+    "city": "Bern",
+    "country": "Switzerland",
+    "lat": 46.9484742,
+    "lng": 7.4521749
+  },
+  {
+    "id": "switzerland-radio-srf-1-ostschweiz",
+    "name": "Radio SRF 1 Ostschweiz",
+    "url": "http://livestreaming-node-3.srg-ssr.ch/srgssr/regi_ost/mp3/128",
+    "genre": "Music",
+    "city": "Saint Gallen",
+    "country": "Switzerland",
+    "lat": 47.425618,
+    "lng": 9.3762397
+  },
+  {
+    "id": "switzerland-radio-proton-1043-fm",
+    "name": "Radio Proton 104.3 FM",
+    "url": "http://radioproton.at:8000/protonquality.ogg",
+    "genre": "Music",
+    "city": "Saint Gallen",
+    "country": "Switzerland",
+    "lat": 47.425618,
+    "lng": 9.3762397
+  },
+  {
+    "id": "switzerland-radio-melody",
+    "name": "Radio Melody",
+    "url": "https://chmedia.streamabc.net/79-rm-mp3-192-7754268?sABC=69774249%230%23nqoro4np7ns3rrpo06s1o0rn3s261pss%23enqvbtneqra&aw_0_1st.playerid=radiogarden&amsparams=playerid:radiogarden;skey:1769423433",
+    "genre": "Music",
+    "city": "Saint Gallen",
+    "country": "Switzerland",
+    "lat": 47.425618,
+    "lng": 9.3762397
+  },
+  {
+    "id": "switzerland-radio-krimi",
+    "name": "Radio Krimi",
+    "url": "https://radio13.pro-fhi.net/live/Radio%20Krimi",
+    "genre": "Music",
+    "city": "Sion",
+    "country": "Switzerland",
+    "lat": 46.2311749,
+    "lng": 7.3588795
+  },
+  {
+    "id": "switzerland-radio-sense",
+    "name": "Radio Sense",
+    "url": "https://radio-sense.ice.infomaniak.ch/radio-sense-128.mp3",
+    "genre": "Music",
+    "city": "Bern",
+    "country": "Switzerland",
+    "lat": 46.9484742,
+    "lng": 7.4521749
+  },
+  {
+    "id": "switzerland-radio-chablais",
+    "name": "Radio Chablais",
+    "url": "https://radiochablais.ice.infomaniak.ch/radiochablais-high.aac",
+    "genre": "Music",
+    "city": "Sion",
+    "country": "Switzerland",
+    "lat": 46.2311749,
+    "lng": 7.3588795
+  },
+  {
+    "id": "switzerland-dj-buzz-radio",
+    "name": "DJ Buzz Radio",
+    "url": "https://stream.initialradio.fr:8443/djbuzz-192k.mp3",
+    "genre": "Music",
+    "city": "Sion",
+    "country": "Switzerland",
+    "lat": 46.2311749,
+    "lng": 7.3588795
+  },
+  {
+    "id": "switzerland-toxicfm",
+    "name": "toxic.fm",
+    "url": "https://toxicfm.ice.infomaniak.ch/toxicfm-128",
+    "genre": "Music",
+    "city": "Saint Gallen",
+    "country": "Switzerland",
+    "lat": 47.425618,
+    "lng": 9.3762397
+  },
+  {
+    "id": "switzerland-radio-3fach",
+    "name": "Radio 3FACH",
+    "url": "http://stream01.3fach.ch:8001/live",
+    "genre": "Music",
+    "city": "Lucerne",
+    "country": "Switzerland",
+    "lat": 47.0505452,
+    "lng": 8.3054682
+  },
+  {
+    "id": "switzerland-jazznet247-radio-europe",
+    "name": "JazzNet247 Radio Europe",
+    "url": "https://das-edge16-live365-dal02.cdnstream.com/a42831",
+    "genre": "Music",
+    "city": "Saint Gallen",
+    "country": "Switzerland",
+    "lat": 47.425618,
+    "lng": 9.3762397
+  },
+  {
+    "id": "switzerland-antenne-vorarlberg-2000er",
+    "name": "Antenne Vorarlberg 2000er",
+    "url": "https://edge09.radio.antennevorarlberg.at/av-2000er",
+    "genre": "Music",
+    "city": "Saint Gallen",
+    "country": "Switzerland",
+    "lat": 47.425618,
+    "lng": 9.3762397
+  },
+  {
+    "id": "switzerland-radio-pilatus",
+    "name": "Radio Pilatus",
+    "url": "https://chmedia.streamabc.net/79-pilatus-mp3-128-2642381?sABC=6977424o%230%2375p922pr1rq3nr63r4683s5131rr6q39%23enqvbtneqra&aw_0_1st.playerid=radiogarden&amsparams=playerid:radiogarden;skey:1769423435",
+    "genre": "Music",
+    "city": "Lucerne",
+    "country": "Switzerland",
+    "lat": 47.0505452,
+    "lng": 8.3054682
+  },
+  {
+    "id": "switzerland-radio-srf-1-zentralschweiz",
+    "name": "Radio SRF 1 Zentralschweiz",
+    "url": "http://livestreaming-node-3.srg-ssr.ch/srgssr/regi_zentr/mp3/128",
+    "genre": "Music",
+    "city": "Lucerne",
+    "country": "Switzerland",
+    "lat": 47.0505452,
+    "lng": 8.3054682
+  },
+  {
+    "id": "switzerland-rso-radio-suedostschweiz",
+    "name": "RSO Radio Suedostschweiz",
+    "url": "https://somedia-2.streaming.deliver.media/rso_mp3_128",
+    "genre": "Music",
+    "city": "Chur",
+    "country": "Switzerland",
+    "lat": 46.854747,
+    "lng": 9.5264904
+  },
+  {
+    "id": "switzerland-rtr-radio-rumantsch",
+    "name": "RTR Radio Rumantsch",
+    "url": "http://livestreaming-node-2.srg-ssr.ch/srgssr/rr/mp3/128",
+    "genre": "Music",
+    "city": "Chur",
+    "country": "Switzerland",
+    "lat": 46.854747,
+    "lng": 9.5264904
+  },
+  {
+    "id": "switzerland-lounge-radiocom",
+    "name": "Lounge-Radio.com",
+    "url": "https://fr1.streamhosting.ch/lounge128.mp3",
+    "genre": "Music",
+    "city": "Lucerne",
+    "country": "Switzerland",
+    "lat": 47.0505452,
+    "lng": 8.3054682
+  },
+  {
+    "id": "switzerland-radio-ouistiti",
+    "name": "Radio Ouistiti",
+    "url": "https://radioouistiti2.ice.infomaniak.ch/radioouistiti-high.mp3",
+    "genre": "Music",
+    "city": "Sion",
+    "country": "Switzerland",
+    "lat": 46.2311749,
+    "lng": 7.3588795
+  },
+  {
+    "id": "switzerland-radio-srf-1-aargau-solothurn",
+    "name": "Radio SRF 1 Aargau Solothurn",
+    "url": "http://livestreaming-node-3.srg-ssr.ch/srgssr/regi_ag_so/mp3/128",
+    "genre": "Music",
+    "city": "Aarau",
+    "country": "Switzerland",
+    "lat": 47.3927146,
+    "lng": 8.0444448
+  },
+  {
+    "id": "switzerland-radio-drachenblut",
+    "name": "Radio Drachenblut",
+    "url": "https://radio-drachenblut.ch:8443/192/listen.mp3",
+    "genre": "Music",
+    "city": "Aarau",
+    "country": "Switzerland",
+    "lat": 47.3927146,
+    "lng": 8.0444448
+  },
+  {
+    "id": "switzerland-radio-argovia",
+    "name": "Radio Argovia",
+    "url": "https://chmedia.streamabc.net/79-argovia-mp3-128-2694562?sABC=6977424q%230%2375p922pr1rq3nr63r4683s5131rr6q39%23enqvbtneqra&aw_0_1st.playerid=radiogarden&amsparams=playerid:radiogarden;skey:1769423437",
+    "genre": "Music",
+    "city": "Aarau",
+    "country": "Switzerland",
+    "lat": 47.3927146,
+    "lng": 8.0444448
+  },
+  {
+    "id": "switzerland-radio-grischa",
+    "name": "Radio Grischa",
+    "url": "https://somedia-4.streaming.deliver.media/radiogrischa_mp3_128?suffix0=radiogarden&_ic2=1769423437",
+    "genre": "Music",
+    "city": "Chur",
+    "country": "Switzerland",
+    "lat": 46.854747,
+    "lng": 9.5264904
+  },
+  {
+    "id": "switzerland-kanal-k",
+    "name": "Kanal K",
+    "url": "https://kanalk.streamabc.net/91-kanalk-mp3-192-5146873?sABC=6977424r%230%2375p922pr1rq3nr63r4683s5131rr6q39%23enqvbtneqra&aw_0_1st.playerid=radiogarden&amsparams=playerid:radiogarden;skey:1769423438",
+    "genre": "Music",
+    "city": "Aarau",
+    "country": "Switzerland",
+    "lat": 47.3927146,
+    "lng": 8.0444448
+  },
+  {
+    "id": "switzerland-radio-freundes-dienst-schweiz",
+    "name": "Radio Freundes-Dienst Schweiz",
+    "url": "https://radiofd-2.streaming.deliver.media/radiofd_mp3_128?_ic2=1769423438",
+    "genre": "Music",
+    "city": "Aarau",
+    "country": "Switzerland",
+    "lat": 47.3927146,
+    "lng": 8.0444448
+  },
+  {
+    "id": "switzerland-driftfm",
+    "name": "driftFM",
+    "url": "https://s4.radio.co/s5729f2e59/listen",
+    "genre": "Music",
+    "city": "Chur",
+    "country": "Switzerland",
+    "lat": 46.854747,
+    "lng": 9.5264904
+  },
+  {
+    "id": "switzerland-radio-top",
+    "name": "Radio Top",
+    "url": "https://radiotop.ice.infomaniak.ch/radiotop96.aac",
+    "genre": "Music",
+    "city": "Winterthur",
+    "country": "Switzerland",
+    "lat": 47.4991723,
+    "lng": 8.7291498
+  },
+  {
+    "id": "switzerland-80ies",
+    "name": "80ies",
+    "url": "https://n12.radiojar.com/6cbvkaa1mrruv?rj-ttl=5&rj-tok=AAABm_nkLAwA1Twl5Yrpmtegjg",
+    "genre": "Music",
+    "city": "Winterthur",
+    "country": "Switzerland",
+    "lat": 47.4991723,
+    "lng": 8.7291498
+  },
+  {
+    "id": "switzerland-radio-munot-fm-915",
+    "name": "Radio Munot FM 91.5",
+    "url": "https://munot.ch-central-4.streaming.deliver.media/munot_mp3_128?_ic2=1769423439",
+    "genre": "Music",
+    "city": "Winterthur",
+    "country": "Switzerland",
+    "lat": 47.4991723,
+    "lng": 8.7291498
+  },
+  {
+    "id": "switzerland-transition-radio",
+    "name": "transition radio",
+    "url": "https://a9.asurahosting.com/listen/transition_radio/radio.mp3",
+    "genre": "Music",
+    "city": "Fribourg",
+    "country": "Switzerland",
+    "lat": 46.6789116,
+    "lng": 7.1027113
+  },
+  {
+    "id": "switzerland-radio-stadtfilter",
+    "name": "Radio Stadtfilter",
+    "url": "https://streamer4.stadtfilter.net/stadtfilter.mp3",
+    "genre": "Music",
+    "city": "Winterthur",
+    "country": "Switzerland",
+    "lat": 47.4991723,
+    "lng": 8.7291498
+  },
+  {
+    "id": "switzerland-radio-fribourg-fm-894",
+    "name": "Radio Fribourg FM 89.4",
+    "url": "https://radiofribourg.ice.infomaniak.ch/radiofribourg-high",
+    "genre": "Music",
+    "city": "Fribourg",
+    "country": "Switzerland",
+    "lat": 46.6789116,
+    "lng": 7.1027113
+  },
+  {
+    "id": "switzerland-radio-glarissimo",
+    "name": "Radio Glarissimo",
+    "url": "https://fridolin.ice.infomaniak.ch/fridolin-192.mp3",
+    "genre": "Music",
+    "city": "Chur",
+    "country": "Switzerland",
+    "lat": 46.854747,
+    "lng": 9.5264904
+  },
+  {
+    "id": "switzerland-radio-freiburg",
+    "name": "Radio Freiburg",
+    "url": "https://radiofreiburg.ice.infomaniak.ch/radiofreiburg-high.mp3?.mp3",
+    "genre": "Music",
+    "city": "Fribourg",
+    "country": "Switzerland",
+    "lat": 46.6789116,
+    "lng": 7.1027113
+  },
+  {
+    "id": "switzerland-radio-zürisee",
+    "name": "Radio Zürisee",
+    "url": "https://mp3.radio.ch/radiozuerisee128k",
+    "genre": "Music",
+    "city": "Winterthur",
+    "country": "Switzerland",
+    "lat": 47.4991723,
+    "lng": 8.7291498
+  },
+  {
+    "id": "switzerland-vinyl-maxi-fm",
+    "name": "Vinyl Maxi FM",
+    "url": "https://vinyl-maxi-fm.stream.laut.fm/vinyl-maxi-fm?t302=2019-05-09_18-08-27&uuid=aa10e669-a372-42d5-bb6e-0f4a3d3a02e6/;",
+    "genre": "Music",
+    "city": "Saint Gallen",
+    "country": "Switzerland",
+    "lat": 47.425618,
+    "lng": 9.3762397
+  },
+  {
+    "id": "switzerland-madtimes-radio",
+    "name": "MadTimes Radio",
+    "url": "https://madtimesradio.stream.laut.fm/madtimesradio",
+    "genre": "Music",
+    "city": "Saint Gallen",
+    "country": "Switzerland",
+    "lat": 47.425618,
+    "lng": 9.3762397
+  },
+  {
+    "id": "switzerland-rtn",
+    "name": "RTN",
+    "url": "https://rtn.ice.infomaniak.ch/rtn-high.mp3?.mp3",
+    "genre": "Music",
+    "city": "Neuchâtel",
+    "country": "Switzerland",
+    "lat": 46.9895828,
+    "lng": 6.9292641
+  },
+  {
+    "id": "switzerland-radio-rocket",
+    "name": "Radio Rocket",
+    "url": "https://i9.streams.ovh/sc/radioroc/stream",
+    "genre": "Music",
+    "city": "Neuchâtel",
+    "country": "Switzerland",
+    "lat": 46.9895828,
+    "lng": 6.9292641
+  },
+  {
+    "id": "switzerland-radio-grenzenlos",
+    "name": "Radio Grenzenlos",
+    "url": "https://grenzenlos.spcast.eu/dj01",
+    "genre": "Music",
+    "city": "Aarau",
+    "country": "Switzerland",
+    "lat": 47.3927146,
+    "lng": 8.0444448
+  },
+  {
+    "id": "switzerland-radio-studio-star-fm-973",
+    "name": "Radio Studio Star FM 97.3",
+    "url": "http://nr5.newradio.it:8520/1",
+    "genre": "Music",
+    "city": "Comano",
+    "country": "Switzerland",
+    "lat": 46.0380727,
+    "lng": 8.9533252
+  },
+  {
+    "id": "switzerland-radio-vintage",
+    "name": "RADIO VINTAGE",
+    "url": "https://vintage.ice.infomaniak.ch/vintage.mp3",
+    "genre": "Music",
+    "city": "Delémont",
+    "country": "Switzerland",
+    "lat": 47.3615882,
+    "lng": 7.354445
+  },
+  {
+    "id": "switzerland-radio4tng",
+    "name": "Radio4tng",
+    "url": "https://radio4tng.ice.infomaniak.ch/radio4tng-live-web.mp3",
+    "genre": "Music",
+    "city": "Winterthur",
+    "country": "Switzerland",
+    "lat": 47.4991723,
+    "lng": 8.7291498
+  },
+  {
+    "id": "switzerland-rsi-radio-rete-uno",
+    "name": "RSI Radio Rete Uno",
+    "url": "http://livestreaming-node-3.srg-ssr.ch/srgssr/reteuno/mp3/128",
+    "genre": "Music",
+    "city": "Comano",
+    "country": "Switzerland",
+    "lat": 46.0380727,
+    "lng": 8.9533252
+  },
+  {
+    "id": "switzerland-radio-lozärn",
+    "name": "Radio Lozärn",
+    "url": "https://edge17.streamonkey.net/radioluzern-live?aggregator=radiogarden",
+    "genre": "Music",
+    "city": "Lucerne",
+    "country": "Switzerland",
+    "lat": 47.0505452,
+    "lng": 8.3054682
+  },
+  {
+    "id": "switzerland-rsi-rete-tre",
+    "name": "RSI Rete Tre",
+    "url": "http://livestreaming-node-1.srg-ssr.ch/srgssr/retetre/mp3/128",
+    "genre": "Music",
+    "city": "Comano",
+    "country": "Switzerland",
+    "lat": 46.0380727,
+    "lng": 8.9533252
+  },
+  {
+    "id": "switzerland-radio-village-network",
+    "name": "Radio Village Network",
+    "url": "http://sr9.inmystream.info:8019/index.html?sid=1",
+    "genre": "Music",
+    "city": "Comano",
+    "country": "Switzerland",
+    "lat": 46.0380727,
+    "lng": 8.9533252
+  },
+  {
+    "id": "switzerland-radio-rocher",
+    "name": "Radio Rocher",
+    "url": "https://listen.radioking.com/radio/321905/stream/429883",
+    "genre": "Music",
+    "city": "Neuchâtel",
+    "country": "Switzerland",
+    "lat": 46.9895828,
+    "lng": 6.9292641
+  },
+  {
+    "id": "switzerland-stella-fm",
+    "name": "Stella FM",
+    "url": "https://ssl3.azotosolutions.com:1057/;stream/1",
+    "genre": "Music",
+    "city": "Comano",
+    "country": "Switzerland",
+    "lat": 46.0380727,
+    "lng": 8.9533252
+  },
+  {
+    "id": "switzerland-rsi-rete-due",
+    "name": "RSI Rete Due",
+    "url": "http://livestreaming-node-2.srg-ssr.ch/srgssr/retedue/mp3/128",
+    "genre": "Music",
+    "city": "Comano",
+    "country": "Switzerland",
+    "lat": 46.0380727,
+    "lng": 8.9533252
+  },
+  {
+    "id": "switzerland-cerise-fm-clubbing",
+    "name": "Cerise FM Clubbing",
+    "url": "https://n06a-eu.rcs.revma.com/x81sb1uvszzuv.mp3?rj-ttl=5&rj-tok=AAABm_nkPf8AmMf3Zji1ykSM6g",
+    "genre": "Music",
+    "city": "Delémont",
+    "country": "Switzerland",
+    "lat": 47.3615882,
+    "lng": 7.354445
+  },
+  {
+    "id": "switzerland-radio-bops",
+    "name": "Radio Bops",
+    "url": "https://sr11.inmystream.it/proxy/radiobops?mp=/stream",
+    "genre": "Music",
+    "city": "Comano",
+    "country": "Switzerland",
+    "lat": 46.0380727,
+    "lng": 8.9533252
+  },
+  {
+    "id": "switzerland-plein-air-pontarlier",
+    "name": "Plein Air Pontarlier",
+    "url": "http://stream.pleinair.net:8000/dr_pontarlier.mp3",
+    "genre": "Music",
+    "city": "Oulens-sous-Échallens",
+    "country": "Switzerland",
+    "lat": 46.6433334,
+    "lng": 6.5781518
+  },
+  {
+    "id": "switzerland-radio-onyx",
+    "name": "Radio Onyx",
+    "url": "http://nr4.newradio.it:9432/stream/",
+    "genre": "Music",
+    "city": "Lugano",
+    "country": "Switzerland",
+    "lat": 46.0050102,
+    "lng": 8.9520281
+  },
+  {
+    "id": "switzerland-arc-musique",
+    "name": "ARC MUSIQUE",
+    "url": "https://arcmusique.ice.infomaniak.ch/arcmusique-128.mp3",
+    "genre": "Music",
+    "city": "Delémont",
+    "country": "Switzerland",
+    "lat": 47.3615882,
+    "lng": 7.354445
+  },
+  {
+    "id": "switzerland-rmf-radio-missione-francescana-fm-946",
+    "name": "RMF Radio Missione Francescana FM 94.6",
+    "url": "https://s4.shoutitaly.com/listen/rmf/radio.mp3",
+    "genre": "Music",
+    "city": "Comano",
+    "country": "Switzerland",
+    "lat": 46.0380727,
+    "lng": 8.9533252
+  },
+  {
+    "id": "switzerland-radio-summernight",
+    "name": "Radio Summernight",
+    "url": "https://radiosummernight.stream.laut.fm/radiosummernight?t302=2026-01-26_10-30-38&uuid=aa05d340-8f0b-4a31-ac06-6b3b21a810af",
+    "genre": "Music",
+    "city": "Aarau",
+    "country": "Switzerland",
+    "lat": 47.3927146,
+    "lng": 8.0444448
+  },
+  {
+    "id": "switzerland-radio-3s-solarsoundsystem",
+    "name": "Radio 3S / SolarSoundSystem",
+    "url": "https://radio.solarsoundsystem.org/listen/radio3s/radio.mp3",
+    "genre": "Music",
+    "city": "Oulens-sous-Échallens",
+    "country": "Switzerland",
+    "lat": 46.6433334,
+    "lng": 6.5781518
+  },
+  {
+    "id": "switzerland-rwms",
+    "name": "RWMS",
+    "url": "https://nr6.newradio.it/proxy/worldmus?mp=/stream",
+    "genre": "Music",
+    "city": "Lugano",
+    "country": "Switzerland",
+    "lat": 46.0050102,
+    "lng": 8.9520281
+  },
+  {
+    "id": "switzerland-rcv",
+    "name": "RCV",
+    "url": "https://stream.rcvfm.fr:8000/rcv128k.mp3",
+    "genre": "Music",
+    "city": "Neuchâtel",
+    "country": "Switzerland",
+    "lat": 46.9895828,
+    "lng": 6.9292641
+  },
+  {
+    "id": "switzerland-a-fine-jazz-gumbo-radio",
+    "name": "A Fine Jazz Gumbo Radio",
+    "url": "https://streaming.smartradio.ch:9502/stream",
+    "genre": "Music",
+    "city": "Lugano",
+    "country": "Switzerland",
+    "lat": 46.0050102,
+    "lng": 8.9520281
+  },
+  {
+    "id": "switzerland-rasa-fm-1072",
+    "name": "RaSA FM 107.2",
+    "url": "https://radio.upstream-cloud.ch/radiorasa-128.mp3",
+    "genre": "Music",
+    "city": "Schaffhausen",
+    "country": "Switzerland",
+    "lat": 47.6960491,
+    "lng": 8.634513
+  },
+  {
+    "id": "switzerland-back2noize-radio",
+    "name": "Back2Noize Radio",
+    "url": "https://securestreams4.autopo.st:1558/Back2Noize",
+    "genre": "Music",
+    "city": "Oulens-sous-Échallens",
+    "country": "Switzerland",
+    "lat": 46.6433334,
+    "lng": 6.5781518
+  },
+  {
+    "id": "switzerland-gvfm-la-radio-du-gros-de-vaud",
+    "name": "GVFM la Radio du Gros-de-Vaud",
+    "url": "https://gvfm.ice.infomaniak.ch/gvfm-64.mp3",
+    "genre": "Music",
+    "city": "Oulens-sous-Échallens",
+    "country": "Switzerland",
+    "lat": 46.6433334,
+    "lng": 6.5781518
+  },
+  {
+    "id": "switzerland-radio-studio-sound",
+    "name": "Radio Studio Sound",
+    "url": "https://free.rcast.net/66707",
+    "genre": "Music",
+    "city": "Lugano",
+    "country": "Switzerland",
+    "lat": 46.0050102,
+    "lng": 8.9520281
+  },
+  {
+    "id": "switzerland-gvfm-romandie",
+    "name": "GVFM Romandie",
+    "url": "https://gvfm.ice.infomaniak.ch/romandie.aac",
+    "genre": "Music",
+    "city": "Oulens-sous-Échallens",
+    "country": "Switzerland",
+    "lat": 46.6433334,
+    "lng": 6.5781518
+  }
+]

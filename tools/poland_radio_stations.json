@@ -1,0 +1,1022 @@
+[
+    {
+        "name": "Radio Warszawa 106.2 FM",
+        "city": "Warsaw",
+        "country": "Poland",
+        "url": "http://streaming01.technologicznie.net:8765/radio_warszawa.mp3"
+    },
+    {
+        "name": "Nocne Radio",
+        "city": "Wrocław",
+        "country": "Poland",
+        "url": "http://144.91.112.88:8000/live"
+    },
+    {
+        "name": "CYBERStacja",
+        "city": "Wrocław",
+        "country": "Poland",
+        "url": "https://sc.cyberstacja.pl:8000/radio.mp3"
+    },
+    {
+        "name": "Vox FM",
+        "city": "Warsaw",
+        "country": "Poland",
+        "url": "https://ic1.smcdn.pl/3990-1.mp3"
+    },
+    {
+        "name": "Radio Bezpieczna Podróż",
+        "city": "Warsaw",
+        "country": "Poland",
+        "url": "https://ssl-1.radiohost.pl:9162/live"
+    },
+    {
+        "name": "Radio Bogoria 94.5 FM",
+        "city": "Warsaw",
+        "country": "Poland",
+        "url": "https://ssl-1.radiohost.pl:6050/mp3"
+    },
+    {
+        "name": "Radio Anime24",
+        "city": "Warsaw",
+        "country": "Poland",
+        "url": "https://ssl-1.radiohost.pl:7028/stream"
+    },
+    {
+        "name": "Radio Niepokalanow",
+        "city": "Warsaw",
+        "country": "Poland",
+        "url": "http://radioniepokalanow.com.pl:7600/rn.mp3"
+    },
+    {
+        "name": "Radio Heaven",
+        "city": "Wrocław",
+        "country": "Poland",
+        "url": "https://sc1.radioheaven.pl:8000/stream?sid=1"
+    },
+    {
+        "name": "Radio Wrocław Kultura",
+        "city": "Wrocław",
+        "country": "Poland",
+        "url": "http://stream4.nadaje.com:9230/rwkultura"
+    },
+    {
+        "name": "Muzo FM 102",
+        "city": "Warsaw",
+        "country": "Poland",
+        "url": "https://n33a-eu.rcs.revma.com/1nnezw8qz7zuv?rj-ttl=5&rj-tok=AAABm_nO2o0Aks60-VFTcqki9A"
+    },
+    {
+        "name": "Radio Śląsk",
+        "city": "Warsaw",
+        "country": "Poland",
+        "url": "https://s1.slotex.pl:7022/stream/1/"
+    },
+    {
+        "name": "DiscoParty.pl - Disco Impreza",
+        "city": "Warsaw",
+        "country": "Poland",
+        "url": "https://s3.slotex.pl:7046/stream/1/?sid=1"
+    },
+    {
+        "name": "Złote Przeboje 90.4 FM",
+        "city": "Wrocław",
+        "country": "Poland",
+        "url": "https://radiostream.pl/tuba8940-1.mp3"
+    },
+    {
+        "name": "Radio 357",
+        "city": "Warsaw",
+        "country": "Poland",
+        "url": "https://n11.rcs.revma.com/an1ugyygzk8uv?rj-ttl=5&rj-tok=AAABm_nO24QA8Faes9o7n-wscQ"
+    },
+    {
+        "name": "ESKA Wrocław 104.9 FM",
+        "city": "Wrocław",
+        "country": "Poland",
+        "url": "https://ic1.smcdn.pl/2180-1.mp3"
+    },
+    {
+        "name": "Radio ZET",
+        "city": "Warsaw",
+        "country": "Poland",
+        "url": "https://20103.live.streamtheworld.com:443/RADIO_ZET.mp3?dist=radiogarden&ppid=none&gdpr=0&gdpr_consent=none"
+    },
+    {
+        "name": "Antyradio",
+        "city": "Warsaw",
+        "country": "Poland",
+        "url": "https://29103.live.streamtheworld.com:443/ANTYRADIO.mp3?dist=radiogarden&ppid=none&gdpr=0&gdpr_consent=none"
+    },
+    {
+        "name": "Radio Rodzina 92 FM",
+        "city": "Wrocław",
+        "country": "Poland",
+        "url": "https://sluchaj.radiorodzina.pl/RadioRodzinaWroclawLIVE.mp3"
+    },
+    {
+        "name": "MeloRadio Wrocław 97.8 FM",
+        "city": "Wrocław",
+        "country": "Poland",
+        "url": "https://ml01.cdn.eurozet.pl/mel-wro.mp3"
+    },
+    {
+        "name": "Tok FM",
+        "city": "Warsaw",
+        "country": "Poland",
+        "url": "https://22183.live.streamtheworld.com:443/RADIO_TOKFM.mp3?dist=radiogarden&ppid=none&gdpr=0&gdpr_consent=none"
+    },
+    {
+        "name": "Radio Wieliszew",
+        "city": "Warsaw",
+        "country": "Poland",
+        "url": "https://s5.radio.co/s3c0051f8f/listen"
+    },
+    {
+        "name": "Radio Elka",
+        "city": "Wrocław",
+        "country": "Poland",
+        "url": "https://live.elka.pl:8443/elka2"
+    },
+    {
+        "name": "PR Radio Krakow",
+        "city": "Kraków",
+        "country": "Poland",
+        "url": "http://stream3.nadaje.com:9116/radiokrakow"
+    },
+    {
+        "name": "Radio Plus Legnica FM 102.6",
+        "city": "Wrocław",
+        "country": "Poland",
+        "url": "https://player.legnica.fm/listen/radio_plus_legnica/radio.mp3"
+    },
+    {
+        "name": "Radio Nowy Świat",
+        "city": "Warsaw",
+        "country": "Poland",
+        "url": "https://n10.rcs.revma.com/5ws0kfn1x1zuv?rj-ttl=5&rj-tok=AAABm_nO5VUAhFMrPdk4SIEhVQ"
+    },
+    {
+        "name": "Rave FM",
+        "city": "Kraków",
+        "country": "Poland",
+        "url": "http://45.14.13.70:9850/ravefm"
+    },
+    {
+        "name": "OFF Radio Kraków",
+        "city": "Kraków",
+        "country": "Poland",
+        "url": "http://stream4.nadaje.com:13332/offradiokrakow"
+    },
+    {
+        "name": "Radio Pogoda",
+        "city": "Wrocław",
+        "country": "Poland",
+        "url": "https://22673.live.streamtheworld.com:443/RADIO_POGODA.mp3"
+    },
+    {
+        "name": "Flash FM",
+        "city": "Kraków",
+        "country": "Poland",
+        "url": "http://91.201.235.225:8017/stream/"
+    },
+    {
+        "name": "Radio Ony FM 93.1",
+        "city": "Wrocław",
+        "country": "Poland",
+        "url": "https://n37a-eu.rcs.revma.com/yxv344rra2zuv.m4a?rj-ttl=5&rj-tok=AAABm_nO6P0AavOolkmOiQIWrA"
+    },
+    {
+        "name": "Radio LUZ 91.6 FM",
+        "city": "Wrocław",
+        "country": "Poland",
+        "url": "https://stream.radioluz.pl:8443/luz_hifi.mp3"
+    },
+    {
+        "name": "Złote Przeboje 92.5 FM",
+        "city": "Kraków",
+        "country": "Poland",
+        "url": "https://radiostream.pl/tuba8914-1.mp3"
+    },
+    {
+        "name": "MeloRadio Bielsko-Biala 87.9 FM",
+        "city": "Kraków",
+        "country": "Poland",
+        "url": "https://ml04.cdn.eurozet.pl/mel-bls.mp3"
+    },
+    {
+        "name": "MeloRadio Katowice 95.1 FM",
+        "city": "Katowice",
+        "country": "Poland",
+        "url": "https://ml03.cdn.eurozet.pl/mel-ktw.mp3"
+    },
+    {
+        "name": "Radio1.7",
+        "city": "Kraków",
+        "country": "Poland",
+        "url": "https://emisja.radio17.pl/R17"
+    },
+    {
+        "name": "ESKA Kraków FM 97.7",
+        "city": "Kraków",
+        "country": "Poland",
+        "url": "https://ic2.smcdn.pl/2070-1.mp3"
+    },
+    {
+        "name": "ESKA2 Kraków 88.8 FM",
+        "city": "Kraków",
+        "country": "Poland",
+        "url": "https://ic1.smcdn.pl/1070-1.mp3"
+    },
+    {
+        "name": "ESKA2 Nowy Sącz 92.4 FM",
+        "city": "Kraków",
+        "country": "Poland",
+        "url": "https://ic1.smcdn.pl/1290-1.mp3"
+    },
+    {
+        "name": "ESKA Małopolska 106.8 FM",
+        "city": "Kraków",
+        "country": "Poland",
+        "url": "https://ic1.smcdn.pl/2330-1.mp3"
+    },
+    {
+        "name": "Radio Zamek Nadaje",
+        "city": "Wrocław",
+        "country": "Poland",
+        "url": "https://uksoutha.streaming.broadcast.radio:15190/zameknadaje"
+    },
+    {
+        "name": "Radio Egida -  Uniwersytet Śląski",
+        "city": "Katowice",
+        "country": "Poland",
+        "url": "https://s3.slotex.pl:7536/stream/1/"
+    },
+    {
+        "name": "Radio Andrychów AM 1584",
+        "city": "Kraków",
+        "country": "Poland",
+        "url": "https://s1.slotex.pl:7424/stream/1/"
+    },
+    {
+        "name": "MC Radio FM 102.7",
+        "city": "Poznań",
+        "country": "Poland",
+        "url": "http://stream4.nadaje.com:8624/mcradio"
+    },
+    {
+        "name": "Radio TPI",
+        "city": "Kraków",
+        "country": "Poland",
+        "url": "https://s1.slotex.pl:7632/stream/1/?sid=1/;"
+    },
+    {
+        "name": "Stacja Impreza",
+        "city": "Katowice",
+        "country": "Poland",
+        "url": "https://stacjaimpreza.katowice.pl:8002/live"
+    },
+    {
+        "name": "Radio Żory",
+        "city": "Katowice",
+        "country": "Poland",
+        "url": "https://mpc1.mediacp.eu/stream/radiozory"
+    },
+    {
+        "name": "Radio Paranormalium",
+        "city": "Katowice",
+        "country": "Poland",
+        "url": "https://paranormalium.waw.pl/radio/8000/1"
+    },
+    {
+        "name": "Radio Gliwice",
+        "city": "Katowice",
+        "country": "Poland",
+        "url": "https://c20.radioboss.fm:8548/stream"
+    },
+    {
+        "name": "Radio eM FM 107.6",
+        "city": "Katowice",
+        "country": "Poland",
+        "url": "https://stream4.radioem.pl/stream/"
+    },
+    {
+        "name": "Radio Poznań",
+        "city": "Poznań",
+        "country": "Poland",
+        "url": "http://stream4.nadaje.com:8578/poznan"
+    },
+    {
+        "name": "Radio Emaus",
+        "city": "Poznań",
+        "country": "Poland",
+        "url": "http://51.68.139.236:8000/oggstream"
+    },
+    {
+        "name": "Radio Silesia 96.2 FM",
+        "city": "Katowice",
+        "country": "Poland",
+        "url": "https://s1.slotex.pl:7926/stream/1/"
+    },
+    {
+        "name": "Radio UAP",
+        "city": "Poznań",
+        "country": "Poland",
+        "url": "https://radiouap.radiocult.fm/stream"
+    },
+    {
+        "name": "Radio Gniezno FM 104.3",
+        "city": "Poznań",
+        "country": "Poland",
+        "url": "http://stream3.nadaje.com:8012/;;"
+    },
+    {
+        "name": "Radio Mbox",
+        "city": "Katowice",
+        "country": "Poland",
+        "url": "https://s1.slotex.pl:7462/stream/1/"
+    },
+    {
+        "name": "MeloRadio Poznań 99.4",
+        "city": "Poznań",
+        "country": "Poland",
+        "url": "https://ml03.cdn.eurozet.pl/mel-poz.mp3"
+    },
+    {
+        "name": "Radio Nuta",
+        "city": "Katowice",
+        "country": "Poland",
+        "url": "https://n11.rcs.revma.com/0004tehdxzzuv?rj-ttl=5&rj-tok=AAABm_nO-O0A9rN5cd8sfyfJ4Q"
+    },
+    {
+        "name": "Złote Przeboje 88.4 FM",
+        "city": "Poznań",
+        "country": "Poland",
+        "url": "https://radiostream.pl/tuba8926-1.mp3"
+    },
+    {
+        "name": "Radio Żnin",
+        "city": "Poznań",
+        "country": "Poland",
+        "url": "http://stream4.nadaje.com:8052/;stream"
+    },
+    {
+        "name": "Radio Pogoda",
+        "city": "Poznań",
+        "country": "Poland",
+        "url": "https://radiostream.pl/tuba138-1.mp3"
+    },
+    {
+        "name": "Radio Piekary FM 88.7",
+        "city": "Katowice",
+        "country": "Poland",
+        "url": "https://n01.rcs.revma.com/0rg0mztk33bwv?rj-ttl=5&rj-tok=AAABm_nO-wQAMtNpDcnPvDi7Ow"
+    },
+    {
+        "name": "Roxy FM",
+        "city": "Poznań",
+        "country": "Poland",
+        "url": "http://poznan5-4.radio.pionier.net.pl:8000/tuba8-1.mp3?.mp3"
+    },
+    {
+        "name": "VOX Poznań FM 107.4",
+        "city": "Poznań",
+        "country": "Poland",
+        "url": "https://ic2.smcdn.pl/3140-1.mp3"
+    },
+    {
+        "name": "Radio Afera 98.6 MHz",
+        "city": "Poznań",
+        "country": "Poland",
+        "url": "https://radio.afera.com.pl/afera128.mp3"
+    },
+    {
+        "name": "Radio Yanosik",
+        "city": "Poznań",
+        "country": "Poland",
+        "url": "https://n02a-eu.rcs.revma.com/sn11544ebhuvv?rj-ttl=5&rj-tok=AAABm_nPAHwA29DG4d8TqWWeRA"
+    },
+    {
+        "name": "Radio FaMa 92.9 FM",
+        "city": "Kielce",
+        "country": "Poland",
+        "url": "http://stream2.nadaje.com:8078/stream.pls"
+    },
+    {
+        "name": "Radio Opatów FM 93.7",
+        "city": "Kielce",
+        "country": "Poland",
+        "url": "http://stream2.nadaje.com:11144/;stream"
+    },
+    {
+        "name": "Folk Radio",
+        "city": "Kielce",
+        "country": "Poland",
+        "url": "https://streaming.g-news.pl:8030/fr1"
+    },
+    {
+        "name": "Wasze Radio FM 97.2",
+        "city": "Poznań",
+        "country": "Poland",
+        "url": "https://sluchaj.link:5443/wasze"
+    },
+    {
+        "name": "Radio Meteor UAM",
+        "city": "Poznań",
+        "country": "Poland",
+        "url": "https://icecast.radiometeor.pl/meteor.aac"
+    },
+    {
+        "name": "Radio Kielce FM 101.4",
+        "city": "Kielce",
+        "country": "Poland",
+        "url": "https://streaming.g-news.pl:8030/rk2"
+    },
+    {
+        "name": "ESKA2 Kielce 104.6 FM",
+        "city": "Kielce",
+        "country": "Poland",
+        "url": "https://ic2.smcdn.pl/1050-1.mp3"
+    },
+    {
+        "name": "ESKA Kielce FM 103.3",
+        "city": "Kielce",
+        "country": "Poland",
+        "url": "https://ic2.smcdn.pl/2050-1.mp3"
+    },
+    {
+        "name": "Radio Wrzesnia FM 93.7",
+        "city": "Poznań",
+        "country": "Poland",
+        "url": "https://s1.slotex.pl:7446/stream/1/"
+    },
+    {
+        "name": "Norda FM 88.0",
+        "city": "Gdańsk",
+        "country": "Poland",
+        "url": "http://94.177.253.77:8001/relay_mp3_128"
+    },
+    {
+        "name": "Punkowe Radio Underground",
+        "city": "Kielce",
+        "country": "Poland",
+        "url": "https://s1.slotex.pl:7604/stream/1/"
+    },
+    {
+        "name": "Radio Plus 101.7 FM",
+        "city": "Gdańsk",
+        "country": "Poland",
+        "url": "https://pl03.cdn.eurozet.pl/plu-gdn.mp3"
+    },
+    {
+        "name": "Złote Przeboje 103.0 FM",
+        "city": "Gdańsk",
+        "country": "Poland",
+        "url": "https://radiostream.pl/tuba8906-1.mp3"
+    },
+    {
+        "name": "ESKA2 Trójmiasto 90 FM",
+        "city": "Gdańsk",
+        "country": "Poland",
+        "url": "https://ic2.smcdn.pl/1170-1.mp3"
+    },
+    {
+        "name": "Eska Trójmiasto FM 94.6",
+        "city": "Gdańsk",
+        "country": "Poland",
+        "url": "https://ic2.smcdn.pl/2170-1.aac"
+    },
+    {
+        "name": "Radio Centrum 98.2 FM",
+        "city": "Lublin",
+        "country": "Poland",
+        "url": "https://stream12.hosterion.pl/stream/akademickieradiocentrum"
+    },
+    {
+        "name": "PR Radio Gdansk",
+        "city": "Gdańsk",
+        "country": "Poland",
+        "url": "https://stream.task.gda.pl:8443/rg1"
+    },
+    {
+        "name": "Radio eM Kielce 107.9 FM",
+        "city": "Kielce",
+        "country": "Poland",
+        "url": "https://n04.rcs.revma.com/ncthpt0085hvv?rj-ttl=5&rj-tok=AAABm_nPCLQAlnkaEys4czrX4g"
+    },
+    {
+        "name": "Radio Ostrowiec 95.2 FM",
+        "city": "Kielce",
+        "country": "Poland",
+        "url": "https://s1.slotex.pl:7050/stream/1/"
+    },
+    {
+        "name": "Radio Plus FM 87.9",
+        "city": "Lublin",
+        "country": "Poland",
+        "url": "https://ic1.smcdn.pl/4130-1.aac"
+    },
+    {
+        "name": "Metal Live Radio",
+        "city": "Szczecin",
+        "country": "Poland",
+        "url": "http://51.255.8.139:8738/stream"
+    },
+    {
+        "name": "Radio Elita Cafe",
+        "city": "Szczecin",
+        "country": "Poland",
+        "url": "http://91.232.4.33:7166/stream"
+    },
+    {
+        "name": "Eska Lublin FM 103.6",
+        "city": "Lublin",
+        "country": "Poland",
+        "url": "https://ic2.smcdn.pl/2130-1.aac"
+    },
+    {
+        "name": "Radio MORS",
+        "city": "Gdańsk",
+        "country": "Poland",
+        "url": "https://n13.rcs.revma.com/440942zfcg3vv?rj-ttl=5&rj-tok=AAABm_nPDXkAAKejpCKnDZyuNw"
+    },
+    {
+        "name": "Inne Radio",
+        "city": "Szczecin",
+        "country": "Poland",
+        "url": "https://stream12.hosterion.pl/stream/hypnosradio/stream"
+    },
+    {
+        "name": "Radio CMKUL",
+        "city": "Lublin",
+        "country": "Poland",
+        "url": "https://s3.slotex.pl:7258/stream/1/"
+    },
+    {
+        "name": "Złote Przeboje 89.8 FM",
+        "city": "Szczecin",
+        "country": "Poland",
+        "url": "https://radiostream.pl/tuba8930-1.mp3"
+    },
+    {
+        "name": "GR Jedynka - Szczecin",
+        "city": "Szczecin",
+        "country": "Poland",
+        "url": "https://uipo.duckdns.org/listen/gr_jedynka/grjedynka.mp3"
+    },
+    {
+        "name": "Radio Impuls 97.2 FM",
+        "city": "Lublin",
+        "country": "Poland",
+        "url": "https://srv0.streamradiowy.eu/radioimpuls"
+    },
+    {
+        "name": "Radio.Dimash.pl",
+        "city": "Gdańsk",
+        "country": "Poland",
+        "url": "https://17653.live.streamtheworld.com:443/SAM02AAC364_SC"
+    },
+    {
+        "name": "NB-Radiotreff 88.0",
+        "city": "Szczecin",
+        "country": "Poland",
+        "url": "http://mmv-mediathek.de:8000/live160"
+    },
+    {
+        "name": "Stasie Radio - Stanisław Staszic High School",
+        "city": "Lublin",
+        "country": "Poland",
+        "url": "https://stream3.rcast.net/70975"
+    },
+    {
+        "name": "Radio Lublin 102.2 FM",
+        "city": "Lublin",
+        "country": "Poland",
+        "url": "https://streaming.radio.lublin.pl:8843/128k"
+    },
+    {
+        "name": "GR Jedynka - Gorzów Wielkopolski",
+        "city": "Szczecin",
+        "country": "Poland",
+        "url": "https://uipo.duckdns.org/listen/gr_jedynka/radio.mp3"
+    },
+    {
+        "name": "Katolickie Radio Zamosc FM 90.1",
+        "city": "Lublin",
+        "country": "Poland",
+        "url": "https://n09a-eu.rcs.revma.com/0n8y7mxcay8uv.m4a?rj-ttl=5&rj-tok=AAABm_nPFhIAH7U_qAFuzibNGw"
+    },
+    {
+        "name": "Radio 98 Eins",
+        "city": "Szczecin",
+        "country": "Poland",
+        "url": "http://mmv-mediathek.de:8000/radio98eins"
+    },
+    {
+        "name": "Radio Chrystusa Króla z Łodzi",
+        "city": "Łódź",
+        "country": "Poland",
+        "url": "http://178.32.146.185:5216/index.html?sid=1"
+    },
+    {
+        "name": "MeloRadio Łódź 104.5 FM",
+        "city": "Łódź",
+        "country": "Poland",
+        "url": "https://ml03.cdn.eurozet.pl/mel-ldz.mp3"
+    },
+    {
+        "name": "Radio Q FM 100.7",
+        "city": "Łódź",
+        "country": "Poland",
+        "url": "http://79.188.161.82:8020/;stream.mp3"
+    },
+    {
+        "name": "Złote Przeboje 96.6 FM",
+        "city": "Łódź",
+        "country": "Poland",
+        "url": "https://radiostream.pl/tuba8904-1.mp3"
+    },
+    {
+        "name": "Radio Kujawy",
+        "city": "Łódź",
+        "country": "Poland",
+        "url": "http://radio.kujawy.info:9940/1"
+    },
+    {
+        "name": "Radio Paradiso FFO",
+        "city": "Szczecin",
+        "country": "Poland",
+        "url": "https://paradiso.stream45.radiohost.de/paradiso-ffo_mp3-192?ref=radio-garden&upd-meta&upd-scheme=https&_art=dD0xNzY5NDIyMzU4JmQ9ZTNkMDEzYjNlOTA1NzRhNGVhZDI"
+    },
+    {
+        "name": "ESKA2 Łódź 99.8 FM",
+        "city": "Łódź",
+        "country": "Poland",
+        "url": "https://ic1.smcdn.pl/1100-1.mp3"
+    },
+    {
+        "name": "MeloRadio Toruń 92.8",
+        "city": "Toruń",
+        "country": "Poland",
+        "url": "https://ml03.cdn.eurozet.pl/mel-trn.mp3"
+    },
+    {
+        "name": "Radio Sfera UMK",
+        "city": "Toruń",
+        "country": "Poland",
+        "url": "http://158.75.34.231:8000/sfera.mp3"
+    },
+    {
+        "name": "EL-Stacja",
+        "city": "Toruń",
+        "country": "Poland",
+        "url": "http://radio.el-stacja.pl:8000/elstacja320.ogg"
+    },
+    {
+        "name": "Radio Victoria 103.5 FM",
+        "city": "Łódź",
+        "country": "Poland",
+        "url": "https://stream.v4.radiovictoria.pl:8076//live"
+    },
+    {
+        "name": "Polskie Radio Łódź",
+        "city": "Łódź",
+        "country": "Poland",
+        "url": "https://stream.radiolodz.pl/RadioLodz-1-HQ.aac"
+    },
+    {
+        "name": "Radio Konin 104.1 FM",
+        "city": "Toruń",
+        "country": "Poland",
+        "url": "https://stream2.technologicznie.net/konin.fm"
+    },
+    {
+        "name": "WPP 101.4 FM Włocławek Po Polsku",
+        "city": "Toruń",
+        "country": "Poland",
+        "url": "https://sluchaj.radiowloclawek.pl/stream/"
+    },
+    {
+        "name": "Radio Kultura",
+        "city": "Toruń",
+        "country": "Poland",
+        "url": "https://ssl-1.radiohost.pl:9772/stream"
+    },
+    {
+        "name": "Radio Maryja",
+        "city": "Toruń",
+        "country": "Poland",
+        "url": "https://radiomaryja.fastcast4u.com/proxy/radiomaryja?mp=/1"
+    },
+    {
+        "name": "ESKA Toruń 104.6 FM",
+        "city": "Toruń",
+        "country": "Poland",
+        "url": "https://ic2.smcdn.pl/2150-1.mp3"
+    },
+    {
+        "name": "ESKA2 Toruń 96.7 FM",
+        "city": "Toruń",
+        "country": "Poland",
+        "url": "https://ic1.smcdn.pl/1150-1.mp3"
+    },
+    {
+        "name": "Racyja - Belarusian Radio",
+        "city": "Białystok",
+        "country": "Poland",
+        "url": "https://air.racyja.com/racja128"
+    },
+    {
+        "name": "Radio Jard 1",
+        "city": "Białystok",
+        "country": "Poland",
+        "url": "http://online.jard.pl:8744/jard1"
+    },
+    {
+        "name": "Studenckie Radio Żak FM 88.8",
+        "city": "Łódź",
+        "country": "Poland",
+        "url": "https://www.zak.lodz.pl/stream/sr_zak.ogg"
+    },
+    {
+        "name": "Radio GRA 88.8 FM",
+        "city": "Toruń",
+        "country": "Poland",
+        "url": "https://rs201-krk-cyfronet.rmfstream.pl/RADIOGRA"
+    },
+    {
+        "name": "Radio i 103.3 FM",
+        "city": "Białystok",
+        "country": "Poland",
+        "url": "https://ice2.radioi.pl:8443/stream"
+    },
+    {
+        "name": "Złote Przeboje 101.0 FM",
+        "city": "Białystok",
+        "country": "Poland",
+        "url": "https://radiostream.pl/tuba8900-1.mp3"
+    },
+    {
+        "name": "ESKA Białystok 90.6 FM",
+        "city": "Białystok",
+        "country": "Poland",
+        "url": "https://ic1.smcdn.pl/2020-1.mp3"
+    },
+    {
+        "name": "MeloRadio Opole 106.2 FM",
+        "city": "Opole",
+        "country": "Poland",
+        "url": "https://ml01.cdn.eurozet.pl/mel-opl.mp3"
+    },
+    {
+        "name": "Radio SUD",
+        "city": "Opole",
+        "country": "Poland",
+        "url": "http://stream2.nadaje.com:8012/"
+    },
+    {
+        "name": "Halloradio Hlučín",
+        "city": "Opole",
+        "country": "Poland",
+        "url": "http://live.halloradiohultschin.cz:8000/halloradio.mp3"
+    },
+    {
+        "name": "Radio 5 Ełk",
+        "city": "Białystok",
+        "country": "Poland",
+        "url": "https://streaming.radio5.com.pl:8888/radio5elk"
+    },
+    {
+        "name": "Radio Brest FM 104.8",
+        "city": "Białystok",
+        "country": "Poland",
+        "url": "https://stream2.datacenter.by/trkbrest"
+    },
+    {
+        "name": "ESKA Łomża FM 88.8",
+        "city": "Białystok",
+        "country": "Poland",
+        "url": "https://ic1.smcdn.pl/2460-1.mp3"
+    },
+    {
+        "name": "ESKA Opole 90.8 FM",
+        "city": "Opole",
+        "country": "Poland",
+        "url": "https://ic1.smcdn.pl/2120-1.mp3"
+    },
+    {
+        "name": "ESKA2 Opole 105.7 FM",
+        "city": "Opole",
+        "country": "Poland",
+        "url": "https://ic2.smcdn.pl/1120-1.mp3"
+    },
+    {
+        "name": "Radio Park FM 93.9",
+        "city": "Opole",
+        "country": "Poland",
+        "url": "https://sluchaj2.radiopark.biz.pl:8443/stream"
+    },
+    {
+        "name": "FM99",
+        "city": "Białystok",
+        "country": "Poland",
+        "url": "https://securestream.casthost.net:8617/fm99"
+    },
+    {
+        "name": "Radio Plus 107.3 FM",
+        "city": "Gorzów Wielkopolski",
+        "country": "Poland",
+        "url": "https://pl03.cdn.eurozet.pl/plu-glg.mp3"
+    },
+    {
+        "name": "Radio Plus Gorzów 100.7 FM",
+        "city": "Gorzów Wielkopolski",
+        "country": "Poland",
+        "url": "https://pl06.cdn.eurozet.pl/plu-grz.mp3?redirected=06"
+    },
+    {
+        "name": "VOX Gorzów Wlkp FM 101.7",
+        "city": "Gorzów Wielkopolski",
+        "country": "Poland",
+        "url": "https://ic2.smcdn.pl/3040-1.mp3"
+    },
+    {
+        "name": "Rock Radio pl",
+        "city": "Opole",
+        "country": "Poland",
+        "url": "https://28573.live.streamtheworld.com:443/RADIO_ROCK.mp3"
+    },
+    {
+        "name": "ESKA Gorzów Wlkp FM 93.8",
+        "city": "Gorzów Wielkopolski",
+        "country": "Poland",
+        "url": "https://ic2.smcdn.pl/2040-1.mp3"
+    },
+    {
+        "name": "Radio Słubfurt",
+        "city": "Gorzów Wielkopolski",
+        "country": "Poland",
+        "url": "https://streaming.fueralle.org/slubfurt"
+    },
+    {
+        "name": "GR Jedynka - Zielona Góra",
+        "city": "Zielona Góra",
+        "country": "Poland",
+        "url": "https://uipo.duckdns.org/listen/gr_jedynka/grjedynkazielonagora.mp3"
+    },
+    {
+        "name": "Radio Plus 91.7 FM",
+        "city": "Zielona Góra",
+        "country": "Poland",
+        "url": "https://pl03.cdn.eurozet.pl/plu-zgr.mp3"
+    },
+    {
+        "name": "Vanessa FM 100.3",
+        "city": "Opole",
+        "country": "Poland",
+        "url": "https://s1.slotex.pl:7358/stream/1/"
+    },
+    {
+        "name": "Złote Przeboje 98.1 FM",
+        "city": "Zielona Góra",
+        "country": "Poland",
+        "url": "https://radiostream.pl/tuba8944-1.mp3"
+    },
+    {
+        "name": "Złote Przeboje 106.2 FM",
+        "city": "Zielona Góra",
+        "country": "Poland",
+        "url": "https://radiostream.pl/tuba8908-1.mp3"
+    },
+    {
+        "name": "Radio Cottbus FM 94.5",
+        "city": "Gorzów Wielkopolski",
+        "country": "Poland",
+        "url": "https://radiogroup.stream31.radiohost.de/radio-cottbus_mp3-192?ref=radiogarden&upd-meta&upd-scheme=https&_art=dD0xNzY5NDIyMzY0JmQ9ZGQzOWRmMTUyMmRkYmM2YzA5OWY"
+    },
+    {
+        "name": "Index FM 96",
+        "city": "Gorzów Wielkopolski",
+        "country": "Poland",
+        "url": "https://stream.wzielonej.pl/radio/8000/1"
+    },
+    {
+        "name": "Minimal Mix Radio",
+        "city": "Siedlce",
+        "country": "Poland",
+        "url": "https://minimalmix.radioca.st/media"
+    },
+    {
+        "name": "Polskie Radio PiK",
+        "city": "Bydgoszcz",
+        "country": "Poland",
+        "url": "http://stream.radiopik.pl:9004/"
+    },
+    {
+        "name": "Rock FM",
+        "city": "Bydgoszcz",
+        "country": "Poland",
+        "url": "http://217.182.76.63:8000/rfmweb"
+    },
+    {
+        "name": "Radio Elka",
+        "city": "Zielona Góra",
+        "country": "Poland",
+        "url": "https://rs102-krk.rmfstream.pl/AUDIOXIELKAGLOGOW"
+    },
+    {
+        "name": "ESKA Siedlce 96.8 FM",
+        "city": "Siedlce",
+        "country": "Poland",
+        "url": "https://ic2.smcdn.pl/2060-1.mp3"
+    },
+    {
+        "name": "InterStacja - Club",
+        "city": "Piła",
+        "country": "Poland",
+        "url": "https://radio.castpol.pl:8160/radio.mp3"
+    },
+    {
+        "name": "InterStacja - Disco Polo",
+        "city": "Piła",
+        "country": "Poland",
+        "url": "https://radio.castpol.pl:8150/radio.mp3"
+    },
+    {
+        "name": "Radio Anioł Beskidów",
+        "city": "Bielsko-Biała",
+        "country": "Poland",
+        "url": "http://88.135.172.249:22000/stream/1/"
+    },
+    {
+        "name": "Złote Przeboje 92.1 FM",
+        "city": "Bydgoszcz",
+        "country": "Poland",
+        "url": "https://radiostream.pl/tuba8902-1.mp3"
+    },
+    {
+        "name": "Katolickie Radio Podlasie",
+        "city": "Siedlce",
+        "country": "Poland",
+        "url": "https://s1.slotex.pl:7038/stream/1/"
+    },
+    {
+        "name": "Radio Chrzescijanin",
+        "city": "Siedlce",
+        "country": "Poland",
+        "url": "https://s1.slotex.pl:7002/stream/1/"
+    },
+    {
+        "name": "InterStacja - Oldies",
+        "city": "Piła",
+        "country": "Poland",
+        "url": "https://radio.castpol.pl:8170/radio.mp3"
+    },
+    {
+        "name": "Radio InterStacja",
+        "city": "Piła",
+        "country": "Poland",
+        "url": "https://radio.castpol.pl:8140/radio.mp3"
+    },
+    {
+        "name": "ESKA Piła 105.6 FM",
+        "city": "Piła",
+        "country": "Poland",
+        "url": "https://ic2.smcdn.pl/2090-1.mp3"
+    },
+    {
+        "name": "Radio Uniwersytet",
+        "city": "Bydgoszcz",
+        "country": "Poland",
+        "url": "https://www.radiouniwersytet.pl/ru128.mp3"
+    },
+    {
+        "name": "ESKA Bydgoszcz 94.4 FM",
+        "city": "Bydgoszcz",
+        "country": "Poland",
+        "url": "https://ic1.smcdn.pl/2030-1.mp3"
+    },
+    {
+        "name": "Radio Początek",
+        "city": "Bielsko-Biała",
+        "country": "Poland",
+        "url": "https://s5.ssl-stream.com/stream/radiopoczatek"
+    },
+    {
+        "name": "Radio Bielsko",
+        "city": "Bielsko-Biała",
+        "country": "Poland",
+        "url": "https://n18a-eu.rcs.revma.com/062uq3z3kwzuv?rj-ttl=5&rj-tok=AAABm_nPRAsAI7h8Y8o1AIVO8A"
+    },
+    {
+        "name": "Radio Express",
+        "city": "Bielsko-Biała",
+        "country": "Poland",
+        "url": "https://n07a-eu.rcs.revma.com/yx6cub73kwzuv?rj-ttl=5&rj-tok=AAABm_nPRUcAP0c5oh0Tjl1TMg"
+    },
+    {
+        "name": "Radio WeekendFM",
+        "city": "Piła",
+        "country": "Poland",
+        "url": "https://n06.rcs.revma.com/vw8w2zwpsy3vv?rj-ttl=5&rj-tok=AAABm_nPQeMAlax69yKqOG0SWw"
+    }
+]

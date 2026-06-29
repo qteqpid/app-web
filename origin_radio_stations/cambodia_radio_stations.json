@@ -1,0 +1,72 @@
+[
+  {
+    "id": "cambodia-pattaya-mundee-พัทยามันดี-fm-91",
+    "name": "Pattaya Mundee พัทยามันดี FM 91",
+    "url": "https://radio14.plathong.net/8072/stream/1/;/OBdirect",
+    "genre": "Music",
+    "city": "Phnom Penh",
+    "country": "Cambodia",
+    "lat": 11.5730391,
+    "lng": 104.857807
+  },
+  {
+    "id": "cambodia-city-life-fm",
+    "name": "City Life FM",
+    "url": "https://radio14.plathong.net/8076/;stream.mp3",
+    "genre": "Music",
+    "city": "Phnom Penh",
+    "country": "Cambodia",
+    "lat": 11.5730391,
+    "lng": 104.857807
+  },
+  {
+    "id": "cambodia-krb-radio",
+    "name": "KRB Radio",
+    "url": "https://radio1.ohmi-design.com/8086/index.html?sid=1",
+    "genre": "Music",
+    "city": "Phnom Penh",
+    "country": "Cambodia",
+    "lat": 11.5730391,
+    "lng": 104.857807
+  },
+  {
+    "id": "cambodia-radio-fm-103-mhz-phnom-penh",
+    "name": "Radio FM 103 MHz Phnom Penh",
+    "url": "http://radio99.servradio.com:9294/index.html?sid=1",
+    "genre": "Music",
+    "city": "Phnom Penh",
+    "country": "Cambodia",
+    "lat": 11.5730391,
+    "lng": 104.857807
+  },
+  {
+    "id": "cambodia-វិទ្យុគ្រួសារ-fm-995",
+    "name": "វិទ្យុគ្រួសារ FM 99.5",
+    "url": "https://s14.myradiostream.com/:10064/;.mp3",
+    "genre": "Music",
+    "city": "Phnom Penh",
+    "country": "Cambodia",
+    "lat": 11.5730391,
+    "lng": 104.857807
+  },
+  {
+    "id": "cambodia-ppat-buriram-fm-10175",
+    "name": "PPAT Buriram FM 101.75",
+    "url": "https://radio-org-01-ott.prd.go.th/brm_fm101_75",
+    "genre": "Music",
+    "city": "Phnom Penh",
+    "country": "Cambodia",
+    "lat": 11.5730391,
+    "lng": 104.857807
+  },
+  {
+    "id": "cambodia-what-tha-sawang-fm-106",
+    "name": "What Tha Sawang FM 106",
+    "url": "https://lnwradio.hostsevenplus.com/9544/audio.php",
+    "genre": "Music",
+    "city": "Phnom Penh",
+    "country": "Cambodia",
+    "lat": 11.5730391,
+    "lng": 104.857807
+  }
+]

@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "portugal-popular-fm-909",
+    "name": "Popular FM 90.9",
+    "url": "http://185.11.164.106:32281/stream/",
+    "genre": "Music",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "lat": 38.7077507,
+    "lng": -9.1365919
+  },
+  {
+    "id": "portugal-rlx-rádio-lisboa",
+    "name": "RLX-Rádio Lisboa",
+    "url": "https://c18.radioboss.fm:18206/stream",
+    "genre": "Music",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "lat": 38.7077507,
+    "lng": -9.1365919
+  },
+  {
+    "id": "portugal-radio-musical",
+    "name": "Radio Musical",
+    "url": "https://sp0.redeaudio.com/9960/",
+    "genre": "Music",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "lat": 38.7077507,
+    "lng": -9.1365919
+  },
+  {
+    "id": "portugal-rádio-salesiana",
+    "name": "Rádio Salesiana",
+    "url": "https://ec2.yesstreaming.net:5125/stream",
+    "genre": "Music",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "lat": 38.7077507,
+    "lng": -9.1365919
+  },
+  {
+    "id": "portugal-rádio-orbital-fm",
+    "name": "Rádio Orbital FM",
+    "url": "https://ec2.yesstreaming.net:3025/stream",
+    "genre": "Music",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "lat": 38.7077507,
+    "lng": -9.1365919
+  },
+  {
+    "id": "portugal-capsão-1064-fm",
+    "name": "Capsão 106.4 FM",
+    "url": "https://capsaolisboa.ice.infomaniak.ch/capsaolisboa-128.mp3",
+    "genre": "Music",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "lat": 38.7077507,
+    "lng": -9.1365919
+  },
+  {
+    "id": "portugal-tsf-rádio-notícias-895-fm",
+    "name": "TSF Rádio Notícias 89.5 FM",
+    "url": "https://directo.tsf.pt/tsfdirecto.mp3",
+    "genre": "Music",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "lat": 38.7077507,
+    "lng": -9.1365919
+  },
+  {
+    "id": "portugal-esradiopt",
+    "name": "ESRadioPT",
+    "url": "http://www.esradio.pt:8000/stream4",
+    "genre": "Music",
+    "city": "Porto",
+    "country": "Portugal",
+    "lat": 41.1502195,
+    "lng": -8.6103497
+  },
+  {
+    "id": "portugal-rádio-autónoma",
+    "name": "Rádio Autónoma",
+    "url": "https://spaudio.servers.pt/8006/stream",
+    "genre": "Music",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "lat": 38.7077507,
+    "lng": -9.1365919
+  },
+  {
+    "id": "portugal-radio-ritmos",
+    "name": "Radio Ritmos",
+    "url": "https://cast2.hoost.com.br:20063/stream",
+    "genre": "Music",
+    "city": "Porto",
+    "country": "Portugal",
+    "lat": 41.1502195,
+    "lng": -8.6103497
+  },
+  {
+    "id": "portugal-rádio-nova-nacional",
+    "name": "Rádio Nova Nacional",
+    "url": "https://hts07.brascast.com:9176/live",
+    "genre": "Music",
+    "city": "Porto",
+    "country": "Portugal",
+    "lat": 41.1502195,
+    "lng": -8.6103497
+  },
+  {
+    "id": "portugal-antena-1",
+    "name": "Antena 1",
+    "url": "https://radiocast.rtp.pt/antena180a.mp3",
+    "genre": "Music",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "lat": 38.7077507,
+    "lng": -9.1365919
+  },
+  {
+    "id": "portugal-rádio-renascença",
+    "name": "Rádio Renascença",
+    "url": "https://28563.live.streamtheworld.com:443/RADIO_RENASCENCAAAC.aac",
+    "genre": "Music",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "lat": 38.7077507,
+    "lng": -9.1365919
+  },
+  {
+    "id": "portugal-rfm--oceano-pacífico",
+    "name": "RFM - Oceano Pacífico",
+    "url": "https://28513.live.streamtheworld.com:443/OCEANPACIFICAAC.aac",
+    "genre": "Music",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "lat": 38.7077507,
+    "lng": -9.1365919
+  },
+  {
+    "id": "portugal-rádio-zigzag",
+    "name": "Rádio ZigZag",
+    "url": "https://radiocast.rtp.pt/zigzag80a.mp3",
+    "genre": "Music",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "lat": 38.7077507,
+    "lng": -9.1365919
+  },
+  {
+    "id": "portugal-sintonia-feirense",
+    "name": "Sintonia Feirense",
+    "url": "https://sp0.redeaudio.com/9832/stream",
+    "genre": "Music",
+    "city": "Porto",
+    "country": "Portugal",
+    "lat": 41.1502195,
+    "lng": -8.6103497
+  },
+  {
+    "id": "portugal-rfm",
+    "name": "RFM",
+    "url": "https://22543.live.streamtheworld.com:443/RFMAAC.aac",
+    "genre": "Music",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "lat": 38.7077507,
+    "lng": -9.1365919
+  },
+  {
+    "id": "portugal-luna-fm--portugal",
+    "name": "LUNA FM - Portugal",
+    "url": "https://stream-168.zeno.fm/97gyvgz7kyvtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI5N2d5dmd6N2t5dnR2IiwiaG9zdCI6InN0cmVhbS0xNjguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiWnJWbEgtdWxUVEtWd0pRWW0wV0w5USIsImlhdCI6MTc2OTQyMjEwMSwiZXhwIjoxNzY5NDIyMTYxfQ.AAPAzbXUfHzA0KI8rB35VIO6BN96OiyTa7YZx372cK0",
+    "genre": "Music",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "lat": 38.7077507,
+    "lng": -9.1365919
+  },
+  {
+    "id": "portugal-rádio-voz-de-esmoriz",
+    "name": "Rádio Voz de Esmoriz",
+    "url": "https://cast.redewt.net:9820/stream",
+    "genre": "Music",
+    "city": "Porto",
+    "country": "Portugal",
+    "lat": 41.1502195,
+    "lng": -8.6103497
+  },
+  {
+    "id": "portugal-rádio-azul-fm-989",
+    "name": "Rádio Azul FM 98.9",
+    "url": "https://sado.radioazul.pt/live?type=.mp3/;",
+    "genre": "Music",
+    "city": "Setúbal",
+    "country": "Portugal",
+    "lat": 38.5241783,
+    "lng": -8.8932341
+  },
+  {
+    "id": "portugal-rádio-dd",
+    "name": "Rádio DD",
+    "url": "https://cast.redewt.net:9826/stream",
+    "genre": "Music",
+    "city": "Setúbal",
+    "country": "Portugal",
+    "lat": 38.5241783,
+    "lng": -8.8932341
+  },
+  {
+    "id": "portugal-rádio-linear-fm-886",
+    "name": "Rádio Linear FM 88.6",
+    "url": "https://nl.digitalrm.pt:8184/stream",
+    "genre": "Music",
+    "city": "Porto",
+    "country": "Portugal",
+    "lat": 41.1502195,
+    "lng": -8.6103497
+  },
+  {
+    "id": "portugal-mr80s",
+    "name": "MR80's",
+    "url": "https://stream-179.zeno.fm/rgnxkctthm8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJyZ254a2N0dGhtOHV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiR19LYktRMnJUTGl2UnhOVnVZNXRfUSIsImlhdCI6MTc2OTQyMjEwMywiZXhwIjoxNzY5NDIyMTYzfQ.3HeaQ9Tdlt-0lqERh_3vZFICf6EQWuFYQbXj5mN9-bE",
+    "genre": "Music",
+    "city": "Setúbal",
+    "country": "Portugal",
+    "lat": 38.5241783,
+    "lng": -8.8932341
+  },
+  {
+    "id": "portugal-radio-romantica",
+    "name": "Radio Romantica",
+    "url": "https://sp0.redeaudio.com:10982/index.html?sid=1",
+    "genre": "Music",
+    "city": "Setúbal",
+    "country": "Portugal",
+    "lat": 38.5241783,
+    "lng": -8.8932341
+  },
+  {
+    "id": "portugal-super-fm-1048",
+    "name": "Super FM 104.8",
+    "url": "https://play.radioregional.pt:8210/stream/1/;/stream.mp3",
+    "genre": "Music",
+    "city": "Setúbal",
+    "country": "Portugal",
+    "lat": 38.5241783,
+    "lng": -8.8932341
+  },
+  {
+    "id": "portugal-veepradiocom",
+    "name": "Veepradio.com",
+    "url": "https://listen.radioking.com/radio/42445/stream/79033",
+    "genre": "Music",
+    "city": "Porto",
+    "country": "Portugal",
+    "lat": 41.1502195,
+    "lng": -8.6103497
+  },
+  {
+    "id": "portugal-radio-ovos-moles",
+    "name": "Radio Ovos Moles",
+    "url": "https://sp0.redeaudio.com/9330/",
+    "genre": "Music",
+    "city": "Aveiro",
+    "country": "Portugal",
+    "lat": 40.640496,
+    "lng": -8.6537841
+  },
+  {
+    "id": "portugal-som-da-baixa-setubal",
+    "name": "Som da Baixa Setubal",
+    "url": "https://sp0.redeaudio.com:10998/index.html?sid=1",
+    "genre": "Music",
+    "city": "Setúbal",
+    "country": "Portugal",
+    "lat": 38.5241783,
+    "lng": -8.8932341
+  },
+  {
+    "id": "portugal-alternativa-radio",
+    "name": "Alternativa Radio",
+    "url": "https://sp0.redeaudio.com/9870/stream",
+    "genre": "Music",
+    "city": "Setúbal",
+    "country": "Portugal",
+    "lat": 38.5241783,
+    "lng": -8.8932341
+  },
+  {
+    "id": "portugal-ntr--network-radio",
+    "name": "NTR - Network Radio",
+    "url": "https://is.ntradio.pt/ntr#.mp3",
+    "genre": "Music",
+    "city": "Setúbal",
+    "country": "Portugal",
+    "lat": 38.5241783,
+    "lng": -8.8932341
+  },
+  {
+    "id": "portugal-radio-pirate",
+    "name": "Radio Pirate",
+    "url": "https://sp0.redeaudio.com/9976/stream",
+    "genre": "Music",
+    "city": "Aveiro",
+    "country": "Portugal",
+    "lat": 40.640496,
+    "lng": -8.6537841
+  },
+  {
+    "id": "portugal-exotica-radio",
+    "name": "Exotica Radio",
+    "url": "https://solid67.streamupsolutions.com/proxy/repadnom?mp=/;type=mp3",
+    "genre": "Music",
+    "city": "Aveiro",
+    "country": "Portugal",
+    "lat": 40.640496,
+    "lng": -8.6537841
+  },
+  {
+    "id": "portugal-top-fm-959",
+    "name": "Top FM 95.9",
+    "url": "https://radios3.justweb.pt/8012/stream",
+    "genre": "Music",
+    "city": "Aveiro",
+    "country": "Portugal",
+    "lat": 40.640496,
+    "lng": -8.6537841
+  },
+  {
+    "id": "portugal-radio-luso-europeu",
+    "name": "Radio Luso Europeu",
+    "url": "https://player.stmxp.net/proxy/7000",
+    "genre": "Music",
+    "city": "Aveiro",
+    "country": "Portugal",
+    "lat": 40.640496,
+    "lng": -8.6537841
+  },
+  {
+    "id": "portugal-radio-avfm",
+    "name": "Radio AVFM",
+    "url": "https://uk2.streamingpulse.com/ssl/radioavfm",
+    "genre": "Music",
+    "city": "Aveiro",
+    "country": "Portugal",
+    "lat": 40.640496,
+    "lng": -8.6537841
+  },
+  {
+    "id": "portugal-radio-esfera",
+    "name": "Radio Esfera",
+    "url": "https://s01.svrdedicado.org:7800/stream/",
+    "genre": "Music",
+    "city": "Aveiro",
+    "country": "Portugal",
+    "lat": 40.640496,
+    "lng": -8.6537841
+  },
+  {
+    "id": "portugal-rádio-nova-fm-989",
+    "name": "Rádio Nova FM 98.9",
+    "url": "https://centova.radio.com.pt/proxy/528?mp=/stream",
+    "genre": "Music",
+    "city": "Porto",
+    "country": "Portugal",
+    "lat": 41.1502195,
+    "lng": -8.6103497
+  },
+  {
+    "id": "portugal-rádio-amália-920-fm",
+    "name": "Rádio Amália 92.0 FM",
+    "url": "https://centova.radios.pt/proxy/496?mp=/stream",
+    "genre": "Music",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "lat": 38.7077507,
+    "lng": -9.1365919
+  },
+  {
+    "id": "portugal-rádio-observador-fm-987",
+    "name": "Rádio Observador FM 98.7",
+    "url": "https://centova.radio.com.pt/proxy/455?mp=/stream",
+    "genre": "Music",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "lat": 38.7077507,
+    "lng": -9.1365919
+  },
+  {
+    "id": "portugal-rádio-vila-nova",
+    "name": "Rádio Vila Nova",
+    "url": "https://rs2.ptservidor.com/proxy/livetech?mp=/stream",
+    "genre": "Music",
+    "city": "Aveiro",
+    "country": "Portugal",
+    "lat": 40.640496,
+    "lng": -8.6537841
+  },
+  {
+    "id": "portugal-rádio-botareu-1000-fm",
+    "name": "Rádio Botareu 100.0 FM",
+    "url": "https://nl.digitalrm.pt:8238/stream",
+    "genre": "Music",
+    "city": "Aveiro",
+    "country": "Portugal",
+    "lat": 40.640496,
+    "lng": -8.6537841
+  },
+  {
+    "id": "portugal-cascais-fm-1054",
+    "name": "Cascais FM 105.4",
+    "url": "https://play.radioregional.pt:8220/stream/2/;;/stream.mp3",
+    "genre": "Music",
+    "city": "Cascais",
+    "country": "Portugal",
+    "lat": 38.6968919,
+    "lng": -9.4204495
+  },
+  {
+    "id": "portugal-rádio-voz-de-santo-tirso",
+    "name": "Rádio Voz de Santo Tirso",
+    "url": "https://servidor23.brlogic.com:7110/live",
+    "genre": "Music",
+    "city": "Porto",
+    "country": "Portugal",
+    "lat": 41.1502195,
+    "lng": -8.6103497
+  },
+  {
+    "id": "portugal-radio-lusophonica",
+    "name": "Radio Lusophonica",
+    "url": "http://n0c.radiojar.com/dxkmh6hv1f8uv?rj-ttl=5&rj-tok=AAABm_nP434AqXHnvsbUnfcANA",
+    "genre": "Music",
+    "city": "Cascais",
+    "country": "Portugal",
+    "lat": 38.6968919,
+    "lng": -9.4204495
+  },
+  {
+    "id": "portugal-radio-onda-viva-961-fm",
+    "name": "Radio Onda Viva 96.1 FM",
+    "url": "https://centova.radio.com.pt/proxy/524?mp=/stream",
+    "genre": "Music",
+    "city": "Porto",
+    "country": "Portugal",
+    "lat": 41.1502195,
+    "lng": -8.6103497
+  },
+  {
+    "id": "portugal-cascais-net-radio",
+    "name": "Cascais Net Radio",
+    "url": "http://185.32.188.17:8009/stream",
+    "genre": "Music",
+    "city": "Cascais",
+    "country": "Portugal",
+    "lat": 38.6968919,
+    "lng": -9.4204495
+  },
+  {
+    "id": "portugal-informedia-fm-1063",
+    "name": "Informedia FM 106.3",
+    "url": "https://stream-176.zeno.fm/vpbuzz4fxuzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2cGJ1eno0Znh1enV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiRVY4MEFPdzRUSHFRbldzM3d5MmVlZyIsImlhdCI6MTc2OTQyMjEwOCwiZXhwIjoxNzY5NDIyMTY4fQ.2ifgX4pZE9mcZXWXsLpPbyGWGlJkTxTEaU3XUiT50N0",
+    "genre": "Music",
+    "city": "Vila Nova de Gaia",
+    "country": "Portugal",
+    "lat": 41.1292264,
+    "lng": -8.6057396
+  },
+  {
+    "id": "portugal-jocavi-radio",
+    "name": "JOCAVI Radio",
+    "url": "https://sp0.redeaudio.com/9930/stream",
+    "genre": "Music",
+    "city": "Cascais",
+    "country": "Portugal",
+    "lat": 38.6968919,
+    "lng": -9.4204495
+  },
+  {
+    "id": "portugal-rádio-record-fm",
+    "name": "Rádio Record FM",
+    "url": "https://nl.digitalrm.pt:8028/stream",
+    "genre": "Music",
+    "city": "Vila Nova de Gaia",
+    "country": "Portugal",
+    "lat": 41.1292264,
+    "lng": -8.6057396
+  },
+  {
+    "id": "portugal-vamos-ao-fado",
+    "name": "Vamos ao Fado",
+    "url": "https://stream-175.zeno.fm/60ygyca015quv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2MHlneWNhMDE1cXV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiN3ZpRG9TZExUZXF0bVJGVGtPQzl2USIsImlhdCI6MTc2OTQyMjEwOSwiZXhwIjoxNzY5NDIyMTY5fQ.zv8up0nlWn7--z_hp3TCXycmJNHsplGByaRZemKeF2M",
+    "genre": "Music",
+    "city": "Vila Nova de Gaia",
+    "country": "Portugal",
+    "lat": 41.1292264,
+    "lng": -8.6057396
+  },
+  {
+    "id": "portugal-zona-rock-radio-online",
+    "name": "Zona Rock Radio Online",
+    "url": "https://sp0.redeaudio.com/9996/stream",
+    "genre": "Music",
+    "city": "Sintra",
+    "country": "Portugal",
+    "lat": 38.8355446,
+    "lng": -9.3522371
+  },
+  {
+    "id": "portugal-rca-944-fm",
+    "name": "RCA 94.4 FM",
+    "url": "http://rcasul.ddns.net:8000/stream",
+    "genre": "Music",
+    "city": "Beja",
+    "country": "Portugal",
+    "lat": 38.0154479,
+    "lng": -7.8650368
+  },
+  {
+    "id": "portugal-rádio-planície",
+    "name": "Rádio Planície",
+    "url": "http://109.71.41.6:8026/stream/",
+    "genre": "Music",
+    "city": "Beja",
+    "country": "Portugal",
+    "lat": 38.0154479,
+    "lng": -7.8650368
+  },
+  {
+    "id": "portugal-rádio-h",
+    "name": "Rádio H",
+    "url": "https://sp0.redeaudio.com/8034/stream",
+    "genre": "Music",
+    "city": "Beja",
+    "country": "Portugal",
+    "lat": 38.0154479,
+    "lng": -7.8650368
+  },
+  {
+    "id": "portugal-rds-876-fm",
+    "name": "RDS 87.6 FM",
+    "url": "https://s9.yesstreaming.net:7070/stream",
+    "genre": "Music",
+    "city": "Cascais",
+    "country": "Portugal",
+    "lat": 38.6968919,
+    "lng": -9.4204495
+  },
+  {
+    "id": "portugal-radio-ideias-web",
+    "name": "Radio Ideias Web",
+    "url": "https://rs4.ptservidor.net/8006/stream",
+    "genre": "Music",
+    "city": "Sintra",
+    "country": "Portugal",
+    "lat": 38.8355446,
+    "lng": -9.3522371
+  },
+  {
+    "id": "portugal-tuga-fm",
+    "name": "Tuga FM",
+    "url": "https://tugafm.stream.laut.fm/tugafm",
+    "genre": "Music",
+    "city": "Setúbal",
+    "country": "Portugal",
+    "lat": 38.5241783,
+    "lng": -8.8932341
+  },
+  {
+    "id": "portugal-tla-rádio",
+    "name": "TLA Rádio",
+    "url": "http://centova.radios.pt:8545/stream/",
+    "genre": "Music",
+    "city": "Beja",
+    "country": "Portugal",
+    "lat": 38.0154479,
+    "lng": -7.8650368
+  },
+  {
+    "id": "portugal-radio-nova-era-fm-1013",
+    "name": "Radio Nova Era FM 101.3",
+    "url": "https://centova.radio.com.pt/proxy/478?mp=/stream",
+    "genre": "Music",
+    "city": "Vila Nova de Gaia",
+    "country": "Portugal",
+    "lat": 41.1292264,
+    "lng": -8.6057396
+  },
+  {
+    "id": "portugal-rádio-pax",
+    "name": "Rádio Pax",
+    "url": "http://centova.radio.com.pt:9484/index.html?sid=1",
+    "genre": "Music",
+    "city": "Beja",
+    "country": "Portugal",
+    "lat": 38.0154479,
+    "lng": -7.8650368
+  },
+  {
+    "id": "portugal-rádio-esdg",
+    "name": "Rádio ESDG",
+    "url": "https://stream-177.zeno.fm/0emqj6gcjpzvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwZW1xajZnY2pwenZ2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiT1FvMElJbm1TR0NMUTNWUzFQM2xuZyIsImlhdCI6MTc2OTQyMjExMSwiZXhwIjoxNzY5NDIyMTcxfQ.SB2nry84Cazno1qDlMkv2_b5bzoX4-9ZQtyI4EevDUo",
+    "genre": "Music",
+    "city": "Beja",
+    "country": "Portugal",
+    "lat": 38.0154479,
+    "lng": -7.8650368
+  },
+  {
+    "id": "portugal-rio--rádio-internacional",
+    "name": "RIO - Rádio Internacional",
+    "url": "https://c30.radioboss.fm:18510/stream",
+    "genre": "Music",
+    "city": "Albufeira",
+    "country": "Portugal",
+    "lat": 37.088241,
+    "lng": -8.2526339
+  },
+  {
+    "id": "portugal-rádio-caima-fm-971",
+    "name": "Rádio Caima FM 97.1",
+    "url": "https://caimafm.ovh/caimafm",
+    "genre": "Music",
+    "city": "Oliveira de Azeméis",
+    "country": "Portugal",
+    "lat": 40.8390118,
+    "lng": -8.4777807
+  },
+  {
+    "id": "portugal-radio-castrense",
+    "name": "Radio Castrense",
+    "url": "http://centova.radio.com.pt:8431/stream",
+    "genre": "Music",
+    "city": "Albufeira",
+    "country": "Portugal",
+    "lat": 37.088241,
+    "lng": -8.2526339
+  },
+  {
+    "id": "portugal-rádio-portimão-fm-1065",
+    "name": "Rádio Portimão FM 106.5",
+    "url": "https://sp0.redeaudio.com/9440/stream",
+    "genre": "Music",
+    "city": "Albufeira",
+    "country": "Portugal",
+    "lat": 37.088241,
+    "lng": -8.2526339
+  },
+  {
+    "id": "portugal-antena-sul-fm-904",
+    "name": "Antena Sul FM 90.4",
+    "url": "https://nl.digitalrm.pt:8014/stream",
+    "genre": "Music",
+    "city": "Beja",
+    "country": "Portugal",
+    "lat": 38.0154479,
+    "lng": -7.8650368
+  },
+  {
+    "id": "portugal-kiss-fm-958",
+    "name": "Kiss FM 95.8",
+    "url": "https://nl.digitalrm.pt:8024/stream",
+    "genre": "Music",
+    "city": "Albufeira",
+    "country": "Portugal",
+    "lat": 37.088241,
+    "lng": -8.2526339
+  },
+  {
+    "id": "portugal-solar-94-fm",
+    "name": "Solar 94 FM",
+    "url": "https://radios2.justweb.pt/8052/stream.mp3",
+    "genre": "Music",
+    "city": "Albufeira",
+    "country": "Portugal",
+    "lat": 37.088241,
+    "lng": -8.2526339
+  },
+  {
+    "id": "portugal-azemeis-fm-897",
+    "name": "Azeméis FM 89.7",
+    "url": "https://stream.azfm.com/azfm",
+    "genre": "Music",
+    "city": "Oliveira de Azeméis",
+    "country": "Portugal",
+    "lat": 40.8390118,
+    "lng": -8.4777807
+  },
+  {
+    "id": "portugal-rádio-evangelica-maranata",
+    "name": "Rádio Evangélica Maranata",
+    "url": "https://servidor38.brlogic.com:8794/live",
+    "genre": "Music",
+    "city": "Vila Nova de Gaia",
+    "country": "Portugal",
+    "lat": 41.1292264,
+    "lng": -8.6057396
+  },
+  {
+    "id": "portugal-geice-fm",
+    "name": "Geice FM",
+    "url": "https://ec2.yesstreaming.net:3275/stream",
+    "genre": "Music",
+    "city": "Viana do Castelo",
+    "country": "Portugal",
+    "lat": 41.694867,
+    "lng": -8.831088
+  },
+  {
+    "id": "portugal-o-cidadão-rádio",
+    "name": "O Cidadão Rádio",
+    "url": "https://servidor27.brlogic.com:7000/live",
+    "genre": "Music",
+    "city": "Vila Nova de Gaia",
+    "country": "Portugal",
+    "lat": 41.1292264,
+    "lng": -8.6057396
+  },
+  {
+    "id": "portugal-record-fm-algarve",
+    "name": "Récord FM Algarve",
+    "url": "https://nl.digitalrm.pt:8020/stream",
+    "genre": "Music",
+    "city": "Albufeira",
+    "country": "Portugal",
+    "lat": 37.088241,
+    "lng": -8.2526339
+  },
+  {
+    "id": "portugal-radio-alto-minho-fm-970",
+    "name": "Radio Alto Minho FM 97.0",
+    "url": "https://ec2.yesstreaming.net:3705/stream",
+    "genre": "Music",
+    "city": "Viana do Castelo",
+    "country": "Portugal",
+    "lat": 41.694867,
+    "lng": -8.831088
+  },
+  {
+    "id": "portugal-rádio-ophelia",
+    "name": "Rádio Ophelia",
+    "url": "https://live.radio-ophelia.pt:8443/radio",
+    "genre": "Music",
+    "city": "Amadora",
+    "country": "Portugal",
+    "lat": 38.758959,
+    "lng": -9.2365233
+  },
+  {
+    "id": "portugal-radio-popular-afifense-fm-876",
+    "name": "Radio Popular Afifense FM 87.6",
+    "url": "http://centova.radios.pt:8471/stream/",
+    "genre": "Music",
+    "city": "Viana do Castelo",
+    "country": "Portugal",
+    "lat": 41.694867,
+    "lng": -8.831088
+  },
+  {
+    "id": "portugal-rcs-912-fm-lisboa",
+    "name": "RCS 91.2 FM Lisboa",
+    "url": "https://centova.radio.com.pt/proxy/445?mp=/stream",
+    "genre": "Music",
+    "city": "Sintra",
+    "country": "Portugal",
+    "lat": 38.8355446,
+    "lng": -9.3522371
+  },
+  {
+    "id": "portugal-rádio-vox-da-planície",
+    "name": "Rádio Vox da Planície",
+    "url": "https://centova.radio.com.pt/proxy/441?mp=/stream",
+    "genre": "Music",
+    "city": "Beja",
+    "country": "Portugal",
+    "lat": 38.0154479,
+    "lng": -7.8650368
+  },
+  {
+    "id": "portugal-saudade-cidade",
+    "name": "Saudade Cidade",
+    "url": "https://stream-177.zeno.fm/q9k377tdzy8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxOWszNzd0ZHp5OHV2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiZUxpVWFGVlhRM1NtY2ZMTmthWGNoZyIsImlhdCI6MTc2OTQyMjExNCwiZXhwIjoxNzY5NDIyMTc0fQ.lE_2ggy2y2FYaGwTMqHPSjoLZh53qtp4PFv8eaZMIW8",
+    "genre": "Music",
+    "city": "Amadora",
+    "country": "Portugal",
+    "lat": 38.758959,
+    "lng": -9.2365233
+  },
+  {
+    "id": "portugal-rádio-santiago",
+    "name": "Rádio Santiago",
+    "url": "http://eu6.fastcast4u.com:5002/stream",
+    "genre": "Music",
+    "city": "Guimaraes",
+    "country": "Portugal",
+    "lat": 41.4417677,
+    "lng": -8.2955712
+  },
+  {
+    "id": "portugal-rádio-santiago--canal-2",
+    "name": "Rádio Santiago - Canal 2",
+    "url": "http://eu6.fastcast4u.com:5002/canal2",
+    "genre": "Music",
+    "city": "Guimaraes",
+    "country": "Portugal",
+    "lat": 41.4417677,
+    "lng": -8.2955712
+  },
+  {
+    "id": "portugal-luna-fm--world",
+    "name": "LUNA FM - World",
+    "url": "https://streaming.shoutcast.com/lunafm-world-aac",
+    "genre": "Music",
+    "city": "Odivelas",
+    "country": "Portugal",
+    "lat": 38.7904338,
+    "lng": -9.1792617
+  },
+  {
+    "id": "portugal-radio-caminha-fm-1062",
+    "name": "Radio Caminha FM 106.2",
+    "url": "https://sp0.redeaudio.com/9918/stream",
+    "genre": "Music",
+    "city": "Viana do Castelo",
+    "country": "Portugal",
+    "lat": 41.694867,
+    "lng": -8.831088
+  },
+  {
+    "id": "portugal-rádio-fundação-fm-958",
+    "name": "Rádio Fundação FM 95.8",
+    "url": "https://radios2.justweb.pt:8092/stream",
+    "genre": "Music",
+    "city": "Guimaraes",
+    "country": "Portugal",
+    "lat": 41.4417677,
+    "lng": -8.2955712
+  },
+  {
+    "id": "portugal-radio-marginal",
+    "name": "Radio Marginal",
+    "url": "https://centova.radio.com.pt/proxy/499?mp=/stream",
+    "genre": "Music",
+    "city": "Cascais",
+    "country": "Portugal",
+    "lat": 38.6968919,
+    "lng": -9.4204495
+  },
+  {
+    "id": "portugal-rádio-regional--emissão-nacional",
+    "name": "Rádio Regional - Emissão Nacional",
+    "url": "https://play1.radioregional.pt/stream/2/",
+    "genre": "Music",
+    "city": "Maia",
+    "country": "Portugal",
+    "lat": 41.2373456,
+    "lng": -8.6299982
+  },
+  {
+    "id": "portugal-rádio-clube-fm-1018",
+    "name": "Rádio Clube FM 101.8",
+    "url": "https://server3.webradios.com.br:19442/9442",
+    "genre": "Music",
+    "city": "Guimaraes",
+    "country": "Portugal",
+    "lat": 41.4417677,
+    "lng": -8.2955712
+  },
+  {
+    "id": "portugal-tunetradio",
+    "name": "TunetRadio",
+    "url": "https://rs2.ptservidor.com/proxy/tunetradio?mp=/stream?type=.mp3",
+    "genre": "Music",
+    "city": "Odivelas",
+    "country": "Portugal",
+    "lat": 38.7904338,
+    "lng": -9.1792617
+  },
+  {
+    "id": "portugal-rqc--radio-quinta-do-conde",
+    "name": "RQC - Radio Quinta do Conde",
+    "url": "https://sp0.redeaudio.com/8100/stream",
+    "genre": "Music",
+    "city": "Almada",
+    "country": "Portugal",
+    "lat": 38.6831302,
+    "lng": -9.1576301
+  },
+  {
+    "id": "portugal-rádio-clube-de-arganil-885-fm",
+    "name": "Rádio Clube de Arganil 88.5 FM",
+    "url": "http://176.9.43.216:8135/stream",
+    "genre": "Music",
+    "city": "Castelo Branco",
+    "country": "Portugal",
+    "lat": 39.9767583,
+    "lng": -7.4460599
+  },
+  {
+    "id": "portugal-rádio-regional-de-arouca-1032-fm",
+    "name": "Rádio Regional de Arouca 103.2 FM",
+    "url": "https://centova.radio.com.pt/proxy/485?mp=/stream",
+    "genre": "Music",
+    "city": "Oliveira de Azeméis",
+    "country": "Portugal",
+    "lat": 40.8390118,
+    "lng": -8.4777807
+  },
+  {
+    "id": "portugal-rádio-urbana-fm-975",
+    "name": "Rádio Urbana FM 97.5",
+    "url": "https://radios2.justweb.pt/8038/stream",
+    "genre": "Music",
+    "city": "Castelo Branco",
+    "country": "Portugal",
+    "lat": 39.9767583,
+    "lng": -7.4460599
+  },
+  {
+    "id": "portugal-rádio-noar-fm-1078",
+    "name": "Rádio NoAr FM 107.8",
+    "url": "https://radios.justweb.pt/8034/stream",
+    "genre": "Music",
+    "city": "Maia",
+    "country": "Portugal",
+    "lat": 41.2373456,
+    "lng": -8.6299982
+  },
+  {
+    "id": "portugal-rádio-clube-são-mamede",
+    "name": "Rádio Clube São Mamede",
+    "url": "http://176.9.43.216:8260/:stream",
+    "genre": "Music",
+    "city": "Vila do Conde",
+    "country": "Portugal",
+    "lat": 41.3540398,
+    "lng": -8.7435403
+  },
+  {
+    "id": "portugal-rds-987-monsanto",
+    "name": "RDS 98.7 Monsanto",
+    "url": "https://s9.yesstreaming.net:9029/stream",
+    "genre": "Music",
+    "city": "Castelo Branco",
+    "country": "Portugal",
+    "lat": 39.9767583,
+    "lng": -7.4460599
+  },
+  {
+    "id": "portugal-radio-afifense-fm-876",
+    "name": "Radio Afifense FM 87.6",
+    "url": "https://centova.radio.com.pt/proxy/471?mp=/stream",
+    "genre": "Music",
+    "city": "Viana do Castelo",
+    "country": "Portugal",
+    "lat": 41.694867,
+    "lng": -8.831088
+  },
+  {
+    "id": "portugal-rádio-matosinhos-online",
+    "name": "Rádio Matosinhos Online",
+    "url": "http://185.32.188.17:8035/stream",
+    "genre": "Music",
+    "city": "Matosinhos",
+    "country": "Portugal",
+    "lat": 41.1806814,
+    "lng": -8.6821998
+  },
+  {
+    "id": "portugal-rádio-ondas-do-lima",
+    "name": "Rádio Ondas do Lima",
+    "url": "https://centova.radio.com.pt/proxy/407?mp=/stream",
+    "genre": "Music",
+    "city": "Viana do Castelo",
+    "country": "Portugal",
+    "lat": 41.694867,
+    "lng": -8.831088
+  },
+  {
+    "id": "portugal-xradio",
+    "name": "Xradio",
+    "url": "https://radio.xradio.pt/listen/xradio/radio.mp3",
+    "genre": "Music",
+    "city": "Matosinhos",
+    "country": "Portugal",
+    "lat": 41.1806814,
+    "lng": -8.6821998
+  },
+  {
+    "id": "portugal-rádio-nove3cinco",
+    "name": "Rádio Nove3cinco",
+    "url": "https://centova.radio.com.pt/proxy/522?mp=/stream",
+    "genre": "Music",
+    "city": "Guimaraes",
+    "country": "Portugal",
+    "lat": 41.4417677,
+    "lng": -8.2955712
+  },
+  {
+    "id": "portugal-radio-cidade-de-matosinhos",
+    "name": "Radio Cidade de Matosinhos",
+    "url": "https://s1.stmxp.net:8064/index.html?sid=1",
+    "genre": "Music",
+    "city": "Matosinhos",
+    "country": "Portugal",
+    "lat": 41.1806814,
+    "lng": -8.6821998
+  },
+  {
+    "id": "portugal-rádio-boa-nova-fm-1002",
+    "name": "Rádio Boa Nova FM 100.2",
+    "url": "https://nl.digitalrm.pt:8094/stream",
+    "genre": "Music",
+    "city": "Castelo Branco",
+    "country": "Portugal",
+    "lat": 39.9767583,
+    "lng": -7.4460599
+  },
+  {
+    "id": "portugal-rádio-caxinas",
+    "name": "Rádio Caxinas",
+    "url": "https://sp0.redeaudio.com/9826/;stream.mp3",
+    "genre": "Music",
+    "city": "Vila do Conde",
+    "country": "Portugal",
+    "lat": 41.3540398,
+    "lng": -8.7435403
+  },
+  {
+    "id": "portugal-rcp--radio-clube-penafiel-918-fm",
+    "name": "RCP - Radio Clube Penafiel 91.8 FM",
+    "url": "https://centova.radios.com.pt/proxy/476?mp=/stream",
+    "genre": "Music",
+    "city": "Guimaraes",
+    "country": "Portugal",
+    "lat": 41.4417677,
+    "lng": -8.2955712
+  },
+  {
+    "id": "portugal-rádio-inquieta",
+    "name": "Rádio Inquieta",
+    "url": "https://servidor20-3.brlogic.com:7022//live",
+    "genre": "Music",
+    "city": "Guimaraes",
+    "country": "Portugal",
+    "lat": 41.4417677,
+    "lng": -8.2955712
+  },
+  {
+    "id": "portugal-rádio-portalegre-fm-1005",
+    "name": "Rádio Portalegre FM 100.5",
+    "url": "https://centova.radio.com.pt/proxy/492?mp=/stream",
+    "genre": "Music",
+    "city": "Castelo Branco",
+    "country": "Portugal",
+    "lat": 39.9767583,
+    "lng": -7.4460599
+  },
+  {
+    "id": "portugal-rádio-castelo-branco",
+    "name": "Rádio Castelo Branco",
+    "url": "https://centova.radio.com.pt/proxy/462?mp=/stream",
+    "genre": "Music",
+    "city": "Castelo Branco",
+    "country": "Portugal",
+    "lat": 39.9767583,
+    "lng": -7.4460599
+  },
+  {
+    "id": "portugal-radio-voz-da-raia-fm-877",
+    "name": "Radio Voz da Raia FM 87.7",
+    "url": "https://centova.radio.com.pt/proxy/557?mp=/stream",
+    "genre": "Music",
+    "city": "Castelo Branco",
+    "country": "Portugal",
+    "lat": 39.9767583,
+    "lng": -7.4460599
+  }
+]

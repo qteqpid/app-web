@@ -1,0 +1,782 @@
+[
+  {
+    "id": "thailand-js100-traffic-radio",
+    "name": "JS100 Traffic Radio",
+    "url": "http://112.121.151.133:8184/;stream/1",
+    "genre": "Music",
+    "city": "Bangkok",
+    "country": "Thailand",
+    "lat": 13.7524938,
+    "lng": 100.4935089
+  },
+  {
+    "id": "thailand-samyod-radio-station",
+    "name": "Samyod Radio Station",
+    "url": "http://myradio.plathong.net:8068/stream/",
+    "genre": "Music",
+    "city": "Bangkok",
+    "country": "Thailand",
+    "lat": 13.7524938,
+    "lng": 100.4935089
+  },
+  {
+    "id": "thailand-health-radio-fm-9225",
+    "name": "Health Radio FM 92.25",
+    "url": "http://radio.siamtoday.in.th:8188/;stream.mp3",
+    "genre": "Music",
+    "city": "Bangkok",
+    "country": "Thailand",
+    "lat": 13.7524938,
+    "lng": 100.4935089
+  },
+  {
+    "id": "thailand-pongpan-radio-fm-10175-mhz",
+    "name": "Pongpan Radio FM 101.75 MHz",
+    "url": "http://103.22.182.105:7016/index.html?sid=1",
+    "genre": "Music",
+    "city": "Bangkok",
+    "country": "Thailand",
+    "lat": 13.7524938,
+    "lng": 100.4935089
+  },
+  {
+    "id": "thailand-coolfahrenheit-fm-93",
+    "name": "COOLfahrenheit FM 93",
+    "url": "https://coolism-web.cdn.byteark.com/;stream/1",
+    "genre": "Music",
+    "city": "Bangkok",
+    "country": "Thailand",
+    "lat": 13.7524938,
+    "lng": 100.4935089
+  },
+  {
+    "id": "thailand-chorsaard",
+    "name": "Chorsaard",
+    "url": "https://radio12.plathong.net/9999/;stream.mp3",
+    "genre": "Music",
+    "city": "Bangkok",
+    "country": "Thailand",
+    "lat": 13.7524938,
+    "lng": 100.4935089
+  },
+  {
+    "id": "thailand-city-life-fm",
+    "name": "City Life FM",
+    "url": "https://radio14.plathong.net/8076/;stream.mp3",
+    "genre": "Music",
+    "city": "Bangkok",
+    "country": "Thailand",
+    "lat": 13.7524938,
+    "lng": 100.4935089
+  },
+  {
+    "id": "thailand-eingdoi-radio",
+    "name": "Eingdoi Radio",
+    "url": "https://radio1.ohmi-design.com/8170/index.html?sid=1",
+    "genre": "Music",
+    "city": "Bangkok",
+    "country": "Thailand",
+    "lat": 13.7524938,
+    "lng": 100.4935089
+  },
+  {
+    "id": "thailand-am-1386-khz-สถานีวิทยุเพื่อการเกษตร",
+    "name": "AM 1386 KHz สถานีวิทยุเพื่อการเกษตร",
+    "url": "http://media.login.in.th:8145/index.html?sid=1",
+    "genre": "Music",
+    "city": "Bangkok",
+    "country": "Thailand",
+    "lat": 13.7524938,
+    "lng": 100.4935089
+  },
+  {
+    "id": "thailand-nbt-am-891-radio-thailand",
+    "name": "NBT AM 891 Radio Thailand",
+    "url": "http://media.login.in.th:8405/stream/",
+    "genre": "Music",
+    "city": "Bangkok",
+    "country": "Thailand",
+    "lat": 13.7524938,
+    "lng": 100.4935089
+  },
+  {
+    "id": "thailand-fm-1015-mhz-rta-3-chaing-mai",
+    "name": "FM 101.5 MHz RTA 3 Chaing Mai",
+    "url": "http://radio.servradio.com:8606/;stream.mp3",
+    "genre": "Music",
+    "city": "Chiang Mai",
+    "country": "Thailand",
+    "lat": 18.7882778,
+    "lng": 98.9858802
+  },
+  {
+    "id": "thailand-คลื่นหมีน่ารัก-hug-radio",
+    "name": "คลื่นหมีน่ารัก Hug Radio",
+    "url": "http://radio.toplinedigital.co.th:8888/HugRadioThailand",
+    "genre": "Music",
+    "city": "Bangkok",
+    "country": "Thailand",
+    "lat": 13.7524938,
+    "lng": 100.4935089
+  },
+  {
+    "id": "thailand-request-radio-เพลงเพื่อชีวิต",
+    "name": "Request Radio เพลงเพื่อชีวิต",
+    "url": "https://cast.requestradio.in.th:830/index.html?sid=1",
+    "genre": "Music",
+    "city": "Bangkok",
+    "country": "Thailand",
+    "lat": 13.7524938,
+    "lng": 100.4935089
+  },
+  {
+    "id": "thailand-chiliradio-pop",
+    "name": "ChiliRADIO Pop",
+    "url": "https://stream.chiliradio.app/chilipop",
+    "genre": "Music",
+    "city": "Chiang Mai",
+    "country": "Thailand",
+    "lat": 18.7882778,
+    "lng": 98.9858802
+  },
+  {
+    "id": "thailand-fm-105-kamphaengphet",
+    "name": "FM 105 Kamphaengphet",
+    "url": "http://radio.servradio.com:8506/;stream.mp3",
+    "genre": "Music",
+    "city": "Chiang Mai",
+    "country": "Thailand",
+    "lat": 18.7882778,
+    "lng": 98.9858802
+  },
+  {
+    "id": "thailand-bangkok-fm",
+    "name": "Bangkok FM",
+    "url": "https://audio-edge-fvq45.ams.d.radiomast.io/b4328177-eee1-4fb1-8b28-94009a331613",
+    "genre": "Music",
+    "city": "Bangkok",
+    "country": "Thailand",
+    "lat": 13.7524938,
+    "lng": 100.4935089
+  },
+  {
+    "id": "thailand-great-93-|-music",
+    "name": "Great 93 | Music",
+    "url": "https://radio.vpsthai.net/proxy/fbpiaobw/stream/1/",
+    "genre": "Music",
+    "city": "Chiang Mai",
+    "country": "Thailand",
+    "lat": 18.7882778,
+    "lng": 98.9858802
+  },
+  {
+    "id": "thailand-army-area-3-fm-9825",
+    "name": "Army Area 3 FM 98.25",
+    "url": "http://112.121.151.133:8192/;stream/1",
+    "genre": "Music",
+    "city": "Chiang Mai",
+    "country": "Thailand",
+    "lat": 18.7882778,
+    "lng": 98.9858802
+  },
+  {
+    "id": "thailand-chiang-mai-radio-fm-9375",
+    "name": "Chiang Mai Radio FM 93.75",
+    "url": "https://80.hostpleng.com/api.php?url=http://112.121.151.133:8124/live",
+    "genre": "Music",
+    "city": "Chiang Mai",
+    "country": "Thailand",
+    "lat": 18.7882778,
+    "lng": 98.9858802
+  },
+  {
+    "id": "thailand-radio-red-phuket-915-fm",
+    "name": "Radio Red Phuket 91.5 FM",
+    "url": "https://stream.chiliradio.app/radiored",
+    "genre": "Music",
+    "city": "Phuket",
+    "country": "Thailand",
+    "lat": 7.9366015,
+    "lng": 98.3529292
+  },
+  {
+    "id": "thailand-city-radio-fm-9025",
+    "name": "City Radio FM 90.25",
+    "url": "https://media.onair.one:8200/1/",
+    "genre": "Music",
+    "city": "Pattaya City",
+    "country": "Thailand",
+    "lat": 12.9366924,
+    "lng": 100.8865002
+  },
+  {
+    "id": "thailand-yesterday1065",
+    "name": "yesterday106.5",
+    "url": "http://radio2.comgig.com:4122/;stream.mp3",
+    "genre": "Music",
+    "city": "Phuket",
+    "country": "Thailand",
+    "lat": 7.9366015,
+    "lng": 98.3529292
+  },
+  {
+    "id": "thailand-pattaya-mundee-พัทยามันดี-fm-91",
+    "name": "Pattaya Mundee พัทยามันดี FM 91",
+    "url": "https://radio14.plathong.net/8072/stream/1/;/OBdirect",
+    "genre": "Music",
+    "city": "Pattaya City",
+    "country": "Thailand",
+    "lat": 12.9366924,
+    "lng": 100.8865002
+  },
+  {
+    "id": "thailand-musichitz-inter-station",
+    "name": "Musichitz Inter Station",
+    "url": "http://112.121.150.133:8006/live",
+    "genre": "Music",
+    "city": "Phuket",
+    "country": "Thailand",
+    "lat": 7.9366015,
+    "lng": 98.3529292
+  },
+  {
+    "id": "thailand-tonkla-radio-fm-1010",
+    "name": "TonKla Radio FM 101.0",
+    "url": "http://radio.siamtoday.in.th:8252/;stream.mp3",
+    "genre": "Music",
+    "city": "Phuket",
+    "country": "Thailand",
+    "lat": 7.9366015,
+    "lng": 98.3529292
+  },
+  {
+    "id": "thailand-the-spot-thailand",
+    "name": "The Spot Thailand",
+    "url": "https://rsas.bkk.fm/spot",
+    "genre": "Music",
+    "city": "Pattaya City",
+    "country": "Thailand",
+    "lat": 12.9366924,
+    "lng": 100.8865002
+  },
+  {
+    "id": "thailand-lela-101-fm-onairplus",
+    "name": "Lela 101 FM OnAirPlus",
+    "url": "https://plus.onair.network:8170/my",
+    "genre": "Music",
+    "city": "Chiang Mai",
+    "country": "Thailand",
+    "lat": 18.7882778,
+    "lng": 98.9858802
+  },
+  {
+    "id": "thailand-huasai-radio-fm-995",
+    "name": "Huasai Radio FM 99.5",
+    "url": "http://sv1.nakhonradio.com:9009/;stream.mp3",
+    "genre": "Music",
+    "city": "Phuket",
+    "country": "Thailand",
+    "lat": 7.9366015,
+    "lng": 98.3529292
+  },
+  {
+    "id": "thailand-greedz-wave-fm-940",
+    "name": "Greedz Wave FM 94.0",
+    "url": "http://radio.siamtoday.in.th:8178/;stream.mp3",
+    "genre": "Music",
+    "city": "Phuket",
+    "country": "Thailand",
+    "lat": 7.9366015,
+    "lng": 98.3529292
+  },
+  {
+    "id": "thailand-radio-trip-fm-8975",
+    "name": "Radio Trip FM 89.75",
+    "url": "http://media.login.in.th:1150/index.html?sid=1",
+    "genre": "Music",
+    "city": "Phuket",
+    "country": "Thailand",
+    "lat": 7.9366015,
+    "lng": 98.3529292
+  },
+  {
+    "id": "thailand-phuket-live-radio-fm-895",
+    "name": "Phuket Live Radio FM 89.5",
+    "url": "https://4118.radio4.thzhost.com/index.html?sid=1",
+    "genre": "Music",
+    "city": "Phuket",
+    "country": "Thailand",
+    "lat": 7.9366015,
+    "lng": 98.3529292
+  },
+  {
+    "id": "thailand-surf-1025-fm",
+    "name": "Surf 102.5 FM",
+    "url": "https://stream.surf.radio/surf1025",
+    "genre": "Music",
+    "city": "Pattaya City",
+    "country": "Thailand",
+    "lat": 12.9366924,
+    "lng": 100.8865002
+  },
+  {
+    "id": "thailand-passion-fm",
+    "name": "Passion FM",
+    "url": "https://media.onair.one:8170/my",
+    "genre": "Music",
+    "city": "Pattaya City",
+    "country": "Thailand",
+    "lat": 12.9366924,
+    "lng": 100.8865002
+  },
+  {
+    "id": "thailand-am1062khz-สวทภูเก็ต",
+    "name": "AM1062KHz สวท.ภูเก็ต",
+    "url": "https://radio-org-01-ott.prd.go.th/pkt_am1062",
+    "genre": "Music",
+    "city": "Phuket",
+    "country": "Thailand",
+    "lat": 7.9366015,
+    "lng": 98.3529292
+  },
+  {
+    "id": "thailand-sunshine-fm-10775",
+    "name": "Sunshine FM 107.75",
+    "url": "https://cdn-th2.livestreaming.in.th/shoutcast/8030",
+    "genre": "Music",
+    "city": "Pattaya City",
+    "country": "Thailand",
+    "lat": 12.9366924,
+    "lng": 100.8865002
+  },
+  {
+    "id": "thailand-fm-935-mhz-banmai-radio",
+    "name": "FM 93.5 MHz Banmai Radio",
+    "url": "http://radio10.plathong.net:7590/index.html?sid=1",
+    "genre": "Music",
+    "city": "Hat Yai",
+    "country": "Thailand",
+    "lat": 7.0074644,
+    "lng": 100.4689889
+  },
+  {
+    "id": "thailand-ruamjai-tha-chana-station-fm-1075",
+    "name": "Ruamjai Tha Chana Station FM 107.5",
+    "url": "http://pakeefm.org:8080/stream/841701/mp3",
+    "genre": "Music",
+    "city": "Phuket",
+    "country": "Thailand",
+    "lat": 7.9366015,
+    "lng": 98.3529292
+  },
+  {
+    "id": "thailand-bluewave-fm-97",
+    "name": "BlueWave FM 97",
+    "url": "http://112.121.151.133:8109/stream",
+    "genre": "Music",
+    "city": "Lampang",
+    "country": "Thailand",
+    "lat": 18.6799728,
+    "lng": 99.7332501
+  },
+  {
+    "id": "thailand-binhla-radio-fm-990",
+    "name": "Binhla Radio FM 99.0",
+    "url": "https://siamtoday.in.th/8008/;stream.mp3",
+    "genre": "Music",
+    "city": "Hat Yai",
+    "country": "Thailand",
+    "lat": 7.0074644,
+    "lng": 100.4689889
+  },
+  {
+    "id": "thailand-smart-get-feel-good-104",
+    "name": "Smart Get Feel Good 104",
+    "url": "http://live3.smartbomb.co.th:8842/;stream.mp3",
+    "genre": "Music",
+    "city": "Hat Yai",
+    "country": "Thailand",
+    "lat": 7.0074644,
+    "lng": 100.4689889
+  },
+  {
+    "id": "thailand-great-93-|-onair",
+    "name": "Great 93 | OnAir",
+    "url": "https://radio.vpsthai.net/proxy/fbpiaobw/stream/1/",
+    "genre": "Music",
+    "city": "Lampang",
+    "country": "Thailand",
+    "lat": 18.6799728,
+    "lng": 99.7332501
+  },
+  {
+    "id": "thailand-artillery-center-สถานี-วศป-am-612",
+    "name": "Artillery Center สถานี วศป. AM 612",
+    "url": "https://radio12.plathong.net/7116/;stream.mp3",
+    "genre": "Music",
+    "city": "Lopburi",
+    "country": "Thailand",
+    "lat": 15.026458,
+    "lng": 100.8089178
+  },
+  {
+    "id": "thailand-artillery-center-สถานี-วศป-am-711",
+    "name": "Artillery Center สถานี วศป AM 711",
+    "url": "https://radio10.plathong.net/7128/;stream.mp3",
+    "genre": "Music",
+    "city": "Lopburi",
+    "country": "Thailand",
+    "lat": 15.026458,
+    "lng": 100.8089178
+  },
+  {
+    "id": "thailand-onair-fm-895",
+    "name": "Onair FM 89.5",
+    "url": "https://plus.onair.network:8170/radio.mp3",
+    "genre": "Music",
+    "city": "Hat Yai",
+    "country": "Thailand",
+    "lat": 7.0074644,
+    "lng": 100.4689889
+  },
+  {
+    "id": "thailand-indy-season-fm",
+    "name": "Indy Season FM",
+    "url": "https://plus.onair.network:8030/OB",
+    "genre": "Music",
+    "city": "Hat Yai",
+    "country": "Thailand",
+    "lat": 7.0074644,
+    "lng": 100.4689889
+  },
+  {
+    "id": "thailand-love-fm-107",
+    "name": "Love FM 107",
+    "url": "https://radio10.plathong.net/7296/;stream.mp3",
+    "genre": "Music",
+    "city": "Lampang",
+    "country": "Thailand",
+    "lat": 18.6799728,
+    "lng": 99.7332501
+  },
+  {
+    "id": "thailand-indy-fm-10775",
+    "name": "Indy FM 107.75",
+    "url": "https://media.onair.one:8010/STUINDY.mp3",
+    "genre": "Music",
+    "city": "Hat Yai",
+    "country": "Thailand",
+    "lat": 7.0074644,
+    "lng": 100.4689889
+  },
+  {
+    "id": "thailand-krb-radio",
+    "name": "KRB Radio",
+    "url": "https://radio1.ohmi-design.com/8086/index.html?sid=1",
+    "genre": "Music",
+    "city": "Lopburi",
+    "country": "Thailand",
+    "lat": 15.026458,
+    "lng": 100.8089178
+  },
+  {
+    "id": "thailand-nbt-am-1467-radio-thailand",
+    "name": "NBT AM 1467 Radio Thailand",
+    "url": "https://cdn-th2.login.in.th/shoutcast/8410",
+    "genre": "Music",
+    "city": "Lopburi",
+    "country": "Thailand",
+    "lat": 15.026458,
+    "lng": 100.8089178
+  },
+  {
+    "id": "thailand-kedah-fm",
+    "name": "Kedah FM",
+    "url": "https://22243.live.streamtheworld.com:443/KEDAH_FMAAC.aac",
+    "genre": "Music",
+    "city": "Hat Yai",
+    "country": "Thailand",
+    "lat": 7.0074644,
+    "lng": 100.4689889
+  },
+  {
+    "id": "thailand-fm10575-สถานีวิทยุเสียงสามยอด-อุดรธานี",
+    "name": "FM105.75 สถานีวิทยุเสียงสามยอด อุดรธานี",
+    "url": "http://radio12.plathong.net:8060/index.html?sid=1",
+    "genre": "Music",
+    "city": "Udon Thani",
+    "country": "Thailand",
+    "lat": 17.5211917,
+    "lng": 102.6680012
+  },
+  {
+    "id": "thailand-89fm-lopburi",
+    "name": "89FM Lopburi",
+    "url": "https://media.onair.one:8030/fm89",
+    "genre": "Music",
+    "city": "Lopburi",
+    "country": "Thailand",
+    "lat": 15.026458,
+    "lng": 100.8089178
+  },
+  {
+    "id": "thailand-wat-pa-ban-tad--siangdham-radio",
+    "name": "Wat Pa Ban Tad - Siangdham Radio",
+    "url": "http://122.155.12.107:8000/siangdham.mp3",
+    "genre": "Music",
+    "city": "Udon Thani",
+    "country": "Thailand",
+    "lat": 17.5211917,
+    "lng": 102.6680012
+  },
+  {
+    "id": "thailand-talay-fm-9025",
+    "name": "Talay FM 90.25",
+    "url": "https://stream.talay.asia/talay",
+    "genre": "Music",
+    "city": "Hua Hin",
+    "country": "Thailand",
+    "lat": 12.5699326,
+    "lng": 99.9573437
+  },
+  {
+    "id": "thailand-rad-radio-fm-895",
+    "name": "Rad Radio FM 89.5",
+    "url": "http://radio1.serverradio.net:8592/live/",
+    "genre": "Music",
+    "city": "Khon Kaen",
+    "country": "Thailand",
+    "lat": 16.6022387,
+    "lng": 102.6352933
+  },
+  {
+    "id": "thailand-lao-national-radio-fm-943",
+    "name": "Lao National Radio FM 94.3",
+    "url": "https://radio.lnr.org.la/fm94",
+    "genre": "Music",
+    "city": "Udon Thani",
+    "country": "Thailand",
+    "lat": 17.5211917,
+    "lng": 102.6680012
+  },
+  {
+    "id": "thailand-fm-909-และ-10425-james-radio",
+    "name": "FM 90.9 และ 104.25 James Radio",
+    "url": "https://radio14.plathong.net/7120/;stream.mp3",
+    "genre": "Music",
+    "city": "Udon Thani",
+    "country": "Thailand",
+    "lat": 17.5211917,
+    "lng": 102.6680012
+  },
+  {
+    "id": "thailand-napho-radio-fm-8825",
+    "name": "Napho Radio FM 88.25",
+    "url": "https://radio11.plathong.net/7136/;stream.mp3",
+    "genre": "Music",
+    "city": "Udon Thani",
+    "country": "Thailand",
+    "lat": 17.5211917,
+    "lng": 102.6680012
+  },
+  {
+    "id": "thailand-บ้านใหม่เรดิโอ-fm-9000-mhz",
+    "name": "บ้านใหม่เรดิโอ FM 90.00 MHz",
+    "url": "http://lnwradio.hostsevenplus.com:9602/index.html?sid=1",
+    "genre": "Music",
+    "city": "Khon Kaen",
+    "country": "Thailand",
+    "lat": 16.6022387,
+    "lng": 102.6352933
+  },
+  {
+    "id": "thailand-am-621-khz-สวท-ขอนแก่น",
+    "name": "AM 621 kHz. สวท ขอนแก่น.",
+    "url": "https://radio-org-01-ott.prd.go.th/kkn_am621",
+    "genre": "Music",
+    "city": "Khon Kaen",
+    "country": "Thailand",
+    "lat": 16.6022387,
+    "lng": 102.6352933
+  },
+  {
+    "id": "thailand-metro-radio-105-fm",
+    "name": "Metro Radio 105 FM",
+    "url": "https://s2.free-shoutcast.com/stream/18202",
+    "genre": "Music",
+    "city": "Udon Thani",
+    "country": "Thailand",
+    "lat": 17.5211917,
+    "lng": 102.6680012
+  },
+  {
+    "id": "thailand-rakpaktai-radio",
+    "name": "Rakpaktai Radio",
+    "url": "https://radio10.plathong.net/7100/;stream.mp3",
+    "genre": "Music",
+    "city": "Surat Thani",
+    "country": "Thailand",
+    "lat": 9.4674663,
+    "lng": 98.830042
+  },
+  {
+    "id": "thailand-kwpr",
+    "name": "KWPR",
+    "url": "https://media.thaismarthost.com:8140/stream",
+    "genre": "Music",
+    "city": "Udon Thani",
+    "country": "Thailand",
+    "lat": 17.5211917,
+    "lng": 102.6680012
+  },
+  {
+    "id": "thailand-buengkan-radio",
+    "name": "buengkan radio",
+    "url": "https://c16.radioboss.fm:8332/stream",
+    "genre": "Music",
+    "city": "Udon Thani",
+    "country": "Thailand",
+    "lat": 17.5211917,
+    "lng": 102.6680012
+  },
+  {
+    "id": "thailand-ppat-buriram-fm-10175",
+    "name": "PPAT Buriram FM 101.75",
+    "url": "https://radio-org-01-ott.prd.go.th/brm_fm101_75",
+    "genre": "Music",
+    "city": "Khon Kaen",
+    "country": "Thailand",
+    "lat": 16.6022387,
+    "lng": 102.6352933
+  },
+  {
+    "id": "thailand-watbuddhawas-fm-9825-mhz",
+    "name": "WatBuddhawas FM 98.25 MHz",
+    "url": "http://radio1.serverradio.net:8060/;.mp3",
+    "genre": "Music",
+    "city": "Buriram",
+    "country": "Thailand",
+    "lat": 14.6107101,
+    "lng": 102.6453162
+  },
+  {
+    "id": "thailand-lanna-channel-fm-10450",
+    "name": "Lanna Channel FM 104.50",
+    "url": "http://softsound.net:8009/onair",
+    "genre": "Music",
+    "city": "Phrae",
+    "country": "Thailand",
+    "lat": 18.2930601,
+    "lng": 100.0886757
+  },
+  {
+    "id": "thailand-samuiteam-radio",
+    "name": "Samuiteam Radio",
+    "url": "https://radio14.plathong.net/7268/mp3",
+    "genre": "Music",
+    "city": "Koh Samui",
+    "country": "Thailand",
+    "lat": 9.5013945,
+    "lng": 99.9956193
+  },
+  {
+    "id": "thailand-top-viewpoint-radio-9375",
+    "name": "Top Viewpoint Radio 93.75",
+    "url": "https://radio9.plathong.net/7146/;stream.mp3",
+    "genre": "Music",
+    "city": "Phrae",
+    "country": "Thailand",
+    "lat": 18.2930601,
+    "lng": 100.0886757
+  },
+  {
+    "id": "thailand-wow-radio-online",
+    "name": "Wow Radio Online",
+    "url": "https://panel.wowradiohit.com/listen/looktung/radio.mp3",
+    "genre": "Music",
+    "city": "Phrae",
+    "country": "Thailand",
+    "lat": 18.2930601,
+    "lng": 100.0886757
+  },
+  {
+    "id": "thailand-vr-radio-8875-mhz",
+    "name": "VR Radio 88.75 MHz",
+    "url": "https://lnwradio.hostsevenplus.com/9670/audio.php",
+    "genre": "Music",
+    "city": "Songkhla",
+    "country": "Thailand",
+    "lat": 6.8790221,
+    "lng": 100.5498542
+  },
+  {
+    "id": "thailand-rbs921-lom-kao-am972",
+    "name": "RBS921 Lom Kao AM972",
+    "url": "https://radio11.plathong.net/8640/;stream.mp3",
+    "genre": "Music",
+    "city": "Lom Kao",
+    "country": "Thailand",
+    "lat": 16.8876475,
+    "lng": 101.2271902
+  },
+  {
+    "id": "thailand-lao-national-radio-fm-1037",
+    "name": "Lao National Radio FM 103.7",
+    "url": "https://radio.lnr.org.la/fm103",
+    "genre": "Music",
+    "city": "Lom Kao",
+    "country": "Thailand",
+    "lat": 16.8876475,
+    "lng": 101.2271902
+  },
+  {
+    "id": "thailand-what-tha-sawang-fm-106",
+    "name": "What Tha Sawang FM 106",
+    "url": "https://lnwradio.hostsevenplus.com/9544/audio.php",
+    "genre": "Music",
+    "city": "Khon Kaen",
+    "country": "Thailand",
+    "lat": 16.6022387,
+    "lng": 102.6352933
+  },
+  {
+    "id": "thailand-samui-island-radio",
+    "name": "Samui Island Radio",
+    "url": "https://us2new.listen2myradio.com:2199/listen.php?port=10040&type=s2&mount=/stream.ogg",
+    "genre": "Music",
+    "city": "Surat Thani",
+    "country": "Thailand",
+    "lat": 9.4674663,
+    "lng": 98.830042
+  },
+  {
+    "id": "thailand-rabbit-radio-online",
+    "name": "Rabbit Radio Online",
+    "url": "https://cdn-th2.livestreaming.in.th/shoutcast/8775",
+    "genre": "Music",
+    "city": "Lom Kao",
+    "country": "Thailand",
+    "lat": 16.8876475,
+    "lng": 101.2271902
+  },
+  {
+    "id": "thailand-buriram-radio-fm-103-บุรีรัมย์-เรดิโอ",
+    "name": "Buriram Radio FM 103 บุรีรัมย์ เรดิโอ",
+    "url": "https://lnwradio.hostsevenplus.com/9504/audio.php",
+    "genre": "Music",
+    "city": "Buriram",
+    "country": "Thailand",
+    "lat": 14.6107101,
+    "lng": 102.6453162
+  },
+  {
+    "id": "thailand-full-moon-radio",
+    "name": "Full Moon Radio",
+    "url": "https://stream.radio.co/sa77da88c7/listen",
+    "genre": "Music",
+    "city": "Surat Thani",
+    "country": "Thailand",
+    "lat": 9.4674663,
+    "lng": 98.830042
+  }
+]

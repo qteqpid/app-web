@@ -1,0 +1,230 @@
+[
+    {
+        "name": "Radio 101",
+        "city": "Ramallah",
+        "country": "Palestine",
+        "url": "http://streamer.mada.ps:8027/onefm"
+    },
+    {
+        "name": "Radio Orient FM 98.7",
+        "city": "Ramallah",
+        "country": "Palestine",
+        "url": "http://streamer.mada.ps:8034/orient"
+    },
+    {
+        "name": "Radio Kol Hasfela",
+        "city": "Ramallah",
+        "country": "Palestine",
+        "url": "https://radio.streamgates.net/stream/1036kh"
+    },
+    {
+        "name": "Rabea FM 88.7",
+        "city": "Ramallah",
+        "country": "Palestine",
+        "url": "https://radio.r4fm.ps/;stream.mp3"
+    },
+    {
+        "name": "Basma FM 101.2",
+        "city": "Ramallah",
+        "country": "Palestine",
+        "url": "https://mars.streamerr.co/8342/stream"
+    },
+    {
+        "name": "Breslav Radio - KolHaNachal",
+        "city": "Ramallah",
+        "country": "Palestine",
+        "url": "https://cast.ereznet.co.il/radio/8070/radio.mp3"
+    },
+    {
+        "name": "100fm World",
+        "city": "Ramallah",
+        "country": "Palestine",
+        "url": "https://gb25.streamgates.net/radios-audio/100World/icecast.audio"
+    },
+    {
+        "name": "Radio Nissa",
+        "city": "Ramallah",
+        "country": "Palestine",
+        "url": "https://rstream.hadara.ps/proxy/nisaa/stream"
+    },
+    {
+        "name": "Radio Fix 2525",
+        "city": "Nablus",
+        "country": "Palestine",
+        "url": "https://stream3.rcast.net/72648"
+    },
+    {
+        "name": "Panorama FM 103.2",
+        "city": "Nablus",
+        "country": "Palestine",
+        "url": "https://a7.asurahosting.com:8090/radio.mp3"
+    },
+    {
+        "name": "Kan Reshet Bet",
+        "city": "Ramallah",
+        "country": "Palestine",
+        "url": "https://27943.live.streamtheworld.com:443/KAN_BET.mp3"
+    },
+    {
+        "name": "Radio Falastini",
+        "city": "Ramallah",
+        "country": "Palestine",
+        "url": "https://palradio.radioca.st/index.html?sid=1"
+    },
+    {
+        "name": "HR",
+        "city": "Ramallah",
+        "country": "Palestine",
+        "url": "https://hr.ps/stream"
+    },
+    {
+        "name": "Eco99fm",
+        "city": "Nablus",
+        "country": "Palestine",
+        "url": "https://eco01.livecdn.biz/ecolive/99fm_aac/icecast.audio"
+    },
+    {
+        "name": "Ajyal",
+        "city": "Ramallah",
+        "country": "Palestine",
+        "url": "https://streamer.mada.ps:8208/ajyal"
+    },
+    {
+        "name": "Radio al-Hara",
+        "city": "Bethlehem",
+        "country": "Palestine",
+        "url": "http://n0d.radiojar.com/78cxy6wkxtzuv.mp3?rj-ttl=5&rj-tok=AAABm_nJ3w8AY-6WNTZ9xIehag"
+    },
+    {
+        "name": "Shabab FM 101.4",
+        "city": "Nablus",
+        "country": "Palestine",
+        "url": "https://streaming.zaytonatube.com/test2.aac"
+    },
+    {
+        "name": "רדיו עסקים",
+        "city": "Nablus",
+        "country": "Palestine",
+        "url": "https://icecast.live/ivr"
+    },
+    {
+        "name": "Radio Hayat FM 100.8",
+        "city": "Nablus",
+        "country": "Palestine",
+        "url": "https://rstream.hadara.ps/proxy/hayat/stream.mp3"
+    },
+    {
+        "name": "Raya FM 96.4",
+        "city": "Nablus",
+        "country": "Palestine",
+        "url": "https://rstream.hadara.ps/proxy/raya/stream"
+    },
+    {
+        "name": "Eshel FM 106",
+        "city": "Hebron",
+        "country": "Palestine",
+        "url": "http://stream.eshelnet.com/xstream"
+    },
+    {
+        "name": "Angham Radio",
+        "city": "Ramallah",
+        "country": "Palestine",
+        "url": "https://streamer.mada.ps:8207/ANGHAM"
+    },
+    {
+        "name": "Radio Bethlehem 2000راديو بيت لحم  FM 89.6",
+        "city": "Bethlehem",
+        "country": "Palestine",
+        "url": "https://rstream.hadara.ps/proxy/radiobethlehem2000/stream"
+    },
+    {
+        "name": "Radio Plus",
+        "city": "Bethlehem",
+        "country": "Palestine",
+        "url": "https://s3.yesstreaming.net:7049/stream"
+    },
+    {
+        "name": "Channel 2000",
+        "city": "Tulkarm",
+        "country": "Palestine",
+        "url": "https://radio.streamgates.net/stream/radio2000"
+    },
+    {
+        "name": "Tariq Al Mahabbeh FM 97.7",
+        "city": "Nablus",
+        "country": "Palestine",
+        "url": "https://stream-166.zeno.fm/3v8uzd2dph7tv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIzdjh1emQyZHBoN3R2IiwiaG9zdCI6InN0cmVhbS0xNjYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiQ0xQMWRfMUNURTZaWjE3SElrNUNQZyIsImlhdCI6MTc2OTQyMTcxNCwiZXhwIjoxNzY5NDIxNzc0fQ.Ai7NyZt1q-JaWiSw6gjHpqyIwsqMWX9W5mNyCsOTdhQ"
+    },
+    {
+        "name": "Radio Mawwal FM 101.7",
+        "city": "Bethlehem",
+        "country": "Palestine",
+        "url": "https://rstream.hadara.ps/proxy/mawwal/stream.mp3"
+    },
+    {
+        "name": "Radio Lev Hamedina 91 FM",
+        "city": "Bethlehem",
+        "country": "Palestine",
+        "url": "https://cdn.cybercdn.live/Lev_Hamedina/Audio/icecast.audio"
+    },
+    {
+        "name": "Torah-Box Radio",
+        "city": "Hebron",
+        "country": "Palestine",
+        "url": "https://radio.torah-box.com:8443/_a"
+    },
+    {
+        "name": "Radio 103 FM",
+        "city": "Tulkarm",
+        "country": "Palestine",
+        "url": "https://cdn.cybercdn.live/103FM/Live/icecast.audio"
+    },
+    {
+        "name": "Fajer FM",
+        "city": "Tulkarm",
+        "country": "Palestine",
+        "url": "https://rstream.hadara.ps/proxy/fajerfm/stream"
+    },
+    {
+        "name": "Kol Hail FM 92.8",
+        "city": "Qalqilyah",
+        "country": "Palestine",
+        "url": "https://live.kcm.fm/live-new"
+    },
+    {
+        "name": "111fm.online",
+        "city": "Hebron",
+        "country": "Palestine",
+        "url": "https://stream-178.zeno.fm/a49vayexcg0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJhNDl2YXlleGNnMHV2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiemVhZzJvWlNRb0c3aXlvU0ppZVhWZyIsImlhdCI6MTc2OTQyMTcxNiwiZXhwIjoxNzY5NDIxNzc2fQ.kVTcwqhbn17M88vkKxdBsGlBP_4TF2Fs6dYQRTo5ZAs"
+    },
+    {
+        "name": "Jerusalem 24 FM 106.1",
+        "city": "Bethlehem",
+        "country": "Palestine",
+        "url": "https://icecast.mada.ps:8404/24fmen"
+    },
+    {
+        "name": "100fm Gamer",
+        "city": "Jenin",
+        "country": "Palestine",
+        "url": "https://gb25.streamgates.net/radios-audio/100Gamer/icecast.audio"
+    },
+    {
+        "name": "The Voice of the University",
+        "city": "Qalqilyah",
+        "country": "Palestine",
+        "url": "https://1062onair.runi.ac.il/idc123.mp3"
+    },
+    {
+        "name": "University Radio 97.1 FM - AAUP",
+        "city": "Jenin",
+        "country": "Palestine",
+        "url": "https://securestreams6.autopo.st:2155/aaup"
+    },
+    {
+        "name": "Radio Alhuda FM 101",
+        "city": "Qalqilyah",
+        "country": "Palestine",
+        "url": "https://streamer.mada.ps:8224/stream.ogg"
+    }
+]

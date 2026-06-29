@@ -1,0 +1,1852 @@
+[
+  {
+    "id": "russia-vesti-fm",
+    "name": "Vesti FM",
+    "url": "http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_64kbps?.mp3",
+    "genre": "Music",
+    "city": "Moscow",
+    "country": "Russia",
+    "lat": 55.625578,
+    "lng": 37.6063916
+  },
+  {
+    "id": "russia-neformatnoe-radio",
+    "name": "Neformatnoe Radio",
+    "url": "http://neformatnoe.ru:8777/live",
+    "genre": "Music",
+    "city": "Moscow",
+    "country": "Russia",
+    "lat": 55.625578,
+    "lng": 37.6063916
+  },
+  {
+    "id": "russia-radio-purga",
+    "name": "Radio Purga",
+    "url": "https://radiostream.chukotnet.ru/RadioPurga_48",
+    "genre": "Music",
+    "city": "Moscow",
+    "country": "Russia",
+    "lat": 55.625578,
+    "lng": 37.6063916
+  },
+  {
+    "id": "russia-monaco-fm",
+    "name": "Monaco FM",
+    "url": "https://stream.salyutfm.ru:8005/stream",
+    "genre": "Music",
+    "city": "Moscow",
+    "country": "Russia",
+    "lat": 55.625578,
+    "lng": 37.6063916
+  },
+  {
+    "id": "russia-radio-mayak",
+    "name": "Radio Mayak",
+    "url": "http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_64kbps",
+    "genre": "Music",
+    "city": "Moscow",
+    "country": "Russia",
+    "lat": 55.625578,
+    "lng": 37.6063916
+  },
+  {
+    "id": "russia-arena-radio",
+    "name": "Arena Radio",
+    "url": "https://live.arenaradio.ru/stream",
+    "genre": "Music",
+    "city": "Saint Petersburg",
+    "country": "Russia",
+    "lat": 59.9606739,
+    "lng": 30.1586551
+  },
+  {
+    "id": "russia-nestandart",
+    "name": "Nestandart",
+    "url": "https://listen.radionestandart.ru/nestandart-320.mp3",
+    "genre": "Music",
+    "city": "Moscow",
+    "country": "Russia",
+    "lat": 55.625578,
+    "lng": 37.6063916
+  },
+  {
+    "id": "russia-радио-родных-дорог",
+    "name": "Радио Родных Дорог",
+    "url": "https://stream1.radiord.ru:8000/live128.aac",
+    "genre": "Music",
+    "city": "Moscow",
+    "country": "Russia",
+    "lat": 55.625578,
+    "lng": 37.6063916
+  },
+  {
+    "id": "russia-polygon-fm",
+    "name": "Polygon FM",
+    "url": "https://eu6.fastcast4u.com/proxy/polygonf?mp=/stream",
+    "genre": "Music",
+    "city": "Saint Petersburg",
+    "country": "Russia",
+    "lat": 59.9606739,
+    "lng": 30.1586551
+  },
+  {
+    "id": "russia-дорожное-радио",
+    "name": "Дорожное Радио",
+    "url": "https://cast.fmprod.ru/dorojnoe_bsk",
+    "genre": "Music",
+    "city": "Moscow",
+    "country": "Russia",
+    "lat": 55.625578,
+    "lng": 37.6063916
+  },
+  {
+    "id": "russia-kometa-fm",
+    "name": "Kometa FM",
+    "url": "https://online.kometa.fm/",
+    "genre": "Music",
+    "city": "Moscow",
+    "country": "Russia",
+    "lat": 55.625578,
+    "lng": 37.6063916
+  },
+  {
+    "id": "russia-avtoradio-fm-910",
+    "name": "Avtoradio FM 91.0",
+    "url": "https://srv01.gpmradio.ru/stream/reg/aac/64/region_avto_tz_0",
+    "genre": "Music",
+    "city": "Moscow",
+    "country": "Russia",
+    "lat": 55.625578,
+    "lng": 37.6063916
+  },
+  {
+    "id": "russia-101ru--humor-fm-anekdot",
+    "name": "101.RU - Humor FM. Anekdot",
+    "url": "https://srv01.gpmradio.ru/stream/trust/mp3/128/20",
+    "genre": "Music",
+    "city": "Moscow",
+    "country": "Russia",
+    "lat": 55.625578,
+    "lng": 37.6063916
+  },
+  {
+    "id": "russia-relax-fm",
+    "name": "Relax FM",
+    "url": "https://pub0302.101.ru:8443/stream/air/aac/64/200",
+    "genre": "Music",
+    "city": "Moscow",
+    "country": "Russia",
+    "lat": 55.625578,
+    "lng": 37.6063916
+  },
+  {
+    "id": "russia-101ru--musicals",
+    "name": "101.RU - Musicals",
+    "url": "https://pub0202.101.ru:8443/stream/pro/aac/64/92",
+    "genre": "Music",
+    "city": "Moscow",
+    "country": "Russia",
+    "lat": 55.625578,
+    "lng": 37.6063916
+  },
+  {
+    "id": "russia-101ru--90s-gold",
+    "name": "101.RU - 90'S Gold",
+    "url": "https://pub0202.101.ru:8443/stream/pro/aac/64/75",
+    "genre": "Music",
+    "city": "Moscow",
+    "country": "Russia",
+    "lat": 55.625578,
+    "lng": 37.6063916
+  },
+  {
+    "id": "russia-slovjansky-glas",
+    "name": "Slovjansky Glas",
+    "url": "http://77.232.131.208:8080/listen/slovjansky_glas/radio",
+    "genre": "Music",
+    "city": "Saint Petersburg",
+    "country": "Russia",
+    "lat": 59.9606739,
+    "lng": 30.1586551
+  },
+  {
+    "id": "russia-101ru--rock",
+    "name": "101.RU - Rock",
+    "url": "https://pub0202.101.ru:8443/stream/pro/aac/64/69",
+    "genre": "Music",
+    "city": "Moscow",
+    "country": "Russia",
+    "lat": 55.625578,
+    "lng": 37.6063916
+  },
+  {
+    "id": "russia-radio-chocolate-98-fm",
+    "name": "Radio Chocolate 98 FM",
+    "url": "https://choco.hostingradio.ru:10010/fm",
+    "genre": "Music",
+    "city": "Moscow",
+    "country": "Russia",
+    "lat": 55.625578,
+    "lng": 37.6063916
+  },
+  {
+    "id": "russia-royal-radio-986-fm",
+    "name": "Royal Radio 98.6 FM",
+    "url": "https://royalradio.space/986FM",
+    "genre": "Music",
+    "city": "Saint Petersburg",
+    "country": "Russia",
+    "lat": 59.9606739,
+    "lng": 30.1586551
+  },
+  {
+    "id": "russia-русское-радио",
+    "name": "Русское Радио",
+    "url": "https://rusradio.hostingradio.ru/rusradio96.aacp",
+    "genre": "Music",
+    "city": "Moscow",
+    "country": "Russia",
+    "lat": 55.625578,
+    "lng": 37.6063916
+  },
+  {
+    "id": "russia-deep-one-radio",
+    "name": "DEEP ONE radio",
+    "url": "https://stream.deep1.ru/deep1mp3",
+    "genre": "Music",
+    "city": "Saint Petersburg",
+    "country": "Russia",
+    "lat": 59.9606739,
+    "lng": 30.1586551
+  },
+  {
+    "id": "russia-blagovest",
+    "name": "Blagovest",
+    "url": "http://176.65.38.3:8000/blagovest/",
+    "genre": "Music",
+    "city": "Tomsk",
+    "country": "Russia",
+    "lat": 58.6124279,
+    "lng": 82.0475315
+  },
+  {
+    "id": "russia-radio-kaakko",
+    "name": "Radio Kaakko",
+    "url": "https://wr2.downtime.fi/kaakko.aac",
+    "genre": "Music",
+    "city": "Saint Petersburg",
+    "country": "Russia",
+    "lat": 59.9606739,
+    "lng": 30.1586551
+  },
+  {
+    "id": "russia-поколение-z",
+    "name": "Поколение Z",
+    "url": "https://listen5.myradio24.com/djmashkoff",
+    "genre": "Music",
+    "city": "Moscow",
+    "country": "Russia",
+    "lat": 55.625578,
+    "lng": 37.6063916
+  },
+  {
+    "id": "russia-radio-russia-fm-663",
+    "name": "Radio Russia FM 66.3",
+    "url": "https://radio.rtr.spb.ru/live1",
+    "genre": "Music",
+    "city": "Saint Petersburg",
+    "country": "Russia",
+    "lat": 59.9606739,
+    "lng": 30.1586551
+  },
+  {
+    "id": "russia-старое-радио--музыка",
+    "name": "Старое радио - Музыка",
+    "url": "http://195.91.237.50:8000/music128",
+    "genre": "Music",
+    "city": "Saint Petersburg",
+    "country": "Russia",
+    "lat": 59.9606739,
+    "lng": 30.1586551
+  },
+  {
+    "id": "russia-retro-fm-moscow",
+    "name": "Retro FM Moscow",
+    "url": "https://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3",
+    "genre": "Music",
+    "city": "Moscow",
+    "country": "Russia",
+    "lat": 55.625578,
+    "lng": 37.6063916
+  },
+  {
+    "id": "russia-gardarica-fm",
+    "name": "Gardarica FM",
+    "url": "https://stream.gardaricafm.ru:8443/stream.mp3",
+    "genre": "Music",
+    "city": "Saint Petersburg",
+    "country": "Russia",
+    "lat": 59.9606739,
+    "lng": 30.1586551
+  },
+  {
+    "id": "russia-eldo-radio-1014-fm",
+    "name": "Eldo Radio 101.4 FM",
+    "url": "https://emgspb.hostingradio.ru/eldoradio64.mp3",
+    "genre": "Music",
+    "city": "Saint Petersburg",
+    "country": "Russia",
+    "lat": 59.9606739,
+    "lng": 30.1586551
+  },
+  {
+    "id": "russia-love-radio-tomsk-957fm",
+    "name": "Love Radio Tomsk 95.7FM",
+    "url": "https://listen.radio.tomsk.ru/loveradio",
+    "genre": "Music",
+    "city": "Tomsk",
+    "country": "Russia",
+    "lat": 58.6124279,
+    "lng": 82.0475315
+  },
+  {
+    "id": "russia-radio-zenit-897-fm",
+    "name": "Radio Zenit 89.7 FM",
+    "url": "https://radiozenit.hostingradio.ru/radiozenit256.mp3",
+    "genre": "Music",
+    "city": "Saint Petersburg",
+    "country": "Russia",
+    "lat": 59.9606739,
+    "lng": 30.1586551
+  },
+  {
+    "id": "russia-radio-monte-carlo-1059-fm",
+    "name": "Radio Monte Carlo 105.9 FM",
+    "url": "https://montecarloreg.hostingradio.ru/spb.montecarlo96.aacp",
+    "genre": "Music",
+    "city": "Saint Petersburg",
+    "country": "Russia",
+    "lat": 59.9606739,
+    "lng": 30.1586551
+  },
+  {
+    "id": "russia-radio-maximum-tomsk-988fm",
+    "name": "Radio Maximum Tomsk 98.8FM",
+    "url": "https://listen.radio.tomsk.ru/maximum",
+    "genre": "Music",
+    "city": "Tomsk",
+    "country": "Russia",
+    "lat": 58.6124279,
+    "lng": 82.0475315
+  },
+  {
+    "id": "russia-комсомольская-правда--петербург",
+    "name": "Комсомольская правда - Петербург",
+    "url": "https://kpradio.hostingradio.ru:8000/spb.radiokp64.mp3",
+    "genre": "Music",
+    "city": "Saint Petersburg",
+    "country": "Russia",
+    "lat": 59.9606739,
+    "lng": 30.1586551
+  },
+  {
+    "id": "russia-europa-plus",
+    "name": "Europa Plus",
+    "url": "https://emgspb.hostingradio.ru/europaplusspb128.mp3",
+    "genre": "Music",
+    "city": "Saint Petersburg",
+    "country": "Russia",
+    "lat": 59.9606739,
+    "lng": 30.1586551
+  },
+  {
+    "id": "russia-comedy-radio-tomsk-903fm",
+    "name": "Comedy Radio Tomsk 90.3FM",
+    "url": "https://listen.radio.tomsk.ru/comedy",
+    "genre": "Music",
+    "city": "Tomsk",
+    "country": "Russia",
+    "lat": 58.6124279,
+    "lng": 82.0475315
+  },
+  {
+    "id": "russia-humour-fm-tomsk-1042fm",
+    "name": "Humour FM Tomsk 104.2FM",
+    "url": "https://listen.radio.tomsk.ru/humour",
+    "genre": "Music",
+    "city": "Tomsk",
+    "country": "Russia",
+    "lat": 58.6124279,
+    "lng": 82.0475315
+  },
+  {
+    "id": "russia-radio-hermitage-fm-901",
+    "name": "Radio Hermitage FM 90.1",
+    "url": "https://hermitage.hostingradio.ru/hermitage128.mp3",
+    "genre": "Music",
+    "city": "Saint Petersburg",
+    "country": "Russia",
+    "lat": 59.9606739,
+    "lng": 30.1586551
+  },
+  {
+    "id": "russia-nrj-tomsk-1061fm",
+    "name": "NRJ Tomsk 106.1FM",
+    "url": "https://srv12.gpmradio.ru:8443/stream/reg/mp3/128/region_energy_118",
+    "genre": "Music",
+    "city": "Tomsk",
+    "country": "Russia",
+    "lat": 58.6124279,
+    "lng": 82.0475315
+  },
+  {
+    "id": "russia-russkoe-radio-tomsk-1021fm",
+    "name": "Russkoe Radio Tomsk 102.1FM",
+    "url": "https://listen.radio.tomsk.ru/russkoe",
+    "genre": "Music",
+    "city": "Tomsk",
+    "country": "Russia",
+    "lat": 58.6124279,
+    "lng": 82.0475315
+  },
+  {
+    "id": "russia-radio-vanya-tomsk-965fm",
+    "name": "Radio Vanya Tomsk 96.5FM",
+    "url": "https://listen.radio.tomsk.ru/vanya",
+    "genre": "Music",
+    "city": "Tomsk",
+    "country": "Russia",
+    "lat": 58.6124279,
+    "lng": 82.0475315
+  },
+  {
+    "id": "russia-радио-jazz-томск-996-fm",
+    "name": "Радио JAZZ Томск 99.6 FM",
+    "url": "https://listen.radio.tomsk.ru/jazz",
+    "genre": "Music",
+    "city": "Tomsk",
+    "country": "Russia",
+    "lat": 58.6124279,
+    "lng": 82.0475315
+  },
+  {
+    "id": "russia-radio-hit-fm-tomsk-1017fm",
+    "name": "Radio Hit FM Tomsk 101.7FM",
+    "url": "https://listen.radio.tomsk.ru/hitfm",
+    "genre": "Music",
+    "city": "Tomsk",
+    "country": "Russia",
+    "lat": 58.6124279,
+    "lng": 82.0475315
+  },
+  {
+    "id": "russia-radio-ice",
+    "name": "Radio Ice",
+    "url": "https://onair.radio1922.ru/64.aac",
+    "genre": "Music",
+    "city": "Tomsk",
+    "country": "Russia",
+    "lat": 58.6124279,
+    "lng": 82.0475315
+  },
+  {
+    "id": "russia-gorodskaya-volna",
+    "name": "Gorodskaya Volna",
+    "url": "http://online.gorvolna.ru:8000/gorvolna",
+    "genre": "Music",
+    "city": "Novosibirsk",
+    "country": "Russia",
+    "lat": 55.0288307,
+    "lng": 82.9226887
+  },
+  {
+    "id": "russia-dfm--fm-продакшн",
+    "name": "DFM - FM-Продакшн",
+    "url": "https://cast.fmprod.ru/dfm_bsk",
+    "genre": "Music",
+    "city": "Tomsk",
+    "country": "Russia",
+    "lat": 58.6124279,
+    "lng": 82.0475315
+  },
+  {
+    "id": "russia-radio-muskom",
+    "name": "Radio Muskom",
+    "url": "https://geshou.s02.radio-tochka.com:5005/stream",
+    "genre": "Music",
+    "city": "Novosibirsk",
+    "country": "Russia",
+    "lat": 55.0288307,
+    "lng": 82.9226887
+  },
+  {
+    "id": "russia-радио-54-новосибирск-10620-fm",
+    "name": "Радио 54 Новосибирск 106.20 FM",
+    "url": "http://91.202.68.50:8000/stream.mp3/",
+    "genre": "Music",
+    "city": "Novosibirsk",
+    "country": "Russia",
+    "lat": 55.0288307,
+    "lng": 82.9226887
+  },
+  {
+    "id": "russia-retro-fm-970",
+    "name": "Retro FM 97.0",
+    "url": "http://retroserver.streamr.ru:8043/retro256.mp3",
+    "genre": "Music",
+    "city": "Novosibirsk",
+    "country": "Russia",
+    "lat": 55.0288307,
+    "lng": 82.9226887
+  },
+  {
+    "id": "russia-pervoe-radio-1027-fm",
+    "name": "Pervoe Radio 102.7 FM",
+    "url": "http://188.170.219.153:8000/",
+    "genre": "Music",
+    "city": "Krasnodar",
+    "country": "Russia",
+    "lat": 45.0351532,
+    "lng": 38.9772396
+  },
+  {
+    "id": "russia-radio-classic",
+    "name": "Radio Classic",
+    "url": "https://jfm1.hostingradio.ru:14536/rcstream.mp3",
+    "genre": "Music",
+    "city": "Saint Petersburg",
+    "country": "Russia",
+    "lat": 59.9606739,
+    "lng": 30.1586551
+  },
+  {
+    "id": "russia-радио-кп-барнаул-fm-1068",
+    "name": "Радио КП-Барнаул FM 106.8",
+    "url": "https://kpradio.hostingradio.ru:8000/barnaul.radiokp64.mp3",
+    "genre": "Music",
+    "city": "Tomsk",
+    "country": "Russia",
+    "lat": 58.6124279,
+    "lng": 82.0475315
+  },
+  {
+    "id": "russia-uniton-fm-1007",
+    "name": "Uniton FM 100.7",
+    "url": "https://online.uniton.ru/uniton",
+    "genre": "Music",
+    "city": "Novosibirsk",
+    "country": "Russia",
+    "lat": 55.0288307,
+    "lng": 82.9226887
+  },
+  {
+    "id": "russia-radio-107",
+    "name": "Radio 107",
+    "url": "http://62.183.34.109:8000/radio107.mp3?.mp3/;",
+    "genre": "Music",
+    "city": "Krasnodar",
+    "country": "Russia",
+    "lat": 45.0351532,
+    "lng": 38.9772396
+  },
+  {
+    "id": "russia-rtfmfm",
+    "name": "RTFM.FM",
+    "url": "https://stream.rtfm.fm/aac256",
+    "genre": "Music",
+    "city": "Novosibirsk",
+    "country": "Russia",
+    "lat": 55.0288307,
+    "lng": 82.9226887
+  },
+  {
+    "id": "russia-radio-sibir-fm-1037",
+    "name": "Radio Sibir FM 103.7",
+    "url": "https://ctv7.ru/radio/",
+    "genre": "Music",
+    "city": "Tomsk",
+    "country": "Russia",
+    "lat": 58.6124279,
+    "lng": 82.0475315
+  },
+  {
+    "id": "russia-piligrim",
+    "name": "Piligrim",
+    "url": "http://www.radiopiligrim.ru:8000/live",
+    "genre": "Music",
+    "city": "Krasnodar",
+    "country": "Russia",
+    "lat": 45.0351532,
+    "lng": 38.9772396
+  },
+  {
+    "id": "russia-avtoradio-987-fm",
+    "name": "Avtoradio 98.7 FM",
+    "url": "https://srv01.gpmradio.ru/stream/reg/aac/64/region_avto_tz_4",
+    "genre": "Music",
+    "city": "Novosibirsk",
+    "country": "Russia",
+    "lat": 55.0288307,
+    "lng": 82.9226887
+  },
+  {
+    "id": "russia-veda-radio",
+    "name": "Veda Radio",
+    "url": "http://listen.vedaradio.fm:8000/high",
+    "genre": "Music",
+    "city": "Krasnodar",
+    "country": "Russia",
+    "lat": 45.0351532,
+    "lng": 38.9772396
+  },
+  {
+    "id": "russia-mayak-barnaul",
+    "name": "Mayak Barnaul",
+    "url": "https://icecast.gtrk22.ru:8443/mayak",
+    "genre": "Music",
+    "city": "Novosibirsk",
+    "country": "Russia",
+    "lat": 55.0288307,
+    "lng": 82.9226887
+  },
+  {
+    "id": "russia-komsomolskaya-pravda-novosibirsk",
+    "name": "Komsomolskaya Pravda Novosibirsk",
+    "url": "https://kpradio.hostingradio.ru:8000/novosibirsk.radiokp64.mp3?radiostatistica=radio.garden/;",
+    "genre": "Music",
+    "city": "Novosibirsk",
+    "country": "Russia",
+    "lat": 55.0288307,
+    "lng": 82.9226887
+  },
+  {
+    "id": "russia-absolut-park-radio",
+    "name": "ABSOLUT Park Radio",
+    "url": "https://listen6.myradio24.com/absolutrad",
+    "genre": "Music",
+    "city": "Novosibirsk",
+    "country": "Russia",
+    "lat": 55.0288307,
+    "lng": 82.9226887
+  },
+  {
+    "id": "russia-radio-shanson",
+    "name": "Radio Shanson",
+    "url": "https://chanson.hostingradio.ru:8041/chanson256.mp3",
+    "genre": "Music",
+    "city": "Novosibirsk",
+    "country": "Russia",
+    "lat": 55.0288307,
+    "lng": 82.9226887
+  },
+  {
+    "id": "russia-radio-novaya-rossiya-fm-1040",
+    "name": "Radio Novaya Rossiya FM 104.0",
+    "url": "http://91.194.120.107:8000/128",
+    "genre": "Music",
+    "city": "Krasnodar",
+    "country": "Russia",
+    "lat": 45.0351532,
+    "lng": 38.9772396
+  },
+  {
+    "id": "russia-silver-rain-novosibirsk-966fm",
+    "name": "Silver Rain Novosibirsk 96.6FM",
+    "url": "https://silverrain.hostingradio.ru/silver128.mp3",
+    "genre": "Music",
+    "city": "Novosibirsk",
+    "country": "Russia",
+    "lat": 55.0288307,
+    "lng": 82.9226887
+  },
+  {
+    "id": "russia-radio-zvezda-fm-875",
+    "name": "Radio Zvezda FM 87.5",
+    "url": "https://listen3.myradio24.com/zvezdafm",
+    "genre": "Music",
+    "city": "Krasnodar",
+    "country": "Russia",
+    "lat": 45.0351532,
+    "lng": 38.9772396
+  },
+  {
+    "id": "russia-radio-krasnodar-998-fm",
+    "name": "Radio Krasnodar 99.8 FM",
+    "url": "https://icecast-radiokrasnodar.cdnvideo.ru/radiokrasnodar_site_01",
+    "genre": "Music",
+    "city": "Krasnodar",
+    "country": "Russia",
+    "lat": 45.0351532,
+    "lng": 38.9772396
+  },
+  {
+    "id": "russia-closed-radio-rostova--закрытое-радио-ростова",
+    "name": "Closed Radio Rostova - Закрытое Радио Ростова",
+    "url": "http://radio.jingles.ru:8000/rostovradio",
+    "genre": "Music",
+    "city": "Krasnodar",
+    "country": "Russia",
+    "lat": 45.0351532,
+    "lng": 38.9772396
+  },
+  {
+    "id": "russia-love-radio-fm-1010",
+    "name": "Love Radio FM 101.0",
+    "url": "https://online.road-radio.ru/love101",
+    "genre": "Music",
+    "city": "Krasnodar",
+    "country": "Russia",
+    "lat": 45.0351532,
+    "lng": 38.9772396
+  },
+  {
+    "id": "russia-n-radio-1079-fm",
+    "name": "N-Radio 107.9 FM",
+    "url": "http://178.47.34.174:8000/n-radio",
+    "genre": "Music",
+    "city": "Yekaterinburg",
+    "country": "Russia",
+    "lat": 56.8382071,
+    "lng": 60.6007886
+  },
+  {
+    "id": "russia-dfm-krasnodar-1060-fm",
+    "name": "DFM Krasnodar 106.0 FM",
+    "url": "https://listen1.myradio24.com/dfm106",
+    "genre": "Music",
+    "city": "Krasnodar",
+    "country": "Russia",
+    "lat": 45.0351532,
+    "lng": 38.9772396
+  },
+  {
+    "id": "russia-europa-plus-novosibirsk-1032-fm",
+    "name": "Europa Plus Novosibirsk 103.2 FM",
+    "url": "https://online2.gkvr.ru:8001/europa_nsb_64.aac",
+    "genre": "Music",
+    "city": "Novosibirsk",
+    "country": "Russia",
+    "lat": 55.0288307,
+    "lng": 82.9226887
+  },
+  {
+    "id": "russia-radio-continental",
+    "name": "Radio Continental",
+    "url": "http://stream01.radiocon.ru:8000/live",
+    "genre": "Music",
+    "city": "Yekaterinburg",
+    "country": "Russia",
+    "lat": 56.8382071,
+    "lng": 60.6007886
+  },
+  {
+    "id": "russia-radio-si-1037",
+    "name": "Radio Si 103.7",
+    "url": "https://online.radioc.ru/radioc_aacplus",
+    "genre": "Music",
+    "city": "Yekaterinburg",
+    "country": "Russia",
+    "lat": 56.8382071,
+    "lng": 60.6007886
+  },
+  {
+    "id": "russia-rock-arsenal-fm-1045",
+    "name": "Rock Arsenal FM 104.5",
+    "url": "https://online.rockarsenal.ru/rockarsenal_aacplus",
+    "genre": "Music",
+    "city": "Yekaterinburg",
+    "country": "Russia",
+    "lat": 56.8382071,
+    "lng": 60.6007886
+  },
+  {
+    "id": "russia-radio-leto-989-fm",
+    "name": "Radio Leto 98.9 FM",
+    "url": "https://online.radioletofm.ru/radioletofm_aacplus",
+    "genre": "Music",
+    "city": "Yekaterinburg",
+    "country": "Russia",
+    "lat": 56.8382071,
+    "lng": 60.6007886
+  },
+  {
+    "id": "russia-business-fm-1068",
+    "name": "Business FM 106.8",
+    "url": "https://a8.radioheart.ru:8005/RH74738",
+    "genre": "Music",
+    "city": "Krasnodar",
+    "country": "Russia",
+    "lat": 45.0351532,
+    "lng": 38.9772396
+  },
+  {
+    "id": "russia-sputnik-107-fm",
+    "name": "Sputnik 107 FM",
+    "url": "https://online.sputnik107.ru/sputnik107_aacplus",
+    "genre": "Music",
+    "city": "Yekaterinburg",
+    "country": "Russia",
+    "lat": 56.8382071,
+    "lng": 60.6007886
+  },
+  {
+    "id": "russia-kazak-fm-1052",
+    "name": "Kazak FM 105.2",
+    "url": "https://radio.kazak.fm/kazak_fm.mp3?radiostatistica=radio.garden",
+    "genre": "Music",
+    "city": "Krasnodar",
+    "country": "Russia",
+    "lat": 45.0351532,
+    "lng": 38.9772396
+  },
+  {
+    "id": "russia-radio-marshall-fm-1035",
+    "name": "Radio Marshall FM 103.5",
+    "url": "http://eu.stream4cast.com:8030/;stream.mp3",
+    "genre": "Music",
+    "city": "Vladikavkaz",
+    "country": "Russia",
+    "lat": 43.024593,
+    "lng": 44.68211
+  },
+  {
+    "id": "russia-road-radio-fm-912",
+    "name": "Road Radio FM 91.2",
+    "url": "http://stream1.hostingradio.ru:8010/15_aac_96",
+    "genre": "Music",
+    "city": "Vladikavkaz",
+    "country": "Russia",
+    "lat": 43.024593,
+    "lng": 44.68211
+  },
+  {
+    "id": "russia-caucasus-radio-fm-908",
+    "name": "Caucasus Radio FM 90.8",
+    "url": "http://radio.alania.net:8000/kvk",
+    "genre": "Music",
+    "city": "Vladikavkaz",
+    "country": "Russia",
+    "lat": 43.024593,
+    "lng": 44.68211
+  },
+  {
+    "id": "russia-radio-kp-fm-923",
+    "name": "Radio KP FM 92.3",
+    "url": "https://kpradio.hostingradio.ru:8000//ekaterinburg.radiokp128.mp3",
+    "genre": "Music",
+    "city": "Yekaterinburg",
+    "country": "Russia",
+    "lat": 56.8382071,
+    "lng": 60.6007886
+  },
+  {
+    "id": "russia-радио-кавказ-хит",
+    "name": "Радио Кавказ Хит",
+    "url": "https://kavkazhit.hostingradio.ru:8017/kavkazhit96.mp3",
+    "genre": "Music",
+    "city": "Krasnodar",
+    "country": "Russia",
+    "lat": 45.0351532,
+    "lng": 38.9772396
+  },
+  {
+    "id": "russia-radio-marneuli-fm-969",
+    "name": "Radio Marneuli FM 96.9",
+    "url": "http://stream.it-solutions.ge:8000/mp3-radiomarneulifm",
+    "genre": "Music",
+    "city": "Vladikavkaz",
+    "country": "Russia",
+    "lat": 43.024593,
+    "lng": 44.68211
+  },
+  {
+    "id": "russia-rocknroll-fm",
+    "name": "Rock'n'Roll FM",
+    "url": "https://a6.radioheart.ru:9046/RH1972",
+    "genre": "Music",
+    "city": "Krasnodar",
+    "country": "Russia",
+    "lat": 45.0351532,
+    "lng": 38.9772396
+  },
+  {
+    "id": "russia-radio-hereti-fm-1028",
+    "name": "Radio Hereti FM 102.8",
+    "url": "http://iis.ge:8000/hereti.mp3",
+    "genre": "Music",
+    "city": "Vladikavkaz",
+    "country": "Russia",
+    "lat": 43.024593,
+    "lng": 44.68211
+  },
+  {
+    "id": "russia-radio-dzveli-kalaki-fm-1079",
+    "name": "Radio Dzveli Kalaki FM 107.9",
+    "url": "http://iis.ge:8000/radiodk.mp3",
+    "genre": "Music",
+    "city": "Vladikavkaz",
+    "country": "Russia",
+    "lat": 43.024593,
+    "lng": 44.68211
+  },
+  {
+    "id": "russia-radio-kp",
+    "name": "Radio KP",
+    "url": "https://kpradio.hostingradio.ru:8000/perm.radiokp128.mp3",
+    "genre": "Music",
+    "city": "Yekaterinburg",
+    "country": "Russia",
+    "lat": 56.8382071,
+    "lng": 60.6007886
+  },
+  {
+    "id": "russia-ekoradio",
+    "name": "Ekoradio",
+    "url": "https://online.ekoradio.ru/stream.mp3",
+    "genre": "Music",
+    "city": "Yekaterinburg",
+    "country": "Russia",
+    "lat": 56.8382071,
+    "lng": 60.6007886
+  },
+  {
+    "id": "russia-monte-carlo-1075-fm",
+    "name": "Monte Carlo 107.5 FM",
+    "url": "https://broadcast.osetiafm.ru/mc.mp3",
+    "genre": "Music",
+    "city": "Vladikavkaz",
+    "country": "Russia",
+    "lat": 43.024593,
+    "lng": 44.68211
+  },
+  {
+    "id": "russia-europa-plus-1020-fm",
+    "name": "Europa Plus 102.0 FM",
+    "url": "https://broadcast.osetiafm.ru/europa.mp3",
+    "genre": "Music",
+    "city": "Vladikavkaz",
+    "country": "Russia",
+    "lat": 43.024593,
+    "lng": 44.68211
+  },
+  {
+    "id": "russia-новое-радио-908-fm",
+    "name": "новое радио 90.8 FM",
+    "url": "https://emgregion.hostingradio.ru:8064/ekb.novoe.mp3",
+    "genre": "Music",
+    "city": "Yekaterinburg",
+    "country": "Russia",
+    "lat": 56.8382071,
+    "lng": 60.6007886
+  },
+  {
+    "id": "russia-авторадио",
+    "name": "Авторадио",
+    "url": "https://cast.fmprod.ru/auto_bsk",
+    "genre": "Music",
+    "city": "Biysk",
+    "country": "Russia",
+    "lat": 52.5394905,
+    "lng": 85.2148673
+  },
+  {
+    "id": "russia-vesti-fm",
+    "name": "Vesti FM",
+    "url": "http://icecast.vgtrk.cdnvideo.ru/vestifm_nn",
+    "genre": "Music",
+    "city": "Nizhny Novgorod",
+    "country": "Russia",
+    "lat": 56.3264816,
+    "lng": 44.0051395
+  },
+  {
+    "id": "russia-ретро-fm",
+    "name": "Ретро FM",
+    "url": "https://cast.fmprod.ru/retro_bsk",
+    "genre": "Music",
+    "city": "Biysk",
+    "country": "Russia",
+    "lat": 52.5394905,
+    "lng": 85.2148673
+  },
+  {
+    "id": "russia-мир",
+    "name": "Мир",
+    "url": "https://cast.fmprod.ru/mir_bsk",
+    "genre": "Music",
+    "city": "Biysk",
+    "country": "Russia",
+    "lat": 52.5394905,
+    "lng": 85.2148673
+  },
+  {
+    "id": "russia-alania-fm-1045",
+    "name": "Alania FM 104.5",
+    "url": "https://vgtrk15.hostingradio.ru:8011/vgtrk15128.mp3",
+    "genre": "Music",
+    "city": "Vladikavkaz",
+    "country": "Russia",
+    "lat": 43.024593,
+    "lng": 44.68211
+  },
+  {
+    "id": "russia-юмор-fm",
+    "name": "Юмор FM",
+    "url": "https://cast.fmprod.ru/humor_bsk",
+    "genre": "Music",
+    "city": "Biysk",
+    "country": "Russia",
+    "lat": 52.5394905,
+    "lng": 85.2148673
+  },
+  {
+    "id": "russia-radio-randevu",
+    "name": "Radio Randevu",
+    "url": "https://stream.randevuradio.ru/randevu",
+    "genre": "Music",
+    "city": "Nizhny Novgorod",
+    "country": "Russia",
+    "lat": 56.3264816,
+    "lng": 44.0051395
+  },
+  {
+    "id": "russia-orthodox-chants",
+    "name": "Orthodox Chants",
+    "url": "http://orthodox-chants.ru:8000/64kb",
+    "genre": "Music",
+    "city": "Nizhny Novgorod",
+    "country": "Russia",
+    "lat": 56.3264816,
+    "lng": 44.0051395
+  },
+  {
+    "id": "russia-radio-bolid-fm-880",
+    "name": "Radio Bolid FM 88.0",
+    "url": "https://icecast-bulteam.cdnvideo.ru/bolid128",
+    "genre": "Music",
+    "city": "Perm",
+    "country": "Russia",
+    "lat": 58.0108531,
+    "lng": 56.2318528
+  },
+  {
+    "id": "russia-radio-n-1026-fm",
+    "name": "Radio-N 102.6 FM",
+    "url": "https://online.radio-n.ru:8000/radio",
+    "genre": "Music",
+    "city": "Krasnodar",
+    "country": "Russia",
+    "lat": 45.0351532,
+    "lng": 38.9772396
+  },
+  {
+    "id": "russia-earth-plus",
+    "name": "Earth plus",
+    "url": "https://listen.eaplfm.com/top.mp3",
+    "genre": "Music",
+    "city": "Nizhny Novgorod",
+    "country": "Russia",
+    "lat": 56.3264816,
+    "lng": 44.0051395
+  },
+  {
+    "id": "russia-ткр-fm-932",
+    "name": "ТКР FM 93.2",
+    "url": "http://176.118.220.124:8010/radio",
+    "genre": "Music",
+    "city": "Nizhny Novgorod",
+    "country": "Russia",
+    "lat": 56.3264816,
+    "lng": 44.0051395
+  },
+  {
+    "id": "russia-trialeti-fm-1049",
+    "name": "Trialeti FM 104.9",
+    "url": "https://s39.myradiostream.com/:10898/;listen.mp3",
+    "genre": "Music",
+    "city": "Vladikavkaz",
+    "country": "Russia",
+    "lat": 43.024593,
+    "lng": 44.68211
+  },
+  {
+    "id": "russia-ртс-радио",
+    "name": "РТС радио",
+    "url": "https://kpradio.hostingradio.ru:8000/abakan.radiokp64.mp3",
+    "genre": "Music",
+    "city": "Biysk",
+    "country": "Russia",
+    "lat": 52.5394905,
+    "lng": 85.2148673
+  },
+  {
+    "id": "russia-business-fm-1075",
+    "name": "Business FM 107.5",
+    "url": "http://92.50.139.190:8005/bfmufa",
+    "genre": "Music",
+    "city": "Perm",
+    "country": "Russia",
+    "lat": 58.0108531,
+    "lng": 56.2318528
+  },
+  {
+    "id": "russia-keygen-fm",
+    "name": "Keygen FM",
+    "url": "https://stream.keygen-fm.ru:8092/listen.mp3",
+    "genre": "Music",
+    "city": "Nizhny Novgorod",
+    "country": "Russia",
+    "lat": 56.3264816,
+    "lng": 44.0051395
+  },
+  {
+    "id": "russia-radio-gold-fm-981",
+    "name": "Radio Gold FM 98.1",
+    "url": "http://79.172.43.10:8000/radio1",
+    "genre": "Music",
+    "city": "Perm",
+    "country": "Russia",
+    "lat": 58.0108531,
+    "lng": 56.2318528
+  },
+  {
+    "id": "russia-komsomolskaya-pravda--nizhny-novgorod",
+    "name": "Komsomolskaya Pravda - Nizhny Novgorod",
+    "url": "https://kpradio.hostingradio.ru:8000/nnovgorod.radiokp64.mp3?radiostatistica=radio.garden/;",
+    "genre": "Music",
+    "city": "Nizhny Novgorod",
+    "country": "Russia",
+    "lat": 56.3264816,
+    "lng": 44.0051395
+  },
+  {
+    "id": "russia-radio-privet-fm-1044",
+    "name": "Radio Privet FM 104.4",
+    "url": "http://62.16.41.97:8000/radioprivet",
+    "genre": "Music",
+    "city": "Perm",
+    "country": "Russia",
+    "lat": 58.0108531,
+    "lng": 56.2318528
+  },
+  {
+    "id": "russia-echo-perm-fm-912",
+    "name": "Echo Perm FM 91.2",
+    "url": "https://trans.echoperm.ru:8000/stream",
+    "genre": "Music",
+    "city": "Perm",
+    "country": "Russia",
+    "lat": 58.0108531,
+    "lng": 56.2318528
+  },
+  {
+    "id": "russia-radio-alpha-1041-fm",
+    "name": "Radio Alpha 104.1 FM",
+    "url": "https://online.alfafm.ru/alfa_mp3",
+    "genre": "Music",
+    "city": "Perm",
+    "country": "Russia",
+    "lat": 58.0108531,
+    "lng": 56.2318528
+  },
+  {
+    "id": "russia-radio-pilot-perm-1036-fm",
+    "name": "Radio Pilot Perm 103.6 FM",
+    "url": "https://online.permpilotfm.ru/PilotPermAcc",
+    "genre": "Music",
+    "city": "Perm",
+    "country": "Russia",
+    "lat": 58.0108531,
+    "lng": 56.2318528
+  },
+  {
+    "id": "russia-radio-kp",
+    "name": "Radio KP",
+    "url": "https://kpradio.hostingradio.ru:8000/vladimir.radiokp128.mp3",
+    "genre": "Music",
+    "city": "Nizhny Novgorod",
+    "country": "Russia",
+    "lat": 56.3264816,
+    "lng": 44.0051395
+  },
+  {
+    "id": "russia-dorognoe-radio-orenburg",
+    "name": "Dorognoe Radio Orenburg",
+    "url": "http://radio.omg56.ru:8000/Dorognoe_Oren",
+    "genre": "Music",
+    "city": "Orenburg",
+    "country": "Russia",
+    "lat": 51.7671248,
+    "lng": 55.0978517
+  },
+  {
+    "id": "russia-russkoe-radio-orenburg",
+    "name": "Russkoe Radio Orenburg",
+    "url": "http://radio.omg56.ru:8000/Russkoe_Oren",
+    "genre": "Music",
+    "city": "Orenburg",
+    "country": "Russia",
+    "lat": 51.7671248,
+    "lng": 55.0978517
+  },
+  {
+    "id": "russia-hit-fm-orenburg",
+    "name": "Hit FM Orenburg",
+    "url": "http://radio.omg56.ru:8000/Hit_fm_Oren",
+    "genre": "Music",
+    "city": "Orenburg",
+    "country": "Russia",
+    "lat": 51.7671248,
+    "lng": 55.0978517
+  },
+  {
+    "id": "russia-komsomolskaya-pravda-yaroslavl",
+    "name": "Komsomolskaya Pravda Yaroslavl",
+    "url": "https://kpradio.hostingradio.ru:8000/yaroslavl.radiokp64.mp3?radiostatistica=radio.garden/;",
+    "genre": "Music",
+    "city": "Nizhny Novgorod",
+    "country": "Russia",
+    "lat": 56.3264816,
+    "lng": 44.0051395
+  },
+  {
+    "id": "russia-comedy-radio-fm-898",
+    "name": "Comedy Radio FM 89.8",
+    "url": "https://srv12.gpmradio.ru:8443/stream/reg/mp3/128/region_comedy_29",
+    "genre": "Music",
+    "city": "Perm",
+    "country": "Russia",
+    "lat": 58.0108531,
+    "lng": 56.2318528
+  },
+  {
+    "id": "russia-radio-record",
+    "name": "Radio Record",
+    "url": "https://online2.gkvr.ru:8001/record_nno_64.aac",
+    "genre": "Music",
+    "city": "Nizhny Novgorod",
+    "country": "Russia",
+    "lat": 56.3264816,
+    "lng": 44.0051395
+  },
+  {
+    "id": "russia-kunel-radiosi--үңел-радиосы",
+    "name": "Kunel Radiosi - үңел Радиосы",
+    "url": "http://live.kunelradio.ru:8000/128.mp3",
+    "genre": "Music",
+    "city": "Orenburg",
+    "country": "Russia",
+    "lat": 51.7671248,
+    "lng": 55.0978517
+  },
+  {
+    "id": "russia-ashkadar",
+    "name": "Ashkadar",
+    "url": "https://radio.mediacdn.ru/ashkadar.mp3",
+    "genre": "Music",
+    "city": "Orenburg",
+    "country": "Russia",
+    "lat": 51.7671248,
+    "lng": 55.0978517
+  },
+  {
+    "id": "russia-sputnik-fm",
+    "name": "Sputnik FM",
+    "url": "https://radio.mediacdn.ru/sputnik_fm.mp3",
+    "genre": "Music",
+    "city": "Ufa",
+    "country": "Russia",
+    "lat": 54.7261409,
+    "lng": 55.947499
+  },
+  {
+    "id": "russia-metr-fm-1072",
+    "name": "Metr FM 107.2",
+    "url": "https://metr12.ru/play/metrfm",
+    "genre": "Music",
+    "city": "Nizhny Novgorod",
+    "country": "Russia",
+    "lat": 56.3264816,
+    "lng": 44.0051395
+  },
+  {
+    "id": "russia-uldash",
+    "name": "Uldash",
+    "url": "https://radio.mediacdn.ru/uldash.mp3",
+    "genre": "Music",
+    "city": "Ufa",
+    "country": "Russia",
+    "lat": 54.7261409,
+    "lng": 55.947499
+  },
+  {
+    "id": "russia-hit-navigator-981-fm",
+    "name": "Hit Navigator 98.1 FM",
+    "url": "http://navi.denel85.ru:8005/hit-navigator.ogg",
+    "genre": "Music",
+    "city": "Orenburg",
+    "country": "Russia",
+    "lat": 51.7671248,
+    "lng": 55.0978517
+  },
+  {
+    "id": "russia-dfm-1027",
+    "name": "DFM 102.7",
+    "url": "http://46.146.243.43:8000/dfm",
+    "genre": "Music",
+    "city": "Ufa",
+    "country": "Russia",
+    "lat": 54.7261409,
+    "lng": 55.947499
+  },
+  {
+    "id": "russia-radio-mayak-orenburg-fm-1063",
+    "name": "Radio Mayak Orenburg FM 106.3",
+    "url": "https://radio-translation.vestirama.ru:8443/maiak.mp3",
+    "genre": "Music",
+    "city": "Ufa",
+    "country": "Russia",
+    "lat": 54.7261409,
+    "lng": 55.947499
+  },
+  {
+    "id": "russia-nrj-orenburg",
+    "name": "NRJ Orenburg",
+    "url": "https://srv02.gpmradio.ru:8443/stream/reg/aac/64/region_energy_tz_2",
+    "genre": "Music",
+    "city": "Orenburg",
+    "country": "Russia",
+    "lat": 51.7671248,
+    "lng": 55.0978517
+  },
+  {
+    "id": "russia-roksana-radiosi-1030-fm",
+    "name": "Roksana Radiosi 103.0 FM",
+    "url": "https://stream.roksanaradio.ru/roksana.aac",
+    "genre": "Music",
+    "city": "Ufa",
+    "country": "Russia",
+    "lat": 54.7261409,
+    "lng": 55.947499
+  },
+  {
+    "id": "russia-радио-маяк-калмыкии-fm-1022",
+    "name": "Радио Маяк Калмыкии FM 102.2",
+    "url": "https://icecast-vgtrk.cdnvideo.ru/mayakfm_aac_64kbps",
+    "genre": "Music",
+    "city": "Volgodonsk",
+    "country": "Russia",
+    "lat": 47.5182668,
+    "lng": 42.1525935
+  },
+  {
+    "id": "russia-радио-визави-1022-fm",
+    "name": "Радио Визави 102.2 FM",
+    "url": "http://94.250.249.126:8000/radio",
+    "genre": "Music",
+    "city": "Volgodonsk",
+    "country": "Russia",
+    "lat": 47.5182668,
+    "lng": 42.1525935
+  },
+  {
+    "id": "russia-kids-hits",
+    "name": "Kids Hits",
+    "url": "http://45.67.32.175/listen/kids-hits/kids-hits",
+    "genre": "Music",
+    "city": "Veliky Ustyug",
+    "country": "Russia",
+    "lat": 60.7612852,
+    "lng": 46.3014666
+  },
+  {
+    "id": "russia-russkoe-radio-875-fm",
+    "name": "Russkoe Radio 87.5 FM",
+    "url": "http://listen2.myradio24.com:9000/7551",
+    "genre": "Music",
+    "city": "Volgodonsk",
+    "country": "Russia",
+    "lat": 47.5182668,
+    "lng": 42.1525935
+  },
+  {
+    "id": "russia-russkoe-radio-orsk-996-fm",
+    "name": "Russkoe Radio Orsk 99.6 FM",
+    "url": "https://radios.omg56.ru/Russkoe_Oren",
+    "genre": "Music",
+    "city": "Orenburg",
+    "country": "Russia",
+    "lat": 51.7671248,
+    "lng": 55.0978517
+  },
+  {
+    "id": "russia-старое-детское-радио",
+    "name": "Старое Детское Радио",
+    "url": "http://195.91.237.50:8000/detskoe128",
+    "genre": "Music",
+    "city": "Veliky Ustyug",
+    "country": "Russia",
+    "lat": 60.7612852,
+    "lng": 46.3014666
+  },
+  {
+    "id": "russia-chuvash-national-radio",
+    "name": "Chuvash National Radio",
+    "url": "http://icecast.ntrk21.ru:8000/nacradio",
+    "genre": "Music",
+    "city": "Veliky Ustyug",
+    "country": "Russia",
+    "lat": 60.7612852,
+    "lng": 46.3014666
+  },
+  {
+    "id": "russia-europa-plus",
+    "name": "Europa Plus",
+    "url": "https://ep128.hostingradio.ru:8030/ep128",
+    "genre": "Music",
+    "city": "Orenburg",
+    "country": "Russia",
+    "lat": 51.7671248,
+    "lng": 55.0978517
+  },
+  {
+    "id": "russia-radio-cafe-fm-900",
+    "name": "Radio Cafe FM 90.0",
+    "url": "https://on.radio-cafe.ru:6050/stream",
+    "genre": "Music",
+    "city": "Ufa",
+    "country": "Russia",
+    "lat": 54.7261409,
+    "lng": 55.947499
+  },
+  {
+    "id": "russia-bim-radio",
+    "name": "Bim Radio",
+    "url": "http://av.bimradio.ru:8066/bim_mp3_128k",
+    "genre": "Music",
+    "city": "Veliky Ustyug",
+    "country": "Russia",
+    "lat": 60.7612852,
+    "lng": 46.3014666
+  },
+  {
+    "id": "russia-autoradio-1008-fm",
+    "name": "Autoradio 100.8 FM",
+    "url": "https://listen.vdfm.ru:8000/autoradio",
+    "genre": "Music",
+    "city": "Volgodonsk",
+    "country": "Russia",
+    "lat": 47.5182668,
+    "lng": 42.1525935
+  },
+  {
+    "id": "russia-russkoe-radio",
+    "name": "Russkoe Radio",
+    "url": "https://listen.vdfm.ru:8000/rusradio",
+    "genre": "Music",
+    "city": "Volgodonsk",
+    "country": "Russia",
+    "lat": 47.5182668,
+    "lng": 42.1525935
+  },
+  {
+    "id": "russia-radio-shanson-1022-fm",
+    "name": "Radio Shanson 102.2 FM",
+    "url": "https://listen.vdfm.ru:8000/shanson",
+    "genre": "Music",
+    "city": "Volgodonsk",
+    "country": "Russia",
+    "lat": 47.5182668,
+    "lng": 42.1525935
+  },
+  {
+    "id": "russia-metr-top-music",
+    "name": "Metr Top Music",
+    "url": "https://metr12.ru/play/mtm",
+    "genre": "Music",
+    "city": "Veliky Ustyug",
+    "country": "Russia",
+    "lat": 60.7612852,
+    "lng": 46.3014666
+  },
+  {
+    "id": "russia-radio-kp",
+    "name": "Radio KP",
+    "url": "http://kraskp.ru:8000/128",
+    "genre": "Music",
+    "city": "Krasnoyarsk",
+    "country": "Russia",
+    "lat": 56.0091173,
+    "lng": 92.872586
+  },
+  {
+    "id": "russia-101ru--колыбельная",
+    "name": "101.RU - Колыбельная",
+    "url": "https://pub0202.101.ru:8443/stream/pro/aac/64/95",
+    "genre": "Music",
+    "city": "Veliky Ustyug",
+    "country": "Russia",
+    "lat": 60.7612852,
+    "lng": 46.3014666
+  },
+  {
+    "id": "russia-101ru--grigory-gladkov",
+    "name": "101.RU - Grigory Gladkov",
+    "url": "https://srv11.gpmradio.ru:8443/stream/pro/aac/64/94",
+    "genre": "Music",
+    "city": "Veliky Ustyug",
+    "country": "Russia",
+    "lat": 60.7612852,
+    "lng": 46.3014666
+  },
+  {
+    "id": "russia-radio-record-1027-fm",
+    "name": "Radio Record 102.7 FM",
+    "url": "https://listen.vdfm.ru:8000/record",
+    "genre": "Music",
+    "city": "Volgodonsk",
+    "country": "Russia",
+    "lat": 47.5182668,
+    "lng": 42.1525935
+  },
+  {
+    "id": "russia-radio-991-fm",
+    "name": "Radio 99.1 FM",
+    "url": "https://online2.99-1.ru/99i1",
+    "genre": "Music",
+    "city": "Krasnoyarsk",
+    "country": "Russia",
+    "lat": 56.0091173,
+    "lng": 92.872586
+  },
+  {
+    "id": "russia-101ru--сказка-за-сказкой",
+    "name": "101.RU - Сказка за сказкой",
+    "url": "https://pub0202.101.ru:8443/stream/pro/aac/64/222",
+    "genre": "Music",
+    "city": "Veliky Ustyug",
+    "country": "Russia",
+    "lat": 60.7612852,
+    "lng": 46.3014666
+  },
+  {
+    "id": "russia-радио-гамаюн",
+    "name": "Радио Гамаюн",
+    "url": "https://gamaun.online:8010/radio",
+    "genre": "Music",
+    "city": "Veliky Ustyug",
+    "country": "Russia",
+    "lat": 60.7612852,
+    "lng": 46.3014666
+  },
+  {
+    "id": "russia-europa-plus-1003-fm",
+    "name": "Europa Plus 100.3 FM",
+    "url": "https://listen.vdfm.ru:8000/europaplus",
+    "genre": "Music",
+    "city": "Volgodonsk",
+    "country": "Russia",
+    "lat": 47.5182668,
+    "lng": 42.1525935
+  },
+  {
+    "id": "russia-радио-контур",
+    "name": "Радио Контур",
+    "url": "https://misato.ru-hoster.com:8029/stream",
+    "genre": "Music",
+    "city": "Volgodonsk",
+    "country": "Russia",
+    "lat": 47.5182668,
+    "lng": 42.1525935
+  },
+  {
+    "id": "russia-radio-kp",
+    "name": "Radio KP",
+    "url": "https://kpradio.hostingradio.ru:8000/vologda.radiokp128.mp3",
+    "genre": "Music",
+    "city": "Veliky Ustyug",
+    "country": "Russia",
+    "lat": 60.7612852,
+    "lng": 46.3014666
+  },
+  {
+    "id": "russia-radio-warmia-barczewo",
+    "name": "Radio Warmia Barczewo",
+    "url": "http://51.255.8.139:8404/stream",
+    "genre": "Music",
+    "city": "Kaliningrad",
+    "country": "Russia",
+    "lat": 54.710128,
+    "lng": 20.5105838
+  },
+  {
+    "id": "russia-humor-fm-982",
+    "name": "Humor FM 98.2",
+    "url": "https://srv12.gpmradio.ru:8443/stream/reg/aac/64/region_humor_tz_4",
+    "genre": "Music",
+    "city": "Krasnoyarsk",
+    "country": "Russia",
+    "lat": 56.0091173,
+    "lng": 92.872586
+  },
+  {
+    "id": "russia-baltic-plus",
+    "name": "Baltic Plus",
+    "url": "http://bp.koenig.ru:8000/Baltic_Plus_mp3_128.mp3",
+    "genre": "Music",
+    "city": "Kaliningrad",
+    "country": "Russia",
+    "lat": 54.710128,
+    "lng": 20.5105838
+  },
+  {
+    "id": "russia-вести-fm",
+    "name": "Вести FM",
+    "url": "http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_192kbps",
+    "genre": "Music",
+    "city": "Kaliningrad",
+    "country": "Russia",
+    "lat": 54.710128,
+    "lng": 20.5105838
+  },
+  {
+    "id": "russia-krasnoyarsk-fm",
+    "name": "Krasnoyarsk FM",
+    "url": "https://online.krasnoyarskfm.ru/krasnoyarskfm_mp3",
+    "genre": "Music",
+    "city": "Krasnoyarsk",
+    "country": "Russia",
+    "lat": 56.0091173,
+    "lng": 92.872586
+  },
+  {
+    "id": "russia-heart-fm-1059",
+    "name": "Heart FM 105.9",
+    "url": "https://icecast.gtrk22.ru:8443/heartfm",
+    "genre": "Music",
+    "city": "Barnaul",
+    "country": "Russia",
+    "lat": 53.3475493,
+    "lng": 83.7788448
+  },
+  {
+    "id": "russia-neringa-fm",
+    "name": "Neringa FM",
+    "url": "https://cast5.my-control-panel.com/proxy/mbadvent/neringafmnew",
+    "genre": "Music",
+    "city": "Kaliningrad",
+    "country": "Russia",
+    "lat": 54.710128,
+    "lng": 20.5105838
+  },
+  {
+    "id": "russia-tapetown-radio",
+    "name": "Tapetown // Radio",
+    "url": "https://radio.tapetown.live/radio/8000/stream",
+    "genre": "Music",
+    "city": "Kaliningrad",
+    "country": "Russia",
+    "lat": 54.710128,
+    "lng": 20.5105838
+  },
+  {
+    "id": "russia-марий-эл-радио-1055-fm",
+    "name": "Марий Эл Радио 105.5 FM",
+    "url": "http://178.208.91.206:8000/mer",
+    "genre": "Music",
+    "city": "Yoshkar-Ola",
+    "country": "Russia",
+    "lat": 56.6315556,
+    "lng": 47.8868803
+  },
+  {
+    "id": "russia-krasnoyarsk-glavniy-fm-1028",
+    "name": "Krasnoyarsk Glavniy FM 102.8",
+    "url": "https://streamer01.1028.fm:8443/arstream",
+    "genre": "Music",
+    "city": "Krasnoyarsk",
+    "country": "Russia",
+    "lat": 56.0091173,
+    "lng": 92.872586
+  },
+  {
+    "id": "russia-radijo-stotis-laluna",
+    "name": "Radijo stotis Laluna",
+    "url": "https://radio.m-1.fm/laluna/mp3?.mp3",
+    "genre": "Music",
+    "city": "Kaliningrad",
+    "country": "Russia",
+    "lat": 54.710128,
+    "lng": 20.5105838
+  },
+  {
+    "id": "russia-радио-dfm-1024",
+    "name": "Радио DFM 102.4",
+    "url": "https://cast.fmprod.ru/dfm_brn",
+    "genre": "Music",
+    "city": "Krasnoyarsk",
+    "country": "Russia",
+    "lat": 56.0091173,
+    "lng": 92.872586
+  },
+  {
+    "id": "russia-metr-golden-hits",
+    "name": "Metr Golden Hits",
+    "url": "https://metr12.ru/play/MGH",
+    "genre": "Music",
+    "city": "Yoshkar-Ola",
+    "country": "Russia",
+    "lat": 56.6315556,
+    "lng": 47.8868803
+  },
+  {
+    "id": "russia-puls-radio-fm-1038",
+    "name": "Puls-Radio FM 103.8",
+    "url": "https://puls-online.ru:8443/pulson_192",
+    "genre": "Music",
+    "city": "Yoshkar-Ola",
+    "country": "Russia",
+    "lat": 56.6315556,
+    "lng": 47.8868803
+  },
+  {
+    "id": "russia-ulyanovsk-fm-1042",
+    "name": "Ulyanovsk FM 104.2",
+    "url": "https://online.ulskfm.ru/104i2",
+    "genre": "Music",
+    "city": "Yoshkar-Ola",
+    "country": "Russia",
+    "lat": 56.6315556,
+    "lng": 47.8868803
+  },
+  {
+    "id": "russia-radio-1069",
+    "name": "Radio 106.9",
+    "url": "https://online.106i9fm.ru/106i9",
+    "genre": "Music",
+    "city": "Yoshkar-Ola",
+    "country": "Russia",
+    "lat": 56.6315556,
+    "lng": 47.8868803
+  },
+  {
+    "id": "russia-gr-jedynka--olsztyn",
+    "name": "GR Jedynka - Olsztyn",
+    "url": "https://uipo.duckdns.org/listen/gr_jedynka/grjedynkaolsztyn.mp3",
+    "genre": "Music",
+    "city": "Kaliningrad",
+    "country": "Russia",
+    "lat": 54.710128,
+    "lng": 20.5105838
+  },
+  {
+    "id": "russia-радио-калининград",
+    "name": "Радио Калининград",
+    "url": "https://a1.radioheart.ru:9008/RH65059",
+    "genre": "Music",
+    "city": "Kaliningrad",
+    "country": "Russia",
+    "lat": 54.710128,
+    "lng": 20.5105838
+  },
+  {
+    "id": "russia-komsomolskaya-pravda-1072",
+    "name": "Komsomolskaya Pravda 107.2",
+    "url": "https://kpradio.hostingradio.ru:8000/kaliningrad.radiokp64.mp3?radiostatistica=radio.garden/;",
+    "genre": "Music",
+    "city": "Kaliningrad",
+    "country": "Russia",
+    "lat": 54.710128,
+    "lng": 20.5105838
+  },
+  {
+    "id": "russia-radio-kamchatka-1055-fm",
+    "name": "Radio Kamchatka 105.5 FM",
+    "url": "https://a8.radioheart.ru:9026/RH75315",
+    "genre": "Music",
+    "city": "Petropavlovsk-Kamchatsky",
+    "country": "Russia",
+    "lat": 53.0199838,
+    "lng": 158.6471356
+  },
+  {
+    "id": "russia-radio-astv-1055",
+    "name": "Radio ASTV 105.5",
+    "url": "https://stream.astv.ru/stream.mp3",
+    "genre": "Music",
+    "city": "Petropavlovsk-Kamchatsky",
+    "country": "Russia",
+    "lat": 53.0199838,
+    "lng": 158.6471356
+  },
+  {
+    "id": "russia-business-fm-1018",
+    "name": "Business FM 101.8",
+    "url": "https://aska.ru-hoster.com:8065/stream",
+    "genre": "Music",
+    "city": "Kaliningrad",
+    "country": "Russia",
+    "lat": 54.710128,
+    "lng": 20.5105838
+  },
+  {
+    "id": "russia-kamchatka-live-chillout",
+    "name": "Kamchatka Live Chillout",
+    "url": "https://radio.kamchatkalive.ru:8103/chillout",
+    "genre": "Music",
+    "city": "Petropavlovsk-Kamchatsky",
+    "country": "Russia",
+    "lat": 53.0199838,
+    "lng": 158.6471356
+  },
+  {
+    "id": "russia-kamchatka-live-rock",
+    "name": "Kamchatka Live Rock",
+    "url": "https://radio.kamchatkalive.ru:8103/rock",
+    "genre": "Music",
+    "city": "Petropavlovsk-Kamchatsky",
+    "country": "Russia",
+    "lat": 53.0199838,
+    "lng": 158.6471356
+  },
+  {
+    "id": "russia-energy-898-fm",
+    "name": "Energy 89.8 FM",
+    "url": "https://srv12.gpmradio.ru:8443/stream/reg/mp3/128/region_energy_49",
+    "genre": "Music",
+    "city": "Petropavlovsk-Kamchatsky",
+    "country": "Russia",
+    "lat": 53.0199838,
+    "lng": 158.6471356
+  },
+  {
+    "id": "russia-羊飼いラジオ-hitsujikai-radio",
+    "name": "羊飼いラジオ Hitsujikai Radio",
+    "url": "https://streaming.radio.co/se4a8e6a93/listen",
+    "genre": "Music",
+    "city": "Petropavlovsk-Kamchatsky",
+    "country": "Russia",
+    "lat": 53.0199838,
+    "lng": 158.6471356
+  },
+  {
+    "id": "russia-komsomolskaya-pravda--khabarovsk-883fm",
+    "name": "Komsomolskaya Pravda - Khabarovsk 88.3FM",
+    "url": "https://kpradio.hostingradio.ru:8000/habarovsk.radiokp64.mp3?radiostatistica=radio.garden/;",
+    "genre": "Music",
+    "city": "Petropavlovsk-Kamchatsky",
+    "country": "Russia",
+    "lat": 53.0199838,
+    "lng": 158.6471356
+  },
+  {
+    "id": "russia-kamchatka-live-dance",
+    "name": "Kamchatka Live Dance",
+    "url": "https://radio.kamchatkalive.ru:8103/dance",
+    "genre": "Music",
+    "city": "Petropavlovsk-Kamchatsky",
+    "country": "Russia",
+    "lat": 53.0199838,
+    "lng": 158.6471356
+  }
+]

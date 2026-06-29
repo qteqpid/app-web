@@ -1,0 +1,442 @@
+[
+  {
+    "id": "congo-radio-lunda-norte",
+    "name": "Radio Lunda Norte",
+    "url": "http://paineldj6.com.br:8148/stream",
+    "genre": "Music",
+    "city": "Kinshasa",
+    "country": "Democratic Republic of the Congo",
+    "lat": -4.32171,
+    "lng": 15.3122511
+  },
+  {
+    "id": "congo-jaco-fm-983",
+    "name": "Jaco FM 98.3",
+    "url": "https://jacogabon.cloud/radio/stream",
+    "genre": "Music",
+    "city": "Kinshasa",
+    "country": "Democratic Republic of the Congo",
+    "lat": -4.32171,
+    "lng": 15.3122511
+  },
+  {
+    "id": "congo-radio-okapi-fm-1035",
+    "name": "Radio Okapi FM 103.5",
+    "url": "http://rs1.radiostreamer.com:8000/;stream/1",
+    "genre": "Music",
+    "city": "Kinshasa",
+    "country": "Democratic Republic of the Congo",
+    "lat": -4.32171,
+    "lng": 15.3122511
+  },
+  {
+    "id": "congo-ouragan-fm",
+    "name": "Ouragan FM",
+    "url": "https://radio.ouragan.cd/listen/ouragan/radio.mp3",
+    "genre": "Music",
+    "city": "Kinshasa",
+    "country": "Democratic Republic of the Congo",
+    "lat": -4.32171,
+    "lng": 15.3122511
+  },
+  {
+    "id": "congo-radio-uige-fm-944",
+    "name": "Radio Uige FM 94.4",
+    "url": "https://paineldj6.com.br:20119/stream",
+    "genre": "Music",
+    "city": "Kinshasa",
+    "country": "Democratic Republic of the Congo",
+    "lat": -4.32171,
+    "lng": 15.3122511
+  },
+  {
+    "id": "congo-radio-bendele",
+    "name": "Radio Bendele",
+    "url": "http://s6.voscast.com:8144/index.html",
+    "genre": "Music",
+    "city": "Kinshasa",
+    "country": "Democratic Republic of the Congo",
+    "lat": -4.32171,
+    "lng": 15.3122511
+  },
+  {
+    "id": "congo-radio-maendeleo-888-fm",
+    "name": "Radio Maendeleo 88.8 FM",
+    "url": "https://cast.az-streamingserver.com/proxy/sazobvdl/stream",
+    "genre": "Music",
+    "city": "Kinshasa",
+    "country": "Democratic Republic of the Congo",
+    "lat": -4.32171,
+    "lng": 15.3122511
+  },
+  {
+    "id": "congo-radio-moto-1020-fm",
+    "name": "Radio Moto 102.0 FM",
+    "url": "https://radio4.pro-fhi.net/live/RadioMotoButemboBeni",
+    "genre": "Music",
+    "city": "Kinshasa",
+    "country": "Democratic Republic of the Congo",
+    "lat": -4.32171,
+    "lng": 15.3122511
+  },
+  {
+    "id": "congo-radio-tayna-rtct",
+    "name": "Radio Tayna RTCT",
+    "url": "https://stream-176.zeno.fm/ide8zzvajbcvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJpZGU4enp2YWpiY3Z2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiWUpGTWFjY0tUY3VQTXNqRVJ1V1ZXZyIsImlhdCI6MTc2OTQxNzg1OCwiZXhwIjoxNzY5NDE3OTE4fQ.HK07ml8fhHUWIaB2Cygns-X9nbeYK_l_ny4SEZtxFF0",
+    "genre": "Music",
+    "city": "Goma",
+    "country": "Democratic Republic of the Congo",
+    "lat": -1.6665685,
+    "lng": 29.225652
+  },
+  {
+    "id": "congo-radio-pourim",
+    "name": "Radio Pourim",
+    "url": "https://zoka.radioca.st/index.html?sid=1",
+    "genre": "Music",
+    "city": "Kinshasa",
+    "country": "Democratic Republic of the Congo",
+    "lat": -4.32171,
+    "lng": 15.3122511
+  },
+  {
+    "id": "congo-radio-ngola-yetu-fm-1014",
+    "name": "Radio N'Gola Yetu FM 101.4",
+    "url": "https://live.paineldj.com.br/proxy/yetu?mp=/stream",
+    "genre": "Music",
+    "city": "Kinshasa",
+    "country": "Democratic Republic of the Congo",
+    "lat": -4.32171,
+    "lng": 15.3122511
+  },
+  {
+    "id": "congo-kako-fm",
+    "name": "Kako FM",
+    "url": "https://stream-177.zeno.fm/qdgq60qkb3gvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxZGdxNjBxa2IzZ3Z2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoicHFObi1MSmRRcG1iV0NVWFE5aThDUSIsImlhdCI6MTc2OTQxNzg1OCwiZXhwIjoxNzY5NDE3OTE4fQ.RK-7nVUzV9O_r0lBOjiO-Im2Zy7MDBMeZWmot69zOpI",
+    "genre": "Music",
+    "city": "Goma",
+    "country": "Democratic Republic of the Congo",
+    "lat": -1.6665685,
+    "lng": 29.225652
+  },
+  {
+    "id": "congo-radio-mishapi-voice",
+    "name": "Radio Mishapi Voice",
+    "url": "https://stream-177.zeno.fm/qbuyvkgh14dtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxYnV5dmtnaDE0ZHR2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiMm1TRG9zWjJTQzJDbFBPaGFhdFZpQSIsImlhdCI6MTc2OTQxNzg1OCwiZXhwIjoxNzY5NDE3OTE4fQ.9RMid3wwgWMHRBW_8f4bTR_vhQUgT2jKSSmoVQgx4gA",
+    "genre": "Music",
+    "city": "Goma",
+    "country": "Democratic Republic of the Congo",
+    "lat": -1.6665685,
+    "lng": 29.225652
+  },
+  {
+    "id": "congo-canal-unigom-1055-fm",
+    "name": "Canal Unigom 105.5 FM",
+    "url": "https://stream-179.zeno.fm/bnuliy5kdhstv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJibnVsaXk1a2Roc3R2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiY2ZIZ00wQnJRUmUzdXQtNG5ob1E3dyIsImlhdCI6MTc2OTQxNzg1OCwiZXhwIjoxNzY5NDE3OTE4fQ.S-sYrp6XjlxfJVLRunImwDpm8uRNfZ86MsaefhdHsKM",
+    "genre": "Music",
+    "city": "Goma",
+    "country": "Democratic Republic of the Congo",
+    "lat": -1.6665685,
+    "lng": 29.225652
+  },
+  {
+    "id": "congo-goma-webradio",
+    "name": "Goma Webradio",
+    "url": "https://stream-176.zeno.fm/4d61wprrp7zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0ZDYxd3BycnA3enV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiS3RfbFJKVkJSQ0tZS3lUMzdLcW9jUSIsImlhdCI6MTc2OTQxNzg1OCwiZXhwIjoxNzY5NDE3OTE4fQ.tSq7VbjTT6quonB6xuTV7DjnL4IrBbU8-haOG-k75PE",
+    "genre": "Music",
+    "city": "Goma",
+    "country": "Democratic Republic of the Congo",
+    "lat": -1.6665685,
+    "lng": 29.225652
+  },
+  {
+    "id": "congo-royal-fm-943",
+    "name": "Royal FM 94.3",
+    "url": "https://stream3.rcast.net/73260",
+    "genre": "Music",
+    "city": "Goma",
+    "country": "Democratic Republic of the Congo",
+    "lat": -1.6665685,
+    "lng": 29.225652
+  },
+  {
+    "id": "congo-conafohd-radio",
+    "name": "CONAFOHD Radio",
+    "url": "https://listen.radioking.com/radio/719807/stream/785618",
+    "genre": "Music",
+    "city": "Goma",
+    "country": "Democratic Republic of the Congo",
+    "lat": -1.6665685,
+    "lng": 29.225652
+  },
+  {
+    "id": "congo-spice-fm-911",
+    "name": "Spice FM 91.1",
+    "url": "http://live.rcast.net:8768/;stream.mp3",
+    "genre": "Music",
+    "city": "Lubumbashi",
+    "country": "Democratic Republic of the Congo",
+    "lat": -11.6642316,
+    "lng": 27.4826264
+  },
+  {
+    "id": "congo-roan-fm-1065",
+    "name": "Roan FM 106.5",
+    "url": "https://ec4.yesstreaming.net:1265/stream",
+    "genre": "Music",
+    "city": "Lubumbashi",
+    "country": "Democratic Republic of the Congo",
+    "lat": -11.6642316,
+    "lng": 27.4826264
+  },
+  {
+    "id": "congo-top-congo-fm-884",
+    "name": "Top Congo FM 88.4",
+    "url": "https://mpbradio.ice.infomaniak.ch/topcongo3-128.mp3",
+    "genre": "Music",
+    "city": "Kinshasa",
+    "country": "Democratic Republic of the Congo",
+    "lat": -4.32171,
+    "lng": 15.3122511
+  },
+  {
+    "id": "congo-radio-oasis-congo-875-fm",
+    "name": "Radio Oasis Congo 87.5 FM",
+    "url": "https://listen.radioking.com/radio/622345/stream/684418",
+    "genre": "Music",
+    "city": "Beni",
+    "country": "Democratic Republic of the Congo",
+    "lat": 0.3974023,
+    "lng": 29.2117178
+  },
+  {
+    "id": "congo-radio-rns",
+    "name": "Radio RNS",
+    "url": "https://listen.radioking.com/radio/314909/stream/362240",
+    "genre": "Music",
+    "city": "Lubumbashi",
+    "country": "Democratic Republic of the Congo",
+    "lat": -11.6642316,
+    "lng": 27.4826264
+  },
+  {
+    "id": "congo-kasese-guide-fm-1005",
+    "name": "Kasese Guide FM 100.5",
+    "url": "https://radio.julyhost.net/8240/stream",
+    "genre": "Music",
+    "city": "Beni",
+    "country": "Democratic Republic of the Congo",
+    "lat": 0.3974023,
+    "lng": 29.2117178
+  },
+  {
+    "id": "congo-boona-fm-918",
+    "name": "Boona FM 91.8",
+    "url": "https://stream-159.zeno.fm/ndi9k9r4lp9uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJuZGk5azlyNGxwOXV2IiwiaG9zdCI6InN0cmVhbS0xNTkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiOE9pLUVLSzRRb1dZSUcxVkxMN2JfQSIsImlhdCI6MTc2OTQxNzg2MiwiZXhwIjoxNzY5NDE3OTIyfQ.D7T1AoB2UJwrOgoehZvlIOruuAhaCQsfS_BZRGF4VXs",
+    "genre": "Music",
+    "city": "Beni",
+    "country": "Democratic Republic of the Congo",
+    "lat": 0.3974023,
+    "lng": 29.2117178
+  },
+  {
+    "id": "congo-one-love-radio-891-fm",
+    "name": "One Love Radio 89.1 FM",
+    "url": "https://eu8.fastcast4u.com/proxy/onelovemansa?mp=/1",
+    "genre": "Music",
+    "city": "Kolwezi",
+    "country": "Democratic Republic of the Congo",
+    "lat": -10.7169952,
+    "lng": 25.4669918
+  },
+  {
+    "id": "congo-jubilee-radio-fm-1056",
+    "name": "Jubilee Radio FM 105.6",
+    "url": "https://stream-151.zeno.fm/f3y3up2k07zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJmM3kzdXAyazA3enV2IiwiaG9zdCI6InN0cmVhbS0xNTEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoicnk1eGhXSTNTSldfMk1LSzRqcXpmUSIsImlhdCI6MTc2OTQxNzg2MiwiZXhwIjoxNzY5NDE3OTIyfQ.whfh3qYjkR9tN8YOxjyPABbG0sA8MC_i9yp4_1FO-xM",
+    "genre": "Music",
+    "city": "Beni",
+    "country": "Democratic Republic of the Congo",
+    "lat": 0.3974023,
+    "lng": 29.2117178
+  },
+  {
+    "id": "congo-iwave-fm-901",
+    "name": "Iwave FM 90.1",
+    "url": "https://s47.myradiostream.com/:9934/listen.mp3/",
+    "genre": "Music",
+    "city": "Lubumbashi",
+    "country": "Democratic Republic of the Congo",
+    "lat": -11.6642316,
+    "lng": 27.4826264
+  },
+  {
+    "id": "congo-radio-agakiza",
+    "name": "Radio Agakiza",
+    "url": "https://cast6.my-control-panel.com/proxy/radioaga/stream",
+    "genre": "Music",
+    "city": "Uvira",
+    "country": "Democratic Republic of the Congo",
+    "lat": -3.4055866,
+    "lng": 29.1375509
+  },
+  {
+    "id": "congo-bfm-radio-922fm",
+    "name": "BFM Radio 92.2FM",
+    "url": "https://stream-156.zeno.fm/7uuwoqyvb4ltv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI3dXV3b3F5dmI0bHR2IiwiaG9zdCI6InN0cmVhbS0xNTYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoicG93VmdCekpUTFdJN2VtZWREMmwzdyIsImlhdCI6MTc2OTQxNzg2MiwiZXhwIjoxNzY5NDE3OTIyfQ.MVPmcfHh7KuiWktPgPENDTP_jL_Q6HSpY8AqRODJ5oU",
+    "genre": "Music",
+    "city": "Beni",
+    "country": "Democratic Republic of the Congo",
+    "lat": 0.3974023,
+    "lng": 29.2117178
+  },
+  {
+    "id": "congo-rtr-fm-935",
+    "name": "RTR FM 93.5",
+    "url": "https://listen.radioking.com/radio/699332/stream/764333",
+    "genre": "Music",
+    "city": "Beni",
+    "country": "Democratic Republic of the Congo",
+    "lat": 0.3974023,
+    "lng": 29.2117178
+  },
+  {
+    "id": "congo-radio-icengelo-889-fm",
+    "name": "Radio Icengelo 88.9 FM",
+    "url": "https://us5new.listen2myradio.com:2199/live.mp3?typeportmount=s2_8440_stream_320185714/;",
+    "genre": "Music",
+    "city": "Lubumbashi",
+    "country": "Democratic Republic of the Congo",
+    "lat": -11.6642316,
+    "lng": 27.4826264
+  },
+  {
+    "id": "congo-change-radio",
+    "name": "Change Radio",
+    "url": "https://stream-165.zeno.fm/nvlpke7sdgzvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJudmxwa2U3c2RnenZ2IiwiaG9zdCI6InN0cmVhbS0xNjUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiUnhndmNZNGhURUNLWm55MVFNTlFpUSIsImlhdCI6MTc2OTQxNzg2MywiZXhwIjoxNzY5NDE3OTIzfQ.35sFeZo5oAHUMALhSWmLuYz9Yrry1iP0Up4gthdn4eY",
+    "genre": "Music",
+    "city": "Uvira",
+    "country": "Democratic Republic of the Congo",
+    "lat": -3.4055866,
+    "lng": 29.1375509
+  },
+  {
+    "id": "congo-mmu-radio-fm-1052",
+    "name": "MMU Radio FM 105.2",
+    "url": "https://stream-161.zeno.fm/e7jm2atm4hfvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJlN2ptMmF0bTRoZnZ2IiwiaG9zdCI6InN0cmVhbS0xNjEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiUWJlMEtaNlhUQWF3OWpjb0dJN0NUUSIsImlhdCI6MTc2OTQxNzg2MywiZXhwIjoxNzY5NDE3OTIzfQ.xvGdbLPj38pKxzqWxqd3qsbHcc7oVB9rFAx5OyCEjT0",
+    "genre": "Music",
+    "city": "Butembo",
+    "country": "Democratic Republic of the Congo",
+    "lat": 0.1249694,
+    "lng": 29.2919545
+  },
+  {
+    "id": "congo-aruaone-fm-887",
+    "name": "Aruaone FM 88.7",
+    "url": "https://stream.hydeinnovations.com:2020/stream/aruaone/",
+    "genre": "Music",
+    "city": "Mahagi",
+    "country": "Democratic Republic of the Congo",
+    "lat": 2.3371604,
+    "lng": 30.5812005
+  },
+  {
+    "id": "congo-radio-10-fm-876",
+    "name": "Radio 10 FM 87.6",
+    "url": "https://radio10rwanda-atunwadigital.streamguys1.com/Radio10Rwanda",
+    "genre": "Music",
+    "city": "Uvira",
+    "country": "Democratic Republic of the Congo",
+    "lat": -3.4055866,
+    "lng": 29.1375509
+  },
+  {
+    "id": "congo-burungi-bwansi-radio",
+    "name": "Burungi Bwansi Radio",
+    "url": "https://r1.comcities.com/proxy/klschniv/stream",
+    "genre": "Music",
+    "city": "Mahagi",
+    "country": "Democratic Republic of the Congo",
+    "lat": 2.3371604,
+    "lng": 30.5812005
+  },
+  {
+    "id": "congo-radio-rukungiri-969fm",
+    "name": "Radio Rukungiri 96.9FM",
+    "url": "https://radio.julyhost.net/8244/stream",
+    "genre": "Music",
+    "city": "Butembo",
+    "country": "Democratic Republic of the Congo",
+    "lat": 0.1249694,
+    "lng": 29.2919545
+  },
+  {
+    "id": "congo-radio-umoja-105-fm",
+    "name": "Radio Umoja 105 FM",
+    "url": "https://groupekazam.com:8000/radioumoja/",
+    "genre": "Music",
+    "city": "Mahagi",
+    "country": "Democratic Republic of the Congo",
+    "lat": 2.3371604,
+    "lng": 30.5812005
+  },
+  {
+    "id": "congo-kkcr-fm-917",
+    "name": "KKCR FM 91.7",
+    "url": "https://kkcradio.urdt.net:8000/radio.mp3",
+    "genre": "Music",
+    "city": "Mahagi",
+    "country": "Democratic Republic of the Congo",
+    "lat": 2.3371604,
+    "lng": 30.5812005
+  },
+  {
+    "id": "congo-voice-of-muhabura-fm-889",
+    "name": "Voice of Muhabura FM 88.9",
+    "url": "https://s28.myradiostream.com:27018/listen.mp3?nocache=1769417865",
+    "genre": "Music",
+    "city": "Butembo",
+    "country": "Democratic Republic of the Congo",
+    "lat": 0.1249694,
+    "lng": 29.2919545
+  },
+  {
+    "id": "congo-rukundo-fm-958",
+    "name": "Rukundo FM 95.8",
+    "url": "https://stream-152.zeno.fm/19wm8qq9ps8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIxOXdtOHFxOXBzOHV2IiwiaG9zdCI6InN0cmVhbS0xNTIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoieHlIS2hJMzBSY3VvZVlFTE1nSVg4USIsImlhdCI6MTc2OTQxNzg2NSwiZXhwIjoxNzY5NDE3OTI1fQ.9Bpj6V06dJwUnpYXv0jgWJl6cPRUHtP2IoKbDiN0d-s",
+    "genre": "Music",
+    "city": "Butembo",
+    "country": "Democratic Republic of the Congo",
+    "lat": 0.1249694,
+    "lng": 29.2919545
+  },
+  {
+    "id": "congo-radio-paidha-fm-878",
+    "name": "Radio Paidha FM 87.8",
+    "url": "https://stream-164.zeno.fm/cxhyxmawdzsvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjeGh5eG1hd2R6c3Z2IiwiaG9zdCI6InN0cmVhbS0xNjQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiSy1GaTZNdjFRVkNaLWV4elI3Z0FHUSIsImlhdCI6MTc2OTQxNzg2NSwiZXhwIjoxNzY5NDE3OTI1fQ.Nbd4UaeCzqopGgN8Gzcg2vrQE2QfVE15dVpzhTLX3sA",
+    "genre": "Music",
+    "city": "Mahagi",
+    "country": "Democratic Republic of the Congo",
+    "lat": 2.3371604,
+    "lng": 30.5812005
+  },
+  {
+    "id": "congo-geant-radio-905-fm",
+    "name": "Geant Radio 90.5 FM",
+    "url": "https://servidor37.brlogic.com:7080/live",
+    "genre": "Music",
+    "city": "Lubumbashi",
+    "country": "Democratic Republic of the Congo",
+    "lat": -11.6642316,
+    "lng": 27.4826264
+  },
+  {
+    "id": "congo-rtas-miabi-fm-9600",
+    "name": "RTAS Miabi FM 96.00",
+    "url": "https://servidor35.brlogic.com:7028/live",
+    "genre": "Music",
+    "city": "Miabi",
+    "country": "Democratic Republic of the Congo",
+    "lat": -6.2882282,
+    "lng": 23.2880174
+  }
+]

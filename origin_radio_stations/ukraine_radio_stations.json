@@ -1,0 +1,862 @@
+[
+  {
+    "id": "ukraine-zefir-fm",
+    "name": "Zefir FM",
+    "url": "http://178.124.152.212:8008/Zefir",
+    "genre": "Music",
+    "city": "Kyiv",
+    "country": "Ukraine",
+    "lat": 50.4500336,
+    "lng": 30.5241361
+  },
+  {
+    "id": "ukraine-109-fm-ukraine",
+    "name": "109 FM Ukraine",
+    "url": "http://solid48.streamupsolutions.com:8077/109fm_live",
+    "genre": "Music",
+    "city": "Kyiv",
+    "country": "Ukraine",
+    "lat": 50.4500336,
+    "lng": 30.5241361
+  },
+  {
+    "id": "ukraine-радіо-нв",
+    "name": "Радіо НВ",
+    "url": "http://91.218.212.84:8000/radionv.mp3",
+    "genre": "Music",
+    "city": "Kyiv",
+    "country": "Ukraine",
+    "lat": 50.4500336,
+    "lng": 30.5241361
+  },
+  {
+    "id": "ukraine-kiss-fm",
+    "name": "Kiss FM",
+    "url": "https://online.kissfm.ua/KissFM",
+    "genre": "Music",
+    "city": "Kyiv",
+    "country": "Ukraine",
+    "lat": 50.4500336,
+    "lng": 30.5241361
+  },
+  {
+    "id": "ukraine-hit-fm-best",
+    "name": "Hit FM Best",
+    "url": "https://online.hitfm.ua/HitFM_Best",
+    "genre": "Music",
+    "city": "Kyiv",
+    "country": "Ukraine",
+    "lat": 50.4500336,
+    "lng": 30.5241361
+  },
+  {
+    "id": "ukraine-shlager-fm-1019",
+    "name": "Shlager FM 101.9",
+    "url": "https://cast.brg.ua/shlager_main_public_mp3_hq",
+    "genre": "Music",
+    "city": "Kyiv",
+    "country": "Ukraine",
+    "lat": 50.4500336,
+    "lng": 30.5241361
+  },
+  {
+    "id": "ukraine-record-fm-1052",
+    "name": "Record FM 105.2",
+    "url": "https://a13.asurahosting.com/listen/record_fm_105.2/radio.mp3",
+    "genre": "Music",
+    "city": "Kyiv",
+    "country": "Ukraine",
+    "lat": 50.4500336,
+    "lng": 30.5241361
+  },
+  {
+    "id": "ukraine-hit-fm",
+    "name": "Hit FM",
+    "url": "https://online.hitfm.ua/HitFM",
+    "genre": "Music",
+    "city": "Kyiv",
+    "country": "Ukraine",
+    "lat": 50.4500336,
+    "lng": 30.5241361
+  },
+  {
+    "id": "ukraine-hromadske-radio",
+    "name": "Hromadske Radio",
+    "url": "https://hromadske.radio/radio_https_upstream",
+    "genre": "Music",
+    "city": "Kyiv",
+    "country": "Ukraine",
+    "lat": 50.4500336,
+    "lng": 30.5241361
+  },
+  {
+    "id": "ukraine-classic-radio",
+    "name": "Classic Radio",
+    "url": "https://online.classicradio.ua/ClassicRadio",
+    "genre": "Music",
+    "city": "Kyiv",
+    "country": "Ukraine",
+    "lat": 50.4500336,
+    "lng": 30.5241361
+  },
+  {
+    "id": "ukraine-radio-relax-fm",
+    "name": "Radio Relax FM",
+    "url": "https://online.radiorelax.ua/RadioRelax",
+    "genre": "Music",
+    "city": "Kyiv",
+    "country": "Ukraine",
+    "lat": 50.4500336,
+    "lng": 30.5241361
+  },
+  {
+    "id": "ukraine-romano-patrin-fm",
+    "name": "Romano Patrin FM",
+    "url": "https://mediaserv38.live-streams.nl:8074/stream",
+    "genre": "Music",
+    "city": "Kyiv",
+    "country": "Ukraine",
+    "lat": 50.4500336,
+    "lng": 30.5241361
+  },
+  {
+    "id": "ukraine-gomel-fm-1013",
+    "name": "Gomel FM 101.3",
+    "url": "https://stream2.datacenter.by/gomelfm",
+    "genre": "Music",
+    "city": "Kyiv",
+    "country": "Ukraine",
+    "lat": 50.4500336,
+    "lng": 30.5241361
+  },
+  {
+    "id": "ukraine-stilnoe-radio",
+    "name": "Stilnoe Radio",
+    "url": "http://radio.stilnoe.fm:8080/radio-stilnoe",
+    "genre": "Music",
+    "city": "Kyiv",
+    "country": "Ukraine",
+    "lat": 50.4500336,
+    "lng": 30.5241361
+  },
+  {
+    "id": "ukraine-abn-radio",
+    "name": "ABN Radio",
+    "url": "http://stream-178.zeno.fm/ilibzonk6hotv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJpbGliem9uazZob3R2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiYzNFbldaMFlRRFdQeDFpay1MTS05ZyIsImlhdCI6MTc2OTQyMzk2MCwiZXhwIjoxNzY5NDI0MDIwfQ.g8lB7Z5h2BWazUz7PYDxjbz9pQZrlJ1zQCvTRd74B0c&abn128",
+    "genre": "Music",
+    "city": "Lviv",
+    "country": "Ukraine",
+    "lat": 49.841952,
+    "lng": 24.0315921
+  },
+  {
+    "id": "ukraine-galychyna-fm-897",
+    "name": "Galychyna FM 89.7",
+    "url": "https://stream320.galychyna.fm/WebSite",
+    "genre": "Music",
+    "city": "Lviv",
+    "country": "Ukraine",
+    "lat": 49.841952,
+    "lng": 24.0315921
+  },
+  {
+    "id": "ukraine-new-day-1019-fm",
+    "name": "New Day 101.9 FM",
+    "url": "https://stream-158.zeno.fm/5burvqocukruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI1YnVydnFvY3VrcnV2IiwiaG9zdCI6InN0cmVhbS0xNTguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiZ0t5aFI0TjNUWUtoZm85UWYta2FlUSIsImlhdCI6MTc2OTQyMzk1OSwiZXhwIjoxNzY5NDI0MDE5fQ.tXrAEO9KXFBKjilG9UYX3dfl9QykV4kZMXNNP4j7xrM",
+    "genre": "Music",
+    "city": "Kyiv",
+    "country": "Ukraine",
+    "lat": 50.4500336,
+    "lng": 30.5241361
+  },
+  {
+    "id": "ukraine-kalush-fm",
+    "name": "Kalush FM",
+    "url": "http://195.182.22.130:8000/Streamogg",
+    "genre": "Music",
+    "city": "Lviv",
+    "country": "Ukraine",
+    "lat": 49.841952,
+    "lng": 24.0315921
+  },
+  {
+    "id": "ukraine-blits-fm-1033",
+    "name": "Blits-FM 103.3",
+    "url": "https://stream.blits-fm.ua/stream320",
+    "genre": "Music",
+    "city": "Kyiv",
+    "country": "Ukraine",
+    "lat": 50.4500336,
+    "lng": 30.5241361
+  },
+  {
+    "id": "ukraine-radio-z-kryivky",
+    "name": "Radio z Kryivky",
+    "url": "http://mjoystream.westeurotele.com:8000/radio-z-kryjivky",
+    "genre": "Music",
+    "city": "Lviv",
+    "country": "Ukraine",
+    "lat": 49.841952,
+    "lng": 24.0315921
+  },
+  {
+    "id": "ukraine-lux-fm",
+    "name": "Lux FM",
+    "url": "https://lux.radio.tvstitch.com/kyiv/lux_adv_sd",
+    "genre": "Music",
+    "city": "Kyiv",
+    "country": "Ukraine",
+    "lat": 50.4500336,
+    "lng": 30.5241361
+  },
+  {
+    "id": "ukraine-fm1-pershe-radio-875-fm",
+    "name": "FM1 Pershe Radio 87.5 FM",
+    "url": "http://radio.grad.ua:8000/radio1-128",
+    "genre": "Music",
+    "city": "Odesa",
+    "country": "Ukraine",
+    "lat": 46.4843023,
+    "lng": 30.7322878
+  },
+  {
+    "id": "ukraine-радіо-ісландія",
+    "name": "Радіо Ісландія",
+    "url": "https://s3.radio.co/sa3e464c40/listen",
+    "genre": "Music",
+    "city": "Kyiv",
+    "country": "Ukraine",
+    "lat": 50.4500336,
+    "lng": 30.5241361
+  },
+  {
+    "id": "ukraine-misto-fm-beats",
+    "name": "Misto FM Beats",
+    "url": "https://stream.mistofm.com/listen/misto_fm_beats/radio.mp3",
+    "genre": "Music",
+    "city": "Lviv",
+    "country": "Ukraine",
+    "lat": 49.841952,
+    "lng": 24.0315921
+  },
+  {
+    "id": "ukraine-tvoe-radio-1014-fm",
+    "name": "Tvoe Radio 101.4 FM",
+    "url": "https://complex.in.ua/tvoeRadio",
+    "genre": "Music",
+    "city": "Lviv",
+    "country": "Ukraine",
+    "lat": 49.841952,
+    "lng": 24.0315921
+  },
+  {
+    "id": "ukraine-western-pole-radio-fm-1043",
+    "name": "Western Pole Radio FM 104.3",
+    "url": "https://online.z-polus.info/hq",
+    "genre": "Music",
+    "city": "Lviv",
+    "country": "Ukraine",
+    "lat": 49.841952,
+    "lng": 24.0315921
+  },
+  {
+    "id": "ukraine-brokenbeatsnet",
+    "name": "Brokenbeats.net",
+    "url": "https://brokenbeats.net/stream/aac",
+    "genre": "Music",
+    "city": "Odesa",
+    "country": "Ukraine",
+    "lat": 46.4843023,
+    "lng": 30.7322878
+  },
+  {
+    "id": "ukraine-pro-dj-radio",
+    "name": "Pro Dj Radio",
+    "url": "https://live.prodjradio.net:8065/radio",
+    "genre": "Music",
+    "city": "Odesa",
+    "country": "Ukraine",
+    "lat": 46.4843023,
+    "lng": 30.7322878
+  },
+  {
+    "id": "ukraine-garmonia-mira",
+    "name": "Garmonia Mira",
+    "url": "https://garmonia-stream.fakel.com.ua/1",
+    "genre": "Music",
+    "city": "Odesa",
+    "country": "Ukraine",
+    "lat": 46.4843023,
+    "lng": 30.7322878
+  },
+  {
+    "id": "ukraine-rukhlive",
+    "name": "rukh.live",
+    "url": "https://a1.asurahosting.com/listen/rukh/radio.mp3",
+    "genre": "Music",
+    "city": "Odesa",
+    "country": "Ukraine",
+    "lat": 46.4843023,
+    "lng": 30.7322878
+  },
+  {
+    "id": "ukraine-pro-lider-fm-924",
+    "name": "Pro Lider FM 92.4",
+    "url": "http://liderfm.go.ro:8000/stream/1/",
+    "genre": "Music",
+    "city": "Odesa",
+    "country": "Ukraine",
+    "lat": 46.4843023,
+    "lng": 30.7322878
+  },
+  {
+    "id": "ukraine-eska-zamość-973-fm",
+    "name": "ESKA Zamość 97.3 FM",
+    "url": "https://ic1.smcdn.pl/2230-1.mp3",
+    "genre": "Music",
+    "city": "Lviv",
+    "country": "Ukraine",
+    "lat": 49.841952,
+    "lng": 24.0315921
+  },
+  {
+    "id": "ukraine-radio-fara",
+    "name": "Radio FARA",
+    "url": "https://usa19.fastcast4u.com:5450/1",
+    "genre": "Music",
+    "city": "Lviv",
+    "country": "Ukraine",
+    "lat": 49.841952,
+    "lng": 24.0315921
+  },
+  {
+    "id": "ukraine-holos-svobody",
+    "name": "Holos Svobody",
+    "url": "http://stream.holos.fm:8000/holos",
+    "genre": "Music",
+    "city": "Kharkiv",
+    "country": "Ukraine",
+    "lat": 49.9923181,
+    "lng": 36.2310146
+  },
+  {
+    "id": "ukraine-zhelezo-fm",
+    "name": "Zhelezo FM",
+    "url": "http://94.102.16.36:8000/fefm",
+    "genre": "Music",
+    "city": "Kharkiv",
+    "country": "Ukraine",
+    "lat": 49.9923181,
+    "lng": 36.2310146
+  },
+  {
+    "id": "ukraine-true-black-metal-radio",
+    "name": "True Black Metal Radio",
+    "url": "https://trueblackmetalradio.com:666/radio",
+    "genre": "Music",
+    "city": "Kharkiv",
+    "country": "Ukraine",
+    "lat": 49.9923181,
+    "lng": 36.2310146
+  },
+  {
+    "id": "ukraine-radio-vtsu",
+    "name": "Radio Vtsu",
+    "url": "http://vtsu.org.ua:8000/vtsu-pop",
+    "genre": "Music",
+    "city": "Kharkiv",
+    "country": "Ukraine",
+    "lat": 49.9923181,
+    "lng": 36.2310146
+  },
+  {
+    "id": "ukraine-tva-fm",
+    "name": "TVA FM",
+    "url": "http://51.83.132.157/128",
+    "genre": "Music",
+    "city": "Chernivtsi",
+    "country": "Ukraine",
+    "lat": 48.2864702,
+    "lng": 25.9376532
+  },
+  {
+    "id": "ukraine-radio-cernăuți",
+    "name": "Radio Cernăuți",
+    "url": "https://c4.radioboss.fm:18260/stream",
+    "genre": "Music",
+    "city": "Chernivtsi",
+    "country": "Ukraine",
+    "lat": 48.2864702,
+    "lng": 25.9376532
+  },
+  {
+    "id": "ukraine-радіо-накипіло",
+    "name": "Радіо Накипіло",
+    "url": "https://radiostream.nakypilo.ua/full",
+    "genre": "Music",
+    "city": "Kharkiv",
+    "country": "Ukraine",
+    "lat": 49.9923181,
+    "lng": 36.2310146
+  },
+  {
+    "id": "ukraine-radio-enigma-hit",
+    "name": "Radio Enigma Hit",
+    "url": "https://radiointact.ro/8050/stream",
+    "genre": "Music",
+    "city": "Odesa",
+    "country": "Ukraine",
+    "lat": 46.4843023,
+    "lng": 30.7322878
+  },
+  {
+    "id": "ukraine-blysk-fm-1066",
+    "name": "Blysk FM 106.6",
+    "url": "https://radio.c4.com.ua:8443/320",
+    "genre": "Music",
+    "city": "Chernivtsi",
+    "country": "Ukraine",
+    "lat": 48.2864702,
+    "lng": 25.9376532
+  },
+  {
+    "id": "ukraine-novaline-fm-971",
+    "name": "Novaline FM 97.1",
+    "url": "https://stream.novaline.fm/Novaline_128",
+    "genre": "Music",
+    "city": "Kharkiv",
+    "country": "Ukraine",
+    "lat": 49.9923181,
+    "lng": 36.2310146
+  },
+  {
+    "id": "ukraine-roman-fm-942",
+    "name": "Roman FM 94.2",
+    "url": "https://live.romanfm.ro:8000/;rfm",
+    "genre": "Music",
+    "city": "Chernivtsi",
+    "country": "Ukraine",
+    "lat": 48.2864702,
+    "lng": 25.9376532
+  },
+  {
+    "id": "ukraine-news-fm-pascani",
+    "name": "News FM Pascani",
+    "url": "https://stream2.rcast.net/64531",
+    "genre": "Music",
+    "city": "Chernivtsi",
+    "country": "Ukraine",
+    "lat": 48.2864702,
+    "lng": 25.9376532
+  },
+  {
+    "id": "ukraine-radio-metal",
+    "name": "Radio Metal",
+    "url": "https://listen7.myradio24.com/radiometal",
+    "genre": "Music",
+    "city": "Kharkiv",
+    "country": "Ukraine",
+    "lat": 49.9923181,
+    "lng": 36.2310146
+  },
+  {
+    "id": "ukraine-ватан-cедасы",
+    "name": "ВАТАН CЕДАСЫ",
+    "url": "http://91.214.128.125:64000/vatan",
+    "genre": "Music",
+    "city": "Simferopol",
+    "country": "Ukraine",
+    "lat": 44.9521459,
+    "lng": 34.1024858
+  },
+  {
+    "id": "ukraine-radio-novaya-rossiya-fm-1040",
+    "name": "Radio Novaya Rossiya FM 104.0",
+    "url": "http://91.194.120.107:8000/128",
+    "genre": "Music",
+    "city": "Simferopol",
+    "country": "Ukraine",
+    "lat": 44.9521459,
+    "lng": 34.1024858
+  },
+  {
+    "id": "ukraine-kometa-fm-986",
+    "name": "Kometa FM 98.6",
+    "url": "https://donetsk.kometa.fm/",
+    "genre": "Music",
+    "city": "Kharkiv",
+    "country": "Ukraine",
+    "lat": 49.9923181,
+    "lng": 36.2310146
+  },
+  {
+    "id": "ukraine-xon",
+    "name": "X.ON",
+    "url": "https://audio.x-on.com.ua:8443/x-on.mp3",
+    "genre": "Music",
+    "city": "Simferopol",
+    "country": "Ukraine",
+    "lat": 44.9521459,
+    "lng": 34.1024858
+  },
+  {
+    "id": "ukraine-радіо-кривбас-1023-fm",
+    "name": "Радіо Кривбас 102.3 FM",
+    "url": "https://onair.kryvbas.fm/RadioKryvbas",
+    "genre": "Music",
+    "city": "Simferopol",
+    "country": "Ukraine",
+    "lat": 44.9521459,
+    "lng": 34.1024858
+  },
+  {
+    "id": "ukraine-megapolis-fm-1052",
+    "name": "Megapolis FM 105.2",
+    "url": "https://cast.megapolis.fm/listen/kryvyi_rih/radio.mp3",
+    "genre": "Music",
+    "city": "Kryvyi Rih",
+    "country": "Ukraine",
+    "lat": 47.9102734,
+    "lng": 33.3917703
+  },
+  {
+    "id": "ukraine-nadvirna-fm-1073",
+    "name": "Nadvirna FM 107.3",
+    "url": "http://195.114.96.114:7878/",
+    "genre": "Music",
+    "city": "Ivano-Frankivsk",
+    "country": "Ukraine",
+    "lat": 48.7481718,
+    "lng": 24.5207477
+  },
+  {
+    "id": "ukraine-stels-fm-1009",
+    "name": "Stels FM 100.9",
+    "url": "https://pub0301.101.ru:8443/stream/air/aac/64/99",
+    "genre": "Music",
+    "city": "Kharkiv",
+    "country": "Ukraine",
+    "lat": 49.9923181,
+    "lng": 36.2310146
+  },
+  {
+    "id": "ukraine-megapolis-fm-909",
+    "name": "Megapolis FM 90.9",
+    "url": "https://cast.megapolis.fm/listen/dnipro/radio.mp3",
+    "genre": "Music",
+    "city": "Dnipro",
+    "country": "Ukraine",
+    "lat": 51.9191343,
+    "lng": 30.8243039
+  },
+  {
+    "id": "ukraine-маруся-фм",
+    "name": "Маруся ФМ",
+    "url": "https://msk4.radio-holding.ru/marusya_default",
+    "genre": "Music",
+    "city": "Kharkiv",
+    "country": "Ukraine",
+    "lat": 49.9923181,
+    "lng": 36.2310146
+  },
+  {
+    "id": "ukraine-інформатор-1073",
+    "name": "Інформатор 107.3",
+    "url": "https://main.inf.fm:8101/index.html?sid=1",
+    "genre": "Music",
+    "city": "Dnipro",
+    "country": "Ukraine",
+    "lat": 51.9191343,
+    "lng": 30.8243039
+  },
+  {
+    "id": "ukraine-топ-радіо-fm-1044",
+    "name": "Топ Радіо FM 104.4",
+    "url": "https://stream.topradio.in.ua/topradio.mp3",
+    "genre": "Music",
+    "city": "Simferopol",
+    "country": "Ukraine",
+    "lat": 44.9521459,
+    "lng": 34.1024858
+  },
+  {
+    "id": "ukraine-radio-wanda-fm-ukraine",
+    "name": "Radio Wanda FM Ukraine",
+    "url": "https://icecast.xtvmedia.pp.ua/radiowandafm_hq.mp3",
+    "genre": "Music",
+    "city": "Chernivtsi",
+    "country": "Ukraine",
+    "lat": 48.2864702,
+    "lng": 25.9376532
+  },
+  {
+    "id": "ukraine-radio-sighet-am-1404",
+    "name": "Radio Sighet AM 1404",
+    "url": "http://89.238.227.6:8390/index.html?sid=1",
+    "genre": "Music",
+    "city": "Ivano-Frankivsk",
+    "country": "Ukraine",
+    "lat": 48.7481718,
+    "lng": 24.5207477
+  },
+  {
+    "id": "ukraine-kastamonu-105-fm",
+    "name": "Kastamonu 105 FM",
+    "url": "https://radyo.yayin.com.tr:4264/index.html?sid=1",
+    "genre": "Music",
+    "city": "Simferopol",
+    "country": "Ukraine",
+    "lat": 44.9521459,
+    "lng": 34.1024858
+  },
+  {
+    "id": "ukraine-радио-линия",
+    "name": "Радио Линия",
+    "url": "https://a9.radioheart.ru:8050/RH8642",
+    "genre": "Music",
+    "city": "Simferopol",
+    "country": "Ukraine",
+    "lat": 44.9521459,
+    "lng": 34.1024858
+  },
+  {
+    "id": "ukraine-closed-radio-rostova--закрытое-радио-ростова",
+    "name": "Closed Radio Rostova - Закрытое Радио Ростова",
+    "url": "http://radio.jingles.ru:8000/rostovradio",
+    "genre": "Music",
+    "city": "Luhansk",
+    "country": "Ukraine",
+    "lat": 49.2724587,
+    "lng": 38.9150477
+  },
+  {
+    "id": "ukraine-radio-vezha-fm-107",
+    "name": "Radio Vezha FM 107",
+    "url": "https://listen6.myradio24.com/69829",
+    "genre": "Music",
+    "city": "Ivano-Frankivsk",
+    "country": "Ukraine",
+    "lat": 48.7481718,
+    "lng": 24.5207477
+  },
+  {
+    "id": "ukraine-radio-kp",
+    "name": "Radio KP",
+    "url": "https://kpradio.hostingradio.ru:8000/crimea.radiokp128.mp3",
+    "genre": "Music",
+    "city": "Simferopol",
+    "country": "Ukraine",
+    "lat": 44.9521459,
+    "lng": 34.1024858
+  },
+  {
+    "id": "ukraine-ptrk-radio",
+    "name": "PTRK Radio",
+    "url": "https://radio.ptrk.tv/PTRK",
+    "genre": "Music",
+    "city": "Kryvyi Rih",
+    "country": "Ukraine",
+    "lat": 47.9102734,
+    "lng": 33.3917703
+  },
+  {
+    "id": "ukraine-radio-syaivo",
+    "name": "Radio Syaivo",
+    "url": "https://stream.ntktv.ua/syaivo.mp3",
+    "genre": "Music",
+    "city": "Ivano-Frankivsk",
+    "country": "Ukraine",
+    "lat": 48.7481718,
+    "lng": 24.5207477
+  },
+  {
+    "id": "ukraine-donskoe-radio-fm-1063",
+    "name": "Donskoe Radio FM 106.3",
+    "url": "http://106-3.tagan.ru:8000/DRadio128",
+    "genre": "Music",
+    "city": "Donetsk",
+    "country": "Ukraine",
+    "lat": 47.9212914,
+    "lng": 37.7809825
+  },
+  {
+    "id": "ukraine-russkoe-radio-875-fm",
+    "name": "Russkoe Radio 87.5 FM",
+    "url": "http://listen2.myradio24.com:9000/7551",
+    "genre": "Music",
+    "city": "Luhansk",
+    "country": "Ukraine",
+    "lat": 49.2724587,
+    "lng": 38.9150477
+  },
+  {
+    "id": "ukraine-sea-radio",
+    "name": "Sea Radio",
+    "url": "https://sea.1tvcrimea.ru:19003/stream_sea.mp3",
+    "genre": "Music",
+    "city": "Simferopol",
+    "country": "Ukraine",
+    "lat": 44.9521459,
+    "lng": 34.1024858
+  },
+  {
+    "id": "ukraine-севастополь-fm",
+    "name": "Севастополь FM",
+    "url": "https://sfm.amgradio.ru/SFM",
+    "genre": "Music",
+    "city": "Kryvyi Rih",
+    "country": "Ukraine",
+    "lat": 47.9102734,
+    "lng": 33.3917703
+  },
+  {
+    "id": "ukraine-radio-republika-1048-fm",
+    "name": "Radio Republika 104.8 FM",
+    "url": "https://radio.gtrklnr.ru:8443/republic.fm",
+    "genre": "Music",
+    "city": "Luhansk",
+    "country": "Ukraine",
+    "lat": 49.2724587,
+    "lng": 38.9150477
+  },
+  {
+    "id": "ukraine-europa-plus-sevastopol",
+    "name": "Europa Plus Sevastopol",
+    "url": "http://109.200.130.38:8000/europa-sev",
+    "genre": "Music",
+    "city": "Sevastopol",
+    "country": "Ukraine",
+    "lat": 44.6054434,
+    "lng": 33.5220842
+  },
+  {
+    "id": "ukraine-love-radio-fm-1010",
+    "name": "Love Radio FM 101.0",
+    "url": "https://online.road-radio.ru/love101",
+    "genre": "Music",
+    "city": "Donetsk",
+    "country": "Ukraine",
+    "lat": 47.9212914,
+    "lng": 37.7809825
+  },
+  {
+    "id": "ukraine-radyo-kulüp-955",
+    "name": "Radyo Kulüp 95.5",
+    "url": "https://radyo.yayin.com.tr:5894/;stream.mp3",
+    "genre": "Music",
+    "city": "Sevastopol",
+    "country": "Ukraine",
+    "lat": 44.6054434,
+    "lng": 33.5220842
+  },
+  {
+    "id": "ukraine-атаман-fm-1059",
+    "name": "Атаман FM 105.9",
+    "url": "https://listen5.myradio24.com/ataman",
+    "genre": "Music",
+    "city": "Luhansk",
+    "country": "Ukraine",
+    "lat": 49.2724587,
+    "lng": 38.9150477
+  },
+  {
+    "id": "ukraine-radio-mistonad-bugom-fm-1018",
+    "name": "Radio Mistonad Bugom FM 101.8",
+    "url": "https://stream.mistonadbugom.com.ua/radiomistonadbugom",
+    "genre": "Music",
+    "city": "Vinnytsia",
+    "country": "Ukraine",
+    "lat": 48.8990315,
+    "lng": 28.516068
+  },
+  {
+    "id": "ukraine-golos-donbasu",
+    "name": "Golos Donbasu",
+    "url": "http://91.218.213.49:8000/golosdonbasu-mp3",
+    "genre": "Music",
+    "city": "Kamianske",
+    "country": "Ukraine",
+    "lat": 48.5167748,
+    "lng": 34.6068797
+  },
+  {
+    "id": "ukraine-radio-dfm",
+    "name": "Radio DFM",
+    "url": "http://92.241.103.200:8081/dfm_sm",
+    "genre": "Music",
+    "city": "Chernihiv",
+    "country": "Ukraine",
+    "lat": 51.272593,
+    "lng": 31.7417235
+  },
+  {
+    "id": "ukraine-radio-mogilev",
+    "name": "Radio Mogilev",
+    "url": "https://stream2.datacenter.by/tvrmogilev",
+    "genre": "Music",
+    "city": "Chernihiv",
+    "country": "Ukraine",
+    "lat": 51.272593,
+    "lng": 31.7417235
+  },
+  {
+    "id": "ukraine-radio-123",
+    "name": "Radio 123",
+    "url": "https://de1.internet-radio.com/proxy/belradio123/stream",
+    "genre": "Music",
+    "city": "Bila Tserkva",
+    "country": "Ukraine",
+    "lat": 49.7969703,
+    "lng": 30.1158069
+  },
+  {
+    "id": "ukraine-radio-kp",
+    "name": "Radio KP",
+    "url": "https://kpradio.hostingradio.ru:8000/rostov.radiokp128.mp3",
+    "genre": "Music",
+    "city": "Donetsk",
+    "country": "Ukraine",
+    "lat": 47.9212914,
+    "lng": 37.7809825
+  },
+  {
+    "id": "ukraine-ercis-fm",
+    "name": "Ercis FM",
+    "url": "https://stream-162.zeno.fm/ehbuv5erws8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJlaGJ1djVlcndzOHV2IiwiaG9zdCI6InN0cmVhbS0xNjIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiVmNYYnB3YkJUNjZTajZnc1p3WXZXdyIsImlhdCI6MTc2OTQyMzk3MiwiZXhwIjoxNzY5NDI0MDMyfQ.bJ0ZjER3zqMhG4lb3UUT_a3RBRd8DjgJhO3ugkhLbfg",
+    "genre": "Music",
+    "city": "Vinnytsia",
+    "country": "Ukraine",
+    "lat": 48.8990315,
+    "lng": 28.516068
+  },
+  {
+    "id": "ukraine-радио-контур",
+    "name": "Радио Контур",
+    "url": "https://misato.ru-hoster.com:8029/stream",
+    "genre": "Music",
+    "city": "Donetsk",
+    "country": "Ukraine",
+    "lat": 47.9212914,
+    "lng": 37.7809825
+  },
+  {
+    "id": "ukraine-svobodafm",
+    "name": "Svoboda.fm",
+    "url": "https://listen.radioking.com/radio/623869/stream/686722",
+    "genre": "Music",
+    "city": "Chernihiv",
+    "country": "Ukraine",
+    "lat": 51.272593,
+    "lng": 31.7417235
+  },
+  {
+    "id": "ukraine-radio-n-1026-fm",
+    "name": "Radio-N 102.6 FM",
+    "url": "https://online.radio-n.ru:8000/radio",
+    "genre": "Music",
+    "city": "Luhansk",
+    "country": "Ukraine",
+    "lat": 49.2724587,
+    "lng": 38.9150477
+  }
+]

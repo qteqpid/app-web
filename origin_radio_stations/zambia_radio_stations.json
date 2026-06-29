@@ -1,0 +1,472 @@
+[
+  {
+    "id": "zambia-rock-fm-965",
+    "name": "Rock FM 96.5",
+    "url": "http://209.133.221.250:8702/stream",
+    "genre": "Music",
+    "city": "Lusaka",
+    "country": "Zambia",
+    "lat": -15.4163395,
+    "lng": 28.2818414
+  },
+  {
+    "id": "zambia-5fm-899",
+    "name": "5FM 89.9",
+    "url": "http://ca9.rcast.net:8014/stream/",
+    "genre": "Music",
+    "city": "Lusaka",
+    "country": "Zambia",
+    "lat": -15.4163395,
+    "lng": 28.2818414
+  },
+  {
+    "id": "zambia-faith-radio-921-fm",
+    "name": "Faith Radio 92.1 FM",
+    "url": "http://108.59.9.147:8647/index.html/",
+    "genre": "Music",
+    "city": "Kitwe",
+    "country": "Zambia",
+    "lat": -12.8203689,
+    "lng": 28.2155973
+  },
+  {
+    "id": "zambia-hot-fm-877",
+    "name": "Hot FM 87.7",
+    "url": "http://s2.yesstreaming.net:7091/stream",
+    "genre": "Music",
+    "city": "Lusaka",
+    "country": "Zambia",
+    "lat": -15.4163395,
+    "lng": 28.2818414
+  },
+  {
+    "id": "zambia-spice-fm-911",
+    "name": "Spice FM 91.1",
+    "url": "http://live.rcast.net:8768/;stream.mp3",
+    "genre": "Music",
+    "city": "Lusaka",
+    "country": "Zambia",
+    "lat": -15.4163395,
+    "lng": 28.2818414
+  },
+  {
+    "id": "zambia-komboni-radio-949-fm",
+    "name": "Komboni Radio 94.9 FM",
+    "url": "http://165.56.11.238:4590/Komboni",
+    "genre": "Music",
+    "city": "Lusaka",
+    "country": "Zambia",
+    "lat": -15.4163395,
+    "lng": 28.2818414
+  },
+  {
+    "id": "zambia-roan-fm-1065",
+    "name": "Roan FM 106.5",
+    "url": "https://ec4.yesstreaming.net:1265/stream",
+    "genre": "Music",
+    "city": "Lusaka",
+    "country": "Zambia",
+    "lat": -15.4163395,
+    "lng": 28.2818414
+  },
+  {
+    "id": "zambia-i-am-catholic-zambia",
+    "name": "I AM Catholic Zambia",
+    "url": "https://ec4.yesstreaming.net:2015/stream",
+    "genre": "Music",
+    "city": "Lusaka",
+    "country": "Zambia",
+    "lat": -15.4163395,
+    "lng": 28.2818414
+  },
+  {
+    "id": "zambia-culture-radio-1057fm",
+    "name": "Culture Radio 105.7FM",
+    "url": "https://ec4.yesstreaming.net:1555/stream",
+    "genre": "Music",
+    "city": "Kitwe",
+    "country": "Zambia",
+    "lat": -12.8203689,
+    "lng": 28.2155973
+  },
+  {
+    "id": "zambia-znbc- radio-1",
+    "name": "ZNBC - Radio 1",
+    "url": "https://eu6.fastcast4u.com/proxy/radio1?mp=/1",
+    "genre": "Music",
+    "city": "Lusaka",
+    "country": "Zambia",
+    "lat": -15.4163395,
+    "lng": 28.2818414
+  },
+  {
+    "id": "zambia-znbc--radio-4",
+    "name": "ZNBC - Radio 4",
+    "url": "https://eu6.fastcast4u.com/proxy/radio4?mp=/1",
+    "genre": "Music",
+    "city": "Lusaka",
+    "country": "Zambia",
+    "lat": -15.4163395,
+    "lng": 28.2818414
+  },
+  {
+    "id": "zambia-znbc--radio-2",
+    "name": "ZNBC - Radio 2",
+    "url": "https://eu6.fastcast4u.com/proxy/radio2?mp=/1",
+    "genre": "Music",
+    "city": "Lusaka",
+    "country": "Zambia",
+    "lat": -15.4163395,
+    "lng": 28.2818414
+  },
+  {
+    "id": "zambia-byta-fm-radio-903",
+    "name": "Byta FM Radio 90.3",
+    "url": "https://s13.myradiostream.com/:38946/listen.mp3/",
+    "genre": "Music",
+    "city": "Lusaka",
+    "country": "Zambia",
+    "lat": -15.4163395,
+    "lng": 28.2818414
+  },
+  {
+    "id": "zambia-iwave-fm-901",
+    "name": "Iwave FM 90.1",
+    "url": "https://s47.myradiostream.com/:9934/listen.mp3/",
+    "genre": "Music",
+    "city": "Lusaka",
+    "country": "Zambia",
+    "lat": -15.4163395,
+    "lng": 28.2818414
+  },
+  {
+    "id": "zambia-one-love-radio-fm-1041",
+    "name": "One Love Radio FM 104.1",
+    "url": "https://usa11.fastcast4u.com/proxy/thidhzuy?mp=/1",
+    "genre": "Music",
+    "city": "Lusaka",
+    "country": "Zambia",
+    "lat": -15.4163395,
+    "lng": 28.2818414
+  },
+  {
+    "id": "zambia-kwithu-fm-933",
+    "name": "Kwithu FM 93.3",
+    "url": "https://s9.yesstreaming.net:9078/stream",
+    "genre": "Music",
+    "city": "Lusaka",
+    "country": "Zambia",
+    "lat": -15.4163395,
+    "lng": 28.2818414
+  },
+  {
+    "id": "zambia-sun-fm-zambia",
+    "name": "Sun FM Zambia",
+    "url": "http://11233.cloudrad.io:9102/live",
+    "genre": "Music",
+    "city": "Ndola",
+    "country": "Zambia",
+    "lat": -12.9693056,
+    "lng": 28.6365894
+  },
+  {
+    "id": "zambia-hype-fm-1073-fm",
+    "name": "Hype FM 107.3 FM",
+    "url": "https://stream-166.zeno.fm/dupvt1fgcewvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJkdXB2dDFmZ2Nld3Z2IiwiaG9zdCI6InN0cmVhbS0xNjYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiRTZTOHVDUTBSVW14VkVTQk9XdFZ4dyIsImlhdCI6MTc2OTQyNDQ3MiwiZXhwIjoxNzY5NDI0NTMyfQ.2aDD_Skod3jswU_HXWxsrsa95cYJnAd1ubXKESq-Czc",
+    "genre": "Music",
+    "city": "Lusaka",
+    "country": "Zambia",
+    "lat": -15.4163395,
+    "lng": 28.2818414
+  },
+  {
+    "id": "zambia-jazzysoulradio",
+    "name": "JazzySoulRadio",
+    "url": "https://az13.yesstreaming.net:8360/radio.mp3",
+    "genre": "Music",
+    "city": "Choma",
+    "country": "Zambia",
+    "lat": -16.8141943,
+    "lng": 26.9778589
+  },
+  {
+    "id": "zambia-radio-phoenix-fm-895",
+    "name": "Radio Phoenix FM 89.5",
+    "url": "https://22733.live.streamtheworld.com:443/RADIO_PHOENIXAAC.aac",
+    "genre": "Music",
+    "city": "Lusaka",
+    "country": "Zambia",
+    "lat": -15.4163395,
+    "lng": 28.2818414
+  },
+  {
+    "id": "zambia-rooster-fm-913",
+    "name": "Rooster FM 91.3",
+    "url": "https://ec4.yesstreaming.net:2525/stream",
+    "genre": "Music",
+    "city": "Ndola",
+    "country": "Zambia",
+    "lat": -12.9693056,
+    "lng": 28.6365894
+  },
+  {
+    "id": "zambia-hone-fm-radio-941",
+    "name": "Hone FM Radio 94.1",
+    "url": "https://s5.radio.co/sd5df7c98b/listen",
+    "genre": "Music",
+    "city": "Lusaka",
+    "country": "Zambia",
+    "lat": -15.4163395,
+    "lng": 28.2818414
+  },
+  {
+    "id": "zambia-radio-icengelo-889-fm",
+    "name": "Radio Icengelo 88.9 FM",
+    "url": "https://us5new.listen2myradio.com:2199/live.mp3?typeportmount=s2_8440_stream_320185714/;",
+    "genre": "Music",
+    "city": "Kitwe",
+    "country": "Zambia",
+    "lat": -12.8203689,
+    "lng": 28.2155973
+  },
+  {
+    "id": "zambia-yar-fm-897",
+    "name": "YAR FM 89.7",
+    "url": "https://stream-161.zeno.fm/r2bpxyfsejatv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJyMmJweHlmc2VqYXR2IiwiaG9zdCI6InN0cmVhbS0xNjEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiVlkyNmFaWGFTSzZYaXEzMzJyeEFGdyIsImlhdCI6MTc2OTQyNDQ3NCwiZXhwIjoxNzY5NDI0NTM0fQ.zj_tGp4AYvOvcWyMSs_v29xPByRNRW41A2qJGolrxOA",
+    "genre": "Music",
+    "city": "Kitwe",
+    "country": "Zambia",
+    "lat": -12.8203689,
+    "lng": 28.2155973
+  },
+  {
+    "id": "zambia-choma-maano-radio-951-fm",
+    "name": "Choma Maano Radio 95.1 FM",
+    "url": "https://s26.myradiostream.com:22860/listen.mp3",
+    "genre": "Music",
+    "city": "Choma",
+    "country": "Zambia",
+    "lat": -16.8141943,
+    "lng": 26.9778589
+  },
+  {
+    "id": "zambia-radio-chimwemwe-917-fm",
+    "name": "Radio Chimwemwe 91.7 FM",
+    "url": "https://s19.myradiostream.com:18688/listen.mp3?nocache=1769424474",
+    "genre": "Music",
+    "city": "Ndola",
+    "country": "Zambia",
+    "lat": -12.9693056,
+    "lng": 28.6365894
+  },
+  {
+    "id": "zambia-radio-rns",
+    "name": "Radio RNS",
+    "url": "https://listen.radioking.com/radio/314909/stream/362240",
+    "genre": "Music",
+    "city": "Kitwe",
+    "country": "Zambia",
+    "lat": -12.8203689,
+    "lng": 28.2155973
+  },
+  {
+    "id": "zambia-nkhotakota-radio",
+    "name": "Nkhotakota Radio",
+    "url": "https://radio.exclusivemw.cloud/listen/nkhotako_radio/radio.mp3",
+    "genre": "Music",
+    "city": "Chipata",
+    "country": "Zambia",
+    "lat": -13.6391314,
+    "lng": 32.6458437
+  },
+  {
+    "id": "zambia-chikuni-radio-fm-919",
+    "name": "Chikuni Radio FM 91.9",
+    "url": "https://chikunir.radioca.st/live",
+    "genre": "Music",
+    "city": "Choma",
+    "country": "Zambia",
+    "lat": -16.8141943,
+    "lng": 26.9778589
+  },
+  {
+    "id": "zambia-chisomo-radio-station-fm-970",
+    "name": "Chisomo Radio Station FM 97.0",
+    "url": "https://radio.exclusivemw.cloud/listen/chisomo_radio_station/radio.mp3",
+    "genre": "Music",
+    "city": "Chipata",
+    "country": "Zambia",
+    "lat": -13.6391314,
+    "lng": 32.6458437
+  },
+  {
+    "id": "zambia-mudziwathu-radio",
+    "name": "Mudziwathu Radio",
+    "url": "https://radio.exclusivemw.cloud/listen/mudziwathu_fm/radio.mp3",
+    "genre": "Music",
+    "city": "Chipata",
+    "country": "Zambia",
+    "lat": -13.6391314,
+    "lng": 32.6458437
+  },
+  {
+    "id": "zambia-zamcom-radio-1001-fm",
+    "name": "Zamcom Radio 100.1 FM",
+    "url": "https://stream-178.zeno.fm/boxjrzkyo6jvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJib3hqcnpreW82anZ2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiTmdSbHNxdVNRV2E1Z202V19IX0U5ZyIsImlhdCI6MTc2OTQyNDQ3NCwiZXhwIjoxNzY5NDI0NTM0fQ.cDKLesGYaEMd09HVJquDdcI7Nbwq0Ms0xOa73id55Vg",
+    "genre": "Music",
+    "city": "Choma",
+    "country": "Zambia",
+    "lat": -16.8141943,
+    "lng": 26.9778589
+  },
+  {
+    "id": "zambia-radio-bembeke-fm",
+    "name": "Radio Bembeke FM",
+    "url": "https://radio.exclusivemw.cloud/listen/radio_bembeke_fm/radio.mp3",
+    "genre": "Music",
+    "city": "Chipata",
+    "country": "Zambia",
+    "lat": -13.6391314,
+    "lng": 32.6458437
+  },
+  {
+    "id": "zambia-platinum-radio-997-fm",
+    "name": "Platinum Radio 99.7 FM",
+    "url": "https://stream-164.zeno.fm/bjltduumvpouv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJiamx0ZHV1bXZwb3V2IiwiaG9zdCI6InN0cmVhbS0xNjQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiVU5GWVNHaFhSeGFsTGhoSS1QMjhQdyIsImlhdCI6MTc2OTQyNDQ3NCwiZXhwIjoxNzY5NDI0NTM0fQ.slydCnSR2ydDBXBkdsSkEsm8yHT1V7R93XnO3lka02E",
+    "genre": "Music",
+    "city": "Ndola",
+    "country": "Zambia",
+    "lat": -12.9693056,
+    "lng": 28.6365894
+  },
+  {
+    "id": "zambia-laka-radio-1033-fm",
+    "name": "Laka Radio 103.3 FM",
+    "url": "https://stream-161.zeno.fm/zgvj3sab3hztv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ6Z3ZqM3NhYjNoenR2IiwiaG9zdCI6InN0cmVhbS0xNjEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiblYtY0ZBNlVUMWlMUllqeE00bjdvUSIsImlhdCI6MTc2OTQyNDQ3NCwiZXhwIjoxNzY5NDI0NTM0fQ.1B-USDeTncyOW9XECMO59tcZpWSqU6P07bJsuzNmxvg",
+    "genre": "Music",
+    "city": "Livingstone",
+    "country": "Zambia",
+    "lat": -17.853135,
+    "lng": 25.861429
+  },
+  {
+    "id": "zambia-umunthu-fm",
+    "name": "Umunthu FM",
+    "url": "https://host2.streamafrica.net/listen/umunthu/radio.mp3",
+    "genre": "Music",
+    "city": "Chinsali",
+    "country": "Zambia",
+    "lat": -10.549972,
+    "lng": 32.0660837
+  },
+  {
+    "id": "zambia-beyond-fm",
+    "name": "Beyond FM",
+    "url": "https://radio.exclusivemw.cloud/listen/rukuru_live/radio.mp3",
+    "genre": "Music",
+    "city": "Chinsali",
+    "country": "Zambia",
+    "lat": -10.549972,
+    "lng": 32.0660837
+  },
+  {
+    "id": "zambia-one-love-radio-891-fm",
+    "name": "One Love Radio 89.1 FM",
+    "url": "https://eu8.fastcast4u.com/proxy/onelovemansa?mp=/1",
+    "genre": "Music",
+    "city": "Mansa",
+    "country": "Zambia",
+    "lat": -11.2006743,
+    "lng": 28.8893922
+  },
+  {
+    "id": "zambia-live-radio-973-fm",
+    "name": "Live Radio 97.3 FM",
+    "url": "https://stream-177.zeno.fm/0w833z1xd5zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwdzgzM3oxeGQ1enV2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiWk1QVXJscC1SUzZCQ2NTUl9jUkFQdyIsImlhdCI6MTc2OTQyNDQ3NSwiZXhwIjoxNzY5NDI0NTM1fQ.arz811KKq4hJO25Hh98mCxl_C07Bs6qJ51VyY3Y-Wt8",
+    "genre": "Music",
+    "city": "Luanshya",
+    "country": "Zambia",
+    "lat": -13.131866,
+    "lng": 28.4175195
+  },
+  {
+    "id": "zambia-mphangwe-fm-radio-889",
+    "name": "Mphangwe FM Radio 88.9",
+    "url": "https://ec4.yesstreaming.net:1925/stream",
+    "genre": "Music",
+    "city": "Katete",
+    "country": "Zambia",
+    "lat": -14.060241,
+    "lng": 32.04272
+  },
+  {
+    "id": "zambia-radio-delight-kwitonta-897-fm",
+    "name": "Radio Delight Kwitonta 89.7 FM",
+    "url": "https://s43.myradiostream.com:23820/listen.mp3",
+    "genre": "Music",
+    "city": "Mansa",
+    "country": "Zambia",
+    "lat": -11.2006743,
+    "lng": 28.8893922
+  },
+  {
+    "id": "zambia-radio-maria-zambia",
+    "name": "Radio Maria Zambia",
+    "url": "https://dreamsiteradiocp5.com/proxy/zambialusaka?mp=/stream",
+    "genre": "Music",
+    "city": "Lusaka",
+    "country": "Zambia",
+    "lat": -15.4163395,
+    "lng": 28.2818414
+  },
+  {
+    "id": "zambia-kanele-977-fm",
+    "name": "Kanele 97.7 FM",
+    "url": "https://stream-161.zeno.fm/zn26dkfnvvytv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ6bjI2ZGtmbnZ2eXR2IiwiaG9zdCI6InN0cmVhbS0xNjEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiTmF4LUFmZ1VUcFN0WXRkamp5ck1sQSIsImlhdCI6MTc2OTQyNDQ3NywiZXhwIjoxNzY5NDI0NTM3fQ.52Q5XBbmXlLIcfjtgvytSLarY7iuOD48t0p4YZc1WIc",
+    "genre": "Music",
+    "city": "Lundazi",
+    "country": "Zambia",
+    "lat": -12.2926748,
+    "lng": 33.1741743
+  },
+  {
+    "id": "zambia-geant-radio-905-fm",
+    "name": "Geant Radio 90.5 FM",
+    "url": "https://servidor37.brlogic.com:7080/live",
+    "genre": "Music",
+    "city": "Kitwe",
+    "country": "Zambia",
+    "lat": -12.8203689,
+    "lng": 28.2155973
+  },
+  {
+    "id": "zambia-kbc-radio-988-fm",
+    "name": "KBC Radio 98.8 FM",
+    "url": "https://stream-166.zeno.fm/z7qxtby928mtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ6N3F4dGJ5OTI4bXR2IiwiaG9zdCI6InN0cmVhbS0xNjYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiTWJ2a0tCZ0NTV0NsN0o3WWU3V0JXZyIsImlhdCI6MTc2OTQyNDQ3NywiZXhwIjoxNzY5NDI0NTM3fQ.SiaP0MKoW9HX1foR27o6Omd5DUxEGDRZnDQ5Tn7eCgU",
+    "genre": "Music",
+    "city": "Kapiri Mposhi",
+    "country": "Zambia",
+    "lat": -13.9695026,
+    "lng": 28.6787997
+  },
+  {
+    "id": "zambia-chejeji-fm",
+    "name": "Chejeji FM",
+    "url": "https://chejejifm.out.airtime.pro/chejejifm_a",
+    "genre": "Music",
+    "city": "Ikelenge",
+    "country": "Zambia",
+    "lat": -11.2400523,
+    "lng": 24.2710727
+  },
+  {
+    "id": "zambia-uwala-fm",
+    "name": "Uwala FM",
+    "url": "https://servidor22.brlogic.com:7078/live",
+    "genre": "Music",
+    "city": "Chipata",
+    "country": "Zambia",
+    "lat": -13.6391314,
+    "lng": 32.6458437
+  }
+]

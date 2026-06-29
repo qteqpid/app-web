@@ -1,0 +1,1532 @@
+[
+  {
+    "id": "venezuela-radio-sintonía-am-1420",
+    "name": "Radio Sintonía AM 1420",
+    "url": "http://cp2.lorini.net:30038/stream",
+    "genre": "Music",
+    "city": "Caracas",
+    "country": "Venezuela",
+    "lat": 10.5060934,
+    "lng": -66.9146008
+  },
+  {
+    "id": "venezuela-radio-maría-venezuela-1450-am",
+    "name": "Radio María Venezuela 1450 AM",
+    "url": "https://dreamsiteradiocp2.com/proxy/rmvenezuela?mp=/stream",
+    "genre": "Music",
+    "city": "Caracas",
+    "country": "Venezuela",
+    "lat": 10.5060934,
+    "lng": -66.9146008
+  },
+  {
+    "id": "venezuela-la-fm-mundial-937",
+    "name": "La FM Mundial 93.7",
+    "url": "https://streamingned.com:7074/stream",
+    "genre": "Music",
+    "city": "Caracas",
+    "country": "Venezuela",
+    "lat": 10.5060934,
+    "lng": -66.9146008
+  },
+  {
+    "id": "venezuela-lagarto-1037-fm",
+    "name": "Lagarto 103.7 FM",
+    "url": "https://streamingned.com:7292/stream",
+    "genre": "Music",
+    "city": "Valencia",
+    "country": "Venezuela",
+    "lat": 10.170026,
+    "lng": -68.0003987
+  },
+  {
+    "id": "venezuela-stereo-979-fm",
+    "name": "Stereo 97.9 FM",
+    "url": "http://cp2.lorini.net:41058/stream",
+    "genre": "Music",
+    "city": "Valencia",
+    "country": "Venezuela",
+    "lat": 10.170026,
+    "lng": -68.0003987
+  },
+  {
+    "id": "venezuela-radio-dinámica-1490-am",
+    "name": "Radio Dinámica 1490 AM",
+    "url": "https://guri.tepuyserver.net/8040/stream/",
+    "genre": "Music",
+    "city": "Caracas",
+    "country": "Venezuela",
+    "lat": 10.5060934,
+    "lng": -66.9146008
+  },
+  {
+    "id": "venezuela-la-salsera-fm",
+    "name": "La Salsera FM",
+    "url": "https://stream-152.zeno.fm/4qbzbrvdmy8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0cWJ6YnJ2ZG15OHV2IiwiaG9zdCI6InN0cmVhbS0xNTIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoicmd4b3ZhVTFRR09WSHhwelJrR3JOdyIsImlhdCI6MTc2OTQyNDM0OCwiZXhwIjoxNzY5NDI0NDA4fQ.HPCVL4aAsw3pwyeRuhMd3NsaLRIV0xfeLqVqgmvr0sw",
+    "genre": "Music",
+    "city": "Caracas",
+    "country": "Venezuela",
+    "lat": 10.5060934,
+    "lng": -66.9146008
+  },
+  {
+    "id": "venezuela-lider-1047-fm",
+    "name": "Lider 104.7 FM",
+    "url": "https://stream-156.zeno.fm/bm6u4qh1trhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJibTZ1NHFoMXRyaHZ2IiwiaG9zdCI6InN0cmVhbS0xNTYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoidDZMb3FwTVNSbG01WXphckhSNmRyQSIsImlhdCI6MTc2OTQyNDM0OCwiZXhwIjoxNzY5NDI0NDA4fQ.4OKJ7JuhhvDGY4sZQk7QGfZomhcu-fl6yAhGLtr6eEY",
+    "genre": "Music",
+    "city": "Caracas",
+    "country": "Venezuela",
+    "lat": 10.5060934,
+    "lng": -66.9146008
+  },
+  {
+    "id": "venezuela-fiesta-latina-fm-1061",
+    "name": "Fiesta Latina FM 106.1",
+    "url": "https://stream-140.zeno.fm/e2kzfpr34d0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJlMmt6ZnByMzRkMHV2IiwiaG9zdCI6InN0cmVhbS0xNDAuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiVmYzc0IyOS1ULUtOcTFoUlNSNjduZyIsImlhdCI6MTc2OTQyNDM0OCwiZXhwIjoxNzY5NDI0NDA4fQ.vbwLLXcpyCt-A23Eg85MEctGVV2sq33JDpfM8bXxIiY",
+    "genre": "Music",
+    "city": "Caracas",
+    "country": "Venezuela",
+    "lat": 10.5060934,
+    "lng": -66.9146008
+  },
+  {
+    "id": "venezuela-wepale-999-fm",
+    "name": "Wepale 99.9 FM",
+    "url": "https://servers58.com/proxy/wepale?mp=/stream",
+    "genre": "Music",
+    "city": "Valencia",
+    "country": "Venezuela",
+    "lat": 10.170026,
+    "lng": -68.0003987
+  },
+  {
+    "id": "venezuela-exitos-fm-999",
+    "name": "Exitos FM 99.9",
+    "url": "https://acp4.lorini.net:2070/stream",
+    "genre": "Music",
+    "city": "Caracas",
+    "country": "Venezuela",
+    "lat": 10.5060934,
+    "lng": -66.9146008
+  },
+  {
+    "id": "venezuela-onda-la-superestación-1073-fm",
+    "name": "Onda La Superestación 107.3 FM",
+    "url": "https://acp4.lorini.net:2060/stream",
+    "genre": "Music",
+    "city": "Caracas",
+    "country": "Venezuela",
+    "lat": 10.5060934,
+    "lng": -66.9146008
+  },
+  {
+    "id": "venezuela-caribeña-949-fm",
+    "name": "Caribeña 94.9 FM",
+    "url": "https://server6.globalhostla.com:9212/stream",
+    "genre": "Music",
+    "city": "Caracas",
+    "country": "Venezuela",
+    "lat": 10.5060934,
+    "lng": -66.9146008
+  },
+  {
+    "id": "venezuela-fiesta-106-fm",
+    "name": "Fiesta 106 FM",
+    "url": "https://acp2.lorini.net:58200/stream",
+    "genre": "Music",
+    "city": "Caracas",
+    "country": "Venezuela",
+    "lat": 10.5060934,
+    "lng": -66.9146008
+  },
+  {
+    "id": "venezuela-wtc-radio",
+    "name": "WTC Radio",
+    "url": "https://streamingned.com/7200/stream",
+    "genre": "Music",
+    "city": "Valencia",
+    "country": "Venezuela",
+    "lat": 10.170026,
+    "lng": -68.0003987
+  },
+  {
+    "id": "venezuela-la-fm-mundial-1041",
+    "name": "La FM Mundial 104.1",
+    "url": "https://streamingned.com:7076/stream",
+    "genre": "Music",
+    "city": "Valencia",
+    "country": "Venezuela",
+    "lat": 10.170026,
+    "lng": -68.0003987
+  },
+  {
+    "id": "venezuela-la-mega-fm-1073",
+    "name": "La Mega FM 107.3",
+    "url": "https://acp4.lorini.net:2050/stream",
+    "genre": "Music",
+    "city": "Caracas",
+    "country": "Venezuela",
+    "lat": 10.5060934,
+    "lng": -66.9146008
+  },
+  {
+    "id": "venezuela-candela-pura-fm-919",
+    "name": "Candela Pura FM 91.9",
+    "url": "https://acp2.lorini.net:58400/stream",
+    "genre": "Music",
+    "city": "Caracas",
+    "country": "Venezuela",
+    "lat": 10.5060934,
+    "lng": -66.9146008
+  },
+  {
+    "id": "venezuela-network-fm-995",
+    "name": "Network FM 99.5",
+    "url": "https://acp2.lorini.net:28050/stream",
+    "genre": "Music",
+    "city": "Valencia",
+    "country": "Venezuela",
+    "lat": 10.170026,
+    "lng": -68.0003987
+  },
+  {
+    "id": "venezuela-rnv-informativa",
+    "name": "RNV Informativa",
+    "url": "https://acp2.lorini.net:29100/RNVINFORMATIVO",
+    "genre": "Music",
+    "city": "Caracas",
+    "country": "Venezuela",
+    "lat": 10.5060934,
+    "lng": -66.9146008
+  },
+  {
+    "id": "venezuela-la-voz-de-carabobo-1040-am",
+    "name": "La Voz De Carabobo 1040 AM",
+    "url": "https://guri.tepuyserver.net/8086/stream",
+    "genre": "Music",
+    "city": "Valencia",
+    "country": "Venezuela",
+    "lat": 10.170026,
+    "lng": -68.0003987
+  },
+  {
+    "id": "venezuela-valencia953-fm",
+    "name": "Valencia953 FM",
+    "url": "https://streamingned.com:7152/stream",
+    "genre": "Music",
+    "city": "Valencia",
+    "country": "Venezuela",
+    "lat": 10.170026,
+    "lng": -68.0003987
+  },
+  {
+    "id": "venezuela-espacio-961-fm",
+    "name": "Espacio 96.1 FM",
+    "url": "https://app0102.sonicpanelradio.com/8790/stream",
+    "genre": "Music",
+    "city": "Valencia",
+    "country": "Venezuela",
+    "lat": 10.170026,
+    "lng": -68.0003987
+  },
+  {
+    "id": "venezuela-frenesí-1079-fm",
+    "name": "Frenesí 107.9 FM",
+    "url": "https://server6.globalhostla.com:8018/stream",
+    "genre": "Music",
+    "city": "Valencia",
+    "country": "Venezuela",
+    "lat": 10.170026,
+    "lng": -68.0003987
+  },
+  {
+    "id": "venezuela-victoria-fm-1039",
+    "name": "Victoria FM 103.9",
+    "url": "https://guri.tepuyserver.net/8140/stream",
+    "genre": "Music",
+    "city": "Valencia",
+    "country": "Venezuela",
+    "lat": 10.170026,
+    "lng": -68.0003987
+  },
+  {
+    "id": "venezuela-dj-shaggy",
+    "name": "DJ Shaggy",
+    "url": "https://radio.mipanel.stream:7000/stream",
+    "genre": "Music",
+    "city": "Barquisimeto",
+    "country": "Venezuela",
+    "lat": 10.0774374,
+    "lng": -69.3222293
+  },
+  {
+    "id": "venezuela-lider-1067-fm",
+    "name": "Lider 106.7 FM",
+    "url": "https://acp4.lorini.net:15028/stream",
+    "genre": "Music",
+    "city": "Valencia",
+    "country": "Venezuela",
+    "lat": 10.170026,
+    "lng": -68.0003987
+  },
+  {
+    "id": "venezuela-huellas-917-fm",
+    "name": "Huellas 91.7 FM",
+    "url": "https://stream-179.zeno.fm/jswsd5cslhjuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJqc3dzZDVjc2xoanV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiY3lrc2tBOExUUUdUdnVycHFzb1huZyIsImlhdCI6MTc2OTQyNDM1MiwiZXhwIjoxNzY5NDI0NDEyfQ.Pel-5mfcaG1LWzKAzaiBVjo-knXGtvEyFxzriIXgCNk",
+    "genre": "Music",
+    "city": "Valencia",
+    "country": "Venezuela",
+    "lat": 10.170026,
+    "lng": -68.0003987
+  },
+  {
+    "id": "venezuela-radio-dinámica-929fm",
+    "name": "Radio Dinámica 92.9FM",
+    "url": "https://guri.tepuyserver.net/8012/stream",
+    "genre": "Music",
+    "city": "Barquisimeto",
+    "country": "Venezuela",
+    "lat": 10.0774374,
+    "lng": -69.3222293
+  },
+  {
+    "id": "venezuela-la-voz-de-nirgua-883-fm",
+    "name": "La Voz de Nirgua 88.3 FM",
+    "url": "https://radiostream.interven.ca/listen/lavozdenirgua/radio.mp3",
+    "genre": "Music",
+    "city": "Valencia",
+    "country": "Venezuela",
+    "lat": 10.170026,
+    "lng": -68.0003987
+  },
+  {
+    "id": "venezuela-sabor-1067-fm",
+    "name": "Sabor 106.7 FM",
+    "url": "https://radiostream.interven.ca/listen/saborfm/radio.mp3",
+    "genre": "Music",
+    "city": "Barquisimeto",
+    "country": "Venezuela",
+    "lat": 10.0774374,
+    "lng": -69.3222293
+  },
+  {
+    "id": "venezuela-fe-y-alegría-barquisimeto-975-fm",
+    "name": "Fe y Alegría Barquisimeto 97.5 FM",
+    "url": "https://tx.feyalegrianoticias.com/listen/barquisimetofm/radio.mp3",
+    "genre": "Music",
+    "city": "Barquisimeto",
+    "country": "Venezuela",
+    "lat": 10.0774374,
+    "lng": -69.3222293
+  },
+  {
+    "id": "venezuela-sabrosa-901-fm",
+    "name": "Sabrosa 90.1 FM",
+    "url": "https://radiostream2.interven.ca/listen/sabrosafm/radio.mp3",
+    "genre": "Music",
+    "city": "Barquisimeto",
+    "country": "Venezuela",
+    "lat": 10.0774374,
+    "lng": -69.3222293
+  },
+  {
+    "id": "venezuela-latina-1019-fm",
+    "name": "Latina 101.9 FM",
+    "url": "https://radiostream2.interven.ca/listen/latina_101.9_fm//radio.mp3",
+    "genre": "Music",
+    "city": "Barquisimeto",
+    "country": "Venezuela",
+    "lat": 10.0774374,
+    "lng": -69.3222293
+  },
+  {
+    "id": "venezuela-dlcv-radio",
+    "name": "dlcv Radio",
+    "url": "https://servers58.com/proxy/dlcv/stream",
+    "genre": "Music",
+    "city": "Barquisimeto",
+    "country": "Venezuela",
+    "lat": 10.0774374,
+    "lng": -69.3222293
+  },
+  {
+    "id": "venezuela-aguacate-stereo",
+    "name": "Aguacate Stereo",
+    "url": "https://radiostream2.interven.ca/listen/aguacatestereo/radio.mp3",
+    "genre": "Music",
+    "city": "Barquisimeto",
+    "country": "Venezuela",
+    "lat": 10.0774374,
+    "lng": -69.3222293
+  },
+  {
+    "id": "venezuela-radio-var-1029-fm-visión-agropecuaria",
+    "name": "Radio VAR 102.9 FM Visión Agropecuaria",
+    "url": "https://stream-179.zeno.fm/uoybqksn283uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1b3licWtzbjI4M3V2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiUS1aOHZfbXJSaGF2M194Z09rYmR1dyIsImlhdCI6MTc2OTQyNDM1NCwiZXhwIjoxNzY5NDI0NDE0fQ.E9hZoJvEBtvsjY9W5DQ3WSVjUwgqFtsHf37GyC8xbAA",
+    "genre": "Music",
+    "city": "Barquisimeto",
+    "country": "Venezuela",
+    "lat": 10.0774374,
+    "lng": -69.3222293
+  },
+  {
+    "id": "venezuela-lumen-fidei-radio-981-fm",
+    "name": "Lumen Fidei Radio 98.1 FM",
+    "url": "https://cloudstream2030.conectarhosting.com/8214/stream",
+    "genre": "Music",
+    "city": "Barquisimeto",
+    "country": "Venezuela",
+    "lat": 10.0774374,
+    "lng": -69.3222293
+  },
+  {
+    "id": "venezuela-b96fm",
+    "name": "B96FM",
+    "url": "https://server6.globalhostla.com:9390/stream",
+    "genre": "Music",
+    "city": "Barquisimeto",
+    "country": "Venezuela",
+    "lat": 10.0774374,
+    "lng": -69.3222293
+  },
+  {
+    "id": "venezuela-ven-fm-1079",
+    "name": "Ven FM 107.9",
+    "url": "https://acp2.lorini.net:20214/stream",
+    "genre": "Music",
+    "city": "Barquisimeto",
+    "country": "Venezuela",
+    "lat": 10.0774374,
+    "lng": -69.3222293
+  },
+  {
+    "id": "venezuela-capital-903-fm",
+    "name": "Capital 90.3 FM",
+    "url": "https://radio.mipanel.stream:6808/stream",
+    "genre": "Music",
+    "city": "Maracaibo",
+    "country": "Venezuela",
+    "lat": 10.6498095,
+    "lng": -71.6443596
+  },
+  {
+    "id": "venezuela-suite-891-fm",
+    "name": "Suite 89.1 FM",
+    "url": "http://cp4.lorini.net:36034/stream/1/",
+    "genre": "Music",
+    "city": "Maracaibo",
+    "country": "Venezuela",
+    "lat": 10.6498095,
+    "lng": -71.6443596
+  },
+  {
+    "id": "venezuela-popular-955-fm",
+    "name": "Popular 95.5 FM",
+    "url": "http://cp4.lorini.net:36045/stream",
+    "genre": "Music",
+    "city": "Maracaibo",
+    "country": "Venezuela",
+    "lat": 10.6498095,
+    "lng": -71.6443596
+  },
+  {
+    "id": "venezuela-radio-hesperides-fm-887",
+    "name": "Radio Hesperides FM 88.7",
+    "url": "https://radiostream.interven.ca/listen/hesperides/radio.mp3",
+    "genre": "Music",
+    "city": "Barquisimeto",
+    "country": "Venezuela",
+    "lat": 10.0774374,
+    "lng": -69.3222293
+  },
+  {
+    "id": "venezuela-kiss-fm-1055",
+    "name": "Kiss FM 105.5",
+    "url": "https://sp4.colombiatelecom.com.co:10979/stream",
+    "genre": "Music",
+    "city": "Maracaibo",
+    "country": "Venezuela",
+    "lat": 10.6498095,
+    "lng": -71.6443596
+  },
+  {
+    "id": "venezuela-urbe-fm-963",
+    "name": "Urbe FM 96.3",
+    "url": "https://app0102.sonicpanelradio.com/8780/stream",
+    "genre": "Music",
+    "city": "Maracaibo",
+    "country": "Venezuela",
+    "lat": 10.6498095,
+    "lng": -71.6443596
+  },
+  {
+    "id": "venezuela-ok101fm",
+    "name": "OK101FM",
+    "url": "https://server6.globalhostla.com:9080/stream",
+    "genre": "Music",
+    "city": "Barquisimeto",
+    "country": "Venezuela",
+    "lat": 10.0774374,
+    "lng": -69.3222293
+  },
+  {
+    "id": "venezuela-metropolis-fm-1039",
+    "name": "Metropolis FM 103.9",
+    "url": "https://audio1stream.com/8022/stream",
+    "genre": "Music",
+    "city": "Maracaibo",
+    "country": "Venezuela",
+    "lat": 10.6498095,
+    "lng": -71.6443596
+  },
+  {
+    "id": "venezuela-la-voz-que-clama-995-fm",
+    "name": "La Voz Que Clama 99.5 FM",
+    "url": "https://guri.tepuyserver.net/8158/stream",
+    "genre": "Music",
+    "city": "Maracaibo",
+    "country": "Venezuela",
+    "lat": 10.6498095,
+    "lng": -71.6443596
+  },
+  {
+    "id": "venezuela-fortuna-fm-975",
+    "name": "Fortuna FM 97.5",
+    "url": "https://stream-178.zeno.fm/jauyvah0tewtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJqYXV5dmFoMHRld3R2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiWkFMbUkwLVRSU2l1dnZQX1podUZ4dyIsImlhdCI6MTc2OTQyNDM1NSwiZXhwIjoxNzY5NDI0NDE1fQ.luXHF302b3q7qyjBul933baeJ43lWGQndcri8ZE2EhU",
+    "genre": "Music",
+    "city": "Maracaibo",
+    "country": "Venezuela",
+    "lat": 10.6498095,
+    "lng": -71.6443596
+  },
+  {
+    "id": "venezuela-fe-y-alegria-maracaibo-881-fm",
+    "name": "Fe y Alegria Maracaibo 88.1 FM",
+    "url": "https://tx.feyalegrianoticias.com/listen/maracaibofm/radio.mp3",
+    "genre": "Music",
+    "city": "Maracaibo",
+    "country": "Venezuela",
+    "lat": 10.6498095,
+    "lng": -71.6443596
+  },
+  {
+    "id": "venezuela-fiesta-stereo-1077-fm",
+    "name": "Fiesta Stéreo 107.7 FM",
+    "url": "https://streaming.radiosenlinea.com.ar/8744/stream",
+    "genre": "Music",
+    "city": "Maracaibo",
+    "country": "Venezuela",
+    "lat": 10.6498095,
+    "lng": -71.6443596
+  },
+  {
+    "id": "venezuela-beraka-estereo-882-fm",
+    "name": "Beraka Estereo 88.2 FM",
+    "url": "https://stream-158.zeno.fm/pdtx9g3mzc9uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwZHR4OWczbXpjOXV2IiwiaG9zdCI6InN0cmVhbS0xNTguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiZmhFMTRzakZRXzYyeEJBRHVPTmRaQSIsImlhdCI6MTc2OTQyNDM1NywiZXhwIjoxNzY5NDI0NDE3fQ.ypTpQslwfDH0oqMogyAWw1UxtBjrEG_8I7b5JmCzfIc",
+    "genre": "Music",
+    "city": "Maracaibo",
+    "country": "Venezuela",
+    "lat": 10.6498095,
+    "lng": -71.6443596
+  },
+  {
+    "id": "venezuela-unir-radio-digital",
+    "name": "Unir Radio Digital",
+    "url": "https://acp2.lorini.net:27088/stream",
+    "genre": "Music",
+    "city": "Maracaibo",
+    "country": "Venezuela",
+    "lat": 10.6498095,
+    "lng": -71.6443596
+  },
+  {
+    "id": "venezuela-la-voz-de-la-provincia-de-padilla-1530-am",
+    "name": "La Voz de la Provincia de Padilla 1530 AM",
+    "url": "https://stream-179.zeno.fm/ipewj5ugkixvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJpcGV3ajV1Z2tpeHZ2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiS2cwUTdCS1NSX0dyNmZzc1ltbkFEdyIsImlhdCI6MTc2OTQyNDM1NywiZXhwIjoxNzY5NDI0NDE3fQ.hb7qlNstnrJdaVJxHV8UBNxQaY09GN0NlRgP_IDnFcw",
+    "genre": "Music",
+    "city": "Maracaibo",
+    "country": "Venezuela",
+    "lat": 10.6498095,
+    "lng": -71.6443596
+  },
+  {
+    "id": "venezuela-fonseca-stereo-883-fm",
+    "name": "Fonseca Stereo 88.3 FM",
+    "url": "https://stream-157.zeno.fm/cep2gepcqzftv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjZXAyZ2VwY3F6ZnR2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoienQ5Z1N4dWNRYVN5b3FEZzNNR3ZrdyIsImlhdCI6MTc2OTQyNDM1NywiZXhwIjoxNzY5NDI0NDE3fQ.mAkn5v_tB6CSijYzPgHXApeGCeEc0MCkGEibfykkfQw",
+    "genre": "Music",
+    "city": "Maracaibo",
+    "country": "Venezuela",
+    "lat": 10.6498095,
+    "lng": -71.6443596
+  },
+  {
+    "id": "venezuela-la-nacion-radio",
+    "name": "La Nacion Radio",
+    "url": "https://guri.tepuyserver.net/8044/stream",
+    "genre": "Music",
+    "city": "San Cristobal",
+    "country": "Venezuela",
+    "lat": 7.7756663,
+    "lng": -72.2214154
+  },
+  {
+    "id": "venezuela-sonido-881-fm",
+    "name": "Sonido 88.1 FM",
+    "url": "https://stream.intervalohost.com/sonidofm/stream",
+    "genre": "Music",
+    "city": "San Cristobal",
+    "country": "Venezuela",
+    "lat": 7.7756663,
+    "lng": -72.2214154
+  },
+  {
+    "id": "venezuela-la-chiquinquireña-909-fm",
+    "name": "La Chiquinquireña 90.9 FM",
+    "url": "https://server6.globalhostla.com:8098/stream",
+    "genre": "Music",
+    "city": "Maracaibo",
+    "country": "Venezuela",
+    "lat": 10.6498095,
+    "lng": -71.6443596
+  },
+  {
+    "id": "venezuela-imaginacion-fm-961",
+    "name": "Imaginacion FM 96.1",
+    "url": "https://stream-175.zeno.fm/zcazqd2x91zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ6Y2F6cWQyeDkxenV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiclRSM0prbTJUTkdXMEx1RHJGYnBTUSIsImlhdCI6MTc2OTQyNDM1OSwiZXhwIjoxNzY5NDI0NDE5fQ.rxAa4L9Da_eEdIPood7-rfhwBDu4NIpsEn2J_43C5D4",
+    "genre": "Music",
+    "city": "San Cristobal",
+    "country": "Venezuela",
+    "lat": 7.7756663,
+    "lng": -72.2214154
+  },
+  {
+    "id": "venezuela-sabor-1065-fm",
+    "name": "Sabor 106.5 FM",
+    "url": "https://server6.globalhostla.com:9166/stream",
+    "genre": "Music",
+    "city": "Maracaibo",
+    "country": "Venezuela",
+    "lat": 10.6498095,
+    "lng": -71.6443596
+  },
+  {
+    "id": "venezuela-tamá-stereo-1039-fm",
+    "name": "Tamá Stereo 103.9 FM",
+    "url": "https://guri.tepuyserver.net/8457/stream",
+    "genre": "Music",
+    "city": "San Cristobal",
+    "country": "Venezuela",
+    "lat": 7.7756663,
+    "lng": -72.2214154
+  },
+  {
+    "id": "venezuela-la-fm-985",
+    "name": "La FM 98.5",
+    "url": "https://stream-156.zeno.fm/63zpbsywrzzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2M3pwYnN5d3J6enV2IiwiaG9zdCI6InN0cmVhbS0xNTYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoidnYzMUh1ZEFUYVM2NXh4dUM0WmYtZyIsImlhdCI6MTc2OTQyNDM1OCwiZXhwIjoxNzY5NDI0NDE4fQ.1LQU-jQ9ZKctFMsyFDdwurfJO-SthikMHkxakBFZ1jM",
+    "genre": "Music",
+    "city": "San Cristobal",
+    "country": "Venezuela",
+    "lat": 7.7756663,
+    "lng": -72.2214154
+  },
+  {
+    "id": "venezuela-mastermix-radio-915-fm",
+    "name": "Mastermix Radio 91.5 FM",
+    "url": "https://stream-179.zeno.fm/tu4q4he9ewzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0dTRxNGhlOWV3enV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiaXZmZWJaNFZSRnVLQncySWJaVzN0ZyIsImlhdCI6MTc2OTQyNDM1OCwiZXhwIjoxNzY5NDI0NDE4fQ.Au-a49TGYvi8O5pou-iwUEFUmt8VWRYuonkesfVGabE",
+    "genre": "Music",
+    "city": "San Cristobal",
+    "country": "Venezuela",
+    "lat": 7.7756663,
+    "lng": -72.2214154
+  },
+  {
+    "id": "venezuela-radio-mix-retro",
+    "name": "Radio Mix Retro",
+    "url": "https://streamingned.com:7084/stream",
+    "genre": "Music",
+    "city": "San Cristobal",
+    "country": "Venezuela",
+    "lat": 7.7756663,
+    "lng": -72.2214154
+  },
+  {
+    "id": "venezuela-digital-fm-1007",
+    "name": "Digital FM 100.7",
+    "url": "https://server6.globalhostla.com:9284/stream",
+    "genre": "Music",
+    "city": "San Cristobal",
+    "country": "Venezuela",
+    "lat": 7.7756663,
+    "lng": -72.2214154
+  },
+  {
+    "id": "venezuela-frecuencia-f-am-1370",
+    "name": "Frecuencia F AM 1370",
+    "url": "https://radio.frecuenciaf.com/envivo",
+    "genre": "Music",
+    "city": "San Cristobal",
+    "country": "Venezuela",
+    "lat": 7.7756663,
+    "lng": -72.2214154
+  },
+  {
+    "id": "venezuela-clásicos-1013-fm",
+    "name": "Clásicos 101.3 FM",
+    "url": "https://acp4.lorini.net:15048/stream",
+    "genre": "Music",
+    "city": "San Cristobal",
+    "country": "Venezuela",
+    "lat": 7.7756663,
+    "lng": -72.2214154
+  },
+  {
+    "id": "venezuela-san-sebastian-927-fm",
+    "name": "San Sebastian 92.7 FM",
+    "url": "https://acp4.lorini.net:15042/stream",
+    "genre": "Music",
+    "city": "San Cristobal",
+    "country": "Venezuela",
+    "lat": 7.7756663,
+    "lng": -72.2214154
+  },
+  {
+    "id": "venezuela-lider-fm-911",
+    "name": "Lider FM 91.1",
+    "url": "https://acp4.lorini.net:15024/stream",
+    "genre": "Music",
+    "city": "San Cristobal",
+    "country": "Venezuela",
+    "lat": 7.7756663,
+    "lng": -72.2214154
+  },
+  {
+    "id": "venezuela-romance-995-fm",
+    "name": "Romance 99.5 FM",
+    "url": "https://acp4.lorini.net:15044/stream",
+    "genre": "Music",
+    "city": "San Cristobal",
+    "country": "Venezuela",
+    "lat": 7.7756663,
+    "lng": -72.2214154
+  },
+  {
+    "id": "venezuela-cunaviche-1063-fm",
+    "name": "Cunaviche 106.3 FM",
+    "url": "https://app0102.sonicpanelradio.com/8788/stream",
+    "genre": "Music",
+    "city": "Maturin",
+    "country": "Venezuela",
+    "lat": 9.7422774,
+    "lng": -63.1888854
+  },
+  {
+    "id": "venezuela-vida-987-fm",
+    "name": "Vida 98.7 FM",
+    "url": "https://stream-179.zeno.fm/0vba7fu11s8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwdmJhN2Z1MTFzOHV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiVHlMRUd3WVpRLUdxZDVoQW44VXFQdyIsImlhdCI6MTc2OTQyNDM2MCwiZXhwIjoxNzY5NDI0NDIwfQ.5qAP08RNY5Evs4ZnszKjw4xDIRmHI3eT-1ndTO2DlKU",
+    "genre": "Music",
+    "city": "San Cristobal",
+    "country": "Venezuela",
+    "lat": 7.7756663,
+    "lng": -72.2214154
+  },
+  {
+    "id": "venezuela-fe-y-alegría-maturín-1059-fm",
+    "name": "Fe y Alegría Maturín 105.9 FM",
+    "url": "https://tx.feyalegrianoticias.com/listen/maturinfm/radio.mp3",
+    "genre": "Music",
+    "city": "Maturin",
+    "country": "Venezuela",
+    "lat": 9.7422774,
+    "lng": -63.1888854
+  },
+  {
+    "id": "venezuela-latina-949-fm",
+    "name": "Latina 94.9 FM",
+    "url": "https://stream-179.zeno.fm/qkr7kw5vfkhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxa3I3a3c1dmZraHZ2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiYjdfS1dlTFRRNnFNblh5ZVdhdUszZyIsImlhdCI6MTc2OTQyNDM2MSwiZXhwIjoxNzY5NDI0NDIxfQ.uba_GExSiGV4nQ9P76XCrrZm4ID3FlfZfvO_LIusPxE",
+    "genre": "Music",
+    "city": "San Cristobal",
+    "country": "Venezuela",
+    "lat": 7.7756663,
+    "lng": -72.2214154
+  },
+  {
+    "id": "venezuela-fe-y-alegria-anaco-1039-fm",
+    "name": "Fe y Alegria Anaco 103.9 FM",
+    "url": "https://tx.feyalegrianoticias.com/listen/anaco-fm/radio.mp3",
+    "genre": "Music",
+    "city": "Maturin",
+    "country": "Venezuela",
+    "lat": 9.7422774,
+    "lng": -63.1888854
+  },
+  {
+    "id": "venezuela-galactica-927-fm",
+    "name": "Galactica 92.7 FM",
+    "url": "http://cp2.lorini.net:19030/stream",
+    "genre": "Music",
+    "city": "Mérida",
+    "country": "Venezuela",
+    "lat": 8.5816963,
+    "lng": -71.1658075
+  },
+  {
+    "id": "venezuela-fe-y-alegria-cumana-921-fm",
+    "name": "Fe y Alegria Cumana 92.1 FM",
+    "url": "https://tx.feyalegrianoticias.com/listen/cumanafm/radio.mp3",
+    "genre": "Music",
+    "city": "Maturin",
+    "country": "Venezuela",
+    "lat": 9.7422774,
+    "lng": -63.1888854
+  },
+  {
+    "id": "venezuela-deportiva-wek-1043-fm",
+    "name": "Deportiva Wek 104.3 FM",
+    "url": "https://cloudstream2036.conectarhosting.com/8346/stream",
+    "genre": "Music",
+    "city": "San Cristobal",
+    "country": "Venezuela",
+    "lat": 7.7756663,
+    "lng": -72.2214154
+  },
+  {
+    "id": "venezuela-rumbera-network-895-fm",
+    "name": "Rumbera Network 89.5 FM",
+    "url": "https://streaming.rumberamaturin.com/index.html?sid=1",
+    "genre": "Music",
+    "city": "Maturin",
+    "country": "Venezuela",
+    "lat": 9.7422774,
+    "lng": -63.1888854
+  },
+  {
+    "id": "venezuela-caracuey-fm-909",
+    "name": "Caracuey FM 90.9",
+    "url": "https://stream-177.zeno.fm/gr0azf7nq7zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJncjBhemY3bnE3enV2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiM3ZQUFoyZnBRdHk1Q3ZRSWlFSy1WZyIsImlhdCI6MTc2OTQyNDM2MiwiZXhwIjoxNzY5NDI0NDIyfQ.KOdGCQARLouDs8kSQGnHEmc3DX01YruJfmgiw2RQyMo",
+    "genre": "Music",
+    "city": "Maturin",
+    "country": "Venezuela",
+    "lat": 9.7422774,
+    "lng": -63.1888854
+  },
+  {
+    "id": "venezuela-fe-y-alegría-merida-1059-fm",
+    "name": "Fe y Alegría Mérida 105.9 FM",
+    "url": "https://tx.feyalegrianoticias.com/listen/meridafm/radio.mp3",
+    "genre": "Music",
+    "city": "Mérida",
+    "country": "Venezuela",
+    "lat": 8.5816963,
+    "lng": -71.1658075
+  },
+  {
+    "id": "venezuela-pachangosa-1013-fm",
+    "name": "Pachangosa 101.3 FM",
+    "url": "https://streaming.pachangosa.com.ve/index.html?sid=1",
+    "genre": "Music",
+    "city": "Maturin",
+    "country": "Venezuela",
+    "lat": 9.7422774,
+    "lng": -63.1888854
+  },
+  {
+    "id": "venezuela-ula-1077-fm",
+    "name": "ULA 107.7 FM",
+    "url": "https://stream.intervalohost.com/ula1077fm/stream",
+    "genre": "Music",
+    "city": "Mérida",
+    "country": "Venezuela",
+    "lat": 8.5816963,
+    "lng": -71.1658075
+  },
+  {
+    "id": "venezuela-turismo-fm-975",
+    "name": "Turismo FM 97.5",
+    "url": "https://cloudstream2030.conectarhosting.com/8046/stream",
+    "genre": "Music",
+    "city": "Mérida",
+    "country": "Venezuela",
+    "lat": 8.5816963,
+    "lng": -71.1658075
+  },
+  {
+    "id": "venezuela-ritmo-969-fm",
+    "name": "Ritmo 96.9 FM",
+    "url": "https://server6.globalhostla.com:8032/stream",
+    "genre": "Music",
+    "city": "Maturin",
+    "country": "Venezuela",
+    "lat": 9.7422774,
+    "lng": -63.1888854
+  },
+  {
+    "id": "venezuela-frontina-1003-fm",
+    "name": "Frontina 100.3 FM",
+    "url": "https://stream-162.zeno.fm/hsamfyrv008uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJoc2FtZnlydjAwOHV2IiwiaG9zdCI6InN0cmVhbS0xNjIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiSE1qa0pRb1dTbC0yU3hHUHV1Q1lFdyIsImlhdCI6MTc2OTQyNDM2NSwiZXhwIjoxNzY5NDI0NDI1fQ.eyIvEv8FX9uIkVoxM5LOiEw346gmnO1Wwnvq56axzpw",
+    "genre": "Music",
+    "city": "Mérida",
+    "country": "Venezuela",
+    "lat": 8.5816963,
+    "lng": -71.1658075
+  },
+  {
+    "id": "venezuela-emoción-106-fm",
+    "name": "Emoción 106 FM",
+    "url": "https://sonicpanel.streaming10.net/8220/stream",
+    "genre": "Music",
+    "city": "Maracay",
+    "country": "Venezuela",
+    "lat": 10.2375144,
+    "lng": -67.5890216
+  },
+  {
+    "id": "venezuela-comunión-1017-fm",
+    "name": "Comunión 101.7 FM",
+    "url": "https://stream-179.zeno.fm/abkmpazmyk8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJhYmttcGF6bXlrOHV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiSVpwaE5zc0hSUVNEUmxSUEhYWDhsdyIsImlhdCI6MTc2OTQyNDM2NSwiZXhwIjoxNzY5NDI0NDI1fQ.PqcCwQQXBavkHZbbjExgG3yNb14LeDR-0qo49qVK53M",
+    "genre": "Music",
+    "city": "Mérida",
+    "country": "Venezuela",
+    "lat": 8.5816963,
+    "lng": -71.1658075
+  },
+  {
+    "id": "venezuela-nareupa-993-fm",
+    "name": "Nareupa 99.3 FM",
+    "url": "https://usa8.fastcast4u.com/proxy/danielradio15?mp=/1",
+    "genre": "Music",
+    "city": "Mérida",
+    "country": "Venezuela",
+    "lat": 8.5816963,
+    "lng": -71.1658075
+  },
+  {
+    "id": "venezuela-líder-fm-923",
+    "name": "Líder FM 92.3",
+    "url": "https://acp4.lorini.net:15022/stream",
+    "genre": "Music",
+    "city": "Mérida",
+    "country": "Venezuela",
+    "lat": 8.5816963,
+    "lng": -71.1658075
+  },
+  {
+    "id": "venezuela-ibiza-979-fm",
+    "name": "Ibiza 97.9 FM",
+    "url": "https://server6.globalhostla.com:9342/stream",
+    "genre": "Music",
+    "city": "Mérida",
+    "country": "Venezuela",
+    "lat": 8.5816963,
+    "lng": -71.1658075
+  },
+  {
+    "id": "venezuela-light-1047-fm",
+    "name": "Light 104.7 FM",
+    "url": "https://cast.az-streamingserver.com:2199/proxy/yvbdymfe/stream",
+    "genre": "Music",
+    "city": "Maracay",
+    "country": "Venezuela",
+    "lat": 10.2375144,
+    "lng": -67.5890216
+  },
+  {
+    "id": "venezuela-radio-alegria-1027-fm",
+    "name": "Radio Alegria 102.7 FM",
+    "url": "https://streamingned.com:7102/stream/",
+    "genre": "Music",
+    "city": "Maracay",
+    "country": "Venezuela",
+    "lat": 10.2375144,
+    "lng": -67.5890216
+  },
+  {
+    "id": "venezuela-guasacaca-radio",
+    "name": "Guasacaca Radio",
+    "url": "https://sp4.colombiatelecom.com.co/8096/stream",
+    "genre": "Music",
+    "city": "Guayana City",
+    "country": "Venezuela",
+    "lat": 6.8129486,
+    "lng": -58.1579962
+  },
+  {
+    "id": "venezuela-urquía-975-fm",
+    "name": "Urquía 97.5 FM",
+    "url": "https://sp.wnetserver.com:7031/stream",
+    "genre": "Music",
+    "city": "Maracay",
+    "country": "Venezuela",
+    "lat": 10.2375144,
+    "lng": -67.5890216
+  },
+  {
+    "id": "venezuela-bandera-fm-1057",
+    "name": "Bandera FM 105.7",
+    "url": "https://streamingned.com:7148/stream",
+    "genre": "Music",
+    "city": "Guayana City",
+    "country": "Venezuela",
+    "lat": 6.8129486,
+    "lng": -58.1579962
+  },
+  {
+    "id": "venezuela-rumba-981-fm",
+    "name": "Rumba 98.1 FM",
+    "url": "https://cast20.plugstreaming.com:2020/stream/r981/",
+    "genre": "Music",
+    "city": "Guayana City",
+    "country": "Venezuela",
+    "lat": 6.8129486,
+    "lng": -58.1579962
+  },
+  {
+    "id": "venezuela-ondas-1023-fm",
+    "name": "Ondas 102.3 FM",
+    "url": "https://server6.globalhostla.com:9352/stream",
+    "genre": "Music",
+    "city": "Mérida",
+    "country": "Venezuela",
+    "lat": 8.5816963,
+    "lng": -71.1658075
+  },
+  {
+    "id": "venezuela-fresh-fm-1043",
+    "name": "Fresh FM 104.3",
+    "url": "http://fresharuba.com:8006/stream",
+    "genre": "Music",
+    "city": "Punto Fijo",
+    "country": "Venezuela",
+    "lat": 11.6931716,
+    "lng": -70.1917178
+  },
+  {
+    "id": "venezuela-trk-radio",
+    "name": "TRK Radio",
+    "url": "https://streamingned.com:7230/stream/",
+    "genre": "Music",
+    "city": "Guayana City",
+    "country": "Venezuela",
+    "lat": 6.8129486,
+    "lng": -58.1579962
+  },
+  {
+    "id": "venezuela-x100-fm",
+    "name": "X100 FM",
+    "url": "https://stream-179.zeno.fm/4fsmn8h576duv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0ZnNtbjhoNTc2ZHV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoibUZfN0dac2hSUHF3VHFTQlBRQl8wZyIsImlhdCI6MTc2OTQyNDM2NywiZXhwIjoxNzY5NDI0NDI3fQ.fEjDgWRzKQoHu6YCpyACP0TtG4xnWJjGAdEOxYevdfk",
+    "genre": "Music",
+    "city": "Maracay",
+    "country": "Venezuela",
+    "lat": 10.2375144,
+    "lng": -67.5890216
+  },
+  {
+    "id": "venezuela-turistica-fm-927",
+    "name": "Turistica FM 92.7",
+    "url": "https://streamingned.com:7128/stream//stream",
+    "genre": "Music",
+    "city": "Guayana City",
+    "country": "Venezuela",
+    "lat": 6.8129486,
+    "lng": -58.1579962
+  },
+  {
+    "id": "venezuela-autentica-1075-fm",
+    "name": "Auténtica 107.5 FM",
+    "url": "https://server6.globalhostla.com:9324/stream",
+    "genre": "Music",
+    "city": "Maracay",
+    "country": "Venezuela",
+    "lat": 10.2375144,
+    "lng": -67.5890216
+  },
+  {
+    "id": "venezuela-electrik-977",
+    "name": "Electrik 97.7",
+    "url": "https://streamingned.com:7046/stream",
+    "genre": "Music",
+    "city": "Guayana City",
+    "country": "Venezuela",
+    "lat": 6.8129486,
+    "lng": -58.1579962
+  },
+  {
+    "id": "venezuela-mambo-949-fm",
+    "name": "Mambo 94.9 FM",
+    "url": "https://streamingned.com:7170/stream",
+    "genre": "Music",
+    "city": "Punto Fijo",
+    "country": "Venezuela",
+    "lat": 11.6931716,
+    "lng": -70.1917178
+  },
+  {
+    "id": "venezuela-caribeña-979-fm",
+    "name": "Caribeña 97.9 FM",
+    "url": "https://stream-179.zeno.fm/ym8zpzaxav8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5bTh6cHpheGF2OHV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiWjQyNkM2MGlUR0thTnBHY1R0MGhlUSIsImlhdCI6MTc2OTQyNDM2OCwiZXhwIjoxNzY5NDI0NDI4fQ.HzaUSdDsSQnmS9hRcQb2ctoC3W30R68lsuaui-Cde0w",
+    "genre": "Music",
+    "city": "Punto Fijo",
+    "country": "Venezuela",
+    "lat": 11.6931716,
+    "lng": -70.1917178
+  },
+  {
+    "id": "venezuela-kayros-1063-fm",
+    "name": "Kayros 106.3 FM",
+    "url": "https://vps-1925b156.vps.ovh.ca/kayros",
+    "genre": "Music",
+    "city": "Punto Fijo",
+    "country": "Venezuela",
+    "lat": 11.6931716,
+    "lng": -70.1917178
+  },
+  {
+    "id": "venezuela-festiva-999-fm",
+    "name": "Festiva 99.9 FM",
+    "url": "https://acp2.lorini.net:28018/stream",
+    "genre": "Music",
+    "city": "Guayana City",
+    "country": "Venezuela",
+    "lat": 6.8129486,
+    "lng": -58.1579962
+  },
+  {
+    "id": "venezuela-circuito-onda-fm-915",
+    "name": "Circuito Onda FM 91.5",
+    "url": "http://ur58.lorini.net:10006/stream",
+    "genre": "Music",
+    "city": "Puerto La Cruz",
+    "country": "Venezuela",
+    "lat": 10.2028617,
+    "lng": -64.6307626
+  },
+  {
+    "id": "venezuela-radio-adventista-speransa-korsou",
+    "name": "Radio Adventista Speransa Korsou",
+    "url": "http://streaming.admediasystem.net:9966/index.html?sid=1",
+    "genre": "Music",
+    "city": "Punto Fijo",
+    "country": "Venezuela",
+    "lat": 11.6931716,
+    "lng": -70.1917178
+  },
+  {
+    "id": "venezuela-news-1055-fm",
+    "name": "News 105.5 FM",
+    "url": "https://server6.globalhostla.com:9350/stream",
+    "genre": "Music",
+    "city": "Guayana City",
+    "country": "Venezuela",
+    "lat": 6.8129486,
+    "lng": -58.1579962
+  },
+  {
+    "id": "venezuela-xtrema-989-fm",
+    "name": "Xtrema 98.9 FM",
+    "url": "https://app0102.sonicpanelradio.com/8782/stream",
+    "genre": "Music",
+    "city": "Punto Fijo",
+    "country": "Venezuela",
+    "lat": 11.6931716,
+    "lng": -70.1917178
+  },
+  {
+    "id": "venezuela-besser-975-fm",
+    "name": "Besser 97.5 FM",
+    "url": "https://audio.besser975fm.com/",
+    "genre": "Music",
+    "city": "Punto Fijo",
+    "country": "Venezuela",
+    "lat": 11.6931716,
+    "lng": -70.1917178
+  },
+  {
+    "id": "venezuela-power-935-fm",
+    "name": "Power 93.5 FM",
+    "url": "https://cast6.my-control-panel.com/proxy/elpodermasjoven/stream",
+    "genre": "Music",
+    "city": "Puerto La Cruz",
+    "country": "Venezuela",
+    "lat": 10.2028617,
+    "lng": -64.6307626
+  },
+  {
+    "id": "venezuela-fe-y-alegría-puerto-la-cruz-1013-fm",
+    "name": "Fe y Alegría Puerto La Cruz 101.3 FM",
+    "url": "https://tx.feyalegrianoticias.com/listen/puertolacruzfm/radio.mp3",
+    "genre": "Music",
+    "city": "Puerto La Cruz",
+    "country": "Venezuela",
+    "lat": 10.2028617,
+    "lng": -64.6307626
+  },
+  {
+    "id": "venezuela-conexión-fm-1013",
+    "name": "Conexión FM 101.3",
+    "url": "https://sp3.servidorrprivado.com/1458/",
+    "genre": "Music",
+    "city": "San Felipe",
+    "country": "Venezuela",
+    "lat": 10.3394796,
+    "lng": -68.7417033
+  },
+  {
+    "id": "venezuela-mgta-963-fm",
+    "name": "MGTA 96.3 FM",
+    "url": "https://stream.islahostingla.com:8020/stream",
+    "genre": "Music",
+    "city": "Porlamar",
+    "country": "Venezuela",
+    "lat": 10.9635839,
+    "lng": -63.8464509
+  },
+  {
+    "id": "venezuela-941-la-fm",
+    "name": "94.1 La FM",
+    "url": "https://acp2.lorini.net:27080/stream",
+    "genre": "Music",
+    "city": "Punto Fijo",
+    "country": "Venezuela",
+    "lat": 11.6931716,
+    "lng": -70.1917178
+  },
+  {
+    "id": "venezuela-criollisima-yaracuy-1049-fm",
+    "name": "Criollisima Yaracuy 104.9 FM",
+    "url": "https://radiostream.interven.ca/listen/criollisima/radio.mp3",
+    "genre": "Music",
+    "city": "San Felipe",
+    "country": "Venezuela",
+    "lat": 10.3394796,
+    "lng": -68.7417033
+  },
+  {
+    "id": "venezuela-dinamica-1033-fm",
+    "name": "Dinamica 103.3 FM",
+    "url": "https://acp2.lorini.net:36075/stream",
+    "genre": "Music",
+    "city": "Puerto La Cruz",
+    "country": "Venezuela",
+    "lat": 10.2028617,
+    "lng": -64.6307626
+  },
+  {
+    "id": "venezuela-más-network-san-felipe-989-fm",
+    "name": "Más Network San Felipe 98.9 FM",
+    "url": "https://stream-177.zeno.fm/my1hgg4mtp8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJteTFoZ2c0bXRwOHV2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiRjBJdV9tXzFUdjZVNzU3WXN4X2lxQSIsImlhdCI6MTc2OTQyNDM3MiwiZXhwIjoxNzY5NDI0NDMyfQ.97RTbItKyBEDD4OytYJP8cLN-HUc5JjTs5wjKGBvh5w",
+    "genre": "Music",
+    "city": "San Felipe",
+    "country": "Venezuela",
+    "lat": 10.3394796,
+    "lng": -68.7417033
+  },
+  {
+    "id": "venezuela-yara-radio-1043-fm",
+    "name": "Yara Radio 104.3 FM",
+    "url": "https://stream-179.zeno.fm/6zrw3xv79gruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2enJ3M3h2NzlncnV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiZVNJMEVjdlJUbE9meXNNbnh2dE9ZdyIsImlhdCI6MTc2OTQyNDM3MiwiZXhwIjoxNzY5NDI0NDMyfQ.4IcThlbF0eQCgq2yMjJ2PLYftpw9pTq_vb5Z53K9J_c",
+    "genre": "Music",
+    "city": "San Felipe",
+    "country": "Venezuela",
+    "lat": 10.3394796,
+    "lng": -68.7417033
+  },
+  {
+    "id": "venezuela-solar-1063-fm",
+    "name": "Solar 106.3 FM",
+    "url": "https://server6.globalhostla.com:8050/stream",
+    "genre": "Music",
+    "city": "Puerto La Cruz",
+    "country": "Venezuela",
+    "lat": 10.2028617,
+    "lng": -64.6307626
+  },
+  {
+    "id": "venezuela-lasser-fm-977",
+    "name": "Lasser FM 97.7",
+    "url": "https://server6.globalhostla.com:8010/stream",
+    "genre": "Music",
+    "city": "Puerto La Cruz",
+    "country": "Venezuela",
+    "lat": 10.2028617,
+    "lng": -64.6307626
+  },
+  {
+    "id": "venezuela-la-romántica-989-fm",
+    "name": "La Romántica 98.9 FM",
+    "url": "https://acp2.lorini.net:58114/stream",
+    "genre": "Music",
+    "city": "Puerto La Cruz",
+    "country": "Venezuela",
+    "lat": 10.2028617,
+    "lng": -64.6307626
+  },
+  {
+    "id": "venezuela-super-stereo-fm-981",
+    "name": "Super Stereo FM 98.1",
+    "url": "https://server6.globalhostla.com:9154/stream",
+    "genre": "Music",
+    "city": "Porlamar",
+    "country": "Venezuela",
+    "lat": 10.9635839,
+    "lng": -63.8464509
+  },
+  {
+    "id": "venezuela-dinamica-939-fm",
+    "name": "Dinamica 93.9 FM",
+    "url": "https://acp2.lorini.net:30090/stream",
+    "genre": "Music",
+    "city": "Porlamar",
+    "country": "Venezuela",
+    "lat": 10.9635839,
+    "lng": -63.8464509
+  },
+  {
+    "id": "venezuela-mix-1061-fm",
+    "name": "Mix 106.1 FM",
+    "url": "https://server6.globalhostla.com:9150/stream",
+    "genre": "Music",
+    "city": "Porlamar",
+    "country": "Venezuela",
+    "lat": 10.9635839,
+    "lng": -63.8464509
+  },
+  {
+    "id": "venezuela-hispana-fm-895",
+    "name": "Hispana FM 89.5",
+    "url": "https://stream-176.zeno.fm/tvqmp6dwk2zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0dnFtcDZkd2syenV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiUnJyOVcwWEFTZHUtTjFkYmw5dWNXQSIsImlhdCI6MTc2OTQyNDM3MiwiZXhwIjoxNzY5NDI0NDMyfQ.v3sbUw7Y_Zq_w0RW7V9LB2nmUPxl-x7fcrjfPZ8Hmrg",
+    "genre": "Music",
+    "city": "San Felipe",
+    "country": "Venezuela",
+    "lat": 10.3394796,
+    "lng": -68.7417033
+  },
+  {
+    "id": "venezuela-acción-1045-fm",
+    "name": "Acción 104.5 FM",
+    "url": "https://stream.intervalohost.com/accionfm/stream",
+    "genre": "Music",
+    "city": "El Vigía",
+    "country": "Venezuela",
+    "lat": 8.6239179,
+    "lng": -71.6713251
+  },
+  {
+    "id": "venezuela-giga-913-fm",
+    "name": "Giga 91.3 FM",
+    "url": "https://stream.intervalohost.com/gigafm/stream",
+    "genre": "Music",
+    "city": "El Vigía",
+    "country": "Venezuela",
+    "lat": 8.6239179,
+    "lng": -71.6713251
+  },
+  {
+    "id": "venezuela-fantastica-883-fm",
+    "name": "Fantastica 88.3 FM",
+    "url": "https://serverstreamgroup.biz:2020/stream/9734",
+    "genre": "Music",
+    "city": "El Vigía",
+    "country": "Venezuela",
+    "lat": 8.6239179,
+    "lng": -71.6713251
+  },
+  {
+    "id": "venezuela-ven-fm-897",
+    "name": "Ven FM 89.7",
+    "url": "http://cp2.lorini.net:20210/stream",
+    "genre": "Music",
+    "city": "Barinas",
+    "country": "Venezuela",
+    "lat": 8.1739775,
+    "lng": -69.9755552
+  },
+  {
+    "id": "venezuela-comunión-975-fm",
+    "name": "Comunión 97.5 FM",
+    "url": "https://stream-177.zeno.fm/cy3ef0frwmzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjeTNlZjBmcndtenV2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiUDYzRURydWdSTmlvVmJGei1MRFlwdyIsImlhdCI6MTc2OTQyNDM3NCwiZXhwIjoxNzY5NDI0NDM0fQ.V_zo14WjveE2Nh508q5WXailTOmiwWFuFn1Rd9rKXTM",
+    "genre": "Music",
+    "city": "El Vigía",
+    "country": "Venezuela",
+    "lat": 8.6239179,
+    "lng": -71.6713251
+  },
+  {
+    "id": "venezuela-radio-funculatino-online",
+    "name": "Radio Funculatino Online",
+    "url": "https://stream-178.zeno.fm/ujilzz28q0cuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1amlsenoyOHEwY3V2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoieGpDYWJRUDhRdEdHUUU1dE1IU3A0dyIsImlhdCI6MTc2OTQyNDM3NCwiZXhwIjoxNzY5NDI0NDM0fQ.TDCJelyx9hCXPeJsd1FnFNQvqrffyNb2-omBgmNgUOU",
+    "genre": "Music",
+    "city": "Barinas",
+    "country": "Venezuela",
+    "lat": 8.1739775,
+    "lng": -69.9755552
+  },
+  {
+    "id": "venezuela-radio-bravas-997-fm",
+    "name": "Radio Brava's 99.7 FM",
+    "url": "https://stream-157.zeno.fm/nnzbefxo8cjvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJubnpiZWZ4bzhjanZ2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiZlFzS2VjWE5UWVM3SVFIREtac3JpdyIsImlhdCI6MTc2OTQyNDM3NSwiZXhwIjoxNzY5NDI0NDM1fQ.t_TmOv-9F8edXgmWKgjhZgGmm0nS1x-cV4nPhYReEgU",
+    "genre": "Music",
+    "city": "Barinas",
+    "country": "Venezuela",
+    "lat": 8.1739775,
+    "lng": -69.9755552
+  },
+  {
+    "id": "venezuela-venecia-network-1025-fm",
+    "name": "Venecia Network 102.5 FM",
+    "url": "https://stream-175.zeno.fm/lninpmyxvbkuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJsbmlucG15eHZia3V2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoibThUV0VCTGZSaWVOa3JobmhpcXNsZyIsImlhdCI6MTc2OTQyNDM3NSwiZXhwIjoxNzY5NDI0NDM1fQ._4k23D6nAL_7cFz70KixdF-JEyKWHCc6YMlgnJdJoKk",
+    "genre": "Music",
+    "city": "Barinas",
+    "country": "Venezuela",
+    "lat": 8.1739775,
+    "lng": -69.9755552
+  },
+  {
+    "id": "venezuela-ula-979-fm",
+    "name": "ULA 97.9 FM",
+    "url": "https://stream.intervalohost.com/ula979fm/stream",
+    "genre": "Music",
+    "city": "Barinas",
+    "country": "Venezuela",
+    "lat": 8.1739775,
+    "lng": -69.9755552
+  },
+  {
+    "id": "venezuela-lider-fm-1001",
+    "name": "Lider FM 100.1",
+    "url": "https://acp4.lorini.net:15034/stream",
+    "genre": "Music",
+    "city": "El Vigía",
+    "country": "Venezuela",
+    "lat": 8.6239179,
+    "lng": -71.6713251
+  },
+  {
+    "id": "venezuela-radio-noticias-fm-917-fe-y-alegría",
+    "name": "Radio Noticias FM 91.7 Fe y Alegría",
+    "url": "https://tx.feyalegrianoticias.com/listen/eltigrefm/radio.mp3",
+    "genre": "Music",
+    "city": "El Tigre",
+    "country": "Venezuela",
+    "lat": 8.8862119,
+    "lng": -64.2488754
+  },
+  {
+    "id": "venezuela-celestial-1063-fm",
+    "name": "Celestial 106.3 FM",
+    "url": "https://stream-178.zeno.fm/cnczemratcouv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjbmN6ZW1yYXRjb3V2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiazJVN09JMElUQ09MZWh1UGZDUkVCQSIsImlhdCI6MTc2OTQyNDM3NSwiZXhwIjoxNzY5NDI0NDM1fQ.xcdOTaeilM6OAVai0DuW251oUXzibIDn9Kc4E09_YWA",
+    "genre": "Music",
+    "city": "Barinas",
+    "country": "Venezuela",
+    "lat": 8.1739775,
+    "lng": -69.9755552
+  },
+  {
+    "id": "venezuela-radio-activa-1035-fm",
+    "name": "Radio Activa 103.5 FM",
+    "url": "https://stream-177.zeno.fm/yyifyzlkii5vv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5eWlmeXpsa2lpNXZ2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoickdTR2tGcjNTVjZTbHFLazEzb25oUSIsImlhdCI6MTc2OTQyNDM3NSwiZXhwIjoxNzY5NDI0NDM1fQ.WVgpG7Xbu_T3P8x10qv7wnAap0KOzW6lFdAFKaoB1Os",
+    "genre": "Music",
+    "city": "Barinas",
+    "country": "Venezuela",
+    "lat": 8.1739775,
+    "lng": -69.9755552
+  },
+  {
+    "id": "venezuela-onda-903-fm",
+    "name": "Onda 90.3 FM",
+    "url": "https://cast20.plugstreaming.com:2020/stream/onda903/",
+    "genre": "Music",
+    "city": "Acarigua",
+    "country": "Venezuela",
+    "lat": 9.5507961,
+    "lng": -69.2032823
+  },
+  {
+    "id": "venezuela-radio-fe-y-alegría-fm-943",
+    "name": "Radio Fe y Alegría FM 94.3",
+    "url": "https://tx.feyalegrianoticias.com/listen/sanjuanfm/radio.mp3",
+    "genre": "Music",
+    "city": "San Juan de Los Morros",
+    "country": "Venezuela",
+    "lat": 9.9152306,
+    "lng": -67.3569141
+  },
+  {
+    "id": "venezuela-clásicos-909-fm-el-tigre",
+    "name": "Clásicos 90.9 FM El Tigre",
+    "url": "https://acp2.lorini.net:2030/clasicoseltigre",
+    "genre": "Music",
+    "city": "El Tigre",
+    "country": "Venezuela",
+    "lat": 8.8862119,
+    "lng": -64.2488754
+  },
+  {
+    "id": "venezuela-ven-fm-989",
+    "name": "Ven FM 98.9",
+    "url": "https://acp2.lorini.net:20210/stream",
+    "genre": "Music",
+    "city": "El Tigre",
+    "country": "Venezuela",
+    "lat": 8.8862119,
+    "lng": -64.2488754
+  },
+  {
+    "id": "venezuela-calle-fm-985",
+    "name": "Calle FM 98.5",
+    "url": "https://stream-179.zeno.fm/t7867xzkffhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0Nzg2N3h6a2ZmaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiMERjUWhMeDVTeG1pQWNDMkRacUUzdyIsImlhdCI6MTc2OTQyNDM3NywiZXhwIjoxNzY5NDI0NDM3fQ.3hBNX0NHw11SvZdG3P586lmyMv-eUfPMiBoYxsSOiBM",
+    "genre": "Music",
+    "city": "San Juan de Los Morros",
+    "country": "Venezuela",
+    "lat": 9.9152306,
+    "lng": -67.3569141
+  },
+  {
+    "id": "venezuela-capital-999-fm",
+    "name": "CAPITAL 99.9 FM",
+    "url": "https://acp2.lorini.net:30508/stream",
+    "genre": "Music",
+    "city": "El Tigre",
+    "country": "Venezuela",
+    "lat": 8.8862119,
+    "lng": -64.2488754
+  },
+  {
+    "id": "venezuela-latina-959-fm",
+    "name": "Latina 95.9 FM",
+    "url": "https://radiostream2.interven.ca/listen/latina_95.9_fm/radio.mp3",
+    "genre": "Music",
+    "city": "Acarigua",
+    "country": "Venezuela",
+    "lat": 9.5507961,
+    "lng": -69.2032823
+  },
+  {
+    "id": "venezuela-criollisima-949-fm",
+    "name": "Criollisima 94.9 FM",
+    "url": "https://server6.globalhostla.com:8072/stream",
+    "genre": "Music",
+    "city": "Charallave",
+    "country": "Venezuela",
+    "lat": 10.2456598,
+    "lng": -66.8586608
+  },
+  {
+    "id": "venezuela-latinos-fm-1003",
+    "name": "Latinos FM 100.3",
+    "url": "https://server6.globalhostla.com:8002/stream",
+    "genre": "Music",
+    "city": "Charallave",
+    "country": "Venezuela",
+    "lat": 10.2456598,
+    "lng": -66.8586608
+  },
+  {
+    "id": "venezuela-pacifica-907-fm",
+    "name": "Pacifica 90.7 FM",
+    "url": "https://server6.globalhostla.com:9082/stream",
+    "genre": "Music",
+    "city": "Charallave",
+    "country": "Venezuela",
+    "lat": 10.2456598,
+    "lng": -66.8586608
+  }
+]

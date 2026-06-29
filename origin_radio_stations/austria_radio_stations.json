@@ -1,0 +1,952 @@
+[
+  {
+    "id": "austria-arbö-verkehrsradio",
+    "name": "ARBÖ-Verkehrsradio",
+    "url": "http://live.datamatix.at:8022/;stream/1",
+    "genre": "Music",
+    "city": "Vienna",
+    "country": "Austria",
+    "lat": 48.2083537,
+    "lng": 16.3725042
+  },
+  {
+    "id": "austria-radio-fm4",
+    "name": "Radio FM4",
+    "url": "https://orf-live.ors-shoutcast.at/fm4-q1a",
+    "genre": "Music",
+    "city": "Vienna",
+    "country": "Austria",
+    "lat": 48.2083537,
+    "lng": 16.3725042
+  },
+  {
+    "id": "austria-orf-hitradio-ö3",
+    "name": "ORF Hitradio Ö3",
+    "url": "https://orf-live.ors-shoutcast.at/oe3-q1a",
+    "genre": "Music",
+    "city": "Vienna",
+    "country": "Austria",
+    "lat": 48.2083537,
+    "lng": 16.3725042
+  },
+  {
+    "id": "austria-orf-ö1",
+    "name": "ORF Ö1",
+    "url": "https://orf-live.ors-shoutcast.at/oe1-q2a?player=radiothek_v1&referer=oe1.orf.at&userid=c6cc7616-6095-4088-a1da-a00d704f66a2",
+    "genre": "Music",
+    "city": "Vienna",
+    "country": "Austria",
+    "lat": 48.2083537,
+    "lng": 16.3725042
+  },
+  {
+    "id": "austria-radio-ypsilon-945-fm",
+    "name": "Radio Ypsilon 94.5 FM",
+    "url": "http://mp3.radioypsilon.at:8000/mp3-160",
+    "genre": "Music",
+    "city": "Vienna",
+    "country": "Austria",
+    "lat": 48.2083537,
+    "lng": 16.3725042
+  },
+  {
+    "id": "austria-oe3-991",
+    "name": "OE3 99.1",
+    "url": "https://orf-live.ors-shoutcast.at/oe3-q2a",
+    "genre": "Music",
+    "city": "Vienna",
+    "country": "Austria",
+    "lat": 48.2083537,
+    "lng": 16.3725042
+  },
+  {
+    "id": "austria-orf-radio-burgenland",
+    "name": "ORF Radio Burgenland",
+    "url": "https://orf-live.ors-shoutcast.at/bgl-q1a",
+    "genre": "Music",
+    "city": "Vienna",
+    "country": "Austria",
+    "lat": 48.2083537,
+    "lng": 16.3725042
+  },
+  {
+    "id": "austria-orf-radio-wien-fm-899",
+    "name": "ORF Radio Wien FM 89.9",
+    "url": "https://orf-live.ors-shoutcast.at/wie-q2a",
+    "genre": "Music",
+    "city": "Vienna",
+    "country": "Austria",
+    "lat": 48.2083537,
+    "lng": 16.3725042
+  },
+  {
+    "id": "austria-radio-rudina",
+    "name": "Radio Rudina",
+    "url": "https://azuracast.datea.services:8000/radio.mp3",
+    "genre": "Music",
+    "city": "Vienna",
+    "country": "Austria",
+    "lat": 48.2083537,
+    "lng": 16.3725042
+  },
+  {
+    "id": "austria-musikwelle-fm-1031",
+    "name": "Musikwelle FM 103.1",
+    "url": "https://stream.stadtradio.at:8000/live",
+    "genre": "Music",
+    "city": "Vienna",
+    "country": "Austria",
+    "lat": 48.2083537,
+    "lng": 16.3725042
+  },
+  {
+    "id": "austria-metal-radio",
+    "name": "METAL Radio",
+    "url": "https://stream.radiotechnikum.at/METALRadio",
+    "genre": "Music",
+    "city": "Vienna",
+    "country": "Austria",
+    "lat": 48.2083537,
+    "lng": 16.3725042
+  },
+  {
+    "id": "austria-radio-one",
+    "name": "Radio ONE",
+    "url": "https://stream.radiotechnikum.at/TECHONE",
+    "genre": "Music",
+    "city": "Vienna",
+    "country": "Austria",
+    "lat": 48.2083537,
+    "lng": 16.3725042
+  },
+  {
+    "id": "austria-campus-radio-fm-944",
+    "name": "Campus Radio FM 94.4",
+    "url": "https://cr944.at:50443/cr944.mp3",
+    "genre": "Music",
+    "city": "Vienna",
+    "country": "Austria",
+    "lat": 48.2083537,
+    "lng": 16.3725042
+  },
+  {
+    "id": "austria-viyana-fm",
+    "name": "Viyana FM",
+    "url": "https://radyo.viyanafm.at/1453/stream",
+    "genre": "Music",
+    "city": "Vienna",
+    "country": "Austria",
+    "lat": 48.2083537,
+    "lng": 16.3725042
+  },
+  {
+    "id": "austria-kronehit-fm-1058",
+    "name": "Kronehit FM 105.8",
+    "url": "https://secureonair.krone.at/kronehit1058.mp3",
+    "genre": "Music",
+    "city": "Vienna",
+    "country": "Austria",
+    "lat": 48.2083537,
+    "lng": 16.3725042
+  },
+  {
+    "id": "austria-antenne-vorarlberg-rock-radio",
+    "name": "Antenne Vorarlberg Rock Radio",
+    "url": "https://edge80.radio.antennevorarlberg.at/av-rock?aggregator=radio.garden",
+    "genre": "Music",
+    "city": "Schwarzach",
+    "country": "Austria",
+    "lat": 47.4450945,
+    "lng": 9.7630419
+  },
+  {
+    "id": "austria-antenne-vorarlberg-90er-hits",
+    "name": "Antenne Vorarlberg 90er Hits",
+    "url": "https://edge80.radio.antennevorarlberg.at/av-90er?aggregator=radio.garden",
+    "genre": "Music",
+    "city": "Schwarzach",
+    "country": "Austria",
+    "lat": 47.4450945,
+    "lng": 9.7630419
+  },
+  {
+    "id": "austria-antenne-vorarlberg-oldies-but-goldies",
+    "name": "Antenne Vorarlberg Oldies but Goldies",
+    "url": "https://edge80.radio.antennevorarlberg.at/av-oldies?aggregator=radio.garden",
+    "genre": "Music",
+    "city": "Schwarzach",
+    "country": "Austria",
+    "lat": 47.4450945,
+    "lng": 9.7630419
+  },
+  {
+    "id": "austria-antenne-vorarlberg-classic-rock",
+    "name": "Antenne Vorarlberg Classic Rock",
+    "url": "https://edge80.radio.antennevorarlberg.at/av-classicrock?aggregator=radio.garden",
+    "genre": "Music",
+    "city": "Schwarzach",
+    "country": "Austria",
+    "lat": 47.4450945,
+    "lng": 9.7630419
+  },
+  {
+    "id": "austria-radio-proton-1043-fm",
+    "name": "Radio Proton 104.3 FM",
+    "url": "http://radioproton.at:8000/protonquality.ogg",
+    "genre": "Music",
+    "city": "Schwarzach",
+    "country": "Austria",
+    "lat": 47.4450945,
+    "lng": 9.7630419
+  },
+  {
+    "id": "austria-radio-mora",
+    "name": "Radio MORA",
+    "url": "https://server4.streamserver24.com:26250/stream",
+    "genre": "Music",
+    "city": "Vienna",
+    "country": "Austria",
+    "lat": 48.2083537,
+    "lng": 16.3725042
+  },
+  {
+    "id": "austria-antenne-vorarlberg-coffee-hits",
+    "name": "Antenne Vorarlberg Coffee Hits",
+    "url": "https://edge80.radio.antennevorarlberg.at/av-coffee?aggregator=radio.garden",
+    "genre": "Music",
+    "city": "Schwarzach",
+    "country": "Austria",
+    "lat": 47.4450945,
+    "lng": 9.7630419
+  },
+  {
+    "id": "austria-60er70er-megamix",
+    "name": "60er70er MEGAMIX",
+    "url": "https://edge80.radio.antennevorarlberg.at/mm-60er70ermegamix?aggregator=radio.garden",
+    "genre": "Music",
+    "city": "Schwarzach",
+    "country": "Austria",
+    "lat": 47.4450945,
+    "lng": 9.7630419
+  },
+  {
+    "id": "austria-antenne-vorarlberg-love-songs",
+    "name": "Antenne Vorarlberg Love Songs",
+    "url": "https://edge80.radio.antennevorarlberg.at/av-lovesongs?aggregator=radio.garden",
+    "genre": "Music",
+    "city": "Schwarzach",
+    "country": "Austria",
+    "lat": 47.4450945,
+    "lng": 9.7630419
+  },
+  {
+    "id": "austria-energy-99,9",
+    "name": "Energy 99,9",
+    "url": "http://stream1.energy.at:8000/ibk",
+    "genre": "Music",
+    "city": "Innsbruck",
+    "country": "Austria",
+    "lat": 47.2654296,
+    "lng": 11.3927685
+  },
+  {
+    "id": "austria-antenne-vorarlberg-80er-hits",
+    "name": "Antenne Vorarlberg 80er Hits",
+    "url": "https://edge68.radio.antennevorarlberg.at/av-80er?aggregator=radio.garden",
+    "genre": "Music",
+    "city": "Schwarzach",
+    "country": "Austria",
+    "lat": 47.4450945,
+    "lng": 9.7630419
+  },
+  {
+    "id": "austria-antenne-vorarlberg",
+    "name": "Antenne Vorarlberg",
+    "url": "https://edge68.radio.antennevorarlberg.at/av-live?aggregator=radio.garden",
+    "genre": "Music",
+    "city": "Schwarzach",
+    "country": "Austria",
+    "lat": 47.4450945,
+    "lng": 9.7630419
+  },
+  {
+    "id": "austria-80er90er-megamix",
+    "name": "80er90er MEGAMIX",
+    "url": "https://edge68.radio.antennevorarlberg.at/mm-80er90ermegamix?aggregator=radio.garden",
+    "genre": "Music",
+    "city": "Schwarzach",
+    "country": "Austria",
+    "lat": 47.4450945,
+    "lng": 9.7630419
+  },
+  {
+    "id": "austria-antenne-vorarlberg-partymix",
+    "name": "Antenne Vorarlberg Partymix",
+    "url": "https://edge68.radio.antennevorarlberg.at/av-partymix?aggregator=radio.garden",
+    "genre": "Music",
+    "city": "Schwarzach",
+    "country": "Austria",
+    "lat": 47.4450945,
+    "lng": 9.7630419
+  },
+  {
+    "id": "austria-antenne-vorarlberg-nonstop",
+    "name": "Antenne Vorarlberg Nonstop",
+    "url": "https://edge68.radio.antennevorarlberg.at/av-nonstop?aggregator=radio.garden",
+    "genre": "Music",
+    "city": "Schwarzach",
+    "country": "Austria",
+    "lat": 47.4450945,
+    "lng": 9.7630419
+  },
+  {
+    "id": "austria-jazznet247-radio-europe",
+    "name": "JazzNet247 Radio Europe",
+    "url": "https://das-edge16-live365-dal02.cdnstream.com/a42831",
+    "genre": "Music",
+    "city": "Schwarzach",
+    "country": "Austria",
+    "lat": 47.4450945,
+    "lng": 9.7630419
+  },
+  {
+    "id": "austria-orf-radio-tirol",
+    "name": "ORF Radio Tirol",
+    "url": "https://orf-live.ors-shoutcast.at/tir-q2a",
+    "genre": "Music",
+    "city": "Innsbruck",
+    "country": "Austria",
+    "lat": 47.2654296,
+    "lng": 11.3927685
+  },
+  {
+    "id": "austria-antenne-tirol",
+    "name": "Antenne Tirol",
+    "url": "https://edge65.streamonkey.net/anttirol-live",
+    "genre": "Music",
+    "city": "Innsbruck",
+    "country": "Austria",
+    "lat": 47.2654296,
+    "lng": 11.3927685
+  },
+  {
+    "id": "austria-life-radio-tirol-golden-oldies",
+    "name": "Life Radio Tirol Golden Oldies",
+    "url": "https://liferadio-tirol.streamabc.net/43-goldenoldies-mp3-192-9108968",
+    "genre": "Music",
+    "city": "Innsbruck",
+    "country": "Austria",
+    "lat": 47.2654296,
+    "lng": 11.3927685
+  },
+  {
+    "id": "austria-fake-plastic-radio",
+    "name": "Fake Plastic Radio",
+    "url": "https://s58.radiolize.com/radio/8010/radio.mp3",
+    "genre": "Music",
+    "city": "Innsbruck",
+    "country": "Austria",
+    "lat": 47.2654296,
+    "lng": 11.3927685
+  },
+  {
+    "id": "austria-orf-radio-steiermark",
+    "name": "ORF Radio Steiermark",
+    "url": "https://orf-live.ors-shoutcast.at/stm-q1a",
+    "genre": "Music",
+    "city": "Graz",
+    "country": "Austria",
+    "lat": 47.0708678,
+    "lng": 15.4382786
+  },
+  {
+    "id": "austria-freirad-fm-1059--freies-radio-innsbruck",
+    "name": "Freirad FM 105.9 - Freies Radio Innsbruck",
+    "url": "https://stream.freirad.at/live.mp3",
+    "genre": "Music",
+    "city": "Innsbruck",
+    "country": "Austria",
+    "lat": 47.2654296,
+    "lng": 11.3927685
+  },
+  {
+    "id": "austria-radio-1-celje",
+    "name": "Radio 1 Celje",
+    "url": "http://live3.infonetmedia.si:8000/Radio1CE",
+    "genre": "Music",
+    "city": "Graz",
+    "country": "Austria",
+    "lat": 47.0708678,
+    "lng": 15.4382786
+  },
+  {
+    "id": "austria-njoy-radio-fm-882",
+    "name": "Njoy Radio FM 88.2",
+    "url": "https://live.njoyradio.at/njoy",
+    "genre": "Music",
+    "city": "Graz",
+    "country": "Austria",
+    "lat": 47.0708678,
+    "lng": 15.4382786
+  },
+  {
+    "id": "austria-radio-nula-beatz",
+    "name": "Radio Nula Beatz",
+    "url": "https://strm.radionula.com/lounge",
+    "genre": "Music",
+    "city": "Graz",
+    "country": "Austria",
+    "lat": 47.0708678,
+    "lng": 15.4382786
+  },
+  {
+    "id": "austria-orf-radio-oberösterreich",
+    "name": "ORF Radio Oberösterreich",
+    "url": "https://orf-live.ors-shoutcast.at/ooe-q2a",
+    "genre": "Music",
+    "city": "Linz",
+    "country": "Austria",
+    "lat": 48.3059078,
+    "lng": 14.286198
+  },
+  {
+    "id": "austria-radio-vm1",
+    "name": "Radio VM1",
+    "url": "https://radiovm1.fluidstream.eu/radiovm1.mp3",
+    "genre": "Music",
+    "city": "Innsbruck",
+    "country": "Austria",
+    "lat": 47.2654296,
+    "lng": 11.3927685
+  },
+  {
+    "id": "austria-radio-alpenwelle",
+    "name": "Radio Alpenwelle",
+    "url": "https://live.alpenwelle.de/alpenwelle128.mp3",
+    "genre": "Music",
+    "city": "Innsbruck",
+    "country": "Austria",
+    "lat": 47.2654296,
+    "lng": 11.3927685
+  },
+  {
+    "id": "austria-radio-flamingo",
+    "name": "Radio Flamingo",
+    "url": "https://live.antenne.at/rf",
+    "genre": "Music",
+    "city": "Graz",
+    "country": "Austria",
+    "lat": 47.0708678,
+    "lng": 15.4382786
+  },
+  {
+    "id": "austria-austrian-rock-radio",
+    "name": "Austrian Rock Radio",
+    "url": "https://live.antenne.at/arr",
+    "genre": "Music",
+    "city": "Graz",
+    "country": "Austria",
+    "lat": 47.0708678,
+    "lng": 15.4382786
+  },
+  {
+    "id": "austria-antenne-steiermark",
+    "name": "Antenne Steiermark",
+    "url": "https://live.antenne.at/as?.mp3",
+    "genre": "Music",
+    "city": "Graz",
+    "country": "Austria",
+    "lat": 47.0708678,
+    "lng": 15.4382786
+  },
+  {
+    "id": "austria-radio-gruen-weiss",
+    "name": "Radio Gruen Weiss",
+    "url": "https://ice12.fluidstream.net/rgw.aac",
+    "genre": "Music",
+    "city": "Graz",
+    "country": "Austria",
+    "lat": 47.0708678,
+    "lng": 15.4382786
+  },
+  {
+    "id": "austria-radio-soundportal",
+    "name": "Radio Soundportal",
+    "url": "https://rs8.stream24.net/stream?.mp3",
+    "genre": "Music",
+    "city": "Graz",
+    "country": "Austria",
+    "lat": 47.0708678,
+    "lng": 15.4382786
+  },
+  {
+    "id": "austria-radio-slovenske-gorice-fm-964",
+    "name": "Radio Slovenske Gorice FM 96.4",
+    "url": "https://stream.iradio.pro/proxy/radioslovenskegoric?mp=/stream",
+    "genre": "Music",
+    "city": "Graz",
+    "country": "Austria",
+    "lat": 47.0708678,
+    "lng": 15.4382786
+  },
+  {
+    "id": "austria-styrialounge",
+    "name": "Styrialounge",
+    "url": "https://styrialounge.out.airtime.pro/styrialounge_a",
+    "genre": "Music",
+    "city": "Graz",
+    "country": "Austria",
+    "lat": 47.0708678,
+    "lng": 15.4382786
+  },
+  {
+    "id": "austria-radius-106,6",
+    "name": "Radius 106,6",
+    "url": "http://develop.servus.at:8000/radius",
+    "genre": "Music",
+    "city": "Linz",
+    "country": "Austria",
+    "lat": 48.3059078,
+    "lng": 14.286198
+  },
+  {
+    "id": "austria-welle-1-linz-fm-918",
+    "name": "Welle 1 Linz FM 91.8",
+    "url": "https://live.welle1.at:17128/stream",
+    "genre": "Music",
+    "city": "Linz",
+    "country": "Austria",
+    "lat": 48.3059078,
+    "lng": 14.286198
+  },
+  {
+    "id": "austria-orf-radio-salzburg",
+    "name": "ORF Radio Salzburg",
+    "url": "https://orf-live.ors-shoutcast.at/sbg-q1a",
+    "genre": "Music",
+    "city": "Salzburg",
+    "country": "Austria",
+    "lat": 47.7981346,
+    "lng": 13.0464806
+  },
+  {
+    "id": "austria-madtimes-radio",
+    "name": "MadTimes Radio",
+    "url": "https://madtimesradio.stream.laut.fm/madtimesradio",
+    "genre": "Music",
+    "city": "Schwarzach",
+    "country": "Austria",
+    "lat": 47.4450945,
+    "lng": 9.7630419
+  },
+  {
+    "id": "austria-radio-arabella-oberösterreich",
+    "name": "Radio Arabella Oberösterreich",
+    "url": "https://edge08.streams.arabella.at/arabella-oberoesterreich",
+    "genre": "Music",
+    "city": "Linz",
+    "country": "Austria",
+    "lat": 48.3059078,
+    "lng": 14.286198
+  },
+  {
+    "id": "austria-douala-radio",
+    "name": "Douala-Radio",
+    "url": "https://doualaradio.stream.laut.fm/doualaradio",
+    "genre": "Music",
+    "city": "Schwarzach",
+    "country": "Austria",
+    "lat": 47.4450945,
+    "lng": 9.7630419
+  },
+  {
+    "id": "austria-radio-oberland-fm-1062",
+    "name": "Radio Oberland FM 106.2",
+    "url": "https://radiooberland.stream11.radiohost.de/radiooberland-live_mp3-192?addradio&upd-meta&upd-scheme=https&_art=dD0xNzY5NDE2ODE3JmQ9ZDEyNWI2NWJmMTBlMDdjZDE3Yjc",
+    "genre": "Music",
+    "city": "Innsbruck",
+    "country": "Austria",
+    "lat": 47.2654296,
+    "lng": 11.3927685
+  },
+  {
+    "id": "austria-freies-radio-b138",
+    "name": "Freies Radio B138",
+    "url": "https://73713.streamerr.co:8443/main",
+    "genre": "Music",
+    "city": "Linz",
+    "country": "Austria",
+    "lat": 48.3059078,
+    "lng": 14.286198
+  },
+  {
+    "id": "austria-radio-freequenns-fm-1008",
+    "name": "Radio Freequenns FM 100.8",
+    "url": "https://www.freequenns.at/live",
+    "genre": "Music",
+    "city": "Linz",
+    "country": "Austria",
+    "lat": 48.3059078,
+    "lng": 14.286198
+  },
+  {
+    "id": "austria-radio-u1-tirol",
+    "name": "Radio U1 Tirol",
+    "url": "https://u1-tirol.stream28.radiohost.de/u1-tirol-live_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzY5NDE2ODE3JmQ9MzFkYmUwNGExMDgyMDY4NzQ2OGY",
+    "genre": "Music",
+    "city": "Innsbruck",
+    "country": "Austria",
+    "lat": 47.2654296,
+    "lng": 11.3927685
+  },
+  {
+    "id": "austria-freies-radio-salzkammergut",
+    "name": "Freies Radio Salzkammergut",
+    "url": "https://streaming.xaok.org/frs.mp3",
+    "genre": "Music",
+    "city": "Linz",
+    "country": "Austria",
+    "lat": 48.3059078,
+    "lng": 14.286198
+  },
+  {
+    "id": "austria-antenne-salzburg",
+    "name": "Antenne Salzburg",
+    "url": "https://edge63.streamonkey.net/antsalzburg-live",
+    "genre": "Music",
+    "city": "Salzburg",
+    "country": "Austria",
+    "lat": 47.7981346,
+    "lng": 13.0464806
+  },
+  {
+    "id": "austria-radio-fro-1050",
+    "name": "Radio FRO 105.0",
+    "url": "https://stream.fro.at/fro320.mp3",
+    "genre": "Music",
+    "city": "Linz",
+    "country": "Austria",
+    "lat": 48.3059078,
+    "lng": 14.286198
+  },
+  {
+    "id": "austria-radiofabrik-1075",
+    "name": "Radiofabrik 107.5",
+    "url": "https://stream.radiofabrik.at/rf_low.mp3?.mp3",
+    "genre": "Music",
+    "city": "Salzburg",
+    "country": "Austria",
+    "lat": 47.7981346,
+    "lng": 13.0464806
+  },
+  {
+    "id": "austria-orf-radio-kärnten-fm-978",
+    "name": "ORF Radio Kärnten FM 97.8",
+    "url": "https://orf-live.ors-shoutcast.at/ktn-q2a",
+    "genre": "Music",
+    "city": "Klagenfurt",
+    "country": "Austria",
+    "lat": 46.623943,
+    "lng": 14.3075976
+  },
+  {
+    "id": "austria-museumsradio-1476",
+    "name": "Museumsradio 1476",
+    "url": "https://museum.streamserver24.com:8080/stream",
+    "genre": "Music",
+    "city": "Salzburg",
+    "country": "Austria",
+    "lat": 47.7981346,
+    "lng": 13.0464806
+  },
+  {
+    "id": "austria-balkan-radio-salzburg",
+    "name": "Balkan Radio Salzburg",
+    "url": "https://cast.balkanradiosalzburg.com/sc/balkanradiosalzburg/stream/;type=mp3",
+    "genre": "Music",
+    "city": "Salzburg",
+    "country": "Austria",
+    "lat": 47.7981346,
+    "lng": 13.0464806
+  },
+  {
+    "id": "austria-welle-1-salzburg",
+    "name": "Welle 1 Salzburg",
+    "url": "https://live.welle1.at:18128/live",
+    "genre": "Music",
+    "city": "Salzburg",
+    "country": "Austria",
+    "lat": 47.7981346,
+    "lng": 13.0464806
+  },
+  {
+    "id": "austria-radio-inn-salzach-welle-isw",
+    "name": "Radio Inn-Salzach-Welle (ISW)",
+    "url": "https://radioisw.icecaststream.de/stream/radioisw",
+    "genre": "Music",
+    "city": "Salzburg",
+    "country": "Austria",
+    "lat": 47.7981346,
+    "lng": 13.0464806
+  },
+  {
+    "id": "austria-radio-hit-si",
+    "name": "Radio Hit si",
+    "url": "http://stream03.exit.si:8000/radiohit?.mp3",
+    "genre": "Music",
+    "city": "Klagenfurt",
+    "country": "Austria",
+    "lat": 46.623943,
+    "lng": 14.3075976
+  },
+  {
+    "id": "austria-energy-salzburg",
+    "name": "Energy Salzburg",
+    "url": "https://streaming.nrjaudio.fm/ou62c3xp336f",
+    "genre": "Music",
+    "city": "Salzburg",
+    "country": "Austria",
+    "lat": 47.7981346,
+    "lng": 13.0464806
+  },
+  {
+    "id": "austria-radio-agora",
+    "name": "Radio Agora",
+    "url": "https://livestream.agora.at/agora",
+    "genre": "Music",
+    "city": "Klagenfurt",
+    "country": "Austria",
+    "lat": 46.623943,
+    "lng": 14.3075976
+  },
+  {
+    "id": "austria-antenne-kärnten",
+    "name": "Antenne Kärnten",
+    "url": "https://live.antenne.at/ak",
+    "genre": "Music",
+    "city": "Klagenfurt",
+    "country": "Austria",
+    "lat": 46.623943,
+    "lng": 14.3075976
+  },
+  {
+    "id": "austria-orf-radio-niederösterreich",
+    "name": "ORF Radio Niederösterreich",
+    "url": "https://orf-live.ors-shoutcast.at/noe-q1a",
+    "genre": "Music",
+    "city": "Saint Pölten",
+    "country": "Austria",
+    "lat": 48.204543,
+    "lng": 15.6307976
+  },
+  {
+    "id": "austria-radio-jodlerwirt-der-volksmusiksender",
+    "name": "Radio Jodlerwirt der Volksmusiksender",
+    "url": "https://radio-jodlerwirt.stream.laut.fm/radio-jodlerwirt?t302=2026-01-26_08-35-13&uuid=c7b52761-7d63-4102-88f7-19262913a94f",
+    "genre": "Music",
+    "city": "Innsbruck",
+    "country": "Austria",
+    "lat": 47.2654296,
+    "lng": 11.3927685
+  },
+  {
+    "id": "austria-life-radio",
+    "name": "Life Radio",
+    "url": "https://liferadio.streamabc.net/lfr-lr-mp3-192-7172638?sABC=69772748%230%23nqoro4np7ns3rrpo06s1o0rn3s261pss%23fgernz.yvsrenqvb.ng&aw_0_1st.playerid=stream.liferadio.at&amsparams=playerid:stream.liferadio.at;skey:1769416520",
+    "genre": "Music",
+    "city": "Linz",
+    "country": "Austria",
+    "lat": 48.3059078,
+    "lng": 14.286198
+  },
+  {
+    "id": "austria-radio-triglav",
+    "name": "Radio Triglav",
+    "url": "https://live.radio.si/Triglav",
+    "genre": "Music",
+    "city": "Klagenfurt",
+    "country": "Austria",
+    "lat": 46.623943,
+    "lng": 14.3075976
+  },
+  {
+    "id": "austria-radio-arabella-niederösterreich",
+    "name": "Radio Arabella Niederösterreich",
+    "url": "https://edge08.streams.arabella.at/arabella-niederoesterreich",
+    "genre": "Music",
+    "city": "Saint Pölten",
+    "country": "Austria",
+    "lat": 48.204543,
+    "lng": 15.6307976
+  },
+  {
+    "id": "austria-primorski-val",
+    "name": "Primorski val",
+    "url": "https://altair.streamerr.co/stream/primorskival",
+    "genre": "Music",
+    "city": "Klagenfurt",
+    "country": "Austria",
+    "lat": 46.623943,
+    "lng": 14.3075976
+  },
+  {
+    "id": "austria-ö2-radio-vorarlberg",
+    "name": "Ö2 Radio Vorarlberg",
+    "url": "https://orf-live.ors-shoutcast.at/vbg-q1a",
+    "genre": "Music",
+    "city": "Bregenz",
+    "country": "Austria",
+    "lat": 47.5025779,
+    "lng": 9.7472924
+  },
+  {
+    "id": "austria-radio-tausia",
+    "name": "Radio Tausia",
+    "url": "https://sr11.inmystream.it/proxy/radiotausia?mp=/stream",
+    "genre": "Music",
+    "city": "Villach",
+    "country": "Austria",
+    "lat": 46.6167284,
+    "lng": 13.8500268
+  },
+  {
+    "id": "austria-stadtradio-krems-1067-fm",
+    "name": "Stadtradio Krems 106.7 FM",
+    "url": "https://stream.musikwelle.com:8000/live",
+    "genre": "Music",
+    "city": "Krems an der Donau",
+    "country": "Austria",
+    "lat": 48.4108382,
+    "lng": 15.6003717
+  },
+  {
+    "id": "austria-radio-uno-kärnten",
+    "name": "Radio Uno Kärnten",
+    "url": "https://radiouno.stream24.net/live.mp3",
+    "genre": "Music",
+    "city": "Klagenfurt",
+    "country": "Austria",
+    "lat": 46.623943,
+    "lng": 14.3075976
+  },
+  {
+    "id": "austria-life-radio-tirol-rock",
+    "name": "Life Radio Tirol Rock",
+    "url": "https://liferadio-tirol.streamabc.net/43-rock-mp3-192-9650140",
+    "genre": "Music",
+    "city": "Wörgl",
+    "country": "Austria",
+    "lat": 47.4872718,
+    "lng": 12.0637633
+  },
+  {
+    "id": "austria-radio-alpina",
+    "name": "Radio Alpina",
+    "url": "https://vjr.fluidstream.eu/vjr.aac",
+    "genre": "Music",
+    "city": "Salzburg",
+    "country": "Austria",
+    "lat": 47.7981346,
+    "lng": 13.0464806
+  },
+  {
+    "id": "austria-rtv-unirea",
+    "name": "RTV Unirea",
+    "url": "https://s1.bcmsol.ro/8002/stream",
+    "genre": "Music",
+    "city": "Wiener Neustadt",
+    "country": "Austria",
+    "lat": 47.8131847,
+    "lng": 16.2441166
+  },
+  {
+    "id": "austria-antenne-vorarlberg-christkindl-radio",
+    "name": "Antenne Vorarlberg Christkindl Radio",
+    "url": "https://edge82.radio.antennevorarlberg.at/av-christkindl?aggregator=radio.garden",
+    "genre": "Music",
+    "city": "Bregenz",
+    "country": "Austria",
+    "lat": 47.5025779,
+    "lng": 9.7472924
+  },
+  {
+    "id": "austria-alpinfm",
+    "name": "AlpinFM",
+    "url": "https://s16.myradiostream.com:6390/stream/3/listen.mp3",
+    "genre": "Music",
+    "city": "Wörgl",
+    "country": "Austria",
+    "lat": 47.4872718,
+    "lng": 12.0637633
+  },
+  {
+    "id": "austria-radio-himmelberg",
+    "name": "Radio Himmelberg",
+    "url": "https://radio-himmelberg.stream.laut.fm/radio-himmelberg",
+    "genre": "Music",
+    "city": "Klagenfurt",
+    "country": "Austria",
+    "lat": 46.623943,
+    "lng": 14.3075976
+  },
+  {
+    "id": "austria-woerglfm",
+    "name": "woergl.FM",
+    "url": "https://s5.radio.co/s7f3fe408d/listen",
+    "genre": "Music",
+    "city": "Wörgl",
+    "country": "Austria",
+    "lat": 47.4872718,
+    "lng": 12.0637633
+  },
+  {
+    "id": "austria-kärntenlive",
+    "name": "KärntenLive",
+    "url": "https://r-west.stream.laut.fm/r-west",
+    "genre": "Music",
+    "city": "Klagenfurt",
+    "country": "Austria",
+    "lat": 46.623943,
+    "lng": 14.3075976
+  },
+  {
+    "id": "austria-wel-1055",
+    "name": "WEL 105.5",
+    "url": "https://wel105point5.stream.laut.fm/wel105point5",
+    "genre": "Music",
+    "city": "Villach",
+    "country": "Austria",
+    "lat": 46.6167284,
+    "lng": 13.8500268
+  },
+  {
+    "id": "austria-anechoic-chamber-music",
+    "name": "Anechoic Chamber Music",
+    "url": "https://anechoicchambermusic.stream.laut.fm/anechoic_chamber_music",
+    "genre": "Music",
+    "city": "Bad Ischl",
+    "country": "Austria",
+    "lat": 47.7115299,
+    "lng": 13.6239333
+  },
+  {
+    "id": "austria-alpenradio",
+    "name": "Alpenradio",
+    "url": "https://alpenradio-volksmusik.stream.laut.fm/alpenradio-volksmusik",
+    "genre": "Music",
+    "city": "Saalfelden",
+    "country": "Austria",
+    "lat": 47.4266166,
+    "lng": 12.8481048
+  },
+  {
+    "id": "austria-4400ironcity",
+    "name": "4400.ironcity",
+    "url": "https://4400-ironcity.stream.laut.fm/4400-ironcity?t302=2026-01-26_08-35-22&uuid=6052232f-4f11-4e95-9529-6f94e3ae1c8e",
+    "genre": "Music",
+    "city": "Steyr",
+    "country": "Austria",
+    "lat": 48.0390046,
+    "lng": 14.4191276
+  }
+]

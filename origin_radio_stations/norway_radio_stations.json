@@ -1,0 +1,852 @@
+[
+  {
+    "id": "norway-radio-wataha",
+    "name": "Radio Wataha",
+    "url": "http://51.255.8.139:8242/stream",
+    "genre": "Music",
+    "city": "Oslo",
+    "country": "Norway",
+    "lat": 59.9133301,
+    "lng": 10.7389701
+  },
+  {
+    "id": "norway-radio-tønsberg-fm-1028",
+    "name": "Radio Tønsberg FM 102.8",
+    "url": "https://audio.radiotonsberg.no/tonsberg_hq",
+    "genre": "Music",
+    "city": "Oslo",
+    "country": "Norway",
+    "lat": 59.9133301,
+    "lng": 10.7389701
+  },
+  {
+    "id": "norway-lovsangsradion",
+    "name": "Lovsangsradion",
+    "url": "https://studio20.radiolize.com/radio/8020/radio.mp3",
+    "genre": "Music",
+    "city": "Oslo",
+    "country": "Norway",
+    "lat": 59.9133301,
+    "lng": 10.7389701
+  },
+  {
+    "id": "norway-silkeveien-radio",
+    "name": "Silkeveien Radio",
+    "url": "http://n08.radiojar.com/2arcr5qmb?rj-ttl=5&rj-tok=AAABm_nHDdUAMsNLsp5PQ-SF2w",
+    "genre": "Music",
+    "city": "Oslo",
+    "country": "Norway",
+    "lat": 59.9133301,
+    "lng": 10.7389701
+  },
+  {
+    "id": "norway-p6-rock",
+    "name": "P6 Rock",
+    "url": "https://p6.p4groupaudio.com/P06_MH",
+    "genre": "Music",
+    "city": "Oslo",
+    "country": "Norway",
+    "lat": 59.9133301,
+    "lng": 10.7389701
+  },
+  {
+    "id": "norway-p10-country",
+    "name": "P10 Country",
+    "url": "https://p10.p4groupaudio.com/P10_MH",
+    "genre": "Music",
+    "city": "Oslo",
+    "country": "Norway",
+    "lat": 59.9133301,
+    "lng": 10.7389701
+  },
+  {
+    "id": "norway-p11-dance",
+    "name": "P11 Dance",
+    "url": "https://p11.p4groupaudio.com/P11_AH",
+    "genre": "Music",
+    "city": "Oslo",
+    "country": "Norway",
+    "lat": 59.9133301,
+    "lng": 10.7389701
+  },
+  {
+    "id": "norway-p8-pop-80s-90s",
+    "name": "P8 Pop 80s & 90s",
+    "url": "https://p8.p4groupaudio.com/P08_MM",
+    "genre": "Music",
+    "city": "Oslo",
+    "country": "Norway",
+    "lat": 59.9133301,
+    "lng": 10.7389701
+  },
+  {
+    "id": "norway-p9-retro",
+    "name": "P9 Retro",
+    "url": "https://p9.p4groupaudio.com/P09_MH",
+    "genre": "Music",
+    "city": "Oslo",
+    "country": "Norway",
+    "lat": 59.9133301,
+    "lng": 10.7389701
+  },
+  {
+    "id": "norway-p7-klem",
+    "name": "P7 Klem",
+    "url": "https://p7.p4groupaudio.com/P07_MH",
+    "genre": "Music",
+    "city": "Oslo",
+    "country": "Norway",
+    "lat": 59.9133301,
+    "lng": 10.7389701
+  },
+  {
+    "id": "norway-hamarradioen",
+    "name": "Hamarradioen",
+    "url": "https://lyd.radioene.no/hamar.mp3",
+    "genre": "Music",
+    "city": "Oslo",
+    "country": "Norway",
+    "lat": 59.9133301,
+    "lng": 10.7389701
+  },
+  {
+    "id": "norway-p5-hits",
+    "name": "P5 Hits",
+    "url": "https://p5.p4groupaudio.com/P05_MM",
+    "genre": "Music",
+    "city": "Oslo",
+    "country": "Norway",
+    "lat": 59.9133301,
+    "lng": 10.7389701
+  },
+  {
+    "id": "norway-radio-nano",
+    "name": "Radio Nano",
+    "url": "https://s2.yesstreaming.net:7157/stream/",
+    "genre": "Music",
+    "city": "Oslo",
+    "country": "Norway",
+    "lat": 59.9133301,
+    "lng": 10.7389701
+  },
+  {
+    "id": "norway-p4-lyden-av-norge",
+    "name": "P4 Lyden av Norge",
+    "url": "https://p4.p4groupaudio.com/P04_MH",
+    "genre": "Music",
+    "city": "Oslo",
+    "country": "Norway",
+    "lat": 59.9133301,
+    "lng": 10.7389701
+  },
+  {
+    "id": "norway-historyradioorg",
+    "name": "Historyradio.org",
+    "url": "http://n04.radiojar.com/6bmecgg3wd5tv?rj-ttl=5&rj-tok=AAABm_nHE1QAbT5wETbK2a6pPw",
+    "genre": "Music",
+    "city": "Tromsø",
+    "country": "Norway",
+    "lat": 69.6516345,
+    "lng": 18.9558585
+  },
+  {
+    "id": "norway-the-beat",
+    "name": "The Beat",
+    "url": "https://live-nors.sharp-stream.com/nors17.mp3",
+    "genre": "Music",
+    "city": "Oslo",
+    "country": "Norway",
+    "lat": 59.9133301,
+    "lng": 10.7389701
+  },
+  {
+    "id": "norway-1fm-jazz",
+    "name": "1FM Jazz",
+    "url": "https://lyd.1fm.no/1fmjazz_hq",
+    "genre": "Music",
+    "city": "Molde",
+    "country": "Norway",
+    "lat": 62.6016257,
+    "lng": 8.1386208
+  },
+  {
+    "id": "norway-1fm-gull",
+    "name": "1FM Gull",
+    "url": "https://lyd.1fm.no/1fmgull_hq",
+    "genre": "Music",
+    "city": "Molde",
+    "country": "Norway",
+    "lat": 62.6016257,
+    "lng": 8.1386208
+  },
+  {
+    "id": "norway-1fm-rock",
+    "name": "1FM Rock",
+    "url": "https://lyd.1fm.no/1fmrock_hq",
+    "genre": "Music",
+    "city": "Molde",
+    "country": "Norway",
+    "lat": 62.6016257,
+    "lng": 8.1386208
+  },
+  {
+    "id": "norway-radio-bø",
+    "name": "Radio Bø",
+    "url": "https://nettradio.radiobo.com/radiobo-high",
+    "genre": "Music",
+    "city": "Tromsø",
+    "country": "Norway",
+    "lat": 69.6516345,
+    "lng": 18.9558585
+  },
+  {
+    "id": "norway-nrk-p3",
+    "name": "NRK P3",
+    "url": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p3_mp3_h",
+    "genre": "Music",
+    "city": "Oslo",
+    "country": "Norway",
+    "lat": 59.9133301,
+    "lng": 10.7389701
+  },
+  {
+    "id": "norway-radio-tromsø",
+    "name": "Radio Tromsø",
+    "url": "https://stream.bardufoss.no/radiotromso",
+    "genre": "Music",
+    "city": "Tromsø",
+    "country": "Norway",
+    "lat": 69.6516345,
+    "lng": 18.9558585
+  },
+  {
+    "id": "norway-radio-bardufoss",
+    "name": "Radio Bardufoss",
+    "url": "https://stream.bardufoss.no/radiobardufoss128",
+    "genre": "Music",
+    "city": "Tromsø",
+    "country": "Norway",
+    "lat": 69.6516345,
+    "lng": 18.9558585
+  },
+  {
+    "id": "norway-3fm-norge",
+    "name": "3FM Norge",
+    "url": "https://uk6.internet-radio.com/proxy/3fmnorge/stream",
+    "genre": "Music",
+    "city": "Tromsø",
+    "country": "Norway",
+    "lat": 69.6516345,
+    "lng": 18.9558585
+  },
+  {
+    "id": "norway-rt-hits-fm-944",
+    "name": "RT Hits FM 94.4",
+    "url": "https://stream.bardufoss.no/rthits128",
+    "genre": "Music",
+    "city": "Tromsø",
+    "country": "Norway",
+    "lat": 69.6516345,
+    "lng": 18.9558585
+  },
+  {
+    "id": "norway-nrk-p1-finnmark",
+    "name": "NRK P1 Finnmark",
+    "url": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk2_mp3_h",
+    "genre": "Music",
+    "city": "Oslo",
+    "country": "Norway",
+    "lat": 59.9133301,
+    "lng": 10.7389701
+  },
+  {
+    "id": "norway-nrk-p1-østfold",
+    "name": "NRK P1 Østfold",
+    "url": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk15_mp3_h",
+    "genre": "Music",
+    "city": "Oslo",
+    "country": "Norway",
+    "lat": 59.9133301,
+    "lng": 10.7389701
+  },
+  {
+    "id": "norway-radio-hallingdal",
+    "name": "Radio Hallingdal",
+    "url": "http://audio.visto.no/radiohallingdal",
+    "genre": "Music",
+    "city": "Molde",
+    "country": "Norway",
+    "lat": 62.6016257,
+    "lng": 8.1386208
+  },
+  {
+    "id": "norway-nrk-alltid-nyheter",
+    "name": "NRK Alltid Nyheter",
+    "url": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/nyheter_mp3_h",
+    "genre": "Music",
+    "city": "Oslo",
+    "country": "Norway",
+    "lat": 59.9133301,
+    "lng": 10.7389701
+  },
+  {
+    "id": "norway-ksu-247",
+    "name": "KSU 24/7",
+    "url": "https://utmothavet.ksu247.no/192",
+    "genre": "Music",
+    "city": "Molde",
+    "country": "Norway",
+    "lat": 62.6016257,
+    "lng": 8.1386208
+  },
+  {
+    "id": "norway-radio-northern-star",
+    "name": "Radio Northern Star",
+    "url": "http://5866.cloudrad.io:8018/northernstar.mp3",
+    "genre": "Music",
+    "city": "Bergen",
+    "country": "Norway",
+    "lat": 60.3943055,
+    "lng": 5.3259192
+  },
+  {
+    "id": "norway-nrk-p1-troms",
+    "name": "NRK P1 Troms",
+    "url": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk3_mp3_h",
+    "genre": "Music",
+    "city": "Tromsø",
+    "country": "Norway",
+    "lat": 69.6516345,
+    "lng": 18.9558585
+  },
+  {
+    "id": "norway-the-sea",
+    "name": "The Sea",
+    "url": "http://12881.cloudrad.io:9406/thesea",
+    "genre": "Music",
+    "city": "Bergen",
+    "country": "Norway",
+    "lat": 60.3943055,
+    "lng": 5.3259192
+  },
+  {
+    "id": "norway-thean-tamil-osai",
+    "name": "Thean Tamil Osai",
+    "url": "http://centova71.instainternet.com:9100/stream/",
+    "genre": "Music",
+    "city": "Bergen",
+    "country": "Norway",
+    "lat": 60.3943055,
+    "lng": 5.3259192
+  },
+  {
+    "id": "norway-vers-libre",
+    "name": "Vers Libre",
+    "url": "https://vers-libre.radiocult.fm/stream",
+    "genre": "Music",
+    "city": "Bergen",
+    "country": "Norway",
+    "lat": 60.3943055,
+    "lng": 5.3259192
+  },
+  {
+    "id": "norway-1fm",
+    "name": "1FM",
+    "url": "https://s2.radio.co/s914ffa700/listen",
+    "genre": "Music",
+    "city": "Molde",
+    "country": "Norway",
+    "lat": 62.6016257,
+    "lng": 8.1386208
+  },
+  {
+    "id": "norway-radio-sandnes",
+    "name": "Radio Sandnes",
+    "url": "https://audio.jaerradiogruppen.no/sandnes_hq",
+    "genre": "Music",
+    "city": "Bergen",
+    "country": "Norway",
+    "lat": 60.3943055,
+    "lng": 5.3259192
+  },
+  {
+    "id": "norway-jærradioen-fm-1035",
+    "name": "JærRadioen FM 103.5",
+    "url": "https://audio.jaerradiogruppen.no/jaerradioen_hq",
+    "genre": "Music",
+    "city": "Sandnes",
+    "country": "Norway",
+    "lat": 58.983132,
+    "lng": 6.394641
+  },
+  {
+    "id": "norway-radio-stryn",
+    "name": "Radio Stryn",
+    "url": "https://lyd.radiostryn.no/stryn_hq",
+    "genre": "Music",
+    "city": "Molde",
+    "country": "Norway",
+    "lat": 62.6016257,
+    "lng": 8.1386208
+  },
+  {
+    "id": "norway-askøy-radioo-fm-1071",
+    "name": "Askøy Radioo FM 107.1",
+    "url": "https://radioaskoy.radioca.st/sender",
+    "genre": "Music",
+    "city": "Bergen",
+    "country": "Norway",
+    "lat": 60.3943055,
+    "lng": 5.3259192
+  },
+  {
+    "id": "norway-radio-folgefonn-hovedkanal",
+    "name": "Radio Folgefonn Hovedkanal",
+    "url": "https://lyd.radiofolgefonn.no/folgefonn_hq",
+    "genre": "Music",
+    "city": "Bergen",
+    "country": "Norway",
+    "lat": 60.3943055,
+    "lng": 5.3259192
+  },
+  {
+    "id": "norway-nrk-p1-møre-og-romsdal",
+    "name": "NRK P1 Møre og Romsdal",
+    "url": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk6_mp3_h",
+    "genre": "Music",
+    "city": "Molde",
+    "country": "Norway",
+    "lat": 62.6016257,
+    "lng": 8.1386208
+  },
+  {
+    "id": "norway-nrk-p1-nordland",
+    "name": "NRK P1 Nordland",
+    "url": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk4_mp3_h",
+    "genre": "Music",
+    "city": "Tromsø",
+    "country": "Norway",
+    "lat": 69.6516345,
+    "lng": 18.9558585
+  },
+  {
+    "id": "norway-rad102",
+    "name": "RAD102",
+    "url": "https://stream.radio102.no/radio102_hq",
+    "genre": "Music",
+    "city": "Bergen",
+    "country": "Norway",
+    "lat": 60.3943055,
+    "lng": 5.3259192
+  },
+  {
+    "id": "norway-radio-ålesund-fm-1045",
+    "name": "Radio Ålesund FM 104.5",
+    "url": "https://audio.jaerradiogruppen.no/aalesund_hq",
+    "genre": "Music",
+    "city": "Ålesund",
+    "country": "Norway",
+    "lat": 62.4802363,
+    "lng": 6.5550739
+  },
+  {
+    "id": "norway-nrk-p1-sogn-og-fjordane",
+    "name": "NRK P1 Sogn og Fjordane",
+    "url": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk7_aac_h",
+    "genre": "Music",
+    "city": "Molde",
+    "country": "Norway",
+    "lat": 62.6016257,
+    "lng": 8.1386208
+  },
+  {
+    "id": "norway-radio-haugaland",
+    "name": "Radio Haugaland",
+    "url": "https://stream.theradiohub.com/?server=radioip.no&port=8000&type=mp3&mount=stream/1/;",
+    "genre": "Music",
+    "city": "Sandnes",
+    "country": "Norway",
+    "lat": 58.983132,
+    "lng": 6.394641
+  },
+  {
+    "id": "norway-radio-kos",
+    "name": "Radio Kos",
+    "url": "https://lyd1.lokalradio.no/kos_hq",
+    "genre": "Music",
+    "city": "Sandnes",
+    "country": "Norway",
+    "lat": 58.983132,
+    "lng": 6.394641
+  },
+  {
+    "id": "norway-radio-lyngdal",
+    "name": "Radio Lyngdal",
+    "url": "https://live.radiolyngdal.com/rly_hq",
+    "genre": "Music",
+    "city": "Sandnes",
+    "country": "Norway",
+    "lat": 58.983132,
+    "lng": 6.394641
+  },
+  {
+    "id": "norway-p7-kristen-pop",
+    "name": "P7 Kristen Pop",
+    "url": "https://radio.p7.no/radio/8000/kristen_pop",
+    "genre": "Music",
+    "city": "Ålesund",
+    "country": "Norway",
+    "lat": 62.4802363,
+    "lng": 6.5550739
+  },
+  {
+    "id": "norway-radio-sunnmøre",
+    "name": "Radio Sunnmøre",
+    "url": "https://ipradio.no/RS",
+    "genre": "Music",
+    "city": "Ålesund",
+    "country": "Norway",
+    "lat": 62.4802363,
+    "lng": 6.5550739
+  },
+  {
+    "id": "norway-guovdageainnu-lagasradio",
+    "name": "Guovdageainnu Lagasradio",
+    "url": "https://streaming.radio.co/s5b773f8d3/listen",
+    "genre": "Music",
+    "city": "Tromsø",
+    "country": "Norway",
+    "lat": 69.6516345,
+    "lng": 18.9558585
+  },
+  {
+    "id": "norway-nrk-p1-hordaland",
+    "name": "NRK P1 Hordaland",
+    "url": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk8_mp3_h",
+    "genre": "Music",
+    "city": "Bergen",
+    "country": "Norway",
+    "lat": 60.3943055,
+    "lng": 5.3259192
+  },
+  {
+    "id": "norway-radio-rana",
+    "name": "Radio Rana",
+    "url": "https://lyttradio.no/live.mp3",
+    "genre": "Music",
+    "city": "Bodø",
+    "country": "Norway",
+    "lat": 67.2844313,
+    "lng": 14.3817503
+  },
+  {
+    "id": "norway-fm-8000-bodø",
+    "name": "FM 8000 Bodø",
+    "url": "https://stream.theradiohub.com/8000/hq",
+    "genre": "Music",
+    "city": "Bodø",
+    "country": "Norway",
+    "lat": 67.2844313,
+    "lng": 14.3817503
+  },
+  {
+    "id": "norway-radio-tordenskrall",
+    "name": "Radio Tordenskrall",
+    "url": "https://halo.streamerr.co/listen/tordenskrall/radio.mp3",
+    "genre": "Music",
+    "city": "Bodø",
+    "country": "Norway",
+    "lat": 67.2844313,
+    "lng": 14.3817503
+  },
+  {
+    "id": "norway-the-ferry",
+    "name": "The Ferry",
+    "url": "http://6471.cloudrad.io:8178/theferry.mp3",
+    "genre": "Music",
+    "city": "Straume",
+    "country": "Norway",
+    "lat": 68.676562,
+    "lng": 14.4476528
+  },
+  {
+    "id": "norway-radio-3-bodø-fm-1049",
+    "name": "Radio 3 Bodø FM 104.9",
+    "url": "https://stream.radio3.no/Radio3Bodo128",
+    "genre": "Music",
+    "city": "Bodø",
+    "country": "Norway",
+    "lat": 67.2844313,
+    "lng": 14.3817503
+  },
+  {
+    "id": "norway-gudbrandsdalsradioen",
+    "name": "Gudbrandsdalsradioen",
+    "url": "https://lyd.radioene.no/gdal.mp3",
+    "genre": "Music",
+    "city": "Lillehammer",
+    "country": "Norway",
+    "lat": 61.1333408,
+    "lng": 10.4265855
+  },
+  {
+    "id": "norway-p7-kristen-riksradio",
+    "name": "P7 Kristen Riksradio",
+    "url": "https://radio.p7.no/radio/8020/kristen_riksradio",
+    "genre": "Music",
+    "city": "Straume",
+    "country": "Norway",
+    "lat": 68.676562,
+    "lng": 14.4476528
+  },
+  {
+    "id": "norway-radio-randsfjord",
+    "name": "Radio Randsfjord",
+    "url": "https://stream.radiorandsfjord.no/randsfjord_hq",
+    "genre": "Music",
+    "city": "Lillehammer",
+    "country": "Norway",
+    "lat": 61.1333408,
+    "lng": 10.4265855
+  },
+  {
+    "id": "norway-scansat",
+    "name": "Scansat",
+    "url": "http://67.211.209.45:3041/dans192",
+    "genre": "Music",
+    "city": "Stavanger",
+    "country": "Norway",
+    "lat": 58.9699675,
+    "lng": 5.7318101
+  },
+  {
+    "id": "norway-radio-limfjord",
+    "name": "Radio Limfjord",
+    "url": "https://media.limfjordnetradio.dk/limfjord128",
+    "genre": "Music",
+    "city": "Kristiansand",
+    "country": "Norway",
+    "lat": 58.0856276,
+    "lng": 7.931858
+  },
+  {
+    "id": "norway-radio-sotra-fm-1009",
+    "name": "Radio Sotra FM 100.9",
+    "url": "https://streaming.radiosotra.no:8443/radiosotra",
+    "genre": "Music",
+    "city": "Straume",
+    "country": "Norway",
+    "lat": 68.676562,
+    "lng": 14.4476528
+  },
+  {
+    "id": "norway-rehoboth-fm-1072",
+    "name": "Rehoboth FM 107.2",
+    "url": "https://audio.rehoboth.no/rehoboth_mq",
+    "genre": "Music",
+    "city": "Stavanger",
+    "country": "Norway",
+    "lat": 58.9699675,
+    "lng": 5.7318101
+  },
+  {
+    "id": "norway-radio-skive",
+    "name": "Radio Skive",
+    "url": "https://radioserver.dk/skive",
+    "genre": "Music",
+    "city": "Kristiansand",
+    "country": "Norway",
+    "lat": 58.0856276,
+    "lng": 7.931858
+  },
+  {
+    "id": "norway-classic-fm-struer",
+    "name": "Classic FM Struer",
+    "url": "https://webradio.classicfm.dk/classic",
+    "genre": "Music",
+    "city": "Kristiansand",
+    "country": "Norway",
+    "lat": 58.0856276,
+    "lng": 7.931858
+  },
+  {
+    "id": "norway-radio-l--lillesand",
+    "name": "Radio L - Lillesand",
+    "url": "https://stream.radio-l.no/rlihq",
+    "genre": "Music",
+    "city": "Kristiansand",
+    "country": "Norway",
+    "lat": 58.0856276,
+    "lng": 7.931858
+  },
+  {
+    "id": "norway-sr-p4-jämtland",
+    "name": "SR P4 Jämtland",
+    "url": "https://edge2.sr.se/p4jmtl-aac-320",
+    "genre": "Music",
+    "city": "Bodø",
+    "country": "Norway",
+    "lat": 67.2844313,
+    "lng": 14.3817503
+  },
+  {
+    "id": "norway-radio-nord",
+    "name": "Radio Nord",
+    "url": "https://netradio.radionord.dk:8443/RadioNord",
+    "genre": "Music",
+    "city": "Kristiansand",
+    "country": "Norway",
+    "lat": 58.0856276,
+    "lng": 7.931858
+  },
+  {
+    "id": "norway-nea-radio",
+    "name": "Nea Radio",
+    "url": "http://nettradio.nearadio.no:8000/stream",
+    "genre": "Music",
+    "city": "Trondheim",
+    "country": "Norway",
+    "lat": 63.4304475,
+    "lng": 10.3952118
+  },
+  {
+    "id": "norway-nrk-p1-hedmark-og-oppland",
+    "name": "NRK P1 Hedmark og Oppland",
+    "url": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk14_mp3_h",
+    "genre": "Music",
+    "city": "Lillehammer",
+    "country": "Norway",
+    "lat": 61.1333408,
+    "lng": 10.4265855
+  },
+  {
+    "id": "norway-nrk-p1-buskerud",
+    "name": "NRK P1 Buskerud",
+    "url": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk13_mp3_h",
+    "genre": "Music",
+    "city": "Lillehammer",
+    "country": "Norway",
+    "lat": 61.1333408,
+    "lng": 10.4265855
+  },
+  {
+    "id": "norway-nrk-klassisk",
+    "name": "NRK Klassisk",
+    "url": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/klassisk_aac_h",
+    "genre": "Music",
+    "city": "Lillehammer",
+    "country": "Norway",
+    "lat": 61.1333408,
+    "lng": 10.4265855
+  },
+  {
+    "id": "norway-radio-grenland-fm",
+    "name": "Radio Grenland FM",
+    "url": "https://audio.radiogrenland.no/grenland_hq",
+    "genre": "Music",
+    "city": "Skien",
+    "country": "Norway",
+    "lat": 59.2662883,
+    "lng": 9.5311354
+  },
+  {
+    "id": "norway-nrk-p1-sørlandet",
+    "name": "NRK P1 Sørlandet",
+    "url": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk10_aac_h",
+    "genre": "Music",
+    "city": "Kristiansand",
+    "country": "Norway",
+    "lat": 58.0856276,
+    "lng": 7.931858
+  },
+  {
+    "id": "norway-radio-trøndelag",
+    "name": "Radio Trøndelag",
+    "url": "http://nettradio.radiotrondelag.no:8000/radio_trondelag",
+    "genre": "Music",
+    "city": "Trondheim",
+    "country": "Norway",
+    "lat": 63.4304475,
+    "lng": 10.3952118
+  },
+  {
+    "id": "norway-radio-laagendalen",
+    "name": "Radio Laagendalen",
+    "url": "https://radiolarvik.radioca.st/stream?ver=446721",
+    "genre": "Music",
+    "city": "Skien",
+    "country": "Norway",
+    "lat": 59.2662883,
+    "lng": 9.5311354
+  },
+  {
+    "id": "norway-nrk-mp3",
+    "name": "NRK mP3",
+    "url": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/mp3_mp3_h",
+    "genre": "Music",
+    "city": "Trondheim",
+    "country": "Norway",
+    "lat": 63.4304475,
+    "lng": 10.3952118
+  },
+  {
+    "id": "norway-duen-radio",
+    "name": "Duen Radio",
+    "url": "https://streams.radio.co/s07e510a23/listen",
+    "genre": "Music",
+    "city": "Stavanger",
+    "country": "Norway",
+    "lat": 58.9699675,
+    "lng": 5.7318101
+  },
+  {
+    "id": "norway-solradioen",
+    "name": "Solradioen",
+    "url": "https://streaming.solradioen.com/ch2",
+    "genre": "Music",
+    "city": "Halden",
+    "country": "Norway",
+    "lat": 59.0680555,
+    "lng": 11.537191
+  },
+  {
+    "id": "norway-nrk-p1-trøndelag",
+    "name": "NRK P1 Trøndelag",
+    "url": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk5_aac_h",
+    "genre": "Music",
+    "city": "Trondheim",
+    "country": "Norway",
+    "lat": 63.4304475,
+    "lng": 10.3952118
+  },
+  {
+    "id": "norway-nrk-folkemusikk",
+    "name": "NRK Folkemusikk",
+    "url": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/folkemusikk_mp3_h",
+    "genre": "Music",
+    "city": "Fredrikstad",
+    "country": "Norway",
+    "lat": 59.1862013,
+    "lng": 10.8680241
+  },
+  {
+    "id": "norway-nrk-p1-vestfold",
+    "name": "NRK P1 Vestfold",
+    "url": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk12_mp3_h",
+    "genre": "Music",
+    "city": "Fredrikstad",
+    "country": "Norway",
+    "lat": 59.1862013,
+    "lng": 10.8680241
+  },
+  {
+    "id": "norway-nrk-p13",
+    "name": "NRK P13",
+    "url": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p3musikk_aac_h",
+    "genre": "Music",
+    "city": "Halden",
+    "country": "Norway",
+    "lat": 59.0680555,
+    "lng": 11.537191
+  }
+]

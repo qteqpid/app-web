@@ -1,0 +1,382 @@
+[
+  {
+    "id": "latvia-puko-radijas-fm-1073",
+    "name": "Puko Radijas FM 107.3",
+    "url": "http://212.95.45.82:8000/stream",
+    "genre": "Music",
+    "city": "Riga",
+    "country": "Latvia",
+    "lat": 56.9493977,
+    "lng": 24.1051846
+  },
+  {
+    "id": "latvia-kuressaare-pereraadio-887-fm",
+    "name": "Kuressaare Pereraadio 88.7 FM",
+    "url": "http://icecast.pereraadio.ee:8000/Kuressaare",
+    "genre": "Music",
+    "city": "Riga",
+    "country": "Latvia",
+    "lat": 56.9493977,
+    "lng": 24.1051846
+  },
+  {
+    "id": "latvia-pulsas",
+    "name": "Pulsas",
+    "url": "https://audio-edge-5bkfj.fra.h.radiomast.io/56f301cf-9788-4407-a0db-0bfea5d82b01",
+    "genre": "Music",
+    "city": "Riga",
+    "country": "Latvia",
+    "lat": 56.9493977,
+    "lng": 24.1051846
+  },
+  {
+    "id": "latvia-your-city-radio",
+    "name": "Your City Radio",
+    "url": "https://c28.radioboss.fm:18234/stream",
+    "genre": "Music",
+    "city": "Riga",
+    "country": "Latvia",
+    "lat": 56.9493977,
+    "lng": 24.1051846
+  },
+  {
+    "id": "latvia-radio-stalica-|-радыё-сталіца",
+    "name": "Radio Stalica | Радыё Сталіца",
+    "url": "https://media2.datacenter.by/stream/stalica/stream",
+    "genre": "Music",
+    "city": "Daugavpils",
+    "country": "Latvia",
+    "lat": 55.8712267,
+    "lng": 26.5159337
+  },
+  {
+    "id": "latvia-radio-maria-latvia",
+    "name": "Radio Maria Latvia",
+    "url": "https://dreamsiteradiocp2.com/proxy/rmlatvia2?mp=/stream",
+    "genre": "Music",
+    "city": "Riga",
+    "country": "Latvia",
+    "lat": 56.9493977,
+    "lng": 24.1051846
+  },
+  {
+    "id": "latvia-radio-7",
+    "name": "Radio 7",
+    "url": "https://listen.radio7.lv:2053/Radio7",
+    "genre": "Music",
+    "city": "Riga",
+    "country": "Latvia",
+    "lat": 56.9493977,
+    "lng": 24.1051846
+  },
+  {
+    "id": "latvia-lrma-rock-radio",
+    "name": "LRMA Rock Radio",
+    "url": "https://c22.radioboss.fm:18318/stream",
+    "genre": "Music",
+    "city": "Riga",
+    "country": "Latvia",
+    "lat": 56.9493977,
+    "lng": 24.1051846
+  },
+  {
+    "id": "latvia-star-fm-1062",
+    "name": "Star FM 106.2",
+    "url": "https://live.advailo.com/audio/mp3/icecast.audio",
+    "genre": "Music",
+    "city": "Riga",
+    "country": "Latvia",
+    "lat": 56.9493977,
+    "lng": 24.1051846
+  },
+  {
+    "id": "latvia-radio-swh-lv-1000-fm",
+    "name": "Radio SWH LV 100.0 FM",
+    "url": "https://live.radioswh.lv:8443/swh_lv",
+    "genre": "Music",
+    "city": "Riga",
+    "country": "Latvia",
+    "lat": 56.9493977,
+    "lng": 24.1051846
+  },
+  {
+    "id": "latvia-power-fm",
+    "name": "Power FM",
+    "url": "https://radio.powerfm.lv:8075/stream",
+    "genre": "Music",
+    "city": "Riga",
+    "country": "Latvia",
+    "lat": 56.9493977,
+    "lng": 24.1051846
+  },
+  {
+    "id": "latvia-xo-fm",
+    "name": "XO FM",
+    "url": "https://live.xo.fm/xofm128",
+    "genre": "Music",
+    "city": "Riga",
+    "country": "Latvia",
+    "lat": 56.9493977,
+    "lng": 24.1051846
+  },
+  {
+    "id": "latvia-alise-plus",
+    "name": "Alise Plus",
+    "url": "https://fm2inet.aliseplus.lv/",
+    "genre": "Music",
+    "city": "Riga",
+    "country": "Latvia",
+    "lat": 56.9493977,
+    "lng": 24.1051846
+  },
+  {
+    "id": "latvia-latgolys-radeja",
+    "name": "Latgolys Radeja",
+    "url": "http://195.13.253.51:8000/128_mp3",
+    "genre": "Music",
+    "city": "Daugavpils",
+    "country": "Latvia",
+    "lat": 55.8712267,
+    "lng": 26.5159337
+  },
+  {
+    "id": "latvia-saules-radijas-1025-fm",
+    "name": "Saules Radijas 102.5 FM",
+    "url": "https://saule-mp3.vinlita.lt/stream",
+    "genre": "Music",
+    "city": "Riga",
+    "country": "Latvia",
+    "lat": 56.9493977,
+    "lng": 24.1051846
+  },
+  {
+    "id": "latvia-gradio",
+    "name": "Gradio",
+    "url": "http://stream.urdt.lv:8003/gradio.mp3",
+    "genre": "Music",
+    "city": "Liepāja",
+    "country": "Latvia",
+    "lat": 56.5048435,
+    "lng": 21.0070903
+  },
+  {
+    "id": "latvia-radio-wilno",
+    "name": "Radio Wilno",
+    "url": "http://uk1.internet-radio.com:8254/stream?type=.mp3",
+    "genre": "Music",
+    "city": "Daugavpils",
+    "country": "Latvia",
+    "lat": 55.8712267,
+    "lng": 26.5159337
+  },
+  {
+    "id": "latvia-radio-swh-spin-946-fm",
+    "name": "Radio SWH Spin 94.6 FM",
+    "url": "https://live.radioswh.lv:8443/spinmp3",
+    "genre": "Music",
+    "city": "Liepāja",
+    "country": "Latvia",
+    "lat": 56.5048435,
+    "lng": 21.0070903
+  },
+  {
+    "id": "latvia-utenos-radijas-1039-fm",
+    "name": "Utenos Radijas 103.9 FM",
+    "url": "https://gyvai.ursrv.eu/stream",
+    "genre": "Music",
+    "city": "Daugavpils",
+    "country": "Latvia",
+    "lat": 55.8712267,
+    "lng": 26.5159337
+  },
+  {
+    "id": "latvia-skonto-fm-1072",
+    "name": "Skonto FM 107.2",
+    "url": "https://stream.radioskonto.lv:8443/stereo",
+    "genre": "Music",
+    "city": "Riga",
+    "country": "Latvia",
+    "lat": 56.9493977,
+    "lng": 24.1051846
+  },
+  {
+    "id": "latvia-neringa-fm",
+    "name": "Neringa FM",
+    "url": "https://cast5.my-control-panel.com/proxy/mbadvent/neringafmnew",
+    "genre": "Music",
+    "city": "Liepāja",
+    "country": "Latvia",
+    "lat": 56.5048435,
+    "lng": 21.0070903
+  },
+  {
+    "id": "latvia-mix-fm-1027",
+    "name": "Mix FM 102.7",
+    "url": "https://live.relaxfm.lv/07",
+    "genre": "Music",
+    "city": "Riga",
+    "country": "Latvia",
+    "lat": 56.9493977,
+    "lng": 24.1051846
+  },
+  {
+    "id": "latvia-latvijas-radio-5--pieci-latgalieši",
+    "name": "Latvijas Radio 5 - Pieci Latgalieši",
+    "url": "https://live.pieci.lv/live22-hq.mp3",
+    "genre": "Music",
+    "city": "Jēkabpils",
+    "country": "Latvia",
+    "lat": 56.4958638,
+    "lng": 25.8687747
+  },
+  {
+    "id": "latvia-ru-fm-1032",
+    "name": "RU FM 103.2",
+    "url": "https://live.relaxfm.lv/03",
+    "genre": "Music",
+    "city": "Riga",
+    "country": "Latvia",
+    "lat": 56.9493977,
+    "lng": 24.1051846
+  },
+  {
+    "id": "latvia-latvijas-radio-5--pieci-latvieši",
+    "name": "Latvijas Radio 5 - Pieci Latvieši",
+    "url": "https://live.pieci.lv/live7-hq.mp3",
+    "genre": "Music",
+    "city": "Valmiera",
+    "country": "Latvia",
+    "lat": 57.5389148,
+    "lng": 25.4261688
+  },
+  {
+    "id": "latvia-tīrkultūra",
+    "name": "Tīrkultūra",
+    "url": "https://s3.radio.co/s216811754/listen",
+    "genre": "Music",
+    "city": "Riga",
+    "country": "Latvia",
+    "lat": 56.9493977,
+    "lng": 24.1051846
+  },
+  {
+    "id": "latvia-sol-fm-933",
+    "name": "SOL FM 93.3",
+    "url": "https://radiosolfm.bounceme.net/stream",
+    "genre": "Music",
+    "city": "Liepāja",
+    "country": "Latvia",
+    "lat": 56.5048435,
+    "lng": 21.0070903
+  },
+  {
+    "id": "latvia-radio-pik-100-fm",
+    "name": "Radio PIK 100 FM",
+    "url": "http://91.90.255.85:8000/01",
+    "genre": "Music",
+    "city": "Riga",
+    "country": "Latvia",
+    "lat": 56.9493977,
+    "lng": 24.1051846
+  },
+  {
+    "id": "latvia-radijo-klubas-994-fm",
+    "name": "Radijo Klubas 99.4 FM",
+    "url": "http://didzdvaris.vinlita.lt:8009/stream.aac",
+    "genre": "Music",
+    "city": "Sigulda",
+    "country": "Latvia",
+    "lat": 57.1540561,
+    "lng": 24.8567141
+  },
+  {
+    "id": "latvia-ehr-superhits",
+    "name": "EHR SuperHits",
+    "url": "https://28993.live.streamtheworld.com:443/EHR_SUPERHITSAAC.aac",
+    "genre": "Music",
+    "city": "Riga",
+    "country": "Latvia",
+    "lat": 56.9493977,
+    "lng": 24.1051846
+  },
+  {
+    "id": "latvia-raadio-2-music",
+    "name": "Raadio 2 Music",
+    "url": "https://icecast.err.ee/r2music.mp3",
+    "genre": "Music",
+    "city": "Sigulda",
+    "country": "Latvia",
+    "lat": 57.1540561,
+    "lng": 24.8567141
+  },
+  {
+    "id": "latvia-elmari-ballaadid",
+    "name": "Elmari Ballaadid",
+    "url": "https://le03.euddn.net/fd97ad3e4074e00eae20dc1ee2cc34ca93ed77c0f78e102266f857c0c83245b104a65e43f1be5aebcb75d6eb1c512d6f049506cd8694e6503b8aa5c7e6806f8ffe1fc7462cddacfc1d493a59d371d90c1c546a37eed1b9ce67e584fac1483a9b376fdbb851f31672538c5cb7f24ee037fbe361fe14b7796ee23cfe92c913cc173730add0d0413c0d48bf331ebcb6726213de3e96f61b1891d610e07a89773177a664b32d237ff671706028c2b5c8e197ef8cc4f6ace92d9cf5060ed571ce0b74/EB_elmariballaadid.aac",
+    "genre": "Music",
+    "city": "Valmiera",
+    "country": "Latvia",
+    "lat": 57.5389148,
+    "lng": 25.4261688
+  },
+  {
+    "id": "latvia-klara-meditatsioon",
+    "name": "KlaRa Meditatsioon",
+    "url": "https://icecast.err.ee/klarameditatsioon.mp3",
+    "genre": "Music",
+    "city": "Valmiera",
+    "country": "Latvia",
+    "lat": 57.5389148,
+    "lng": 25.4261688
+  },
+  {
+    "id": "latvia-radio-tev-1068-fm",
+    "name": "Radio TEV 106.8 FM",
+    "url": "https://stream.radiotev.lv:8443/radiov",
+    "genre": "Music",
+    "city": "Valmiera",
+    "country": "Latvia",
+    "lat": 57.5389148,
+    "lng": 25.4261688
+  },
+  {
+    "id": "latvia-radijo-stotis-laluna",
+    "name": "Radijo stotis Laluna",
+    "url": "https://radio.m-1.fm/laluna/mp3?.mp3",
+    "genre": "Music",
+    "city": "Saldus",
+    "country": "Latvia",
+    "lat": 56.6659281,
+    "lng": 22.4936222
+  },
+  {
+    "id": "latvia-ehr-top-40-ru",
+    "name": "EHR Top 40 RU",
+    "url": "https://21633.live.streamtheworld.com:443/EHR_RU_TOP_40AAC.aac",
+    "genre": "Music",
+    "city": "Riga",
+    "country": "Latvia",
+    "lat": 56.9493977,
+    "lng": 24.1051846
+  },
+  {
+    "id": "latvia-retro-fm",
+    "name": "Retro FM",
+    "url": "https://28993.live.streamtheworld.com:443/RETRO_FMAAC.aac",
+    "genre": "Music",
+    "city": "Riga",
+    "country": "Latvia",
+    "lat": 56.9493977,
+    "lng": 24.1051846
+  },
+  {
+    "id": "latvia-radio1-1070-fm",
+    "name": "Radio1 107.0 FM",
+    "url": "https://www.radio1.lv:8000/stream.aac",
+    "genre": "Music",
+    "city": "Jēkabpils",
+    "country": "Latvia",
+    "lat": 56.4958638,
+    "lng": 25.8687747
+  }
+]

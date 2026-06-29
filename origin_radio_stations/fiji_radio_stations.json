@@ -1,0 +1,502 @@
+[
+  {
+    "id": "fiji-radio-fiji-gold-fm-1004",
+    "name": "Radio Fiji GOLD FM 100.4",
+    "url": "http://peridot.streamguys.com:7150/Gold",
+    "genre": "Music",
+    "city": "Suva",
+    "country": "Fiji",
+    "lat": -18.1415884,
+    "lng": 178.4421662
+  },
+  {
+    "id": "fiji-radio-2day-fm",
+    "name": "Radio 2Day FM",
+    "url": "http://peridot.streamguys.com:7150/2Day",
+    "genre": "Music",
+    "city": "Suva",
+    "country": "Fiji",
+    "lat": -18.1415884,
+    "lng": 178.4421662
+  },
+  {
+    "id": "fiji-radio-fiji-two",
+    "name": "Radio Fiji Two",
+    "url": "http://peridot.streamguys.com:7150/RFTwo",
+    "genre": "Music",
+    "city": "Suva",
+    "country": "Fiji",
+    "lat": -18.1415884,
+    "lng": 178.4421662
+  },
+  {
+    "id": "fiji-bula-fm-1020",
+    "name": "Bula FM 102.0",
+    "url": "http://peridot.streamguys.com:7150/Bula",
+    "genre": "Music",
+    "city": "Suva",
+    "country": "Fiji",
+    "lat": -18.1415884,
+    "lng": 178.4421662
+  },
+  {
+    "id": "fiji-radio-fiji-one-fm-1074",
+    "name": "Radio Fiji ONE FM 107.4",
+    "url": "http://peridot.streamguys.com:7150/RFOne",
+    "genre": "Music",
+    "city": "Suva",
+    "country": "Fiji",
+    "lat": -18.1415884,
+    "lng": 178.4421662
+  },
+  {
+    "id": "fiji-island-base-fm",
+    "name": "Island Base FM",
+    "url": "https://streams.islandbasefm.com:8443/stream",
+    "genre": "Music",
+    "city": "Nasinu",
+    "country": "Fiji",
+    "lat": -18.0964402,
+    "lng": 178.4807568
+  },
+  {
+    "id": "fiji-nia-radio--europe",
+    "name": "NIA Radio - Europe",
+    "url": "https://radio.nia.nc/radio/8010/europe-hq-stream.aac",
+    "genre": "Music",
+    "city": "Suva",
+    "country": "Fiji",
+    "lat": -18.1415884,
+    "lng": 178.4421662
+  },
+  {
+    "id": "fiji-nia-radio--lofi",
+    "name": "NIA Radio - LoFi",
+    "url": "https://radio.nia.nc/radio/8020/lofi-hq-stream.aac",
+    "genre": "Music",
+    "city": "Nasinu",
+    "country": "Fiji",
+    "lat": -18.0964402,
+    "lng": 178.4807568
+  },
+  {
+    "id": "fiji-awa-whanui-big-river-fm",
+    "name": "Awa Whanui Big River FM",
+    "url": "http://bigriver.broadcast.co.nz/bigriverfm",
+    "genre": "Music",
+    "city": "Suva",
+    "country": "Fiji",
+    "lat": -18.1415884,
+    "lng": 178.4421662
+  },
+  {
+    "id": "fiji-life-fm-fiji",
+    "name": "Life FM Fiji",
+    "url": "https://stream1.rcast.net/65809",
+    "genre": "Music",
+    "city": "Suva",
+    "country": "Fiji",
+    "lat": -18.1415884,
+    "lng": 178.4421662
+  },
+  {
+    "id": "fiji-caribeña-979-fm",
+    "name": "Caribeña 97.9 FM",
+    "url": "https://stream-179.zeno.fm/ym8zpzaxav8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5bTh6cHpheGF2OHV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiU1dCZG5tNjBSUGUtemFJRTY5ZHNTQSIsImlhdCI6MTc2OTQxODQ2MywiZXhwIjoxNzY5NDE4NTIzfQ.QOfxddXtlNyIW1jdRBo3deyLOItLS4yG6oZqDqP-sjc",
+    "genre": "Music",
+    "city": "Punto Fijo",
+    "country": "Venezuela",
+    "lat": 11.6931716,
+    "lng": -70.1917178
+  },
+  {
+    "id": "fiji-the-wireless-904fm",
+    "name": "The Wireless 90.4FM",
+    "url": "https://thewireless.radioca.st/stream",
+    "genre": "Music",
+    "city": "Nasinu",
+    "country": "Fiji",
+    "lat": -18.0964402,
+    "lng": 178.4807568
+  },
+  {
+    "id": "fiji-radio-sargam",
+    "name": "RADIO Sargam",
+    "url": "https://n02.rcs.revma.com/8a38ru8a303vv?rj-ttl=5&rj-tok=AAABm_mYPbgAweSkzyAjzPL9xg",
+    "genre": "Music",
+    "city": "Suva",
+    "country": "Fiji",
+    "lat": -18.1415884,
+    "lng": 178.4421662
+  },
+  {
+    "id": "fiji-fm96",
+    "name": "FM96",
+    "url": "https://n02.rcs.revma.com/q8txpfyyay3vv?rj-ttl=5&rj-tok=AAABm_mYPaYAPHK9jFxm0mXdhg",
+    "genre": "Music",
+    "city": "Suva",
+    "country": "Fiji",
+    "lat": -18.1415884,
+    "lng": 178.4421662
+  },
+  {
+    "id": "fiji-navtarang",
+    "name": "Navtarang",
+    "url": "https://n15.rcs.revma.com/5f56gd8a303vv?rj-ttl=5&rj-tok=AAABm_mYPbwAynwZI0KouYCXFA",
+    "genre": "Music",
+    "city": "Suva",
+    "country": "Fiji",
+    "lat": -18.1415884,
+    "lng": 178.4421662
+  },
+  {
+    "id": "fiji-legend-fm",
+    "name": "Legend FM",
+    "url": "https://n02.rcs.revma.com/7wnnz47a303vv?rj-ttl=5&rj-tok=AAABm_mYPaoALIY72SA7zmVFSw",
+    "genre": "Music",
+    "city": "Suva",
+    "country": "Fiji",
+    "lat": -18.1415884,
+    "lng": 178.4421662
+  },
+  {
+    "id": "fiji-viti-fm",
+    "name": "VITI FM",
+    "url": "https://n02.rcs.revma.com/3c11kc9a303vv?rj-ttl=5&rj-tok=AAABm_mYPa8A1VQtvYI7rJYXDQ",
+    "genre": "Music",
+    "city": "Suva",
+    "country": "Fiji",
+    "lat": -18.1415884,
+    "lng": 178.4421662
+  },
+  {
+    "id": "fiji-mambo-949-fm",
+    "name": "Mambo 94.9 FM",
+    "url": "https://streamingned.com:7170/stream",
+    "genre": "Music",
+    "city": "Punto Fijo",
+    "country": "Venezuela",
+    "lat": 11.6931716,
+    "lng": -70.1917178
+  },
+  {
+    "id": "fiji-la-fm-mundial-937",
+    "name": "La FM Mundial 93.7",
+    "url": "https://streamingned.com:7074/stream",
+    "genre": "Music",
+    "city": "Punto Fijo",
+    "country": "Venezuela",
+    "lat": 11.6931716,
+    "lng": -70.1917178
+  },
+  {
+    "id": "fiji-fresh-fm-1043",
+    "name": "Fresh FM 104.3",
+    "url": "http://fresharuba.com:8006/stream",
+    "genre": "Music",
+    "city": "Punto Fijo",
+    "country": "Venezuela",
+    "lat": 11.6931716,
+    "lng": -70.1917178
+  },
+  {
+    "id": "fiji-xtrema-989-fm",
+    "name": "Xtrema 98.9 FM",
+    "url": "https://app0102.sonicpanelradio.com/8782/stream",
+    "genre": "Music",
+    "city": "Punto Fijo",
+    "country": "Venezuela",
+    "lat": 11.6931716,
+    "lng": -70.1917178
+  },
+  {
+    "id": "fiji-kayros-1063-fm",
+    "name": "Kayros 106.3 FM",
+    "url": "https://vps-1925b156.vps.ovh.ca/kayros",
+    "genre": "Music",
+    "city": "Punto Fijo",
+    "country": "Venezuela",
+    "lat": 11.6931716,
+    "lng": -70.1917178
+  },
+  {
+    "id": "fiji-besser-975-fm",
+    "name": "Besser 97.5 FM",
+    "url": "https://audio.besser975fm.com/",
+    "genre": "Music",
+    "city": "Punto Fijo",
+    "country": "Venezuela",
+    "lat": 11.6931716,
+    "lng": -70.1917178
+  },
+  {
+    "id": "fiji-radio-a",
+    "name": "Radio A",
+    "url": "https://nr14.newradio.it/proxy/associa8/stream",
+    "genre": "Music",
+    "city": "Fivizzano",
+    "country": "Italy",
+    "lat": 44.23835,
+    "lng": 10.12599
+  },
+  {
+    "id": "fiji-radio-ln",
+    "name": "Radio LN",
+    "url": "https://s42.radiolize.com/radio/8050/radio.mp3",
+    "genre": "Music",
+    "city": "Fivizzano",
+    "country": "Italy",
+    "lat": 44.23835,
+    "lng": 10.12599
+  },
+  {
+    "id": "fiji-rds-fm-1030",
+    "name": "RDS FM 103.0",
+    "url": "https://icstream.rds.radio/rds",
+    "genre": "Music",
+    "city": "Fivizzano",
+    "country": "Italy",
+    "lat": 44.23835,
+    "lng": 10.12599
+  },
+  {
+    "id": "fiji-rlv",
+    "name": "RLV",
+    "url": "https://onair15.xdevel.com/proxy/radiolevantovaldivara?mp=/;stream",
+    "genre": "Music",
+    "city": "Fivizzano",
+    "country": "Italy",
+    "lat": 44.23835,
+    "lng": 10.12599
+  },
+  {
+    "id": "fiji-la-salsera-fm",
+    "name": "La Salsera FM",
+    "url": "https://stream-151.zeno.fm/4qbzbrvdmy8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0cWJ6YnJ2ZG15OHV2IiwiaG9zdCI6InN0cmVhbS0xNTEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiOHhPTDNVTGxRbGVIRTZoNWdaZ2ZRQSIsImlhdCI6MTc2OTQxODQ2NSwiZXhwIjoxNzY5NDE4NTI1fQ.6oRKliRRJaGJxZfUM44cFK942s2pXo0CF4nDvqjzn7U",
+    "genre": "Music",
+    "city": "Punto Fijo",
+    "country": "Venezuela",
+    "lat": 11.6931716,
+    "lng": -70.1917178
+  },
+  {
+    "id": "fiji-radionova-fm-943",
+    "name": "Radionova FM 94.3",
+    "url": "https://s4.shoutitaly.com/listen/radionova/radio.mp3",
+    "genre": "Music",
+    "city": "Fivizzano",
+    "country": "Italy",
+    "lat": 44.23835,
+    "lng": 10.12599
+  },
+  {
+    "id": "fiji-radio-sangeet-masti",
+    "name": "Radio Sangeet Masti",
+    "url": "https://servidor19.brlogic.com:7304/live",
+    "genre": "Music",
+    "city": "Nasinu",
+    "country": "Fiji",
+    "lat": -18.0964402,
+    "lng": 178.4807568
+  },
+  {
+    "id": "fiji-zuidwest-fm",
+    "name": "ZuidWest FM",
+    "url": "https://icecast.zuidwestfm.nl/zuidwest.aac",
+    "genre": "Music",
+    "city": "Fijnaart",
+    "country": "Netherlands",
+    "lat": 51.6352829,
+    "lng": 4.4673134
+  },
+  {
+    "id": "fiji-mirchi-fm-fiji",
+    "name": "Mirchi FM Fiji",
+    "url": "https://peridot.streamguys1.com:7155/MirchiFiji",
+    "genre": "Music",
+    "city": "Suva",
+    "country": "Fiji",
+    "lat": -18.1415884,
+    "lng": 178.4421662
+  },
+  {
+    "id": "fiji-radio-elle",
+    "name": "Radio Elle",
+    "url": "https://mmediassl.rtvweb.com:9100/radioelle",
+    "genre": "Music",
+    "city": "Fivizzano",
+    "country": "Italy",
+    "lat": 44.23835,
+    "lng": 10.12599
+  },
+  {
+    "id": "fiji-941-la-fm",
+    "name": "94.1 La FM",
+    "url": "https://acp2.lorini.net:27080/stream",
+    "genre": "Music",
+    "city": "Punto Fijo",
+    "country": "Venezuela",
+    "lat": 11.6931716,
+    "lng": -70.1917178
+  },
+  {
+    "id": "fiji-fiesta-latina-fm-1061",
+    "name": "Fiesta Latina FM 106.1",
+    "url": "https://stream-141.zeno.fm/e2kzfpr34d0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJlMmt6ZnByMzRkMHV2IiwiaG9zdCI6InN0cmVhbS0xNDEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiRGFIaTRKLV9TQ0tjVkxVZFRwNjlnZyIsImlhdCI6MTc2OTQxODQ2NiwiZXhwIjoxNzY5NDE4NTI2fQ.ckmA4G1MCX038vysh6musRQ88hvV3yyoYrwl1b9eWgQ",
+    "genre": "Music",
+    "city": "Punto Fijo",
+    "country": "Venezuela",
+    "lat": 11.6931716,
+    "lng": -70.1917178
+  },
+  {
+    "id": "fiji-rai-radio-2",
+    "name": "Rai Radio 2",
+    "url": "https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S35942484/yp5F67151K92/icecast",
+    "genre": "Music",
+    "city": "Fivizzano",
+    "country": "Italy",
+    "lat": 44.23835,
+    "lng": 10.12599
+  },
+  {
+    "id": "fiji-rai-radio-3",
+    "name": "Rai Radio 3",
+    "url": "https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S56630579/yEbkcBtIoSwd/icecast",
+    "genre": "Music",
+    "city": "Fivizzano",
+    "country": "Italy",
+    "lat": 44.23835,
+    "lng": 10.12599
+  },
+  {
+    "id": "fiji-exitos-fm-999",
+    "name": "Exitos FM 99.9",
+    "url": "https://acp4.lorini.net:2070/stream",
+    "genre": "Music",
+    "city": "Punto Fijo",
+    "country": "Venezuela",
+    "lat": 11.6931716,
+    "lng": -70.1917178
+  },
+  {
+    "id": "fiji-radio-suc6",
+    "name": "Radio Suc6",
+    "url": "https://stream.radiosuc6.nl/radiosuc6",
+    "genre": "Music",
+    "city": "Fijnaart",
+    "country": "Netherlands",
+    "lat": 51.6352829,
+    "lng": 4.4673134
+  },
+  {
+    "id": "fiji-onda-la-superestación-1073-fm",
+    "name": "Onda La Superestación 107.3 FM",
+    "url": "https://acp4.lorini.net:2060/stream",
+    "genre": "Music",
+    "city": "Punto Fijo",
+    "country": "Venezuela",
+    "lat": 11.6931716,
+    "lng": -70.1917178
+  },
+  {
+    "id": "fiji-radio-rucphen-1064-fm",
+    "name": "Radio Rucphen 106.4 FM",
+    "url": "https://stream.rucphenrtv.nl/radiorucphen.mp3",
+    "genre": "Music",
+    "city": "Fijnaart",
+    "country": "Netherlands",
+    "lat": 51.6352829,
+    "lng": 4.4673134
+  },
+  {
+    "id": "fiji-rai-radio-1",
+    "name": "Rai Radio 1",
+    "url": "https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S16355530/Q4zh3NTu28Rx/icecast",
+    "genre": "Music",
+    "city": "Fivizzano",
+    "country": "Italy",
+    "lat": 44.23835,
+    "lng": 10.12599
+  },
+  {
+    "id": "fiji-radio-hoeksche-waard",
+    "name": "Radio Hoeksche Waard",
+    "url": "https://cloud-faro.beheerstream.com/proxy/omroephw?mp=/live",
+    "genre": "Music",
+    "city": "Fijnaart",
+    "country": "Netherlands",
+    "lat": 51.6352829,
+    "lng": 4.4673134
+  },
+  {
+    "id": "fiji-npo-radio-1",
+    "name": "NPO Radio 1",
+    "url": "https://icecast.omroep.nl/radio1-sb-mp3",
+    "genre": "Music",
+    "city": "Fijnaart",
+    "country": "Netherlands",
+    "lat": 51.6352829,
+    "lng": 4.4673134
+  },
+  {
+    "id": "fiji-npo-radio-2",
+    "name": "NPO Radio 2",
+    "url": "https://icecast.omroep.nl/radio2-bb-mp3",
+    "genre": "Music",
+    "city": "Fijnaart",
+    "country": "Netherlands",
+    "lat": 51.6352829,
+    "lng": 4.4673134
+  },
+  {
+    "id": "fiji-4ever49-radio",
+    "name": "4EVER49 Radio",
+    "url": "https://22193.live.streamtheworld.com:443/4EVER49.mp3?dist=portals",
+    "genre": "Music",
+    "city": "Fijnaart",
+    "country": "Netherlands",
+    "lat": 51.6352829,
+    "lng": 4.4673134
+  },
+  {
+    "id": "fiji-radio-538",
+    "name": "Radio 538",
+    "url": "https://28513.live.streamtheworld.com:443/RADIO538.mp3?dist=radiogarden",
+    "genre": "Music",
+    "city": "Fijnaart",
+    "country": "Netherlands",
+    "lat": 51.6352829,
+    "lng": 4.4673134
+  },
+  {
+    "id": "fiji-bnr-nieuwsradio",
+    "name": "BNR Nieuwsradio",
+    "url": "https://28993.live.streamtheworld.com:443/BNR_NIEUWSRADIO.mp3",
+    "genre": "Music",
+    "city": "Fijnaart",
+    "country": "Netherlands",
+    "lat": 51.6352829,
+    "lng": 4.4673134
+  },
+  {
+    "id": "fiji-joe",
+    "name": "JOE",
+    "url": "https://icecast-qmusicnl-cdp.triple-it.nl/Joe_nl.mp3",
+    "genre": "Music",
+    "city": "Fijnaart",
+    "country": "Netherlands",
+    "lat": 51.6352829,
+    "lng": 4.4673134
+  },
+  {
+    "id": "fiji-rtv-albrandswaard",
+    "name": "RTV Albrandswaard",
+    "url": "https://streamer.hosting078.nl:1855/stream",
+    "genre": "Music",
+    "city": "Fijnaart",
+    "country": "Netherlands",
+    "lat": 51.6352829,
+    "lng": 4.4673134
+  }
+]

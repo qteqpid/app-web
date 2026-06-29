@@ -1,0 +1,192 @@
+[
+  {
+    "id": "barbados-cbc-981-the-one",
+    "name": "CBC 98.1 The One",
+    "url": "http://108.178.16.190:8000/981fm.mp3",
+    "genre": "Music",
+    "city": "Bridgetown",
+    "country": "Barbados",
+    "lat": 13.0977832,
+    "lng": -59.6184184
+  },
+  {
+    "id": "barbados-cbc-radio-fm-947",
+    "name": "CBC Radio FM 94.7",
+    "url": "http://108.178.16.190:8000/947fm.mp3?_=1/;",
+    "genre": "Music",
+    "city": "Bridgetown",
+    "country": "Barbados",
+    "lat": 13.0977832,
+    "lng": -59.6184184
+  },
+  {
+    "id": "barbados-mix-969-fm",
+    "name": "Mix 96.9 FM",
+    "url": "https://a4.asurahosting.com:6900/radio.mp3",
+    "genre": "Music",
+    "city": "Bridgetown",
+    "country": "Barbados",
+    "lat": 13.0977832,
+    "lng": -59.6184184
+  },
+  {
+    "id": "barbados-soufriere-fm-885",
+    "name": "Soufrière FM 88.5",
+    "url": "https://cast1.asurahosting.com/proxy/romanus/stream",
+    "genre": "Music",
+    "city": "Oistins",
+    "country": "Barbados",
+    "lat": 13.0631947,
+    "lng": -59.542242
+  },
+  {
+    "id": "barbados-chronicles-christian-radio",
+    "name": "Chronicles Christian Radio",
+    "url": "https://chronicles.radioca.st/stream",
+    "genre": "Music",
+    "city": "Bridgetown",
+    "country": "Barbados",
+    "lat": 13.0977832,
+    "lng": -59.6184184
+  },
+  {
+    "id": "barbados-cita-fm-901",
+    "name": "Cita FM 90.1",
+    "url": "https://cast1.asurahosting.com/proxy/daniel26/stream",
+    "genre": "Music",
+    "city": "Bridgetown",
+    "country": "Barbados",
+    "lat": 13.0977832,
+    "lng": -59.6184184
+  },
+  {
+    "id": "barbados-one-worldwide-radio",
+    "name": "One Worldwide Radio",
+    "url": "https://listen.radioking.com/radio/316403/stream/363812",
+    "genre": "Music",
+    "city": "Saint James",
+    "country": "Barbados",
+    "lat": 13.1863793,
+    "lng": -59.625192
+  },
+  {
+    "id": "barbados-praise-fm-1057",
+    "name": "Praise FM 105.7",
+    "url": "https://s5.myradiostream.com:42686/index.html?sid=1",
+    "genre": "Music",
+    "city": "Oistins",
+    "country": "Barbados",
+    "lat": 13.0631947,
+    "lng": -59.542242
+  },
+  {
+    "id": "barbados-radio-bimshire",
+    "name": "Radio Bimshire",
+    "url": "https://listen.radioking.com/radio/635914/stream/698698",
+    "genre": "Music",
+    "city": "Bridgetown",
+    "country": "Barbados",
+    "lat": 13.0977832,
+    "lng": -59.6184184
+  },
+  {
+    "id": "barbados-divine-gospel-radio",
+    "name": "Divine Gospel Radio",
+    "url": "https://stream-178.zeno.fm/01x0uuu93qzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwMXgwdXV1OTNxenV2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiTFRxNVZWS2pRUUtiRHpPSU5YQ0NLZyIsImlhdCI6MTc2OTQxNjY4NiwiZXhwIjoxNzY5NDE2NzQ2fQ.jYBuHxqxIcOQq8heVwzGMxotOYEFGrV57r3e7FG-G_0",
+    "genre": "Music",
+    "city": "Bridgetown",
+    "country": "Barbados",
+    "lat": 13.0977832,
+    "lng": -59.6184184
+  },
+  {
+    "id": "barbados-boomstation-slu-899-fm",
+    "name": "Boomstation SLU 89.9 FM",
+    "url": "https://cast4.asurahosting.com/proxy/boomsta2/stream",
+    "genre": "Music",
+    "city": "Bridgetown",
+    "country": "Barbados",
+    "lat": 13.0977832,
+    "lng": -59.6184184
+  },
+  {
+    "id": "barbados-rjl-radio",
+    "name": "RJL Radio",
+    "url": "https://s3.radio.co/sc5bdee4a4/listen",
+    "genre": "Music",
+    "city": "Bridgetown",
+    "country": "Barbados",
+    "lat": 13.0977832,
+    "lng": -59.6184184
+  },
+  {
+    "id": "barbados-vybe-radio",
+    "name": "Vybe Radio",
+    "url": "https://us2.internet-radio.com/proxy/vyberadio/stream",
+    "genre": "Music",
+    "city": "Saint James",
+    "country": "Barbados",
+    "lat": 13.1863793,
+    "lng": -59.625192
+  },
+  {
+    "id": "barbados-uk246com",
+    "name": "UK246.com",
+    "url": "https://streams.radio.co/scff803137/listen",
+    "genre": "Music",
+    "city": "Bridgetown",
+    "country": "Barbados",
+    "lat": 13.0977832,
+    "lng": -59.6184184
+  },
+  {
+    "id": "barbados-life-975",
+    "name": "Life 97.5",
+    "url": "https://ice64.securenetsystems.net/LIFE975",
+    "genre": "Music",
+    "city": "Bridgetown",
+    "country": "Barbados",
+    "lat": 13.0977832,
+    "lng": -59.6184184
+  },
+  {
+    "id": "barbados-hott-fm-953",
+    "name": "Hott FM 95.3",
+    "url": "https://ice64.securenetsystems.net/HOTT953",
+    "genre": "Music",
+    "city": "Bridgetown",
+    "country": "Barbados",
+    "lat": 13.0977832,
+    "lng": -59.6184184
+  },
+  {
+    "id": "barbados-voice-of-barbados-fm-929",
+    "name": "Voice of Barbados FM 92.9",
+    "url": "https://ice66.securenetsystems.net/VOB929",
+    "genre": "Music",
+    "city": "Bridgetown",
+    "country": "Barbados",
+    "lat": 13.0977832,
+    "lng": -59.6184184
+  },
+  {
+    "id": "barbados-the-beat-1041",
+    "name": "The Beat 104.1",
+    "url": "https://ice66.securenetsystems.net/THEBEAT1041",
+    "genre": "Music",
+    "city": "Bridgetown",
+    "country": "Barbados",
+    "lat": 13.0977832,
+    "lng": -59.6184184
+  },
+  {
+    "id": "barbados-unity-fm-905",
+    "name": "Unity FM 90.5",
+    "url": "https://free.rcast.net/62265",
+    "genre": "Music",
+    "city": "Saint James",
+    "country": "Barbados",
+    "lat": 13.1863793,
+    "lng": -59.625192
+  }
+]

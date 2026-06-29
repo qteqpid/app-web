@@ -1,0 +1,2612 @@
+[
+  {
+    "id": "france-radio-notre-dame",
+    "name": "Radio Notre-Dame",
+    "url": "https://rcf.streamakaci.com/rcfdigital.mp3",
+    "genre": "Music",
+    "city": "Paris",
+    "country": "France",
+    "lat": 48.8534951,
+    "lng": 2.3483915
+  },
+  {
+    "id": "france-id-fm-980",
+    "name": "Id FM 98.0",
+    "url": "http://live.idfm98.fr:8000/idfm2",
+    "genre": "Music",
+    "city": "Paris",
+    "country": "France",
+    "lat": 48.8534951,
+    "lng": 2.3483915
+  },
+  {
+    "id": "france-france-musique--ocora-monde",
+    "name": "France Musique - Ocora Monde",
+    "url": "https://icecast.radiofrance.fr/francemusiqueocoramonde-midfi.mp3",
+    "genre": "Music",
+    "city": "Paris",
+    "country": "France",
+    "lat": 48.8534951,
+    "lng": 2.3483915
+  },
+  {
+    "id": "france-91-fm",
+    "name": "91 FM",
+    "url": "https://radio.webradio91fm.fr/radio/8000/91fmhd.mp3",
+    "genre": "Music",
+    "city": "Paris",
+    "country": "France",
+    "lat": 48.8534951,
+    "lng": 2.3483915
+  },
+  {
+    "id": "france-vinyle-radio",
+    "name": "Vinyle Radio",
+    "url": "https://panel.mediacp.fr:8012/stream",
+    "genre": "Music",
+    "city": "Paris",
+    "country": "France",
+    "lat": 48.8534951,
+    "lng": 2.3483915
+  },
+  {
+    "id": "france-tropiques-fm-926",
+    "name": "Tropiques FM 92.6",
+    "url": "https://listen.radioking.com/radio/8916/stream/19088",
+    "genre": "Music",
+    "city": "Paris",
+    "country": "France",
+    "lat": 48.8534951,
+    "lng": 2.3483915
+  },
+  {
+    "id": "france-rmc",
+    "name": "RMC",
+    "url": "https://audio.bfmtv.com/rmcradio_128.mp3",
+    "genre": "Music",
+    "city": "Paris",
+    "country": "France",
+    "lat": 48.8534951,
+    "lng": 2.3483915
+  },
+  {
+    "id": "france-nihon-no-oto",
+    "name": "Nihon no OTO",
+    "url": "http://stream1.nihon-no-oto.com/nihonogg",
+    "genre": "Music",
+    "city": "Paris",
+    "country": "France",
+    "lat": 48.8534951,
+    "lng": 2.3483915
+  },
+  {
+    "id": "france-europe-1",
+    "name": "Europe 1",
+    "url": "https://europe1.lmn.fm/europe1.mp3",
+    "genre": "Music",
+    "city": "Paris",
+    "country": "France",
+    "lat": 48.8534951,
+    "lng": 2.3483915
+  },
+  {
+    "id": "france-france-info-1057",
+    "name": "France Info 105.7",
+    "url": "https://icecast.radiofrance.fr/franceinfo-midfi.mp3",
+    "genre": "Music",
+    "city": "Paris",
+    "country": "France",
+    "lat": 48.8534951,
+    "lng": 2.3483915
+  },
+  {
+    "id": "france-france-inter",
+    "name": "France Inter",
+    "url": "https://icecast.radiofrance.fr/franceinter-midfi.mp3",
+    "genre": "Music",
+    "city": "Paris",
+    "country": "France",
+    "lat": 48.8534951,
+    "lng": 2.3483915
+  },
+  {
+    "id": "france-nostalgie",
+    "name": "Nostalgie",
+    "url": "https://streaming.nrjaudio.fm/oug7girb92oc?origine=radiogarden",
+    "genre": "Music",
+    "city": "Paris",
+    "country": "France",
+    "lat": 48.8534951,
+    "lng": 2.3483915
+  },
+  {
+    "id": "france-millenium-fm-electro-dj-webradio",
+    "name": "Millenium FM Electro DJ Webradio",
+    "url": "https://radio7.pro-fhi.net:19141/milleniumfm.mp3",
+    "genre": "Music",
+    "city": "Lyon",
+    "country": "France",
+    "lat": 45.7578137,
+    "lng": 4.8320114
+  },
+  {
+    "id": "france-radio-rcf",
+    "name": "Radio RCF",
+    "url": "https://rcf.streamakaci.com/rcf69.mp3",
+    "genre": "Music",
+    "city": "Lyon",
+    "country": "France",
+    "lat": 45.7578137,
+    "lng": 4.8320114
+  },
+  {
+    "id": "france-radio-tamtam",
+    "name": "Radio Tamtam",
+    "url": "https://listen.radioking.com/radio/10736/stream/295960",
+    "genre": "Music",
+    "city": "Paris",
+    "country": "France",
+    "lat": 48.8534951,
+    "lng": 2.3483915
+  },
+  {
+    "id": "france-plusfm",
+    "name": "plusfm",
+    "url": "https://radio5.pro-fhi.net/flux-ymwhyfad/1",
+    "genre": "Music",
+    "city": "Paris",
+    "country": "France",
+    "lat": 48.8534951,
+    "lng": 2.3483915
+  },
+  {
+    "id": "france-skyrock-plm",
+    "name": "Skyrock PLM",
+    "url": "https://icecast.skyrock.net/s/plm_aac_128k?tvr_name=radiogarden&tvr_section1=64aac",
+    "genre": "Music",
+    "city": "Paris",
+    "country": "France",
+    "lat": 48.8534951,
+    "lng": 2.3483915
+  },
+  {
+    "id": "france-radio-armenie-fm-1061",
+    "name": "Radio Armenie FM 106.1",
+    "url": "http://direct.radioarmenie.com:9029/stream/",
+    "genre": "Music",
+    "city": "Lyon",
+    "country": "France",
+    "lat": 45.7578137,
+    "lng": 4.8320114
+  },
+  {
+    "id": "france-tiako-be",
+    "name": "Tiako be",
+    "url": "https://tiakobe.ice.infomaniak.ch/tiakobe-64.aac",
+    "genre": "Music",
+    "city": "Lyon",
+    "country": "France",
+    "lat": 45.7578137,
+    "lng": 4.8320114
+  },
+  {
+    "id": "france-modul-fm-987",
+    "name": "Modul FM 98.7",
+    "url": "https://icecast.radiomodul.fr:8443/modul.aac",
+    "genre": "Music",
+    "city": "Lyon",
+    "country": "France",
+    "lat": 45.7578137,
+    "lng": 4.8320114
+  },
+  {
+    "id": "france-project-xy",
+    "name": "Project XY",
+    "url": "https://flux.saaslys.com:8000/radio.mp3",
+    "genre": "Music",
+    "city": "Lyon",
+    "country": "France",
+    "lat": 45.7578137,
+    "lng": 4.8320114
+  },
+  {
+    "id": "france-fg-chic",
+    "name": "FG Chic",
+    "url": "https://n01.rcs.revma.com/cgvrymb6p98uv?rj-ttl=5&rj-tok=AAABm_mZeWQAOpRhnDJeUoLxkw",
+    "genre": "Music",
+    "city": "Paris",
+    "country": "France",
+    "lat": 48.8534951,
+    "lng": 2.3483915
+  },
+  {
+    "id": "france-frequence-montmerle-ain",
+    "name": "Fréquence Montmerle Ain",
+    "url": "https://listen.radioking.com/radio/61975/stream/194002",
+    "genre": "Music",
+    "city": "Lyon",
+    "country": "France",
+    "lat": 45.7578137,
+    "lng": 4.8320114
+  },
+  {
+    "id": "france-trentmix-radio",
+    "name": "TrenTMix Radio",
+    "url": "https://listen.radioking.com/radio/154750/stream/195373",
+    "genre": "Music",
+    "city": "Lyon",
+    "country": "France",
+    "lat": 45.7578137,
+    "lng": 4.8320114
+  },
+  {
+    "id": "france-875-nantes",
+    "name": "875 Nantes",
+    "url": "https://listen.radioking.com/radio/15130/stream/28217",
+    "genre": "Music",
+    "city": "Nantes",
+    "country": "France",
+    "lat": 47.2186371,
+    "lng": -1.5541362
+  },
+  {
+    "id": "france-radio-judaica-lyon",
+    "name": "Radio Judaica Lyon",
+    "url": "https://judaica.ice.infomaniak.ch/judaica-high.mp3",
+    "genre": "Music",
+    "city": "Lyon",
+    "country": "France",
+    "lat": 45.7578137,
+    "lng": 4.8320114
+  },
+  {
+    "id": "france-rfi-afrique",
+    "name": "RFI Afrique",
+    "url": "https://rfiafrique64k.ice.infomaniak.ch/rfiafrique-64.mp3",
+    "genre": "Music",
+    "city": "Paris",
+    "country": "France",
+    "lat": 48.8534951,
+    "lng": 2.3483915
+  },
+  {
+    "id": "france-jet-fm-912",
+    "name": "Jet FM 91.2",
+    "url": "https://diffusion.lafrap.fr/jetfm.mp3",
+    "genre": "Music",
+    "city": "Nantes",
+    "country": "France",
+    "lat": 47.2186371,
+    "lng": -1.5541362
+  },
+  {
+    "id": "france-radio-naoned",
+    "name": "Radio Naoned",
+    "url": "https://stream.radios.bzh/listen/naoned/radio.mp3",
+    "genre": "Music",
+    "city": "Nantes",
+    "country": "France",
+    "lat": 47.2186371,
+    "lng": -1.5541362
+  },
+  {
+    "id": "france-radio-nti-934",
+    "name": "Radio NTI 93.4",
+    "url": "http://streaming.radionti.com/nti-128.mp3?.mp3",
+    "genre": "Music",
+    "city": "Nantes",
+    "country": "France",
+    "lat": 47.2186371,
+    "lng": -1.5541362
+  },
+  {
+    "id": "france-sun-nantes-930-dab+",
+    "name": "SUN Nantes 93.0 DAB+",
+    "url": "https://diffusion.lafrap.fr/sunhd.mp3",
+    "genre": "Music",
+    "city": "Nantes",
+    "country": "France",
+    "lat": 47.2186371,
+    "lng": -1.5541362
+  },
+  {
+    "id": "france-prun",
+    "name": "PRUN",
+    "url": "https://www.prun.net/stream/",
+    "genre": "Music",
+    "city": "Nantes",
+    "country": "France",
+    "lat": 47.2186371,
+    "lng": -1.5541362
+  },
+  {
+    "id": "france-generations-funk",
+    "name": "Générations Funk",
+    "url": "https://gene-wr05.ice.infomaniak.ch/gene-wr05.mp3",
+    "genre": "Music",
+    "city": "Lyon",
+    "country": "France",
+    "lat": 45.7578137,
+    "lng": 4.8320114
+  },
+  {
+    "id": "france-jazz-radio-classic-jazz",
+    "name": "Jazz Radio Classic Jazz",
+    "url": "https://jazz-wr01.ice.infomaniak.ch/jazz-wr01-128.mp3",
+    "genre": "Music",
+    "city": "Lyon",
+    "country": "France",
+    "lat": 45.7578137,
+    "lng": 4.8320114
+  },
+  {
+    "id": "france-jazz-radio-funk",
+    "name": "Jazz Radio Funk",
+    "url": "https://jazz-wr06.ice.infomaniak.ch/jazz-wr06-128.mp3",
+    "genre": "Music",
+    "city": "Lyon",
+    "country": "France",
+    "lat": 45.7578137,
+    "lng": 4.8320114
+  },
+  {
+    "id": "france-impact-fm",
+    "name": "Impact FM",
+    "url": "http://impactfm.ice.infomaniak.ch/impactfm-128.mp3",
+    "genre": "Music",
+    "city": "Lyon",
+    "country": "France",
+    "lat": 45.7578137,
+    "lng": 4.8320114
+  },
+  {
+    "id": "france-france-bleu-loire-ocean",
+    "name": "France Bleu Loire Océan",
+    "url": "https://icecast.radiofrance.fr/fbloireocean-midfi.mp3",
+    "genre": "Music",
+    "city": "Nantes",
+    "country": "France",
+    "lat": 47.2186371,
+    "lng": -1.5541362
+  },
+  {
+    "id": "france-allzic-radio-annees-80",
+    "name": "Allzic Radio Annees 80",
+    "url": "https://allzic08.ice.infomaniak.ch/allzic08.mp3",
+    "genre": "Music",
+    "city": "Lyon",
+    "country": "France",
+    "lat": 45.7578137,
+    "lng": 4.8320114
+  },
+  {
+    "id": "france-jazz-radio",
+    "name": "Jazz Radio",
+    "url": "https://jazzradio.ice.infomaniak.ch/jazzradio-high.mp3",
+    "genre": "Music",
+    "city": "Lyon",
+    "country": "France",
+    "lat": 45.7578137,
+    "lng": 4.8320114
+  },
+  {
+    "id": "france-jazz-radio-blues",
+    "name": "Jazz Radio Blues",
+    "url": "https://jazzblues.ice.infomaniak.ch/jazzblues-high.aac",
+    "genre": "Music",
+    "city": "Lyon",
+    "country": "France",
+    "lat": 45.7578137,
+    "lng": 4.8320114
+  },
+  {
+    "id": "france-alternantes",
+    "name": "AlterNantes",
+    "url": "https://diffusion.lafrap.fr/alternantes.mp3?.mp3",
+    "genre": "Music",
+    "city": "Nantes",
+    "country": "France",
+    "lat": 47.2186371,
+    "lng": -1.5541362
+  },
+  {
+    "id": "france-tonic-radio-951-fm",
+    "name": "Tonic Radio 95.1 FM",
+    "url": "https://tonicradiovienne.ice.infomaniak.ch/tonicradiovienne.mp3",
+    "genre": "Music",
+    "city": "Lyon",
+    "country": "France",
+    "lat": 45.7578137,
+    "lng": 4.8320114
+  },
+  {
+    "id": "france-graffiti-radio-fm-886",
+    "name": "Graffiti Radio FM 88.6",
+    "url": "https://diffusion.lafrap.fr/graffiti.mp3",
+    "genre": "Music",
+    "city": "Nantes",
+    "country": "France",
+    "lat": 47.2186371,
+    "lng": -1.5541362
+  },
+  {
+    "id": "france-gayradio",
+    "name": "GayRadio",
+    "url": "https://srv.webradiomanager.fr:1280/stream",
+    "genre": "Music",
+    "city": "Nantes",
+    "country": "France",
+    "lat": 47.2186371,
+    "lng": -1.5541362
+  },
+  {
+    "id": "france-clazz-radio",
+    "name": "Clazz Radio",
+    "url": "https://n11.rcs.revma.com/xsycwftnfm3vv?rj-ttl=5&rj-tok=AAABm_mZi7EAjvey4ZF2QlnVlA",
+    "genre": "Music",
+    "city": "Nantes",
+    "country": "France",
+    "lat": 47.2186371,
+    "lng": -1.5541362
+  },
+  {
+    "id": "france-radio-fatx",
+    "name": "Radio Fatx",
+    "url": "https://radio.fatx.fr/radio_fatx",
+    "genre": "Music",
+    "city": "Toulouse",
+    "country": "France",
+    "lat": 43.6044638,
+    "lng": 1.4442433
+  },
+  {
+    "id": "france-radio-kol-aviv",
+    "name": "Radio Kol Aviv",
+    "url": "http://europa.shoutca.st:8478/kolaviv",
+    "genre": "Music",
+    "city": "Toulouse",
+    "country": "France",
+    "lat": 43.6044638,
+    "lng": 1.4442433
+  },
+  {
+    "id": "france-radio-fmr-toulouse",
+    "name": "Radio FMR Toulouse",
+    "url": "https://smeuh.org:8443/radio-fmr.mp3",
+    "genre": "Music",
+    "city": "Toulouse",
+    "country": "France",
+    "lat": 43.6044638,
+    "lng": 1.4442433
+  },
+  {
+    "id": "france-rca-la-radio",
+    "name": "RCA La Radio",
+    "url": "https://rcanantes.ice.infomaniak.ch/rcanantes-192.mp3",
+    "genre": "Music",
+    "city": "Nantes",
+    "country": "France",
+    "lat": 47.2186371,
+    "lng": -1.5541362
+  },
+  {
+    "id": "france-hit-west-nantes",
+    "name": "Hit West Nantes",
+    "url": "https://n03.rcs.revma.com/5n0e0dhnfm3vv?rj-ttl=5&rj-tok=AAABm_mZjx8AYeizR_r4cMmNfg",
+    "genre": "Music",
+    "city": "Nantes",
+    "country": "France",
+    "lat": 47.2186371,
+    "lng": -1.5541362
+  },
+  {
+    "id": "france-radio-presence",
+    "name": "Radio Présence",
+    "url": "https://direct.radiopresence.com/radio-presence",
+    "genre": "Music",
+    "city": "Toulouse",
+    "country": "France",
+    "lat": 43.6044638,
+    "lng": 1.4442433
+  },
+  {
+    "id": "france-radio-atlantis-107-fm",
+    "name": "Radio Atlantis 107 FM",
+    "url": "https://radio8.pro-fhi.net:19005/atlantis320",
+    "genre": "Music",
+    "city": "Nantes",
+    "country": "France",
+    "lat": 47.2186371,
+    "lng": -1.5541362
+  },
+  {
+    "id": "france-metal-invasion-radio",
+    "name": "Metal Invasion Radio",
+    "url": "https://radio.metal-invasion.fr/radio/8000/stream96",
+    "genre": "Music",
+    "city": "Toulouse",
+    "country": "France",
+    "lat": 43.6044638,
+    "lng": 1.4442433
+  },
+  {
+    "id": "france-campus-fm-94",
+    "name": "Campus FM 94",
+    "url": "http://live.radio-campus.org:8000/toulouse",
+    "genre": "Music",
+    "city": "Toulouse",
+    "country": "France",
+    "lat": 43.6044638,
+    "lng": 1.4442433
+  },
+  {
+    "id": "france-la-radio-des-locaux",
+    "name": "La Radio Des Locaux",
+    "url": "https://listen.radioking.com/radio/385231/stream/437443",
+    "genre": "Music",
+    "city": "Nantes",
+    "country": "France",
+    "lat": 47.2186371,
+    "lng": -1.5541362
+  },
+  {
+    "id": "france-djam-radio",
+    "name": "Djam Radio",
+    "url": "https://stream9.xdevel.com/audio1s976748-1515/stream/icecast.audio",
+    "genre": "Music",
+    "city": "Toulouse",
+    "country": "France",
+    "lat": 43.6044638,
+    "lng": 1.4442433
+  },
+  {
+    "id": "france-\u0016le-bon-mix-radio",
+    "name": "\u0016Le Bon Mix Radio",
+    "url": "https://stream9.xdevel.com/audio0s976748-1514/stream/icecast.audio",
+    "genre": "Music",
+    "city": "Toulouse",
+    "country": "France",
+    "lat": 43.6044638,
+    "lng": 1.4442433
+  },
+  {
+    "id": "france-grandsud-latina",
+    "name": "GrandSud Latina",
+    "url": "https://strw1.openstream.co/1183",
+    "genre": "Music",
+    "city": "Toulouse",
+    "country": "France",
+    "lat": 43.6044638,
+    "lng": 1.4442433
+  },
+  {
+    "id": "france-radio-kafeine",
+    "name": "Radio Kafeine",
+    "url": "https://listen.radioking.com/radio/262753/stream/307888",
+    "genre": "Music",
+    "city": "Toulouse",
+    "country": "France",
+    "lat": 43.6044638,
+    "lng": 1.4442433
+  },
+  {
+    "id": "france-oxygene-fm-942",
+    "name": "Oxygène FM 94.2",
+    "url": "http://stream.radios-arra.fr:8000/oxygenefm",
+    "genre": "Music",
+    "city": "Toulouse",
+    "country": "France",
+    "lat": 43.6044638,
+    "lng": 1.4442433
+  },
+  {
+    "id": "france-top-fm-variety",
+    "name": "Top FM Variety",
+    "url": "https://str3.openstream.co/2134?aw_0_1st.collectionid%3D6048%26stationId%3D6048%26publisherId%3D2158%26k%3D1769418549",
+    "genre": "Music",
+    "city": "Nantes",
+    "country": "France",
+    "lat": 47.2186371,
+    "lng": -1.5541362
+  },
+  {
+    "id": "france-cfm-radio",
+    "name": "CFM Radio",
+    "url": "https://cdnradio.streamakaci.com/cfmradio.mp3",
+    "genre": "Music",
+    "city": "Toulouse",
+    "country": "France",
+    "lat": 43.6044638,
+    "lng": 1.4442433
+  },
+  {
+    "id": "france-radio-octopus",
+    "name": "Radio Octopus",
+    "url": "http://media.radio-octopus.org:8000/192.mp3",
+    "genre": "Music",
+    "city": "Toulouse",
+    "country": "France",
+    "lat": 43.6044638,
+    "lng": 1.4442433
+  },
+  {
+    "id": "france-rcf-hauts-de-france-971-fm",
+    "name": "RCF Hauts-de-France 97.1 FM",
+    "url": "https://rcf.streamakaci.com/rcf59.mp3",
+    "genre": "Music",
+    "city": "Lille",
+    "country": "France",
+    "lat": 50.6365654,
+    "lng": 3.0635282
+  },
+  {
+    "id": "france-univers-radio",
+    "name": "Univers Radio",
+    "url": "http://51.210.110.91:8000/universradio.mp3",
+    "genre": "Music",
+    "city": "Lille",
+    "country": "France",
+    "lat": 50.6365654,
+    "lng": 3.0635282
+  },
+  {
+    "id": "france-paradise-radio",
+    "name": "Paradise Radio",
+    "url": "https://listen.radioking.com/radio/441527/stream/495803",
+    "genre": "Music",
+    "city": "Toulouse",
+    "country": "France",
+    "lat": 43.6044638,
+    "lng": 1.4442433
+  },
+  {
+    "id": "france-toulouse-fm-926",
+    "name": "Toulouse FM 92.6",
+    "url": "https://n02.rcs.revma.com/1x41712gy7uvv?rj-ttl=5&rj-tok=AAABm_mZmVQAggvAEBZHXu-AQQ",
+    "genre": "Music",
+    "city": "Toulouse",
+    "country": "France",
+    "lat": 43.6044638,
+    "lng": 1.4442433
+  },
+  {
+    "id": "france-metropole-fm",
+    "name": "Métropole FM",
+    "url": "https://flux.metropolefm.fr/stream.aac",
+    "genre": "Music",
+    "city": "Lille",
+    "country": "France",
+    "lat": 50.6365654,
+    "lng": 3.0635282
+  },
+  {
+    "id": "france-rpl-radio",
+    "name": "RPL Radio",
+    "url": "https://listen.radioking.com/radio/2966/stream/9128",
+    "genre": "Music",
+    "city": "Lille",
+    "country": "France",
+    "lat": 50.6365654,
+    "lng": 3.0635282
+  },
+  {
+    "id": "france-radio-de-la-save-fm-1028",
+    "name": "Radio de la Save FM 102.8",
+    "url": "https://sd-151888.dedibox.fr/proxy/radiodelasave/rdls",
+    "genre": "Music",
+    "city": "Toulouse",
+    "country": "France",
+    "lat": 43.6044638,
+    "lng": 1.4442433
+  },
+  {
+    "id": "france-radio-alize",
+    "name": "Radio Alize",
+    "url": "https://radioalize.ice.infomaniak.ch/radioalize-128.mp3",
+    "genre": "Music",
+    "city": "Nantes",
+    "country": "France",
+    "lat": 47.2186371,
+    "lng": -1.5541362
+  },
+  {
+    "id": "france-radio-fil-de-leau-1066-fm",
+    "name": "Radio Fil de l'Eau 106.6 FM",
+    "url": "https://hosting.radiomedia.fr:2495/stream",
+    "genre": "Music",
+    "city": "Toulouse",
+    "country": "France",
+    "lat": 43.6044638,
+    "lng": 1.4442433
+  },
+  {
+    "id": "france-rlm-1079-fm",
+    "name": "R.L.M. 107.9 FM",
+    "url": "http://philae.shoutca.st:8278/stream",
+    "genre": "Music",
+    "city": "Lille",
+    "country": "France",
+    "lat": 50.6365654,
+    "lng": 3.0635282
+  },
+  {
+    "id": "france-skyrock-fm",
+    "name": "Skyrock FM",
+    "url": "https://icecast.skyrock.net/s/lille_aac_128k",
+    "genre": "Music",
+    "city": "Lille",
+    "country": "France",
+    "lat": 50.6365654,
+    "lng": 3.0635282
+  },
+  {
+    "id": "france-roots-legacy-radio",
+    "name": "Roots Legacy Radio",
+    "url": "https://lq.rootslegacy.fr/index.html?sid=1",
+    "genre": "Music",
+    "city": "Lille",
+    "country": "France",
+    "lat": 50.6365654,
+    "lng": 3.0635282
+  },
+  {
+    "id": "france-soov-radio",
+    "name": "Soov Radio",
+    "url": "https://listen.radioking.com/radio/696383/stream/761276",
+    "genre": "Music",
+    "city": "Lille",
+    "country": "France",
+    "lat": 50.6365654,
+    "lng": 3.0635282
+  },
+  {
+    "id": "france-libellule-fm-1078",
+    "name": "Libellule FM 107.8",
+    "url": "https://manager5.streamradio.fr:1665/stream",
+    "genre": "Music",
+    "city": "Lille",
+    "country": "France",
+    "lat": 50.6365654,
+    "lng": 3.0635282
+  },
+  {
+    "id": "france-france-bleu-nord-fm-947",
+    "name": "France Bleu Nord FM 94.7",
+    "url": "https://icecast.radiofrance.fr/fbnord-lofi.mp3",
+    "genre": "Music",
+    "city": "Lille",
+    "country": "France",
+    "lat": 50.6365654,
+    "lng": 3.0635282
+  },
+  {
+    "id": "france-radio-nunc",
+    "name": "radio Nunc",
+    "url": "https://diffusion.radionunc.org:8443/stream",
+    "genre": "Music",
+    "city": "Marseille",
+    "country": "France",
+    "lat": 43.2961743,
+    "lng": 5.3699525
+  },
+  {
+    "id": "france-metropolys-976-fm",
+    "name": "Metropolys 97.6 FM",
+    "url": "https://n08.rcs.revma.com/rvwymh32w42vv?rj-ttl=5&rj-tok=AAABm_mZpNMAF4mUnmqNZlN_gw",
+    "genre": "Music",
+    "city": "Lille",
+    "country": "France",
+    "lat": 50.6365654,
+    "lng": 3.0635282
+  },
+  {
+    "id": "france-maxi-france",
+    "name": "Maxi France",
+    "url": "https://stream.maxifrance.radio/stream",
+    "genre": "Music",
+    "city": "Marseille",
+    "country": "France",
+    "lat": 43.2961743,
+    "lng": 5.3699525
+  },
+  {
+    "id": "france-rcm-13",
+    "name": "RCM 13",
+    "url": "https://stream.vestaradio.com/RCM13",
+    "genre": "Music",
+    "city": "Marseille",
+    "country": "France",
+    "lat": 43.2961743,
+    "lng": 5.3699525
+  },
+  {
+    "id": "france-radio-grenouille-fm-888",
+    "name": "Radio Grenouille FM 88.8",
+    "url": "https://live.radiogrenouille.com:8443/live",
+    "genre": "Music",
+    "city": "Marseille",
+    "country": "France",
+    "lat": 43.2961743,
+    "lng": 5.3699525
+  },
+  {
+    "id": "france-radio-campus-lille-1066-fm",
+    "name": "Radio Campus Lille 106.6 FM",
+    "url": "https://radiocampuslille.ice.infomaniak.ch/radiocampuslille-128.mp3",
+    "genre": "Music",
+    "city": "Lille",
+    "country": "France",
+    "lat": 50.6365654,
+    "lng": 3.0635282
+  },
+  {
+    "id": "france-mona-fm",
+    "name": "Mona FM",
+    "url": "https://monafm.ice.infomaniak.ch/monafm-high.mp3",
+    "genre": "Music",
+    "city": "Lille",
+    "country": "France",
+    "lat": 50.6365654,
+    "lng": 3.0635282
+  },
+  {
+    "id": "france-contact-fm",
+    "name": "Contact FM",
+    "url": "https://n10.rcs.revma.com/6gygqc1gy7uvv?rj-ttl=5&rj-tok=AAABm_mZp6cAW3PmoTsxJ7NzmA",
+    "genre": "Music",
+    "city": "Lille",
+    "country": "France",
+    "lat": 50.6365654,
+    "lng": 3.0635282
+  },
+  {
+    "id": "france-soul-radio-classics",
+    "name": "Soul Radio Classics",
+    "url": "https://listen.soulradio.eu/eu",
+    "genre": "Music",
+    "city": "Marseille",
+    "country": "France",
+    "lat": 43.2961743,
+    "lng": 5.3699525
+  },
+  {
+    "id": "france-radio-galere",
+    "name": "Radio Galère",
+    "url": "http://www.radiogalere.org:8080/galere.mp3",
+    "genre": "Music",
+    "city": "Marseille",
+    "country": "France",
+    "lat": 43.2961743,
+    "lng": 5.3699525
+  },
+  {
+    "id": "france-skyrock-marseilleaix",
+    "name": "Skyrock Marseille/Aix",
+    "url": "https://icecast.skyrock.net/s/marseille_aac_96k",
+    "genre": "Music",
+    "city": "Marseille",
+    "country": "France",
+    "lat": 43.2961743,
+    "lng": 5.3699525
+  },
+  {
+    "id": "france-france-bleu-provence-fm-1036",
+    "name": "France Bleu Provence FM 103.6",
+    "url": "https://icecast.radiofrance.fr/fbprovence-midfi.mp3",
+    "genre": "Music",
+    "city": "Marseille",
+    "country": "France",
+    "lat": 43.2961743,
+    "lng": 5.3699525
+  },
+  {
+    "id": "france-pastel-fm-994",
+    "name": "Pastel FM 99.4",
+    "url": "https://str3.openstream.co/215?aw_0_1st.collectionid%3D2986%26stationId%3D2986%26publisherId%3D36%26k%3D1769418555",
+    "genre": "Music",
+    "city": "Lille",
+    "country": "France",
+    "lat": 50.6365654,
+    "lng": 3.0635282
+  },
+  {
+    "id": "france-radio-star",
+    "name": "Radio Star",
+    "url": "https://n09.rcs.revma.com/b4yrpwdu7ucwv?rj-ttl=5&rj-tok=AAABm_mZrHMAGr5df3EzEtyakQ",
+    "genre": "Music",
+    "city": "Marseille",
+    "country": "France",
+    "lat": 43.2961743,
+    "lng": 5.3699525
+  },
+  {
+    "id": "france-radio-service",
+    "name": "Radio Service",
+    "url": "https://stream.radioserviceweb.fr/radioservice.mp3",
+    "genre": "Music",
+    "city": "Marseille",
+    "country": "France",
+    "lat": 43.2961743,
+    "lng": 5.3699525
+  },
+  {
+    "id": "france-reillannair",
+    "name": "Reillann'air",
+    "url": "https://libretimeprod.reillannair.com:8443/reillannair",
+    "genre": "Music",
+    "city": "Marseille",
+    "country": "France",
+    "lat": 43.2961743,
+    "lng": 5.3699525
+  },
+  {
+    "id": "france-france-bleu-elsass-am-1278",
+    "name": "France Bleu Elsass AM 1278",
+    "url": "https://icecast.radiofrance.fr/fbelsass-midfi.mp3",
+    "genre": "Music",
+    "city": "Strasbourg",
+    "country": "France",
+    "lat": 48.584614,
+    "lng": 7.7507127
+  },
+  {
+    "id": "france-france-bleu-alsace-1014-fm",
+    "name": "France Bleu Alsace 101.4 FM",
+    "url": "https://icecast.radiofrance.fr/fbalsace-midfi.mp3",
+    "genre": "Music",
+    "city": "Strasbourg",
+    "country": "France",
+    "lat": 48.584614,
+    "lng": 7.7507127
+  },
+  {
+    "id": "france-radio-rbs-fm-919",
+    "name": "Radio RBS FM 91.9",
+    "url": "https://listen.radioking.com/radio/178981/stream/220666",
+    "genre": "Music",
+    "city": "Strasbourg",
+    "country": "France",
+    "lat": 48.584614,
+    "lng": 7.7507127
+  },
+  {
+    "id": "france-tonic-radio-marseille",
+    "name": "Tonic Radio Marseille",
+    "url": "https://tonicradiohd.ice.infomaniak.ch/tonicradiohd-128.mp3",
+    "genre": "Music",
+    "city": "Marseille",
+    "country": "France",
+    "lat": 43.2961743,
+    "lng": 5.3699525
+  },
+  {
+    "id": "france-euradio-lille-dab+",
+    "name": "Euradio Lille DAB+",
+    "url": "https://euradio59.ice.infomaniak.ch/euradio59-192.mp3",
+    "genre": "Music",
+    "city": "Lille",
+    "country": "France",
+    "lat": 50.6365654,
+    "lng": 3.0635282
+  },
+  {
+    "id": "france-fip-strasbourg-fm-924",
+    "name": "FIP Strasbourg FM 92.4",
+    "url": "https://icecast.radiofrance.fr/fip-midfi.mp3",
+    "genre": "Music",
+    "city": "Strasbourg",
+    "country": "France",
+    "lat": 48.584614,
+    "lng": 7.7507127
+  },
+  {
+    "id": "france-maritima-fm-936",
+    "name": "Maritima FM 93.6",
+    "url": "https://maritima936.ice.infomaniak.ch/maritima936-128.mp3",
+    "genre": "Music",
+    "city": "Marseille",
+    "country": "France",
+    "lat": 43.2961743,
+    "lng": 5.3699525
+  },
+  {
+    "id": "france-radio-star-toulon",
+    "name": "Radio Star Toulon",
+    "url": "https://n01.rcs.revma.com/vmnc89du7ucwv?rj-ttl=5&rj-tok=AAABm_mZtrYAzqsa8yLcG2aaSg",
+    "genre": "Music",
+    "city": "Marseille",
+    "country": "France",
+    "lat": 43.2961743,
+    "lng": 5.3699525
+  },
+  {
+    "id": "france-maritima-marseille",
+    "name": "Maritima Marseille",
+    "url": "https://maritima1072.ice.infomaniak.ch/maritima1072-128.mp3",
+    "genre": "Music",
+    "city": "Marseille",
+    "country": "France",
+    "lat": 43.2961743,
+    "lng": 5.3699525
+  },
+  {
+    "id": "france-frequence-verte",
+    "name": "Fréquence Verte",
+    "url": "https://listen.radioking.com/radio/209212/stream/252133",
+    "genre": "Music",
+    "city": "Strasbourg",
+    "country": "France",
+    "lat": 48.584614,
+    "lng": 7.7507127
+  },
+  {
+    "id": "france-frequence-nautique",
+    "name": "Fréquence Nautique",
+    "url": "https://str0.creacast.com/frequence_nautique",
+    "genre": "Music",
+    "city": "Marseille",
+    "country": "France",
+    "lat": 43.2961743,
+    "lng": 5.3699525
+  },
+  {
+    "id": "france-azur-fm-67",
+    "name": "Azur FM 67",
+    "url": "http://live.radioking.fr/azur-fm-68",
+    "genre": "Music",
+    "city": "Strasbourg",
+    "country": "France",
+    "lat": 48.584614,
+    "lng": 7.7507127
+  },
+  {
+    "id": "france-accent-4",
+    "name": "Accent 4",
+    "url": "https://str0.creacast.com/accent4web",
+    "genre": "Music",
+    "city": "Strasbourg",
+    "country": "France",
+    "lat": 48.584614,
+    "lng": 7.7507127
+  },
+  {
+    "id": "france-skyrock",
+    "name": "Skyrock",
+    "url": "https://icecast.skyrock.net/s/natio_mp3_128k?tvr_name=tunein16&tvr_section1=128mp3",
+    "genre": "Music",
+    "city": "Strasbourg",
+    "country": "France",
+    "lat": 48.584614,
+    "lng": 7.7507127
+  },
+  {
+    "id": "france-euradio-strasbourg-dab+",
+    "name": "Euradio Strasbourg DAB+",
+    "url": "https://euradio67.ice.infomaniak.ch/euradio67-192.mp3",
+    "genre": "Music",
+    "city": "Strasbourg",
+    "country": "France",
+    "lat": 48.584614,
+    "lng": 7.7507127
+  },
+  {
+    "id": "france-ola-radio",
+    "name": "Ola Radio",
+    "url": "https://ola-radio.radiocult.fm/stream",
+    "genre": "Music",
+    "city": "Bordeaux",
+    "country": "France",
+    "lat": 44.841225,
+    "lng": -0.5800364
+  },
+  {
+    "id": "france-amplitudes-radio",
+    "name": "Amplitudes Radio",
+    "url": "https://listen.radioking.com/radio/591304/stream/654688",
+    "genre": "Music",
+    "city": "Bordeaux",
+    "country": "France",
+    "lat": 44.841225,
+    "lng": -0.5800364
+  },
+  {
+    "id": "france-riffx-festival",
+    "name": "Riffx Festival",
+    "url": "https://stream.myjungly.fr/RIFFX",
+    "genre": "Music",
+    "city": "Strasbourg",
+    "country": "France",
+    "lat": 48.584614,
+    "lng": 7.7507127
+  },
+  {
+    "id": "france-rcf-bordeaux",
+    "name": "RCF Bordeaux",
+    "url": "https://rcfing.streamakaci.com/rcf33.mp3",
+    "genre": "Music",
+    "city": "Bordeaux",
+    "country": "France",
+    "lat": 44.841225,
+    "lng": -0.5800364
+  },
+  {
+    "id": "france-radio-en-construction",
+    "name": "Radio en Construction",
+    "url": "https://str0.creacast.com/rec",
+    "genre": "Music",
+    "city": "Strasbourg",
+    "country": "France",
+    "lat": 48.584614,
+    "lng": 7.7507127
+  },
+  {
+    "id": "france-rcb-fm-1035-radio-du-coyroye-de-la-bruche",
+    "name": "RCB FM 103.5 Radio du Coyroye de la Bruche",
+    "url": "https://radio12.pro-fhi.net/radio/9013/stream",
+    "genre": "Music",
+    "city": "Strasbourg",
+    "country": "France",
+    "lat": 48.584614,
+    "lng": 7.7507127
+  },
+  {
+    "id": "france-enjoy-33",
+    "name": "Enjoy 33",
+    "url": "https://radiotrg.ice.infomaniak.ch/radiotrg-high.mp3",
+    "genre": "Music",
+    "city": "Bordeaux",
+    "country": "France",
+    "lat": 44.841225,
+    "lng": -0.5800364
+  },
+  {
+    "id": "france-airzen-radio",
+    "name": "AirZen Radio",
+    "url": "https://n10a-eu.rcs.revma.com/vuumdncf368uv?rj-ttl=5&rj-tok=AAABm_mZxIwA2bSiR74pNJi7bw",
+    "genre": "Music",
+    "city": "Bordeaux",
+    "country": "France",
+    "lat": 44.841225,
+    "lng": -0.5800364
+  },
+  {
+    "id": "france-radio-arc-en-ciel",
+    "name": "Radio Arc En Ciel",
+    "url": "https://str0.creacast.com/arcencielweb",
+    "genre": "Music",
+    "city": "Strasbourg",
+    "country": "France",
+    "lat": 48.584614,
+    "lng": 7.7507127
+  },
+  {
+    "id": "france-france-bleu-gironde-1001-fm",
+    "name": "France Bleu Gironde 100.1 FM",
+    "url": "https://icecast.radiofrance.fr/fbgironde-midfi.mp3",
+    "genre": "Music",
+    "city": "Bordeaux",
+    "country": "France",
+    "lat": 44.841225,
+    "lng": -0.5800364
+  },
+  {
+    "id": "france-radio-bordo-chato",
+    "name": "Radio Bordo Chato",
+    "url": "https://listen.radioking.com/radio/370300/stream/421087",
+    "genre": "Music",
+    "city": "Bordeaux",
+    "country": "France",
+    "lat": 44.841225,
+    "lng": -0.5800364
+  },
+  {
+    "id": "france-top-music-fm-911",
+    "name": "Top Music FM 91.1",
+    "url": "https://sc.creacast.com/topmusic_haguenau",
+    "genre": "Music",
+    "city": "Strasbourg",
+    "country": "France",
+    "lat": 48.584614,
+    "lng": 7.7507127
+  },
+  {
+    "id": "france-top-music",
+    "name": "Top Music",
+    "url": "https://sc.creacast.com/topmusic_saverne",
+    "genre": "Music",
+    "city": "Strasbourg",
+    "country": "France",
+    "lat": 48.584614,
+    "lng": 7.7507127
+  },
+  {
+    "id": "france-radio-judaïca-strasbourg",
+    "name": "Radio Judaïca Strasbourg",
+    "url": "https://radiojudaicastrasbourg.ice.infomaniak.ch/radiojudaicastrasbourg-128.mp3",
+    "genre": "Music",
+    "city": "Strasbourg",
+    "country": "France",
+    "lat": 48.584614,
+    "lng": 7.7507127
+  },
+  {
+    "id": "france-radio-campus-bordeaux-fm-881",
+    "name": "Radio Campus Bordeaux FM 88.1",
+    "url": "http://live.radiocampus.fr:8000/campus-bordeaux",
+    "genre": "Music",
+    "city": "Bordeaux",
+    "country": "France",
+    "lat": 44.841225,
+    "lng": -0.5800364
+  },
+  {
+    "id": "france-radio-chant-libre",
+    "name": "Radio Chant Libre",
+    "url": "https://ecmanager2.pro-fhi.net/rcl",
+    "genre": "Music",
+    "city": "Bordeaux",
+    "country": "France",
+    "lat": 44.841225,
+    "lng": -0.5800364
+  },
+  {
+    "id": "france-plage-fm-891",
+    "name": "Plage FM 89.1",
+    "url": "https://stream.plagefm.fr/listen.mp3",
+    "genre": "Music",
+    "city": "Bordeaux",
+    "country": "France",
+    "lat": 44.841225,
+    "lng": -0.5800364
+  },
+  {
+    "id": "france-radio-clapas-fm-935",
+    "name": "Radio Clapas FM 93.5",
+    "url": "https://stations.radioclapas.fr/radio/8130/radio.mp3",
+    "genre": "Music",
+    "city": "Montpellier",
+    "country": "France",
+    "lat": 43.6112422,
+    "lng": 3.8767337
+  },
+  {
+    "id": "france-radio-cadence-musique-992-fm",
+    "name": "Radio Cadence Musique 99.2 FM",
+    "url": "https://radiocadencemusique.ice.infomaniak.ch/radiocadencemusique-128.mp3",
+    "genre": "Music",
+    "city": "Bordeaux",
+    "country": "France",
+    "lat": 44.841225,
+    "lng": -0.5800364
+  },
+  {
+    "id": "france-piñata-radio",
+    "name": "Piñata Radio",
+    "url": "https://listen.radioking.com/radio/96031/stream/134656",
+    "genre": "Music",
+    "city": "Montpellier",
+    "country": "France",
+    "lat": 43.6112422,
+    "lng": 3.8767337
+  },
+  {
+    "id": "france-top-music",
+    "name": "Top Music",
+    "url": "https://sc.creacast.com/topmusic_strasbourg",
+    "genre": "Music",
+    "city": "Strasbourg",
+    "country": "France",
+    "lat": 48.584614,
+    "lng": 7.7507127
+  },
+  {
+    "id": "france-rcf-maguelone-herault-985-fm",
+    "name": "RCF Maguelone Hérault 98.5 FM",
+    "url": "https://rcf.streamakaci.com/rcf34.mp3",
+    "genre": "Music",
+    "city": "Montpellier",
+    "country": "France",
+    "lat": 43.6112422,
+    "lng": 3.8767337
+  },
+  {
+    "id": "france-forever-bordeaux",
+    "name": "Forever Bordeaux",
+    "url": "https://n09.rcs.revma.com/x5m14dystk3vv?rj-ttl=5&rj-tok=AAABm_mZz-QAIBLgzwX8Po6rUw",
+    "genre": "Music",
+    "city": "Bordeaux",
+    "country": "France",
+    "lat": 44.841225,
+    "lng": -0.5800364
+  },
+  {
+    "id": "france-radio-campus-montpellier-1022-fm",
+    "name": "Radio Campus Montpellier 102.2 FM",
+    "url": "https://stream.radiocampusmontpellier.fr/rcm_direct",
+    "genre": "Music",
+    "city": "Montpellier",
+    "country": "France",
+    "lat": 43.6112422,
+    "lng": 3.8767337
+  },
+  {
+    "id": "france-delta-fm-889",
+    "name": "Delta FM 88.9",
+    "url": "http://stream.radios-arra.fr:8000/deltafm",
+    "genre": "Music",
+    "city": "Montpellier",
+    "country": "France",
+    "lat": 43.6112422,
+    "lng": 3.8767337
+  },
+  {
+    "id": "france-wit-80s",
+    "name": "Wit 80's",
+    "url": "https://wit80s.ice.infomaniak.ch/wit80s.mp3",
+    "genre": "Music",
+    "city": "Bordeaux",
+    "country": "France",
+    "lat": 44.841225,
+    "lng": -0.5800364
+  },
+  {
+    "id": "france-arl-fm",
+    "name": "Arl FM",
+    "url": "https://n03.rcs.revma.com/rxdsv41g88hvv?rj-ttl=5&rj-tok=AAABm_mZ0fEAUcJEcQHzQ8v56Q",
+    "genre": "Music",
+    "city": "Bordeaux",
+    "country": "France",
+    "lat": 44.841225,
+    "lng": -0.5800364
+  },
+  {
+    "id": "france-radio-croco",
+    "name": "Radio Croco",
+    "url": "https://listen.radioking.com/radio/73198/stream/176488",
+    "genre": "Music",
+    "city": "Montpellier",
+    "country": "France",
+    "lat": 43.6112422,
+    "lng": 3.8767337
+  },
+  {
+    "id": "france-eko-des-garrigues",
+    "name": "Eko des Garrigues",
+    "url": "https://radio.ekodesgarrigues.com/eko-des-garrigues-128k.mp3",
+    "genre": "Music",
+    "city": "Montpellier",
+    "country": "France",
+    "lat": 43.6112422,
+    "lng": 3.8767337
+  },
+  {
+    "id": "france-wit-fm-1008",
+    "name": "Wit FM 100.8",
+    "url": "https://start-witfm.ice.infomaniak.ch/start-witfm-high.mp3",
+    "genre": "Music",
+    "city": "Bordeaux",
+    "country": "France",
+    "lat": 44.841225,
+    "lng": -0.5800364
+  },
+  {
+    "id": "france-radio-aviva-88-fm",
+    "name": "Radio Aviva 88 FM",
+    "url": "https://radio13.pro-fhi.net/listen-tpgmxyoe-stream.mp3",
+    "genre": "Music",
+    "city": "Montpellier",
+    "country": "France",
+    "lat": 43.6112422,
+    "lng": 3.8767337
+  },
+  {
+    "id": "france-wit-2000",
+    "name": "Wit 2000",
+    "url": "https://wit2000.ice.infomaniak.ch/wit2000.mp3",
+    "genre": "Music",
+    "city": "Bordeaux",
+    "country": "France",
+    "lat": 44.841225,
+    "lng": -0.5800364
+  },
+  {
+    "id": "france-electro-live-dj",
+    "name": "Electro Live DJ",
+    "url": "https://radio13.pro-fhi.net/listen/mannjbym/stream.mp3",
+    "genre": "Music",
+    "city": "Montpellier",
+    "country": "France",
+    "lat": 43.6112422,
+    "lng": 3.8767337
+  },
+  {
+    "id": "france-rayvox",
+    "name": "Rayvox",
+    "url": "https://www.rayvox.org:8443/flux",
+    "genre": "Music",
+    "city": "Montpellier",
+    "country": "France",
+    "lat": 43.6112422,
+    "lng": 3.8767337
+  },
+  {
+    "id": "france-wit-90s",
+    "name": "Wit 90's",
+    "url": "https://wit90s.ice.infomaniak.ch/wit90s.mp3",
+    "genre": "Music",
+    "city": "Bordeaux",
+    "country": "France",
+    "lat": 44.841225,
+    "lng": -0.5800364
+  },
+  {
+    "id": "france-radio-sommieres-fm-1029",
+    "name": "Radio Sommières FM 102.9",
+    "url": "https://stream-ssl.radios-arra.fr:8443/sommieres",
+    "genre": "Music",
+    "city": "Montpellier",
+    "country": "France",
+    "lat": 43.6112422,
+    "lng": 3.8767337
+  },
+  {
+    "id": "france-rph-989-fm",
+    "name": "RPH 98.9 FM",
+    "url": "https://stream-ssl.radios-arra.fr:8443/rphsud",
+    "genre": "Music",
+    "city": "Montpellier",
+    "country": "France",
+    "lat": 43.6112422,
+    "lng": 3.8767337
+  },
+  {
+    "id": "france-radio-lenga-doc-fm-954",
+    "name": "Ràdio Lenga d'Òc FM 95.4",
+    "url": "https://stream-ssl.radios-arra.fr:8443/rlo",
+    "genre": "Music",
+    "city": "Montpellier",
+    "country": "France",
+    "lat": 43.6112422,
+    "lng": 3.8767337
+  },
+  {
+    "id": "france-stereo-gang-radio",
+    "name": "Stereo Gang Radio",
+    "url": "https://listen.radioking.com/radio/355045/stream/406612",
+    "genre": "Music",
+    "city": "Montpellier",
+    "country": "France",
+    "lat": 43.6112422,
+    "lng": 3.8767337
+  },
+  {
+    "id": "france-radio-one",
+    "name": "Radio One",
+    "url": "https://radioone.ice.infomaniak.ch/radioone-96.mp3",
+    "genre": "Music",
+    "city": "Montpellier",
+    "country": "France",
+    "lat": 43.6112422,
+    "lng": 3.8767337
+  },
+  {
+    "id": "france-radio-campus-orleans",
+    "name": "Radio Campus Orleans",
+    "url": "https://streams.labomedia.org:8443/stream_rco",
+    "genre": "Music",
+    "city": "Orléans",
+    "country": "France",
+    "lat": 47.9027336,
+    "lng": 1.9086066
+  },
+  {
+    "id": "france-c2l-fm893",
+    "name": "C2L FM89.3",
+    "url": "http://srv2.streaming-ingenierie.fr:8164/;stream.nsv&showtime=1",
+    "genre": "Music",
+    "city": "Orléans",
+    "country": "France",
+    "lat": 47.9027336,
+    "lng": 1.9086066
+  },
+  {
+    "id": "france-radio-vince-autoroutes-1077",
+    "name": "Radio Vince Autoroutes 107.7",
+    "url": "https://str0.creacast.com/radio_vinci_autoroutes_4",
+    "genre": "Music",
+    "city": "Montpellier",
+    "country": "France",
+    "lat": 43.6112422,
+    "lng": 3.8767337
+  },
+  {
+    "id": "france-vikland-radio",
+    "name": "VIKLAND Radio",
+    "url": "https://manager8.streamradio.fr:2195/stream",
+    "genre": "Music",
+    "city": "Orléans",
+    "country": "France",
+    "lat": 47.9027336,
+    "lng": 1.9086066
+  },
+  {
+    "id": "france-hit-a-jam",
+    "name": "Hit a Jam",
+    "url": "https://listen.radioking.com/radio/2063/stream/6491",
+    "genre": "Music",
+    "city": "Orléans",
+    "country": "France",
+    "lat": 47.9027336,
+    "lng": 1.9086066
+  },
+  {
+    "id": "france-radio-partage",
+    "name": "Radio Partage",
+    "url": "https://manager7.streamradio.fr/radiopartage",
+    "genre": "Music",
+    "city": "Orléans",
+    "country": "France",
+    "lat": 47.9027336,
+    "lng": 1.9086066
+  },
+  {
+    "id": "france-collector-radio",
+    "name": "Collector Radio",
+    "url": "https://ouifm6.ice.infomaniak.ch/ouifm6-128.mp3",
+    "genre": "Music",
+    "city": "Orléans",
+    "country": "France",
+    "lat": 47.9027336,
+    "lng": 1.9086066
+  },
+  {
+    "id": "france-rts-fm",
+    "name": "RTS FM",
+    "url": "https://sc.creacast.com/rts-national",
+    "genre": "Music",
+    "city": "Montpellier",
+    "country": "France",
+    "lat": 43.6112422,
+    "lng": 3.8767337
+  },
+  {
+    "id": "france-forum-2000",
+    "name": "Forum 2000",
+    "url": "https://forum2000.ice.infomaniak.ch/forum2000.mp3",
+    "genre": "Music",
+    "city": "Orléans",
+    "country": "France",
+    "lat": 47.9027336,
+    "lng": 1.9086066
+  },
+  {
+    "id": "france-forum-80s",
+    "name": "Forum 80's",
+    "url": "https://forum80s.ice.infomaniak.ch/forum80s.mp3",
+    "genre": "Music",
+    "city": "Orléans",
+    "country": "France",
+    "lat": 47.9027336,
+    "lng": 1.9086066
+  },
+  {
+    "id": "france-forum-70s",
+    "name": "Forum 70's",
+    "url": "https://forum70s.ice.infomaniak.ch/forum70s.mp3",
+    "genre": "Music",
+    "city": "Orléans",
+    "country": "France",
+    "lat": 47.9027336,
+    "lng": 1.9086066
+  },
+  {
+    "id": "france-forum",
+    "name": "Forum",
+    "url": "https://start-forum.ice.infomaniak.ch/start-forum-high.mp3",
+    "genre": "Music",
+    "city": "Orléans",
+    "country": "France",
+    "lat": 47.9027336,
+    "lng": 1.9086066
+  },
+  {
+    "id": "france-cerise-fm-882",
+    "name": "Cerise FM 88.2",
+    "url": "https://n25a-eu.rcs.revma.com/q90fb3dwnwzuv.mp3?rj-ttl=5&rj-tok=AAABm_mZ6vkAIaTII1VaRd2HIA",
+    "genre": "Music",
+    "city": "Mulhouse",
+    "country": "France",
+    "lat": 47.7467233,
+    "lng": 7.3389937
+  },
+  {
+    "id": "france-vibration",
+    "name": "Vibration",
+    "url": "https://vibration.ice.infomaniak.ch/vibration-high.mp3",
+    "genre": "Music",
+    "city": "Orléans",
+    "country": "France",
+    "lat": 47.9027336,
+    "lng": 1.9086066
+  },
+  {
+    "id": "france-vibration-90s",
+    "name": "Vibration 90's",
+    "url": "https://vibration90s.ice.infomaniak.ch/vibration90s.mp3",
+    "genre": "Music",
+    "city": "Orléans",
+    "country": "France",
+    "lat": 47.9027336,
+    "lng": 1.9086066
+  },
+  {
+    "id": "france-cerise-fm-clubbing",
+    "name": "Cerise FM Clubbing",
+    "url": "https://n06a-eu.rcs.revma.com/x81sb1uvszzuv.mp3?rj-ttl=5&rj-tok=AAABm_mZ7RsA6OxRpgwdcieIew",
+    "genre": "Music",
+    "city": "Mulhouse",
+    "country": "France",
+    "lat": 47.7467233,
+    "lng": 7.3389937
+  },
+  {
+    "id": "france-vibration-80s",
+    "name": "Vibration 80's",
+    "url": "https://vibration80s.ice.infomaniak.ch/vibration80s.mp3",
+    "genre": "Music",
+    "city": "Orléans",
+    "country": "France",
+    "lat": 47.9027336,
+    "lng": 1.9086066
+  },
+  {
+    "id": "france-vibration-fm",
+    "name": "Vibration FM",
+    "url": "https://vibration.ice.infomaniak.ch/vibration-high.aac",
+    "genre": "Music",
+    "city": "Orléans",
+    "country": "France",
+    "lat": 47.9027336,
+    "lng": 1.9086066
+  },
+  {
+    "id": "france-forum-90s",
+    "name": "Forum 90's",
+    "url": "https://forum90s.ice.infomaniak.ch/forum90s.mp3",
+    "genre": "Music",
+    "city": "Orléans",
+    "country": "France",
+    "lat": 47.9027336,
+    "lng": 1.9086066
+  },
+  {
+    "id": "france-vibration-2000",
+    "name": "Vibration 2000",
+    "url": "https://vibration2000.ice.infomaniak.ch/vibration2000.mp3",
+    "genre": "Music",
+    "city": "Orléans",
+    "country": "France",
+    "lat": 47.9027336,
+    "lng": 1.9086066
+  },
+  {
+    "id": "france-radio-intensite",
+    "name": "Radio Intensité",
+    "url": "https://sc.creacast.com/intensite",
+    "genre": "Music",
+    "city": "Orléans",
+    "country": "France",
+    "lat": 47.9027336,
+    "lng": 1.9086066
+  },
+  {
+    "id": "france-dkl-crooners",
+    "name": "DKL Crooners",
+    "url": "https://n10.rcs.revma.com/20396bhcfwzuv.mp3?rj-ttl=5&rj-tok=AAABm_mZ71sAXQacKC1DtkcqSA",
+    "genre": "Music",
+    "city": "Mulhouse",
+    "country": "France",
+    "lat": 47.7467233,
+    "lng": 7.3389937
+  },
+  {
+    "id": "france-radio-rcu",
+    "name": "RADIO RCU",
+    "url": "http://91.121.59.45:8169/rcu",
+    "genre": "Music",
+    "city": "Mulhouse",
+    "country": "France",
+    "lat": 47.7467233,
+    "lng": 7.3389937
+  },
+  {
+    "id": "france-radio-cigogne",
+    "name": "Radio Cigogne",
+    "url": "http://philae.shoutca.st:8031/radiocigogne",
+    "genre": "Music",
+    "city": "Mulhouse",
+    "country": "France",
+    "lat": 47.7467233,
+    "lng": 7.3389937
+  },
+  {
+    "id": "france-dkl-apres-ski",
+    "name": "DKL Apres-ski",
+    "url": "https://n37a-eu.rcs.revma.com/bdptknzunwzuv.mp3?rj-ttl=5&rj-tok=AAABm_mZ8ykAPoE-rUpuelG28A",
+    "genre": "Music",
+    "city": "Mulhouse",
+    "country": "France",
+    "lat": 47.7467233,
+    "lng": 7.3389937
+  },
+  {
+    "id": "france-phare-fm-ebene",
+    "name": "Phare FM Ébène",
+    "url": "https://str0.creacast.com/pharefm_ebene",
+    "genre": "Music",
+    "city": "Mulhouse",
+    "country": "France",
+    "lat": 47.7467233,
+    "lng": 7.3389937
+  },
+  {
+    "id": "france-dkl-dreyeckland",
+    "name": "DKL Dreyeckland",
+    "url": "https://n06.rcs.revma.com/cvcrbdtzmwzuv.mp3?rj-ttl=5&rj-tok=AAABm_mZ824Aj3pwdRb0EMnvLA",
+    "genre": "Music",
+    "city": "Mulhouse",
+    "country": "France",
+    "lat": 47.7467233,
+    "lng": 7.3389937
+  },
+  {
+    "id": "france-rockin-chair",
+    "name": "Rockin' Chair",
+    "url": "https://oliveraie68.radioca.st/stream",
+    "genre": "Music",
+    "city": "Mulhouse",
+    "country": "France",
+    "lat": 47.7467233,
+    "lng": 7.3389937
+  },
+  {
+    "id": "france-france-bleu-armorique-1031fm",
+    "name": "France Bleu Armorique 103.1FM",
+    "url": "https://icecast.radiofrance.fr/fbarmorique-midfi.mp3",
+    "genre": "Music",
+    "city": "Rennes",
+    "country": "France",
+    "lat": 48.1113387,
+    "lng": -1.6800198
+  },
+  {
+    "id": "france-phare-fm-worship",
+    "name": "Phare FM Worship",
+    "url": "https://str0.creacast.com/pharefm_worship",
+    "genre": "Music",
+    "city": "Mulhouse",
+    "country": "France",
+    "lat": 47.7467233,
+    "lng": 7.3389937
+  },
+  {
+    "id": "france-radio-laser-fm-959",
+    "name": "Radio Laser FM 95.9",
+    "url": "https://stream.radios.bzh/listen/radiolaser/radio.mp3",
+    "genre": "Music",
+    "city": "Rennes",
+    "country": "France",
+    "lat": 48.1113387,
+    "lng": -1.6800198
+  },
+  {
+    "id": "france-canal-b",
+    "name": "Canal B",
+    "url": "https://stream.levillage.org/canalb",
+    "genre": "Music",
+    "city": "Rennes",
+    "country": "France",
+    "lat": 48.1113387,
+    "lng": -1.6800198
+  },
+  {
+    "id": "france-timbre-fm",
+    "name": "Timbre FM",
+    "url": "https://stream.radios.bzh/listen/timbrefm/radio.mp3",
+    "genre": "Music",
+    "city": "Rennes",
+    "country": "France",
+    "lat": 48.1113387,
+    "lng": -1.6800198
+  },
+  {
+    "id": "france-libre-antenne",
+    "name": "libre antenne",
+    "url": "https://stream.libre-antenne.fr/radio/8000/radio.mp3",
+    "genre": "Music",
+    "city": "Rennes",
+    "country": "France",
+    "lat": 48.1113387,
+    "lng": -1.6800198
+  },
+  {
+    "id": "france-radio-mne-1075-fm",
+    "name": "Radio MNE 107.5 FM",
+    "url": "https://mne.out.airtime.pro:8000/mne_b",
+    "genre": "Music",
+    "city": "Mulhouse",
+    "country": "France",
+    "lat": 47.7467233,
+    "lng": 7.3389937
+  },
+  {
+    "id": "france-foujair",
+    "name": "Foujair",
+    "url": "https://tempete.ondes.fm:8443/hifi",
+    "genre": "Music",
+    "city": "Rennes",
+    "country": "France",
+    "lat": 48.1113387,
+    "lng": -1.6800198
+  },
+  {
+    "id": "france-radio-rennes-fm-1008",
+    "name": "Radio Rennes FM 100.8",
+    "url": "https://stream4.vestaradio.com/RADIORENNES",
+    "genre": "Music",
+    "city": "Rennes",
+    "country": "France",
+    "lat": 48.1113387,
+    "lng": -1.6800198
+  },
+  {
+    "id": "france-azur-fm-68",
+    "name": "Azur FM 68",
+    "url": "https://listen.radioking.com/radio/74176/stream/112159",
+    "genre": "Music",
+    "city": "Mulhouse",
+    "country": "France",
+    "lat": 47.7467233,
+    "lng": 7.3389937
+  },
+  {
+    "id": "france-phare-fm-louange",
+    "name": "Phare FM Louange",
+    "url": "https://str0.creacast.com/pharefm_louange",
+    "genre": "Music",
+    "city": "Mulhouse",
+    "country": "France",
+    "lat": 47.7467233,
+    "lng": 7.3389937
+  },
+  {
+    "id": "france-radio-quartier-des-ondes",
+    "name": "Radio Quartier des Ondes",
+    "url": "https://listen.radioking.com/radio/204025/stream/246766",
+    "genre": "Music",
+    "city": "Rennes",
+    "country": "France",
+    "lat": 48.1113387,
+    "lng": -1.6800198
+  },
+  {
+    "id": "france-radio-quetsch",
+    "name": "Radio Quetsch",
+    "url": "https://stream.quets.ch/live",
+    "genre": "Music",
+    "city": "Mulhouse",
+    "country": "France",
+    "lat": 47.7467233,
+    "lng": 7.3389937
+  },
+  {
+    "id": "france-la-vilaine-radio",
+    "name": "La Vilaine Radio",
+    "url": "https://listen.radioking.com/radio/417076/stream/473398",
+    "genre": "Music",
+    "city": "Rennes",
+    "country": "France",
+    "lat": 48.1113387,
+    "lng": -1.6800198
+  },
+  {
+    "id": "france-ecn-981-fm",
+    "name": "ECN 98.1 FM",
+    "url": "https://ice.creacast.com/ecn_hq.mp3",
+    "genre": "Music",
+    "city": "Mulhouse",
+    "country": "France",
+    "lat": 47.7467233,
+    "lng": 7.3389937
+  },
+  {
+    "id": "france-radio44",
+    "name": "Radio44",
+    "url": "https://eu.publicssl.net/7020/",
+    "genre": "Music",
+    "city": "Rennes",
+    "country": "France",
+    "lat": 48.1113387,
+    "lng": -1.6800198
+  },
+  {
+    "id": "france-buzznco",
+    "name": "BuzzNCo",
+    "url": "https://listen.radioking.com/radio/258328/stream/303013",
+    "genre": "Music",
+    "city": "Grenoble",
+    "country": "France",
+    "lat": 45.1875602,
+    "lng": 5.7357819
+  },
+  {
+    "id": "france-radio-campus-grenoble",
+    "name": "Radio Campus Grenoble",
+    "url": "https://live.campusgrenoble.org/rcg112",
+    "genre": "Music",
+    "city": "Grenoble",
+    "country": "France",
+    "lat": 45.1875602,
+    "lng": 5.7357819
+  },
+  {
+    "id": "france-radio-gresivaudan",
+    "name": "Radio Grésivaudan",
+    "url": "https://live.aurafm.org/Radio-Gresivaudan",
+    "genre": "Music",
+    "city": "Grenoble",
+    "country": "France",
+    "lat": 45.1875602,
+    "lng": 5.7357819
+  },
+  {
+    "id": "france-radio-royans",
+    "name": "Radio Royans",
+    "url": "https://live.aurafm.org/RadioRoyans",
+    "genre": "Music",
+    "city": "Grenoble",
+    "country": "France",
+    "lat": 45.1875602,
+    "lng": 5.7357819
+  },
+  {
+    "id": "france-radio-dragon-1044-fm",
+    "name": "Radio Dragon 104.4 FM",
+    "url": "https://live.aurafm.org/RadioDragon",
+    "genre": "Music",
+    "city": "Grenoble",
+    "country": "France",
+    "lat": 45.1875602,
+    "lng": 5.7357819
+  },
+  {
+    "id": "france-radio-fontaine-886-fm",
+    "name": "Radio Fontaine 88.6 FM",
+    "url": "https://live.aurafm.org/RadioFontaine",
+    "genre": "Music",
+    "city": "Grenoble",
+    "country": "France",
+    "lat": 45.1875602,
+    "lng": 5.7357819
+  },
+  {
+    "id": "france-france-bleu-azur",
+    "name": "France Bleu Azur",
+    "url": "https://icecast.radiofrance.fr/fbazur-lofi.mp3",
+    "genre": "Music",
+    "city": "Nice",
+    "country": "France",
+    "lat": 43.7009358,
+    "lng": 7.2683912
+  },
+  {
+    "id": "france-alpes-1-grenoble-fm-1016",
+    "name": "Alpes 1 Grenoble FM 101.6",
+    "url": "https://alpes1grenoble.ice.infomaniak.ch/alpes1grenoble-high.mp3?.mp3",
+    "genre": "Music",
+    "city": "Grenoble",
+    "country": "France",
+    "lat": 45.1875602,
+    "lng": 5.7357819
+  },
+  {
+    "id": "france-poptastic-radio",
+    "name": "Poptastic Radio",
+    "url": "https://s7.everestcast.com/p/6206/stream",
+    "genre": "Music",
+    "city": "Nice",
+    "country": "France",
+    "lat": 43.7009358,
+    "lng": 7.2683912
+  },
+  {
+    "id": "france-radio-nissa-pantai",
+    "name": "Ràdio Nissa Pantai",
+    "url": "https://listen.radioking.com/radio/79270/stream/117373",
+    "genre": "Music",
+    "city": "Nice",
+    "country": "France",
+    "lat": 43.7009358,
+    "lng": 7.2683912
+  },
+  {
+    "id": "france-abc-lounge-radio",
+    "name": "ABC Lounge Radio",
+    "url": "https://str1.openstream.co/589",
+    "genre": "Music",
+    "city": "Nice",
+    "country": "France",
+    "lat": 43.7009358,
+    "lng": 7.2683912
+  },
+  {
+    "id": "france-max-fm-945",
+    "name": "Max FM 94.5",
+    "url": "https://maxfm.ice.infomaniak.ch/maxfm-945.mp3",
+    "genre": "Music",
+    "city": "Grenoble",
+    "country": "France",
+    "lat": 45.1875602,
+    "lng": 5.7357819
+  },
+  {
+    "id": "france-oam-radio",
+    "name": "OAM Radio",
+    "url": "https://ecmanager.pro-fhi.net/oamradio",
+    "genre": "Music",
+    "city": "Clermont-Ferrand",
+    "country": "France",
+    "lat": 45.7774551,
+    "lng": 3.0819427
+  },
+  {
+    "id": "france-tonic-radio-grenoble",
+    "name": "Tonic Radio Grenoble",
+    "url": "https://tonicradio.ice.infomaniak.ch/tonicradiogrenoble-32.mp3",
+    "genre": "Music",
+    "city": "Grenoble",
+    "country": "France",
+    "lat": 45.1875602,
+    "lng": 5.7357819
+  },
+  {
+    "id": "france-nutriradio",
+    "name": "Nutriradio",
+    "url": "https://listen.radioking.com/radio/442934/stream/499064",
+    "genre": "Music",
+    "city": "Nice",
+    "country": "France",
+    "lat": 43.7009358,
+    "lng": 7.2683912
+  },
+  {
+    "id": "france-radio-campus-clermont-ferrand",
+    "name": "Radio Campus Clermont-Ferrand",
+    "url": "https://live.radio-campus.org:8002/clermont-ferrand",
+    "genre": "Music",
+    "city": "Clermont-Ferrand",
+    "country": "France",
+    "lat": 45.7774551,
+    "lng": 3.0819427
+  },
+  {
+    "id": "france-cannes-radio-fm-915",
+    "name": "Cannes Radio FM 91.5",
+    "url": "https://n31a-eu.rcs.revma.com/2ykc70sauwzuv.mp3?rj-ttl=5&rj-tok=AAABm_maDcQA7cQuN0-P0Dk1sQ",
+    "genre": "Music",
+    "city": "Nice",
+    "country": "France",
+    "lat": 43.7009358,
+    "lng": 7.2683912
+  },
+  {
+    "id": "france-clin-doeil-fm-1061",
+    "name": "Clin d'Oeil FM 106.1",
+    "url": "https://clindoeilfm1061.ice.infomaniak.ch/clindoeilfm1061-128.mp3",
+    "genre": "Music",
+    "city": "Nice",
+    "country": "France",
+    "lat": 43.7009358,
+    "lng": 7.2683912
+  },
+  {
+    "id": "france-radio-arverne-fm-1002",
+    "name": "Radio Arverne FM 100.2",
+    "url": "https://radioarverne.ice.infomaniak.ch/arverne.mp3",
+    "genre": "Music",
+    "city": "Clermont-Ferrand",
+    "country": "France",
+    "lat": 45.7774551,
+    "lng": 3.0819427
+  },
+  {
+    "id": "france-logos-fm",
+    "name": "Logos FM",
+    "url": "https://vps.cbad.fr/logosclermont",
+    "genre": "Music",
+    "city": "Clermont-Ferrand",
+    "country": "France",
+    "lat": 45.7774551,
+    "lng": 3.0819427
+  },
+  {
+    "id": "france-radio-isa-grenoble--grenoble-1004",
+    "name": "Radio Isa Grenoble - Grenoble 100.4",
+    "url": "https://radioisa.ice.infomaniak.ch/radioisa-32.aac",
+    "genre": "Music",
+    "city": "Grenoble",
+    "country": "France",
+    "lat": 45.1875602,
+    "lng": 5.7357819
+  },
+  {
+    "id": "france-la-radio-de-fifi",
+    "name": "La Radio de Fifi",
+    "url": "https://ecmanager6.pro-fhi.net:1315/stream",
+    "genre": "Music",
+    "city": "Clermont-Ferrand",
+    "country": "France",
+    "lat": 45.7774551,
+    "lng": 3.0819427
+  },
+  {
+    "id": "france-nice-radio-1023",
+    "name": "Nice Radio 102.3",
+    "url": "https://niceradio.ice.infomaniak.ch/niceradio.aac",
+    "genre": "Music",
+    "city": "Nice",
+    "country": "France",
+    "lat": 43.7009358,
+    "lng": 7.2683912
+  },
+  {
+    "id": "france-1077-radio-vinci-auvergne--vallee-du-rhône",
+    "name": "107.7 Radio VINCI Auvergne - Vallée du Rhône",
+    "url": "https://str0.creacast.com/radio_vinci_autoroutes_5",
+    "genre": "Music",
+    "city": "Clermont-Ferrand",
+    "country": "France",
+    "lat": 45.7774551,
+    "lng": 3.0819427
+  },
+  {
+    "id": "france-radio-semnoz-fm-915",
+    "name": "Radio Semnoz FM 91.5",
+    "url": "https://listen.radioking.com/radio/76072/stream/114109",
+    "genre": "Music",
+    "city": "Annecy",
+    "country": "France",
+    "lat": 45.8992348,
+    "lng": 6.1288847
+  },
+  {
+    "id": "france-la-yaute",
+    "name": "La Yaute",
+    "url": "https://ecmanager4.pro-fhi.net:2680/stream",
+    "genre": "Music",
+    "city": "Annecy",
+    "country": "France",
+    "lat": 45.8992348,
+    "lng": 6.1288847
+  },
+  {
+    "id": "france-radio-grand-lac-88-fm",
+    "name": "Radio Grand Lac 88 FM",
+    "url": "https://vps.cbad.fr/grandlac",
+    "genre": "Music",
+    "city": "Annecy",
+    "country": "France",
+    "lat": 45.8992348,
+    "lng": 6.1288847
+  },
+  {
+    "id": "france-h2o-904",
+    "name": "H2O 90.4",
+    "url": "https://h2oradio.net-radio.fr/h2oradio-256.mp3",
+    "genre": "Music",
+    "city": "Annecy",
+    "country": "France",
+    "lat": 45.8992348,
+    "lng": 6.1288847
+  },
+  {
+    "id": "france-radio-qui-quen-grogne-101fm",
+    "name": "Radio Qui Qu'en Grogne 101FM",
+    "url": "https://radioquiquengrogne.ice.infomaniak.ch/radioquiquengrogne-128.mp3",
+    "genre": "Music",
+    "city": "Clermont-Ferrand",
+    "country": "France",
+    "lat": 45.7774551,
+    "lng": 3.0819427
+  },
+  {
+    "id": "france-radio-fmr-892",
+    "name": "Radio FMR 89.2",
+    "url": "http://www2.radiofmr.fr:9000/fmr-192k.mp3",
+    "genre": "Music",
+    "city": "Annecy",
+    "country": "France",
+    "lat": 45.8992348,
+    "lng": 6.1288847
+  },
+  {
+    "id": "france-radio-bort-artense",
+    "name": "Radio Bort Artense",
+    "url": "https://hosting.studioradiomedia.fr:2585/stream",
+    "genre": "Music",
+    "city": "Clermont-Ferrand",
+    "country": "France",
+    "lat": 45.7774551,
+    "lng": 3.0819427
+  },
+  {
+    "id": "france-kiss-fm",
+    "name": "Kiss FM",
+    "url": "https://kissfm.ice.infomaniak.ch/kissfm-64.aac",
+    "genre": "Music",
+    "city": "Nice",
+    "country": "France",
+    "lat": 43.7009358,
+    "lng": 7.2683912
+  },
+  {
+    "id": "france-radio-scoop-clermont",
+    "name": "Radio SCOOP Clermont",
+    "url": "https://radioscoopclermont-ferrand.ice.infomaniak.ch/radioscoop-clermont-128.mp3",
+    "genre": "Music",
+    "city": "Clermont-Ferrand",
+    "country": "France",
+    "lat": 45.7774551,
+    "lng": 3.0819427
+  },
+  {
+    "id": "france-radio-coquelicot-fm-990",
+    "name": "Radio Coquelicot FM 99.0",
+    "url": "https://str0.creacast.com/radio_coquelicot",
+    "genre": "Music",
+    "city": "Clermont-Ferrand",
+    "country": "France",
+    "lat": 45.7774551,
+    "lng": 3.0819427
+  },
+  {
+    "id": "france-radio-zinzine",
+    "name": "Radio Zinzine",
+    "url": "http://91.121.65.189:8000/zinzine-aix",
+    "genre": "Music",
+    "city": "Villeneuve-d'Ascq",
+    "country": "France",
+    "lat": 50.6193174,
+    "lng": 3.1314002
+  },
+  {
+    "id": "france-la-radio-plus--shopping",
+    "name": "La Radio Plus - Shopping",
+    "url": "https://plus-wr03.ice.infomaniak.ch/plus-wr03.mp3",
+    "genre": "Music",
+    "city": "Annecy",
+    "country": "France",
+    "lat": 45.8992348,
+    "lng": 6.1288847
+  },
+  {
+    "id": "france-flp-radio",
+    "name": "FLP Radio",
+    "url": "https://flpradio.ice.infomaniak.ch/flpradio-128.mp3",
+    "genre": "Music",
+    "city": "Nice",
+    "country": "France",
+    "lat": 43.7009358,
+    "lng": 7.2683912
+  },
+  {
+    "id": "france-la-radio-des-français-dans-le-monde",
+    "name": "La radio des Français dans le monde",
+    "url": "https://listen.radioking.com/radio/2079/stream/63043",
+    "genre": "Music",
+    "city": "Villeneuve-d'Ascq",
+    "country": "France",
+    "lat": 50.6193174,
+    "lng": 3.1314002
+  },
+  {
+    "id": "france-ods-radio",
+    "name": "ODS Radio",
+    "url": "https://ods.ice.infomaniak.ch/ods-high.mp3",
+    "genre": "Music",
+    "city": "Annecy",
+    "country": "France",
+    "lat": 45.8992348,
+    "lng": 6.1288847
+  },
+  {
+    "id": "france-ods-radio--annees-80",
+    "name": "ODS Radio - Années 80",
+    "url": "https://ods-wr01.ice.infomaniak.ch/ods-wr01.mp3",
+    "genre": "Music",
+    "city": "Annecy",
+    "country": "France",
+    "lat": 45.8992348,
+    "lng": 6.1288847
+  },
+  {
+    "id": "france-melody--in-paris",
+    "name": "Melody - In Paris",
+    "url": "https://n10.rcs.revma.com/96a3ac2byf9uv?rj-ttl=5&rj-tok=AAABm_maIS8Aw6qz7gzpWCzP_w",
+    "genre": "Music",
+    "city": "Villeneuve-d'Ascq",
+    "country": "France",
+    "lat": 50.6193174,
+    "lng": 3.1314002
+  },
+  {
+    "id": "france-atlantique-fm",
+    "name": "Atlantique FM",
+    "url": "https://listen.radioking.com/radio/298855/stream/345424",
+    "genre": "Music",
+    "city": "Dijon",
+    "country": "France",
+    "lat": 47.3215806,
+    "lng": 5.0414701
+  },
+  {
+    "id": "france-autoroute-info-1077",
+    "name": "Autoroute Info 107.7",
+    "url": "https://media.autorouteinfo.fr/direct_nord.mp3",
+    "genre": "Music",
+    "city": "Dijon",
+    "country": "France",
+    "lat": 47.3215806,
+    "lng": 5.0414701
+  },
+  {
+    "id": "france-radio-dijon-campus",
+    "name": "Radio Dijon Campus",
+    "url": "http://frequence.u-bourgogne.fr:8082/dijoncampus?.mp3",
+    "genre": "Music",
+    "city": "Dijon",
+    "country": "France",
+    "lat": 47.3215806,
+    "lng": 5.0414701
+  },
+  {
+    "id": "france-radio-meuh",
+    "name": "Radio Meuh",
+    "url": "https://radiomeuh2.ice.infomaniak.ch/radiomeuh2-128.mp3",
+    "genre": "Music",
+    "city": "Annecy",
+    "country": "France",
+    "lat": 45.8992348,
+    "lng": 6.1288847
+  },
+  {
+    "id": "france-melody--rock-and-pop",
+    "name": "Melody - Rock and Pop",
+    "url": "https://n02.rcs.revma.com/tsmxsrn6ky3vv?rj-ttl=5&rj-tok=AAABm_maJIwAU3xVoi_BMbdbLg",
+    "genre": "Music",
+    "city": "Villeneuve-d'Ascq",
+    "country": "France",
+    "lat": 50.6193174,
+    "lng": 3.1314002
+  },
+  {
+    "id": "france-melody--palace",
+    "name": "Melody - Palace",
+    "url": "https://n05.rcs.revma.com/bpgewwwtc43vv?rj-ttl=5&rj-tok=AAABm_maI-8AWz6Z-Veu4nlLSQ",
+    "genre": "Music",
+    "city": "Villeneuve-d'Ascq",
+    "country": "France",
+    "lat": 50.6193174,
+    "lng": 3.1314002
+  },
+  {
+    "id": "france-melody--vintage-radio",
+    "name": "Melody - Vintage Radio",
+    "url": "https://n02.rcs.revma.com/5a05fstup42vv?rj-ttl=5&rj-tok=AAABm_maJVoAbCQ4kpn2OxfN0w",
+    "genre": "Music",
+    "city": "Villeneuve-d'Ascq",
+    "country": "France",
+    "lat": 50.6193174,
+    "lng": 3.1314002
+  },
+  {
+    "id": "france-sunalpes-radio",
+    "name": "SunAlpes Radio",
+    "url": "https://funalpesradio.ice.infomaniak.ch/funalpes.mp3",
+    "genre": "Music",
+    "city": "Annecy",
+    "country": "France",
+    "lat": 45.8992348,
+    "lng": 6.1288847
+  },
+  {
+    "id": "france-myzen-radio",
+    "name": "MyZen Radio",
+    "url": "https://n09.rcs.revma.com/gnn6u7czd8uvv?rj-ttl=5&rj-tok=AAABm_maJfsAeBuJ0N8H_3jGeg",
+    "genre": "Music",
+    "city": "Villeneuve-d'Ascq",
+    "country": "France",
+    "lat": 50.6193174,
+    "lng": 3.1314002
+  },
+  {
+    "id": "france-villages-fm",
+    "name": "Villages FM",
+    "url": "https://stream3.vestaradio.com/VILLAGESFM",
+    "genre": "Music",
+    "city": "Dijon",
+    "country": "France",
+    "lat": 47.3215806,
+    "lng": 5.0414701
+  },
+  {
+    "id": "france-air-connect",
+    "name": "Air Connect",
+    "url": "https://stream.airconnectradio.com/ac192.mp3",
+    "genre": "Music",
+    "city": "Dijon",
+    "country": "France",
+    "lat": 47.3215806,
+    "lng": 5.0414701
+  },
+  {
+    "id": "france-radio-bip",
+    "name": "Radio BIP",
+    "url": "https://radiobip.fr/web",
+    "genre": "Music",
+    "city": "Dijon",
+    "country": "France",
+    "lat": 47.3215806,
+    "lng": 5.0414701
+  },
+  {
+    "id": "france-beaubfm-89",
+    "name": "Beaub'FM 89",
+    "url": "https://beaubfm2.ice.infomaniak.ch/beaubfm2-96.mp3",
+    "genre": "Music",
+    "city": "Limoges",
+    "country": "France",
+    "lat": 45.8354243,
+    "lng": 1.2644847
+  },
+  {
+    "id": "france-radio-16-bit-fm",
+    "name": "Radio 16-Bit-FM",
+    "url": "http://51.77.148.154/listen/16-bit-fm/radio.mp3",
+    "genre": "Music",
+    "city": "Limoges",
+    "country": "France",
+    "lat": 45.8354243,
+    "lng": 1.2644847
+  },
+  {
+    "id": "france-emergence-fm",
+    "name": "Emergence FM",
+    "url": "https://radiostream.comequip.eu/radio-code.php?server=51.159.20.201&port=9024&mount=emergence",
+    "genre": "Music",
+    "city": "Limoges",
+    "country": "France",
+    "lat": 45.8354243,
+    "lng": 1.2644847
+  },
+  {
+    "id": "france-swing-fm",
+    "name": "Swing FM",
+    "url": "https://swingfm.ice.infomaniak.ch/swingfm-128.mp3",
+    "genre": "Music",
+    "city": "Limoges",
+    "country": "France",
+    "lat": 45.8354243,
+    "lng": 1.2644847
+  },
+  {
+    "id": "france-france-bleu-limousin-fm-1035",
+    "name": "France Bleu Limousin FM 103.5",
+    "url": "https://icecast.radiofrance.fr/fblimousin-midfi.mp3?ID=59e6n63bhx",
+    "genre": "Music",
+    "city": "Limoges",
+    "country": "France",
+    "lat": 45.8354243,
+    "lng": 1.2644847
+  },
+  {
+    "id": "france-radio-agora-fm-1062",
+    "name": "Radio Agora FM 106.2",
+    "url": "https://radioagora.ice.infomaniak.ch/radioagora-192.mp3",
+    "genre": "Music",
+    "city": "Limoges",
+    "country": "France",
+    "lat": 45.8354243,
+    "lng": 1.2644847
+  },
+  {
+    "id": "france-diversite-fm-1039",
+    "name": "Diversité FM 103.9",
+    "url": "https://diversitefm2.ice.infomaniak.ch/diversitefm2-192.mp3",
+    "genre": "Music",
+    "city": "Dijon",
+    "country": "France",
+    "lat": 47.3215806,
+    "lng": 5.0414701
+  },
+  {
+    "id": "france-rtf-954",
+    "name": "RTF 95.4",
+    "url": "https://hosting.studioradiomedia.fr:2145/stream",
+    "genre": "Music",
+    "city": "Limoges",
+    "country": "France",
+    "lat": 45.8354243,
+    "lng": 1.2644847
+  },
+  {
+    "id": "france-k6fm",
+    "name": "K6FM",
+    "url": "https://k6fm.ice.infomaniak.ch/k6fm-128.mp3?.mp3",
+    "genre": "Music",
+    "city": "Dijon",
+    "country": "France",
+    "lat": 47.3215806,
+    "lng": 5.0414701
+  },
+  {
+    "id": "france-frequence-plus",
+    "name": "Fréquence Plus",
+    "url": "https://freqplus.ice.infomaniak.ch/freqplus-high",
+    "genre": "Music",
+    "city": "Dijon",
+    "country": "France",
+    "lat": 47.3215806,
+    "lng": 5.0414701
+  },
+  {
+    "id": "france-radio-fox-fm-979",
+    "name": "Radio Fox FM 97.9",
+    "url": "https://stream.rcvfm.fr:8000/fox-128k.mp3",
+    "genre": "Music",
+    "city": "Dijon",
+    "country": "France",
+    "lat": 47.3215806,
+    "lng": 5.0414701
+  },
+  {
+    "id": "france-radio-prevert-1059-fm",
+    "name": "Radio Prévert 105.9 FM",
+    "url": "https://prevert.ice.infomaniak.ch/prevert-128.mp3",
+    "genre": "Music",
+    "city": "Dijon",
+    "country": "France",
+    "lat": 47.3215806,
+    "lng": 5.0414701
+  },
+  {
+    "id": "france-flash-fm-899",
+    "name": "Flash FM 89.9",
+    "url": "https://flashfm2.ice.infomaniak.ch/flashfm2-128.mp3",
+    "genre": "Music",
+    "city": "Limoges",
+    "country": "France",
+    "lat": 45.8354243,
+    "lng": 1.2644847
+  },
+  {
+    "id": "france-radio-pays-de-gueret",
+    "name": "Radio Pays de Guéret",
+    "url": "https://radiopaysdegueret.ice.infomaniak.ch/radiopaysdegueret.mp3",
+    "genre": "Music",
+    "city": "Limoges",
+    "country": "France",
+    "lat": 45.8354243,
+    "lng": 1.2644847
+  },
+  {
+    "id": "france-ici-londe",
+    "name": "Ici l'Onde",
+    "url": "https://icilondelawebradio.ice.infomaniak.ch/icilondelawebradio-128.mp3",
+    "genre": "Music",
+    "city": "Limoges",
+    "country": "France",
+    "lat": 45.8354243,
+    "lng": 1.2644847
+  }
+]

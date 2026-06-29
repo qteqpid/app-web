@@ -1,0 +1,140 @@
+[
+    {
+        "name": "Radio Medua FM 88.7",
+        "city": "Capo Vaticano",
+        "country": "Italy",
+        "url": "http://5.135.39.189:8030/stream"
+    },
+    {
+        "name": "Radio Crik Crok",
+        "city": "Vatican City",
+        "country": "Vatican City",
+        "url": "http://178.32.139.167:8282/"
+    },
+    {
+        "name": "Radio Eco Sud",
+        "city": "Capo Vaticano",
+        "country": "Italy",
+        "url": "http://nr9.newradio.it:9577/stream/"
+    },
+    {
+        "name": "Radio Dimensione Musica FM 95.3",
+        "city": "Vatican City",
+        "country": "Vatican City",
+        "url": "https://shoutcast2.streamingmedia.it/proxy/rdm?mp=/stream"
+    },
+    {
+        "name": "Radio Underground Italia FM",
+        "city": "Vatican City",
+        "country": "Vatican City",
+        "url": "https://nr14.newradio.it:8707/stream"
+    },
+    {
+        "name": "Radio Bimbo",
+        "city": "Vatican City",
+        "country": "Vatican City",
+        "url": "https://radiobim-danidi01.radioca.st/stream"
+    },
+    {
+        "name": "Solo Radio",
+        "city": "Vatican City",
+        "country": "Vatican City",
+        "url": "https://soloradio.sailweb.cloud/soloradio256.mp3"
+    },
+    {
+        "name": "Radio Vaticana - Chinese",
+        "city": "Vatican City",
+        "country": "Vatican City",
+        "url": "https://radio.vaticannews.va/stream-zh"
+    },
+    {
+        "name": "Radio Vaticana Malayalam",
+        "city": "Vatican City",
+        "country": "Vatican City",
+        "url": "https://radio.vaticannews.va/stream-ml"
+    },
+    {
+        "name": "Radio Vaticana - Italian",
+        "city": "Vatican City",
+        "country": "Vatican City",
+        "url": "https://radio.vaticannews.va/stream-it"
+    },
+    {
+        "name": "Radio Vaticana - German",
+        "city": "Vatican City",
+        "country": "Vatican City",
+        "url": "https://radio.vaticannews.va/stream-de"
+    },
+    {
+        "name": "Radio Vaticana - English",
+        "city": "Vatican City",
+        "country": "Vatican City",
+        "url": "https://radio.vaticannews.va/stream-en"
+    },
+    {
+        "name": "Radio Atlantide Capo Vaticano",
+        "city": "Capo Vaticano",
+        "country": "Italy",
+        "url": "https://eu1.reliastream.com/proxy/racvracv?mp=/stream"
+    },
+    {
+        "name": "Radio Vaticana - Russian",
+        "city": "Vatican City",
+        "country": "Vatican City",
+        "url": "https://radio.vaticannews.va/stream-ru"
+    },
+    {
+        "name": "Radio Vaticana - Spanish",
+        "city": "Vatican City",
+        "country": "Vatican City",
+        "url": "https://radio.vaticannews.va/stream-es"
+    },
+    {
+        "name": "Radio Vaticana - French",
+        "city": "Vatican City",
+        "country": "Vatican City",
+        "url": "https://radio.vaticannews.va/stream-fr"
+    },
+    {
+        "name": "RDS FM 103.0",
+        "city": "Capo Vaticano",
+        "country": "Italy",
+        "url": "https://icstream.rds.radio/rds"
+    },
+    {
+        "name": "Radio 24 - FM 106.8",
+        "city": "Capo Vaticano",
+        "country": "Italy",
+        "url": "http://shoutcast2.radio24.ilsole24ore.com:8000/index.html?sid=1"
+    },
+    {
+        "name": "Radio Vaticana - Portuguese",
+        "city": "Radio Vaticana - Portuguese",
+        "country": "Vatican City, Vatican City",
+        "url": "https://radio.vaticannews.va/stream-pt"
+    },
+    {
+        "name": "Rai Radio 2",
+        "city": "Capo Vaticano",
+        "country": "Italy",
+        "url": "https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S35942484/yp5F67151K92/icecast"
+    },
+    {
+        "name": "Rai Radio 3",
+        "city": "Capo Vaticano",
+        "country": "Italy",
+        "url": "https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S56630579/yEbkcBtIoSwd/icecast"
+    },
+    {
+        "name": "Rai Radio 1",
+        "city": "Capo Vaticano",
+        "country": "Italy",
+        "url": "https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S16355530/Q4zh3NTu28Rx/icecast"
+    },
+    {
+        "name": "RCU Radio Cover Uno",
+        "city": "Capo Vaticano",
+        "country": "Italy",
+        "url": "https://radiocoveruno.stream.laut.fm/radiocoveruno?t302=2026-01-26_10-45-12&uuid=849c1406-820f-4c1b-9d33-1602b6435a47"
+    }
+]

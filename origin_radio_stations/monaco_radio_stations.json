@@ -1,0 +1,1172 @@
+[
+  {
+    "id": "monaco-vesti-fm",
+    "name": "Vesti FM",
+    "url": "http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_64kbps?.mp3",
+    "genre": "Music",
+    "city": "Moscow",
+    "country": "Russia",
+    "lat": 55.625578,
+    "lng": 37.6063916
+  },
+  {
+    "id": "monaco-radio-ethic",
+    "name": "Radio Ethic",
+    "url": "http://163.172.37.18:8000/radioethic.mp3",
+    "genre": "Music",
+    "city": "Monaco City",
+    "country": "Monaco",
+    "lat": 43.7309697,
+    "lng": 7.4248152
+  },
+  {
+    "id": "monaco-poptastic-radio",
+    "name": "Poptastic Radio",
+    "url": "https://s7.everestcast.com/p/6206/stream",
+    "genre": "Music",
+    "city": "Monaco City",
+    "country": "Monaco",
+    "lat": 43.7309697,
+    "lng": 7.4248152
+  },
+  {
+    "id": "monaco-radio-citta-dei-fiori",
+    "name": "Radio Città dei Fiori",
+    "url": "https://sr2.inmystream.it/proxy/fiori?mp=/stream",
+    "genre": "Music",
+    "city": "Monaco City",
+    "country": "Monaco",
+    "lat": 43.7309697,
+    "lng": 7.4248152
+  },
+  {
+    "id": "monaco-radio-sud-monaco",
+    "name": "Radio Sud Monaco",
+    "url": "https://stream.vestaradio.com/Radio-Sud-MonacoOfficiel",
+    "genre": "Music",
+    "city": "Monaco City",
+    "country": "Monaco",
+    "lat": 43.7309697,
+    "lng": 7.4248152
+  },
+  {
+    "id": "monaco-radio-mayak",
+    "name": "Radio Mayak",
+    "url": "http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_64kbps",
+    "genre": "Music",
+    "city": "Moscow",
+    "country": "Russia",
+    "lat": 55.625578,
+    "lng": 37.6063916
+  },
+  {
+    "id": "monaco-radio-classique",
+    "name": "Radio Classique",
+    "url": "https://radioclassique.ice.infomaniak.ch/radioclassique-high.mp3",
+    "genre": "Music",
+    "city": "Monaco City",
+    "country": "Monaco",
+    "lat": 43.7309697,
+    "lng": 7.4248152
+  },
+  {
+    "id": "monaco-radio-top-side",
+    "name": "Radio Top Side",
+    "url": "https://listen.radioking.com/radio/33560/stream/69731",
+    "genre": "Music",
+    "city": "Monaco City",
+    "country": "Monaco",
+    "lat": 43.7309697,
+    "lng": 7.4248152
+  },
+  {
+    "id": "monaco-the-lounge-channel",
+    "name": "The Lounge Channel",
+    "url": "https://stream-153.zeno.fm/2k1cu1qrquhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIyazFjdTFxcnF1aHZ2IiwiaG9zdCI6InN0cmVhbS0xNTMuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiV2szMnkzY2NRcnlwODZlVGE2VElSdyIsImlhdCI6MTc2OTQyMDgyNCwiZXhwIjoxNzY5NDIwODg0fQ.KbUR25ndYGLB5eCVP2yFimf_BxBJ8C8buaqXSuZK4cM",
+    "genre": "Music",
+    "city": "Monaco City",
+    "country": "Monaco",
+    "lat": 43.7309697,
+    "lng": 7.4248152
+  },
+  {
+    "id": "monaco-monaco-fm",
+    "name": "Monaco FM",
+    "url": "https://stream.salyutfm.ru:8005/stream",
+    "genre": "Music",
+    "city": "Moscow",
+    "country": "Russia",
+    "lat": 55.625578,
+    "lng": 37.6063916
+  },
+  {
+    "id": "monaco-metalrock06-radio",
+    "name": "MetalRock06 Radio",
+    "url": "https://listen.radioking.com/radio/131959/stream/171853",
+    "genre": "Music",
+    "city": "Monaco City",
+    "country": "Monaco",
+    "lat": 43.7309697,
+    "lng": 7.4248152
+  },
+  {
+    "id": "monaco-retro-fm-moscow",
+    "name": "Retro FM Moscow",
+    "url": "https://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3",
+    "genre": "Music",
+    "city": "Moscow",
+    "country": "Russia",
+    "lat": 55.625578,
+    "lng": 37.6063916
+  },
+  {
+    "id": "monaco-101ru--instrumental-rock",
+    "name": "101.RU - Instrumental Rock",
+    "url": "https://pub0202.101.ru:8443/stream/pro/aac/64/183",
+    "genre": "Music",
+    "city": "Moscow",
+    "country": "Russia",
+    "lat": 55.625578,
+    "lng": 37.6063916
+  },
+  {
+    "id": "monaco-101ru--nrj-trance",
+    "name": "101.RU - NRJ Trance",
+    "url": "https://pub0202.101.ru:8443/stream/trust/mp3/128/19",
+    "genre": "Music",
+    "city": "Moscow",
+    "country": "Russia",
+    "lat": 55.625578,
+    "lng": 37.6063916
+  },
+  {
+    "id": "monaco-radio-monaco",
+    "name": "Radio Monaco",
+    "url": "https://radiomonaco.ice.infomaniak.ch/radiomonaco-128.mp3",
+    "genre": "Music",
+    "city": "Monaco City",
+    "country": "Monaco",
+    "lat": 43.7309697,
+    "lng": 7.4248152
+  },
+  {
+    "id": "monaco-101ru--metal",
+    "name": "101.RU - Metal",
+    "url": "https://pub0202.101.ru:8443/stream/pro/aac/64/211",
+    "genre": "Music",
+    "city": "Moscow",
+    "country": "Russia",
+    "lat": 55.625578,
+    "lng": 37.6063916
+  },
+  {
+    "id": "monaco-101ru--romantika-acoustics",
+    "name": "101.RU - Romantika. Acoustics",
+    "url": "https://pub0202.101.ru:8443/stream/pro/aac/64/164",
+    "genre": "Music",
+    "city": "Moscow",
+    "country": "Russia",
+    "lat": 55.625578,
+    "lng": 37.6063916
+  },
+  {
+    "id": "monaco-neformatnoe-radio",
+    "name": "Neformatnoe Radio",
+    "url": "http://neformatnoe.ru:8777/live",
+    "genre": "Music",
+    "city": "Moscow",
+    "country": "Russia",
+    "lat": 55.625578,
+    "lng": 37.6063916
+  },
+  {
+    "id": "monaco-101ru--тантра",
+    "name": "101.RU - Тантра",
+    "url": "https://pub0202.101.ru:8443/stream/pro/aac/64/241",
+    "genre": "Music",
+    "city": "Moscow",
+    "country": "Russia",
+    "lat": 55.625578,
+    "lng": 37.6063916
+  },
+  {
+    "id": "monaco-101ru--indie",
+    "name": "101.RU - Indie",
+    "url": "https://pub0202.101.ru:8443/stream/pro/aac/64/152",
+    "genre": "Music",
+    "city": "Moscow",
+    "country": "Russia",
+    "lat": 55.625578,
+    "lng": 37.6063916
+  },
+  {
+    "id": "monaco-радио-родных-дорог",
+    "name": "Радио Родных Дорог",
+    "url": "https://stream1.radiord.ru:8000/live128.aac",
+    "genre": "Music",
+    "city": "Moscow",
+    "country": "Russia",
+    "lat": 55.625578,
+    "lng": 37.6063916
+  },
+  {
+    "id": "monaco-radio-gaga",
+    "name": "Radio Gaga",
+    "url": "http://stream.gaga.fm/",
+    "genre": "Music",
+    "city": "Munich",
+    "country": "Germany",
+    "lat": 48.1371079,
+    "lng": 11.5753822
+  },
+  {
+    "id": "monaco-русское-радио",
+    "name": "Русское Радио",
+    "url": "https://rusradio.hostingradio.ru/rusradio96.aacp",
+    "genre": "Music",
+    "city": "Moscow",
+    "country": "Russia",
+    "lat": 55.625578,
+    "lng": 37.6063916
+  },
+  {
+    "id": "monaco-lora-radio-924",
+    "name": "Lora Radio 92.4",
+    "url": "http://live.lora924.de:8000/loramp3.mp3",
+    "genre": "Music",
+    "city": "Munich",
+    "country": "Germany",
+    "lat": 48.1371079,
+    "lng": 11.5753822
+  },
+  {
+    "id": "monaco-дорожное-радио",
+    "name": "Дорожное Радио",
+    "url": "https://cast.fmprod.ru/dorojnoe_bsk",
+    "genre": "Music",
+    "city": "Moscow",
+    "country": "Russia",
+    "lat": 55.625578,
+    "lng": 37.6063916
+  },
+  {
+    "id": "monaco-relax-fm",
+    "name": "Relax FM",
+    "url": "https://pub0302.101.ru:8443/stream/air/aac/64/200",
+    "genre": "Music",
+    "city": "Moscow",
+    "country": "Russia",
+    "lat": 55.625578,
+    "lng": 37.6063916
+  },
+  {
+    "id": "monaco-radio-purga",
+    "name": "Radio Purga",
+    "url": "https://radiostream.chukotnet.ru/RadioPurga_48",
+    "genre": "Music",
+    "city": "Moscow",
+    "country": "Russia",
+    "lat": 55.625578,
+    "lng": 37.6063916
+  },
+  {
+    "id": "monaco-munichs-hardest-hits",
+    "name": "Munich's Hardest Hits",
+    "url": "https://munichhh.streamabc.net/munichhh-mhhlive-mp3-128-9996709",
+    "genre": "Music",
+    "city": "Munich",
+    "country": "Germany",
+    "lat": 48.1371079,
+    "lng": 11.5753822
+  },
+  {
+    "id": "monaco-avtoradio-fm-910",
+    "name": "Avtoradio FM 91.0",
+    "url": "https://srv01.gpmradio.ru/stream/reg/aac/64/region_avto_tz_0",
+    "genre": "Music",
+    "city": "Moscow",
+    "country": "Russia",
+    "lat": 55.625578,
+    "lng": 37.6063916
+  },
+  {
+    "id": "monaco-flp-radio",
+    "name": "FLP Radio",
+    "url": "https://flpradio.ice.infomaniak.ch/flpradio-128.mp3",
+    "genre": "Music",
+    "city": "Monaco City",
+    "country": "Monaco",
+    "lat": 43.7309697,
+    "lng": 7.4248152
+  },
+  {
+    "id": "monaco-nestandart",
+    "name": "Nestandart",
+    "url": "https://listen.radionestandart.ru/nestandart-320.mp3",
+    "genre": "Music",
+    "city": "Moscow",
+    "country": "Russia",
+    "lat": 55.625578,
+    "lng": 37.6063916
+  },
+  {
+    "id": "monaco-riviera-radio-1065",
+    "name": "Riviera Radio 106.5",
+    "url": "https://rivieraradio.ice.infomaniak.ch/rivieraradio-high.mp3",
+    "genre": "Music",
+    "city": "Monaco City",
+    "country": "Monaco",
+    "lat": 43.7309697,
+    "lng": 7.4248152
+  },
+  {
+    "id": "monaco-br-bayern-3",
+    "name": "BR Bayern 3",
+    "url": "https://f141.rndfnk.com/ard/br/br3/live/mp3/128/stream.mp3?cid=01FBPVFWX7C216W6WY4M4M7MF7&sid=38n25PAyFiRieGNv5zRagfMACUh&token=U2yQytFm7i_F_BYQiws1HI6VfnHDcvfoB8HG_NUI5K8&tvf=mXfuHIRSjhhmMTQxLnJuZGZuay5jb20",
+    "genre": "Music",
+    "city": "Munich",
+    "country": "Germany",
+    "lat": 48.1371079,
+    "lng": 11.5753822
+  },
+  {
+    "id": "monaco-br-bayern-1-fm-937",
+    "name": "BR Bayern 1 FM 93.7",
+    "url": "https://f111.rndfnk.com/ard/br/br1/obb/mp3/128/stream.mp3?cid=01FB9ME7567MEQ5G72EVEEVVCS&sid=38n25VDusIinNkzlnawx9d4VuNe&token=OhC_NMlCjiZZEzqOBjnSU2oyBb04ieluaCp9jt0eUV0&tvf=rgPnHIRSjhhmMTExLnJuZGZuay5jb20",
+    "genre": "Music",
+    "city": "Munich",
+    "country": "Germany",
+    "lat": 48.1371079,
+    "lng": 11.5753822
+  },
+  {
+    "id": "monaco-br24",
+    "name": "BR24",
+    "url": "https://f121.rndfnk.com/ard/br/br24/live/mp3/128/stream.mp3?cid=01FBPVVJDPGF0BJ5TAJ8Z7JSX9&sid=38n25OifC1o2pnrcNuM4oc4mUyj&token=CaYRazcqNOTsM6xCyrZmfgW9LaC3Qwt4Cmkei6ZCowk&tvf=GiPhHIRSjhhmMTIxLnJuZGZuay5jb20",
+    "genre": "Music",
+    "city": "Munich",
+    "country": "Germany",
+    "lat": 48.1371079,
+    "lng": 11.5753822
+  },
+  {
+    "id": "monaco-radio-chocolate-98-fm",
+    "name": "Radio Chocolate 98 FM",
+    "url": "https://choco.hostingradio.ru:10010/fm",
+    "genre": "Music",
+    "city": "Moscow",
+    "country": "Russia",
+    "lat": 55.625578,
+    "lng": 37.6063916
+  },
+  {
+    "id": "monaco-kometa-fm",
+    "name": "Kometa FM",
+    "url": "https://online.kometa.fm/",
+    "genre": "Music",
+    "city": "Moscow",
+    "country": "Russia",
+    "lat": 55.625578,
+    "lng": 37.6063916
+  },
+  {
+    "id": "monaco-br-bayern-2",
+    "name": "BR Bayern 2",
+    "url": "https://d111.rndfnk.com/ard/br/br2/live/mp3/128/stream.mp3?cid=01HNCWQ25NS4FWXXH2R91H67V1&sid=38n25ZhkewqYO8garK0vXKWXxmr&token=pBlx_7_qjnJj0D7dghvA1BEKx60wyyzfbw7g5sXxVF0&tvf=jUX0HoRSjhhkMTExLnJuZGZuay5jb20",
+    "genre": "Music",
+    "city": "Munich",
+    "country": "Germany",
+    "lat": 48.1371079,
+    "lng": 11.5753822
+  },
+  {
+    "id": "monaco-radio-alpenwelle",
+    "name": "Radio Alpenwelle",
+    "url": "https://live.alpenwelle.de/alpenwelle128.mp3",
+    "genre": "Music",
+    "city": "Munich",
+    "country": "Germany",
+    "lat": 48.1371079,
+    "lng": 11.5753822
+  },
+  {
+    "id": "monaco-br-klassik",
+    "name": "BR Klassik",
+    "url": "https://f131.rndfnk.com/ard/br/brklassik/live/mp3/256/stream.mp3?cid=01FBPVP3KY4W2XZ9KV8N032855&sid=38n25h1HjaXFj7Cl7liVTEdbVjh&token=n97XqGLfQ-E8aS59eKNUvKLyBdKRmNv7DLRKwnQiK60&tvf=uB8jfoRSjhhmMTMxLnJuZGZuay5jb20",
+    "genre": "Music",
+    "city": "Munich",
+    "country": "Germany",
+    "lat": 48.1371079,
+    "lng": 11.5753822
+  },
+  {
+    "id": "monaco-holy-spirit-radio--wcoj",
+    "name": "Holy Spirit Radio - WCOJ",
+    "url": "http://quasar.shoutca.st:8444/.mp3/",
+    "genre": "Music",
+    "city": "Blue Bell PA",
+    "country": "United States",
+    "lat": 40.147809,
+    "lng": -75.272781
+  },
+  {
+    "id": "monaco-radio-münchen",
+    "name": "Radio München",
+    "url": "https://stream.radiomuenchen.net/rm256.mp3",
+    "genre": "Music",
+    "city": "Munich",
+    "country": "Germany",
+    "lat": 48.1371079,
+    "lng": 11.5753822
+  },
+  {
+    "id": "monaco-1live",
+    "name": "1LIVE",
+    "url": "https://f131.rndfnk.com/ard/wdr/1live/live/mp3/128/stream.mp3?cid=01FBRZTS1K1TCD4KA2YZ1ND8X3&sid=38n25rsJUWtffjOPbvcA95sPuQE&token=zW1c7tS7jNNEOTGxcDpQ97HImxYig2fOs29zpajTfrU&tvf=_3pAq4RSjhhmMTMxLnJuZGZuay5jb20",
+    "genre": "Music",
+    "city": "Munich",
+    "country": "Germany",
+    "lat": 48.1371079,
+    "lng": 11.5753822
+  },
+  {
+    "id": "monaco-deutschlandfunk",
+    "name": "Deutschlandfunk",
+    "url": "https://f141.rndfnk.com/ard/dlf/01/mp3/128/stream.mp3?cid=01FBPWZ12X2XN8SDSMBZ7X0ZTT&sid=38n25oJICzZB3iRMeoos9aKfNlN&token=CTFPaag2vosUsTjfytey80paIlM5IbZy4O4yJJJped0&tvf=LLKrr4RSjhhmMTQxLnJuZGZuay5jb20",
+    "genre": "Music",
+    "city": "Munich",
+    "country": "Germany",
+    "lat": 48.1371079,
+    "lng": 11.5753822
+  },
+  {
+    "id": "monaco-swr3",
+    "name": "SWR3",
+    "url": "https://f121.rndfnk.com/ard/swr/swr3/live/mp3/128/stream.mp3?aggregator=web&cid=01FC1X5J7PN2N3YQPZYT8YDM9M&sid=38n25oKWDdS7PmQuJ6sL2RxdtDJ&token=-0qOwcSUxs4hrf3FR66iKrEyeuakoHp0Ii8ZxSz4IyQ&tvf=o6dHuYRSjhhmMTIxLnJuZGZuay5jb20",
+    "genre": "Music",
+    "city": "Munich",
+    "country": "Germany",
+    "lat": 48.1371079,
+    "lng": 11.5753822
+  },
+  {
+    "id": "monaco-wdr-4-1005-fm",
+    "name": "WDR 4 100.5 FM",
+    "url": "https://f111.rndfnk.com/ard/wdr/wdr4/live/mp3/128/stream.mp3?cid=01FBS0CPYNPWV23HTXYQE8R7AR&sid=38n25sPns10AobdHHboUo4dkUxa&token=GcaEyDG0HU-oFwMFTgXElvrdqDXDB9-TM2LCGgfFlQs&tvf=djNMwIRSjhhmMTExLnJuZGZuay5jb20",
+    "genre": "Music",
+    "city": "Munich",
+    "country": "Germany",
+    "lat": 48.1371079,
+    "lng": 11.5753822
+  },
+  {
+    "id": "monaco-too-much-too-soon-radio",
+    "name": "Too Much Too Soon Radio",
+    "url": "https://das-edge16-live365-dal02.cdnstream.com/a15209",
+    "genre": "Music",
+    "city": "Blue Bell PA",
+    "country": "United States",
+    "lat": 40.147809,
+    "lng": -75.272781
+  },
+  {
+    "id": "monaco-nightwave-plaza",
+    "name": "Nightwave Plaza",
+    "url": "https://radio.plaza.one/mp3",
+    "genre": "Music",
+    "city": "Blue Bell PA",
+    "country": "United States",
+    "lat": 40.147809,
+    "lng": -75.272781
+  },
+  {
+    "id": "monaco-radio-gongafm",
+    "name": "Radio Gonga.FM",
+    "url": "https://s4.radio.co/s9606f577e/listen",
+    "genre": "Music",
+    "city": "Munich",
+    "country": "Germany",
+    "lat": 48.1371079,
+    "lng": 11.5753822
+  },
+  {
+    "id": "monaco-wrdv-893-fm",
+    "name": "WRDV 89.3 FM",
+    "url": "https://buxmont.streamguys1.com/Live",
+    "genre": "Music",
+    "city": "Blue Bell PA",
+    "country": "United States",
+    "lat": 40.147809,
+    "lng": -75.272781
+  },
+  {
+    "id": "monaco-top-fm",
+    "name": "Top FM",
+    "url": "http://topfm.stream15.radiohost.de/topfm-live_mp3-192?addradio&upd-meta&upd-scheme=http&_art=dD0xNzY5NDIxMTM1JmQ9NzNhNjM3ZDlmOTY4ZmQwM2FkZWU",
+    "genre": "Music",
+    "city": "Munich",
+    "country": "Germany",
+    "lat": 48.1371079,
+    "lng": 11.5753822
+  },
+  {
+    "id": "monaco-antenne-bayern",
+    "name": "Antenne Bayern",
+    "url": "https://s7-webradio.antenne.de/antenne",
+    "genre": "Music",
+    "city": "Munich",
+    "country": "Germany",
+    "lat": 48.1371079,
+    "lng": 11.5753822
+  },
+  {
+    "id": "monaco-abn-old-time-radio-am-1610",
+    "name": "ABN Old-Time Radio AM 1610",
+    "url": "https://s6.yesstreaming.net:18000/listen",
+    "genre": "Music",
+    "city": "Blue Bell PA",
+    "country": "United States",
+    "lat": 40.147809,
+    "lng": -75.272781
+  },
+  {
+    "id": "monaco-alpinfm",
+    "name": "AlpinFM",
+    "url": "https://s16.myradiostream.com:6390/stream/3/listen.mp3",
+    "genre": "Music",
+    "city": "Munich",
+    "country": "Germany",
+    "lat": 48.1371079,
+    "lng": 11.5753822
+  },
+  {
+    "id": "monaco-smooth-jazz-247",
+    "name": "Smooth Jazz 24/7",
+    "url": "https://ais-edge89-dal02.cdnstream.com/2124_128.mp3",
+    "genre": "Music",
+    "city": "Blue Bell PA",
+    "country": "United States",
+    "lat": 40.147809,
+    "lng": -75.272781
+  },
+  {
+    "id": "monaco-kbrw-am-680",
+    "name": "KBRW-AM 680",
+    "url": "https://tektite.streamguys1.com:5345/live",
+    "genre": "Music",
+    "city": "Blue Bell PA",
+    "country": "United States",
+    "lat": 40.147809,
+    "lng": -75.272781
+  },
+  {
+    "id": "monaco-montco-radio",
+    "name": "Montco Radio",
+    "url": "https://montcoradio.mc3.edu/stream",
+    "genre": "Music",
+    "city": "Blue Bell PA",
+    "country": "United States",
+    "lat": 40.147809,
+    "lng": -75.272781
+  },
+  {
+    "id": "monaco-egofm",
+    "name": "egoFM",
+    "url": "https://cast.egofm.de/egofm.mp3?ar-distributor=ffa0&aw_0_req.gdpr=true",
+    "genre": "Music",
+    "city": "Munich",
+    "country": "Germany",
+    "lat": 48.1371079,
+    "lng": 11.5753822
+  },
+  {
+    "id": "monaco-koko-lp-radio-963-fm",
+    "name": "KOKO LP Radio 96.3 FM",
+    "url": "https://s2.yesstreaming.net:7031/stream",
+    "genre": "Music",
+    "city": "Blue Bell PA",
+    "country": "United States",
+    "lat": 40.147809,
+    "lng": -75.272781
+  },
+  {
+    "id": "monaco-mother-earth-klassik",
+    "name": "Mother Earth Klassik",
+    "url": "https://motherearth.streamserver24.com/listen/motherearth_klassik/motherearth.klassik.flac-lo",
+    "genre": "Music",
+    "city": "Munich",
+    "country": "Germany",
+    "lat": 48.1371079,
+    "lng": 11.5753822
+  },
+  {
+    "id": "monaco-1000-christmas",
+    "name": "1000 Christmas",
+    "url": "https://ais-sa2.cdnstream1.com/2553_128.mp3",
+    "genre": "Music",
+    "city": "Munich",
+    "country": "Germany",
+    "lat": 48.1371079,
+    "lng": 11.5753822
+  },
+  {
+    "id": "monaco-icr-talk",
+    "name": "ICR Talk",
+    "url": "https://das-edge14-live365-dal02.cdnstream.com/a52879",
+    "genre": "Music",
+    "city": "Des Moines IA",
+    "country": "United States",
+    "lat": 41.5865663,
+    "lng": -93.618936
+  },
+  {
+    "id": "monaco-fox-news-radio",
+    "name": "Fox News Radio",
+    "url": "https://prod-3-237-99-86.amperwave.net/foxnewsradio-foxnewsradioaac-imc?session-id=12eb09c6b72301300a45f1b859038963",
+    "genre": "Music",
+    "city": "Blue Bell PA",
+    "country": "United States",
+    "lat": 40.147809,
+    "lng": -75.272781
+  },
+  {
+    "id": "monaco-#1-oldies",
+    "name": "#1 Oldies",
+    "url": "https://1-oldies.stream.laut.fm/1-oldies?t302=2026-01-26_09-47-10&uuid=1fb434b3-905d-4018-92ae-f2f6482c1a47",
+    "genre": "Music",
+    "city": "Munich",
+    "country": "Germany",
+    "lat": 48.1371079,
+    "lng": 11.5753822
+  },
+  {
+    "id": "monaco-hope-940--kpsz",
+    "name": "Hope 940 - KPSZ",
+    "url": "https://prod-3-95-157-93.amperwave.net/saga-kpszamaac-ibc1?session-id=b7f6ad3693881b399c453e249fdd58a7",
+    "genre": "Music",
+    "city": "Des Moines IA",
+    "country": "United States",
+    "lat": 41.5865663,
+    "lng": -93.618936
+  },
+  {
+    "id": "monaco-kdic-885-fm-grinnell-college-radio",
+    "name": "KDIC 88.5 FM Grinnell College Radio",
+    "url": "https://edge.mixlr.com/channel/rftzl",
+    "genre": "Music",
+    "city": "Des Moines IA",
+    "country": "United States",
+    "lat": 41.5865663,
+    "lng": -93.618936
+  },
+  {
+    "id": "monaco-life-1071-fm--knwi",
+    "name": "Life 107.1 FM - KNWI",
+    "url": "https://nwm.streamguys1.com/knwi-mp3",
+    "genre": "Music",
+    "city": "Des Moines IA",
+    "country": "United States",
+    "lat": 41.5865663,
+    "lng": -93.618936
+  },
+  {
+    "id": "monaco-95kggo",
+    "name": "95KGGO",
+    "url": "https://14013.live.streamtheworld.com:443/KGGOFMAAC.aac",
+    "genre": "Music",
+    "city": "Des Moines IA",
+    "country": "United States",
+    "lat": 41.5865663,
+    "lng": -93.618936
+  },
+  {
+    "id": "monaco-star-1025--kstz",
+    "name": "Star 102.5 - KSTZ",
+    "url": "https://prod-3-95-157-93.amperwave.net/saga-kstzfmaac-ibc1?session-id=ce6d4405d3b47195b18cdd1a047a5df0",
+    "genre": "Music",
+    "city": "Des Moines IA",
+    "country": "United States",
+    "lat": 41.5865663,
+    "lng": -93.618936
+  },
+  {
+    "id": "monaco-pure-oldies-1045",
+    "name": "Pure Oldies 104.5",
+    "url": "https://prod-3-95-157-93.amperwave.net/saga-kazrhd2aac-ibc1?session-id=cc6ae1c9919d6478fd12633725627a04",
+    "genre": "Music",
+    "city": "Des Moines IA",
+    "country": "United States",
+    "lat": 41.5865663,
+    "lng": -93.618936
+  },
+  {
+    "id": "monaco-kmxc-db-mix-country-106",
+    "name": "KMXC-DB Mix Country 106",
+    "url": "https://das-edge16-live365-dal02.cdnstream.com/a61072",
+    "genre": "Music",
+    "city": "Des Moines IA",
+    "country": "United States",
+    "lat": 41.5865663,
+    "lng": -93.618936
+  },
+  {
+    "id": "monaco-radio-jodlerwirt-der-volksmusiksender",
+    "name": "Radio Jodlerwirt der Volksmusiksender",
+    "url": "https://radio-jodlerwirt.stream.laut.fm/radio-jodlerwirt?t302=2026-01-26_09-47-12&uuid=463e989e-b4ac-466b-8520-2bca1398b498",
+    "genre": "Music",
+    "city": "Munich",
+    "country": "Germany",
+    "lat": 48.1371079,
+    "lng": 11.5753822
+  },
+  {
+    "id": "monaco-kjjy-fm-925",
+    "name": "KJJY FM 92.5",
+    "url": "https://18393.live.streamtheworld.com:443/KJJYFM.mp3",
+    "genre": "Music",
+    "city": "Des Moines IA",
+    "country": "United States",
+    "lat": 41.5865663,
+    "lng": -93.618936
+  },
+  {
+    "id": "monaco-retro-country-890",
+    "name": "Retro Country 890",
+    "url": "https://tuneintoradio1.com/radio/8050/radio.mp3",
+    "genre": "Music",
+    "city": "Des Moines IA",
+    "country": "United States",
+    "lat": 41.5865663,
+    "lng": -93.618936
+  },
+  {
+    "id": "monaco-who-1040-am",
+    "name": "WHO 1040 AM",
+    "url": "https://cloud.revma.ihrhls.com/zc925?rj-org=n31b-e2&rj-ttl=5&rj-tok=AAABm_m8gCYAYk-n-6KTqo1DXQ",
+    "genre": "Music",
+    "city": "Des Moines IA",
+    "country": "United States",
+    "lat": 41.5865663,
+    "lng": -93.618936
+  },
+  {
+    "id": "monaco-kwqw-fm-983-the-vibe",
+    "name": "KWQW FM 98.3 The Vibe",
+    "url": "https://13743.live.streamtheworld.com:443/KWQWFMAAC.aac",
+    "genre": "Music",
+    "city": "Des Moines IA",
+    "country": "United States",
+    "lat": 41.5865663,
+    "lng": -93.618936
+  },
+  {
+    "id": "monaco-ksoi-fm-919",
+    "name": "KSOI-FM 91.9",
+    "url": "https://das-edge17-live365-dal02.cdnstream.com/a01407",
+    "genre": "Music",
+    "city": "Des Moines IA",
+    "country": "United States",
+    "lat": 41.5865663,
+    "lng": -93.618936
+  },
+  {
+    "id": "monaco-kcrw-eclectic-24",
+    "name": "KCRW Eclectic 24",
+    "url": "https://streams.kcrw.com/e24_mp3",
+    "genre": "Music",
+    "city": "Santa Monica CA",
+    "country": "United States",
+    "lat": 34.0194704,
+    "lng": -118.491227
+  },
+  {
+    "id": "monaco-kcrw-fm-899",
+    "name": "KCRW FM 89.9",
+    "url": "https://streams.kcrw.com/kcrw_mp3",
+    "genre": "Music",
+    "city": "Santa Monica CA",
+    "country": "United States",
+    "lat": 34.0194704,
+    "lng": -118.491227
+  },
+  {
+    "id": "monaco-kcrw-news-+-culture-24",
+    "name": "KCRW News + Culture 24",
+    "url": "https://streams.kcrw.com/news24_mp3",
+    "genre": "Music",
+    "city": "Santa Monica CA",
+    "country": "United States",
+    "lat": 34.0194704,
+    "lng": -118.491227
+  },
+  {
+    "id": "monaco-la-perrísima-radio",
+    "name": "La Perrísima Radio",
+    "url": "https://c9.radioboss.fm:8194/stream",
+    "genre": "Music",
+    "city": "Santa Monica CA",
+    "country": "United States",
+    "lat": 34.0194704,
+    "lng": -118.491227
+  },
+  {
+    "id": "monaco-seeburg-1000-background-music-library",
+    "name": "Seeburg 1000 Background Music Library",
+    "url": "https://s5.reliastream.com/proxy/seeburg?mp=/stream",
+    "genre": "Music",
+    "city": "Santa Monica CA",
+    "country": "United States",
+    "lat": 34.0194704,
+    "lng": -118.491227
+  },
+  {
+    "id": "monaco-yerevan-nights-radio",
+    "name": "Yerevan Nights Radio",
+    "url": "http://icecast.yerevannights.com/YerevanNights",
+    "genre": "Music",
+    "city": "Santa Monica CA",
+    "country": "United States",
+    "lat": 34.0194704,
+    "lng": -118.491227
+  },
+  {
+    "id": "monaco-live-1055-mobile-radio-station",
+    "name": "Live 105.5 Mobile Radio Station",
+    "url": "https://cast2.asurahosting.com/proxy/1055/stream",
+    "genre": "Music",
+    "city": "Santa Monica CA",
+    "country": "United States",
+    "lat": 34.0194704,
+    "lng": -118.491227
+  },
+  {
+    "id": "monaco-novum-fm",
+    "name": "Novum FM",
+    "url": "http://fm-broadcast.com:8000/novumfm.mp3",
+    "genre": "Music",
+    "city": "Mönchengladbach",
+    "country": "Germany",
+    "lat": 51.1947131,
+    "lng": 6.4353792
+  },
+  {
+    "id": "monaco-radio-monacensis",
+    "name": "Radio Monacensis",
+    "url": "https://monacensis.stream.laut.fm/monacensis?t302=2026-01-26_09-47-16&uuid=8740de1e-8358-4bbf-91dc-c34cd0c214f3",
+    "genre": "Music",
+    "city": "Munich",
+    "country": "Germany",
+    "lat": 48.1371079,
+    "lng": 11.5753822
+  },
+  {
+    "id": "monaco-kxse-la-suavecita-1043",
+    "name": "KXSE La Suavecita 104.3",
+    "url": "https://19273.live.streamtheworld.com:443/KXSEFMAAC.aac",
+    "genre": "Music",
+    "city": "Santa Monica CA",
+    "country": "United States",
+    "lat": 34.0194704,
+    "lng": -118.491227
+  },
+  {
+    "id": "monaco-wunsch-radio",
+    "name": "Wunsch Radio",
+    "url": "http://mp3.wunschradio.de/wunschradio.mp3",
+    "genre": "Music",
+    "city": "Mönchengladbach",
+    "country": "Germany",
+    "lat": 51.1947131,
+    "lng": 6.4353792
+  },
+  {
+    "id": "monaco-musicalradiode",
+    "name": "musicalradio.de",
+    "url": "https://radiostreamserver.de/musicalradio.mp3",
+    "genre": "Music",
+    "city": "Mönchengladbach",
+    "country": "Germany",
+    "lat": 51.1947131,
+    "lng": 6.4353792
+  },
+  {
+    "id": "monaco-clonmellon-community-radio",
+    "name": "Clonmellon Community Radio",
+    "url": "https://eu8.fastcast4u.com/proxy/ccr?mp=/1",
+    "genre": "Music",
+    "city": "Monaghan",
+    "country": "Ireland",
+    "lat": 54.2485576,
+    "lng": -6.9688855
+  },
+  {
+    "id": "monaco-kulthitradio--akustik-hits",
+    "name": "kulthitRADIO - Akustik Hits",
+    "url": "https://edge59.streamonkey.net/kulthitradio-akustikhits?aggregator=radiogarden",
+    "genre": "Music",
+    "city": "Mönchengladbach",
+    "country": "Germany",
+    "lat": 51.1947131,
+    "lng": 6.4353792
+  },
+  {
+    "id": "monaco-kool-1021-fm",
+    "name": "KOOL 102.1 FM",
+    "url": "https://ice24.securenetsystems.net/KOOL102",
+    "genre": "Music",
+    "city": "Des Moines IA",
+    "country": "United States",
+    "lat": 41.5865663,
+    "lng": -93.618936
+  },
+  {
+    "id": "monaco-restauracion-sb",
+    "name": "Restauracion SB",
+    "url": "https://15113.live.streamtheworld.com:443/SAM03AAC78.mp3",
+    "genre": "Music",
+    "city": "Santa Monica CA",
+    "country": "United States",
+    "lat": 34.0194704,
+    "lng": -118.491227
+  },
+  {
+    "id": "monaco-circle-of-white-light-radio",
+    "name": "Circle Of White Light Radio",
+    "url": "https://eu4.fastcast4u.com/proxy/cowlradio?mp=/1",
+    "genre": "Music",
+    "city": "Monaghan",
+    "country": "Ireland",
+    "lat": 54.2485576,
+    "lng": -6.9688855
+  },
+  {
+    "id": "monaco-radio-90,1",
+    "name": "Radio 90,1",
+    "url": "https://radiomg--di--nacs-ais-lgc--0b--cdn.cast.addradio.de/radiomg/live/mp3/high",
+    "genre": "Music",
+    "city": "Mönchengladbach",
+    "country": "Germany",
+    "lat": 51.1947131,
+    "lng": 6.4353792
+  },
+  {
+    "id": "monaco-armagh-city-radio",
+    "name": "Armagh City Radio",
+    "url": "https://acrlive.radioca.st//stream",
+    "genre": "Music",
+    "city": "Monaghan",
+    "country": "Ireland",
+    "lat": 54.2485576,
+    "lng": -6.9688855
+  },
+  {
+    "id": "monaco-radio-rur",
+    "name": "Radio Rur",
+    "url": "https://radiorur--di--nacs-ais-lgc--0a--cdn.cast.addradio.de/radiorur/live/mp3/high",
+    "genre": "Music",
+    "city": "Mönchengladbach",
+    "country": "Germany",
+    "lat": 51.1947131,
+    "lng": 6.4353792
+  },
+  {
+    "id": "monaco-2mno-monaro-community-radio",
+    "name": "2MNO Monaro Community Radio",
+    "url": "http://220.233.66.253:88/broadwave.mp3",
+    "genre": "Music",
+    "city": "Cooma",
+    "country": "Australia",
+    "lat": -36.2356785,
+    "lng": 149.1261779
+  },
+  {
+    "id": "monaco-sapphire-fm-975-community-radio",
+    "name": "Sapphire FM 97.5 Community Radio",
+    "url": "http://149.28.161.112/stream",
+    "genre": "Music",
+    "city": "Cooma",
+    "country": "Australia",
+    "lat": -36.2356785,
+    "lng": 149.1261779
+  },
+  {
+    "id": "monaco-northern-sound",
+    "name": "Northern Sound",
+    "url": "https://edge.audioxi.com/NORTHERNSOUND",
+    "genre": "Music",
+    "city": "Monaghan",
+    "country": "Ireland",
+    "lat": 54.2485576,
+    "lng": -6.9688855
+  },
+  {
+    "id": "monaco-classic-hits",
+    "name": "Classic Hits",
+    "url": "https://edge2.audioxi.com/CLASSIC",
+    "genre": "Music",
+    "city": "Monaghan",
+    "country": "Ireland",
+    "lat": 54.2485576,
+    "lng": -6.9688855
+  },
+  {
+    "id": "monaco-triple-j",
+    "name": "Triple J",
+    "url": "https://abc.streamguys1.com/live/triplejnsw/icecast.audio",
+    "genre": "Music",
+    "city": "Cooma",
+    "country": "Australia",
+    "lat": -36.2356785,
+    "lng": 149.1261779
+  },
+  {
+    "id": "monaco-abc-radio-national",
+    "name": "ABC Radio National",
+    "url": "https://abc.streamguys1.com/live/rnnsw/icecast.audio",
+    "genre": "Music",
+    "city": "Cooma",
+    "country": "Australia",
+    "lat": -36.2356785,
+    "lng": 149.1261779
+  },
+  {
+    "id": "monaco-abc-newsradio",
+    "name": "ABC NewsRadio",
+    "url": "https://abc.streamguys1.com/live/newsradio/icecast.audio",
+    "genre": "Music",
+    "city": "Cooma",
+    "country": "Australia",
+    "lat": -36.2356785,
+    "lng": 149.1261779
+  },
+  {
+    "id": "monaco-rte-lyric-fm",
+    "name": "RTÉ Lyric FM",
+    "url": "https://22733.live.streamtheworld.com:443/RTE_LYRIC_FM.mp3?tdsdk=rte",
+    "genre": "Music",
+    "city": "Monaghan",
+    "country": "Ireland",
+    "lat": 54.2485576,
+    "lng": -6.9688855
+  },
+  {
+    "id": "monaco-fm-963",
+    "name": "FM 96.3",
+    "url": "https://usa7-vn.mixstream.net/:8070/index.html?sid=1",
+    "genre": "Music",
+    "city": "Cooma",
+    "country": "Australia",
+    "lat": -36.2356785,
+    "lng": 149.1261779
+  },
+  {
+    "id": "monaco-rte-gold",
+    "name": "RTÉ Gold",
+    "url": "https://25633.live.streamtheworld.com:443/RTE_GOLD.mp3?tdsdk=rte",
+    "genre": "Music",
+    "city": "Monaghan",
+    "country": "Ireland",
+    "lat": 54.2485576,
+    "lng": -6.9688855
+  },
+  {
+    "id": "monaco-rte-radio-1-fm-88",
+    "name": "RTÉ Radio 1 FM 88",
+    "url": "https://25533.live.streamtheworld.com:443/RTE_1_INT.mp3?tdsdk=rte",
+    "genre": "Music",
+    "city": "Monaghan",
+    "country": "Ireland",
+    "lat": 54.2485576,
+    "lng": -6.9688855
+  },
+  {
+    "id": "monaco-rtv1-mönchengladbach",
+    "name": "RTV1 Mönchengladbach",
+    "url": "https://rtv1.stream.laut.fm/rtv1",
+    "genre": "Music",
+    "city": "Mönchengladbach",
+    "country": "Germany",
+    "lat": 51.1947131,
+    "lng": 6.4353792
+  },
+  {
+    "id": "monaco-rte-2fm",
+    "name": "RTÉ 2FM",
+    "url": "https://29083.live.streamtheworld.com:443/RTE_2FM_INT.mp3?tdsdk=rte",
+    "genre": "Music",
+    "city": "Monaghan",
+    "country": "Ireland",
+    "lat": 54.2485576,
+    "lng": -6.9688855
+  },
+  {
+    "id": "monaco-xlfm-961",
+    "name": "XLFM 96.1",
+    "url": "https://17843.live.streamtheworld.com:443/XLFMAAC.aac",
+    "genre": "Music",
+    "city": "Cooma",
+    "country": "Australia",
+    "lat": -36.2356785,
+    "lng": 149.1261779
+  },
+  {
+    "id": "monaco-rheydt-live",
+    "name": "Rheydt Live",
+    "url": "https://rheydt.stream.laut.fm/rheydt",
+    "genre": "Music",
+    "city": "Mönchengladbach",
+    "country": "Germany",
+    "lat": 51.1947131,
+    "lng": 6.4353792
+  },
+  {
+    "id": "monaco-yass-fm-1003",
+    "name": "Yass FM 100.3",
+    "url": "https://23163.live.streamtheworld.com:443/2YASAAC_SC",
+    "genre": "Music",
+    "city": "Cooma",
+    "country": "Australia",
+    "lat": -36.2356785,
+    "lng": 149.1261779
+  },
+  {
+    "id": "monaco-snow-fm-977",
+    "name": "Snow FM 97.7",
+    "url": "https://19273.live.streamtheworld.com:443/SNOW_FMAAC.aac",
+    "genre": "Music",
+    "city": "Cooma",
+    "country": "Australia",
+    "lat": -36.2356785,
+    "lng": 149.1261779
+  },
+  {
+    "id": "monaco-power-fm-1025",
+    "name": "Power FM 102.5",
+    "url": "https://19273.live.streamtheworld.com:443/BEG_POWER_FMAAC.aac",
+    "genre": "Music",
+    "city": "Cooma",
+    "country": "Australia",
+    "lat": -36.2356785,
+    "lng": 149.1261779
+  },
+  {
+    "id": "monaco-smooth-fm-915",
+    "name": "Smooth FM 91.5",
+    "url": "https://28793.live.streamtheworld.com:443/SMOOTH915_AAC48.aac",
+    "genre": "Music",
+    "city": "Cooma",
+    "country": "Australia",
+    "lat": -36.2356785,
+    "lng": 149.1261779
+  },
+  {
+    "id": "monaco-smooth-fm-953",
+    "name": "Smooth FM 95.3",
+    "url": "https://23203.live.streamtheworld.com:443/SMOOTH953_AAC48.aac",
+    "genre": "Music",
+    "city": "Cooma",
+    "country": "Australia",
+    "lat": -36.2356785,
+    "lng": 149.1261779
+  }
+]

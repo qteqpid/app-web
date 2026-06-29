@@ -1,0 +1,1542 @@
+[
+  {
+    "id": "romania-radio-razgrad",
+    "name": "Radio Razgrad",
+    "url": "http://188.126.1.25:8000/razgrad",
+    "genre": "Music",
+    "city": "Bucharest",
+    "country": "Romania",
+    "lat": 44.4361414,
+    "lng": 26.102684
+  },
+  {
+    "id": "romania-radio-jega-2",
+    "name": "Radio Jega 2",
+    "url": "http://g5.turbohost.eu:8004/stream96_autodj",
+    "genre": "Music",
+    "city": "Bucharest",
+    "country": "Romania",
+    "lat": 44.4361414,
+    "lng": 26.102684
+  },
+  {
+    "id": "romania-capital-fm-dance",
+    "name": "Capital FM Dance",
+    "url": "http://stream.capitalfm.ro:8020/stream/",
+    "genre": "Music",
+    "city": "Bucharest",
+    "country": "Romania",
+    "lat": 44.4361414,
+    "lng": 26.102684
+  },
+  {
+    "id": "romania-gerlafm",
+    "name": "GerlaFM",
+    "url": "http://89.39.189.70:8000/index.html?sid=1",
+    "genre": "Music",
+    "city": "Bucharest",
+    "country": "Romania",
+    "lat": 44.4361414,
+    "lng": 26.102684
+  },
+  {
+    "id": "romania-radio-eco-natura",
+    "name": "Radio Eco Natura",
+    "url": "http://n04.radiojar.com/fp5c3fgbyzzuv?rj-ttl=5&rj-tok=AAABm_nRII4AU6s7CRcaZUsR2Q",
+    "genre": "Music",
+    "city": "Bucharest",
+    "country": "Romania",
+    "lat": 44.4361414,
+    "lng": 26.102684
+  },
+  {
+    "id": "romania-radio-romanian-rock",
+    "name": "Radio Romanian Rock",
+    "url": "https://asculta.radioromanian.net/rock",
+    "genre": "Music",
+    "city": "Bucharest",
+    "country": "Romania",
+    "lat": 44.4361414,
+    "lng": 26.102684
+  },
+  {
+    "id": "romania-half-is-enough",
+    "name": "Half Is Enough",
+    "url": "https://halfisen.radioca.st/stream",
+    "genre": "Music",
+    "city": "Bucharest",
+    "country": "Romania",
+    "lat": 44.4361414,
+    "lng": 26.102684
+  },
+  {
+    "id": "romania-radio-zu",
+    "name": "Radio ZU",
+    "url": "https://mscp4.gazduireradio.ro:8160/radiozu.mp3",
+    "genre": "Music",
+    "city": "Bucharest",
+    "country": "Romania",
+    "lat": 44.4361414,
+    "lng": 26.102684
+  },
+  {
+    "id": "romania-radio-românia-actualități",
+    "name": "Radio România Actualități",
+    "url": "https://stream4.srr.ro:8443/romania-actualitati",
+    "genre": "Music",
+    "city": "Bucharest",
+    "country": "Romania",
+    "lat": 44.4361414,
+    "lng": 26.102684
+  },
+  {
+    "id": "romania-kiss-fm",
+    "name": "Kiss FM",
+    "url": "https://live.kissfm.ro/kissfm.aacp",
+    "genre": "Music",
+    "city": "Bucharest",
+    "country": "Romania",
+    "lat": 44.4361414,
+    "lng": 26.102684
+  },
+  {
+    "id": "romania-rock-fm-ballads",
+    "name": "Rock FM Ballads",
+    "url": "https://live.kissfm.ro/ballads.rock",
+    "genre": "Music",
+    "city": "Bucharest",
+    "country": "Romania",
+    "lat": 44.4361414,
+    "lng": 26.102684
+  },
+  {
+    "id": "romania-magic-fm",
+    "name": "Magic FM",
+    "url": "https://live.magicfm.ro/magicfm.aacp",
+    "genre": "Music",
+    "city": "Bucharest",
+    "country": "Romania",
+    "lat": 44.4361414,
+    "lng": 26.102684
+  },
+  {
+    "id": "romania-radio-folclor-buzău",
+    "name": "Radio Folclor Buzău",
+    "url": "https://live.radiofolclorbuzaufm.ro:8910/stream/",
+    "genre": "Music",
+    "city": "Bucharest",
+    "country": "Romania",
+    "lat": 44.4361414,
+    "lng": 26.102684
+  },
+  {
+    "id": "romania-europa-fm",
+    "name": "Europa FM",
+    "url": "https://astreaming.edi.ro:8443/EuropaFM_aac",
+    "genre": "Music",
+    "city": "Bucharest",
+    "country": "Romania",
+    "lat": 44.4361414,
+    "lng": 26.102684
+  },
+  {
+    "id": "romania-fm-radio-manele--manele",
+    "name": "FM Radio Manele - Manele",
+    "url": "https://ssl.servereradio.ro/8054/stream",
+    "genre": "Music",
+    "city": "Bucharest",
+    "country": "Romania",
+    "lat": 44.4361414,
+    "lng": 26.102684
+  },
+  {
+    "id": "romania-radio-guerilla-fm-948",
+    "name": "Radio Guerilla FM 94.8",
+    "url": "https://live.guerrillaradio.ro:8443/guerrilla.aac",
+    "genre": "Music",
+    "city": "Bucharest",
+    "country": "Romania",
+    "lat": 44.4361414,
+    "lng": 26.102684
+  },
+  {
+    "id": "romania-radio-clasic--blue-jazz",
+    "name": "Radio Clasic - Blue Jazz",
+    "url": "https://live.radioclasic.com/listen/radio_clasic_bluejazz/live.mp3",
+    "genre": "Music",
+    "city": "Făgăraș",
+    "country": "Romania",
+    "lat": 45.8449461,
+    "lng": 24.9703211
+  },
+  {
+    "id": "romania-radio-clasic--bach",
+    "name": "Radio Clasic - Bach",
+    "url": "https://live.radioclasic.com/listen/radio_clasic_bach/live.mp3",
+    "genre": "Music",
+    "city": "Făgăraș",
+    "country": "Romania",
+    "lat": 45.8449461,
+    "lng": 24.9703211
+  },
+  {
+    "id": "romania-radio-clasic--christmas",
+    "name": "Radio Clasic - Christmas",
+    "url": "https://live.radioclasic.com/listen/radio_clasic_christmas/live.mp3",
+    "genre": "Music",
+    "city": "Făgăraș",
+    "country": "Romania",
+    "lat": 45.8449461,
+    "lng": 24.9703211
+  },
+  {
+    "id": "romania-radio-clasic--hits",
+    "name": "Radio Clasic - Hits",
+    "url": "https://live.radioclasic.com/listen/radio_clasic_hits/live.mp3",
+    "genre": "Music",
+    "city": "Făgăraș",
+    "country": "Romania",
+    "lat": 45.8449461,
+    "lng": 24.9703211
+  },
+  {
+    "id": "romania-radio-clasic--strauss",
+    "name": "Radio Clasic - Strauss",
+    "url": "https://live.radioclasic.com/listen/radio_clasic_strauss/live.mp3",
+    "genre": "Music",
+    "city": "Făgăraș",
+    "country": "Romania",
+    "lat": 45.8449461,
+    "lng": 24.9703211
+  },
+  {
+    "id": "romania-cross-one-radio",
+    "name": "Cross One Radio",
+    "url": "https://lb01.bpstream.com:8630/index.html?sid=1",
+    "genre": "Music",
+    "city": "Bucharest",
+    "country": "Romania",
+    "lat": 44.4361414,
+    "lng": 26.102684
+  },
+  {
+    "id": "romania-radio-clasic--popular",
+    "name": "Radio Clasic - Popular",
+    "url": "https://live.radioclasic.com/listen/radio_clasic_popular/live.mp3",
+    "genre": "Music",
+    "city": "Făgăraș",
+    "country": "Romania",
+    "lat": 45.8449461,
+    "lng": 24.9703211
+  },
+  {
+    "id": "romania-radio-clasic--latino",
+    "name": "Radio Clasic - Latino",
+    "url": "https://live.radioclasic.com/listen/radio_clasic_latino/live.mp3",
+    "genre": "Music",
+    "city": "Făgăraș",
+    "country": "Romania",
+    "lat": 45.8449461,
+    "lng": 24.9703211
+  },
+  {
+    "id": "romania-radio-clasic--rock",
+    "name": "Radio Clasic - Rock",
+    "url": "https://live.radioclasic.com/listen/radio_clasic_rock/live.mp3",
+    "genre": "Music",
+    "city": "Făgăraș",
+    "country": "Romania",
+    "lat": 45.8449461,
+    "lng": 24.9703211
+  },
+  {
+    "id": "romania-radio-românia-cluj",
+    "name": "Radio România Cluj",
+    "url": "http://89.238.227.6:8384/%7CRadio/",
+    "genre": "Music",
+    "city": "Cluj-Napoca",
+    "country": "Romania",
+    "lat": 46.769379,
+    "lng": 23.5899542
+  },
+  {
+    "id": "romania-radio-star-902",
+    "name": "Radio Star 90.2",
+    "url": "https://ssl.asculta.live:8310/STAR",
+    "genre": "Music",
+    "city": "Făgăraș",
+    "country": "Romania",
+    "lat": 45.8449461,
+    "lng": 24.9703211
+  },
+  {
+    "id": "romania-radio-clasic--folk",
+    "name": "Radio Clasic - Folk",
+    "url": "https://live.radioclasic.com/listen/radio_clasic_folk/live.mp3",
+    "genre": "Music",
+    "city": "Făgăraș",
+    "country": "Romania",
+    "lat": 45.8449461,
+    "lng": 24.9703211
+  },
+  {
+    "id": "romania-radio-clasic--80",
+    "name": "Radio Clasic - 80",
+    "url": "https://live.radioclasic.com/listen/radio_clasic_80/live.mp3",
+    "genre": "Music",
+    "city": "Făgăraș",
+    "country": "Romania",
+    "lat": 45.8449461,
+    "lng": 24.9703211
+  },
+  {
+    "id": "romania-radio-clasic--100%-românesc",
+    "name": "Radio Clasic - 100% Românesc",
+    "url": "https://live.radioclasic.com/listen/radio_clasic_romanesc/live.mp3",
+    "genre": "Music",
+    "city": "Făgăraș",
+    "country": "Romania",
+    "lat": 45.8449461,
+    "lng": 24.9703211
+  },
+  {
+    "id": "romania-radio-wish",
+    "name": "Radio Wish",
+    "url": "https://s101.radiolize.com/radio/8050/radio.mp3",
+    "genre": "Music",
+    "city": "Cluj-Napoca",
+    "country": "Romania",
+    "lat": 46.769379,
+    "lng": 23.5899542
+  },
+  {
+    "id": "romania-agnus-radio",
+    "name": "Agnus Radio",
+    "url": "http://radio2.tirek.hu:8000/agnusradio",
+    "genre": "Music",
+    "city": "Cluj-Napoca",
+    "country": "Romania",
+    "lat": 46.769379,
+    "lng": 23.5899542
+  },
+  {
+    "id": "romania-radio-transilvania-972-fm",
+    "name": "Radio Transilvania 97.2 FM",
+    "url": "https://stream2.radiotransilvania.ro/Medias",
+    "genre": "Music",
+    "city": "Făgăraș",
+    "country": "Romania",
+    "lat": 45.8449461,
+    "lng": 24.9703211
+  },
+  {
+    "id": "romania-regió-rádió",
+    "name": "Régió Rádió",
+    "url": "https://stream.regioradio.info:8000/radio.mp3",
+    "genre": "Music",
+    "city": "Făgăraș",
+    "country": "Romania",
+    "lat": 45.8449461,
+    "lng": 24.9703211
+  },
+  {
+    "id": "romania-radio-orion-fm-966",
+    "name": "Radio Orion FM 96.6",
+    "url": "https://cast.orionfm.ro/listen/orion/public.mp3",
+    "genre": "Music",
+    "city": "Făgăraș",
+    "country": "Romania",
+    "lat": 45.8449461,
+    "lng": 24.9703211
+  },
+  {
+    "id": "romania-ebs-romanian-folk",
+    "name": "EBS Romanian Folk",
+    "url": "https://azura.ebsmedia.ro/radio/8150/romanianfolk320.aac",
+    "genre": "Music",
+    "city": "Cluj-Napoca",
+    "country": "Romania",
+    "lat": 46.769379,
+    "lng": 23.5899542
+  },
+  {
+    "id": "romania-kolozsvári-rádió-románia",
+    "name": "Kolozsvári Rádió Románia",
+    "url": "http://89.238.227.6:8386/index.html?sid=1",
+    "genre": "Music",
+    "city": "Cluj-Napoca",
+    "country": "Romania",
+    "lat": 46.769379,
+    "lng": 23.5899542
+  },
+  {
+    "id": "romania-ubb-radio",
+    "name": "UBB Radio",
+    "url": "http://stream.radio.ubbcluj.ro:8000/ubb.mp3",
+    "genre": "Music",
+    "city": "Cluj-Napoca",
+    "country": "Romania",
+    "lat": 46.769379,
+    "lng": 23.5899542
+  },
+  {
+    "id": "romania-radio-transilvania-945-fm",
+    "name": "Radio Transilvania 94.5 FM",
+    "url": "https://stream2.radiotransilvania.ro/Cluj",
+    "genre": "Music",
+    "city": "Cluj-Napoca",
+    "country": "Romania",
+    "lat": 46.769379,
+    "lng": 23.5899542
+  },
+  {
+    "id": "romania-radio-balada-bistrita-fm-893",
+    "name": "Radio Balada Bistrita FM 89.3",
+    "url": "http://94.52.142.229:85/broadwave.mp3",
+    "genre": "Music",
+    "city": "Cluj-Napoca",
+    "country": "Romania",
+    "lat": 46.769379,
+    "lng": 23.5899542
+  },
+  {
+    "id": "romania-radio-reintregirea",
+    "name": "Radio Reintregirea",
+    "url": "http://5.2.168.107:8000/live.mp3",
+    "genre": "Music",
+    "city": "Cluj-Napoca",
+    "country": "Romania",
+    "lat": 46.769379,
+    "lng": 23.5899542
+  },
+  {
+    "id": "romania-ebs-cantece-de-petrecere",
+    "name": "EBS Cantece de Petrecere",
+    "url": "https://azura.ebsmedia.ro/radio/8170/petrecere320.aac",
+    "genre": "Music",
+    "city": "Cluj-Napoca",
+    "country": "Romania",
+    "lat": 46.769379,
+    "lng": 23.5899542
+  },
+  {
+    "id": "romania-stil-fm-1061",
+    "name": "Stil FM 106.1",
+    "url": "http://92.180.18.201:8000//index.html?sid=1/;?type=http&nocache=45092",
+    "genre": "Music",
+    "city": "Cluj-Napoca",
+    "country": "Romania",
+    "lat": 46.769379,
+    "lng": 23.5899542
+  },
+  {
+    "id": "romania-radio-transilvania-1061-fm",
+    "name": "Radio Transilvania 106.1 FM",
+    "url": "https://stream2.radiotransilvania.ro/BaiaMare",
+    "genre": "Music",
+    "city": "Cluj-Napoca",
+    "country": "Romania",
+    "lat": 46.769379,
+    "lng": 23.5899542
+  },
+  {
+    "id": "romania-radio-renașterea",
+    "name": "Radio Renașterea",
+    "url": "https://cast1.asurahosting.com/proxy/arhiepis/stream",
+    "genre": "Music",
+    "city": "Cluj-Napoca",
+    "country": "Romania",
+    "lat": 46.769379,
+    "lng": 23.5899542
+  },
+  {
+    "id": "romania-transilvaniaonline",
+    "name": "transilvania.online",
+    "url": "https://s2.radio.co/sce9d4eadd/listen",
+    "genre": "Music",
+    "city": "Făgăraș",
+    "country": "Romania",
+    "lat": 45.8449461,
+    "lng": 24.9703211
+  },
+  {
+    "id": "romania-radio-dobrogea",
+    "name": "Radio Dobrogea",
+    "url": "http://86.122.50.130:7000/",
+    "genre": "Music",
+    "city": "Constanța",
+    "country": "Romania",
+    "lat": 44.1767161,
+    "lng": 28.6507598
+  },
+  {
+    "id": "romania-korona-rádió",
+    "name": "Korona Rádió",
+    "url": "https://s7.citrus3.com:8022/stream",
+    "genre": "Music",
+    "city": "Făgăraș",
+    "country": "Romania",
+    "lat": 45.8449461,
+    "lng": 24.9703211
+  },
+  {
+    "id": "romania-radio-blaj-fm-962",
+    "name": "Radio Blaj FM 96.2",
+    "url": "https://ssl.asculta.live:8016/stream",
+    "genre": "Music",
+    "city": "Cluj-Napoca",
+    "country": "Romania",
+    "lat": 46.769379,
+    "lng": 23.5899542
+  },
+  {
+    "id": "romania-impuls-radio",
+    "name": "Impuls Radio",
+    "url": "https://live.radio-impuls.ro/stream",
+    "genre": "Music",
+    "city": "Cluj-Napoca",
+    "country": "Romania",
+    "lat": 46.769379,
+    "lng": 23.5899542
+  },
+  {
+    "id": "romania-sky-fm-1011",
+    "name": "Sky FM 101.1",
+    "url": "http://89.43.138.116:8000/radiosky.mp3",
+    "genre": "Music",
+    "city": "Constanța",
+    "country": "Romania",
+    "lat": 44.1767161,
+    "lng": 28.6507598
+  },
+  {
+    "id": "romania-radio-constanța",
+    "name": "Radio Constanța",
+    "url": "https://stream4.srr.ro:8443/radio-constanta-fm",
+    "genre": "Music",
+    "city": "Constanța",
+    "country": "Romania",
+    "lat": 44.1767161,
+    "lng": 28.6507598
+  },
+  {
+    "id": "romania-radio-vacanța--nostalgia",
+    "name": "Radio Vacanța - Nostalgia",
+    "url": "https://stream4.srr.ro:8443/nostalgia_rv",
+    "genre": "Music",
+    "city": "Constanța",
+    "country": "Romania",
+    "lat": 44.1767161,
+    "lng": 28.6507598
+  },
+  {
+    "id": "romania-play-cafe",
+    "name": "Play Café",
+    "url": "https://live.playradio.org:8443/CafeHD",
+    "genre": "Music",
+    "city": "Constanța",
+    "country": "Romania",
+    "lat": 44.1767161,
+    "lng": 28.6507598
+  },
+  {
+    "id": "romania-play-90s",
+    "name": "Play 90s",
+    "url": "https://live.playradio.org:8443/90HD",
+    "genre": "Music",
+    "city": "Constanța",
+    "country": "Romania",
+    "lat": 44.1767161,
+    "lng": 28.6507598
+  },
+  {
+    "id": "romania-play-radio-916-fm",
+    "name": "Play Radio 91.6 FM",
+    "url": "https://live.playradio.org:8443/FMHD",
+    "genre": "Music",
+    "city": "Constanța",
+    "country": "Romania",
+    "lat": 44.1767161,
+    "lng": 28.6507598
+  },
+  {
+    "id": "romania-radio-dobrudja-919",
+    "name": "Radio Dobrudja 91.9",
+    "url": "http://5.104.174.128:8000/radiodobrudja",
+    "genre": "Music",
+    "city": "Constanța",
+    "country": "Romania",
+    "lat": 44.1767161,
+    "lng": 28.6507598
+  },
+  {
+    "id": "romania-napoca-fm-1022",
+    "name": "Napoca FM 102.2",
+    "url": "https://streaming.napocalive.ro/napoca-fm",
+    "genre": "Music",
+    "city": "Cluj-Napoca",
+    "country": "Romania",
+    "lat": 46.769379,
+    "lng": 23.5899542
+  },
+  {
+    "id": "romania-radio-doina-fm-947",
+    "name": "Radio Doina FM 94.7",
+    "url": "https://live.radiodoina.ro/radiodoina.mp3",
+    "genre": "Music",
+    "city": "Constanța",
+    "country": "Romania",
+    "lat": 44.1767161,
+    "lng": 28.6507598
+  },
+  {
+    "id": "romania-sweet-fm-959",
+    "name": "Sweet FM 95.9",
+    "url": "https://live.gofm.ro:2000/stream/SWEET/stream.mp3",
+    "genre": "Music",
+    "city": "Constanța",
+    "country": "Romania",
+    "lat": 44.1767161,
+    "lng": 28.6507598
+  },
+  {
+    "id": "romania-radio-hit",
+    "name": "Radio Hit",
+    "url": "http://live02.radiohit.ro:8000/hit.mp3",
+    "genre": "Music",
+    "city": "Iași",
+    "country": "Romania",
+    "lat": 47.1615598,
+    "lng": 27.5837814
+  },
+  {
+    "id": "romania-onlinedjradio",
+    "name": "OnlineDJRadio",
+    "url": "https://play.onlinedjradio.com:7000/live",
+    "genre": "Music",
+    "city": "Constanța",
+    "country": "Romania",
+    "lat": 44.1767161,
+    "lng": 28.6507598
+  },
+  {
+    "id": "romania-next-radio",
+    "name": "Next Radio",
+    "url": "https://stream.nextradio.live/listen/nextradio/NextHD",
+    "genre": "Music",
+    "city": "Constanța",
+    "country": "Romania",
+    "lat": 44.1767161,
+    "lng": 28.6507598
+  },
+  {
+    "id": "romania-radio-cfm-929",
+    "name": "Radio CFM 92.9",
+    "url": "https://stream2.radiocfm.ro:8443/CFM",
+    "genre": "Music",
+    "city": "Constanța",
+    "country": "Romania",
+    "lat": 44.1767161,
+    "lng": 28.6507598
+  },
+  {
+    "id": "romania-radio-românia-iași",
+    "name": "Radio România Iași",
+    "url": "https://stream4.srr.ro:8443/radio-iasi-fm",
+    "genre": "Music",
+    "city": "Iași",
+    "country": "Romania",
+    "lat": 47.1615598,
+    "lng": 27.5837814
+  },
+  {
+    "id": "romania-982-nova-fm",
+    "name": "98.2 Nova FM",
+    "url": "http://86.125.106.34:8000/live",
+    "genre": "Music",
+    "city": "Brașov",
+    "country": "Romania",
+    "lat": 45.6525105,
+    "lng": 25.6105654
+  },
+  {
+    "id": "romania-pro-dj-radio",
+    "name": "Pro Dj Radio",
+    "url": "https://live.prodjradio.net:8065/radio",
+    "genre": "Music",
+    "city": "Iași",
+    "country": "Romania",
+    "lat": 47.1615598,
+    "lng": 27.5837814
+  },
+  {
+    "id": "romania-radio-fix-998",
+    "name": "Radio FIX 99.8",
+    "url": "http://89.137.76.149:8000/index.html?sid=1",
+    "genre": "Music",
+    "city": "Iași",
+    "country": "Romania",
+    "lat": 47.1615598,
+    "lng": 27.5837814
+  },
+  {
+    "id": "romania-rock-now-radio",
+    "name": "Rock Now Radio",
+    "url": "https://listen.rocknowradio.ro/",
+    "genre": "Music",
+    "city": "Iași",
+    "country": "Romania",
+    "lat": 47.1615598,
+    "lng": 27.5837814
+  },
+  {
+    "id": "romania-news-fm-pascani",
+    "name": "News FM Pascani",
+    "url": "https://stream2.rcast.net/64531",
+    "genre": "Music",
+    "city": "Iași",
+    "country": "Romania",
+    "lat": 47.1615598,
+    "lng": 27.5837814
+  },
+  {
+    "id": "romania-radio-regional",
+    "name": "Radio Regional",
+    "url": "https://stream.clever-host.ro/8008/stream",
+    "genre": "Music",
+    "city": "Iași",
+    "country": "Romania",
+    "lat": 47.1615598,
+    "lng": 27.5837814
+  },
+  {
+    "id": "romania-viva-fm-iasi",
+    "name": "Viva FM Iasi",
+    "url": "https://cloud.radiosonicpanel.ro/8002/stream",
+    "genre": "Music",
+    "city": "Iași",
+    "country": "Romania",
+    "lat": 47.1615598,
+    "lng": 27.5837814
+  },
+  {
+    "id": "romania-radio-terranova",
+    "name": "Radio Terranova",
+    "url": "https://e20.yesstreaming.net:7410/stream",
+    "genre": "Music",
+    "city": "Iași",
+    "country": "Romania",
+    "lat": 47.1615598,
+    "lng": 27.5837814
+  },
+  {
+    "id": "romania-radio-coresi",
+    "name": "Radio Coresi",
+    "url": "https://audio-edge-3mayu.fra.h.radiomast.io/71b8dd5d-b3a4-4ee9-a477-1a585779899c",
+    "genre": "Music",
+    "city": "Brașov",
+    "country": "Romania",
+    "lat": 45.6525105,
+    "lng": 25.6105654
+  },
+  {
+    "id": "romania-romano-patrin-fm",
+    "name": "Romano Patrin FM",
+    "url": "https://mediaserv38.live-streams.nl:8074/stream",
+    "genre": "Music",
+    "city": "Iași",
+    "country": "Romania",
+    "lat": 47.1615598,
+    "lng": 27.5837814
+  },
+  {
+    "id": "romania-radio-oastea-domnului",
+    "name": "Radio Oastea Domnului",
+    "url": "http://86.123.160.19:8000/;;",
+    "genre": "Music",
+    "city": "Sibiu",
+    "country": "Romania",
+    "lat": 45.7973912,
+    "lng": 24.1519202
+  },
+  {
+    "id": "romania-duxradio",
+    "name": "DuxRadio",
+    "url": "https://radio.duxradio.ro/8002/stream",
+    "genre": "Music",
+    "city": "Brașov",
+    "country": "Romania",
+    "lat": 45.6525105,
+    "lng": 25.6105654
+  },
+  {
+    "id": "romania-radio-romanian-dance",
+    "name": "Radio Romanian Dance",
+    "url": "https://asculta.radioromanian.net/dance",
+    "genre": "Music",
+    "city": "Brașov",
+    "country": "Romania",
+    "lat": 45.6525105,
+    "lng": 25.6105654
+  },
+  {
+    "id": "romania-super-fm-938",
+    "name": "Super FM 93.8",
+    "url": "https://live.superfm.ro/stream.mp3",
+    "genre": "Music",
+    "city": "Brașov",
+    "country": "Romania",
+    "lat": 45.6525105,
+    "lng": 25.6105654
+  },
+  {
+    "id": "romania-radio-chillescu",
+    "name": "Radio Chillescu",
+    "url": "https://stream.clever-host.ro/8014/stream",
+    "genre": "Music",
+    "city": "Brașov",
+    "country": "Romania",
+    "lat": 45.6525105,
+    "lng": 25.6105654
+  },
+  {
+    "id": "romania-radio-clasic--symphony",
+    "name": "Radio Clasic - Symphony",
+    "url": "https://live.radioclasic.com/listen/radio_clasic_symphony/live.mp3",
+    "genre": "Music",
+    "city": "Brașov",
+    "country": "Romania",
+    "lat": 45.6525105,
+    "lng": 25.6105654
+  },
+  {
+    "id": "romania-city-fm-983",
+    "name": "City FM 98.3",
+    "url": "https://mscp5.gazduireradio.ro:1270/stream",
+    "genre": "Music",
+    "city": "Sibiu",
+    "country": "Romania",
+    "lat": 45.7973912,
+    "lng": 24.1519202
+  },
+  {
+    "id": "romania-radio-transilvania-fm-1004",
+    "name": "Radio Transilvania FM 100.4",
+    "url": "https://stream2.radiotransilvania.ro/Ludus",
+    "genre": "Music",
+    "city": "Sibiu",
+    "country": "Romania",
+    "lat": 45.7973912,
+    "lng": 24.1519202
+  },
+  {
+    "id": "romania-eveniment-fm-1032",
+    "name": "Eveniment FM 103.2",
+    "url": "https://live.gofm.ro:2000/stream/eveniment",
+    "genre": "Music",
+    "city": "Sibiu",
+    "country": "Romania",
+    "lat": 45.7973912,
+    "lng": 24.1519202
+  },
+  {
+    "id": "romania-srr-antena-sibiului-954-fm",
+    "name": "SRR Antena Sibiului 95.4 FM",
+    "url": "https://stream4.srr.ro:8443/antena-sibiului",
+    "genre": "Music",
+    "city": "Sibiu",
+    "country": "Romania",
+    "lat": 45.7973912,
+    "lng": 24.1519202
+  },
+  {
+    "id": "romania-radio-romanian-colinde",
+    "name": "Radio Romanian Colinde",
+    "url": "https://asculta.radioromanian.net/colinde",
+    "genre": "Music",
+    "city": "Găești",
+    "country": "Romania",
+    "lat": 44.7207093,
+    "lng": 25.3194711
+  },
+  {
+    "id": "romania-radio-romanian-disco",
+    "name": "Radio Romanian Disco",
+    "url": "https://asculta.radioromanian.net/disco",
+    "genre": "Music",
+    "city": "Găești",
+    "country": "Romania",
+    "lat": 44.7207093,
+    "lng": 25.3194711
+  },
+  {
+    "id": "romania-radio-romanian-hip-hop",
+    "name": "Radio Romanian Hip-Hop",
+    "url": "https://asculta.radioromanian.net/hiphop",
+    "genre": "Music",
+    "city": "Găești",
+    "country": "Romania",
+    "lat": 44.7207093,
+    "lng": 25.3194711
+  },
+  {
+    "id": "romania-radio-timișoara-am-630",
+    "name": "Radio Timișoara AM 630",
+    "url": "http://89.238.227.6:8350/%7CRadio",
+    "genre": "Music",
+    "city": "Timișoara",
+    "country": "Romania",
+    "lat": 45.7538355,
+    "lng": 21.2257474
+  },
+  {
+    "id": "romania-radio-vestea-bună",
+    "name": "Radio Vestea Bună",
+    "url": "https://c28.radioboss.fm:18175/stream",
+    "genre": "Music",
+    "city": "Sibiu",
+    "country": "Romania",
+    "lat": 45.7973912,
+    "lng": 24.1519202
+  },
+  {
+    "id": "romania-radio-romanian-manele",
+    "name": "Radio Romanian Manele",
+    "url": "https://asculta.radioromanian.net/manele",
+    "genre": "Music",
+    "city": "Găești",
+    "country": "Romania",
+    "lat": 44.7207093,
+    "lng": 25.3194711
+  },
+  {
+    "id": "romania-radio-romanian-popular",
+    "name": "Radio Romanian Popular",
+    "url": "https://asculta.radioromanian.net/popular",
+    "genre": "Music",
+    "city": "Găești",
+    "country": "Romania",
+    "lat": 44.7207093,
+    "lng": 25.3194711
+  },
+  {
+    "id": "romania-rádió7",
+    "name": "Rádió7",
+    "url": "http://netradio.radio7.hu:8300/stream.mp3",
+    "genre": "Music",
+    "city": "Timișoara",
+    "country": "Romania",
+    "lat": 45.7538355,
+    "lng": 21.2257474
+  },
+  {
+    "id": "romania-radio-vocea-evangheliei-922-fm",
+    "name": "Radio Vocea Evangheliei 92.2 FM",
+    "url": "https://tm.rve.ro/rvetm.mp3",
+    "genre": "Music",
+    "city": "Timișoara",
+    "country": "Romania",
+    "lat": 45.7538355,
+    "lng": 21.2257474
+  },
+  {
+    "id": "romania-west-city-radio-fm-888",
+    "name": "West City Radio FM 88.8",
+    "url": "https://live.westcityradio.ro:8443/aac",
+    "genre": "Music",
+    "city": "Timișoara",
+    "country": "Romania",
+    "lat": 45.7538355,
+    "lng": 21.2257474
+  },
+  {
+    "id": "romania-radio-poema",
+    "name": "Radio Poema",
+    "url": "https://ssl.radios.show/8142/stream",
+    "genre": "Music",
+    "city": "Timișoara",
+    "country": "Romania",
+    "lat": 45.7538355,
+    "lng": 21.2257474
+  },
+  {
+    "id": "romania-marosvásárhelyi-rádió-fm-1068",
+    "name": "Marosvásárhelyi Rádió FM 106.8",
+    "url": "https://stream4.srr.ro:8443/radio-tgmures-mag",
+    "genre": "Music",
+    "city": "Târgu Mureș",
+    "country": "Romania",
+    "lat": 46.5446253,
+    "lng": 24.561196
+  },
+  {
+    "id": "romania-radio-românia-târgu-mureș",
+    "name": "Radio România Târgu Mureș",
+    "url": "https://stream4.srr.ro:8443/radio-tgmures-fm",
+    "genre": "Music",
+    "city": "Târgu Mureș",
+    "country": "Romania",
+    "lat": 46.5446253,
+    "lng": 24.561196
+  },
+  {
+    "id": "romania-radio-flora-tm",
+    "name": "Radio Flora TM",
+    "url": "https://usa10.fastcast4u.com:9520/?type=http&nocache=1705149913",
+    "genre": "Music",
+    "city": "Timișoara",
+    "country": "Romania",
+    "lat": 45.7538355,
+    "lng": 21.2257474
+  },
+  {
+    "id": "romania-radio-1-bekescsaba-fm-1040",
+    "name": "Radio 1 Békéscsaba FM 104.0",
+    "url": "https://icast.connectmedia.hu/5233/live.mp3",
+    "genre": "Music",
+    "city": "Timișoara",
+    "country": "Romania",
+    "lat": 45.7538355,
+    "lng": 21.2257474
+  },
+  {
+    "id": "romania-sup-radio",
+    "name": "SUP Radio",
+    "url": "https://sup.umfst.ro:8000/live.mp3",
+    "genre": "Music",
+    "city": "Târgu Mureș",
+    "country": "Romania",
+    "lat": 46.5446253,
+    "lng": 24.561196
+  },
+  {
+    "id": "romania-erdely-fm",
+    "name": "Erdely FM",
+    "url": "https://efm.radioca.st/stream",
+    "genre": "Music",
+    "city": "Târgu Mureș",
+    "country": "Romania",
+    "lat": 46.5446253,
+    "lng": 24.561196
+  },
+  {
+    "id": "romania-shine-fm-radio",
+    "name": "Shine FM Radio",
+    "url": "https://s01.diazol.hu:10042/stream/",
+    "genre": "Music",
+    "city": "Timișoara",
+    "country": "Romania",
+    "lat": 45.7538355,
+    "lng": 21.2257474
+  },
+  {
+    "id": "romania-radio-sos",
+    "name": "Radio SOS",
+    "url": "http://5.2.180.231:8000/stream",
+    "genre": "Music",
+    "city": "Ploiești",
+    "country": "Romania",
+    "lat": 44.9417468,
+    "lng": 26.0236504
+  },
+  {
+    "id": "romania-disco-mix",
+    "name": "Disco Mix",
+    "url": "https://play.discomix.ro/8002/stream",
+    "genre": "Music",
+    "city": "Ploiești",
+    "country": "Romania",
+    "lat": 44.9417468,
+    "lng": 26.0236504
+  },
+  {
+    "id": "romania-star-radio",
+    "name": "Star Radio",
+    "url": "https://online.webcastradio.ro/star",
+    "genre": "Music",
+    "city": "Târgu Mureș",
+    "country": "Romania",
+    "lat": 46.5446253,
+    "lng": 24.561196
+  },
+  {
+    "id": "romania-rve-oradea",
+    "name": "RVE Oradea",
+    "url": "http://162.244.80.32:6700/;stream",
+    "genre": "Music",
+    "city": "Oradea",
+    "country": "Romania",
+    "lat": 47.0549163,
+    "lng": 21.9285231
+  },
+  {
+    "id": "romania-rádió-koko-marosvásárhely",
+    "name": "Rádió Koko Marosvásárhely",
+    "url": "https://az10.yesstreaming.net:8210/radiokoko.mp3",
+    "genre": "Music",
+    "city": "Târgu Mureș",
+    "country": "Romania",
+    "lat": 46.5446253,
+    "lng": 24.561196
+  },
+  {
+    "id": "romania-rve-predici",
+    "name": "RVE Predici",
+    "url": "http://162.244.80.32:9468/;stream.mp3",
+    "genre": "Music",
+    "city": "Oradea",
+    "country": "Romania",
+    "lat": 47.0549163,
+    "lng": 21.9285231
+  },
+  {
+    "id": "romania-upit-radio",
+    "name": "Upit Radio",
+    "url": "https://cupitradio.duckdns.org:4443/stream",
+    "genre": "Music",
+    "city": "Găești",
+    "country": "Romania",
+    "lat": 44.7207093,
+    "lng": 25.3194711
+  },
+  {
+    "id": "romania-plusz+-fm-896",
+    "name": "Plusz+ FM 89.6",
+    "url": "https://stream2.radiotransilvania.ro/Nagyvarad",
+    "genre": "Music",
+    "city": "Oradea",
+    "country": "Romania",
+    "lat": 47.0549163,
+    "lng": 21.9285231
+  },
+  {
+    "id": "romania-radio-maria-românia",
+    "name": "Radio Maria România",
+    "url": "https://dreamsiteradiocp2.com/proxy/rmromania2?mp=/stream",
+    "genre": "Music",
+    "city": "Oradea",
+    "country": "Romania",
+    "lat": 47.0549163,
+    "lng": 21.9285231
+  },
+  {
+    "id": "romania-radio-transilvania-fm-972",
+    "name": "Radio Transilvania FM 97.2",
+    "url": "https://stream2.radiotransilvania.ro/Oradea",
+    "genre": "Music",
+    "city": "Oradea",
+    "country": "Romania",
+    "lat": 47.0549163,
+    "lng": 21.9285231
+  },
+  {
+    "id": "romania-radio-as-petrecere-955-fm",
+    "name": "Radio AS Petrecere 95.5 FM",
+    "url": "http://89.39.189.78:8001/stream/",
+    "genre": "Music",
+    "city": "Buzău",
+    "country": "Romania",
+    "lat": 45.2692582,
+    "lng": 26.7748173
+  },
+  {
+    "id": "romania-focus-fm",
+    "name": "Focus FM",
+    "url": "http://89.40.72.71:8000/stream",
+    "genre": "Music",
+    "city": "Buzău",
+    "country": "Romania",
+    "lat": 45.2692582,
+    "lng": 26.7748173
+  },
+  {
+    "id": "romania-mária-rádió-erdely",
+    "name": "Mária Rádió Erdély",
+    "url": "https://stream.mariaradio.ro/MRE",
+    "genre": "Music",
+    "city": "Oradea",
+    "country": "Romania",
+    "lat": 47.0549163,
+    "lng": 21.9285231
+  },
+  {
+    "id": "romania-európa-rádió-fm-944",
+    "name": "Európa Rádió FM 94.4",
+    "url": "https://europaradio.hu/debrecen",
+    "genre": "Music",
+    "city": "Oradea",
+    "country": "Romania",
+    "lat": 47.0549163,
+    "lng": 21.9285231
+  },
+  {
+    "id": "romania-csaba-rádió-fm-889",
+    "name": "Csaba Rádió FM 88.9",
+    "url": "https://csabaradio.hu/csabastream",
+    "genre": "Music",
+    "city": "Oradea",
+    "country": "Romania",
+    "lat": 47.0549163,
+    "lng": 21.9285231
+  },
+  {
+    "id": "romania-európa-rádió-fm-1005",
+    "name": "Európa Rádió FM 100.5",
+    "url": "https://europaradio.hu/nyiregyhaza",
+    "genre": "Music",
+    "city": "Oradea",
+    "country": "Romania",
+    "lat": 47.0549163,
+    "lng": 21.9285231
+  },
+  {
+    "id": "romania-radio-campus-fm98",
+    "name": "Radio Campus FM98",
+    "url": "https://radio.campusbuzau.ro:8443/CAMPUS.mp3",
+    "genre": "Music",
+    "city": "Buzău",
+    "country": "Romania",
+    "lat": 45.2692582,
+    "lng": 26.7748173
+  },
+  {
+    "id": "romania-radio-as",
+    "name": "Radio AS",
+    "url": "http://86.123.70.144:8000/sample128",
+    "genre": "Music",
+    "city": "Suceava",
+    "country": "Romania",
+    "lat": 47.647001,
+    "lng": 26.2522599
+  },
+  {
+    "id": "romania-spacefm-retro",
+    "name": "SpaceFM Retro",
+    "url": "https://retro.spacefm.live/listen/spacefm_retro/retro128",
+    "genre": "Music",
+    "city": "Buzău",
+    "country": "Romania",
+    "lat": 45.2692582,
+    "lng": 26.7748173
+  },
+  {
+    "id": "romania-rvesv",
+    "name": "RVESV",
+    "url": "https://s9.yesstreaming.net:7014/stream",
+    "genre": "Music",
+    "city": "Suceava",
+    "country": "Romania",
+    "lat": 47.647001,
+    "lng": 26.2522599
+  },
+  {
+    "id": "romania-radio-pro-manele",
+    "name": "Radio Pro Manele",
+    "url": "https://live.radiopromanele.com/8000/stream",
+    "genre": "Music",
+    "city": "Buzău",
+    "country": "Romania",
+    "lat": 45.2692582,
+    "lng": 26.7748173
+  },
+  {
+    "id": "romania-radio-vocea-evangheliei-942-fm",
+    "name": "Radio Vocea Evangheliei 94.2 FM",
+    "url": "https://stream.rvesv.ro/rvesv.mp3",
+    "genre": "Music",
+    "city": "Suceava",
+    "country": "Romania",
+    "lat": 47.647001,
+    "lng": 26.2522599
+  },
+  {
+    "id": "romania-radio-top-104",
+    "name": "Radio Top 104",
+    "url": "https://live.radiotop.ro/radio/8000/radio.mp3",
+    "genre": "Music",
+    "city": "Suceava",
+    "country": "Romania",
+    "lat": 47.647001,
+    "lng": 26.2522599
+  },
+  {
+    "id": "romania-radio-transilvania-946-fm",
+    "name": "Radio Transilvania 94.6 FM",
+    "url": "https://stream2.radiotransilvania.ro/Zalau",
+    "genre": "Music",
+    "city": "Zalău",
+    "country": "Romania",
+    "lat": 47.1819416,
+    "lng": 23.0562143
+  },
+  {
+    "id": "romania-viva-fm-botoșani",
+    "name": "Viva FM Botoșani",
+    "url": "https://cloud.radiosonicpanel.ro:8006/stream",
+    "genre": "Music",
+    "city": "Suceava",
+    "country": "Romania",
+    "lat": 47.647001,
+    "lng": 26.2522599
+  },
+  {
+    "id": "romania-radio-pro-music-90s",
+    "name": "Radio Pro Music 90s",
+    "url": "https://strw3.openstream.co/1421?aw_0_1st.collectionid%3D4573%26stationId%3D4573%26publisherId%3D1445%26k%3D1769422208",
+    "genre": "Music",
+    "city": "Ploiești",
+    "country": "Romania",
+    "lat": 44.9417468,
+    "lng": 26.0236504
+  },
+  {
+    "id": "romania-radio-armonia",
+    "name": "Radio Armonia",
+    "url": "https://video.bluespot.ro/stream",
+    "genre": "Music",
+    "city": "Suceava",
+    "country": "Romania",
+    "lat": 47.647001,
+    "lng": 26.2522599
+  },
+  {
+    "id": "romania-viva-fm-suceava",
+    "name": "Viva FM Suceava",
+    "url": "https://cloud.radiosonicpanel.ro:8004/stream",
+    "genre": "Music",
+    "city": "Suceava",
+    "country": "Romania",
+    "lat": 47.647001,
+    "lng": 26.2522599
+  },
+  {
+    "id": "romania-play-radio-hit",
+    "name": "Play Radio Hit",
+    "url": "https://strw3.openstream.co/1421?aw_0_1st.collectionid%3D4573%26stationId%3D4573%26publisherId%3D1445%26k%3D1769422208",
+    "genre": "Music",
+    "city": "Ploiești",
+    "country": "Romania",
+    "lat": 44.9417468,
+    "lng": 26.0236504
+  },
+  {
+    "id": "romania-gherla-fm",
+    "name": "Gherla FM",
+    "url": "http://89.39.189.52:8000/stream/",
+    "genre": "Music",
+    "city": "Zalău",
+    "country": "Romania",
+    "lat": 47.1819416,
+    "lng": 23.0562143
+  },
+  {
+    "id": "romania-90s-3nergy",
+    "name": "90s 3NeRgY",
+    "url": "https://s11.ssl-stream.com/ssl/90s_energy?mp=/stream",
+    "genre": "Music",
+    "city": "Zalău",
+    "country": "Romania",
+    "lat": 47.1819416,
+    "lng": 23.0562143
+  },
+  {
+    "id": "romania-radio-arad-fm-1029",
+    "name": "Radio Arad FM 102.9",
+    "url": "http://89.238.227.6:8360/index.html?sid=1",
+    "genre": "Music",
+    "city": "Arad",
+    "country": "Romania",
+    "lat": 46.1753793,
+    "lng": 21.3196342
+  },
+  {
+    "id": "romania-ebs-jazz",
+    "name": "EBS Jazz",
+    "url": "https://azura.ebsmedia.ro/radio/8030/jazz320.aac",
+    "genre": "Music",
+    "city": "Zalău",
+    "country": "Romania",
+    "lat": 47.1819416,
+    "lng": 23.0562143
+  },
+  {
+    "id": "romania-retro-radio",
+    "name": "Retro Radio",
+    "url": "https://online.radioretro.ro:8003/RetroRadio.mp3",
+    "genre": "Music",
+    "city": "Suceava",
+    "country": "Romania",
+    "lat": 47.647001,
+    "lng": 26.2522599
+  },
+  {
+    "id": "romania-joy-fm",
+    "name": "Joy FM",
+    "url": "http://82.76.219.237:8000/JoyFm",
+    "genre": "Music",
+    "city": "Arad",
+    "country": "Romania",
+    "lat": 46.1753793,
+    "lng": 21.3196342
+  },
+  {
+    "id": "romania-radio-zalău",
+    "name": "Radio Zalău",
+    "url": "https://radiozero.ro/listen/muzica-de-la-zero/radio.mp3",
+    "genre": "Music",
+    "city": "Zalău",
+    "country": "Romania",
+    "lat": 47.1819416,
+    "lng": 23.0562143
+  },
+  {
+    "id": "romania-rve-muzică",
+    "name": "RVE Muzică",
+    "url": "http://162.244.80.32:9470/;stream.mp3",
+    "genre": "Music",
+    "city": "Arad",
+    "country": "Romania",
+    "lat": 46.1753793,
+    "lng": 21.3196342
+  },
+  {
+    "id": "romania-start-rádió-984-fm",
+    "name": "Start Rádió 98.4 FM",
+    "url": "https://online.startradio.hu/start.mp3",
+    "genre": "Music",
+    "city": "Arad",
+    "country": "Romania",
+    "lat": 46.1753793,
+    "lng": 21.3196342
+  },
+  {
+    "id": "romania-supersonic-radio",
+    "name": "Supersonic Radio",
+    "url": "https://s5.radio.co/s08e5c5875/listen",
+    "genre": "Music",
+    "city": "Buzău",
+    "country": "Romania",
+    "lat": 45.2692582,
+    "lng": 26.7748173
+  },
+  {
+    "id": "romania-radio-oltenia-1029-fm",
+    "name": "Radio Oltenia 102.9 FM",
+    "url": "https://stream4.srr.ro:8443/radio-oltenia",
+    "genre": "Music",
+    "city": "Pitești",
+    "country": "Romania",
+    "lat": 44.8572882,
+    "lng": 24.8721156
+  },
+  {
+    "id": "romania-radio-transilvania-99-fm",
+    "name": "Radio Transilvania 99 FM",
+    "url": "https://stream2.radiotransilvania.ro/SatuMare",
+    "genre": "Music",
+    "city": "Satu Mare",
+    "country": "Romania",
+    "lat": 47.7891763,
+    "lng": 22.8725598
+  },
+  {
+    "id": "romania-alt-fm",
+    "name": "Alt FM",
+    "url": "https://altfm.faur.cc/alt_fm_128",
+    "genre": "Music",
+    "city": "Arad",
+    "country": "Romania",
+    "lat": 46.1753793,
+    "lng": 21.3196342
+  },
+  {
+    "id": "romania-mfm-dance-1057",
+    "name": "MFM Dance 105.7",
+    "url": "https://ssl.radios.show/8012/stream",
+    "genre": "Music",
+    "city": "Pitești",
+    "country": "Romania",
+    "lat": 44.8572882,
+    "lng": 24.8721156
+  },
+  {
+    "id": "romania-radio-stabil-pitesti",
+    "name": "Radio Stabil Pitesti",
+    "url": "https://live.radiostabilpitesti.eu/9986/stream",
+    "genre": "Music",
+    "city": "Pitești",
+    "country": "Romania",
+    "lat": 44.8572882,
+    "lng": 24.8721156
+  },
+  {
+    "id": "romania-bistrita-fm-926",
+    "name": "Bistrita FM 92.6",
+    "url": "https://audio-edge-cmc51.fra.h.radiomast.io/66f238bb-8b61-4196-a8c3-28aea07235e8",
+    "genre": "Music",
+    "city": "Bistrița",
+    "country": "Romania",
+    "lat": 47.1327012,
+    "lng": 24.4963949
+  },
+  {
+    "id": "romania-radio-ciresarii",
+    "name": "Radio Ciresarii",
+    "url": "https://s3.radio.co/s6c0a773ad/listen",
+    "genre": "Music",
+    "city": "Zalău",
+    "country": "Romania",
+    "lat": 47.1819416,
+    "lng": 23.0562143
+  },
+  {
+    "id": "romania-city-rádió",
+    "name": "City Rádió",
+    "url": "https://mscp1.gazduireradio.ro/cityradio",
+    "genre": "Music",
+    "city": "Satu Mare",
+    "country": "Romania",
+    "lat": 47.7891763,
+    "lng": 22.8725598
+  },
+  {
+    "id": "romania-hangos-rádió",
+    "name": "Hangos Rádió",
+    "url": "https://stream-166.zeno.fm/zme1m34uzv8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ6bWUxbTM0dXp2OHV2IiwiaG9zdCI6InN0cmVhbS0xNjYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoielpyS05RUWxRMnF2VDNkbm9JOUctdyIsImlhdCI6MTc2OTQyMjIxMiwiZXhwIjoxNzY5NDIyMjcyfQ.RzMxc4i9ccj9lLndgDwtcfJ3cmylXMieAGbDS1whx3E",
+    "genre": "Music",
+    "city": "Arad",
+    "country": "Romania",
+    "lat": 46.1753793,
+    "lng": 21.3196342
+  },
+  {
+    "id": "romania-radio-someș",
+    "name": "radio SOMEȘ",
+    "url": "https://radio.mediacp.eu/stream/radiosomes",
+    "genre": "Music",
+    "city": "Bistrița",
+    "country": "Romania",
+    "lat": 47.1327012,
+    "lng": 24.4963949
+  },
+  {
+    "id": "romania-radio-transilvania-941-fm",
+    "name": "Radio Transilvania 94.1 FM",
+    "url": "https://stream2.radiotransilvania.ro/Bistrita",
+    "genre": "Music",
+    "city": "Bistrița",
+    "country": "Romania",
+    "lat": 47.1327012,
+    "lng": 24.4963949
+  },
+  {
+    "id": "romania-ebs-xmas",
+    "name": "EBS Xmas",
+    "url": "https://azura.ebsmedia.ro/radio/8190/xmas320.aac",
+    "genre": "Music",
+    "city": "Bistrița",
+    "country": "Romania",
+    "lat": 47.1327012,
+    "lng": 24.4963949
+  }
+]

@@ -1,0 +1,434 @@
+[
+    {
+        "name": "West Coast Radio FM 87.6",
+        "city": "Auckland",
+        "country": "New Zealand",
+        "url": "http://stream2.nrgkits.co.nz:5000/wcrfm"
+    },
+    {
+        "name": "ZFM – All The Hits",
+        "city": "Auckland",
+        "country": "New Zealand",
+        "url": "http://nebula.shoutca.st:8545/stream"
+    },
+    {
+        "name": "Arasan Radio",
+        "city": "Auckland",
+        "country": "New Zealand",
+        "url": "http://curiosity.shoutca.st:6020/stream"
+    },
+    {
+        "name": "Radio Tarana AM 1386",
+        "city": "Auckland",
+        "country": "New Zealand",
+        "url": "http://peridot.streamguys.com:7150/Tarana.aac"
+    },
+    {
+        "name": "East FM",
+        "city": "Auckland",
+        "country": "New Zealand",
+        "url": "https://listen.eastfm.nz/stream.mp3"
+    },
+    {
+        "name": "95bFM",
+        "city": "Auckland",
+        "country": "New Zealand",
+        "url": "https://streams.95bfm.com/stream128"
+    },
+    {
+        "name": "RAG-FM 107.7",
+        "city": "Auckland",
+        "country": "New Zealand",
+        "url": "https://cast6.asurahosting.com/proxy/ragfmcom/stream"
+    },
+    {
+        "name": "Island Base FM",
+        "city": "Auckland",
+        "country": "New Zealand",
+        "url": "https://streams.islandbasefm.com:8443/stream"
+    },
+    {
+        "name": "RadioActive.FM | 88.6FM",
+        "city": "Auckland",
+        "country": "New Zealand",
+        "url": "https://radio123-gecko.radioca.st/stream"
+    },
+    {
+        "name": "RNZ National",
+        "city": "Auckland",
+        "country": "New Zealand",
+        "url": "http://radionz-ice.streamguys.com/national.mp3"
+    },
+    {
+        "name": "Brian FM Christchurch",
+        "city": "Christchurch",
+        "country": "New Zealand",
+        "url": "https://ais-sa1.streamon.fm/7409_128k.aac"
+    },
+    {
+        "name": "107.4 BFM",
+        "city": "Christchurch",
+        "country": "New Zealand",
+        "url": "https://s28.myradiostream.com/:21652/index.html?sid=1"
+    },
+    {
+        "name": "Southern Cross Country",
+        "city": "Auckland",
+        "country": "New Zealand",
+        "url": "https://sxcountry.radioca.st/index.html?sid=1"
+    },
+    {
+        "name": "Brian FM Ashburton 99.7 FM",
+        "city": "Christchurch",
+        "country": "New Zealand",
+        "url": "https://ais-sa1.streamon.fm/7653_128k.aac"
+    },
+    {
+        "name": "The Breeze FM 93.4",
+        "city": "Auckland",
+        "country": "New Zealand",
+        "url": "https://mediaworks.streamguys1.com/breeze-akl-high_icy"
+    },
+    {
+        "name": "Brian FM Nelson",
+        "city": "Christchurch",
+        "country": "New Zealand",
+        "url": "https://ais-sa1.streamon.fm/7358_128k.aac"
+    },
+    {
+        "name": "Kaos FM 87.8",
+        "city": "Christchurch",
+        "country": "New Zealand",
+        "url": "http://74.91.125.187:8068/index.html?sid=1"
+    },
+    {
+        "name": "RNZ Pacific",
+        "city": "Wellington",
+        "country": "New Zealand",
+        "url": "http://radionz-ice.streamguys.com/international.mp3"
+    },
+    {
+        "name": "Badradio",
+        "city": "Auckland",
+        "country": "New Zealand",
+        "url": "https://s2.radio.co/s2b2b68744/listen"
+    },
+    {
+        "name": "Niu FM",
+        "city": "Auckland",
+        "country": "New Zealand",
+        "url": "https://27153.live.streamtheworld.com:443/NIUFM.mp3"
+    },
+    {
+        "name": "RDU 98.5FM",
+        "city": "Christchurch",
+        "country": "New Zealand",
+        "url": "https://rdu985fm-gecko.radioca.st/stream"
+    },
+    {
+        "name": "88.1 Hit Student Radio - Mākoura College",
+        "city": "Wellington",
+        "country": "New Zealand",
+        "url": "http://122.56.76.167:88/broadwave.mp3"
+    },
+    {
+        "name": "Compass FM",
+        "city": "Christchurch",
+        "country": "New Zealand",
+        "url": "http://stream.compassfm.org.nz:8000/Compass_FM_104.9"
+    },
+    {
+        "name": "KIX FM",
+        "city": "Wellington",
+        "country": "New Zealand",
+        "url": "https://stream.kixfm.co.nz/listen/kixfm/stream"
+    },
+    {
+        "name": "Te Ūpoko o te Ika FM 87.5",
+        "city": "Wellington",
+        "country": "New Zealand",
+        "url": "https://icast1.streamcom.net/TeUpoko"
+    },
+    {
+        "name": "XS80's FM 107.3",
+        "city": "Christchurch",
+        "country": "New Zealand",
+        "url": "https://s1.myradiostream.com:12508/listen.mp3?nocache=1769421217"
+    },
+    {
+        "name": "Real 104FM",
+        "city": "Christchurch",
+        "country": "New Zealand",
+        "url": "https://stream4.themediasite.co.uk/stream/realradio"
+    },
+    {
+        "name": "Radio X",
+        "city": "Auckland",
+        "country": "New Zealand",
+        "url": "https://26343.live.streamtheworld.com:443/SAM02AAC65.mp3"
+    },
+    {
+        "name": "TLC Radio 107.3 FM",
+        "city": "Whangarei",
+        "country": "New Zealand",
+        "url": "http://203.118.136.79:88/broadwave.mp3"
+    },
+    {
+        "name": "Mix FM 87.9",
+        "city": "Wellington",
+        "country": "New Zealand",
+        "url": "https://stream.mixfm.nz/"
+    },
+    {
+        "name": "The Generator",
+        "city": "Whangarei",
+        "country": "New Zealand",
+        "url": "https://s1.myradiostream.com/:14268/listen.mp3/"
+    },
+    {
+        "name": "Ngāti Hine FM",
+        "city": "Whangarei",
+        "country": "New Zealand",
+        "url": "https://icast1.streamcom.net/NgatiHine"
+    },
+    {
+        "name": "Beagle 88.1",
+        "city": "Whangarei",
+        "country": "New Zealand",
+        "url": "https://stream.beagleradio.co.nz/stream"
+    },
+    {
+        "name": "Cool Blue Taupo FM 107.5",
+        "city": "Taupo",
+        "country": "New Zealand",
+        "url": "http://falcon.shoutca.st:8166/stream"
+    },
+    {
+        "name": "Timeless Taupo 106.7",
+        "city": "Taupo",
+        "country": "New Zealand",
+        "url": "https://audio-edge-jfbmv.sin.d.radiomast.io/9c86622e-3650-4ee4-8682-a5834d705c80"
+    },
+    {
+        "name": "Smooth FM",
+        "city": "Auckland",
+        "country": "New Zealand",
+        "url": "https://servidor26.brlogic.com:7110/live"
+    },
+    {
+        "name": "The Chill",
+        "city": "Taupo",
+        "country": "New Zealand",
+        "url": "https://media-sov.musicradio.com/Chill"
+    },
+    {
+        "name": "Brian FM Whanganui",
+        "city": "Whanganui",
+        "country": "New Zealand",
+        "url": "https://ais-sa1.streamon.fm/7100_128k.aac"
+    },
+    {
+        "name": "Trunk 88FM",
+        "city": "Taupo",
+        "country": "New Zealand",
+        "url": "https://a8.asurahosting.com:7760/radio.mp3"
+    },
+    {
+        "name": "Magic Music FM 88.4",
+        "city": "Whangarei",
+        "country": "New Zealand",
+        "url": "https://live.magicmusicfm.co.nz/index.html?sid=1"
+    },
+    {
+        "name": "Reel World Radio",
+        "city": "Whanganui",
+        "country": "New Zealand",
+        "url": "https://ais-sa1.streamon.fm/7102_128k.aac"
+    },
+    {
+        "name": "Positively Morrinsville 87.7 FM",
+        "city": "Taupo",
+        "country": "New Zealand",
+        "url": "https://c16.radioboss.fm:18262/stream"
+    },
+    {
+        "name": "Radio Bay FM 100.7",
+        "city": "Taupo",
+        "country": "New Zealand",
+        "url": "https://s38.myradiostream.com:8876/;;"
+    },
+    {
+        "name": "RadiJohan",
+        "city": "Taupo",
+        "country": "New Zealand",
+        "url": "https://s34.myradiostream.com:13740/listen.mp3"
+    },
+    {
+        "name": "Brian FM Alexandra & Cromwell 105.5 FM",
+        "city": "Dunedin",
+        "country": "New Zealand",
+        "url": "https://ais-sa1.streamon.fm/7655_128k.aac"
+    },
+    {
+        "name": "Oamaru FM 91.2",
+        "city": "Dunedin",
+        "country": "New Zealand",
+        "url": "http://usa1-vn.mixstream.net:8096/listen.mp3/"
+    },
+    {
+        "name": "Radio One 91 FM",
+        "city": "Dunedin",
+        "country": "New Zealand",
+        "url": "https://play.r1.co.nz/live"
+    },
+    {
+        "name": "Radio Robotic",
+        "city": "Taupo",
+        "country": "New Zealand",
+        "url": "https://stream-175.zeno.fm/7zv3u6p951zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI3enYzdTZwOTUxenV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoieUFHVDE3VWlUNk84enl4cXF6dmZ6dyIsImlhdCI6MTc2OTQyMTIyMSwiZXhwIjoxNzY5NDIxMjgxfQ.7jPouU0aM5JgoKtDv48sf3ygTVhs83HCX9KmCTWZDag"
+    },
+    {
+        "name": "World FM 88.2",
+        "city": "Wellington",
+        "country": "New Zealand",
+        "url": "https://www.worldfm.nz:8884/worldfmhd.aac"
+    },
+    {
+        "name": "World FM",
+        "city": "Wellington",
+        "country": "New Zealand",
+        "url": "https://www.worldfm.nz:8884/worldfmstereo.mp3"
+    },
+    {
+        "name": "Hutt City FM",
+        "city": "Lower Hutt",
+        "country": "New Zealand",
+        "url": "http://125.236.233.220:8000/stream"
+    },
+    {
+        "name": "Lake FM Taupo 89.6",
+        "city": "Taupo",
+        "country": "New Zealand",
+        "url": "https://s4.radio.co/s4b10be2e5/listen"
+    },
+    {
+        "name": "Brian FM Marlborough",
+        "city": "Lower Hutt",
+        "country": "New Zealand",
+        "url": "https://ais-sa1.streamon.fm/7103_128k.aac"
+    },
+    {
+        "name": "Ski FM",
+        "city": "Taupo",
+        "country": "New Zealand",
+        "url": "https://s2.radio.co/s6436891bc/listen"
+    },
+    {
+        "name": "High Country FM",
+        "city": "Dunedin",
+        "country": "New Zealand",
+        "url": "https://s18.myradiostream.com/:13556/index.html?sid=1"
+    },
+    {
+        "name": "Radio Control 99.4 fm",
+        "city": "Whanganui",
+        "country": "New Zealand",
+        "url": "https://michae14-gecko.radioca.st/stream"
+    },
+    {
+        "name": "Brian FM Timaru",
+        "city": "Timaru",
+        "country": "New Zealand",
+        "url": "https://ais-sa1.streamon.fm/7656_128k.aac"
+    },
+    {
+        "name": "Absolute Live FM 88.3 Whanganui",
+        "city": "Whanganui",
+        "country": "New Zealand",
+        "url": "https://n15.rcs.revma.com/zwwhcbd5km3vv?rj-ttl=5&rj-tok=AAABm_nCWvEAFLljZq4DhfRUXA"
+    },
+    {
+        "name": "Hutt Radio 88.3 FM",
+        "city": "Whanganui",
+        "country": "New Zealand",
+        "url": "https://28903.live.streamtheworld.com:443/NZME_209AAC.aac"
+    },
+    {
+        "name": "Cruize FM 105.2",
+        "city": "Whanganui",
+        "country": "New Zealand",
+        "url": "https://cruizefm.out.airtime.pro/cruizefm_a"
+    },
+    {
+        "name": "Brian FM Oamaru 88.8 FM",
+        "city": "Timaru",
+        "country": "New Zealand",
+        "url": "https://ais-sa1.streamon.fm/7654_128k.aac"
+    },
+    {
+        "name": "Oamaru Heritage Radio",
+        "city": "Oamaru",
+        "country": "New Zealand",
+        "url": "http://202.9.116.204:8000/ohrweb"
+    },
+    {
+        "name": "The Heat 99.1 FM",
+        "city": "Hamilton",
+        "country": "New Zealand",
+        "url": "http://apple2.irirangi.net:8000/The_Heat.aac"
+    },
+    {
+        "name": "Tractor FM 88.2",
+        "city": "Raglan",
+        "country": "New Zealand",
+        "url": "https://admin.soundsvagrant.live/listen/tractor_fm/high.mp3"
+    },
+    {
+        "name": "KiwiFolk Radio",
+        "city": "Dunedin",
+        "country": "New Zealand",
+        "url": "https://streamer.radio.co/sde527a41e/listen"
+    },
+    {
+        "name": "Radio Te Aroha 88FM",
+        "city": "Te Aroha",
+        "country": "New Zealand",
+        "url": "https://c2.radioboss.fm:18440/stream"
+    },
+    {
+        "name": "Sleep Radio",
+        "city": "Raglan",
+        "country": "New Zealand",
+        "url": "https://cast4.my-control-panel.com/proxy/sleeprad/stream"
+    },
+    {
+        "name": "Beach FM 106.3",
+        "city": "Palmerston North",
+        "country": "New Zealand",
+        "url": "https://s8.myradiostream.com:58408/listen.mp3?nocache=1769421224"
+    },
+    {
+        "name": "100.3FM South Canterbury",
+        "city": "Timaru",
+        "country": "New Zealand",
+        "url": "https://uk4-vn.mixstream.net/:8066/index.html?sid=1"
+    },
+    {
+        "name": "Radio Central FM 91.9",
+        "city": "Alexandra",
+        "country": "New Zealand",
+        "url": "https://cast3.asurahosting.com/proxy/radioce3/stream"
+    },
+    {
+        "name": "8K.NZ",
+        "city": "Oamaru",
+        "country": "New Zealand",
+        "url": "https://radio8k.out.airtime.pro/radio8k_a"
+    },
+    {
+        "name": "Switch FM 87.9",
+        "city": "Hastings",
+        "country": "New Zealand",
+        "url": "https://s8.myradiostream.com/:56886/listen.m4a/"
+    }
+]

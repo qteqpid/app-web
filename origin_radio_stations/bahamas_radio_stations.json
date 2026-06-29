@@ -1,0 +1,432 @@
+[
+  {
+    "id": "bahamas-wpbr-fm-961",
+    "name": "WPBR FM 96.1",
+    "url": "https://us9.maindigitalstream.com/ssl/sakpasefm",
+    "genre": "Music",
+    "city": "Freeport",
+    "country": "The Bahamas",
+    "lat": 26.535681,
+    "lng": -78.6953623
+  },
+  {
+    "id": "bahamas-radio-universo-1420-am--wdja",
+    "name": "Radio Universo 1420 AM - WDJA",
+    "url": "https://radio.fiberstreams.com:2000/stream/8702/stream",
+    "genre": "Music",
+    "city": "Nassau",
+    "country": "The Bahamas",
+    "lat": 25.0782266,
+    "lng": -77.3383438
+  },
+  {
+    "id": "bahamas-1035-the-beat-nassau",
+    "name": "103.5 The Beat Nassau",
+    "url": "http://n0c.radiojar.com/01d8c449cyduv?rj-ttl=5&rj-tok=AAABm_l7wCAAyVUhgyoGMAwHJg",
+    "genre": "Music",
+    "city": "Nassau",
+    "country": "The Bahamas",
+    "lat": 25.0782266,
+    "lng": -77.3383438
+  },
+  {
+    "id": "bahamas-radio-achei",
+    "name": "Radio Achei",
+    "url": "https://r6.ciclano.io/proxy/acheiusa/stream",
+    "genre": "Music",
+    "city": "Nassau",
+    "country": "The Bahamas",
+    "lat": 25.0782266,
+    "lng": -77.3383438
+  },
+  {
+    "id": "bahamas-ras-general",
+    "name": "Ras General",
+    "url": "https://solid33.streamupsolutions.com/proxy/xdftelob/stream",
+    "genre": "Music",
+    "city": "Nassau",
+    "country": "The Bahamas",
+    "lat": 25.0782266,
+    "lng": -77.3383438
+  },
+  {
+    "id": "bahamas-wsqf-fm-945",
+    "name": "WSQF FM 94.5",
+    "url": "https://us9.maindigitalstream.com/ssl/wsqf",
+    "genre": "Music",
+    "city": "Nassau",
+    "country": "The Bahamas",
+    "lat": 25.0782266,
+    "lng": -77.3383438
+  },
+  {
+    "id": "bahamas-bahamian-or-nuttin",
+    "name": "Bahamian or Nuttin",
+    "url": "https://s2.reliastream.com/proxy/rumcayme?mp=/stream",
+    "genre": "Music",
+    "city": "Nassau",
+    "country": "The Bahamas",
+    "lat": 25.0782266,
+    "lng": -77.3383438
+  },
+  {
+    "id": "bahamas-more-94-fm-949",
+    "name": "More 94 FM 94.9",
+    "url": "https://morefmbahamas.radioca.st/stream",
+    "genre": "Music",
+    "city": "Nassau",
+    "country": "The Bahamas",
+    "lat": 25.0782266,
+    "lng": -77.3383438
+  },
+  {
+    "id": "bahamas-zoo-fm-1016",
+    "name": "Zoo FM 101.6",
+    "url": "https://i.klikhost.com/8174/zoofm",
+    "genre": "Music",
+    "city": "Batam",
+    "country": "Indonesia",
+    "lat": 1.1030815,
+    "lng": 104.0383696
+  },
+  {
+    "id": "bahamas-inspiration-1079-fm",
+    "name": "Inspiration 107.9 FM",
+    "url": "https://radiostreams.streamcomedia.com:8006/zns1079fm",
+    "genre": "Music",
+    "city": "Nassau",
+    "country": "The Bahamas",
+    "lat": 25.0782266,
+    "lng": -77.3383438
+  },
+  {
+    "id": "bahamas-serumpun-radio-917-fm",
+    "name": "Serumpun Radio 91.7 FM",
+    "url": "https://a2.siar.us:8020/radio.mp3",
+    "genre": "Music",
+    "city": "Batam",
+    "country": "Indonesia",
+    "lat": 1.1030815,
+    "lng": 104.0383696
+  },
+  {
+    "id": "bahamas-the-beat-fm-1035",
+    "name": "The Beat FM 103.5",
+    "url": "http://n03.radiojar.com/01d8c449cyduv?rj-ttl=5&rj-tok=AAABm_l7yVsABIhrsRtPthJjNw",
+    "genre": "Music",
+    "city": "Nassau",
+    "country": "The Bahamas",
+    "lat": 25.0782266,
+    "lng": -77.3383438
+  },
+  {
+    "id": "bahamas-guardian-talk-radio-fm-969",
+    "name": "Guardian Talk Radio FM 96.9",
+    "url": "https://radiostreams.streamcomedia.com:8000/969guardianradio",
+    "genre": "Music",
+    "city": "Nassau",
+    "country": "The Bahamas",
+    "lat": 25.0782266,
+    "lng": -77.3383438
+  },
+  {
+    "id": "bahamas-klpm-889-fm",
+    "name": "KLPM 88.9 FM",
+    "url": "https://s4.radio.co/s440e54fd7/listen",
+    "genre": "Music",
+    "city": "Freeport",
+    "country": "The Bahamas",
+    "lat": 26.535681,
+    "lng": -78.6953623
+  },
+  {
+    "id": "bahamas-wsjf-db-smooth-jazz-florida",
+    "name": "WSJF-DB Smooth Jazz Florida",
+    "url": "https://live.radiomediapanel.com:8006/stream/",
+    "genre": "Music",
+    "city": "Freeport",
+    "country": "The Bahamas",
+    "lat": 26.535681,
+    "lng": -78.6953623
+  },
+  {
+    "id": "bahamas-1540-the-national-voice",
+    "name": "1540 The National Voice",
+    "url": "https://radiostreams.streamcomedia.com:8008/zns1540am",
+    "genre": "Music",
+    "city": "Nassau",
+    "country": "The Bahamas",
+    "lat": 25.0782266,
+    "lng": -77.3383438
+  },
+  {
+    "id": "bahamas-star-106-fm",
+    "name": "Star 106 FM",
+    "url": "https://radiostreams.streamcomedia.com:8020/star1065fm",
+    "genre": "Music",
+    "city": "Nassau",
+    "country": "The Bahamas",
+    "lat": 25.0782266,
+    "lng": -77.3383438
+  },
+  {
+    "id": "bahamas-like-fm-batam-1065",
+    "name": "Like FM Batam 106.5",
+    "url": "https://a12.siar.us/listen/likefm/stream",
+    "genre": "Music",
+    "city": "Batam",
+    "country": "Indonesia",
+    "lat": 1.1030815,
+    "lng": 104.0383696
+  },
+  {
+    "id": "bahamas-hang-106-fm",
+    "name": "Hang 106 FM",
+    "url": "https://streamline.hangfm.id:8000/radio.mp3",
+    "genre": "Music",
+    "city": "Batam",
+    "country": "Indonesia",
+    "lat": 1.1030815,
+    "lng": 104.0383696
+  },
+  {
+    "id": "bahamas-dradio-1043-fm",
+    "name": "DRadio 104.3 FM",
+    "url": "https://i.klikhost.com/8132/",
+    "genre": "Music",
+    "city": "Batam",
+    "country": "Indonesia",
+    "lat": 1.1030815,
+    "lng": 104.0383696
+  },
+  {
+    "id": "bahamas-kiswahnet",
+    "name": "KiswahNET",
+    "url": "https://c4.siar.us:8065/stream",
+    "genre": "Music",
+    "city": "Batam",
+    "country": "Indonesia",
+    "lat": 1.1030815,
+    "lng": 104.0383696
+  },
+  {
+    "id": "bahamas-seila-silaturahim-fm-1043",
+    "name": "Seila Silaturahim FM 104.3",
+    "url": "https://c4.siar.us:8102/stream",
+    "genre": "Music",
+    "city": "Batam",
+    "country": "Indonesia",
+    "lat": 1.1030815,
+    "lng": 104.0383696
+  },
+  {
+    "id": "bahamas-juan-fm-1032",
+    "name": "Juan FM 103.2",
+    "url": "https://stream-177.zeno.fm/fvjfd8wlch9uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJmdmpmZDh3bGNoOXV2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiTXY3TzdCenBROWFoQ2FMOG9QT1ZuQSIsImlhdCI6MTc2OTQxNjU5OCwiZXhwIjoxNzY5NDE2NjU4fQ.8viSB1kL_XzXmqGrs2EYbq7zb7InGRywm0Y1d0NONzQ",
+    "genre": "Music",
+    "city": "Batam",
+    "country": "Indonesia",
+    "lat": 1.1030815,
+    "lng": 104.0383696
+  },
+  {
+    "id": "bahamas-aditya-fm-876",
+    "name": "Aditya FM 87.6",
+    "url": "https://i.klikhost.com/8302/stream",
+    "genre": "Music",
+    "city": "Batam",
+    "country": "Indonesia",
+    "lat": 1.1030815,
+    "lng": 104.0383696
+  },
+  {
+    "id": "bahamas-be-107-fm",
+    "name": "Be 107 FM",
+    "url": "https://c3.siar.us/proxy/befm/stream",
+    "genre": "Music",
+    "city": "Batam",
+    "country": "Indonesia",
+    "lat": 1.1030815,
+    "lng": 104.0383696
+  },
+  {
+    "id": "bahamas-prayse-fm-1011",
+    "name": "Prayse FM 101.1",
+    "url": "https://ice41.securenetsystems.net/PRAYSE",
+    "genre": "Music",
+    "city": "Nassau",
+    "country": "The Bahamas",
+    "lat": 25.0782266,
+    "lng": -77.3383438
+  },
+  {
+    "id": "bahamas-rri-pro-2-fm-tanjungpinang",
+    "name": "RRI Pro 2 FM Tanjungpinang",
+    "url": "https://stream-node2.rri.co.id/streaming/21/9221/rritjpinangpro2.mp3",
+    "genre": "Music",
+    "city": "Batam",
+    "country": "Indonesia",
+    "lat": 1.1030815,
+    "lng": 104.0383696
+  },
+  {
+    "id": "bahamas-big-radioqu-1047-fm",
+    "name": "BIG RadioQu 104.7 FM",
+    "url": "https://ssg.streamingmurah.com:8364/index.html/",
+    "genre": "Music",
+    "city": "Batam",
+    "country": "Indonesia",
+    "lat": 1.1030815,
+    "lng": 104.0383696
+  },
+  {
+    "id": "bahamas-100-jamz-1003-fm",
+    "name": "100 Jamz 100.3 FM",
+    "url": "https://ice66.securenetsystems.net/100JAMZ",
+    "genre": "Music",
+    "city": "Nassau",
+    "country": "The Bahamas",
+    "lat": 25.0782266,
+    "lng": -77.3383438
+  },
+  {
+    "id": "bahamas-vibes-fm-931",
+    "name": "Vibes FM 93.1",
+    "url": "https://ice26.securenetsystems.net/VIBES931",
+    "genre": "Music",
+    "city": "Nassau",
+    "country": "The Bahamas",
+    "lat": 25.0782266,
+    "lng": -77.3383438
+  },
+  {
+    "id": "bahamas-hijrah-radio-1023-fm",
+    "name": "Hijrah Radio 102.3 FM",
+    "url": "https://streaming.hijrahfm.com/index.html?sid=1",
+    "genre": "Music",
+    "city": "Batam",
+    "country": "Indonesia",
+    "lat": 1.1030815,
+    "lng": 104.0383696
+  },
+  {
+    "id": "bahamas-hot-917-fm",
+    "name": "Hot 91.7 FM",
+    "url": "https://ice25.securenetsystems.net/HOT917FM",
+    "genre": "Music",
+    "city": "Nassau",
+    "country": "The Bahamas",
+    "lat": 25.0782266,
+    "lng": -77.3383438
+  },
+  {
+    "id": "bahamas-global-995-fm",
+    "name": "Global 99.5 FM",
+    "url": "https://ice64.securenetsystems.net/GLOBALBS",
+    "genre": "Music",
+    "city": "Nassau",
+    "country": "The Bahamas",
+    "lat": 25.0782266,
+    "lng": -77.3383438
+  },
+  {
+    "id": "bahamas-zns-3-radio-bahamas-am-810",
+    "name": "ZNS-3 Radio Bahamas AM 810",
+    "url": "https://radiostreams.streamcomedia.com:8002/zns810am",
+    "genre": "Music",
+    "city": "Nassau",
+    "country": "The Bahamas",
+    "lat": 25.0782266,
+    "lng": -77.3383438
+  },
+  {
+    "id": "bahamas-prambors-fm-1022",
+    "name": "Prambors FM 102.2",
+    "url": "https://s2.cloudmu.id/listen/prambors/radio.aac",
+    "genre": "Music",
+    "city": "Batam",
+    "country": "Indonesia",
+    "lat": 1.1030815,
+    "lng": 104.0383696
+  },
+  {
+    "id": "bahamas-delta-fm-991",
+    "name": "Delta FM 99.1",
+    "url": "https://s1.cloudmu.id/listen/delta_fm/stream",
+    "genre": "Music",
+    "city": "Batam",
+    "country": "Indonesia",
+    "lat": 1.1030815,
+    "lng": 104.0383696
+  },
+  {
+    "id": "bahamas-rri-pro-1-batam-fm-1051",
+    "name": "RRI Pro 1 Batam FM 105.1",
+    "url": "https://stream-node0.rri.co.id/streaming/25/9125/rribatampro1.mp3",
+    "genre": "Music",
+    "city": "Batam",
+    "country": "Indonesia",
+    "lat": 1.1030815,
+    "lng": 104.0383696
+  },
+  {
+    "id": "bahamas-melaka-fm",
+    "name": "Melaka FM",
+    "url": "https://22243.live.streamtheworld.com:443/MELAKA_FMAAC.aac",
+    "genre": "Music",
+    "city": "Batam",
+    "country": "Indonesia",
+    "lat": 1.1030815,
+    "lng": 104.0383696
+  },
+  {
+    "id": "bahamas-suara-surabaya-fm-100",
+    "name": "Suara Surabaya FM 100",
+    "url": "https://c5.siar.us/proxy/ssfm/stream",
+    "genre": "Music",
+    "city": "Batam",
+    "country": "Indonesia",
+    "lat": 1.1030815,
+    "lng": 104.0383696
+  },
+  {
+    "id": "bahamas-johor-fm",
+    "name": "Johor FM",
+    "url": "https://28163.live.streamtheworld.com:443/JOHOR_FMAAC.aac",
+    "genre": "Music",
+    "city": "Batam",
+    "country": "Indonesia",
+    "lat": 1.1030815,
+    "lng": 104.0383696
+  },
+  {
+    "id": "bahamas-rri-pro-2-batam-fm-1055",
+    "name": "RRI Pro 2 Batam FM 105.5",
+    "url": "https://stream-node0.rri.co.id/streaming/25/9125/rribatampro2.mp3",
+    "genre": "Music",
+    "city": "Batam",
+    "country": "Indonesia",
+    "lat": 1.1030815,
+    "lng": 104.0383696
+  },
+  {
+    "id": "bahamas-elshinta-fm-90",
+    "name": "Elshinta FM 90",
+    "url": "https://stream-ssl.arenastreaming.com:8000/jakarta",
+    "genre": "Music",
+    "city": "Batam",
+    "country": "Indonesia",
+    "lat": 1.1030815,
+    "lng": 104.0383696
+  },
+  {
+    "id": "bahamas-radio-gentara",
+    "name": "Radio Gentara",
+    "url": "https://stream-n1.gntr.net/listen/radio_gentara/gentara.mp3",
+    "genre": "Music",
+    "city": "Batam",
+    "country": "Indonesia",
+    "lat": 1.1030815,
+    "lng": 104.0383696
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "id": "north-radio-gračanica-907-fm",
+    "name": "Radio Gračanica 90.7 FM",
+    "url": "http://188.40.95.74:8012/wp-content/uploads/my-music/mysong.mp3?_=1",
+    "genre": "Music",
+    "city": "Skopje",
+    "country": "North Macedonia",
+    "lat": 41.9961816,
+    "lng": 21.4319213
+  },
+  {
+    "id": "north-city-radio-fm-947",
+    "name": "City Radio FM 94.7",
+    "url": "http://176.9.117.123:9998/;stream/1",
+    "genre": "Music",
+    "city": "Skopje",
+    "country": "North Macedonia",
+    "lat": 41.9961816,
+    "lng": 21.4319213
+  },
+  {
+    "id": "north-radio-vala-fm-983",
+    "name": "Radio Vala FM 98.3",
+    "url": "http://185.82.109.71:8080/",
+    "genre": "Music",
+    "city": "Skopje",
+    "country": "North Macedonia",
+    "lat": 41.9961816,
+    "lng": 21.4319213
+  },
+  {
+    "id": "north-radio-bubamara",
+    "name": "Radio Bubamara",
+    "url": "http://88.85.99.2/live-128.mp3",
+    "genre": "Music",
+    "city": "Skopje",
+    "country": "North Macedonia",
+    "lat": 41.9961816,
+    "lng": 21.4319213
+  },
+  {
+    "id": "north-radiobar",
+    "name": "RadioBar",
+    "url": "https://visual.shoutca.st/stream/radiobar",
+    "genre": "Music",
+    "city": "Skopje",
+    "country": "North Macedonia",
+    "lat": 41.9961816,
+    "lng": 21.4319213
+  },
+  {
+    "id": "north-radio-mof",
+    "name": "Radio MOF",
+    "url": "http://n10.radiojar.com/8e4wzvre1d0uv?rj-ttl=5&rj-tok=AAABm_nGdIgAtPXnsjpGrJ75PA",
+    "genre": "Music",
+    "city": "Skopje",
+    "country": "North Macedonia",
+    "lat": 41.9961816,
+    "lng": 21.4319213
+  },
+  {
+    "id": "north-radio-bubamara-boemi",
+    "name": "Radio Bubamara Boemi",
+    "url": "https://stream.bubamara.com.mk/live",
+    "genre": "Music",
+    "city": "Skopje",
+    "country": "North Macedonia",
+    "lat": 41.9961816,
+    "lng": 21.4319213
+  },
+  {
+    "id": "north-metropolis-radio-network",
+    "name": "Metropolis Radio Network",
+    "url": "https://eu4.fastcast4u.com/proxy/metradio?mp=/1",
+    "genre": "Music",
+    "city": "Skopje",
+    "country": "North Macedonia",
+    "lat": 41.9961816,
+    "lng": 21.4319213
+  },
+  {
+    "id": "north-radio-bubamara-prilep-1005-fm",
+    "name": "Radio Bubamara Prilep 100.5 FM",
+    "url": "https://stream.bubamara.com.mk/live-prilep",
+    "genre": "Music",
+    "city": "Prilep",
+    "country": "North Macedonia",
+    "lat": 41.3444984,
+    "lng": 21.5527115
+  },
+  {
+    "id": "north-burevesnik",
+    "name": "Burevesnik",
+    "url": "https://a9.asurahosting.com/listen/burevjesnik_radio/radio.mp3",
+    "genre": "Music",
+    "city": "Skopje",
+    "country": "North Macedonia",
+    "lat": 41.9961816,
+    "lng": 21.4319213
+  },
+  {
+    "id": "north-sky-radio-1025",
+    "name": "Sky Radio 102.5",
+    "url": "https://s1.skyradio.com.mk/index.html?sid=1",
+    "genre": "Music",
+    "city": "Skopje",
+    "country": "North Macedonia",
+    "lat": 41.9961816,
+    "lng": 21.4319213
+  },
+  {
+    "id": "north-antenna-5-radio-network",
+    "name": "Antenna 5 Radio Network",
+    "url": "https://antenna5stream.neotel.mk/live128",
+    "genre": "Music",
+    "city": "Skopje",
+    "country": "North Macedonia",
+    "lat": 41.9961816,
+    "lng": 21.4319213
+  },
+  {
+    "id": "north-justmusicradio",
+    "name": "JustMusicRadio",
+    "url": "https://radiostream.neotel.mk/justmusicradio",
+    "genre": "Music",
+    "city": "Skopje",
+    "country": "North Macedonia",
+    "lat": 41.9961816,
+    "lng": 21.4319213
+  },
+  {
+    "id": "north-radio-zeri-i-shtimes-fm-896",
+    "name": "Radio Zeri i Shtimes FM 89.6",
+    "url": "https://radio.1dhe1.com:8090/stream",
+    "genre": "Music",
+    "city": "Skopje",
+    "country": "North Macedonia",
+    "lat": 41.9961816,
+    "lng": 21.4319213
+  },
+  {
+    "id": "north-radio-pela-fm-968",
+    "name": "Radio Pela FM 96.8",
+    "url": "https://cloud.mkdstream.com/p/8131/stream",
+    "genre": "Music",
+    "city": "Skopje",
+    "country": "North Macedonia",
+    "lat": 41.9961816,
+    "lng": 21.4319213
+  },
+  {
+    "id": "north-radio-meff-987-fm",
+    "name": "Radio MEFF 98.7 FM",
+    "url": "https://s32.myradiostream.com:16040/listen.mp3",
+    "genre": "Music",
+    "city": "Skopje",
+    "country": "North Macedonia",
+    "lat": 41.9961816,
+    "lng": 21.4319213
+  },
+  {
+    "id": "north-life-1063",
+    "name": "Life 106.3",
+    "url": "http://cast.streams.ovh:9130/live",
+    "genre": "Music",
+    "city": "Prilep",
+    "country": "North Macedonia",
+    "lat": 41.3444984,
+    "lng": 21.5527115
+  },
+  {
+    "id": "north-pulse-radio",
+    "name": "Pulse Radio",
+    "url": "https://player.pulseradio.mk/live",
+    "genre": "Music",
+    "city": "Prilep",
+    "country": "North Macedonia",
+    "lat": 41.3444984,
+    "lng": 21.5527115
+  },
+  {
+    "id": "north-zona-m1-radio",
+    "name": "Zona M1 Radio",
+    "url": "https://zonam1.ddns.net:8300/index.html?sid=1",
+    "genre": "Music",
+    "city": "Skopje",
+    "country": "North Macedonia",
+    "lat": 41.9961816,
+    "lng": 21.4319213
+  },
+  {
+    "id": "north-uklo-fm-908",
+    "name": "UKLO FM 90.8",
+    "url": "https://uklofm.uklo.edu.mk/stream",
+    "genre": "Music",
+    "city": "Prilep",
+    "country": "North Macedonia",
+    "lat": 41.3444984,
+    "lng": 21.5527115
+  },
+  {
+    "id": "north-radio-106-bitola",
+    "name": "Radio 106 Bitola",
+    "url": "http://stream.zemi.mk:8003/1",
+    "genre": "Music",
+    "city": "Ohrid",
+    "country": "North Macedonia",
+    "lat": 41.1170203,
+    "lng": 20.8017715
+  },
+  {
+    "id": "north-plus-forte-radio-1023-fm",
+    "name": "Plus Forte Radio 102.3 FM",
+    "url": "http://chandra.shoutca.st:10362/stream",
+    "genre": "Music",
+    "city": "Tetovo",
+    "country": "North Macedonia",
+    "lat": 42.0068297,
+    "lng": 20.9728556
+  },
+  {
+    "id": "north-ohrid24",
+    "name": "Ohrid24",
+    "url": "https://stream.iradio.pro/proxy/ohrid24?mp=/stream",
+    "genre": "Music",
+    "city": "Ohrid",
+    "country": "North Macedonia",
+    "lat": 41.1170203,
+    "lng": 20.8017715
+  },
+  {
+    "id": "north-radio-tirana-klasik-1012-fm",
+    "name": "Radio Tirana Klasik 101.2 FM",
+    "url": "http://79.106.48.2:8000/radiotiranaklasik1",
+    "genre": "Music",
+    "city": "Ohrid",
+    "country": "North Macedonia",
+    "lat": 41.1170203,
+    "lng": 20.8017715
+  },
+  {
+    "id": "north-radio-gora-fm-1063",
+    "name": "Radio Gora FM 106.3",
+    "url": "http://uzivo.radiogora.org:8117/stream.mp3",
+    "genre": "Music",
+    "city": "Tetovo",
+    "country": "North Macedonia",
+    "lat": 42.0068297,
+    "lng": 20.9728556
+  },
+  {
+    "id": "north-bleta-radio-fm",
+    "name": "Bleta Radio FM",
+    "url": "https://radio.arholding.mk/play.aspx?radioBleta",
+    "genre": "Music",
+    "city": "Tetovo",
+    "country": "North Macedonia",
+    "lat": 42.0068297,
+    "lng": 20.9728556
+  },
+  {
+    "id": "north-radio-star",
+    "name": "Radio Star",
+    "url": "https://eu10.fastcast4u.com/starglaven",
+    "genre": "Music",
+    "city": "Skopje",
+    "country": "North Macedonia",
+    "lat": 41.9961816,
+    "lng": 21.4319213
+  },
+  {
+    "id": "north-radio-holidej-fm-1021",
+    "name": "Radio Holidej FM 102.1",
+    "url": "https://stream-155.zeno.fm/3mdkkf9hgg0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIzbWRra2Y5aGdnMHV2IiwiaG9zdCI6InN0cmVhbS0xNTUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiR3RMei1aaTlTejZ5czMwS09PZktHdyIsImlhdCI6MTc2OTQyMTQ5MiwiZXhwIjoxNzY5NDIxNTUyfQ.7Fi_rnULPlDcdyaGhACtKYStQT7pBCGWS0MCpkHlBtE",
+    "genre": "Music",
+    "city": "Prilep",
+    "country": "North Macedonia",
+    "lat": 41.3444984,
+    "lng": 21.5527115
+  },
+  {
+    "id": "north-radio-red-fm",
+    "name": "Radio Red FM",
+    "url": "https://s5.myradiostream.com/sc1/:43208/listen.mp3",
+    "genre": "Music",
+    "city": "Tetovo",
+    "country": "North Macedonia",
+    "lat": 42.0068297,
+    "lng": 20.9728556
+  },
+  {
+    "id": "north-gradski-media-service",
+    "name": "Gradski Media Service",
+    "url": "https://dc1.serverse.com/proxy/akrpnnld/stream",
+    "genre": "Music",
+    "city": "Ohrid",
+    "country": "North Macedonia",
+    "lat": 41.1170203,
+    "lng": 20.8017715
+  },
+  {
+    "id": "north-radio-maria-kosove",
+    "name": "Radio Maria Kosove",
+    "url": "https://dreamsiteradiocp2.com/proxy/rmkosovo2?mp=/stream",
+    "genre": "Music",
+    "city": "Tetovo",
+    "country": "North Macedonia",
+    "lat": 42.0068297,
+    "lng": 20.9728556
+  },
+  {
+    "id": "north-ert-florina",
+    "name": "ERT Florina",
+    "url": "https://radiostreaming.ert.gr/ert-florina",
+    "genre": "Music",
+    "city": "Prilep",
+    "country": "North Macedonia",
+    "lat": 41.3444984,
+    "lng": 21.5527115
+  },
+  {
+    "id": "north-radio-synora-fm-987",
+    "name": "Radio Synora FM 98.7",
+    "url": "http://sh.onweb.gr:8816/;stream",
+    "genre": "Music",
+    "city": "Kavadartsi",
+    "country": "North Macedonia",
+    "lat": 41.4332802,
+    "lng": 22.0122593
+  },
+  {
+    "id": "north-radio-alba-fm-912",
+    "name": "Radio Alba FM 91.2",
+    "url": "http://server.radioalba.eu:8000/stream/",
+    "genre": "Music",
+    "city": "Tetovo",
+    "country": "North Macedonia",
+    "lat": 42.0068297,
+    "lng": 20.9728556
+  },
+  {
+    "id": "north-radio-kavadarci-985mhz",
+    "name": "Radio Kavadarci 98.5MHz",
+    "url": "https://stream-159.zeno.fm/p79t9wf7mg0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwNzl0OXdmN21nMHV2IiwiaG9zdCI6InN0cmVhbS0xNTkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiaGc2RkdlNFVRdGFWWlJ6NG5SZkZsUSIsImlhdCI6MTc2OTQyMTQ5MywiZXhwIjoxNzY5NDIxNTUzfQ.FTbxto7BawJ6ZDDhLLAcnvQ9J30ovrKr2MN01t6We8o",
+    "genre": "Music",
+    "city": "Prilep",
+    "country": "North Macedonia",
+    "lat": 41.3444984,
+    "lng": 21.5527115
+  },
+  {
+    "id": "north-radio-time-fm",
+    "name": "Radio Time FM",
+    "url": "https://s2.free-shoutcast.com/stream/18058",
+    "genre": "Music",
+    "city": "Kavadartsi",
+    "country": "North Macedonia",
+    "lat": 41.4332802,
+    "lng": 22.0122593
+  },
+  {
+    "id": "north-radio-galaxy-fm-1022",
+    "name": "Radio Galaxy FM 102.2",
+    "url": "http://galaxy.mk:8000/index.html?sid=1",
+    "genre": "Music",
+    "city": "Kavadartsi",
+    "country": "North Macedonia",
+    "lat": 41.4332802,
+    "lng": 22.0122593
+  },
+  {
+    "id": "north-super-radio-fm-970",
+    "name": "Super Radio FM 97.0",
+    "url": "https://stream-153.zeno.fm/16s61zah5ehvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIxNnM2MXphaDVlaHZ2IiwiaG9zdCI6InN0cmVhbS0xNTMuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiaU9yQ2tnOVRUVXlKMmRDcnJNdWhZdyIsImlhdCI6MTc2OTQyMTQ5MywiZXhwIjoxNzY5NDIxNTUzfQ.qXjo0ISRV54g9efIRXDA7hGtKBn-xpO8_M9zs1vAlYc",
+    "genre": "Music",
+    "city": "Ohrid",
+    "country": "North Macedonia",
+    "lat": 41.1170203,
+    "lng": 20.8017715
+  },
+  {
+    "id": "north-epiloges-fm-1028",
+    "name": "Epiloges FM 102.8",
+    "url": "http://ice.streamcloud.mediacdn.com/epiloges1028",
+    "genre": "Music",
+    "city": "Gevgelija",
+    "country": "North Macedonia",
+    "lat": 41.1388664,
+    "lng": 22.5033192
+  },
+  {
+    "id": "north-sky-fm-997",
+    "name": "Sky FM 99.7",
+    "url": "https://skyptolemaida.radioca.st/index.html?sid=1",
+    "genre": "Music",
+    "city": "Bitola",
+    "country": "North Macedonia",
+    "lat": 41.0316005,
+    "lng": 21.3302511
+  },
+  {
+    "id": "north-ugd-fm-910",
+    "name": "UGD FM 91.0",
+    "url": "http://ugdfm-stream.ugd.edu.mk:8000/stream",
+    "genre": "Music",
+    "city": "Sveti Nikole",
+    "country": "North Macedonia",
+    "lat": 41.8647339,
+    "lng": 21.9420506
+  },
+  {
+    "id": "north-radio-s-897-fm",
+    "name": "Radio S 89.7 FM",
+    "url": "https://radiocnd.mms.mk/proxy/radios/stream",
+    "genre": "Music",
+    "city": "Sveti Nikole",
+    "country": "North Macedonia",
+    "lat": 41.8647339,
+    "lng": 21.9420506
+  },
+  {
+    "id": "north-kocmoc",
+    "name": "KOCMOC",
+    "url": "https://live.kocmoc.cc/listen/kocmoc-1/stream",
+    "genre": "Music",
+    "city": "Gevgelija",
+    "country": "North Macedonia",
+    "lat": 41.1388664,
+    "lng": 22.5033192
+  },
+  {
+    "id": "north-radio-5-fm-1071",
+    "name": "Radio 5 FM 107.1",
+    "url": "https://5fm.mk:8000/;stream.mp3",
+    "genre": "Music",
+    "city": "Veles",
+    "country": "North Macedonia",
+    "lat": 41.718869,
+    "lng": 21.7705695
+  },
+  {
+    "id": "north-club-fm-1034",
+    "name": "Club FM 103.4",
+    "url": "http://176.9.117.123:9996/radio.mp3",
+    "genre": "Music",
+    "city": "Skopje",
+    "country": "North Macedonia",
+    "lat": 41.9961816,
+    "lng": 21.4319213
+  },
+  {
+    "id": "north-cfm-999",
+    "name": "CFM 99.9",
+    "url": "https://cast4.magicstreams.gr:2200/ssl/zhzcmfjd?mp=/live",
+    "genre": "Music",
+    "city": "Struga",
+    "country": "North Macedonia",
+    "lat": 41.1770278,
+    "lng": 20.6790586
+  },
+  {
+    "id": "north-radio-fortuna-fm-968",
+    "name": "Radio Fortuna FM 96.8",
+    "url": "https://radiofortuna.ipradio.mk/index.html?sid=1",
+    "genre": "Music",
+    "city": "Skopje",
+    "country": "North Macedonia",
+    "lat": 41.9961816,
+    "lng": 21.4319213
+  },
+  {
+    "id": "north-sveti-duh-makedonija",
+    "name": "Sveti Duh Makedonija",
+    "url": "https://ec6.yesstreaming.net:2335/stream",
+    "genre": "Music",
+    "city": "Skopje",
+    "country": "North Macedonia",
+    "lat": 41.9961816,
+    "lng": 21.4319213
+  },
+  {
+    "id": "north-kanal-103",
+    "name": "Kanal 103",
+    "url": "https://radiostream.neotel.mk/kanal103",
+    "genre": "Music",
+    "city": "Skopje",
+    "country": "North Macedonia",
+    "lat": 41.9961816,
+    "lng": 21.4319213
+  },
+  {
+    "id": "north-vink-radio",
+    "name": "Vink Radio",
+    "url": "https://eu10.fastcast4u.com/vinkradio",
+    "genre": "Music",
+    "city": "Skopje",
+    "country": "North Macedonia",
+    "lat": 41.9961816,
+    "lng": 21.4319213
+  },
+  {
+    "id": "north-urban-fm-radio-908",
+    "name": "Urban FM Radio 90.8",
+    "url": "https://securestreams4.autopo.st:1668/stream",
+    "genre": "Music",
+    "city": "Skopje",
+    "country": "North Macedonia",
+    "lat": 41.9961816,
+    "lng": 21.4319213
+  },
+  {
+    "id": "north-јazz-fm-1008",
+    "name": "Јazz FM 100.8",
+    "url": "https://live.jazzfm.mk/listen/jazzfm/live",
+    "genre": "Music",
+    "city": "Skopje",
+    "country": "North Macedonia",
+    "lat": 41.9961816,
+    "lng": 21.4319213
+  },
+  {
+    "id": "north-radio-star--mk-zabavna",
+    "name": "Radio Star - MK Zabavna",
+    "url": "https://eu10.fastcast4u.com/starmkpop",
+    "genre": "Music",
+    "city": "Krivogashtani",
+    "country": "North Macedonia",
+    "lat": 41.3367945,
+    "lng": 21.3317127
+  },
+  {
+    "id": "north-radio-most",
+    "name": "Radio Most",
+    "url": "https://radio.dukahosting.com/8024/stream",
+    "genre": "Music",
+    "city": "Skopje",
+    "country": "North Macedonia",
+    "lat": 41.9961816,
+    "lng": 21.4319213
+  }
+]

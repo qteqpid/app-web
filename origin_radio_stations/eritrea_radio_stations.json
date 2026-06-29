@@ -1,0 +1,192 @@
+[
+  {
+    "id": "eritrea-south-of-gilman-st",
+    "name": "South of Gilman St.",
+    "url": "http://stream.southofgilman.org:8000/",
+    "genre": "Music",
+    "city": "San Francisco CA",
+    "country": "United States",
+    "lat": 37.8262322,
+    "lng": -122.4221501
+  },
+  {
+    "id": "eritrea-sf70s",
+    "name": "SF70s",
+    "url": "https://stream4.rcast.net/72991/",
+    "genre": "Music",
+    "city": "San Francisco CA",
+    "country": "United States",
+    "lat": 37.8262322,
+    "lng": -122.4221501
+  },
+  {
+    "id": "eritrea-abn-old-time-radio-am-1610",
+    "name": "ABN Old-Time Radio AM 1610",
+    "url": "https://s6.yesstreaming.net:18000/listen",
+    "genre": "Music",
+    "city": "San Francisco CA",
+    "country": "United States",
+    "lat": 37.8262322,
+    "lng": -122.4221501
+  },
+  {
+    "id": "eritrea-smooth-jazz-247",
+    "name": "Smooth Jazz 24/7",
+    "url": "https://ais-edge89-dal02.cdnstream.com/2124_128.mp3",
+    "genre": "Music",
+    "city": "San Francisco CA",
+    "country": "United States",
+    "lat": 37.8262322,
+    "lng": -122.4221501
+  },
+  {
+    "id": "eritrea-soma-fm-the-dark-zone",
+    "name": "Soma FM The Dark Zone",
+    "url": "https://ice6.somafm.com/darkzone-128-mp3",
+    "genre": "Music",
+    "city": "San Francisco CA",
+    "country": "United States",
+    "lat": 37.8262322,
+    "lng": -122.4221501
+  },
+  {
+    "id": "eritrea-soma-fm-underground-80s",
+    "name": "Soma FM Underground 80s",
+    "url": "https://ice1.somafm.com/u80s-256-mp3",
+    "genre": "Music",
+    "city": "San Francisco CA",
+    "country": "United States",
+    "lat": 37.8262322,
+    "lng": -122.4221501
+  },
+  {
+    "id": "eritrea-psyched-radio-sf",
+    "name": "Psyched Radio SF",
+    "url": "https://us3.internet-radio.com/proxy/psychedradiosf?mp=/stream;",
+    "genre": "Music",
+    "city": "San Francisco CA",
+    "country": "United States",
+    "lat": 37.8262322,
+    "lng": -122.4221501
+  },
+  {
+    "id": "eritrea-kusf-college-radio",
+    "name": "KUSF College Radio",
+    "url": "https://listen.kusf.org/stream",
+    "genre": "Music",
+    "city": "San Francisco CA",
+    "country": "United States",
+    "lat": 37.8262322,
+    "lng": -122.4221501
+  },
+  {
+    "id": "eritrea-kpoo-fm-895",
+    "name": "KPOO FM 89.5",
+    "url": "https://kpoo.streamguys1.com/xstream",
+    "genre": "Music",
+    "city": "San Francisco CA",
+    "country": "United States",
+    "lat": 37.8262322,
+    "lng": -122.4221501
+  },
+  {
+    "id": "eritrea-pacifiklive",
+    "name": "PacifikLive",
+    "url": "https://pacifiklive.streamguys1.com/live",
+    "genre": "Music",
+    "city": "San Francisco CA",
+    "country": "United States",
+    "lat": 37.8262322,
+    "lng": -122.4221501
+  },
+  {
+    "id": "eritrea-koko-lp-radio-963-fm",
+    "name": "KOKO LP Radio 96.3 FM",
+    "url": "https://s2.yesstreaming.net:7031/stream",
+    "genre": "Music",
+    "city": "San Francisco CA",
+    "country": "United States",
+    "lat": 37.8262322,
+    "lng": -122.4221501
+  },
+  {
+    "id": "eritrea-kbrw-am-680",
+    "name": "KBRW-AM 680",
+    "url": "https://tektite.streamguys1.com:5345/live",
+    "genre": "Music",
+    "city": "San Francisco CA",
+    "country": "United States",
+    "lat": 37.8262322,
+    "lng": -122.4221501
+  },
+  {
+    "id": "eritrea-knbr-680--knbr",
+    "name": "KNBR 680 - KNBR",
+    "url": "https://17853.live.streamtheworld.com:443/KNBRAM_SC",
+    "genre": "Music",
+    "city": "San Francisco CA",
+    "country": "United States",
+    "lat": 37.8262322,
+    "lng": -122.4221501
+  },
+  {
+    "id": "eritrea-classical-kdfc-1049-fm",
+    "name": "Classical KDFC 104.9 FM",
+    "url": "https://18423.live.streamtheworld.com:443/KDFCFMAAC.aac",
+    "genre": "Music",
+    "city": "San Francisco CA",
+    "country": "United States",
+    "lat": 37.8262322,
+    "lng": -122.4221501
+  },
+  {
+    "id": "eritrea-classic-1260-kya",
+    "name": "Classic 1260 KYA",
+    "url": "https://pavo.prostreaming.net:8038/stream",
+    "genre": "Music",
+    "city": "San Francisco CA",
+    "country": "United States",
+    "lat": 37.8262322,
+    "lng": -122.4221501
+  },
+  {
+    "id": "eritrea-kqed-fm-885",
+    "name": "KQED FM 88.5",
+    "url": "https://streams.kqed.org/",
+    "genre": "Music",
+    "city": "San Francisco CA",
+    "country": "United States",
+    "lat": 37.8262322,
+    "lng": -122.4221501
+  },
+  {
+    "id": "eritrea-fox-news-radio",
+    "name": "Fox News Radio",
+    "url": "https://prod-3-237-99-86.amperwave.net/foxnewsradio-foxnewsradioaac-imc?session-id=4e8a20697cf00a48826f24c00332cd7e",
+    "genre": "Music",
+    "city": "San Francisco CA",
+    "country": "United States",
+    "lat": 37.8262322,
+    "lng": -122.4221501
+  },
+  {
+    "id": "eritrea-the-jazz-groove--smooth",
+    "name": "The Jazz Groove - Smooth",
+    "url": "https://audio-edge-jfbmv.sin.d.radiomast.io/4fdf004c-c2f3-49c1-bdb1-22e208d48780",
+    "genre": "Music",
+    "city": "San Francisco CA",
+    "country": "United States",
+    "lat": 37.8262322,
+    "lng": -122.4221501
+  },
+  {
+    "id": "eritrea-kcsm-jazz-91",
+    "name": "KCSM Jazz 91",
+    "url": "https://ice5.securenetsystems.net/KCSM",
+    "genre": "Music",
+    "city": "San Francisco CA",
+    "country": "United States",
+    "lat": 37.8262322,
+    "lng": -122.4221501
+  }
+]

@@ -1,0 +1,404 @@
+[
+    {
+        "name": "NasheedFM",
+        "city": "Kuala Lumpur",
+        "country": "Malaysia",
+        "url": "http://stereo.nasyidfm.com:8000/stream"
+    },
+    {
+        "name": "Radio KPKT",
+        "city": "Kuala Lumpur",
+        "country": "Malaysia",
+        "url": "https://listen.kpkt.gov.my/proxy/radiokpkt/stream"
+    },
+    {
+        "name": "Jazz Lounge",
+        "city": "Kuala Lumpur",
+        "country": "Malaysia",
+        "url": "https://eu8.fastcast4u.com/proxy/lch?mp=/1/;"
+    },
+    {
+        "name": "JEI FM",
+        "city": "Kuala Lumpur",
+        "country": "Malaysia",
+        "url": "https://usa3.fastcast4u.com/proxy/jeifm?mp=/1"
+    },
+    {
+        "name": "KL FM",
+        "city": "Kuala Lumpur",
+        "country": "Malaysia",
+        "url": "https://22273.live.streamtheworld.com:443/KL_FMAAC.aac"
+    },
+    {
+        "name": "MyKampus Radio",
+        "city": "Kuala Lumpur",
+        "country": "Malaysia",
+        "url": "https://usa10.fastcast4u.com/voicespl"
+    },
+    {
+        "name": "988",
+        "city": "Kuala Lumpur",
+        "country": "Malaysia",
+        "url": "https://22273.live.streamtheworld.com:443/988_FMAAC.aac"
+    },
+    {
+        "name": "Suria FM 101.4",
+        "city": "Kuala Lumpur",
+        "country": "Malaysia",
+        "url": "https://22243.live.streamtheworld.com:443/SURIA_FMAAC.aac"
+    },
+    {
+        "name": "Best FM",
+        "city": "Kuala Lumpur",
+        "country": "Malaysia",
+        "url": "https://n06a-eu.rcs.revma.com/h34x4kgg9hhvv.m4a?rj-ttl=5&rj-tok=AAABm_m2xyIASn3yzRSwcZz4Xw"
+    },
+    {
+        "name": "Asyik FM",
+        "city": "Kuala Lumpur",
+        "country": "Malaysia",
+        "url": "https://22273.live.streamtheworld.com:443/ASYIK_FMAAC.aac"
+    },
+    {
+        "name": "Nasional FM",
+        "city": "Kuala Lumpur",
+        "country": "Malaysia",
+        "url": "https://22273.live.streamtheworld.com:443/NASIONAL_FMAAC.aac"
+    },
+    {
+        "name": "Sarawak FM",
+        "city": "Kuching",
+        "country": "Malaysia",
+        "url": "https://28163.live.streamtheworld.com:443/SARAWAK_FMAAC.aac"
+    },
+    {
+        "name": "Radio Muzik",
+        "city": "Kuala Lumpur",
+        "country": "Malaysia",
+        "url": "https://listen.radioking.com/radio/663445/stream/727324"
+    },
+    {
+        "name": "Radio Klasik FM 98.3",
+        "city": "Kuala Lumpur",
+        "country": "Malaysia",
+        "url": "https://28163.live.streamtheworld.com:443/RADIO_KLASIKAAC_SC"
+    },
+    {
+        "name": "Melaka FM",
+        "city": "Kuala Lumpur",
+        "country": "Malaysia",
+        "url": "https://22283.live.streamtheworld.com:443/MELAKA_FMAAC.aac"
+    },
+    {
+        "name": "WaiFM Iban",
+        "city": "Kuching",
+        "country": "Malaysia",
+        "url": "https://28153.live.streamtheworld.com:443/WAI_FM_IBANAAC.aac"
+    },
+    {
+        "name": "Melody FM",
+        "city": "Kuala Lumpur",
+        "country": "Malaysia",
+        "url": "https://n05.rcs.revma.com/2u1n6dtbv4uvv?rj-ttl=5&rj-tok=AAABm_m2yHoAXwIGomRxfrwF3A"
+    },
+    {
+        "name": "Hitz.FM",
+        "city": "Kuala Lumpur",
+        "country": "Malaysia",
+        "url": "https://n10.rcs.revma.com/488kt4sbv4uvv?rj-ttl=5&rj-tok=AAABm_m2yHIAM_-gbJsK1KO_yA"
+    },
+    {
+        "name": "Gegar FM 88.1",
+        "city": "Kuala Lumpur",
+        "country": "Malaysia",
+        "url": "https://n03.rcs.revma.com/cn0zcqsbv4uvv?rj-ttl=5&rj-tok=AAABm_m2yHQA1Xlijq47PhYadA"
+    },
+    {
+        "name": "Sinar FM",
+        "city": "Kuala Lumpur",
+        "country": "Malaysia",
+        "url": "https://n03.rcs.revma.com/azatk0tbv4uvv?rj-ttl=5&rj-tok=AAABm_m2yHMA94D4RiBOW1reQA"
+    },
+    {
+        "name": "Mix FM",
+        "city": "Kuala Lumpur",
+        "country": "Malaysia",
+        "url": "https://n04.rcs.revma.com/v5pq3htbv4uvv?rj-ttl=5&rj-tok=AAABm_m2yHAA0OD1P6JOHjMo5w"
+    },
+    {
+        "name": "Radio Jreng",
+        "city": "Kuching",
+        "country": "Malaysia",
+        "url": "http://radiojreng.myradio.web.id:8888/radiojreng.aac"
+    },
+    {
+        "name": "Radio An Nur",
+        "city": "Johor Bahru",
+        "country": "Malaysia",
+        "url": "https://listen.radioannurmainj.my/proxy/radioannur/stream"
+    },
+    {
+        "name": "Pandawa Radio 103.9 FM",
+        "city": "Johor Bahru",
+        "country": "Malaysia",
+        "url": "https://void.idserverhost.com/8042/stream"
+    },
+    {
+        "name": "Aditya FM 87.6",
+        "city": "Johor Bahru",
+        "country": "Malaysia",
+        "url": "https://i.klikhost.com/8302/stream"
+    },
+    {
+        "name": "BIGCOWFM",
+        "city": "Petaling Jaya",
+        "country": "Malaysia",
+        "url": "http://onairnow.ddns.net:8000/chinese.mp3/"
+    },
+    {
+        "name": "Miri FM",
+        "city": "Kuching",
+        "country": "Malaysia",
+        "url": "https://28163.live.streamtheworld.com:443/MIRI_FMAAC.aac"
+    },
+    {
+        "name": "RRI Pro 1 FM 96.3",
+        "city": "Kota Kinabalu",
+        "country": "Malaysia",
+        "url": "https://stream-node2.rri.co.id/streaming/36/9336/rrinunukanpro1.mp3"
+    },
+    {
+        "name": "Cats FM",
+        "city": "Kuching",
+        "country": "Malaysia",
+        "url": "https://n09.rcs.revma.com/51qe53rv0y3vv.m4a?rj-ttl=5&rj-tok=AAABm_m20W0AbhNnSH6mThbpUA"
+    },
+    {
+        "name": "Wai FM 106.1",
+        "city": "Kuching",
+        "country": "Malaysia",
+        "url": "https://22253.live.streamtheworld.com:443/WAI_FM_BKAAC.aac"
+    },
+    {
+        "name": "Kupikupi FM 92.5",
+        "city": "Kuching",
+        "country": "Malaysia",
+        "url": "https://n10.rcs.revma.com/vx54zkbwe1bwv?rj-ttl=5&rj-tok=AAABm_m20rIAI9euaYZS9cC_4Q"
+    },
+    {
+        "name": "RRI Pro 4 AM 1197",
+        "city": "Kuching",
+        "country": "Malaysia",
+        "url": "https://stream-node2.rri.co.id/streaming/12/9312/rripalangkarayapro4.mp3"
+    },
+    {
+        "name": "Sabah V FM",
+        "city": "Kota Kinabalu",
+        "country": "Malaysia",
+        "url": "https://22273.live.streamtheworld.com:443/SABAH_VFMAAC.aac"
+    },
+    {
+        "name": "Juan FM 103.2",
+        "city": "Johor Bahru",
+        "country": "Malaysia",
+        "url": "https://stream-177.zeno.fm/fvjfd8wlch9uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJmdmpmZDh3bGNoOXV2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoicVZjNllqcDRTQVNzejV1am8wVFJMdyIsImlhdCI6MTc2OTQyMDQ2NywiZXhwIjoxNzY5NDIwNTI3fQ.THdYx7dLL5fQf48Yicd1rJP_8d9l_PxnOLnHtnuB9xo"
+    },
+    {
+        "name": "Sabah FM",
+        "city": "Kota Kinabalu",
+        "country": "Malaysia",
+        "url": "https://28103.live.streamtheworld.com:443/SABAH_FMAAC.aac"
+    },
+    {
+        "name": "BFBS Brunei 101.7 FM",
+        "city": "Kuching",
+        "country": "Malaysia",
+        "url": "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs10.mp3"
+    },
+    {
+        "name": "Sandakan FM",
+        "city": "Kota Kinabalu",
+        "country": "Malaysia",
+        "url": "https://28103.live.streamtheworld.com:443/SANDAKAN_FMAAC.aac"
+    },
+    {
+        "name": "Kristal FM 90.7",
+        "city": "Kota Kinabalu",
+        "country": "Malaysia",
+        "url": "https://play.thestreamtech.com:7038/index.html"
+    },
+    {
+        "name": "Labuan FM",
+        "city": "Kota Kinabalu",
+        "country": "Malaysia",
+        "url": "https://28153.live.streamtheworld.com:443/LABUAN_FMAAC.aac"
+    },
+    {
+        "name": "Johor FM",
+        "city": "Johor Bahru",
+        "country": "Malaysia",
+        "url": "https://18253.live.streamtheworld.com:443/JOHOR_FMAAC.aac"
+    },
+    {
+        "name": "Terengganu FM",
+        "city": "Kuala Terengganu",
+        "country": "Malaysia",
+        "url": "https://28153.live.streamtheworld.com:443/TERENGGANU_FMAAC.aac"
+    },
+    {
+        "name": "Kelantan FM",
+        "city": "Kuala Terengganu",
+        "country": "Malaysia",
+        "url": "https://22283.live.streamtheworld.com:443/KELANTAN_FMAAC.aac"
+    },
+    {
+        "name": "UFM Uitm Radio",
+        "city": "Kuala Terengganu",
+        "country": "Malaysia",
+        "url": "http://radiouitm.uitm.edu.my/ufmlive"
+    },
+    {
+        "name": "RRI P2 Pontianak",
+        "city": "Sibu",
+        "country": "Malaysia",
+        "url": "https://stream-node1.rri.co.id/streaming/12/9212/rripontianakpro2.mp3"
+    },
+    {
+        "name": "Kupikupi FM 96.3",
+        "city": "Kota Kinabalu",
+        "country": "Malaysia",
+        "url": "https://n01.rcs.revma.com/axht8yawe1bwv?rj-ttl=5&rj-tok=AAABm_m22u4ANA3OUCS_9gtccw"
+    },
+    {
+        "name": "VOSJ",
+        "city": "Kuala Terengganu",
+        "country": "Malaysia",
+        "url": "https://listen.radioking.com/radio/224413/stream/267892"
+    },
+    {
+        "name": "Manis FM 90.6",
+        "city": "Kuala Terengganu",
+        "country": "Malaysia",
+        "url": "https://n16.rcs.revma.com/nzgauqq1v7zuv?rj-ttl=5&rj-tok=AAABm_m23jkABWIlStBJuU-hww"
+    },
+    {
+        "name": "Radio Thailand Yala FM 95",
+        "city": "Kota Bharu",
+        "country": "Malaysia",
+        "url": "https://radio-org-01-ott.prd.go.th/yla_fm95"
+    },
+    {
+        "name": "Sibu FM",
+        "city": "Sibu",
+        "country": "Malaysia",
+        "url": "https://28103.live.streamtheworld.com:443/SIBU_FMAAC.aac"
+    },
+    {
+        "name": "Al-Quran FM 89.1",
+        "city": "Sibu",
+        "country": "Malaysia",
+        "url": "https://play.thestreamtech.com:7067/index.html"
+    },
+    {
+        "name": "Wai FM",
+        "city": "Sibu",
+        "country": "Malaysia",
+        "url": "https://28093.live.streamtheworld.com:443/WAI_FM_BK.mp3"
+    },
+    {
+        "name": "Indy FM 107.75",
+        "city": "Kota Bharu",
+        "country": "Malaysia",
+        "url": "https://media.onair.one:8010/STUINDY.mp3"
+    },
+    {
+        "name": "Indy Season FM",
+        "city": "Kota Bharu",
+        "country": "Malaysia",
+        "url": "https://plus.onair.network:8030/OB"
+    },
+    {
+        "name": "RADIOROSAK",
+        "city": "Petaling Jaya",
+        "country": "Malaysia",
+        "url": "https://free.rcast.net/68127"
+    },
+    {
+        "name": "Radyo Natin Brooke's Point FM 104.5",
+        "city": "Sandakan",
+        "country": "Malaysia",
+        "url": "https://xcite.radyonatinfm.com:8010/brookespoint"
+    },
+    {
+        "name": "Limbang FM",
+        "city": "Sibu",
+        "country": "Malaysia",
+        "url": "https://28163.live.streamtheworld.com:443/LIMBANGAAC.aac"
+    },
+    {
+        "name": "VR Radio 88.75 MHz",
+        "city": "George Town",
+        "country": "Malaysia",
+        "url": "https://lnwradio.hostsevenplus.com/9670/audio.php"
+    },
+    {
+        "name": "TonKla Radio FM 101.0",
+        "city": "Alor Setar",
+        "country": "Malaysia",
+        "url": "http://radio.siamtoday.in.th:8252/;stream.mp3"
+    },
+    {
+        "name": "Binhla Radio FM 99.0",
+        "city": "Alor Setar",
+        "country": "Malaysia",
+        "url": "https://siamtoday.in.th/8008/;stream.mp3"
+    },
+    {
+        "name": "94 FMClub",
+        "city": "Alor Setar",
+        "country": "Malaysia",
+        "url": "https://media.onair.one:8130/94fmclub"
+    },
+    {
+        "name": "Perak FM",
+        "city": "Ipoh",
+        "country": "Malaysia",
+        "url": "https://22253.live.streamtheworld.com:443/PERAK_FMAAC.aac"
+    },
+    {
+        "name": "Myfriend.FM",
+        "city": "Shah Alam",
+        "country": "Malaysia",
+        "url": "https://cast3.asurahosting.com/proxy/myfriend/stream"
+    },
+    {
+        "name": "Mutiara FM",
+        "city": "George Town",
+        "country": "Malaysia",
+        "url": "https://22273.live.streamtheworld.com:443/MUTIARA_FMAAC.aac"
+    },
+    {
+        "name": "Pahang FM",
+        "city": "Kuantan",
+        "country": "Malaysia",
+        "url": "https://22283.live.streamtheworld.com:443/PAHANG_FMAAC.aac"
+    },
+    {
+        "name": "Negeri FM",
+        "city": "Seremban",
+        "country": "Malaysia",
+        "url": "https://22253.live.streamtheworld.com:443/NEGERI_FMAAC.aac"
+    },
+    {
+        "name": "RRI Pro1 Tarakan 97.9 FM",
+        "city": "Sandakan",
+        "country": "Malaysia",
+        "url": "https://stream-node2.rri.co.id/streaming/23/9323/rritarakanpro1.mp3"
+    },
+    {
+        "name": "Kedah FM",
+        "city": "Alor Setar",
+        "country": "Malaysia",
+        "url": "https://22253.live.streamtheworld.com:443/KEDAH_FMAAC.aac"
+    }
+]

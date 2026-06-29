@@ -1,0 +1,650 @@
+[
+    {
+        "name": "CK13 Radio",
+        "city": "Novi Sad",
+        "country": "Serbia",
+        "url": "http://142.132.228.222:8000/radio.mp3"
+    },
+    {
+        "name": "Radio Tehnomanija",
+        "city": "Belgrade",
+        "country": "Serbia",
+        "url": "http://188.40.95.74:8058/stream"
+    },
+    {
+        "name": "Radio Razbibriga",
+        "city": "Belgrade",
+        "country": "Serbia",
+        "url": "http://213.239.205.210:8001/stream"
+    },
+    {
+        "name": "Naxi Dedal Radio FM 88.1",
+        "city": "Belgrade",
+        "country": "Serbia",
+        "url": "http://dedal96-naxinacional.streaming.rs:8570/"
+    },
+    {
+        "name": "Naxi Radio FM",
+        "city": "Belgrade",
+        "country": "Serbia",
+        "url": "https://naxi128.streaming.rs:9152/"
+    },
+    {
+        "name": "Radio Kolubara 96.9 FM",
+        "city": "Belgrade",
+        "country": "Serbia",
+        "url": "https://media.radioexs.com/stream/radiokolubara"
+    },
+    {
+        "name": "Radio Tarantula",
+        "city": "Belgrade",
+        "country": "Serbia",
+        "url": "https://video.stream.rs:2000/stream/radiotarantula"
+    },
+    {
+        "name": "Radio 021 - Lounge",
+        "city": "Novi Sad",
+        "country": "Serbia",
+        "url": "https://centova.dukahosting.com/proxy/021disco//stream"
+    },
+    {
+        "name": "Svetski Radio",
+        "city": "Belgrade",
+        "country": "Serbia",
+        "url": "https://s1.skeletor.rs/svetski"
+    },
+    {
+        "name": "Radio Buca",
+        "city": "Novi Sad",
+        "country": "Serbia",
+        "url": "https://stream.neocloud.rs/RadioBuca"
+    },
+    {
+        "name": "Radio Karolina 106.3 FM",
+        "city": "Belgrade",
+        "country": "Serbia",
+        "url": "https://streaming.karolina.rs/karolina.mp3"
+    },
+    {
+        "name": "Radio LOLA",
+        "city": "Belgrade",
+        "country": "Serbia",
+        "url": "https://streaming.tdiradio.com/radiolola.mp3"
+    },
+    {
+        "name": "TDI Radio - Kovin",
+        "city": "Belgrade",
+        "country": "Serbia",
+        "url": "https://streaming.tdiradio.com/tdiradiokovin.mp3"
+    },
+    {
+        "name": "RTI FM 101",
+        "city": "Novi Sad",
+        "country": "Serbia",
+        "url": "https://a6.asurahosting.com:8440/radio.mp3"
+    },
+    {
+        "name": "Naxi EX YU Radio",
+        "city": "Belgrade",
+        "country": "Serbia",
+        "url": "https://naxidigital-exyu128ssl.streaming.rs:8242/"
+    },
+    {
+        "name": "Radio.D59B",
+        "city": "Belgrade",
+        "country": "Serbia",
+        "url": "https://n0e.radiojar.com/gn6dqzhf9mzuv?rj-ttl=5&rj-tok=AAABm_naJ2YAitkjiYXnxzcYmA"
+    },
+    {
+        "name": "Rock Radio FM 96.2",
+        "city": "Belgrade",
+        "country": "Serbia",
+        "url": "https://edge9.pink.rs/rockstream"
+    },
+    {
+        "name": "Radio S 3",
+        "city": "Belgrade",
+        "country": "Serbia",
+        "url": "https://stream.radios.rs:9004/index.html?sid=1"
+    },
+    {
+        "name": "Radio S 3 Juzni",
+        "city": "Belgrade",
+        "country": "Serbia",
+        "url": "https://stream.radios.rs:9038/index.html?sid=1"
+    },
+    {
+        "name": "Nový Rádio Petrovec FM 91.4",
+        "city": "Novi Sad",
+        "country": "Serbia",
+        "url": "http://217.17.97.1:18180/"
+    },
+    {
+        "name": "Daškom i Mlađom",
+        "city": "Novi Sad",
+        "country": "Serbia",
+        "url": "https://stream.daskoimladja.com/proxy/daskomladja/stream"
+    },
+    {
+        "name": "Radio AS FM 107.9",
+        "city": "Novi Sad",
+        "country": "Serbia",
+        "url": "https://asfmonair-masterasfm.radioca.st/stream"
+    },
+    {
+        "name": "Radio Patrola 021",
+        "city": "Novi Sad",
+        "country": "Serbia",
+        "url": "https://srv.mediastriming.com/8444/stream"
+    },
+    {
+        "name": "Radio Signal",
+        "city": "Novi Sad",
+        "country": "Serbia",
+        "url": "https://radio.dukahosting.com:7021/index.html?sid=1"
+    },
+    {
+        "name": "Radio 021",
+        "city": "Novi Sad",
+        "country": "Serbia",
+        "url": "https://radio.dukahosting.com/8006/stream"
+    },
+    {
+        "name": "Radio Active FM 105.4",
+        "city": "Novi Sad",
+        "country": "Serbia",
+        "url": "https://active96-naxinacional.streaming.rs:8557/;stream.nsv"
+    },
+    {
+        "name": "Radio Fruška Gora 105 FM",
+        "city": "Novi Sad",
+        "country": "Serbia",
+        "url": "https://stream.iradio.pro/proxy/radiofruskagora?mp=/stream"
+    },
+    {
+        "name": "TDI Radio - Novi Sad",
+        "city": "Novi Sad",
+        "country": "Serbia",
+        "url": "https://streaming.tdiradio.com/tdiradionovisad.mp3"
+    },
+    {
+        "name": "Srce Krajine",
+        "city": "Novi Sad",
+        "country": "Serbia",
+        "url": "https://srv.mediastriming.com/8330/stream"
+    },
+    {
+        "name": "Sunradio.co",
+        "city": "Novi Sad",
+        "country": "Serbia",
+        "url": "https://n01.radiojar.com/4qawu2xta2zuv.mp3?rj-ttl=5&rj-tok=AAABm_naMNAAKYTuHY9B-QldfQ"
+    },
+    {
+        "name": "BANKER Caffe Radio",
+        "city": "Niš",
+        "country": "Serbia",
+        "url": "https://bankercafe-naxinacional.streaming.rs:8617/;stream.nsv"
+    },
+    {
+        "name": "Belle Amie 100.7 FM",
+        "city": "Niš",
+        "country": "Serbia",
+        "url": "http://92.60.239.23:8000/index.html?sid=1"
+    },
+    {
+        "name": "Radio IN 95.6 FM",
+        "city": "Niš",
+        "country": "Serbia",
+        "url": "https://radioinnis-naxinacional.streaming.rs:8622/;stream.nsv"
+    },
+    {
+        "name": "Original Fast Radio",
+        "city": "Niš",
+        "country": "Serbia",
+        "url": "https://az-de-01.worldradiobeat.com/listen/originalfastradio/live"
+    },
+    {
+        "name": "Radio Sunset",
+        "city": "Niš",
+        "country": "Serbia",
+        "url": "https://cmr-hosting.com/8425/stream"
+    },
+    {
+        "name": "Delfin Radio FM 100.2",
+        "city": "Niš",
+        "country": "Serbia",
+        "url": "http://s3.voscast.com:9210/index.html?sid=1"
+    },
+    {
+        "name": "Naxi Plus Radio 103.3 FM",
+        "city": "Niš",
+        "country": "Serbia",
+        "url": "https://naxipluspirot-naxinacional.streaming.rs:8632/"
+    },
+    {
+        "name": "Nisville Online Radio",
+        "city": "Niš",
+        "country": "Serbia",
+        "url": "https://radio.nisville.com/listen/live/live"
+    },
+    {
+        "name": "Radio Šljivovica Kraljevo",
+        "city": "Kraljevo",
+        "country": "Serbia",
+        "url": "https://stream.iradio.pro/proxy/radiosljivovica?mp=/stream"
+    },
+    {
+        "name": "RSG Relax",
+        "city": "Kraljevo",
+        "country": "Serbia",
+        "url": "http://stream.rsg.rs:8063/listen.pls/"
+    },
+    {
+        "name": "Radio Marija Srbija",
+        "city": "Subotica",
+        "country": "Serbia",
+        "url": "http://dreamsiteradiocp.com:8012/stream"
+    },
+    {
+        "name": "MAX FM 98.4",
+        "city": "Kraljevo",
+        "country": "Serbia",
+        "url": "https://stream.radiodak.rs/maxfm"
+    },
+    {
+        "name": "Pannon Rádió FM 91.5",
+        "city": "Subotica",
+        "country": "Serbia",
+        "url": "http://stream2.nmih.hu:4120/live.mp3/"
+    },
+    {
+        "name": "K-One",
+        "city": "Kraljevo",
+        "country": "Serbia",
+        "url": "https://radio.en.rs/radio/8020/radio.mp3"
+    },
+    {
+        "name": "Radio 35 Folk",
+        "city": "Niš",
+        "country": "Serbia",
+        "url": "https://stream.astrasv.net:8030/radio.mp3"
+    },
+    {
+        "name": "LovaLova radio",
+        "city": "Subotica",
+        "country": "Serbia",
+        "url": "https://stream.iradio.pro/proxy/lovalovaradio?mp=%2Fstream"
+    },
+    {
+        "name": "Radio 99.6 FM Gradski Radio",
+        "city": "Kraljevo",
+        "country": "Serbia",
+        "url": "https://radio.en.rs/radio/8000/radio.mp3"
+    },
+    {
+        "name": "Radio Melos 107.0 FM",
+        "city": "Kraljevo",
+        "country": "Serbia",
+        "url": "https://radio.en.rs/listen/radio-melos-kraljevo/radiomelos.mp3"
+    },
+    {
+        "name": "Lipa Kraj Morave",
+        "city": "Kraljevo",
+        "country": "Serbia",
+        "url": "https://radio.dukahosting.com:7006/index.html?sid=1"
+    },
+    {
+        "name": "Prvi Radio 103.0 FM",
+        "city": "Subotica",
+        "country": "Serbia",
+        "url": "https://prvionairsubotica-masterasfm.radioca.st/stream"
+    },
+    {
+        "name": "Yueco Radio",
+        "city": "Subotica",
+        "country": "Serbia",
+        "url": "https://s1.skeletor.rs/yueco"
+    },
+    {
+        "name": "Radio Bijelo Polje FM 95.5",
+        "city": "Užice",
+        "country": "Serbia",
+        "url": "http://136.243.134.202:8122/stream"
+    },
+    {
+        "name": "Deja Vu Radio",
+        "city": "Subotica",
+        "country": "Serbia",
+        "url": "https://adas.dejavuradio.hu:8178/dejavuradio"
+    },
+    {
+        "name": "Rádió Smile FM 89.9",
+        "city": "Subotica",
+        "country": "Serbia",
+        "url": "https://smile.str.42net.hu/stream/"
+    },
+    {
+        "name": "Radio Plac",
+        "city": "Subotica",
+        "country": "Serbia",
+        "url": "https://radio.ckplac.org/listen/radio_plac/radio.mp3"
+    },
+    {
+        "name": "Radio Ada 107.7 FM",
+        "city": "Subotica",
+        "country": "Serbia",
+        "url": "https://acp.adiswitch.com/proxy/radioada/stream"
+    },
+    {
+        "name": "Radio Sloboda 87.6 FM",
+        "city": "Kraljevo",
+        "country": "Serbia",
+        "url": "https://audio.slobodafm.com/listen/radio_sloboda//radio.mp3"
+    },
+    {
+        "name": "Zlatiborski 106 Radio",
+        "city": "Užice",
+        "country": "Serbia",
+        "url": "http://213.239.205.210:8082/;*.mp3"
+    },
+    {
+        "name": "Halas Rádió FM 92.9",
+        "city": "Subotica",
+        "country": "Serbia",
+        "url": "https://halas.str.42net.hu/stream"
+    },
+    {
+        "name": "Prvi Radio Uzice FM 98.7",
+        "city": "Užice",
+        "country": "Serbia",
+        "url": "https://prvionairuzice-masterasfm.radioca.st/stream"
+    },
+    {
+        "name": "Naš MM Radio 97.8 FM",
+        "city": "Subotica",
+        "country": "Serbia",
+        "url": "https://radio.dukahosting.com:7045/index.html?sid=1"
+    },
+    {
+        "name": "Radio Užice",
+        "city": "Užice",
+        "country": "Serbia",
+        "url": "https://uzice.yunethosting.net/stream"
+    },
+    {
+        "name": "Radio DAK 101.5 FM",
+        "city": "Jagodina",
+        "country": "Serbia",
+        "url": "https://stream.radiodak.rs/radiodak"
+    },
+    {
+        "name": "Radio Feral",
+        "city": "Loznica",
+        "country": "Serbia",
+        "url": "http://185.50.56.3/"
+    },
+    {
+        "name": "TDI Radio - Cacak",
+        "city": "Užice",
+        "country": "Serbia",
+        "url": "https://streaming.tdiradio.com/tdiradiocacak.mp3"
+    },
+    {
+        "name": "Radio Relax Ue",
+        "city": "Užice",
+        "country": "Serbia",
+        "url": "https://radiorelaxue.radioca.st/stream"
+    },
+    {
+        "name": "Radio Slon 89 FM",
+        "city": "Loznica",
+        "country": "Serbia",
+        "url": "http://31.47.0.130:88/broadwavehigh.mp3?src=1;"
+    },
+    {
+        "name": "Radio Gong FM 93.5",
+        "city": "Jagodina",
+        "country": "Serbia",
+        "url": "https://mojaudio.stream/proxy/gongradio/stream"
+    },
+    {
+        "name": "Radio Morava FM 91.9",
+        "city": "Jagodina",
+        "country": "Serbia",
+        "url": "https://e3.radiomorava.rs/radio/8000/radiomorava128.mp3"
+    },
+    {
+        "name": "Resavski Radio FM 88.0",
+        "city": "Jagodina",
+        "country": "Serbia",
+        "url": "https://e3.radiomorava.rs/radio/8010/resavskiradio128.mp3"
+    },
+    {
+        "name": "RSG Top 44",
+        "city": "Kragujevac",
+        "country": "Serbia",
+        "url": "http://stream.rsg.rs:8053/listen.pls/?1570902386953.mp3"
+    },
+    {
+        "name": "Radio 34",
+        "city": "Kragujevac",
+        "country": "Serbia",
+        "url": "http://stream.radio34.rs:8889/stream"
+    },
+    {
+        "name": "Radio Podrinje 97.8 FM",
+        "city": "Loznica",
+        "country": "Serbia",
+        "url": "https://s1.skeletor.rs/podrinje"
+    },
+    {
+        "name": "Radio Glas Drine",
+        "city": "Loznica",
+        "country": "Serbia",
+        "url": "http://158.69.119.6:8014/stream"
+    },
+    {
+        "name": "Radio Brčko Distrikt",
+        "city": "Loznica",
+        "country": "Serbia",
+        "url": "http://91.191.0.45:8000/index.html?sid=1"
+    },
+    {
+        "name": "RSG FM 104.3",
+        "city": "Jagodina",
+        "country": "Serbia",
+        "url": "https://stream.rsg.rs/live/"
+    },
+    {
+        "name": "Radio Lotel FM 107.4",
+        "city": "Loznica",
+        "country": "Serbia",
+        "url": "https://s1.skeletor.rs/lotel"
+    },
+    {
+        "name": "San Radio FM 95.0",
+        "city": "Loznica",
+        "country": "Serbia",
+        "url": "https://s1.skeletor.rs/san"
+    },
+    {
+        "name": "TDI Radio - Kragujevac",
+        "city": "Kragujevac",
+        "country": "Serbia",
+        "url": "https://streaming.tdiradio.com/tdiradiokragujevac.mp3"
+    },
+    {
+        "name": "Radio Gama 96.7 FM",
+        "city": "Zaječar",
+        "country": "Serbia",
+        "url": "http://g5.turbohost.eu:8003/gama128"
+    },
+    {
+        "name": "MEGA Radio",
+        "city": "Zrenjanin",
+        "country": "Serbia",
+        "url": "http://netradio.burina.net:8000/mega"
+    },
+    {
+        "name": "Radio Galaxy FM 89.3",
+        "city": "Lazarevac",
+        "country": "Serbia",
+        "url": "http://cast2.my-control-panel.com:8210/stream"
+    },
+    {
+        "name": "Magnum FM 103",
+        "city": "Zaječar",
+        "country": "Serbia",
+        "url": "https://magnum.web-srbija.net/"
+    },
+    {
+        "name": "Radio Galaxy 100.6 FM",
+        "city": "Zaječar",
+        "country": "Serbia",
+        "url": "http://185.128.240.236:8000/galaxy"
+    },
+    {
+        "name": "Radio Zrenjanin 103.6 FM",
+        "city": "Zrenjanin",
+        "country": "Serbia",
+        "url": "https://radio.dukahosting.com:7031/index.html?sid=1"
+    },
+    {
+        "name": "Radio Glas nade",
+        "city": "Zrenjanin",
+        "country": "Serbia",
+        "url": "https://radio.glasnade.com:7999/rgn1"
+    },
+    {
+        "name": "Radio Puls FM 88.7",
+        "city": "Lazarevac",
+        "country": "Serbia",
+        "url": "https://stream.iradio.pro/proxy/radiopuls?mp=/stream/;*.mp3"
+    },
+    {
+        "name": "Op-Top FM 106.4",
+        "city": "Lazarevac",
+        "country": "Serbia",
+        "url": "https://mojaudio.stream/proxy/optopitd/stream"
+    },
+    {
+        "name": "Kiss FM",
+        "city": "Lazarevac",
+        "country": "Serbia",
+        "url": "https://cast2.my-control-panel.com/proxy/kissdoog/stream"
+    },
+    {
+        "name": "Radio Levač FM 90.3",
+        "city": "Rekovac",
+        "country": "Serbia",
+        "url": "https://mojaudio.stream/proxy/radiolevac/stream"
+    },
+    {
+        "name": "Radio Song",
+        "city": "Rekovac",
+        "country": "Serbia",
+        "url": "https://mojaudio.stream/proxy/radiosong/stream"
+    },
+    {
+        "name": "Radio 014 98.2 FM",
+        "city": "Valjevo",
+        "country": "Serbia",
+        "url": "https://stream.iradio.pro/proxy/014radio?mp=/stream"
+    },
+    {
+        "name": "Radio Istočnik",
+        "city": "Valjevo",
+        "country": "Serbia",
+        "url": "https://streaming.shoutcast.com/radioistocnik-"
+    },
+    {
+        "name": "TDI Radio - Bor",
+        "city": "Zaječar",
+        "country": "Serbia",
+        "url": "https://streaming.tdiradio.com/tdiradiobor.mp3"
+    },
+    {
+        "name": "Omnibus Youth Radio",
+        "city": "Pancevo",
+        "country": "Serbia",
+        "url": "http://185.102.77.154:8000/stream.mp3"
+    },
+    {
+        "name": "Radio Kiss 92.2 FM",
+        "city": "Novi Pazar",
+        "country": "Serbia",
+        "url": "http://cast.oblak.in:9515/;*.mp3"
+    },
+    {
+        "name": "Radio Drenasi",
+        "city": "Novi Pazar",
+        "country": "Serbia",
+        "url": "http://213.163.109.13:8010/index.html?sid=1"
+    },
+    {
+        "name": "Radio Santos FM 105.9",
+        "city": "Zrenjanin",
+        "country": "Serbia",
+        "url": "https://radio.simplecloud.rs:8311/index.html?sid=1"
+    },
+    {
+        "name": "Požega Radio FM 94.7",
+        "city": "Požega",
+        "country": "Serbia",
+        "url": "https://radio.dukahosting.com:7033/index.html?sid=1"
+    },
+    {
+        "name": "Tempo Naxi radio",
+        "city": "Zaječar",
+        "country": "Serbia",
+        "url": "https://tempo.ipradio.rs:9034/;stream.mp3"
+    },
+    {
+        "name": "Dah provincije",
+        "city": "Požega",
+        "country": "Serbia",
+        "url": "https://radio.dukahosting.com/8016/stream"
+    },
+    {
+        "name": "Radio Alba FM 91.2",
+        "city": "Novi Pazar",
+        "country": "Serbia",
+        "url": "http://server.radioalba.eu:8000/stream/"
+    },
+    {
+        "name": "Radio 1 98.0 FM",
+        "city": "Novi Pazar",
+        "country": "Serbia",
+        "url": "https://ec6.yesstreaming.net:3430/stream"
+    },
+    {
+        "name": "Radio Sto Plus FM 100.6",
+        "city": "Novi Pazar",
+        "country": "Serbia",
+        "url": "https://radiostoplus.ipradio.rs:9000/index.html?sid=1"
+    },
+    {
+        "name": "Radio Pancevo 92.1 FM",
+        "city": "Pancevo",
+        "country": "Serbia",
+        "url": "https://s29.myradiostream.com:16654/listen.mp3?nocache=1769422796"
+    },
+    {
+        "name": "Bajai Rádió FM 89.8",
+        "city": "Sombor",
+        "country": "Serbia",
+        "url": "https://s03.diazol.hu:7002/live.mp3"
+    },
+    {
+        "name": "Tamburaški radio",
+        "city": "Sombor",
+        "country": "Serbia",
+        "url": "https://listen.radioking.com/radio/552965/stream/612287"
+    },
+    {
+        "name": "BB Radio 89.7 FM",
+        "city": "Sombor",
+        "country": "Serbia",
+        "url": "https://mhpanel.mediahosting025.com/radio/8383/;/stream"
+    }
+]

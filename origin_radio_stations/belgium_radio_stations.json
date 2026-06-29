@@ -1,0 +1,1632 @@
+[
+  {
+    "id": "belgium-tradcan",
+    "name": "TradCan",
+    "url": "http://84.16.232.202:7284/stream",
+    "genre": "Music",
+    "city": "Brussels",
+    "country": "Belgium",
+    "lat": 50.8467372,
+    "lng": 4.352493
+  },
+  {
+    "id": "belgium-rcf-bruxelles",
+    "name": "RCF Bruxelles",
+    "url": "https://rcf.streamakaci.com/rcfbruxelles.mp3",
+    "genre": "Music",
+    "city": "Brussels",
+    "country": "Belgium",
+    "lat": 50.8467372,
+    "lng": 4.352493
+  },
+  {
+    "id": "belgium-radio-rivierenland-fm-1049",
+    "name": "Radio Rivierenland FM 104.9",
+    "url": "http://randstad.wirelessbelgie.be:8334/;;",
+    "genre": "Music",
+    "city": "Brussels",
+    "country": "Belgium",
+    "lat": 50.8467372,
+    "lng": 4.352493
+  },
+  {
+    "id": "belgium-rtbf-la-1ere",
+    "name": "RTBF La 1ère",
+    "url": "https://redbeemedia.streamabc.net/redbm-lapremiere-aac-128-7561067",
+    "genre": "Music",
+    "city": "Brussels",
+    "country": "Belgium",
+    "lat": 50.8467372,
+    "lng": 4.352493
+  },
+  {
+    "id": "belgium-stadsradio-fm-1056",
+    "name": "Stadsradio FM 105.6",
+    "url": "https://mscp2.live-streams.nl:8132/live",
+    "genre": "Music",
+    "city": "Brussels",
+    "country": "Belgium",
+    "lat": 50.8467372,
+    "lng": 4.352493
+  },
+  {
+    "id": "belgium-radio-tamara",
+    "name": "Radio Tamara",
+    "url": "http://audiostreamen.nl:8006/index.html?sid=1",
+    "genre": "Music",
+    "city": "Brussels",
+    "country": "Belgium",
+    "lat": 50.8467372,
+    "lng": 4.352493
+  },
+  {
+    "id": "belgium-bxfm",
+    "name": "BXFM",
+    "url": "https://bxfmradio.ice.infomaniak.ch/bxfmradio-192.mp3",
+    "genre": "Music",
+    "city": "Brussels",
+    "country": "Belgium",
+    "lat": 50.8467372,
+    "lng": 4.352493
+  },
+  {
+    "id": "belgium-radio-emotion",
+    "name": "Radio Emotion",
+    "url": "https://azura.radioemotion.be/listen/live/1",
+    "genre": "Music",
+    "city": "Brussels",
+    "country": "Belgium",
+    "lat": 50.8467372,
+    "lng": 4.352493
+  },
+  {
+    "id": "belgium-radio-vibration",
+    "name": "Radio Vibration",
+    "url": "https://vibrationbelgique.ice.infomaniak.ch/vibrationbelgique-high.mp3",
+    "genre": "Music",
+    "city": "Brussels",
+    "country": "Belgium",
+    "lat": 50.8467372,
+    "lng": 4.352493
+  },
+  {
+    "id": "belgium-rtbf-vivacite-bruxelles",
+    "name": "RTBF Vivacité Bruxelles",
+    "url": "https://redbeemedia.streamabc.net/redbm-vivabxl-mp3-160-6153830?sABC=6977283p%230%2375p922pr1rq3nr63r4683s5131rr6q39%23et&aw_0_1st.playerid=rg&amsparams=playerid:rg;skey:1769416764",
+    "genre": "Music",
+    "city": "Brussels",
+    "country": "Belgium",
+    "lat": 50.8467372,
+    "lng": 4.352493
+  },
+  {
+    "id": "belgium-rtbf-classic-21",
+    "name": "RTBF Classic 21",
+    "url": "https://redbeemedia.streamabc.net/redbm-classic21-mp3-160-3491794?sABC=6977283p%230%23nqoro4np7ns3rrpo06s1o0rn3s261pss%23et&aw_0_1st.playerid=rg&amsparams=playerid:rg;skey:1769416764",
+    "genre": "Music",
+    "city": "Brussels",
+    "country": "Belgium",
+    "lat": 50.8467372,
+    "lng": 4.352493
+  },
+  {
+    "id": "belgium-qmusic--all-stars",
+    "name": "Qmusic - All Stars",
+    "url": "https://icecast-qmusicbe-cdp.triple-it.nl/q-allstars.aac",
+    "genre": "Music",
+    "city": "Brussels",
+    "country": "Belgium",
+    "lat": 50.8467372,
+    "lng": 4.352493
+  },
+  {
+    "id": "belgium-nrj-belgië",
+    "name": "NRJ België",
+    "url": "https://29103.live.streamtheworld.com:443/NRJBELGIE.mp3?dist=radio-garden",
+    "genre": "Music",
+    "city": "Antwerp",
+    "country": "Belgium",
+    "lat": 51.2211097,
+    "lng": 4.3997081
+  },
+  {
+    "id": "belgium-fun-radio-belgique",
+    "name": "Fun Radio Belgique",
+    "url": "https://funradiobe.ice.infomaniak.ch/funradiobe-high.mp3?.mp3",
+    "genre": "Music",
+    "city": "Brussels",
+    "country": "Belgium",
+    "lat": 50.8467372,
+    "lng": 4.352493
+  },
+  {
+    "id": "belgium-mint",
+    "name": "Mint",
+    "url": "https://mint.ice.infomaniak.ch/mint-mp3-192.mp3",
+    "genre": "Music",
+    "city": "Brussels",
+    "country": "Belgium",
+    "lat": 50.8467372,
+    "lng": 4.352493
+  },
+  {
+    "id": "belgium-bel-rtl",
+    "name": "Bel RTL",
+    "url": "https://belrtl.ice.infomaniak.ch/belrtl-mp3-192.mp3",
+    "genre": "Music",
+    "city": "Brussels",
+    "country": "Belgium",
+    "lat": 50.8467372,
+    "lng": 4.352493
+  },
+  {
+    "id": "belgium-nostalgie-belgique",
+    "name": "Nostalgie Belgique",
+    "url": "https://n12.rcs.revma.com/r3cprzsqtg0uv?rj-ttl=5&rj-tok=AAABm_l-Un0Ax_aW1GX-xC06MA",
+    "genre": "Music",
+    "city": "Brussels",
+    "country": "Belgium",
+    "lat": 50.8467372,
+    "lng": 4.352493
+  },
+  {
+    "id": "belgium-fg-xtra",
+    "name": "FG Xtra",
+    "url": "https://n16.rcs.revma.com/w33p2cfap98uv?rj-ttl=5&rj-tok=AAABm_l-UnQAj7SJZBrFKgt25A",
+    "genre": "Music",
+    "city": "Antwerp",
+    "country": "Belgium",
+    "lat": 51.2211097,
+    "lng": 4.3997081
+  },
+  {
+    "id": "belgium-radio-minerva",
+    "name": "Radio Minerva",
+    "url": "https://streaming.radiominerva.be/minerva",
+    "genre": "Music",
+    "city": "Antwerp",
+    "country": "Belgium",
+    "lat": 51.2211097,
+    "lng": 4.3997081
+  },
+  {
+    "id": "belgium-radio-expres-1054-fm",
+    "name": "Radio Expres 105.4 FM",
+    "url": "https://www.clubfmserver.be/expres.mp3",
+    "genre": "Music",
+    "city": "Antwerp",
+    "country": "Belgium",
+    "lat": 51.2211097,
+    "lng": 4.3997081
+  },
+  {
+    "id": "belgium-we-are-various",
+    "name": "We Are Various",
+    "url": "https://azuracast.wearevarious.com/listen/we_are_various/live.mp3",
+    "genre": "Music",
+    "city": "Antwerp",
+    "country": "Belgium",
+    "lat": 51.2211097,
+    "lng": 4.3997081
+  },
+  {
+    "id": "belgium-soundtrack-fm",
+    "name": "Soundtrack FM",
+    "url": "https://ais6.live-streams.nl:18033/soundtrackfm",
+    "genre": "Music",
+    "city": "Antwerp",
+    "country": "Belgium",
+    "lat": 51.2211097,
+    "lng": 4.3997081
+  },
+  {
+    "id": "belgium-radio-centraal",
+    "name": "Radio Centraal",
+    "url": "https://streams.movemedia.eu/centraal",
+    "genre": "Music",
+    "city": "Antwerp",
+    "country": "Belgium",
+    "lat": 51.2211097,
+    "lng": 4.3997081
+  },
+  {
+    "id": "belgium-vrt-studio-brussel",
+    "name": "VRT Studio Brussel",
+    "url": "https://vrt.streamabc.net/vrt-studiobrussel-mp3-128-4409118?sABC=6977283q%230%23nqoro4np7ns3rrpo06s1o0rn3s261pss%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1769416765",
+    "genre": "Music",
+    "city": "Brussels",
+    "country": "Belgium",
+    "lat": 50.8467372,
+    "lng": 4.352493
+  },
+  {
+    "id": "belgium-vrt-radio-1",
+    "name": "VRT Radio 1",
+    "url": "https://vrt.streamabc.net/vrt-radio1-mp3-128-9751183?sABC=6977283q%230%2375p922pr1rq3nr63r4683s5131rr6q39%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1769416765",
+    "genre": "Music",
+    "city": "Brussels",
+    "country": "Belgium",
+    "lat": 50.8467372,
+    "lng": 4.352493
+  },
+  {
+    "id": "belgium-willy",
+    "name": "Willy",
+    "url": "https://icecast-qmusicbe-cdp.triple-it.nl/willy.aac",
+    "genre": "Music",
+    "city": "Antwerp",
+    "country": "Belgium",
+    "lat": 51.2211097,
+    "lng": 4.3997081
+  },
+  {
+    "id": "belgium-radio-park-fm",
+    "name": "Radio Park FM",
+    "url": "https://streams.movemedia.eu/parkfm",
+    "genre": "Music",
+    "city": "Antwerp",
+    "country": "Belgium",
+    "lat": 51.2211097,
+    "lng": 4.3997081
+  },
+  {
+    "id": "belgium-c-dance-retro",
+    "name": "C-Dance Retro",
+    "url": "https://s45.myradiostream.com/:18304/index.html?sid=1",
+    "genre": "Music",
+    "city": "Antwerp",
+    "country": "Belgium",
+    "lat": 51.2211097,
+    "lng": 4.3997081
+  },
+  {
+    "id": "belgium-nostalgie-vlaanderen",
+    "name": "Nostalgie Vlaanderen",
+    "url": "https://23613.live.streamtheworld.com:443/NOSTALGIEWHATAFEELING.mp3?dist=radio_garden",
+    "genre": "Music",
+    "city": "Antwerp",
+    "country": "Belgium",
+    "lat": 51.2211097,
+    "lng": 4.3997081
+  },
+  {
+    "id": "belgium-radio-stad-1078-fm",
+    "name": "Radio Stad 107.8 FM",
+    "url": "https://n04.rcs.revma.com/rn6ppyyfs18uv?rj-ttl=5&rj-tok=AAABm_l-WmYAd4r8dyV6eTDZ3A",
+    "genre": "Music",
+    "city": "Antwerp",
+    "country": "Belgium",
+    "lat": 51.2211097,
+    "lng": 4.3997081
+  },
+  {
+    "id": "belgium-vrt-radio-2-antwerpen",
+    "name": "VRT Radio 2 Antwerpen",
+    "url": "https://vrt.streamabc.net/vrt-radio2antwerpen-mp3-128-8732799?sABC=6977283r%230%23nqoro4np7ns3rrpo06s1o0rn3s261pss%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1769416766",
+    "genre": "Music",
+    "city": "Antwerp",
+    "country": "Belgium",
+    "lat": 51.2211097,
+    "lng": 4.3997081
+  },
+  {
+    "id": "belgium-rtbf-classic-21-70s",
+    "name": "RTBF Classic 21 70's",
+    "url": "https://redbeemedia.streamabc.net/redbm-c2170s-mp3-128-5029552?sABC=6977283s%230%2375p922pr1rq3nr63r4683s5131rr6q39%23et&aw_0_1st.playerid=rg&amsparams=playerid:rg;skey:1769416767",
+    "genre": "Music",
+    "city": "Mons",
+    "country": "Belgium",
+    "lat": 50.4549568,
+    "lng": 3.951958
+  },
+  {
+    "id": "belgium-m-radio-fm-999",
+    "name": "M Radio FM 99.9",
+    "url": "https://mradio2.ice.infomaniak.ch/mradio.mp3",
+    "genre": "Music",
+    "city": "Mons",
+    "country": "Belgium",
+    "lat": 50.4549568,
+    "lng": 3.951958
+  },
+  {
+    "id": "belgium-rtbf-classic-21-90s",
+    "name": "RTBF Classic 21 90's",
+    "url": "https://redbeemedia.streamabc.net/redbm-c2190s-mp3-128-2477505?sABC=69772840%230%2375p922pr1rq3nr63r4683s5131rr6q39%23et&aw_0_1st.playerid=rg&amsparams=playerid:rg;skey:1769416768",
+    "genre": "Music",
+    "city": "Mons",
+    "country": "Belgium",
+    "lat": 50.4549568,
+    "lng": 3.951958
+  },
+  {
+    "id": "belgium-radio-totaal-fm-1059",
+    "name": "Radio Totaal FM 105.9",
+    "url": "http://lstn.pabenelux.com/listen/radio_totaal/radiototaal.mp3",
+    "genre": "Music",
+    "city": "Antwerp",
+    "country": "Belgium",
+    "lat": 51.2211097,
+    "lng": 4.3997081
+  },
+  {
+    "id": "belgium-afn-benelux-the-eagle-1065-fm",
+    "name": "AFN Benelux The Eagle 106.5 FM",
+    "url": "https://29103.live.streamtheworld.com:443/AFNE_BLXAAC.aac",
+    "genre": "Music",
+    "city": "Mons",
+    "country": "Belgium",
+    "lat": 50.4549568,
+    "lng": 3.951958
+  },
+  {
+    "id": "belgium-rtbf-classic-21-80s",
+    "name": "RTBF CLassic 21 80's",
+    "url": "https://redbeemedia.streamabc.net/redbm-c2180s-mp3-128-4795946?sABC=69772840%230%2375p922pr1rq3nr63r4683s5131rr6q39%23et&aw_0_1st.playerid=rg&amsparams=playerid:rg;skey:1769416768",
+    "genre": "Music",
+    "city": "Mons",
+    "country": "Belgium",
+    "lat": 50.4549568,
+    "lng": 3.951958
+  },
+  {
+    "id": "belgium-rtbf-viva+",
+    "name": "RTBF Viva+",
+    "url": "https://redbeemedia.streamabc.net/redbm-vivaplus-mp3-160-4904728?sABC=69772841%230%2375p922pr1rq3nr63r4683s5131rr6q39%23et&aw_0_1st.playerid=rg&amsparams=playerid:rg;skey:1769416769",
+    "genre": "Music",
+    "city": "Mons",
+    "country": "Belgium",
+    "lat": 50.4549568,
+    "lng": 3.951958
+  },
+  {
+    "id": "belgium-rtbf-classic-21-blues",
+    "name": "RTBF Classic 21 Blues",
+    "url": "https://redbeemedia.streamabc.net/redbm-c21blues-mp3-128-1873260?sABC=69772841%230%23nqoro4np7ns3rrpo06s1o0rn3s261pss%23et&aw_0_1st.playerid=rg&amsparams=playerid:rg;skey:1769416769",
+    "genre": "Music",
+    "city": "Mons",
+    "country": "Belgium",
+    "lat": 50.4549568,
+    "lng": 3.951958
+  },
+  {
+    "id": "belgium-rtbf-classic-21-80s-new-wave",
+    "name": "RTBF Classic 21 80's New wave",
+    "url": "https://redbeemedia.streamabc.net/redbm-c2180snw-mp3-128-2391383?sABC=69772841%230%2375p922pr1rq3nr63r4683s5131rr6q39%23et&aw_0_1st.playerid=rg&amsparams=playerid:rg;skey:1769416769",
+    "genre": "Music",
+    "city": "Mons",
+    "country": "Belgium",
+    "lat": 50.4549568,
+    "lng": 3.951958
+  },
+  {
+    "id": "belgium-radio-mig",
+    "name": "Radio MIG",
+    "url": "https://cast1.torontocast.com:2645/stream",
+    "genre": "Music",
+    "city": "Mons",
+    "country": "Belgium",
+    "lat": 50.4549568,
+    "lng": 3.951958
+  },
+  {
+    "id": "belgium-rtbf-vivacite-hainaut",
+    "name": "RTBF Vivacité Hainaut",
+    "url": "https://redbeemedia.streamabc.net/redbm-vivahainaut-mp3-160-7241229?sABC=69772840%230%23nqoro4np7ns3rrpo06s1o0rn3s261pss%23et&aw_0_1st.playerid=rg&amsparams=playerid:rg;skey:1769416768",
+    "genre": "Music",
+    "city": "Mons",
+    "country": "Belgium",
+    "lat": 50.4549568,
+    "lng": 3.951958
+  },
+  {
+    "id": "belgium-max-fm-929",
+    "name": "Max FM 92.9",
+    "url": "https://direct.maxfm.be:8000/maxfm",
+    "genre": "Music",
+    "city": "Mons",
+    "country": "Belgium",
+    "lat": 50.4549568,
+    "lng": 3.951958
+  },
+  {
+    "id": "belgium-radio-victoria",
+    "name": "Radio Victoria",
+    "url": "https://shoutcast.radiovictoria.be/;stream/1",
+    "genre": "Music",
+    "city": "Mons",
+    "country": "Belgium",
+    "lat": 50.4549568,
+    "lng": 3.951958
+  },
+  {
+    "id": "belgium-joe--10-om-te-zien",
+    "name": "JOE - 10 Om Te Zien",
+    "url": "https://icecast-qmusicbe-cdp.triple-it.nl/joe_lage_landen.aac",
+    "genre": "Music",
+    "city": "Vilvoorde",
+    "country": "Belgium",
+    "lat": 50.928711,
+    "lng": 4.423126
+  },
+  {
+    "id": "belgium-radio-roya",
+    "name": "Radio Roya",
+    "url": "https://server-26.stream-server.nl:18632/stream",
+    "genre": "Music",
+    "city": "Bruges",
+    "country": "Belgium",
+    "lat": 51.2085526,
+    "lng": 3.226772
+  },
+  {
+    "id": "belgium-phare-fm",
+    "name": "Phare FM",
+    "url": "https://str0.creacast.com/pharefm_mons?.mp3",
+    "genre": "Music",
+    "city": "Mons",
+    "country": "Belgium",
+    "lat": 50.4549568,
+    "lng": 3.951958
+  },
+  {
+    "id": "belgium-joe--80s-90s",
+    "name": "JOE - 80's 90's",
+    "url": "https://icecast-qmusicbe-cdp.triple-it.nl/joe_80s_90s.aac",
+    "genre": "Music",
+    "city": "Vilvoorde",
+    "country": "Belgium",
+    "lat": 50.928711,
+    "lng": 4.423126
+  },
+  {
+    "id": "belgium-joe--top-2000",
+    "name": "JOE - Top 2000",
+    "url": "https://icecast-qmusicbe-cdp.triple-it.nl/joe_top2000.aac",
+    "genre": "Music",
+    "city": "Vilvoorde",
+    "country": "Belgium",
+    "lat": 50.928711,
+    "lng": 4.423126
+  },
+  {
+    "id": "belgium-radio-meteor",
+    "name": "Radio Meteor",
+    "url": "https://streams.movemedia.eu/meteor",
+    "genre": "Music",
+    "city": "Bruges",
+    "country": "Belgium",
+    "lat": 51.2085526,
+    "lng": 3.226772
+  },
+  {
+    "id": "belgium-qmusic",
+    "name": "Qmusic",
+    "url": "https://icecast-qmusicbe-cdp.triple-it.nl/qmusic.aac",
+    "genre": "Music",
+    "city": "Vilvoorde",
+    "country": "Belgium",
+    "lat": 50.928711,
+    "lng": 4.423126
+  },
+  {
+    "id": "belgium-cabaret-del-diavolo",
+    "name": "Cabaret Del Diavolo",
+    "url": "https://stream-179.zeno.fm/f9bd6n2k7yzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJmOWJkNm4yazd5enV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiYzJ1b05lVmVUY3FfNkJmRGlKSjJndyIsImlhdCI6MTc2OTQxNjc3MSwiZXhwIjoxNzY5NDE2ODMxfQ.t3Jj9Me2h6m132MerfknkHDRM8_4UnQoOIbAvy7Oruo",
+    "genre": "Music",
+    "city": "Vilvoorde",
+    "country": "Belgium",
+    "lat": 50.928711,
+    "lng": 4.423126
+  },
+  {
+    "id": "belgium-radio-oost-west",
+    "name": "Radio Oost West",
+    "url": "https://icecast.movemedia.be/oostwest",
+    "genre": "Music",
+    "city": "Bruges",
+    "country": "Belgium",
+    "lat": 51.2085526,
+    "lng": 3.226772
+  },
+  {
+    "id": "belgium-vbro-1073-fm",
+    "name": "VBRO 107.3 FM",
+    "url": "https://streams.radiohuis.com/vbro",
+    "genre": "Music",
+    "city": "Bruges",
+    "country": "Belgium",
+    "lat": 51.2085526,
+    "lng": 3.226772
+  },
+  {
+    "id": "belgium-vbro-plus",
+    "name": "VBRO Plus",
+    "url": "https://streams.radiohuis.com/VBROPLUS",
+    "genre": "Music",
+    "city": "Bruges",
+    "country": "Belgium",
+    "lat": 51.2085526,
+    "lng": 3.226772
+  },
+  {
+    "id": "belgium-youfm",
+    "name": "YouFM",
+    "url": "https://youfm.ice.infomaniak.ch/youfm-96.mp3",
+    "genre": "Music",
+    "city": "Mons",
+    "country": "Belgium",
+    "lat": 50.4549568,
+    "lng": 3.951958
+  },
+  {
+    "id": "belgium-qmusic",
+    "name": "Qmusic",
+    "url": "https://29083.live.streamtheworld.com:443/QMUSIC.mp3",
+    "genre": "Music",
+    "city": "Vilvoorde",
+    "country": "Belgium",
+    "lat": 50.928711,
+    "lng": 4.423126
+  },
+  {
+    "id": "belgium-radio-iro",
+    "name": "Radio I.R.O.",
+    "url": "http://stadsradio-iro.be:3001/index.html?sid=1",
+    "genre": "Music",
+    "city": "Bruges",
+    "country": "Belgium",
+    "lat": 51.2085526,
+    "lng": 3.226772
+  },
+  {
+    "id": "belgium-trans-world-radio",
+    "name": "Trans World Radio",
+    "url": "https://twrbe.out.airtime.pro/twrbe_a",
+    "genre": "Music",
+    "city": "Bruges",
+    "country": "Belgium",
+    "lat": 51.2085526,
+    "lng": 3.226772
+  },
+  {
+    "id": "belgium-vbro-2-brugse-radio",
+    "name": "VBRO 2 Brugse Radio",
+    "url": "https://streams.radiohuis.com/vbro2",
+    "genre": "Music",
+    "city": "Bruges",
+    "country": "Belgium",
+    "lat": 51.2085526,
+    "lng": 3.226772
+  },
+  {
+    "id": "belgium-mi-amigo-40",
+    "name": "Mi Amigo 40",
+    "url": "https://s19.myradiostream.com:18068/listen.mp3?nocache=1769416772",
+    "genre": "Music",
+    "city": "Bruges",
+    "country": "Belgium",
+    "lat": 51.2085526,
+    "lng": 3.226772
+  },
+  {
+    "id": "belgium-vrt-radio-2-west-vlaanderen",
+    "name": "VRT Radio 2 West-Vlaanderen",
+    "url": "https://vrt.streamabc.net/vrt-radio2wvl-mp3-128-6272864?sABC=69772845%230%2375p922pr1rq3nr63r4683s5131rr6q39%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1769416773",
+    "genre": "Music",
+    "city": "Bruges",
+    "country": "Belgium",
+    "lat": 51.2085526,
+    "lng": 3.226772
+  },
+  {
+    "id": "belgium-mfm-1076",
+    "name": "Mfm 107.6",
+    "url": "http://149.202.22.75:8248/live",
+    "genre": "Music",
+    "city": "Ghent",
+    "country": "Belgium",
+    "lat": 51.0538286,
+    "lng": 3.7250121
+  },
+  {
+    "id": "belgium-radio-plus-gent-1077-fm",
+    "name": "Radio Plus Gent 107.7 FM",
+    "url": "https://live.radiostudio.be/plusaac",
+    "genre": "Music",
+    "city": "Ghent",
+    "country": "Belgium",
+    "lat": 51.0538286,
+    "lng": 3.7250121
+  },
+  {
+    "id": "belgium-rbs-radio-fm-1070",
+    "name": "RBS Radio FM 107.0",
+    "url": "http://luister.rbs-radio.be/rbs",
+    "genre": "Music",
+    "city": "Ghent",
+    "country": "Belgium",
+    "lat": 51.0538286,
+    "lng": 3.7250121
+  },
+  {
+    "id": "belgium-ultrason",
+    "name": "Ultrason",
+    "url": "https://ultrason.ice.infomaniak.ch/ultrason-high.mp3",
+    "genre": "Music",
+    "city": "Mons",
+    "country": "Belgium",
+    "lat": 50.4549568,
+    "lng": 3.951958
+  },
+  {
+    "id": "belgium-urgent-fm-1053",
+    "name": "Urgent FM 105.3",
+    "url": "https://urgentstream.radiostudio.be/aac",
+    "genre": "Music",
+    "city": "Ghent",
+    "country": "Belgium",
+    "lat": 51.0538286,
+    "lng": 3.7250121
+  },
+  {
+    "id": "belgium-ma-radio-fm-901",
+    "name": "Ma Radio FM 90.1",
+    "url": "https://maradio2.ice.infomaniak.ch/maradio2-128.mp3",
+    "genre": "Music",
+    "city": "Mons",
+    "country": "Belgium",
+    "lat": 50.4549568,
+    "lng": 3.951958
+  },
+  {
+    "id": "belgium-radio-tequila-1051-fm",
+    "name": "Radio Tequila 105.1 FM",
+    "url": "https://s5.myradiostream.com:43942/listen.mp3",
+    "genre": "Music",
+    "city": "Ghent",
+    "country": "Belgium",
+    "lat": 51.0538286,
+    "lng": 3.7250121
+  },
+  {
+    "id": "belgium-top2",
+    "name": "TOP2",
+    "url": "https://25443.live.streamtheworld.com:443/TOP_ZILLION.mp3",
+    "genre": "Music",
+    "city": "Ghent",
+    "country": "Belgium",
+    "lat": 51.0538286,
+    "lng": 3.7250121
+  },
+  {
+    "id": "belgium-aktief-gold",
+    "name": "Aktief Gold",
+    "url": "https://www.clubfmserver.be/aktief.mp3",
+    "genre": "Music",
+    "city": "Ghent",
+    "country": "Belgium",
+    "lat": 51.0538286,
+    "lng": 3.7250121
+  },
+  {
+    "id": "belgium-vrt-radio-2-oost-vlaanderen",
+    "name": "VRT Radio 2 Oost-Vlaanderen",
+    "url": "https://vrt.streamabc.net/vrt-radio2ovl-mp3-128-6944396?sABC=69772847%230%23nqoro4np7ns3rrpo06s1o0rn3s261pss%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1769416775",
+    "genre": "Music",
+    "city": "Ghent",
+    "country": "Belgium",
+    "lat": 51.0538286,
+    "lng": 3.7250121
+  },
+  {
+    "id": "belgium-j600",
+    "name": "J600",
+    "url": "https://listen.radioking.com/radio/439313/stream/493448",
+    "genre": "Music",
+    "city": "Charleroi",
+    "country": "Belgium",
+    "lat": 50.4116233,
+    "lng": 4.444528
+  },
+  {
+    "id": "belgium-zen-fm",
+    "name": "Zen FM",
+    "url": "https://28993.live.streamtheworld.com:443/TOPZEN.mp3",
+    "genre": "Music",
+    "city": "Ghent",
+    "country": "Belgium",
+    "lat": 51.0538286,
+    "lng": 3.7250121
+  },
+  {
+    "id": "belgium-radio-quartz-fm-939",
+    "name": "Radio Quartz FM 93.9",
+    "url": "https://stunnel1.cyber-streaming.com:9026/mp3",
+    "genre": "Music",
+    "city": "Charleroi",
+    "country": "Belgium",
+    "lat": 50.4116233,
+    "lng": 4.444528
+  },
+  {
+    "id": "belgium-rcf-liege",
+    "name": "RCF Liège",
+    "url": "https://rcf.streamakaci.com/rcfliege.mp3",
+    "genre": "Music",
+    "city": "Liège",
+    "country": "Belgium",
+    "lat": 50.6450944,
+    "lng": 5.5736112
+  },
+  {
+    "id": "belgium-warm-fm",
+    "name": "Warm FM",
+    "url": "http://stream05.warm.fm:9002/warm",
+    "genre": "Music",
+    "city": "Liège",
+    "country": "Belgium",
+    "lat": 50.6450944,
+    "lng": 5.5736112
+  },
+  {
+    "id": "belgium-48fm-1001",
+    "name": "48FM 100.1",
+    "url": "https://stream.48fm.com:8000/48fm-64",
+    "genre": "Music",
+    "city": "Liège",
+    "country": "Belgium",
+    "lat": 50.6450944,
+    "lng": 5.5736112
+  },
+  {
+    "id": "belgium-rtbf-vivacite-brabant-wallon",
+    "name": "RTBF Vivacité Brabant-Wallon",
+    "url": "https://redbeemedia.streamabc.net/redbm-vivabw-mp3-160-1122562?sABC=69772848%230%23nqoro4np7ns3rrpo06s1o0rn3s261pss%23ig&aw_0_1st.playerid=vt&amsparams=playerid:vt;skey:1769416776",
+    "genre": "Music",
+    "city": "Charleroi",
+    "country": "Belgium",
+    "lat": 50.4116233,
+    "lng": 4.444528
+  },
+  {
+    "id": "belgium-radio-star-1065-fm",
+    "name": "Radio Star 106.5 FM",
+    "url": "https://stream.radiostar.be/",
+    "genre": "Music",
+    "city": "Ghent",
+    "country": "Belgium",
+    "lat": 51.0538286,
+    "lng": 3.7250121
+  },
+  {
+    "id": "belgium-radio-italia-charleroi",
+    "name": "Radio Italia Charleroi",
+    "url": "https://str01.fluidstream.net/ric.mp3",
+    "genre": "Music",
+    "city": "Charleroi",
+    "country": "Belgium",
+    "lat": 50.4116233,
+    "lng": 4.444528
+  },
+  {
+    "id": "belgium-radio-4910",
+    "name": "Radio 4910",
+    "url": "http://94.23.221.158:9073/stream2",
+    "genre": "Music",
+    "city": "Liège",
+    "country": "Belgium",
+    "lat": 50.6450944,
+    "lng": 5.5736112
+  },
+  {
+    "id": "belgium-rtbf-vivacite-charleroi",
+    "name": "RTBF VivaCité Charleroi",
+    "url": "https://redbeemedia.streamabc.net/redbm-vivacharleroi-mp3-160-3466068?sABC=69772849%230%2375p922pr1rq3nr63r4683s5131rr6q39%23ei&aw_0_1st.playerid=rv&amsparams=playerid:rv;skey:1769416777",
+    "genre": "Music",
+    "city": "Charleroi",
+    "country": "Belgium",
+    "lat": 50.4116233,
+    "lng": 4.444528
+  },
+  {
+    "id": "belgium-radio-prima-fm-1074",
+    "name": "Radio Prima FM 107.4",
+    "url": "https://live.radioprima.be:8000/web.mp3",
+    "genre": "Music",
+    "city": "Liège",
+    "country": "Belgium",
+    "lat": 50.6450944,
+    "lng": 5.5736112
+  },
+  {
+    "id": "belgium-anytime-radio",
+    "name": "Anytime Radio",
+    "url": "https://live.anytimeradio.be:8000/radio.mp3",
+    "genre": "Music",
+    "city": "Liège",
+    "country": "Belgium",
+    "lat": 50.6450944,
+    "lng": 5.5736112
+  },
+  {
+    "id": "belgium-radio-kompas-fm-1058",
+    "name": "Radio Kompas FM 105.8",
+    "url": "https://mediaserv33.live-streams.nl:8052/stream",
+    "genre": "Music",
+    "city": "Bruges",
+    "country": "Belgium",
+    "lat": 51.2085526,
+    "lng": 3.226772
+  },
+  {
+    "id": "belgium-maximum-fm",
+    "name": "Maximum FM",
+    "url": "https://n17a-eu.rcs.revma.com/vnmbzemrmm0uv?rj-ttl=5&rj-tok=AAABm_l-h38A0Tr74wuHZOD3Gw",
+    "genre": "Music",
+    "city": "Liège",
+    "country": "Belgium",
+    "lat": 50.6450944,
+    "lng": 5.5736112
+  },
+  {
+    "id": "belgium-mixx-fm-1076",
+    "name": "Mixx FM 107.6",
+    "url": "https://mixxfm.ice.infomaniak.ch/mixxfm-96.mp3",
+    "genre": "Music",
+    "city": "Charleroi",
+    "country": "Belgium",
+    "lat": 50.4116233,
+    "lng": 4.444528
+  },
+  {
+    "id": "belgium-radio-equinoxe-fm-1064",
+    "name": "Radio Equinoxe FM 106.4",
+    "url": "http://live.equinoxenamur.be:8000/Equinoxe.mp3",
+    "genre": "Music",
+    "city": "Namur",
+    "country": "Belgium",
+    "lat": 50.4665284,
+    "lng": 4.8661892
+  },
+  {
+    "id": "belgium-rcf-sud-belgique-fm-1068",
+    "name": "RCF Sud Belgique FM 106.8",
+    "url": "https://rcf.streamakaci.com/rcfsudbe.mp3",
+    "genre": "Music",
+    "city": "Namur",
+    "country": "Belgium",
+    "lat": 50.4665284,
+    "lng": 4.8661892
+  },
+  {
+    "id": "belgium-radio-ourthe-ambleve-1062-fm",
+    "name": "Radio Ourthe Amblève 106.2 FM",
+    "url": "https://radioourtheambleve.radioca.st/index.html?sid=1",
+    "genre": "Music",
+    "city": "Liège",
+    "country": "Belgium",
+    "lat": 50.6450944,
+    "lng": 5.5736112
+  },
+  {
+    "id": "belgium-lrl-106-fm",
+    "name": "LRL 106 FM",
+    "url": "https://s2.ssl-stream.com/radio/8070/live.mp3",
+    "genre": "Music",
+    "city": "Liège",
+    "country": "Belgium",
+    "lat": 50.6450944,
+    "lng": 5.5736112
+  },
+  {
+    "id": "belgium-frequence-eghezee",
+    "name": "Frequence Eghezee",
+    "url": "http://stream.fr-eghezee.be:8054/FE",
+    "genre": "Music",
+    "city": "Namur",
+    "country": "Belgium",
+    "lat": 50.4665284,
+    "lng": 4.8661892
+  },
+  {
+    "id": "belgium-run-fm-881",
+    "name": "RUN FM 88.1",
+    "url": "http://stream.run.be:8000/run128.mp3",
+    "genre": "Music",
+    "city": "Namur",
+    "country": "Belgium",
+    "lat": 50.4665284,
+    "lng": 4.8661892
+  },
+  {
+    "id": "belgium-radio-maria-900-fm",
+    "name": "Radio Maria 90.0 FM",
+    "url": "http://stream.radiomaria.be:8000/RadioMaria-96",
+    "genre": "Music",
+    "city": "Leuven",
+    "country": "Belgium",
+    "lat": 50.879202,
+    "lng": 4.7011675
+  },
+  {
+    "id": "belgium-radio-hitalia-fm-1067",
+    "name": "Radio Hitalia FM 106.7",
+    "url": "https://str01.fluidstream.net/ric.mp3",
+    "genre": "Music",
+    "city": "Liège",
+    "country": "Belgium",
+    "lat": 50.6450944,
+    "lng": 5.5736112
+  },
+  {
+    "id": "belgium-turkuaz-fm-1078",
+    "name": "Turkuaz FM 107.8",
+    "url": "https://stream.lfmradio.be/turkuaz",
+    "genre": "Music",
+    "city": "Liège",
+    "country": "Belgium",
+    "lat": 50.6450944,
+    "lng": 5.5736112
+  },
+  {
+    "id": "belgium-radio-scorpio-106-fm",
+    "name": "Radio Scorpio 106 FM",
+    "url": "https://stream.radioscorpio.be/stream",
+    "genre": "Music",
+    "city": "Leuven",
+    "country": "Belgium",
+    "lat": 50.879202,
+    "lng": 4.7011675
+  },
+  {
+    "id": "belgium-retro-radio-singjaal",
+    "name": "Retro Radio Singjaal",
+    "url": "https://mscp2.live-streams.nl:8202/radiosingjaal",
+    "genre": "Music",
+    "city": "Leuven",
+    "country": "Belgium",
+    "lat": 50.879202,
+    "lng": 4.7011675
+  },
+  {
+    "id": "belgium-radio-contact-fm-1004",
+    "name": "Radio Contact FM 100.4",
+    "url": "https://radiocontact.ice.infomaniak.ch/radiocontact-mp3-192.mp3",
+    "genre": "Music",
+    "city": "Namur",
+    "country": "Belgium",
+    "lat": 50.4665284,
+    "lng": 4.8661892
+  },
+  {
+    "id": "belgium-radio-opsinjoor",
+    "name": "Radio Opsinjoor",
+    "url": "http://streams.movemedia.eu:8800/;stream/1",
+    "genre": "Music",
+    "city": "Leuven",
+    "country": "Belgium",
+    "lat": 50.879202,
+    "lng": 4.7011675
+  },
+  {
+    "id": "belgium-radio-solidarite",
+    "name": "Radio Solidarité",
+    "url": "https://ecmanager6.pro-fhi.net/radiosolidarite",
+    "genre": "Music",
+    "city": "Namur",
+    "country": "Belgium",
+    "lat": 50.4665284,
+    "lng": 4.8661892
+  },
+  {
+    "id": "belgium-noordzee-info",
+    "name": "Noordzee Info",
+    "url": "http://stream.noordzee105.be:8000/noordzee_info",
+    "genre": "Music",
+    "city": "Ostend",
+    "country": "Belgium",
+    "lat": 51.2258565,
+    "lng": 2.919496
+  },
+  {
+    "id": "belgium-must-fm",
+    "name": "Must FM",
+    "url": "https://n02.rcs.revma.com/cm96zpmrmm0uv?rj-ttl=5&rj-tok=AAABm_l-jk0AYdVgmxfThRI4aA",
+    "genre": "Music",
+    "city": "Namur",
+    "country": "Belgium",
+    "lat": 50.4665284,
+    "lng": 4.8661892
+  },
+  {
+    "id": "belgium-be-one",
+    "name": "Be One",
+    "url": "https://live.radiostudio.be/beone",
+    "genre": "Music",
+    "city": "Ostend",
+    "country": "Belgium",
+    "lat": 51.2258565,
+    "lng": 2.919496
+  },
+  {
+    "id": "belgium-noordzee-gold",
+    "name": "Noordzee Gold",
+    "url": "https://stream.noordzee105.be/gold",
+    "genre": "Music",
+    "city": "Ostend",
+    "country": "Belgium",
+    "lat": 51.2258565,
+    "lng": 2.919496
+  },
+  {
+    "id": "belgium-noordzee-105fm",
+    "name": "Noordzee 105FM",
+    "url": "https://stream.noordzee105.be/noordzee-192",
+    "genre": "Music",
+    "city": "Ostend",
+    "country": "Belgium",
+    "lat": 51.2258565,
+    "lng": 2.919496
+  },
+  {
+    "id": "belgium-noordzee-kerst",
+    "name": "Noordzee Kerst",
+    "url": "https://stream.noordzee105.be/krn",
+    "genre": "Music",
+    "city": "Ostend",
+    "country": "Belgium",
+    "lat": 51.2258565,
+    "lng": 2.919496
+  },
+  {
+    "id": "belgium-komilfoo-fm-1069",
+    "name": "Komilfoo FM 106.9",
+    "url": "https://komilfoo.radioca.st/stream",
+    "genre": "Music",
+    "city": "Leuven",
+    "country": "Belgium",
+    "lat": 50.879202,
+    "lng": 4.7011675
+  },
+  {
+    "id": "belgium-radio-music-sambre",
+    "name": "Radio Music Sambre",
+    "url": "https://radiomusicsambre.ice.infomaniak.ch/radiomusicsambre-128.mp3",
+    "genre": "Music",
+    "city": "Charleroi",
+    "country": "Belgium",
+    "lat": 50.4116233,
+    "lng": 4.444528
+  },
+  {
+    "id": "belgium-radio-chevauchoir-fm-1055",
+    "name": "Radio Chevauchoir FM 105.5",
+    "url": "https://radio10.pro-fhi.net/flux-nqjpklks/stream",
+    "genre": "Music",
+    "city": "Namur",
+    "country": "Belgium",
+    "lat": 50.4665284,
+    "lng": 4.8661892
+  },
+  {
+    "id": "belgium-noordzee-zomer",
+    "name": "Noordzee Zomer",
+    "url": "https://stream.noordzee105.be/zomer",
+    "genre": "Music",
+    "city": "Ostend",
+    "country": "Belgium",
+    "lat": 51.2258565,
+    "lng": 2.919496
+  },
+  {
+    "id": "belgium-radio-apollo",
+    "name": "Radio Apollo",
+    "url": "https://radioapollo.beheerstream.nl/8004/stream",
+    "genre": "Music",
+    "city": "Leuven",
+    "country": "Belgium",
+    "lat": 50.879202,
+    "lng": 4.7011675
+  },
+  {
+    "id": "belgium-radio-eurodance-classic",
+    "name": "Radio Eurodance Classic",
+    "url": "https://quincy.torontocast.com:2965/stream",
+    "genre": "Music",
+    "city": "Ostend",
+    "country": "Belgium",
+    "lat": 51.2258565,
+    "lng": 2.919496
+  },
+  {
+    "id": "belgium-goeiedagradio-1051-fm",
+    "name": "Goeiedagradio 105.1 FM",
+    "url": "https://stream.goeiedagradio.be/",
+    "genre": "Music",
+    "city": "Aalst",
+    "country": "Belgium",
+    "lat": 50.9383226,
+    "lng": 4.0392147
+  },
+  {
+    "id": "belgium-rgr-classic-hits",
+    "name": "RGR Classic Hits",
+    "url": "https://media1.hostin.cc/rgr-classic-hits.mp3",
+    "genre": "Music",
+    "city": "Leuven",
+    "country": "Belgium",
+    "lat": 50.879202,
+    "lng": 4.7011675
+  },
+  {
+    "id": "belgium-rgr-dance",
+    "name": "RGR Dance",
+    "url": "https://media1.hostin.cc/rgr2.mp3",
+    "genre": "Music",
+    "city": "Leuven",
+    "country": "Belgium",
+    "lat": 50.879202,
+    "lng": 4.7011675
+  },
+  {
+    "id": "belgium-radio-superstar-classics",
+    "name": "Radio Superstar Classics",
+    "url": "http://95.216.112.183:8000/stream/2/",
+    "genre": "Music",
+    "city": "Eeklo",
+    "country": "Belgium",
+    "lat": 51.1910245,
+    "lng": 3.5665342
+  },
+  {
+    "id": "belgium-tros-fm",
+    "name": "TROS FM",
+    "url": "https://s16.myradiostream.com/:9362/index.html?sid=1",
+    "genre": "Music",
+    "city": "Aalst",
+    "country": "Belgium",
+    "lat": 50.9383226,
+    "lng": 4.0392147
+  },
+  {
+    "id": "belgium-radio-trl-fm-1056-dab+-10c",
+    "name": "Radio TRL FM 105.6 DAB+ 10C",
+    "url": "https://stream.radiotrl.be/RadioTRL",
+    "genre": "Music",
+    "city": "Eeklo",
+    "country": "Belgium",
+    "lat": 51.1910245,
+    "lng": 3.5665342
+  },
+  {
+    "id": "belgium-city-music",
+    "name": "City Music",
+    "url": "https://play.citymusic.be/citymusic.mp3",
+    "genre": "Music",
+    "city": "Aalst",
+    "country": "Belgium",
+    "lat": 50.9383226,
+    "lng": 4.0392147
+  },
+  {
+    "id": "belgium-paradise-fm",
+    "name": "Paradise FM",
+    "url": "http://fmradio.hopto.org:7000/",
+    "genre": "Music",
+    "city": "Eupen",
+    "country": "Belgium",
+    "lat": 50.6305665,
+    "lng": 6.0312717
+  },
+  {
+    "id": "belgium-brf2-radio",
+    "name": "BRF2 Radio",
+    "url": "https://streaming.brf.be/brf2-high.mp3",
+    "genre": "Music",
+    "city": "Eupen",
+    "country": "Belgium",
+    "lat": 50.6305665,
+    "lng": 6.0312717
+  },
+  {
+    "id": "belgium-family-radio",
+    "name": "Family Radio",
+    "url": "https://www.clubfmserver.be/family.mp3",
+    "genre": "Music",
+    "city": "Eeklo",
+    "country": "Belgium",
+    "lat": 51.1910245,
+    "lng": 3.5665342
+  },
+  {
+    "id": "belgium-club-fm",
+    "name": "Club FM",
+    "url": "https://www.clubfmserver.be/clubfm.mp3",
+    "genre": "Music",
+    "city": "Eeklo",
+    "country": "Belgium",
+    "lat": 51.1910245,
+    "lng": 3.5665342
+  },
+  {
+    "id": "belgium-brf1-radio",
+    "name": "BRF1 Radio",
+    "url": "https://streaming.brf.be/brf1-high.mp3",
+    "genre": "Music",
+    "city": "Eupen",
+    "country": "Belgium",
+    "lat": 50.6305665,
+    "lng": 6.0312717
+  },
+  {
+    "id": "belgium-wabisabi-radio",
+    "name": "WabiSabi Radio",
+    "url": "https://s4.radio.co/sd1a7a0223/listen",
+    "genre": "Music",
+    "city": "Leuven",
+    "country": "Belgium",
+    "lat": 50.879202,
+    "lng": 4.7011675
+  },
+  {
+    "id": "belgium-oilsjt-mjoezik",
+    "name": "Oilsjt Mjoezik",
+    "url": "https://stream.oilsjtmjoezik.be/",
+    "genre": "Music",
+    "city": "Aalst",
+    "country": "Belgium",
+    "lat": 50.9383226,
+    "lng": 4.0392147
+  },
+  {
+    "id": "belgium-frequence-plus-andenne-fm-1066",
+    "name": "Frequence Plus Andenne FM 106.6",
+    "url": "https://frequenceplusandenne.ice.infomaniak.ch/frequenceplusandenne-192.mp3",
+    "genre": "Music",
+    "city": "Namur",
+    "country": "Belgium",
+    "lat": 50.4665284,
+    "lng": 4.8661892
+  },
+  {
+    "id": "belgium-radio-sunshine-975-fm",
+    "name": "Radio Sunshine 97.5 FM",
+    "url": "http://streamlive.syndicationradio.fr:8158/stream",
+    "genre": "Music",
+    "city": "Eupen",
+    "country": "Belgium",
+    "lat": 50.6305665,
+    "lng": 6.0312717
+  },
+  {
+    "id": "belgium-omroep-zeeland",
+    "name": "Omroep Zeeland",
+    "url": "https://d3isaxd2t6q8zm.cloudfront.net/icecast/omroepzeeland/omroepzeeland_radio",
+    "genre": "Music",
+    "city": "Eeklo",
+    "country": "Belgium",
+    "lat": 51.1910245,
+    "lng": 3.5665342
+  },
+  {
+    "id": "belgium-100,5-das-hitradio",
+    "name": "100,5 Das Hitradio",
+    "url": "https://dashitradio.stream04.radiohost.de/dashitradio_128?ref=L1St3N&upd-meta&upd-scheme=https&_art=dD0xNzY5NDE3MDg0JmQ9MzI2ZjUzNjE0YTljNmE3ZTRmNDE",
+    "genre": "Music",
+    "city": "Eupen",
+    "country": "Belgium",
+    "lat": 50.6305665,
+    "lng": 6.0312717
+  },
+  {
+    "id": "belgium-radio-pros-888-fm",
+    "name": "Radio PROS 88.8 FM",
+    "url": "https://mediacp.audiostreamen.nl:8238/stream",
+    "genre": "Music",
+    "city": "Aalst",
+    "country": "Belgium",
+    "lat": 50.9383226,
+    "lng": 4.0392147
+  },
+  {
+    "id": "belgium-ajoin-music",
+    "name": "Ajoin Music",
+    "url": "https://play.ajoinmusic.be/ajoinmusic.mp3",
+    "genre": "Music",
+    "city": "Aalst",
+    "country": "Belgium",
+    "lat": 50.9383226,
+    "lng": 4.0392147
+  },
+  {
+    "id": "belgium-radio-contact-ostbelgien-now",
+    "name": "Radio Contact Ostbelgien NOW",
+    "url": "https://systemweb-server3.de:7002/stream/1/%20%20",
+    "genre": "Music",
+    "city": "Eupen",
+    "country": "Belgium",
+    "lat": 50.6305665,
+    "lng": 6.0312717
+  },
+  {
+    "id": "belgium-rlm-1079-fm",
+    "name": "R.L.M. 107.9 FM",
+    "url": "http://philae.shoutca.st:8278/stream",
+    "genre": "Music",
+    "city": "Kortrijk",
+    "country": "Belgium",
+    "lat": 50.8276429,
+    "lng": 3.2659884
+  },
+  {
+    "id": "belgium-fm-kortrijk",
+    "name": "FM Kortrijk",
+    "url": "https://stream.fmkortrijk.be/proxy/fmk",
+    "genre": "Music",
+    "city": "Kortrijk",
+    "country": "Belgium",
+    "lat": 50.8276429,
+    "lng": 3.2659884
+  },
+  {
+    "id": "belgium-kl85",
+    "name": "KL85",
+    "url": "https://s19.myradiostream.com/:18068/listen.mp3/",
+    "genre": "Music",
+    "city": "Kortrijk",
+    "country": "Belgium",
+    "lat": 50.8276429,
+    "lng": 3.2659884
+  },
+  {
+    "id": "belgium-gaver-omroep-fm-1057",
+    "name": "Gaver Omroep FM 105.7",
+    "url": "https://s43.myradiostream.com/:18192/listen.mp3?nocache=1769416786",
+    "genre": "Music",
+    "city": "Kortrijk",
+    "country": "Belgium",
+    "lat": 50.8276429,
+    "lng": 3.2659884
+  },
+  {
+    "id": "belgium-3heuvelland",
+    "name": "3Heuvelland",
+    "url": "https://caster04.streampakket.com/proxy/8115/stream",
+    "genre": "Music",
+    "city": "Eupen",
+    "country": "Belgium",
+    "lat": 50.6305665,
+    "lng": 6.0312717
+  },
+  {
+    "id": "belgium-radio-zinzine",
+    "name": "Radio Zinzine",
+    "url": "http://91.121.65.189:8000/zinzine-aix",
+    "genre": "Music",
+    "city": "Néchin",
+    "country": "Belgium",
+    "lat": 50.6673355,
+    "lng": 3.267497
+  },
+  {
+    "id": "belgium-geel-fm-1070",
+    "name": "Geel FM 107.0",
+    "url": "http://geelfm.nsupdate.info:8080/geelfm",
+    "genre": "Music",
+    "city": "Herentals",
+    "country": "Belgium",
+    "lat": 51.1765426,
+    "lng": 4.8362595
+  },
+  {
+    "id": "belgium-omroep-neteland-fm-1074",
+    "name": "Omroep Neteland FM 107.4",
+    "url": "https://media1.hostin.cc/omroepneteland.mp3",
+    "genre": "Music",
+    "city": "Herentals",
+    "country": "Belgium",
+    "lat": 51.1765426,
+    "lng": 4.8362595
+  },
+  {
+    "id": "belgium-quindo",
+    "name": "Quindo",
+    "url": "https://stream.quindo.be/high.mp3",
+    "genre": "Music",
+    "city": "Kortrijk",
+    "country": "Belgium",
+    "lat": 50.8276429,
+    "lng": 3.2659884
+  },
+  {
+    "id": "belgium-magic-radio",
+    "name": "Magic Radio",
+    "url": "https://magicradio.streampartner.nl/live?type=.mp3",
+    "genre": "Music",
+    "city": "Herentals",
+    "country": "Belgium",
+    "lat": 51.1765426,
+    "lng": 4.8362595
+  },
+  {
+    "id": "belgium-radio-opsinjoor-fm-1066",
+    "name": "Radio Opsinjoor FM 106.6",
+    "url": "https://icecast.movemedia.be/opsinjoor",
+    "genre": "Music",
+    "city": "Mechelen",
+    "country": "Belgium",
+    "lat": 51.0281381,
+    "lng": 4.4803453
+  },
+  {
+    "id": "belgium-jessfm-899",
+    "name": "JessFM 89.9",
+    "url": "http://95.85.21.223:8000/index.html?sid=1",
+    "genre": "Music",
+    "city": "Kortrijk",
+    "country": "Belgium",
+    "lat": 50.8276429,
+    "lng": 3.2659884
+  },
+  {
+    "id": "belgium-wfm-1054",
+    "name": "WFM 105.4",
+    "url": "https://mcp-2.mm-stream.nl:8126/WFM",
+    "genre": "Music",
+    "city": "Herentals",
+    "country": "Belgium",
+    "lat": 51.1765426,
+    "lng": 4.8362595
+  },
+  {
+    "id": "belgium-5fm-1054",
+    "name": "5FM 105.4",
+    "url": "https://stream.5fm.nu/5fm.mp3",
+    "genre": "Music",
+    "city": "Herentals",
+    "country": "Belgium",
+    "lat": 51.1765426,
+    "lng": 4.8362595
+  },
+  {
+    "id": "belgium-blackbeatsfm",
+    "name": "Blackbeats.FM",
+    "url": "https://rautemusik.stream17.radiohost.de/blackbeats?upd-meta&upd-scheme=https&_art=dD0xNzY5NDE3MDg3JmQ9YjM0MzJhZDM0MTZhZGI3ZjQ3MDU",
+    "genre": "Music",
+    "city": "Eupen",
+    "country": "Belgium",
+    "lat": 50.6305665,
+    "lng": 6.0312717
+  },
+  {
+    "id": "belgium-galaxie-belgium",
+    "name": "Galaxie Belgium",
+    "url": "https://listen.radioking.com/radio/583019/stream/643364",
+    "genre": "Music",
+    "city": "Néchin",
+    "country": "Belgium",
+    "lat": 50.6673355,
+    "lng": 3.267497
+  },
+  {
+    "id": "belgium-onib-radio",
+    "name": "ONIB Radio",
+    "url": "https://listen.radioking.com/radio/309647/stream/356660",
+    "genre": "Music",
+    "city": "Néchin",
+    "country": "Belgium",
+    "lat": 50.6673355,
+    "lng": 3.267497
+  },
+  {
+    "id": "belgium-radio-reflex-1062-fm",
+    "name": "Radio Reflex 106.2 FM",
+    "url": "https://stream.radioreflex.be/radioreflex.mp3",
+    "genre": "Music",
+    "city": "Mechelen",
+    "country": "Belgium",
+    "lat": 51.0281381,
+    "lng": 4.4803453
+  },
+  {
+    "id": "belgium-hit-fm-limburg-1061",
+    "name": "Hit FM Limburg 106.1",
+    "url": "https://live.radiostudio.be/hfl",
+    "genre": "Music",
+    "city": "Hasselt",
+    "country": "Belgium",
+    "lat": 50.9303735,
+    "lng": 5.3378043
+  },
+  {
+    "id": "belgium-onib-disco",
+    "name": "ONIB Disco",
+    "url": "https://listen.radioking.com/radio/635953/stream/698749",
+    "genre": "Music",
+    "city": "Néchin",
+    "country": "Belgium",
+    "lat": 50.6673355,
+    "lng": 3.267497
+  },
+  {
+    "id": "belgium-trudo-fm",
+    "name": "Trudo FM",
+    "url": "https://mediaserv68.live-streams.nl:18073/stream",
+    "genre": "Music",
+    "city": "Hasselt",
+    "country": "Belgium",
+    "lat": 50.9303735,
+    "lng": 5.3378043
+  },
+  {
+    "id": "belgium-radio-internazionale",
+    "name": "Radio Internazionale",
+    "url": "https://str01.fluidstream.net/fluid06.mp3",
+    "genre": "Music",
+    "city": "Hasselt",
+    "country": "Belgium",
+    "lat": 50.9303735,
+    "lng": 5.3378043
+  },
+  {
+    "id": "belgium-de-goeie-ouwe-tijd",
+    "name": "De Goeie Ouwe Tijd",
+    "url": "https://26343.live.streamtheworld.com:443/SAM03AAC392.mp3",
+    "genre": "Music",
+    "city": "Herentals",
+    "country": "Belgium",
+    "lat": 51.1765426,
+    "lng": 4.8362595
+  },
+  {
+    "id": "belgium-nostalgie-extra-90",
+    "name": "Nostalgie Extra 90",
+    "url": "https://22733.live.streamtheworld.com:443/NOSTALGIEWAF90.mp3?dist=radio_garden",
+    "genre": "Music",
+    "city": "Mechelen",
+    "country": "Belgium",
+    "lat": 51.0281381,
+    "lng": 4.4803453
+  },
+  {
+    "id": "belgium-impact-fm",
+    "name": "Impact FM",
+    "url": "https://impactfm2.ice.infomaniak.ch/impactfmbe-64.aac",
+    "genre": "Music",
+    "city": "Eupen",
+    "country": "Belgium",
+    "lat": 50.6305665,
+    "lng": 6.0312717
+  },
+  {
+    "id": "belgium-fiesta-radio",
+    "name": "Fiesta Radio",
+    "url": "https://media1.hostin.cc/fiestaradio.mp3",
+    "genre": "Music",
+    "city": "Hasselt",
+    "country": "Belgium",
+    "lat": 50.9303735,
+    "lng": 5.3378043
+  },
+  {
+    "id": "belgium-versuz-radio",
+    "name": "Versuz Radio",
+    "url": "https://29083.live.streamtheworld.com:443/TOPVERSUZ.mp3",
+    "genre": "Music",
+    "city": "Hasselt",
+    "country": "Belgium",
+    "lat": 50.9303735,
+    "lng": 5.3378043
+  },
+  {
+    "id": "belgium-vrt-radio-2-limburg",
+    "name": "VRT Radio 2 Limburg",
+    "url": "https://vrt.streamabc.net/vrt-radio2limburg-mp3-128-2845863?sABC=69772856%230%2375p922pr1rq3nr63r4683s5131rr6q39%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1769416790",
+    "genre": "Music",
+    "city": "Hasselt",
+    "country": "Belgium",
+    "lat": 50.9303735,
+    "lng": 5.3378043
+  }
+]

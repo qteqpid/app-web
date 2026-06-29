@@ -1,0 +1,338 @@
+[
+    {
+        "name": "la Popu FM 92.3",
+        "city": "Gamba 106.3",
+        "country": "Córdoba, Argentina",
+        "url": "https://liveradio.mediainbox.net/popular.mp3"
+    },
+    {
+        "name": "Cadena 3 AM 700",
+        "city": "Gamba 106.3",
+        "country": "Córdoba, Argentina",
+        "url": "https://liveradio.mediainbox.net/radio3.mp3"
+    },
+    {
+        "name": "Porokhane FM",
+        "city": "Serrekunda",
+        "country": "The Gambia",
+        "url": "https://betelgeuse.dribbcast.com/proxy/mamediarra?mp=/stream"
+    },
+    {
+        "name": "NaranjoFM",
+        "city": "Gamba 106.3",
+        "country": "Córdoba, Argentina",
+        "url": "http://radio02.ferozo.com:9000/stream/"
+    },
+    {
+        "name": "Radio Suquia FM 96.5",
+        "city": "Gamba 106.3",
+        "country": "Córdoba, Argentina",
+        "url": "https://streaming01.shockmedia.com.ar/9968/"
+    },
+    {
+        "name": "West Coast Radio FM 92.1",
+        "city": "Serrekunda",
+        "country": "The Gambia",
+        "url": "http://stream.westcoast.gm:8080/westcoast921"
+    },
+    {
+        "name": "Ultra Electronic Radio 106.5 FM",
+        "city": "Gamba 106.3",
+        "country": "Córdoba, Argentina",
+        "url": "https://streaming.gostreaming.com.ar/8072/stream"
+    },
+    {
+        "name": "Pura Radio",
+        "city": "Gamba 106.3",
+        "country": "Córdoba, Argentina",
+        "url": "https://streaming01.shockmedia.com.ar:10536/index.html?sid=1"
+    },
+    {
+        "name": "Dale FM 93.1",
+        "city": "Gamba 106.3",
+        "country": "Córdoba, Argentina",
+        "url": "https://streaming01.shockmedia.com.ar:10891/index.html?sid=1"
+    },
+    {
+        "name": "West Coast Radio FM 95.3",
+        "city": "Serrekunda",
+        "country": "The Gambia",
+        "url": "https://westcoast.gm:8480/stream"
+    },
+    {
+        "name": "Medina Baye FM",
+        "city": "Serrekunda",
+        "country": "The Gambia",
+        "url": "https://stream-152.zeno.fm/ym9nqku50ueuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5bTlucWt1NTB1ZXV2IiwiaG9zdCI6InN0cmVhbS0xNTIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiT25WRWRubm9SMkNrLVlRSjJNMmFZQSIsImlhdCI6MTc2OTQxODY2OCwiZXhwIjoxNzY5NDE4NzI4fQ.A72c1mMjPQ__DQ-kS--X2vw72k4MuSJRJKVPETHC6CU"
+    },
+    {
+        "name": "Lat FM 96.0",
+        "city": "Serrekunda",
+        "country": "The Gambia",
+        "url": "https://stream-179.zeno.fm/zymlahclnq2vv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ6eW1sYWhjbG5xMnZ2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiN2FqRU1mX2tUMFdhQ2k3V0tuN1BDQSIsImlhdCI6MTc2OTQxODY2OCwiZXhwIjoxNzY5NDE4NzI4fQ.el-ru83nu2Cxt_zzkWEyBZho_UErm9awyXukI_XWgz8"
+    },
+    {
+        "name": "RTS Diourbel 96.0 FM",
+        "city": "Serrekunda",
+        "country": "The Gambia",
+        "url": "https://stream-150.zeno.fm/4g1b35sts1duv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0ZzFiMzVzdHMxZHV2IiwiaG9zdCI6InN0cmVhbS0xNTAuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoid3Z6bDlwWmtSMTJDVE5XRFNIUHl5QSIsImlhdCI6MTc2OTQxODY2OCwiZXhwIjoxNzY5NDE4NzI4fQ.bEvqNqEk40EKvrYO7OR2NeIkXAcRX_MYz2n58DJLMpc"
+    },
+    {
+        "name": "RTS Ziguinchor 98.9 FM",
+        "city": "Serrekunda",
+        "country": "The Gambia",
+        "url": "https://stream-142.zeno.fm/ua9aunfqt1duv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1YTlhdW5mcXQxZHV2IiwiaG9zdCI6InN0cmVhbS0xNDIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiMTZoZ3diai1SeENHeWRCRlZXckE5QSIsImlhdCI6MTc2OTQxODY2OCwiZXhwIjoxNzY5NDE4NzI4fQ.RRzHhuoChgd0qXZ76s6Jge-GmxpSMUfgwLXG4ZJabk0"
+    },
+    {
+        "name": "QRadio 103.3 FM",
+        "city": "Serrekunda",
+        "country": "The Gambia",
+        "url": "https://stream-178.zeno.fm/lffppyprgluuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJsZmZwcHlwcmdsdXV2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiTjVmS0JuR3NScDZFQ3l6dVc0UzdJZyIsImlhdCI6MTc2OTQxODY2OCwiZXhwIjoxNzY5NDE4NzI4fQ.OkysH10EWH2g16YxxJLNq6KH5TM_a9nnZO6K7r52jO0"
+    },
+    {
+        "name": "Planeta Cuarteto",
+        "city": "Gamba 106.3",
+        "country": "Córdoba, Argentina",
+        "url": "https://streaming.radiosenlinea.com.ar/8470/stream"
+    },
+    {
+        "name": "Radio de Folklore 96.7 FM",
+        "city": "Gamba 106.3",
+        "country": "Córdoba, Argentina",
+        "url": "https://stm17.xcast.com.br:7296/stream"
+    },
+    {
+        "name": "Aqui Cosquin Radio 93.7 FM",
+        "city": "Gamba 106.3",
+        "country": "Córdoba, Argentina",
+        "url": "https://edge05.radiohdvivo.com/aquicosquin"
+    },
+    {
+        "name": "Radio HIFI",
+        "city": "Gamba 106.3",
+        "country": "Córdoba, Argentina",
+        "url": "https://cdn.instream.audio:9218/stream"
+    },
+    {
+        "name": "Radio Pueblo Estación FM 88.3",
+        "city": "Gamba 106.3",
+        "country": "Córdoba, Argentina",
+        "url": "https://stm2.livecastradio.com:26881/stream/"
+    },
+    {
+        "name": "Radio Las Gabias",
+        "city": "Radio Las Gabias",
+        "country": "Las Gabias, Spain",
+        "url": "http://streaming5.elitecomunicacion.es:8090/live"
+    },
+    {
+        "name": "Radio Mitre Córdoba AM 810",
+        "city": "Gamba 106.3",
+        "country": "Córdoba, Argentina",
+        "url": "https://27343.live.streamtheworld.com:443/AM810_56AAC.aac"
+    },
+    {
+        "name": "Radio Alfaguara 107.0 FM",
+        "city": "Radio Las Gabias",
+        "country": "Las Gabias, Spain",
+        "url": "https://server8.emitironline.com:18582/stream"
+    },
+    {
+        "name": "Radio Bar 96.9 FM",
+        "city": "Gamba 106.3",
+        "country": "Córdoba, Argentina",
+        "url": "https://streaming2.locucionar.com/proxy/radiobar?mp=/stream"
+    },
+    {
+        "name": "Radio Alhama en Internet",
+        "city": "Radio Las Gabias",
+        "country": "Las Gabias, Spain",
+        "url": "https://stream.alhama.com/live"
+    },
+    {
+        "name": "Cadena Heat 91.9 FM",
+        "city": "Gamba 106.3",
+        "country": "Córdoba, Argentina",
+        "url": "https://26503.live.streamtheworld.com:443/CADENAHEAT_SC"
+    },
+    {
+        "name": "Positiva FM 105.9",
+        "city": "Gamba 106.3",
+        "country": "Córdoba, Argentina",
+        "url": "https://01.solumedia.com.ar:8512/stream"
+    },
+    {
+        "name": "WKCO 91.9 FM Kenyon College",
+        "city": "WKCO 91.9 FM Kenyon College",
+        "country": "Gambier OH, United States",
+        "url": "http://broadcast.shoutcheap.com:8648/stream"
+    },
+    {
+        "name": "Radio Mitre AM 790",
+        "city": "Gamba 106.3",
+        "country": "Córdoba, Argentina",
+        "url": "https://20603.live.streamtheworld.com:443/AM790_56AAC.aac"
+    },
+    {
+        "name": "WRDL FM 88.9",
+        "city": "WKCO 91.9 FM Kenyon College",
+        "country": "Gambier OH, United States",
+        "url": "https://das-edge12-live365-dal02.cdnstream.com/a12400_2"
+    },
+    {
+        "name": "FM Aspen 102.3",
+        "city": "Gamba 106.3",
+        "country": "Córdoba, Argentina",
+        "url": "https://24413.live.streamtheworld.com:443/ASPEN.mp3"
+    },
+    {
+        "name": "Easy 108",
+        "city": "WKCO 91.9 FM Kenyon College",
+        "country": "Gambier OH, United States",
+        "url": "https://ais-sa2.cdnstream1.com/1299_128"
+    },
+    {
+        "name": "Radio Rivadavia 630 AM",
+        "city": "Gamba 106.3",
+        "country": "Córdoba, Argentina",
+        "url": "https://24283.live.streamtheworld.com:443/RIVADAVIAAAC.aac"
+    },
+    {
+        "name": "5GTR 100.1 FM",
+        "city": "5GTR 100.1 FM",
+        "country": "Mount Gambier, Australia",
+        "url": "http://203.45.194.8:88/broadwave.mp3"
+    },
+    {
+        "name": "ABN Old-Time Radio AM 1610",
+        "city": "WKCO 91.9 FM Kenyon College",
+        "country": "Gambier OH, United States",
+        "url": "https://s6.yesstreaming.net:18000/listen"
+    },
+    {
+        "name": "Radio La Red AM 910",
+        "city": "Gamba 106.3",
+        "country": "Córdoba, Argentina",
+        "url": "https://26563.live.streamtheworld.com:443/LA_RED_AM910AAC.aac"
+    },
+    {
+        "name": "La 100 FM 99.9",
+        "city": "Gamba 106.3",
+        "country": "Córdoba, Argentina",
+        "url": "https://26583.live.streamtheworld.com:443/FM999_56.mp3"
+    },
+    {
+        "name": "Goldfields FM 99.1",
+        "city": "5GTR 100.1 FM",
+        "country": "Mount Gambier, Australia",
+        "url": "http://s1.communitybroadcastnetwork.com.au:8000/3GFM/128"
+    },
+    {
+        "name": "Cadena Ser",
+        "city": "Radio Las Gabias",
+        "country": "Las Gabias, Spain",
+        "url": "https://29073.live.streamtheworld.com:443/CADENASERAAC.aac"
+    },
+    {
+        "name": "KBRW-AM 680",
+        "city": "WKCO 91.9 FM Kenyon College",
+        "country": "Gambier OH, United States",
+        "url": "https://tektite.streamguys1.com:5345/live"
+    },
+    {
+        "name": "Smooth Jazz 24/7",
+        "city": "WKCO 91.9 FM Kenyon College",
+        "country": "Gambier OH, United States",
+        "url": "https://ais-edge89-dal02.cdnstream.com/2124_128.mp3"
+    },
+    {
+        "name": "esRadio",
+        "city": "Radio Las Gabias",
+        "country": "Las Gabias, Spain",
+        "url": "https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-med.aac"
+    },
+    {
+        "name": "WCLT FM 100.3",
+        "city": "WKCO 91.9 FM Kenyon College",
+        "country": "Gambier OH, United States",
+        "url": "https://us2.maindigitalstream.com/ssl/WCLT"
+    },
+    {
+        "name": "104.9 The River",
+        "city": "WKCO 91.9 FM Kenyon College",
+        "country": "Gambier OH, United States",
+        "url": "https://stream.riverradio.com/wcvofm.mp3"
+    },
+    {
+        "name": "KOKO LP Radio 96.3 FM",
+        "city": "WKCO 91.9 FM Kenyon College",
+        "country": "Gambier OH, United States",
+        "url": "https://s2.yesstreaming.net:7031/stream"
+    },
+    {
+        "name": "Lofty 88.9",
+        "city": "5GTR 100.1 FM",
+        "country": "Mount Gambier, Australia",
+        "url": "https://stream01.sigile.net/lofty-48-aac"
+    },
+    {
+        "name": "LOS40 Classic",
+        "city": "Radio Las Gabias",
+        "country": "Las Gabias, Spain",
+        "url": "https://20043.live.streamtheworld.com:443/LOS40_CLASSICAAC.aac"
+    },
+    {
+        "name": "Apollo Bay Radio 87.6",
+        "city": "5GTR 100.1 FM",
+        "country": "Mount Gambier, Australia",
+        "url": "http://streamer5.rightclickitservices.com:9020/stream/"
+    },
+    {
+        "name": "Fox News Radio",
+        "city": "WKCO 91.9 FM Kenyon College",
+        "country": "Gambier OH, United States",
+        "url": "https://prod-54-162-2-81.amperwave.net/foxnewsradio-foxnewsradioaac-imc?session-id=838735a85752710079a6d4b1426f3613"
+    },
+    {
+        "name": "ABC Radio National",
+        "city": "5GTR 100.1 FM",
+        "country": "Mount Gambier, Australia",
+        "url": "https://abc.streamguys1.com/live/rnnsw/icecast.audio"
+    },
+    {
+        "name": "ABC NewsRadio",
+        "city": "5GTR 100.1 FM",
+        "country": "Mount Gambier, Australia",
+        "url": "https://abc.streamguys1.com/live/newsradio/icecast.audio"
+    },
+    {
+        "name": "Triple J",
+        "city": "5GTR 100.1 FM",
+        "country": "Mount Gambier, Australia",
+        "url": "https://abc.streamguys1.com/live/triplejnsw/icecast.audio"
+    },
+    {
+        "name": "5MU 1125 AM",
+        "city": "5GTR 100.1 FM",
+        "country": "Mount Gambier, Australia",
+        "url": "https://19273.live.streamtheworld.com:443/MUR_5MUAAC.aac"
+    },
+    {
+        "name": "Smooth FM 91.5",
+        "city": "5GTR 100.1 FM",
+        "country": "Mount Gambier, Australia",
+        "url": "https://14533.live.streamtheworld.com:443/SMOOTH915_AAC48.aac"
+    },
+    {
+        "name": "Y 107.3 - WYBZ",
+        "city": "WKCO 91.9 FM Kenyon College",
+        "country": "Gambier OH, United States",
+        "url": "https://ice24.securenetsystems.net/WYBZFM"
+    },
+    {
+        "name": "Smooth FM 95.3",
+        "city": "5GTR 100.1 FM",
+        "country": "Mount Gambier, Australia",
+        "url": "https://23163.live.streamtheworld.com:443/SMOOTH953_AAC48.aac"
+    }
+]

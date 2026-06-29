@@ -1,0 +1,122 @@
+[
+  {
+    "id": "myanmar-health-radio-fm-9225",
+    "name": "Health Radio FM 92.25",
+    "url": "http://radio.siamtoday.in.th:8188/;stream.mp3",
+    "genre": "Music",
+    "city": "Yangon",
+    "country": "Myanmar (Burma)",
+    "lat": 16.7967129,
+    "lng": 96.1609916
+  },
+  {
+    "id": "myanmar-army-area-3-fm-9825",
+    "name": "Army Area 3 FM 98.25",
+    "url": "http://112.121.151.133:8192/;stream/1",
+    "genre": "Music",
+    "city": "Yangon",
+    "country": "Myanmar (Burma)",
+    "lat": 16.7967129,
+    "lng": 96.1609916
+  },
+  {
+    "id": "myanmar-lokoratnagarbhaa",
+    "name": "Lokoratnagarbhaa",
+    "url": "http://85.25.185.202:8118/stream?1568101614244.aac",
+    "genre": "Music",
+    "city": "Mandalay",
+    "country": "Myanmar (Burma)",
+    "lat": 21.9596834,
+    "lng": 96.0948743
+  },
+  {
+    "id": "myanmar-fm-105-kamphaengphet",
+    "name": "FM 105 Kamphaengphet",
+    "url": "http://radio.servradio.com:8506/;stream.mp3",
+    "genre": "Music",
+    "city": "Yangon",
+    "country": "Myanmar (Burma)",
+    "lat": 16.7967129,
+    "lng": 96.1609916
+  },
+  {
+    "id": "myanmar-love-fm-107",
+    "name": "Love FM 107",
+    "url": "https://radio10.plathong.net/7296/;stream.mp3",
+    "genre": "Music",
+    "city": "Mandalay",
+    "country": "Myanmar (Burma)",
+    "lat": 21.9596834,
+    "lng": 96.0948743
+  },
+  {
+    "id": "myanmar-great-93-|-onair",
+    "name": "Great 93 | OnAir",
+    "url": "https://radio.vpsthai.net/proxy/fbpiaobw/stream/1/",
+    "genre": "Music",
+    "city": "Yangon",
+    "country": "Myanmar (Burma)",
+    "lat": 16.7967129,
+    "lng": 96.1609916
+  },
+  {
+    "id": "myanmar-cherry-fm",
+    "name": "Cherry FM",
+    "url": "https://cherry.akiyaresearch.com:444/stream/89/",
+    "genre": "Music",
+    "city": "Yangon",
+    "country": "Myanmar (Burma)",
+    "lat": 16.7967129,
+    "lng": 96.1609916
+  },
+  {
+    "id": "myanmar-lela-101-fm-onairplus",
+    "name": "Lela 101 FM OnAirPlus",
+    "url": "https://plus.onair.network:8170/my",
+    "genre": "Music",
+    "city": "Yangon",
+    "country": "Myanmar (Burma)",
+    "lat": 16.7967129,
+    "lng": 96.1609916
+  },
+  {
+    "id": "myanmar-radio-nug-sw-1779",
+    "name": "Radio NUG SW 17.79",
+    "url": "http://n0a.radiojar.com/mpg5fm68z72vv?rj-ttl=5&rj-tok=AAABm_m-3LoA7mAmY_W-lzX3HA",
+    "genre": "Music",
+    "city": "Yangon",
+    "country": "Myanmar (Burma)",
+    "lat": 16.7967129,
+    "lng": 96.1609916
+  },
+  {
+    "id": "myanmar-padamyar-fm-882",
+    "name": "Padamyar FM 88.2",
+    "url": "https://stream-151.zeno.fm/og9btsnj00tuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJvZzlidHNuajAwdHV2IiwiaG9zdCI6InN0cmVhbS0xNTEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiS0pzSWE5X3FTaDZYT1JoN00xVC01QSIsImlhdCI6MTc2OTQyMDk5MywiZXhwIjoxNzY5NDIxMDUzfQ.aUQUQprnYOFMPbJXmAz3TZUpoV55iei36DnjaE5buz0",
+    "genre": "Music",
+    "city": "Yangon",
+    "country": "Myanmar (Burma)",
+    "lat": 16.7967129,
+    "lng": 96.1609916
+  },
+  {
+    "id": "myanmar-shirley-spinoza-radio",
+    "name": "Shirley & Spinoza Radio",
+    "url": "https://s2.radio.co/sec5fa6199/listen",
+    "genre": "Music",
+    "city": "Mandalay",
+    "country": "Myanmar (Burma)",
+    "lat": 21.9596834,
+    "lng": 96.0948743
+  },
+  {
+    "id": "myanmar-great-93-|-online",
+    "name": "Great 93 | Online",
+    "url": "https://free.rcast.net/70914",
+    "genre": "Music",
+    "city": "Mandalay",
+    "country": "Myanmar (Burma)",
+    "lat": 21.9596834,
+    "lng": 96.0948743
+  }
+]

@@ -1,0 +1,1604 @@
+[
+    {
+        "name": "RDS FM 103.0",
+        "city": "Rome",
+        "country": "Italy",
+        "url": "https://icstream.rds.radio/rds"
+    },
+    {
+        "name": "Radio L'Olgiata",
+        "city": "Rome",
+        "country": "Italy",
+        "url": "http://195.201.166.244:8071/index.html?sid=1"
+    },
+    {
+        "name": "Radio Dimensione Musica FM 95.3",
+        "city": "Rome",
+        "country": "Italy",
+        "url": "https://shoutcast2.streamingmedia.it/proxy/rdm?mp=/stream"
+    },
+    {
+        "name": "Radio Underground Italia FM",
+        "city": "Rome",
+        "country": "Italy",
+        "url": "https://nr14.newradio.it:8707/stream"
+    },
+    {
+        "name": "Globo Vintage 100.7 FM",
+        "city": "Rome",
+        "country": "Italy",
+        "url": "https://vintage.newradio.it/m100-64"
+    },
+    {
+        "name": "I Love Music Radio",
+        "city": "Rome",
+        "country": "Italy",
+        "url": "https://sr10.inmystream.it/proxy/paolo?mp=/stream"
+    },
+    {
+        "name": "Radio Noise",
+        "city": "Rome",
+        "country": "Italy",
+        "url": "https://be.server89.com/8072/radionoise.mp3"
+    },
+    {
+        "name": "Radio Kristall",
+        "city": "Milan",
+        "country": "Italy",
+        "url": "http://176.31.117.120:8115/stream"
+    },
+    {
+        "name": "Radio Bimbo",
+        "city": "Rome",
+        "country": "Italy",
+        "url": "https://radiobim-danidi01.radioca.st/stream"
+    },
+    {
+        "name": "Radio Radicale",
+        "city": "Rome",
+        "country": "Italy",
+        "url": "https://livemp3.radioradicale.it/live.mp3?.mp3"
+    },
+    {
+        "name": "Radio Edificatori Milano",
+        "city": "Milan",
+        "country": "Italy",
+        "url": "https://emiteradio.com/proxy/vonboeka?mp=/stream"
+    },
+    {
+        "name": "Rai Radio 2",
+        "city": "Rome",
+        "country": "Italy",
+        "url": "https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S35942484/yp5F67151K92/icecast"
+    },
+    {
+        "name": "Rai Radio 3",
+        "city": "Rome",
+        "country": "Italy",
+        "url": "https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S56630579/yEbkcBtIoSwd/icecast"
+    },
+    {
+        "name": "Rai Isoradio",
+        "city": "Rome",
+        "country": "Italy",
+        "url": "https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S88230050/W3T2uXpEeCuN/icecast"
+    },
+    {
+        "name": "Radio Studio 93",
+        "city": "Rome",
+        "country": "Italy",
+        "url": "https://stream9.xdevel.com/audio1s978205-2520/stream/icecast.audio"
+    },
+    {
+        "name": "Solo Radio",
+        "city": "Rome",
+        "country": "Italy",
+        "url": "https://soloradio.sailweb.cloud/soloradio256.mp3"
+    },
+    {
+        "name": "Radio Mach5",
+        "city": "Milan",
+        "country": "Italy",
+        "url": "http://94.23.6.107:8183/stream"
+    },
+    {
+        "name": "Rai Radio 1",
+        "city": "Rome",
+        "country": "Italy",
+        "url": "https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S16355530/Q4zh3NTu28Rx/icecast"
+    },
+    {
+        "name": "RMC Radio Monte Carlo",
+        "city": "Milan",
+        "country": "Italy",
+        "url": "http://edge.radiomontecarlo.net/RMC.mp3"
+    },
+    {
+        "name": "Universalwebradio",
+        "city": "Milan",
+        "country": "Italy",
+        "url": "http://195.201.166.244:8384/stream"
+    },
+    {
+        "name": "RMC Sport Network",
+        "city": "Milan",
+        "country": "Italy",
+        "url": "https://stream22.tmwradio.com/tmw.mp3"
+    },
+    {
+        "name": "Radio Libertà",
+        "city": "Milan",
+        "country": "Italy",
+        "url": "https://stream1.xdevel.com/audio0s975360-306/stream/icecast.audio"
+    },
+    {
+        "name": "Radio RBS",
+        "city": "Milan",
+        "country": "Italy",
+        "url": "https://sr2.inmystream.it/proxy/radiorbs?mp=/stream"
+    },
+    {
+        "name": "Funky Corner Radio",
+        "city": "Turin",
+        "country": "Italy",
+        "url": "https://ais-sa2.cdnstream1.com/2447_96.aac"
+    },
+    {
+        "name": "Radio 105 FM",
+        "city": "Milan",
+        "country": "Italy",
+        "url": "https://icecast.unitedradio.it/Radio105.mp3"
+    },
+    {
+        "name": "Musica Jazz",
+        "city": "Milan",
+        "country": "Italy",
+        "url": "https://ice03.fluidstream.net/mjr.aac"
+    },
+    {
+        "name": "Radio Emotions",
+        "city": "Milan",
+        "country": "Italy",
+        "url": "https://sr13.inmystream.it/proxy/radioemotions?mp=/stream"
+    },
+    {
+        "name": "Virgin Radio Italy",
+        "city": "Milan",
+        "country": "Italy",
+        "url": "https://icecast.unitedradio.it/Virgin.mp3"
+    },
+    {
+        "name": "Radio Popolare",
+        "city": "Milan",
+        "country": "Italy",
+        "url": "https://livex.radiopopolare.it/radiopop2"
+    },
+    {
+        "name": "Virgin Radio - Classic Rock",
+        "city": "Milan",
+        "country": "Italy",
+        "url": "https://icy.unitedradio.it/VirginRockClassics.mp3"
+    },
+    {
+        "name": "GRP Giornale Radio Piemonte",
+        "city": "Turin",
+        "country": "Italy",
+        "url": "https://stream5.xdevel.com/audio0s976619-1386/stream/icecast.audio"
+    },
+    {
+        "name": "Radio Nané 99.9 FM",
+        "city": "Turin",
+        "country": "Italy",
+        "url": "https://stream4.xdevel.com/audio0s976774-1547/stream/icecast.audio"
+    },
+    {
+        "name": "Radio Gran Paradiso",
+        "city": "Turin",
+        "country": "Italy",
+        "url": "https://radiogranparadiso2.ice.infomaniak.ch/radiogranparadiso-128.mp3"
+    },
+    {
+        "name": "Radio LU",
+        "city": "Turin",
+        "country": "Italy",
+        "url": "https://broadcast.brandingradio.com/listen/radiolu/live"
+    },
+    {
+        "name": "ICPRM Radio FM 98.7",
+        "city": "Milan",
+        "country": "Italy",
+        "url": "https://stream-151.zeno.fm/y7bffdd1q0quv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5N2JmZmRkMXEwcXV2IiwiaG9zdCI6InN0cmVhbS0xNTEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiQ0pVM2haOTZUby1USmIycVE3WUFjQSIsImlhdCI6MTc2OTQxOTY0OCwiZXhwIjoxNzY5NDE5NzA4fQ.iHD1id9JVSmLySeJVFpHoRa5X7bRfJcofxVyGGHrJdQ"
+    },
+    {
+        "name": "amoRadio - Roma Community Radio",
+        "city": "Rome",
+        "country": "Italy",
+        "url": "https://servidor25.brlogic.com:7108/live"
+    },
+    {
+        "name": "Radio Spazio Ivrea",
+        "city": "Turin",
+        "country": "Italy",
+        "url": "https://nr15.newradio.it/stream/9160"
+    },
+    {
+        "name": "Radio Blackout 105.25 FM",
+        "city": "Turin",
+        "country": "Italy",
+        "url": "https://blimp.streampunk.cc/_stream/blackout.mp3"
+    },
+    {
+        "name": "Radio Crossover Disco",
+        "city": "Turin",
+        "country": "Italy",
+        "url": "https://sp4.server89.com:7000/live"
+    },
+    {
+        "name": "Classic Radio 70-80-90",
+        "city": "Turin",
+        "country": "Italy",
+        "url": "https://gianni.radioca.st/stream2"
+    },
+    {
+        "name": "Electro lounge",
+        "city": "Milan",
+        "country": "Italy",
+        "url": "https://electrolounge.stream.laut.fm/electrolounge"
+    },
+    {
+        "name": "Radio Alpha Genova",
+        "city": "Genoa",
+        "country": "Italy",
+        "url": "http://sr9.inmystream.info:8543/stream"
+    },
+    {
+        "name": "Radio Fra Le Note",
+        "city": "Genoa",
+        "country": "Italy",
+        "url": "http://sr7.inmystream.info:8006/stream"
+    },
+    {
+        "name": "Radio Agorà 21",
+        "city": "Turin",
+        "country": "Italy",
+        "url": "https://sr9.inmystream.it/proxy/agora21?mp=/stream"
+    },
+    {
+        "name": "Radio BraOnTheRocks",
+        "city": "Turin",
+        "country": "Italy",
+        "url": "https://nr9.newradio.it:9328/1"
+    },
+    {
+        "name": "GoodMorning Genova",
+        "city": "Genoa",
+        "country": "Italy",
+        "url": "https://sr6.inmystream.it/proxy/daniele?mp=/stream"
+    },
+    {
+        "name": "Radio Jeans FM 97.5",
+        "city": "Genoa",
+        "country": "Italy",
+        "url": "http://streaming.radiojeans.net/radiojeans"
+    },
+    {
+        "name": "Radio Moncalieri",
+        "city": "Turin",
+        "country": "Italy",
+        "url": "https://nrf1.newradio.it:10292/stream"
+    },
+    {
+        "name": "Radio Zena",
+        "city": "Genoa",
+        "country": "Italy",
+        "url": "https://sr14.inmystream.it/stream/radiozena/"
+    },
+    {
+        "name": "Radio Manila",
+        "city": "Turin",
+        "country": "Italy",
+        "url": "https://stream15.top-ix.org/radiomanila"
+    },
+    {
+        "name": "Radio Nostalgia Piemonte",
+        "city": "Turin",
+        "country": "Italy",
+        "url": "https://ice12.fluidstream.net/nostalgia_pv.mp3"
+    },
+    {
+        "name": "F2 Radio Lab",
+        "city": "Naples",
+        "country": "Italy",
+        "url": "http://143.225.201.2:8000/RadioUnina"
+    },
+    {
+        "name": "RVS FM - RadioVoceSpazio FM 93.8",
+        "city": "Genoa",
+        "country": "Italy",
+        "url": "https://nr11.newradio.it/proxy/radiovoc?mp=/stream"
+    },
+    {
+        "name": "Radio Jukebox Piemonte",
+        "city": "Turin",
+        "country": "Italy",
+        "url": "https://stream15.top-ix.org/radiojukebox"
+    },
+    {
+        "name": "Radio Torino International 90.0FM",
+        "city": "Turin",
+        "country": "Italy",
+        "url": "https://stream15.top-ix.org:8000/radiotorinointernational"
+    },
+    {
+        "name": "RLV",
+        "city": "Genoa",
+        "country": "Italy",
+        "url": "https://onair15.xdevel.com/proxy/radiolevantovaldivara?mp=/;stream"
+    },
+    {
+        "name": "Italia Dance Music",
+        "city": "Genoa",
+        "country": "Italy",
+        "url": "https://sr2.inmystream.it:18032/stream"
+    },
+    {
+        "name": "Radio 19",
+        "city": "Genoa",
+        "country": "Italy",
+        "url": "https://str12.fluidstream.net/radio19.aac"
+    },
+    {
+        "name": "ROP Radio Oltrepo Pavese",
+        "city": "Genoa",
+        "country": "Italy",
+        "url": "https://sr10.inmystream.it/proxy/andrea1?mp=/stream"
+    },
+    {
+        "name": "Radio Torino Biblica FM 97.9",
+        "city": "Turin",
+        "country": "Italy",
+        "url": "https://radiotorinobiblica.ice.infomaniak.ch/radiotorinobiblica-128.mp3"
+    },
+    {
+        "name": "Radio CRC",
+        "city": "Naples",
+        "country": "Italy",
+        "url": "http://onair11.xdevel.com:9998/;/stream/1"
+    },
+    {
+        "name": "Radio Aldebaran",
+        "city": "Genoa",
+        "country": "Italy",
+        "url": "https://nr11.newradio.it/proxy/radioald?mp=/stream"
+    },
+    {
+        "name": "RadiogrAMma AM 1359",
+        "city": "Genoa",
+        "country": "Italy",
+        "url": "https://stream.esiliati.org:8003/radiogramma.mp3"
+    },
+    {
+        "name": "Radio Flegrea",
+        "city": "Naples",
+        "country": "Italy",
+        "url": "https://stream4.xdevel.com/audio1s976211-1537/stream/icecast.audio"
+    },
+    {
+        "name": "Radio City - Solo Musica Italiana",
+        "city": "Genoa",
+        "country": "Italy",
+        "url": "https://stream10.xdevel.com/audio1s977832-2275/stream/icecast.audio"
+    },
+    {
+        "name": "Rayuela Jazz Radio",
+        "city": "Naples",
+        "country": "Italy",
+        "url": "https://onair7.xdevel.com/proxy/xautocloud_r8kv_2200?mp=/;1/"
+    },
+    {
+        "name": "Radio Buenos Aires",
+        "city": "Naples",
+        "country": "Italy",
+        "url": "https://sr14.inmystream.it/stream/rba"
+    },
+    {
+        "name": "Radio Nostalgia Liguria",
+        "city": "Genoa",
+        "country": "Italy",
+        "url": "https://ice12.fluidstream.net/nostalgia_li.mp3"
+    },
+    {
+        "name": "Radio Kiss Kiss",
+        "city": "Naples",
+        "country": "Italy",
+        "url": "https://kisskiss.fluidstream.eu/KissKiss.aac"
+    },
+    {
+        "name": "Kiss Kiss History Kiss",
+        "city": "Naples",
+        "country": "Italy",
+        "url": "https://kk.fluidstream.eu/kk_history.mp3"
+    },
+    {
+        "name": "Radio Marte",
+        "city": "Naples",
+        "country": "Italy",
+        "url": "https://stream1.xdevel.com/audio0s975753-313/stream/icecast.audio"
+    },
+    {
+        "name": "Radio Kiss Kiss - Napoli",
+        "city": "Naples",
+        "country": "Italy",
+        "url": "https://kisskiss.fluidstream.eu/KKNapoli.aac"
+    },
+    {
+        "name": "Radio Kiss Kiss - Italia",
+        "city": "Naples",
+        "country": "Italy",
+        "url": "https://kisskiss.fluidstream.eu/KKItalia.aac"
+    },
+    {
+        "name": "Web Radio Network",
+        "city": "Naples",
+        "country": "Italy",
+        "url": "https://player.webradionetwork.eu:8000/radio.mp3"
+    },
+    {
+        "name": "Radio Cristiana EDAP",
+        "city": "Naples",
+        "country": "Italy",
+        "url": "https://s7.yesstreaming.net/stream/8046/edap.mp3"
+    },
+    {
+        "name": "Radio International Plus",
+        "city": "Bologna",
+        "country": "Italy",
+        "url": "https://ice08.fluidstream.net/fluid813.mp3"
+    },
+    {
+        "name": "Radio Handball Italia",
+        "city": "Bologna",
+        "country": "Italy",
+        "url": "https://cast4.my-control-panel.com/proxy/radiohan?mp=/1"
+    },
+    {
+        "name": "Radio Gibson",
+        "city": "Naples",
+        "country": "Italy",
+        "url": "https://listen.radiogibson.net/radiogibson"
+    },
+    {
+        "name": "Radio Fresh",
+        "city": "Bologna",
+        "country": "Italy",
+        "url": "https://radiofresh.radioca.st/stream"
+    },
+    {
+        "name": "NEU Radio",
+        "city": "Bologna",
+        "country": "Italy",
+        "url": "https://nr9.newradio.it:19205/stream"
+    },
+    {
+        "name": "Radio Italia anni 60",
+        "city": "Bologna",
+        "country": "Italy",
+        "url": "https://ice12.fluidstream.net/ria60_bo.aac"
+    },
+    {
+        "name": "Radio Digitalia RICORDI",
+        "city": "Genoa",
+        "country": "Italy",
+        "url": "https://radiodigitalia-ricordi.stream.laut.fm/radiodigitalia-ricordi?t302=2026-01-26_09-27-32&uuid=6e6c94a6-a277-4841-bfc2-d191ba190c4a"
+    },
+    {
+        "name": "Radiabo",
+        "city": "Bologna",
+        "country": "Italy",
+        "url": "https://ice17.fluidstream.net/radiabo.mp3"
+    },
+    {
+        "name": "Radio Frequenza Appennino",
+        "city": "Bologna",
+        "country": "Italy",
+        "url": "http://94.23.6.107:8196/index.html?sid=1"
+    },
+    {
+        "name": "Radio Città Fujiko FM 103.1",
+        "city": "Bologna",
+        "country": "Italy",
+        "url": "https://streaming.radiocittafujiko.it:8000/rcf.mp3"
+    },
+    {
+        "name": "Bologna Music Radio",
+        "city": "Bologna",
+        "country": "Italy",
+        "url": "https://nr11.newradio.it/proxy/mgubelli?mp=/stream"
+    },
+    {
+        "name": "Radio Popolare",
+        "city": "Bologna",
+        "country": "Italy",
+        "url": "https://livex.radiopopolare.it/radiopop"
+    },
+    {
+        "name": "RCS Network Napoli",
+        "city": "Naples",
+        "country": "Italy",
+        "url": "https://ice09.fluidstream.net/fluid0905.aac"
+    },
+    {
+        "name": "Radio Flyweb",
+        "city": "Bologna",
+        "country": "Italy",
+        "url": "https://nrf1.newradio.it:9930/stream"
+    },
+    {
+        "name": "Radio Centro Emilia",
+        "city": "Bologna",
+        "country": "Italy",
+        "url": "https://c38.radioboss.fm:8078/stream"
+    },
+    {
+        "name": "Rv1-SuperHIT 70/80",
+        "city": "Genoa",
+        "country": "Italy",
+        "url": "https://rv1-superhit.stream.laut.fm/rv1-superhit?t302=2026-01-26_09-27-33&uuid=10a367ed-f74b-4534-9a6c-b6e1c6c678c0"
+    },
+    {
+        "name": "Radio Tigullio Ambient",
+        "city": "Genoa",
+        "country": "Italy",
+        "url": "https://radio-tigullio-ambient.stream.laut.fm/radio-tigullio-ambient?t302=2026-01-26_09-27-33&uuid=f20b1abc-712a-4144-94f6-ec6b37bb0d2f"
+    },
+    {
+        "name": "Nettuno Bologna Uno",
+        "city": "Bologna",
+        "country": "Italy",
+        "url": "https://audio6.nemostream.tv/proxy/nettunobologna1ice1/stream"
+    },
+    {
+        "name": "Radio Immaginaria",
+        "city": "Bologna",
+        "country": "Italy",
+        "url": "https://a3.asurahosting.com/listen/radioimmaginaria/radio.mp3"
+    },
+    {
+        "name": "Radio Easy Network",
+        "city": "Noventa Padovana",
+        "country": "Italy",
+        "url": "https://sphera.fluidstream.eu/easy.aac"
+    },
+    {
+        "name": "Radio Easy Network - Classic",
+        "city": "Noventa Padovana",
+        "country": "Italy",
+        "url": "https://sphera.fluidstream.eu/easy_classica.mp3"
+    },
+    {
+        "name": "Radio 80",
+        "city": "Noventa Padovana",
+        "country": "Italy",
+        "url": "https://sphera.fluidstream.eu/radio80.aac?FLID=5"
+    },
+    {
+        "name": "Radio Easy Network  - Jazz and Soul",
+        "city": "Noventa Padovana",
+        "country": "Italy",
+        "url": "https://sphera.fluidstream.eu/easy_jazz.mp3"
+    },
+    {
+        "name": "Radio Padova History",
+        "city": "Noventa Padovana",
+        "country": "Italy",
+        "url": "https://sphera.fluidstream.eu/rpd_history.mp3?FLID=5"
+    },
+    {
+        "name": "RE-R Radio Emilia-Romagna",
+        "city": "Bologna",
+        "country": "Italy",
+        "url": "https://www.radioemiliaromagna.it/live/stream"
+    },
+    {
+        "name": "Radio Padova Christmas",
+        "city": "Noventa Padovana",
+        "country": "Italy",
+        "url": "https://sphera.fluidstream.eu/rpd_christmas.mp3"
+    },
+    {
+        "name": "Radio Padova History Italia",
+        "city": "Noventa Padovana",
+        "country": "Italy",
+        "url": "https://sphera.fluidstream.eu/rpd_hita.mp3?FLID=5"
+    },
+    {
+        "name": "Radio WOW",
+        "city": "Noventa Padovana",
+        "country": "Italy",
+        "url": "https://sphera.fluidstream.eu/fluid_wow.mp3"
+    },
+    {
+        "name": "Radio 80 Afro",
+        "city": "Noventa Padovana",
+        "country": "Italy",
+        "url": "https://sphera.fluidstream.eu/r80_afro.mp3?FLID=5"
+    },
+    {
+        "name": "Radio Padova Generazione Z",
+        "city": "Noventa Padovana",
+        "country": "Italy",
+        "url": "https://sphera.fluidstream.eu/rpd_genz.mp3"
+    },
+    {
+        "name": "Radio Company Easy",
+        "city": "Noventa Padovana",
+        "country": "Italy",
+        "url": "https://sphera.fluidstream.eu/ceasy.aac"
+    },
+    {
+        "name": "Radio Easy Rock 87.6 FM",
+        "city": "Noventa Padovana",
+        "country": "Italy",
+        "url": "https://sphera.fluidstream.eu/easyrock.mp3?FLID=5"
+    },
+    {
+        "name": "Radio Pocket FM 107.7",
+        "city": "Noventa Padovana",
+        "country": "Italy",
+        "url": "https://ice15.fluidstream.net/pocket.aac"
+    },
+    {
+        "name": "Radio Bellla & Monella",
+        "city": "Noventa Padovana",
+        "country": "Italy",
+        "url": "https://wma01.fluidstream.net/bella"
+    },
+    {
+        "name": "Radio Sportiva",
+        "city": "Catania",
+        "country": "Italy",
+        "url": "http://onair20.xdevel.com:8178/;stream.mp3"
+    },
+    {
+        "name": "Globus Radio Station",
+        "city": "Catania",
+        "country": "Italy",
+        "url": "https://ns3156088.ip-51-89-96.eu:2000/stream/GlobusRadioStation/stream"
+    },
+    {
+        "name": "Radio Gamma 5 FM 94.0",
+        "city": "Noventa Padovana",
+        "country": "Italy",
+        "url": "https://ice05.fluidstream.net/fluid0510.mp3"
+    },
+    {
+        "name": "Radio Delfino FM 90.4",
+        "city": "Catania",
+        "country": "Italy",
+        "url": "https://stream.radiodelfino.com:8040/radio.mp3"
+    },
+    {
+        "name": "Radio LatteMiele",
+        "city": "Bologna",
+        "country": "Italy",
+        "url": "https://ice09.fluidstream.net/fluid0904.mp3"
+    },
+    {
+        "name": "Radio Effe Italia",
+        "city": "Catania",
+        "country": "Italy",
+        "url": "https://nr11.newradio.it/proxy/sbfsuper?mp=/stream"
+    },
+    {
+        "name": "Radio Studio Centrale",
+        "city": "Catania",
+        "country": "Italy",
+        "url": "https://stream.studiocentrale.it/radio/8020/radio.mp3"
+    },
+    {
+        "name": "RPL 708090",
+        "city": "Catania",
+        "country": "Italy",
+        "url": "https://stream2.xdevel.com/audio7s194-50/stream/icecast.audio"
+    },
+    {
+        "name": "Radio Antenna Uno",
+        "city": "Catania",
+        "country": "Italy",
+        "url": "https://server.bellaradio.it:8091/a1.mp3"
+    },
+    {
+        "name": "Studio90Italia",
+        "city": "Catania",
+        "country": "Italy",
+        "url": "https://ns3156088.ip-51-89-96.eu:8246/stream"
+    },
+    {
+        "name": "Radio Zammù",
+        "city": "Catania",
+        "country": "Italy",
+        "url": "https://stream10.xdevel.com/audio6s977886-2320/stream/icecast.audio"
+    },
+    {
+        "name": "Radio Amore Blu",
+        "city": "Catania",
+        "country": "Italy",
+        "url": "https://stream10.xdevel.com/audio4s977886-2318/stream/icecast.audio"
+    },
+    {
+        "name": "Prega Radio",
+        "city": "Catania",
+        "country": "Italy",
+        "url": "https://nrf1.newradio.it/stream/10060"
+    },
+    {
+        "name": "Smile FM 89.3",
+        "city": "Catania",
+        "country": "Italy",
+        "url": "https://s22.myradiostream.com/:13258/index.html?sid=1"
+    },
+    {
+        "name": "Radio 4all.it",
+        "city": "Noventa Padovana",
+        "country": "Italy",
+        "url": "https://radio.wifi4all.it/rwifi4all"
+    },
+    {
+        "name": "Radio Amore Nostalgia",
+        "city": "Catania",
+        "country": "Italy",
+        "url": "https://stream10.xdevel.com/audio7s977886-2321/stream/icecast.audio"
+    },
+    {
+        "name": "Radio Fantastica Catania",
+        "city": "Catania",
+        "country": "Italy",
+        "url": "https://onair20.xdevel.com/proxy/radiofantastica?mp=/;stream"
+    },
+    {
+        "name": "Radio Una Voce Vicina",
+        "city": "Catania",
+        "country": "Italy",
+        "url": "https://onair7.xdevel.com/proxy/unavocevicina?mp=/stream"
+    },
+    {
+        "name": "Radio Mozart Italia",
+        "city": "Modena",
+        "country": "Italy",
+        "url": "http://onair15.xdevel.com:7064/1/"
+    },
+    {
+        "name": "Rete Radio Network",
+        "city": "Catania",
+        "country": "Italy",
+        "url": "https://s4.shoutitaly.com/listen/acicastelloonline/radio.mp3"
+    },
+    {
+        "name": "Radio Emme One",
+        "city": "Bologna",
+        "country": "Italy",
+        "url": "https://radioemmeone.stream.laut.fm/radioemmeone?t302=2026-01-26_09-27-39&uuid=99e231f1-1efb-40e9-91fd-8da15c9ca5f2"
+    },
+    {
+        "name": "Radio7 Sette volte radio",
+        "city": "Noventa Padovana",
+        "country": "Italy",
+        "url": "https://ice09.fluidstream.net/radio7.mp3"
+    },
+    {
+        "name": "Art of Music",
+        "city": "Modena",
+        "country": "Italy",
+        "url": "https://artofmusic.radioca.st/stream"
+    },
+    {
+        "name": "Radio Antenna 1 FM 101.3",
+        "city": "Modena",
+        "country": "Italy",
+        "url": "http://sr11.inmystream.it:8232/stream"
+    },
+    {
+        "name": "Radio Evangelo Buon Seme",
+        "city": "Catania",
+        "country": "Italy",
+        "url": "https://nr15.newradio.it:9172/stream"
+    },
+    {
+        "name": "Radio Firenze FM 95.4",
+        "city": "Florence",
+        "country": "Italy",
+        "url": "https://sr14.inmystream.it/stream/radiofirenze/stream"
+    },
+    {
+        "name": "Radiamo",
+        "city": "Modena",
+        "country": "Italy",
+        "url": "https://sr6.inmystream.it:18022/stream"
+    },
+    {
+        "name": "Radioattiva Nonantola",
+        "city": "Modena",
+        "country": "Italy",
+        "url": "https://ssl2.azotosolutions.com:1040/stream"
+    },
+    {
+        "name": "Tango Pasion Radio",
+        "city": "Modena",
+        "country": "Italy",
+        "url": "https://nr11.newradio.it/proxy/tangopas?mp=/stream"
+    },
+    {
+        "name": "Radio Stella",
+        "city": "Modena",
+        "country": "Italy",
+        "url": "https://stream6.xdevel.com/audio0s976787-1558/stream/icecast.audio"
+    },
+    {
+        "name": "Radio Toscana FM 104.7",
+        "city": "Florence",
+        "country": "Italy",
+        "url": "https://sr14.inmystream.it/stream/radiotoscana/stream"
+    },
+    {
+        "name": "Radio Zainet",
+        "city": "Florence",
+        "country": "Italy",
+        "url": "https://stream.mandragola.com/radiozainet"
+    },
+    {
+        "name": "Radio Pico",
+        "city": "Modena",
+        "country": "Italy",
+        "url": "https://stream9.xdevel.com/audio0s976126-1032/stream/icecast.audio"
+    },
+    {
+        "name": "Radio Mercato Centrale",
+        "city": "Florence",
+        "country": "Italy",
+        "url": "https://nr4.newradio.it:19407/stream"
+    },
+    {
+        "name": "Radio Wombat",
+        "city": "Florence",
+        "country": "Italy",
+        "url": "https://blimp.streampunk.cc/_stream/wombat.ogg"
+    },
+    {
+        "name": "Ganga Radio",
+        "city": "Florence",
+        "country": "Italy",
+        "url": "http://dreamsiteradiocp3.com:8112/stream"
+    },
+    {
+        "name": "Radio Cavolo",
+        "city": "Florence",
+        "country": "Italy",
+        "url": "https://s2.radio.co/s0f4ac5cbf/listen"
+    },
+    {
+        "name": "Controradio FM 93.6",
+        "city": "Florence",
+        "country": "Italy",
+        "url": "https://s4.yesstreaming.net:17199/stream"
+    },
+    {
+        "name": "Radio Mitology",
+        "city": "Florence",
+        "country": "Italy",
+        "url": "https://stream9.xdevel.com/audio2s977583-3054/stream/icecast.audio"
+    },
+    {
+        "name": "Radio Bruno Pentasport FM 90.8",
+        "city": "Florence",
+        "country": "Italy",
+        "url": "https://stream3.xdevel.com/audio6s975355-281/stream/icecast.audio"
+    },
+    {
+        "name": "Lady Radio",
+        "city": "Florence",
+        "country": "Italy",
+        "url": "https://stream4.xdevel.com/audio0s978435-2634/stream/icecast.audio"
+    },
+    {
+        "name": "Radio Animati",
+        "city": "Florence",
+        "country": "Italy",
+        "url": "https://stream.radioanimati.it/rasite"
+    },
+    {
+        "name": "Orme Radio",
+        "city": "Florence",
+        "country": "Italy",
+        "url": "https://azuracast.ormeradio.it/listen/ormeradio/stream"
+    },
+    {
+        "name": "Radio Firenze Viola",
+        "city": "Florence",
+        "country": "Italy",
+        "url": "https://stream.tmwradio.com/rfviola.mp3"
+    },
+    {
+        "name": "Radio Studio 91 Live",
+        "city": "Padua",
+        "country": "Italy",
+        "url": "http://comet.shoutca.st:8970/stream/"
+    },
+    {
+        "name": "Radio Mugello",
+        "city": "Florence",
+        "country": "Italy",
+        "url": "https://ssl.audio1.meway.tv/proxy/mugello?mp=/stream"
+    },
+    {
+        "name": "Radio Wellness",
+        "city": "Padua",
+        "country": "Italy",
+        "url": "http://audio1.meway.tv:8102/stream"
+    },
+    {
+        "name": "Radio Rosa",
+        "city": "Florence",
+        "country": "Italy",
+        "url": "https://stream4.xdevel.com/audio0s975947-765/stream/icecast.audio"
+    },
+    {
+        "name": "StereoCittà FM 95.0",
+        "city": "Padua",
+        "country": "Italy",
+        "url": "http://79.8.227.117:8008/1/"
+    },
+    {
+        "name": "Radio Calcio Padova",
+        "city": "Padua",
+        "country": "Italy",
+        "url": "https://calciopadova2020.radioca.st/stream"
+    },
+    {
+        "name": "Forever Rock",
+        "city": "Modena",
+        "country": "Italy",
+        "url": "https://foreverrock.stream.laut.fm/foreverrock?t302=2026-01-26_09-27-47&uuid=82ad8b75-8dff-41d4-93d5-bbb08d359ec8"
+    },
+    {
+        "name": "Power Station Italy",
+        "city": "Modena",
+        "country": "Italy",
+        "url": "https://powerstationitaly.stream.laut.fm/powerstationitaly?t302=2026-01-26_09-27-47&uuid=500c4f91-1a8b-45c0-9f7b-5649f8f9af76"
+    },
+    {
+        "name": "Radio Modena",
+        "city": "Modena",
+        "country": "Italy",
+        "url": "https://radiomodena.stream.laut.fm/radiomodena?t302=2026-01-26_09-27-47&uuid=9c86d0c0-05c5-4e1d-9f09-a16a119b7b91"
+    },
+    {
+        "name": "Forever 80",
+        "city": "Modena",
+        "country": "Italy",
+        "url": "https://forever80.stream.laut.fm/forever80?t302=2026-01-26_09-27-47&uuid=d2645ad1-9f43-420f-a7d4-dba3597bf142"
+    },
+    {
+        "name": "Vibra FM",
+        "city": "Padua",
+        "country": "Italy",
+        "url": "https://ice12.fluidstream.net/playstudio.aac"
+    },
+    {
+        "name": "Love FM",
+        "city": "Padua",
+        "country": "Italy",
+        "url": "https://ice02.fluidstream.net/lovefm.aac"
+    },
+    {
+        "name": "Easy Network",
+        "city": "Padua",
+        "country": "Italy",
+        "url": "https://sphera.fluidstream.eu/easy.mp3"
+    },
+    {
+        "name": "Radio Megamix 80",
+        "city": "Padua",
+        "country": "Italy",
+        "url": "https://centova.ipstream.it/proxy/megamix80/stream"
+    },
+    {
+        "name": "Forever 70",
+        "city": "Modena",
+        "country": "Italy",
+        "url": "https://forever70.stream.laut.fm/forever70?t302=2026-01-26_09-27-47&uuid=286c7e41-8ac6-447e-9457-a36c148f6d29"
+    },
+    {
+        "name": "Radio Padova The Beat",
+        "city": "Padua",
+        "country": "Italy",
+        "url": "https://sphera.fluidstream.eu/rpd_beat.mp3?FLID=5"
+    },
+    {
+        "name": "Forever 80 - Pop",
+        "city": "Modena",
+        "country": "Italy",
+        "url": "https://forever80-pop.stream.laut.fm/forever80-pop?t302=2026-01-26_09-27-48&uuid=3200ad98-33c4-41e3-8b57-d2dadab72393"
+    },
+    {
+        "name": "Forever 90",
+        "city": "Modena",
+        "country": "Italy",
+        "url": "https://forever90.stream.laut.fm/forever90?t302=2026-01-26_09-27-48&uuid=b6413db0-eb05-4ff0-afb2-7e0fc845aba1"
+    },
+    {
+        "name": "Web Radio DNOR",
+        "city": "Padua",
+        "country": "Italy",
+        "url": "https://sr11.inmystream.it/proxy/wrdnor/stream"
+    },
+    {
+        "name": "Radio Cafe' FM 95.3",
+        "city": "Padua",
+        "country": "Italy",
+        "url": "https://geminione.it/proxy/test/stream"
+    },
+    {
+        "name": "Power Station",
+        "city": "Modena",
+        "country": "Italy",
+        "url": "https://radiopowerstation.stream.laut.fm/radiopowerstation?t302=2026-01-26_09-27-48&uuid=02bca6f9-dac2-4758-8aef-9d4dbd1ab932"
+    },
+    {
+        "name": "RIN Italia Network",
+        "city": "Padua",
+        "country": "Italy",
+        "url": "https://nr15.newradio.it:9100/stream"
+    },
+    {
+        "name": "Radio Bruno",
+        "city": "Carpi",
+        "country": "Italy",
+        "url": "https://stream1.xdevel.com/audio4s975355-254/stream/icecast.audio"
+    },
+    {
+        "name": "101.2 Radio Action FM",
+        "city": "Palermo",
+        "country": "Italy",
+        "url": "https://onair11.xdevel.com/proxy/sc_action101?mp=/;stream"
+    },
+    {
+        "name": "Radio Sprint FM 104.3",
+        "city": "Palermo",
+        "country": "Italy",
+        "url": "https://nr8.newradio.it/proxy/radiospr?mp=/;"
+    },
+    {
+        "name": "Radio IN",
+        "city": "Palermo",
+        "country": "Italy",
+        "url": "https://stream3.xdevel.com/audio0s975604-233/stream/icecast.audio"
+    },
+    {
+        "name": "RGS",
+        "city": "Palermo",
+        "country": "Italy",
+        "url": "https://onair15.xdevel.com/proxy/rgs?mp=/;"
+    },
+    {
+        "name": "Radio Margherita",
+        "city": "Palermo",
+        "country": "Italy",
+        "url": "https://streaming.radiomargherita.com/stream/radiomargherita"
+    },
+    {
+        "name": "Radio Studio 104",
+        "city": "Palermo",
+        "country": "Italy",
+        "url": "https://onair7.xdevel.com/proxy/xautocloud_v8ss_1328?mp=/;stream/"
+    },
+    {
+        "name": "Radio Time FM 94.0",
+        "city": "Palermo",
+        "country": "Italy",
+        "url": "https://stream3.xdevel.com/audio0s975521-191/stream/icecast.audio"
+    },
+    {
+        "name": "Sanus Victu Radio",
+        "city": "Palermo",
+        "country": "Italy",
+        "url": "https://live.live-dvbt2.it/listen/radio/radio.mp3"
+    },
+    {
+        "name": "DabliuRadio FM 88.8",
+        "city": "Palermo",
+        "country": "Italy",
+        "url": "http://sr10.inmystream.info:8114/stream"
+    },
+    {
+        "name": "Radio Sherwood",
+        "city": "Padua",
+        "country": "Italy",
+        "url": "https://radiosherwood.ice.infomaniak.ch/radiosherwood-96.mp3"
+    },
+    {
+        "name": "Radio 100 Passi",
+        "city": "Palermo",
+        "country": "Italy",
+        "url": "http://nr11.newradio.it:9102/stream"
+    },
+    {
+        "name": "Radio Margherita Giovane",
+        "city": "Palermo",
+        "country": "Italy",
+        "url": "https://streaming.radiomargherita.com/stream/radiomargheritagiovane"
+    },
+    {
+        "name": "Radio Domina Nostra",
+        "city": "Palermo",
+        "country": "Italy",
+        "url": "http://192.99.33.106:8000/stream"
+    },
+    {
+        "name": "RVN FM 99.2 Radio Veritas Network",
+        "city": "Palermo",
+        "country": "Italy",
+        "url": "http://stream.radioveritas.net/diretta"
+    },
+    {
+        "name": "Radio Planet Music FM 87.5",
+        "city": "Palermo",
+        "country": "Italy",
+        "url": "https://ns3156088.ip-51-89-96.eu:2000/stream/RadioPlanetMusic"
+    },
+    {
+        "name": "Capitaldisko",
+        "city": "Venice",
+        "country": "Italy",
+        "url": "http://sr2.inmystream.info:8040/stream"
+    },
+    {
+        "name": "Radio Amica FM 91.5",
+        "city": "Palermo",
+        "country": "Italy",
+        "url": "https://nr12.newradio.it/stream/8676"
+    },
+    {
+        "name": "RCV Radio Network",
+        "city": "Palermo",
+        "country": "Italy",
+        "url": "http://sr3.inmystream.info:8219/index.html?sid=1"
+    },
+    {
+        "name": "Radio Amica FM",
+        "city": "Palermo",
+        "country": "Italy",
+        "url": "https://aldoamicafm.radioca.st/stream"
+    },
+    {
+        "name": "Lifearth Web Radio",
+        "city": "Venice",
+        "country": "Italy",
+        "url": "https://onair7.xdevel.com/proxy/xautocloud_why1_1071?mp=/;stream/;"
+    },
+    {
+        "name": "Radio Jesolo Web",
+        "city": "Venice",
+        "country": "Italy",
+        "url": "https://streaming.5senses.it/stream-12431.mp3"
+    },
+    {
+        "name": "Venice Classic Radio | VCR Auditorium",
+        "city": "Venice",
+        "country": "Italy",
+        "url": "https://de2.streamingpulse.com/stream/vcr"
+    },
+    {
+        "name": "Radio Clodia",
+        "city": "Venice",
+        "country": "Italy",
+        "url": "http://sr4.inmystream.info:8063/stream"
+    },
+    {
+        "name": "Radio Venezia 92.4 FM",
+        "city": "Venice",
+        "country": "Italy",
+        "url": "https://audio.streamshow.it/proxy/rveradiocheballa?mp=/stream"
+    },
+    {
+        "name": "ABC Music",
+        "city": "Carpi",
+        "country": "Italy",
+        "url": "https://abcmusic.stream.laut.fm/abcmusic?t302=2026-01-26_09-27-55&uuid=1d7fd6df-3fa7-42ca-a298-1edac11a547a"
+    },
+    {
+        "name": "Radio 41",
+        "city": "Venice",
+        "country": "Italy",
+        "url": "https://stream.radio41.it:8044/index.html?sid=1"
+    },
+    {
+        "name": "Circuito International Radio",
+        "city": "Venice",
+        "country": "Italy",
+        "url": "https://ice45.fluidstream.net/cir.mp3?FLID=5"
+    },
+    {
+        "name": "Play Tape",
+        "city": "Carpi",
+        "country": "Italy",
+        "url": "https://playtape.stream.laut.fm/playtape?t302=2026-01-26_09-27-56&uuid=dbab7c0e-7a5f-46d6-8d39-86e3d3f122f7"
+    },
+    {
+        "name": "Radio Cron",
+        "city": "Carpi",
+        "country": "Italy",
+        "url": "https://cron.stream.laut.fm/cron?t302=2026-01-26_09-27-56&uuid=62fc538b-d831-4be8-9e6c-2c87e736bdb0"
+    },
+    {
+        "name": "Canale100",
+        "city": "Bari",
+        "country": "Italy",
+        "url": "https://antares.dribbcast.com:2199/proxy/canale100?mp=/stream/;stream.mp3"
+    },
+    {
+        "name": "Controradio Bari",
+        "city": "Bari",
+        "country": "Italy",
+        "url": "https://antares.dribbcast.com:2199/proxy/controradio/stream.mp3/"
+    },
+    {
+        "name": "Station Italy",
+        "city": "Carpi",
+        "country": "Italy",
+        "url": "https://stationitaly.stream.laut.fm/stationitaly?t302=2026-01-26_09-27-56&uuid=d1ccd33d-f2cd-417b-a02d-43e9591456a5"
+    },
+    {
+        "name": "Radio Altamura Uno",
+        "city": "Bari",
+        "country": "Italy",
+        "url": "http://nr9.newradio.it:9389/stream"
+    },
+    {
+        "name": "Stereo Carpi",
+        "city": "Carpi",
+        "country": "Italy",
+        "url": "https://stereo.stream.laut.fm/stereo?t302=2026-01-26_09-27-57&uuid=b002d366-8110-467a-a381-7b85caabdb3a"
+    },
+    {
+        "name": "Radio Enny Sound",
+        "city": "Bari",
+        "country": "Italy",
+        "url": "https://nr14.newradio.it:8928/stream"
+    },
+    {
+        "name": "Radio Sound Bari",
+        "city": "Bari",
+        "country": "Italy",
+        "url": "http://178.32.140.82/proxy/incentiv?mp=%2Fstream"
+    },
+    {
+        "name": "Radio Dillo",
+        "city": "Carpi",
+        "country": "Italy",
+        "url": "https://radiodillo.stream.laut.fm/radiodillo?t302=2026-01-26_09-27-57&uuid=5487945e-1242-46f3-ad39-8bf0c9d1dc9d"
+    },
+    {
+        "name": "Radio Azzurra",
+        "city": "Carpi",
+        "country": "Italy",
+        "url": "https://radioazzurra.stream.laut.fm/radioazzurra?t302=2026-01-26_09-27-57&uuid=c69621d4-c597-4ae9-ac5d-de80db1c6465"
+    },
+    {
+        "name": "Azzurra Love",
+        "city": "Carpi",
+        "country": "Italy",
+        "url": "https://radioazzurralove.stream.laut.fm/radioazzurralove?t302=2026-01-26_09-27-57&uuid=8d1ba0dc-69e2-4250-9a25-3bc38d267a0f"
+    },
+    {
+        "name": "Repubblic Rock Radio",
+        "city": "Carpi",
+        "country": "Italy",
+        "url": "https://repubblicrockradio.stream.laut.fm/repubblicrockradio?t302=2026-01-26_09-27-57&uuid=f4275541-de3b-4f1e-bcac-7097eb3ec1b3"
+    },
+    {
+        "name": "Radio Carpi",
+        "city": "Carpi",
+        "country": "Italy",
+        "url": "https://radiocarpi.stream.laut.fm/radiocarpi?t302=2026-01-26_09-27-57&uuid=cd8b98e0-c481-4a64-928d-4af746548d06"
+    },
+    {
+        "name": "Radio Popizz",
+        "city": "Bari",
+        "country": "Italy",
+        "url": "https://nr11.newradio.it/proxy/belviso2?mp=/stream"
+    },
+    {
+        "name": "Radio Mi Piaci",
+        "city": "Bari",
+        "country": "Italy",
+        "url": "https://nr6.newradio.it/proxy/lbelvi01?mp=/stream"
+    },
+    {
+        "name": "Radio Senti Chi Parla",
+        "city": "Venice",
+        "country": "Italy",
+        "url": "http://15113.live.streamtheworld.com/SAM01AAC222_SC"
+    },
+    {
+        "name": "Radio Puglia FM 96.1",
+        "city": "Bari",
+        "country": "Italy",
+        "url": "https://ssl.audio1.meway.tv/proxy/radiopuglia/stream.mp3"
+    },
+    {
+        "name": "Radio Eurostar",
+        "city": "Trieste",
+        "country": "Italy",
+        "url": "http://mcp1.mydataknox.com:8012/stream"
+    },
+    {
+        "name": "Radio Fragola",
+        "city": "Trieste",
+        "country": "Italy",
+        "url": "http://streaming.radiofragola.com:8000/;listen.pls"
+    },
+    {
+        "name": "Radio Istra",
+        "city": "Trieste",
+        "country": "Italy",
+        "url": "https://uk1.streamingpulse.com/ssl/RadioIstra"
+    },
+    {
+        "name": "Radio Carducci Dante",
+        "city": "Trieste",
+        "country": "Italy",
+        "url": "https://nr14.newradio.it:8619/stream?ext=.mp3/;"
+    },
+    {
+        "name": "Radioattività FM 97",
+        "city": "Trieste",
+        "country": "Italy",
+        "url": "https://nr5.newradio.it/proxy/finmedia?mp=/stream"
+    },
+    {
+        "name": "Radio Mola International FM",
+        "city": "Bari",
+        "country": "Italy",
+        "url": "https://usa1.fastcast4u.com/proxy/rraffael?mp=/1"
+    },
+    {
+        "name": "Radio Sorrriso",
+        "city": "Trieste",
+        "country": "Italy",
+        "url": "https://wma01.fluidstream.net/sorriso?FLID=1"
+    },
+    {
+        "name": "Radio Capris Cafe",
+        "city": "Trieste",
+        "country": "Italy",
+        "url": "https://stream.exit.si/CAFE"
+    },
+    {
+        "name": "Radio Centro",
+        "city": "Bari",
+        "country": "Italy",
+        "url": "https://nr6.newradio.it:19463/index.html?sid=1"
+    },
+    {
+        "name": "Primorski val",
+        "city": "Trieste",
+        "country": "Italy",
+        "url": "https://altair.streamerr.co/stream/primorskival"
+    },
+    {
+        "name": "Radio Italia anni 60",
+        "city": "Cagliari",
+        "country": "Italy",
+        "url": "https://ice12.fluidstream.net/ria60_ca.aac"
+    },
+    {
+        "name": "Radio Cuore",
+        "city": "Cagliari",
+        "country": "Italy",
+        "url": "http://onair15.xdevel.com:8318/;stream.mp3"
+    },
+    {
+        "name": "Radio Arcobaleno",
+        "city": "Cagliari",
+        "country": "Italy",
+        "url": "http://178.32.139.167:8102/stream/"
+    },
+    {
+        "name": "Radio Golfo degli Angeli",
+        "city": "Cagliari",
+        "country": "Italy",
+        "url": "http://82.85.31.157:8090/index.html?sid=1"
+    },
+    {
+        "name": "Radio X 96.8 FM",
+        "city": "Cagliari",
+        "country": "Italy",
+        "url": "https://eu2.fastcast4u.com/proxy/radiox?mp=/1"
+    },
+    {
+        "name": "Radio Diffusione Europea",
+        "city": "Trieste",
+        "country": "Italy",
+        "url": "https://radio.latuatv.eu:1345/stream"
+    },
+    {
+        "name": "Radio Kalaritana",
+        "city": "Cagliari",
+        "country": "Italy",
+        "url": "https://radio.kalaritanamedia.it/index.html?sid=1"
+    },
+    {
+        "name": "Radio Furgoncino",
+        "city": "Cagliari",
+        "country": "Italy",
+        "url": "http://n08.radiojar.com/sf65dpxy9vzuv.mp3?rj-ttl=5&rj-tok=AAABm_mq9BkADkw-NPfIu1SQnw"
+    },
+    {
+        "name": "Radio Alta FM 101.7",
+        "city": "Bergamo",
+        "country": "Italy",
+        "url": "https://live.radioalta.it/stream.mp3"
+    },
+    {
+        "name": "Radiolina",
+        "city": "Cagliari",
+        "country": "Italy",
+        "url": "https://streaming.shoutcast.com/radiolina"
+    },
+    {
+        "name": "GorgoRadio",
+        "city": "Bergamo",
+        "country": "Italy",
+        "url": "http://138.201.198.218:8123/stream"
+    },
+    {
+        "name": "Radio Bergamo FM 104.3",
+        "city": "Bergamo",
+        "country": "Italy",
+        "url": "https://ice12.fluidstream.net/bergamo.mp3"
+    },
+    {
+        "name": "Radio Mela",
+        "city": "Cagliari",
+        "country": "Italy",
+        "url": "https://www.shoutcastitalia.com/proxy/radiomela?mp=/stream"
+    },
+    {
+        "name": "Unica Radio",
+        "city": "Cagliari",
+        "country": "Italy",
+        "url": "https://stream1.rcast.net/66954"
+    },
+    {
+        "name": "Radio Number One",
+        "city": "Bergamo",
+        "country": "Italy",
+        "url": "https://ice04.fluidstream.net/rn1.mp3"
+    },
+    {
+        "name": "Radio Millenote FM 95.2",
+        "city": "Bergamo",
+        "country": "Italy",
+        "url": "https://str12.fluidstream.net/millenote.aac"
+    },
+    {
+        "name": "TDN The Dance Network",
+        "city": "Bergamo",
+        "country": "Italy",
+        "url": "https://dreamsiteradiocp3.com/proxy/tdn?mp=/stream"
+    },
+    {
+        "name": "RDT Radio Station",
+        "city": "Trieste",
+        "country": "Italy",
+        "url": "https://sr11.inmystream.it:8026/stream"
+    },
+    {
+        "name": "Radio Super Sound",
+        "city": "Cagliari",
+        "country": "Italy",
+        "url": "https://sr14.inmystream.it:8002/stream"
+    },
+    {
+        "name": "Radio OneDance",
+        "city": "Bergamo",
+        "country": "Italy",
+        "url": "https://ice04.fluidstream.net/rn1_2.aac"
+    },
+    {
+        "name": "RCI Latina",
+        "city": "Cagliari",
+        "country": "Italy",
+        "url": "https://nrf1.newradio.it:10050/stream"
+    },
+    {
+        "name": "Hey DJ Radio",
+        "city": "Bergamo",
+        "country": "Italy",
+        "url": "https://nr3.newradio.it:18303/stream"
+    },
+    {
+        "name": "Radio Centar",
+        "city": "Trieste",
+        "country": "Italy",
+        "url": "https://radiocentar.hr:8282/mp3"
+    },
+    {
+        "name": "Radio Brusa",
+        "city": "Bergamo",
+        "country": "Italy",
+        "url": "https://stream10.xdevel.com/audio0s977540-2090/stream/icecast.audio"
+    },
+    {
+        "name": "Musical Factory",
+        "city": "Lonigo",
+        "country": "Italy",
+        "url": "https://stream.musicalfactory.it:8000/radio.mp3"
+    },
+    {
+        "name": "Musical Factory 80's Zone",
+        "city": "Lonigo",
+        "country": "Italy",
+        "url": "https://stream.musicalfactory.it:8040/radio.mp3"
+    },
+    {
+        "name": "Musical Factory 90's Zone",
+        "city": "Lonigo",
+        "country": "Italy",
+        "url": "https://stream.musicalfactory.it:8050/radio.mp3"
+    },
+    {
+        "name": "ADMR Web Rock Radio",
+        "city": "Bergamo",
+        "country": "Italy",
+        "url": "https://nr8.newradio.it/proxy/studioar?mp=/stream"
+    },
+    {
+        "name": "Musical Factory Country Zone",
+        "city": "Lonigo",
+        "country": "Italy",
+        "url": "https://stream.musicalfactory.it:8010/radio.mp3"
+    },
+    {
+        "name": "Musical Factory Dance Zone",
+        "city": "Lonigo",
+        "country": "Italy",
+        "url": "https://stream.musicalfactory.it:8020/radio.mp3"
+    },
+    {
+        "name": "BamRadio",
+        "city": "Bergamo",
+        "country": "Italy",
+        "url": "https://sr7.inmystream.it/proxy/osiosport?mp=/stream"
+    },
+    {
+        "name": "Musical Factory 70's Zone",
+        "city": "Lonigo",
+        "country": "Italy",
+        "url": "https://stream.musicalfactory.it/listen/70s_zone/radio.mp3"
+    },
+    {
+        "name": "Radio TRV FM 99.0",
+        "city": "Lonigo",
+        "country": "Italy",
+        "url": "https://onair18.xdevel.com/proxy/teleradioveneta1?mp=/;stream/;"
+    },
+    {
+        "name": "Radio RCS (Radio Cerea Stereo)",
+        "city": "Lonigo",
+        "country": "Italy",
+        "url": "https://nr14.newradio.it:8691/stream"
+    },
+    {
+        "name": "Radio Oreb FM 90.2",
+        "city": "Lonigo",
+        "country": "Italy",
+        "url": "https://stream10.xdevel.com/audio0s978098-2473/stream/icecast.audio"
+    },
+    {
+        "name": "Radio Atlantide",
+        "city": "Lonigo",
+        "country": "Italy",
+        "url": "https://bluford.torontocast.com/proxy/dklbpzuj/stream"
+    }
+]

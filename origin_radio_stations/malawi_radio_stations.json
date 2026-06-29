@@ -1,0 +1,212 @@
+[
+  {
+    "id": "malawi-twr-malawi",
+    "name": "TWR Malawi",
+    "url": "https://s8.streamafrica.net/listen/twr_malawi/radio.mp3",
+    "genre": "Music",
+    "city": "Lilongwe",
+    "country": "Malawi",
+    "lat": -13.9875107,
+    "lng": 33.768144
+  },
+  {
+    "id": "malawi-groove-100-fm",
+    "name": "Groove 100 FM",
+    "url": "https://radio.exclusivemw.cloud/listen/groove_fm/radio.mp3",
+    "genre": "Music",
+    "city": "Lilongwe",
+    "country": "Malawi",
+    "lat": -13.9875107,
+    "lng": 33.768144
+  },
+  {
+    "id": "malawi-umunthu-fm",
+    "name": "Umunthu FM",
+    "url": "https://host2.streamafrica.net/listen/umunthu/radio.mp3",
+    "genre": "Music",
+    "city": "Lilongwe",
+    "country": "Malawi",
+    "lat": -13.9875107,
+    "lng": 33.768144
+  },
+  {
+    "id": "malawi-timveni-radio-896-fm",
+    "name": "Timveni Radio 89.6 FM",
+    "url": "https://radio.exclusivemw.cloud/listen/timveni_radio/radio.mp3",
+    "genre": "Music",
+    "city": "Lilongwe",
+    "country": "Malawi",
+    "lat": -13.9875107,
+    "lng": 33.768144
+  },
+  {
+    "id": "malawi-mudziwathu-radio",
+    "name": "Mudziwathu Radio",
+    "url": "https://radio.exclusivemw.cloud/listen/mudziwathu_fm/radio.mp3",
+    "genre": "Music",
+    "city": "Lilongwe",
+    "country": "Malawi",
+    "lat": -13.9875107,
+    "lng": 33.768144
+  },
+  {
+    "id": "malawi-beyond-fm",
+    "name": "Beyond FM",
+    "url": "https://radio.exclusivemw.cloud/listen/rukuru_live/radio.mp3",
+    "genre": "Music",
+    "city": "Lilongwe",
+    "country": "Malawi",
+    "lat": -13.9875107,
+    "lng": 33.768144
+  },
+  {
+    "id": "malawi-chisomo-radio-station-fm-970",
+    "name": "Chisomo Radio Station FM 97.0",
+    "url": "https://radio.exclusivemw.cloud/listen/chisomo_radio_station/radio.mp3",
+    "genre": "Music",
+    "city": "Lilongwe",
+    "country": "Malawi",
+    "lat": -13.9875107,
+    "lng": 33.768144
+  },
+  {
+    "id": "malawi-yetu-radio",
+    "name": "Yetu Radio",
+    "url": "https://radio.exclusivemw.cloud/listen/yetu_radio/radio.mp3",
+    "genre": "Music",
+    "city": "Blantyre",
+    "country": "Malawi",
+    "lat": -15.7862543,
+    "lng": 35.0035694
+  },
+  {
+    "id": "malawi-radio-bembeke-fm",
+    "name": "Radio Bembeke FM",
+    "url": "https://radio.exclusivemw.cloud/listen/radio_bembeke_fm/radio.mp3",
+    "genre": "Music",
+    "city": "Lilongwe",
+    "country": "Malawi",
+    "lat": -13.9875107,
+    "lng": 33.768144
+  },
+  {
+    "id": "malawi-nkhotakota-radio",
+    "name": "Nkhotakota Radio",
+    "url": "https://radio.exclusivemw.cloud/listen/nkhotako_radio/radio.mp3",
+    "genre": "Music",
+    "city": "Nkhotakota",
+    "country": "Malawi",
+    "lat": -12.8321965,
+    "lng": 34.0329177
+  },
+  {
+    "id": "malawi-mbc-radio-1-fm-954",
+    "name": "MBC Radio 1 FM 95.4",
+    "url": "http://radiostream.mbc.mw:88/broadwavehigh.mp3",
+    "genre": "Music",
+    "city": "Lilongwe",
+    "country": "Malawi",
+    "lat": -13.9875107,
+    "lng": 33.768144
+  },
+  {
+    "id": "malawi-mbc-radio-2-fm-922",
+    "name": "MBC Radio 2 FM 92.2",
+    "url": "http://radiostream.mbc.mw:86/broadwavehigh.mp3",
+    "genre": "Music",
+    "city": "Lilongwe",
+    "country": "Malawi",
+    "lat": -13.9875107,
+    "lng": 33.768144
+  },
+  {
+    "id": "malawi-mijfm-malawi-institute-of-journalism",
+    "name": "MIJFM Malawi Institute of Journalism",
+    "url": "https://stream-160.zeno.fm/k6q1xwxm4ehvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJrNnExeHd4bTRlaHZ2IiwiaG9zdCI6InN0cmVhbS0xNjAuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoibXNxSjFjdktTUTJfVkxkSVh6OExIQSIsImlhdCI6MTc2OTQyMDQyOCwiZXhwIjoxNzY5NDIwNDg4fQ.jMpH_dmyDw_8TZi5xVLRcvSUD5baQiVImsLYrVPEvAs",
+    "genre": "Music",
+    "city": "Lilongwe",
+    "country": "Malawi",
+    "lat": -13.9875107,
+    "lng": 33.768144
+  },
+  {
+    "id": "malawi-radio-maria-malawi-992-fm",
+    "name": "Radio Maria Malawi 99.2 FM",
+    "url": "https://dreamsiteradiocp2.com/proxy/rmmalawi2?mp=/stream",
+    "genre": "Music",
+    "city": "Mangochi",
+    "country": "Malawi",
+    "lat": -14.141111,
+    "lng": 35.3267495
+  },
+  {
+    "id": "malawi-yoneco-fm",
+    "name": "Yoneco FM",
+    "url": "https://s7.myradiostream.com:60218/listen.mp3/",
+    "genre": "Music",
+    "city": "Zomba",
+    "country": "Malawi",
+    "lat": -15.3863208,
+    "lng": 35.3268273
+  },
+  {
+    "id": "malawi-radio-alinafe-fm-971",
+    "name": "Radio Alinafe FM 97.1",
+    "url": "https://radioalinafe.live/stream",
+    "genre": "Music",
+    "city": "Lilongwe",
+    "country": "Malawi",
+    "lat": -13.9875107,
+    "lng": 33.768144
+  },
+  {
+    "id": "malawi-radio-dinosaur-fm-1076",
+    "name": "Radio Dinosaur FM 107.6",
+    "url": "https://s1.free-shoutcast.com/stream/18070",
+    "genre": "Music",
+    "city": "Karonga",
+    "country": "Malawi",
+    "lat": -10.0847469,
+    "lng": 33.8661918
+  },
+  {
+    "id": "malawi-radio-delight-kwitonta-897-fm",
+    "name": "Radio Delight Kwitonta 89.7 FM",
+    "url": "https://s43.myradiostream.com:23820/listen.mp3",
+    "genre": "Music",
+    "city": "Karonga",
+    "country": "Malawi",
+    "lat": -10.0847469,
+    "lng": 33.8661918
+  },
+  {
+    "id": "malawi-chanco-community-radio-1076-fm",
+    "name": "Chanco Community Radio 107.6 FM",
+    "url": "https://live.netradio.pro/listen/chanco/radio.mp3",
+    "genre": "Music",
+    "city": "Zomba",
+    "country": "Malawi",
+    "lat": -15.3863208,
+    "lng": 35.3268273
+  },
+  {
+    "id": "malawi-zbs-zodiak-fm-970",
+    "name": "ZBS Zodiak FM 97.0",
+    "url": "https://ice31.securenetsystems.net/0079",
+    "genre": "Music",
+    "city": "Lilongwe",
+    "country": "Malawi",
+    "lat": -13.9875107,
+    "lng": 33.768144
+  },
+  {
+    "id": "malawi-uwala-fm",
+    "name": "Uwala FM",
+    "url": "https://servidor22.brlogic.com:7078/live",
+    "genre": "Music",
+    "city": "Lilongwe",
+    "country": "Malawi",
+    "lat": -13.9875107,
+    "lng": 33.768144
+  }
+]

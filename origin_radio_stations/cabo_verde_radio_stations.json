@@ -1,0 +1,1212 @@
+[
+  {
+    "id": "cabo-radio-cabo-verde-international",
+    "name": "Radio Cabo Verde International",
+    "url": "http://41.221.203.141:8090/",
+    "genre": "Music",
+    "city": "Santa Maria",
+    "country": "Cape Verde",
+    "lat": 16.5986926,
+    "lng": -22.9050314
+  },
+  {
+    "id": "cabo-radio-sal-one",
+    "name": "Radio Sal ONE",
+    "url": "http://41.221.203.141:8093/",
+    "genre": "Music",
+    "city": "Santa Maria",
+    "country": "Cape Verde",
+    "lat": 16.5986926,
+    "lng": -22.9050314
+  },
+  {
+    "id": "cabo-radio-ribeira-brava",
+    "name": "Radio Ribeira Brava",
+    "url": "https://sc1.xdevel.com/ribeirabrava",
+    "genre": "Music",
+    "city": "Santa Maria",
+    "country": "Cape Verde",
+    "lat": 16.5986926,
+    "lng": -22.9050314
+  },
+  {
+    "id": "cabo-rcm",
+    "name": "RCM",
+    "url": "https://stream.cvhosting.uk:8040/radio.mp3",
+    "genre": "Music",
+    "city": "Santa Maria",
+    "country": "Cape Verde",
+    "lat": 16.5986926,
+    "lng": -22.9050314
+  },
+  {
+    "id": "cabo-rádio-litoral-fm-945",
+    "name": "Rádio Litoral FM 94.5",
+    "url": "https://cast4.hoost.com.br:20053/stream",
+    "genre": "Music",
+    "city": "Cabo Frio RJ",
+    "country": "Brazil",
+    "lat": -22.8804369,
+    "lng": -42.0189227
+  },
+  {
+    "id": "cabo-conselheiro-fm-877",
+    "name": "Conselheiro FM 87.7",
+    "url": "https://stm1.streamproarte.com.br:7204/stream",
+    "genre": "Music",
+    "city": "Cabo Frio RJ",
+    "country": "Brazil",
+    "lat": -22.8804369,
+    "lng": -42.0189227
+  },
+  {
+    "id": "cabo-rádio-onda-977-fm",
+    "name": "Rádio Onda 97.7 FM",
+    "url": "https://ondasfm.streams.com.br/stream",
+    "genre": "Music",
+    "city": "Cabo Frio RJ",
+    "country": "Brazil",
+    "lat": -22.8804369,
+    "lng": -42.0189227
+  },
+  {
+    "id": "cabo-radio-cidade-fm-911",
+    "name": "Radio Cidade FM 91.1",
+    "url": "https://hts02.brascast.com:9288/live",
+    "genre": "Music",
+    "city": "Santa Maria",
+    "country": "Cape Verde",
+    "lat": 16.5986926,
+    "lng": -22.9050314
+  },
+  {
+    "id": "cabo-rádio-conceitos-fm",
+    "name": "Rádio Conceitos FM",
+    "url": "https://stm1.ninjascast.com:7070/stream",
+    "genre": "Music",
+    "city": "Cabo Frio RJ",
+    "country": "Brazil",
+    "lat": -22.8804369,
+    "lng": -42.0189227
+  },
+  {
+    "id": "cabo-houda-fm",
+    "name": "Houda FM",
+    "url": "https://radio4.pro-fhi.net:19050/stream",
+    "genre": "Music",
+    "city": "Santa Maria",
+    "country": "Cape Verde",
+    "lat": 16.5986926,
+    "lng": -22.9050314
+  },
+  {
+    "id": "cabo-oscar-1015-fm",
+    "name": "Oscar 101.5 FM",
+    "url": "http://audioout.gvstream.net/gpm-oscar1015.aac",
+    "genre": "Music",
+    "city": "Cabo San Lucas",
+    "country": "Mexico",
+    "lat": 22.8938884,
+    "lng": -109.92006
+  },
+  {
+    "id": "cabo-salam-radio-dakar",
+    "name": "Salam Radio Dakar",
+    "url": "https://stream-167.zeno.fm/br25q9xqg48uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJicjI1cTl4cWc0OHV2IiwiaG9zdCI6InN0cmVhbS0xNjcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoienlIa2xHMWxRS3VoY3V3bHR0TEw4USIsImlhdCI6MTc2OTQxNzI4MywiZXhwIjoxNzY5NDE3MzQzfQ.Dab0YhrAPZCp6Z5sjHIR2jRYi7UC32bfe_GEGqcEcX8",
+    "genre": "Music",
+    "city": "Santa Maria",
+    "country": "Cape Verde",
+    "lat": 16.5986926,
+    "lng": -22.9050314
+  },
+  {
+    "id": "cabo-estação-104-fm",
+    "name": "Estação 104 FM",
+    "url": "https://streaming.fox.srv.br:8006/stream",
+    "genre": "Music",
+    "city": "Cabo Frio RJ",
+    "country": "Brazil",
+    "lat": -22.8804369,
+    "lng": -42.0189227
+  },
+  {
+    "id": "cabo-fm-101",
+    "name": "FM 101",
+    "url": "https://nl.digitalrm.pt:8012/stream",
+    "genre": "Music",
+    "city": "Cabo Frio RJ",
+    "country": "Brazil",
+    "lat": -22.8804369,
+    "lng": -42.0189227
+  },
+  {
+    "id": "cabo-radio-keur-massar",
+    "name": "Radio Keur Massar",
+    "url": "https://stream.keurmassar.info/",
+    "genre": "Music",
+    "city": "Santa Maria",
+    "country": "Cape Verde",
+    "lat": 16.5986926,
+    "lng": -22.9050314
+  },
+  {
+    "id": "cabo-alpha-fm-1017",
+    "name": "Alpha FM 101.7",
+    "url": "https://27433.live.streamtheworld.com:443/RADIO_ALPHAFMAAC.aac",
+    "genre": "Music",
+    "city": "Cabo Frio RJ",
+    "country": "Brazil",
+    "lat": -22.8804369,
+    "lng": -42.0189227
+  },
+  {
+    "id": "cabo-miled-radio-los-cabos-915-fm",
+    "name": "Miled Radio Los Cabos 91.5 FM",
+    "url": "https://miledloscabos-cybertec.radioca.st/stream",
+    "genre": "Music",
+    "city": "Cabo San Lucas",
+    "country": "Mexico",
+    "lat": 22.8938884,
+    "lng": -109.92006
+  },
+  {
+    "id": "cabo-radio-uabcs-1180-am",
+    "name": "Radio UABCS 1180 AM",
+    "url": "https://edge.mixlr.com/channel/sanhc",
+    "genre": "Music",
+    "city": "Cabo San Lucas",
+    "country": "Mexico",
+    "lat": 22.8938884,
+    "lng": -109.92006
+  },
+  {
+    "id": "cabo-rádio-itatiaia",
+    "name": "Rádio Itatiaia",
+    "url": "https://8903.brasilstream.com.br/stream",
+    "genre": "Music",
+    "city": "Cabo Frio RJ",
+    "country": "Brazil",
+    "lat": -22.8804369,
+    "lng": -42.0189227
+  },
+  {
+    "id": "cabo-la-giganta-xhlbc-957-fm",
+    "name": "La Giganta XHLBC 95.7 FM",
+    "url": "http://www.radiolagiganta.com:8080/radiolagiganta",
+    "genre": "Music",
+    "city": "Cabo San Lucas",
+    "country": "Mexico",
+    "lat": 22.8938884,
+    "lng": -109.92006
+  },
+  {
+    "id": "cabo-antena-1",
+    "name": "Antena 1",
+    "url": "https://antenaone.crossradio.com.br/stream",
+    "genre": "Music",
+    "city": "Cabo Frio RJ",
+    "country": "Brazil",
+    "lat": -22.8804369,
+    "lng": -42.0189227
+  },
+  {
+    "id": "cabo-radiante-fm-891",
+    "name": "Radiante FM 89.1",
+    "url": "https://streamingcwsradio30.com:7036/stream",
+    "genre": "Music",
+    "city": "Cabo San Lucas",
+    "country": "Mexico",
+    "lat": 22.8938884,
+    "lng": -109.92006
+  },
+  {
+    "id": "cabo-vibra-radio-fm-995",
+    "name": "Vibra Radio FM 99.5",
+    "url": "https://sp3.servidorrprivado.com:10827/index.html?sid=1",
+    "genre": "Music",
+    "city": "Cabo San Lucas",
+    "country": "Mexico",
+    "lat": 22.8938884,
+    "lng": -109.92006
+  },
+  {
+    "id": "cabo-xhscan-1079-fm-radio-chureya",
+    "name": "XHSCAN 107.9 FM Radio Chureya",
+    "url": "https://stream-165.zeno.fm/0hg3ff8wsf9uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwaGczZmY4d3NmOXV2IiwiaG9zdCI6InN0cmVhbS0xNjUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoib0xPYnpUNndRalNxa042NUZmTU1zdyIsImlhdCI6MTc2OTQxNzI4NSwiZXhwIjoxNzY5NDE3MzQ1fQ.X2Em79Wb_Hl18CwI19LQiWa5RO5vzpgYikhOIBa1R3A",
+    "genre": "Music",
+    "city": "Cabo San Lucas",
+    "country": "Mexico",
+    "lat": 22.8938884,
+    "lng": -109.92006
+  },
+  {
+    "id": "cabo-radio-uas-1029-fm",
+    "name": "Radio UAS 102.9 FM",
+    "url": "https://stream9.mexiserver.com/8410/stream",
+    "genre": "Music",
+    "city": "Cabo San Lucas",
+    "country": "Mexico",
+    "lat": 22.8938884,
+    "lng": -109.92006
+  },
+  {
+    "id": "cabo-rádio-jb-fm-99,9",
+    "name": "Rádio JB FM 99,9",
+    "url": "https://27693.live.streamtheworld.com:443/JBFMAAC.aac",
+    "genre": "Music",
+    "city": "Cabo Frio RJ",
+    "country": "Brazil",
+    "lat": -22.8804369,
+    "lng": -42.0189227
+  },
+  {
+    "id": "cabo-98-fm-correio-joão-pessoa",
+    "name": "98 FM Correio João Pessoa",
+    "url": "http://shout25.crossradio.com.br:8066/live",
+    "genre": "Music",
+    "city": "João Pessoa PB",
+    "country": "Brazil",
+    "lat": -7.3295063,
+    "lng": -35.3348837
+  },
+  {
+    "id": "cabo-bb-music-búzios",
+    "name": "BB MUSiC Búzios",
+    "url": "https://servidor37-1.brlogic.com:8334/live",
+    "genre": "Music",
+    "city": "Cabo Frio RJ",
+    "country": "Brazil",
+    "lat": -22.8804369,
+    "lng": -42.0189227
+  },
+  {
+    "id": "cabo-rádio-somada",
+    "name": "Rádio Somada",
+    "url": "https://servidor36.brlogic.com:7014/live",
+    "genre": "Music",
+    "city": "Santa Maria",
+    "country": "Cape Verde",
+    "lat": 16.5986926,
+    "lng": -22.9050314
+  },
+  {
+    "id": "cabo-cafe-romantico-radio",
+    "name": "Cafe Romantico Radio",
+    "url": "https://panel.retrolandigital.com/radio/8110/listen",
+    "genre": "Music",
+    "city": "Cabo San Lucas",
+    "country": "Mexico",
+    "lat": 22.8938884,
+    "lng": -109.92006
+  },
+  {
+    "id": "cabo-radio-centro-el-fonografo-am-690",
+    "name": "Radio Centro El Fonografo AM 690",
+    "url": "https://26143.live.streamtheworld.com:443/XEN_AMAAC.aac",
+    "genre": "Music",
+    "city": "Cabo San Lucas",
+    "country": "Mexico",
+    "lat": 22.8938884,
+    "lng": -109.92006
+  },
+  {
+    "id": "cabo-viagem-do-rock",
+    "name": "Viagem do Rock",
+    "url": "https://servidor33-4.brlogic.com:8178/live",
+    "genre": "Music",
+    "city": "Cabo Frio RJ",
+    "country": "Brazil",
+    "lat": -22.8804369,
+    "lng": -42.0189227
+  },
+  {
+    "id": "cabo-joão-pessoa-977-fm",
+    "name": "João Pessoa 97.7 FM",
+    "url": "https://s01.svrdedicado.org:7294/stream/",
+    "genre": "Music",
+    "city": "João Pessoa PB",
+    "country": "Brazil",
+    "lat": -7.3295063,
+    "lng": -35.3348837
+  },
+  {
+    "id": "cabo-rádio-forró-web",
+    "name": "Rádio Forró Web",
+    "url": "https://paineldj.com.br:20120/stream/",
+    "genre": "Music",
+    "city": "João Pessoa PB",
+    "country": "Brazil",
+    "lat": -7.3295063,
+    "lng": -35.3348837
+  },
+  {
+    "id": "cabo-stereorey",
+    "name": "Stereorey",
+    "url": "https://18323.live.streamtheworld.com:443/STEREOREYAAC.aac",
+    "genre": "Music",
+    "city": "Cabo San Lucas",
+    "country": "Mexico",
+    "lat": 22.8938884,
+    "lng": -109.92006
+  },
+  {
+    "id": "cabo-universal-881",
+    "name": "Universal 88.1",
+    "url": "https://29223.live.streamtheworld.com:443/XHRED_FMAAC.aac",
+    "genre": "Music",
+    "city": "Cabo San Lucas",
+    "country": "Mexico",
+    "lat": 22.8938884,
+    "lng": -109.92006
+  },
+  {
+    "id": "cabo-w-radio-fm-969",
+    "name": "W Radio FM 96.9",
+    "url": "https://17553.live.streamtheworld.com:443/W_RADIOAAC.aac",
+    "genre": "Music",
+    "city": "Cabo San Lucas",
+    "country": "Mexico",
+    "lat": 22.8938884,
+    "lng": -109.92006
+  },
+  {
+    "id": "cabo-parahyba-fm-1039",
+    "name": "Parahyba FM 103.9",
+    "url": "https://stm1.xcast.com.br:9538/000000",
+    "genre": "Music",
+    "city": "João Pessoa PB",
+    "country": "Brazil",
+    "lat": -7.3295063,
+    "lng": -35.3348837
+  },
+  {
+    "id": "cabo-rádio-quintal",
+    "name": "Rádio Quintal",
+    "url": "https://cast3.hoost.com.br:20161/stream",
+    "genre": "Music",
+    "city": "João Pessoa PB",
+    "country": "Brazil",
+    "lat": -7.3295063,
+    "lng": -35.3348837
+  },
+  {
+    "id": "cabo-1001-noticias-fm-879",
+    "name": "1001 Noticias FM 87.9",
+    "url": "https://stm1.aovivodigital.com.br:10562/stream",
+    "genre": "Music",
+    "city": "João Pessoa PB",
+    "country": "Brazil",
+    "lat": -7.3295063,
+    "lng": -35.3348837
+  },
+  {
+    "id": "cabo-rádio-jampa-jovens",
+    "name": "Rádio Jampa Jovens",
+    "url": "https://stream-177.zeno.fm/5150u58bfwzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI1MTUwdTU4YmZ3enV2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoieTh1d2NnVElSZ2VJWlhmRy1Uai1ndyIsImlhdCI6MTc2OTQxNzI4OSwiZXhwIjoxNzY5NDE3MzQ5fQ.gTovFHuClUmh5iVbJppWHrnnIbl8tXmD77yMZS99PnE",
+    "genre": "Music",
+    "city": "João Pessoa PB",
+    "country": "Brazil",
+    "lat": -7.3295063,
+    "lng": -35.3348837
+  },
+  {
+    "id": "cabo-nova-fm-985",
+    "name": "Nova FM 98.5",
+    "url": "https://stm9.srvvox.com.br:7744/stream",
+    "genre": "Music",
+    "city": "João Pessoa PB",
+    "country": "Brazil",
+    "lat": -7.3295063,
+    "lng": -35.3348837
+  },
+  {
+    "id": "cabo-rc-fm-rádio-comunitária-de-itambe",
+    "name": "RC FM Rádio Comunitária de Itambé",
+    "url": "https://stm8.painelvox.com:8944/stream",
+    "genre": "Music",
+    "city": "João Pessoa PB",
+    "country": "Brazil",
+    "lat": -7.3295063,
+    "lng": -35.3348837
+  },
+  {
+    "id": "cabo-rádio-mix-fm-937",
+    "name": "Rádio Mix FM 93.7",
+    "url": "https://23033.live.streamtheworld.com:443/MIXFM_JOAOPESSOA.mp3",
+    "genre": "Music",
+    "city": "João Pessoa PB",
+    "country": "Brazil",
+    "lat": -7.3295063,
+    "lng": -35.3348837
+  },
+  {
+    "id": "cabo-rádio-cidade-alternativa",
+    "name": "Rádio Cidade Alternativa",
+    "url": "https://player.conectastreaming.com/proxy/8280",
+    "genre": "Music",
+    "city": "João Pessoa PB",
+    "country": "Brazil",
+    "lat": -7.3295063,
+    "lng": -35.3348837
+  },
+  {
+    "id": "cabo-citi-fm-973",
+    "name": "Citi FM 97.3",
+    "url": "https://citi973fm.radioca.st/index.html?sid=1",
+    "genre": "Music",
+    "city": "Cape Coast",
+    "country": "Ghana",
+    "lat": 5.107467,
+    "lng": -1.2430793
+  },
+  {
+    "id": "cabo-kastle-fm-903",
+    "name": "Kastle FM 90.3",
+    "url": "https://stream-154.zeno.fm/evaq9ab4k0hvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJldmFxOWFiNGswaHZ2IiwiaG9zdCI6InN0cmVhbS0xNTQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiRno5NDlGVXlTTFNIRnlrUEN2SHpKZyIsImlhdCI6MTc2OTQxNzI5MiwiZXhwIjoxNzY5NDE3MzUyfQ.7XZ3TrcWwDv1nqXSWgumIoDHX5f58mKkQMrn1MUdHC4",
+    "genre": "Music",
+    "city": "Cape Coast",
+    "country": "Ghana",
+    "lat": 5.107467,
+    "lng": -1.2430793
+  },
+  {
+    "id": "cabo-omega-ge-radio",
+    "name": "omega GE radio",
+    "url": "https://stream-152.zeno.fm/puwca5c8hkeuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwdXdjYTVjOGhrZXV2IiwiaG9zdCI6InN0cmVhbS0xNTIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiUThoUlRuSkRRNVd0TnVDbTJibmtnZyIsImlhdCI6MTc2OTQxNzI5MiwiZXhwIjoxNzY5NDE3MzUyfQ.KsMCTNOfoZKVmjJOPdIlL4NE9ZDoZjuGILm5wt56iL4",
+    "genre": "Music",
+    "city": "Cape Coast",
+    "country": "Ghana",
+    "lat": 5.107467,
+    "lng": -1.2430793
+  },
+  {
+    "id": "cabo-tw-radio-889-fm",
+    "name": "TW Radio 88.9 FM",
+    "url": "https://a00.w3gradle.com/a21.mp3",
+    "genre": "Music",
+    "city": "Cape Coast",
+    "country": "Ghana",
+    "lat": 5.107467,
+    "lng": -1.2430793
+  },
+  {
+    "id": "cabo-ogya-fm-983",
+    "name": "Ogya FM 98.3",
+    "url": "https://stream-177.zeno.fm/dub9mp72k0hvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJkdWI5bXA3MmswaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiOE82VWJPZG9UZG1MMXZ2OXZ1RFpmQSIsImlhdCI6MTc2OTQxNzI5MiwiZXhwIjoxNzY5NDE3MzUyfQ.bs4VpQ2VnwLETPfOtUlFkXk44FK_WuZUR_PBxwi3U9o",
+    "genre": "Music",
+    "city": "Cape Coast",
+    "country": "Ghana",
+    "lat": 5.107467,
+    "lng": -1.2430793
+  },
+  {
+    "id": "cabo-golden-star-fm-893",
+    "name": "Golden Star FM 89.3",
+    "url": "https://stream-154.zeno.fm/08ub3cqrrhruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwOHViM2NxcnJocnV2IiwiaG9zdCI6InN0cmVhbS0xNTQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiRi1zdTJYYXNUQm1vS2dvRDhXMkp6dyIsImlhdCI6MTc2OTQxNzI5MiwiZXhwIjoxNzY5NDE3MzUyfQ.XYaeDtUuZtWuPoOFB3SljaFf8GnzT7gTg_zQOV61NUY",
+    "genre": "Music",
+    "city": "Cape Coast",
+    "country": "Ghana",
+    "lat": 5.107467,
+    "lng": -1.2430793
+  },
+  {
+    "id": "cabo-bankam-951-fm",
+    "name": "Bankam 95.1 FM",
+    "url": "https://stream-157.zeno.fm/w611nmv0zp8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ3NjExbm12MHpwOHV2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiVExwRzZfLUZURHVTSk9mT0xxVWZDdyIsImlhdCI6MTc2OTQxNzI5MiwiZXhwIjoxNzY5NDE3MzUyfQ.6VAg78aF76NglkALryu_OJagiuDAqq_fqpaTHNez3iE",
+    "genre": "Music",
+    "city": "Cape Coast",
+    "country": "Ghana",
+    "lat": 5.107467,
+    "lng": -1.2430793
+  },
+  {
+    "id": "cabo-wigcs-radio",
+    "name": "WIGCS Radio",
+    "url": "https://stream-160.zeno.fm/xrhfg25zumzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ4cmhmZzI1enVtenV2IiwiaG9zdCI6InN0cmVhbS0xNjAuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoia3N4eDVkaXlUUUdxYXlIREljVk9hdyIsImlhdCI6MTc2OTQxNzI5MiwiZXhwIjoxNzY5NDE3MzUyfQ.m1WBUdHDw1zyjZLIb5uesAlePfs-3njKSs2HSAIokGk",
+    "genre": "Music",
+    "city": "Cape Coast",
+    "country": "Ghana",
+    "lat": 5.107467,
+    "lng": -1.2430793
+  },
+  {
+    "id": "cabo-oyerepa-fm",
+    "name": "Oyerepa FM",
+    "url": "https://stream-152.zeno.fm/457dru9abnzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0NTdkcnU5YWJuenV2IiwiaG9zdCI6InN0cmVhbS0xNTIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiR0RLbGhnczVUTFdVQUFtdGNuT0hKQSIsImlhdCI6MTc2OTQxNzI5MywiZXhwIjoxNzY5NDE3MzUzfQ.ffzPuUb3S-uhhL0qVqYqxnj01SDvQcHctB7QmALsHko",
+    "genre": "Music",
+    "city": "Cape Coast",
+    "country": "Ghana",
+    "lat": 5.107467,
+    "lng": -1.2430793
+  },
+  {
+    "id": "cabo-cabo-branco-fm",
+    "name": "Cabo Branco FM",
+    "url": "https://servidor20.brlogic.com:7086/live",
+    "genre": "Music",
+    "city": "João Pessoa PB",
+    "country": "Brazil",
+    "lat": -7.3295063,
+    "lng": -35.3348837
+  },
+  {
+    "id": "cabo-globo-fm-979",
+    "name": "Globo FM 97.9",
+    "url": "https://a6.asurahosting.com:8130/radio.mp3",
+    "genre": "Music",
+    "city": "San José del Cabo",
+    "country": "Mexico",
+    "lat": 23.0598364,
+    "lng": -109.7025148
+  },
+  {
+    "id": "cabo-joy-997-fm",
+    "name": "Joy 99.7 FM",
+    "url": "https://mmg.streamguys1.com/JoyFM-mp3?key=63d8990dfe4438ae984fd70d2d2b4bd31c842c474987bd810ac0e8e0fd62e8cf2015661105cced63ccfdca89a8422ab1",
+    "genre": "Music",
+    "city": "Cape Coast",
+    "country": "Ghana",
+    "lat": 5.107467,
+    "lng": -1.2430793
+  },
+  {
+    "id": "cabo-asempa-947-fm",
+    "name": "Asempa 94.7 FM",
+    "url": "https://mmg.streamguys1.com/AsempaFM-mp3?key=63d8990dfe4438ae984fd70d2d2b4bd31c842c474987bd810ac0e8e0fd62e8cf2015661105cced63ccfdca89a8422ab1",
+    "genre": "Music",
+    "city": "Cape Coast",
+    "country": "Ghana",
+    "lat": 5.107467,
+    "lng": -1.2430793
+  },
+  {
+    "id": "cabo-adom-fm-1063",
+    "name": "Adom FM 106.3",
+    "url": "https://mmg.streamguys1.com/AdomFM-mp3?key=63d8990dfe4438ae984fd70d2d2b4bd31c842c474987bd810ac0e8e0fd62e8cf2015661105cced63ccfdca89a8422ab1",
+    "genre": "Music",
+    "city": "Cape Coast",
+    "country": "Ghana",
+    "lat": 5.107467,
+    "lng": -1.2430793
+  },
+  {
+    "id": "cabo-hd3-neo-fm-941",
+    "name": "HD3 Neo FM 94.1",
+    "url": "https://audiostreaming.luz.network/stream/9/",
+    "genre": "Music",
+    "city": "San José del Cabo",
+    "country": "Mexico",
+    "lat": 23.0598364,
+    "lng": -109.7025148
+  },
+  {
+    "id": "cabo-difusora-fm-1033",
+    "name": "Difusora FM 103.3",
+    "url": "https://webradio.amsolution.com.br/radio/8450/caxias",
+    "genre": "Music",
+    "city": "Caxias MA",
+    "country": "Brazil",
+    "lat": -5.5154524,
+    "lng": -47.4642658
+  },
+  {
+    "id": "cabo-rich-radio",
+    "name": "Rich Radio",
+    "url": "https://strw3.openstream.co/1980?aw_0_1st.collectionid%3D5756%26stationId%3D5756%26publisherId%3D2004%26k%3D1769417293",
+    "genre": "Music",
+    "city": "Cape Coast",
+    "country": "Ghana",
+    "lat": 5.107467,
+    "lng": -1.2430793
+  },
+  {
+    "id": "cabo-radio-domoni-inter",
+    "name": "Radio Domoni Inter",
+    "url": "http://domoni-inter.org:8000/live",
+    "genre": "Music",
+    "city": "Pemba",
+    "country": "Mozambique",
+    "lat": -12.9978831,
+    "lng": 40.5502336
+  },
+  {
+    "id": "cabo-rádio-seixas",
+    "name": "Rádio Seixas",
+    "url": "https://servidor21-1.brlogic.com:7278/live",
+    "genre": "Music",
+    "city": "João Pessoa PB",
+    "country": "Brazil",
+    "lat": -7.3295063,
+    "lng": -35.3348837
+  },
+  {
+    "id": "cabo-rádio-guanare-fm-1059",
+    "name": "Rádio Guanaré FM 105.9",
+    "url": "https://stm28.xcast.com.br:9582/stream/",
+    "genre": "Music",
+    "city": "Caxias MA",
+    "country": "Brazil",
+    "lat": -5.5154524,
+    "lng": -47.4642658
+  },
+  {
+    "id": "cabo-jovem-pan-fm-1025",
+    "name": "Jovem Pan FM 102.5",
+    "url": "https://servidor17.brlogic.com:8262/live",
+    "genre": "Music",
+    "city": "João Pessoa PB",
+    "country": "Brazil",
+    "lat": -7.3295063,
+    "lng": -35.3348837
+  },
+  {
+    "id": "cabo-super-fm-1019",
+    "name": "Super FM 101.9",
+    "url": "http://41.223.153.14:8000/;stream/1",
+    "genre": "Music",
+    "city": "Pemba",
+    "country": "Mozambique",
+    "lat": -12.9978831,
+    "lng": 40.5502336
+  },
+  {
+    "id": "cabo-rádio-nativa-fm-1049",
+    "name": "Rádio Nativa FM 104.9",
+    "url": "https://centova.svdns.com.br:2960/live",
+    "genre": "Music",
+    "city": "Caxias MA",
+    "country": "Brazil",
+    "lat": -5.5154524,
+    "lng": -47.4642658
+  },
+  {
+    "id": "cabo-rádio-web-verdes-carnaubais",
+    "name": "Rádio Web Verdes Carnaubais",
+    "url": "https://server07.srvsh.com.br:7418/index.html?sid=1",
+    "genre": "Music",
+    "city": "Caxias MA",
+    "country": "Brazil",
+    "lat": -5.5154524,
+    "lng": -47.4642658
+  },
+  {
+    "id": "cabo-rs-mayotte",
+    "name": "RS-Mayotte",
+    "url": "https://radio.mayotte-streaming.com/8008/stream",
+    "genre": "Music",
+    "city": "Pemba",
+    "country": "Mozambique",
+    "lat": -12.9978831,
+    "lng": 40.5502336
+  },
+  {
+    "id": "cabo-demais-fm-979",
+    "name": "Demais FM 97.9",
+    "url": "https://stream-176.zeno.fm/0ck7m160cy8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwY2s3bTE2MGN5OHV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiMzlyRFhIbUZRMEtHa01tbDBUNHo4ZyIsImlhdCI6MTc2OTQxNzI5NiwiZXhwIjoxNzY5NDE3MzU2fQ.-9vQdeh2JIFwN94H0ZiOEKB2FgL9MTSdz1om4wyjm5s",
+    "genre": "Music",
+    "city": "Caxias MA",
+    "country": "Brazil",
+    "lat": -5.5154524,
+    "lng": -47.4642658
+  },
+  {
+    "id": "cabo-lm-radio-878-fm",
+    "name": "LM Radio 87.8 FM",
+    "url": "https://cast6.asurahosting.com/proxy/lmradioc/stream",
+    "genre": "Music",
+    "city": "Pemba",
+    "country": "Mozambique",
+    "lat": -12.9978831,
+    "lng": 40.5502336
+  },
+  {
+    "id": "cabo-rádio-sem-fronteiras-fm-1021",
+    "name": "Rádio Sem Fronteiras FM 102.1",
+    "url": "https://ssl.stmxp.net:8030/index.html?sid=1",
+    "genre": "Music",
+    "city": "Pemba",
+    "country": "Mozambique",
+    "lat": -12.9978831,
+    "lng": 40.5502336
+  },
+  {
+    "id": "cabo-radio-dracktrar-patsy-fm-980",
+    "name": "Radio Dracktrar Patsy FM 98.0",
+    "url": "https://stream-177.zeno.fm/gv2x4k52es8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJndjJ4NGs1MmVzOHV2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiQzYzV2JDcFpTQmFEcWJ1cmRqc0VhdyIsImlhdCI6MTc2OTQxNzI5NywiZXhwIjoxNzY5NDE3MzU3fQ.BToRJq3jBihNOJgp91rq3wqOilgImK3w44zw_8dR_oc",
+    "genre": "Music",
+    "city": "Pemba",
+    "country": "Mozambique",
+    "lat": -12.9978831,
+    "lng": 40.5502336
+  },
+  {
+    "id": "cabo-air-fm",
+    "name": "Air FM",
+    "url": "https://edge.iono.fm/xice/257_medium.mp3",
+    "genre": "Music",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "lat": -33.9288301,
+    "lng": 18.4172197
+  },
+  {
+    "id": "cabo-smile-904-fm",
+    "name": "Smile 90.4 FM",
+    "url": "https://edge.iono.fm/xice/212_medium.aac",
+    "genre": "Music",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "lat": -33.9288301,
+    "lng": 18.4172197
+  },
+  {
+    "id": "cabo-rádio-miramar-1014-fm",
+    "name": "Rádio Miramar 101.4 FM",
+    "url": "https://nl.digitalrm.pt:8150/stream",
+    "genre": "Music",
+    "city": "Pemba",
+    "country": "Mozambique",
+    "lat": -12.9978831,
+    "lng": 40.5502336
+  },
+  {
+    "id": "cabo-magic-828",
+    "name": "Magic 828",
+    "url": "http://cast.fabrik.fm:8106/",
+    "genre": "Music",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "lat": -33.9288301,
+    "lng": 18.4172197
+  },
+  {
+    "id": "cabo-hope-fm-1062",
+    "name": "Hope FM 106.2",
+    "url": "https://zas7.ndx.co.za:8020/stream",
+    "genre": "Music",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "lat": -33.9288301,
+    "lng": 18.4172197
+  },
+  {
+    "id": "cabo-fine-music-radio-fm-1013",
+    "name": "Fine Music Radio FM 101.3",
+    "url": "https://edge.iono.fm/xice/fmr_live_medium.aac",
+    "genre": "Music",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "lat": -33.9288301,
+    "lng": 18.4172197
+  },
+  {
+    "id": "cabo-paraiso-fm",
+    "name": "Paraiso FM",
+    "url": "https://stm2.voxhd.com.br:9854/stream/",
+    "genre": "Music",
+    "city": "Caxias MA",
+    "country": "Brazil",
+    "lat": -5.5154524,
+    "lng": -47.4642658
+  },
+  {
+    "id": "cabo-radio-786-fm-1004",
+    "name": "Radio 786 FM 100.4",
+    "url": "http://102.221.216.42:8040/stream/",
+    "genre": "Music",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "lat": -33.9288301,
+    "lng": 18.4172197
+  },
+  {
+    "id": "cabo-cape-talk-am-567",
+    "name": "Cape Talk AM 567",
+    "url": "https://22193.live.streamtheworld.com:443/CAPE_TALKAAC.aac",
+    "genre": "Music",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "lat": -33.9288301,
+    "lng": 18.4172197
+  },
+  {
+    "id": "cabo-kfm-945",
+    "name": "Kfm 94.5",
+    "url": "https://25683.live.streamtheworld.com:443/KFMAAC.aac",
+    "genre": "Music",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "lat": -33.9288301,
+    "lng": 18.4172197
+  },
+  {
+    "id": "cabo-whale-coast-fm-96",
+    "name": "Whale Coast FM 96",
+    "url": "https://edge.iono.fm/xice/309_medium.aac",
+    "genre": "Music",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "lat": -33.9288301,
+    "lng": 18.4172197
+  },
+  {
+    "id": "cabo-6pazzi-radio",
+    "name": "6Pazzi Radio",
+    "url": "https://stream.radio.co/s51967244c/listen",
+    "genre": "Music",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "lat": -33.9288301,
+    "lng": 18.4172197
+  },
+  {
+    "id": "cabo-wake-up-dc",
+    "name": "Wake UP DC",
+    "url": "https://edge.iono.fm/xice/366_medium.aac",
+    "genre": "Music",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "lat": -33.9288301,
+    "lng": 18.4172197
+  },
+  {
+    "id": "cabo-radio-free-tankwa-fm-999",
+    "name": "Radio Free Tankwa FM 99.9",
+    "url": "https://19213.live.streamtheworld.com:443/SAM09AAC213.aac",
+    "genre": "Music",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "lat": -33.9288301,
+    "lng": 18.4172197
+  },
+  {
+    "id": "cabo-good-hope-fm-94-97",
+    "name": "Good Hope FM 94-97",
+    "url": "https://27943.live.streamtheworld.com:443/GOODHOPEFMAAC_SC",
+    "genre": "Music",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "lat": -33.9288301,
+    "lng": 18.4172197
+  },
+  {
+    "id": "cabo-perron-fm-951",
+    "name": "Perron FM 95.1",
+    "url": "https://zas4.ndx.co.za:9000/stream/",
+    "genre": "Music",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "lat": -33.9288301,
+    "lng": 18.4172197
+  },
+  {
+    "id": "cabo-jou-stasie",
+    "name": "Jou Stasie",
+    "url": "https://uslradio.net/8010/stream",
+    "genre": "Music",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "lat": -33.9288301,
+    "lng": 18.4172197
+  },
+  {
+    "id": "cabo-infinity-fm",
+    "name": "Infinity FM",
+    "url": "https://stream-165.zeno.fm/8ssgegx2czzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI4c3NnZWd4MmN6enV2IiwiaG9zdCI6InN0cmVhbS0xNjUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiU3hrRjAzUVVUVDZVQ3lOdnJZRTZLZyIsImlhdCI6MTc2OTQxNzMwMSwiZXhwIjoxNzY5NDE3MzYxfQ.Viio35FdiSLsfepxHLTKO0Y-oZ9o2Q4S_f2-zuPyTAg",
+    "genre": "Music",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "lat": -33.9288301,
+    "lng": 18.4172197
+  },
+  {
+    "id": "cabo-rsg-fm-1000",
+    "name": "RSG FM 100.0",
+    "url": "https://25693.live.streamtheworld.com:443/RSGAAC.aac",
+    "genre": "Music",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "lat": -33.9288301,
+    "lng": 18.4172197
+  },
+  {
+    "id": "cabo-la-mejor-949-fm",
+    "name": "La Mejor 94.9 FM",
+    "url": "https://mars.streamerr.co/8098/stream",
+    "genre": "Music",
+    "city": "Cap-Haitien",
+    "country": "Haiti",
+    "lat": 19.7595236,
+    "lng": -72.2008068
+  },
+  {
+    "id": "cabo-gaan-groot-radio",
+    "name": "Gaan Groot Radio",
+    "url": "https://18213.live.streamtheworld.com:443/SP_R2982692.aac",
+    "genre": "Music",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "lat": -33.9288301,
+    "lng": 18.4172197
+  },
+  {
+    "id": "cabo-metro-fm-930",
+    "name": "Metro FM 93.0",
+    "url": "https://25683.live.streamtheworld.com:443/METROFMAAC.aac",
+    "genre": "Music",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "lat": -33.9288301,
+    "lng": 18.4172197
+  },
+  {
+    "id": "cabo-radio-fenique-inter-1035-fm",
+    "name": "Radio Fénique Inter 103.5 FM",
+    "url": "https://stream-177.zeno.fm/ym8gkr28gm5tv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5bThna3IyOGdtNXR2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiNEZRS3NyWi1SMnFKbkdhUUlFRkJCUSIsImlhdCI6MTc2OTQxNzMwMiwiZXhwIjoxNzY5NDE3MzYyfQ._jyw4cbzAoa87moQV2uf5IJZGHWGaOqh9K1Fggzkfbk",
+    "genre": "Music",
+    "city": "Cap-Haitien",
+    "country": "Haiti",
+    "lat": 19.7595236,
+    "lng": -72.2008068
+  },
+  {
+    "id": "cabo-talk-radio-702",
+    "name": "Talk Radio 702",
+    "url": "https://27863.live.streamtheworld.com:443/FM702AAC.aac",
+    "genre": "Music",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "lat": -33.9288301,
+    "lng": 18.4172197
+  },
+  {
+    "id": "cabo-lm-radio-am-702",
+    "name": "LM Radio AM 702",
+    "url": "https://ukwesta.streaming.broadcast.radio/lmradio",
+    "genre": "Music",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "lat": -33.9288301,
+    "lng": 18.4172197
+  },
+  {
+    "id": "cabo-radio-lumiere-inter",
+    "name": "Radio Lumiere Inter",
+    "url": "https://stream-142.zeno.fm/s0x87e0w5neuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzMHg4N2UwdzVuZXV2IiwiaG9zdCI6InN0cmVhbS0xNDIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoidXRLdzdNN2hSb2lNb0t4TmFzdFpLQSIsImlhdCI6MTc2OTQxNzMwMywiZXhwIjoxNzY5NDE3MzYzfQ.vY-RycKkOpuPobYCnTCdzB0pu42YbksOGiV2FUI0QfA",
+    "genre": "Music",
+    "city": "Cap-Haitien",
+    "country": "Haiti",
+    "lat": 19.7595236,
+    "lng": -72.2008068
+  },
+  {
+    "id": "cabo-radio-boss-fm-1039",
+    "name": "Radio Boss FM 103.9",
+    "url": "https://us10a.serverse.com/proxy/cfaboxzy/stream",
+    "genre": "Music",
+    "city": "Cap-Haitien",
+    "country": "Haiti",
+    "lat": 19.7595236,
+    "lng": -72.2008068
+  },
+  {
+    "id": "cabo-jacaranda",
+    "name": "Jacaranda",
+    "url": "https://live.jacarandafm.com/jacarandahigh.mp3",
+    "genre": "Music",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "lat": -33.9288301,
+    "lng": 18.4172197
+  },
+  {
+    "id": "cabo-tiger-fm-933",
+    "name": "Tiger FM 93.3",
+    "url": "http://62.151.177.31:8000/transmitter.mp3",
+    "genre": "Music",
+    "city": "Cape Coral FL",
+    "country": "United States",
+    "lat": 26.6864871,
+    "lng": -81.9174735
+  },
+  {
+    "id": "cabo-tropicana-106",
+    "name": "Tropicana 106",
+    "url": "https://stream-148.zeno.fm/tmxkd9u8na0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0bXhrZDl1OG5hMHV2IiwiaG9zdCI6InN0cmVhbS0xNDguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiZmRtTTBUUGVUa1NNbVhrN2t5RmJFZyIsImlhdCI6MTc2OTQxNzMwMywiZXhwIjoxNzY5NDE3MzYzfQ.F3u18W_9U0CNF0lRHPvvmMdDLCuk-8kHtCh2zP1YY_w",
+    "genre": "Music",
+    "city": "Cap-Haitien",
+    "country": "Haiti",
+    "lat": 19.7595236,
+    "lng": -72.2008068
+  },
+  {
+    "id": "cabo-radio-tapinozet",
+    "name": "Radio Tapinozet",
+    "url": "https://stream-177.zeno.fm/0kbbn35dfkeuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwa2JibjM1ZGZrZXV2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiQkpJVTIxbFVUcW1rNGxJek4xZDlVdyIsImlhdCI6MTc2OTQxNzMwMywiZXhwIjoxNzY5NDE3MzYzfQ.VpjX3NRR7LqNwH6XLqvlXaZeL88-q8fAbskbUtXcUdk",
+    "genre": "Music",
+    "city": "Cap-Haitien",
+    "country": "Haiti",
+    "lat": 19.7595236,
+    "lng": -72.2008068
+  },
+  {
+    "id": "cabo-radio-rhm-plus",
+    "name": "Radio RHM plus",
+    "url": "https://rhmplus.radioca.st/index.html?sid=1",
+    "genre": "Music",
+    "city": "Cap-Haitien",
+    "country": "Haiti",
+    "lat": 19.7595236,
+    "lng": -72.2008068
+  },
+  {
+    "id": "cabo-radio-sfm-1027",
+    "name": "Radio SFM 102.7",
+    "url": "https://stream-177.zeno.fm/wr93m2z7rfeuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ3cjkzbTJ6N3JmZXV2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoic2Y5MERyV3JRbDZSc0I1UENBTmU0dyIsImlhdCI6MTc2OTQxNzMwNCwiZXhwIjoxNzY5NDE3MzY0fQ.ZKUff3dHtNI0Wl8INtxkEcRVqTWujAPX0npDTV5dyIQ",
+    "genre": "Music",
+    "city": "Cap-Haitien",
+    "country": "Haiti",
+    "lat": 19.7595236,
+    "lng": -72.2008068
+  },
+  {
+    "id": "cabo-vibe-247",
+    "name": "Vibe 24/7",
+    "url": "https://usa12.fastcast4u.com/proxy/vibeallh?mp=/1",
+    "genre": "Music",
+    "city": "Cape Coral FL",
+    "country": "United States",
+    "lat": 26.6864871,
+    "lng": -81.9174735
+  },
+  {
+    "id": "cabo-caraibes-fm-945",
+    "name": "Caraibes FM 94.5",
+    "url": "https://stream-141.zeno.fm/54k0v7x14neuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI1NGswdjd4MTRuZXV2IiwiaG9zdCI6InN0cmVhbS0xNDEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiZDBjU2Q2RkJTb0dLcjdBTzV0UDQ4QSIsImlhdCI6MTc2OTQxNzMwNCwiZXhwIjoxNzY5NDE3MzY0fQ.ilbuk24T1mMoRZ5Fpm0KIVo9P8WoKgkjgyuLhrRXPgQ",
+    "genre": "Music",
+    "city": "Cap-Haitien",
+    "country": "Haiti",
+    "lat": 19.7595236,
+    "lng": -72.2008068
+  },
+  {
+    "id": "cabo-radio-tele-ginen-929-fm",
+    "name": "Radio Tele Ginen 92.9 FM",
+    "url": "https://stream-162.zeno.fm/gp19hsnth54tv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJncDE5aHNudGg1NHR2IiwiaG9zdCI6InN0cmVhbS0xNjIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoid2ozT0JKa2NUWU92ZnpQYUFadmVmQSIsImlhdCI6MTc2OTQxNzMwNCwiZXhwIjoxNzY5NDE3MzY0fQ.h8dqPxtRASdKPEhK93E_iBIfb8SjtSntIwWN2hZd3zw",
+    "genre": "Music",
+    "city": "Cap-Haitien",
+    "country": "Haiti",
+    "lat": 19.7595236,
+    "lng": -72.2008068
+  },
+  {
+    "id": "cabo-gaj-fm-987",
+    "name": "Gaj FM 98.7",
+    "url": "https://studio.sitegenial.com/8040/stream",
+    "genre": "Music",
+    "city": "Cap-Haitien",
+    "country": "Haiti",
+    "lat": 19.7595236,
+    "lng": -72.2008068
+  },
+  {
+    "id": "cabo-radio-full-gospel",
+    "name": "Radio Full Gospel",
+    "url": "https://s47.myradiostream.com:13916/listen.mp3?nocache=1769417305",
+    "genre": "Music",
+    "city": "Cap-Haitien",
+    "country": "Haiti",
+    "lat": 19.7595236,
+    "lng": -72.2008068
+  },
+  {
+    "id": "cabo-oldieradio-florida",
+    "name": "Oldieradio Florida",
+    "url": "http://eagle.streemlion.com:4733/index.html?sid=1",
+    "genre": "Music",
+    "city": "Cape Coral FL",
+    "country": "United States",
+    "lat": 26.6864871,
+    "lng": -81.9174735
+  },
+  {
+    "id": "cabo-smooth-jazz-247",
+    "name": "Smooth Jazz 24/7",
+    "url": "https://ais-edge89-dal02.cdnstream.com/2124_128.mp3",
+    "genre": "Music",
+    "city": "Cape Coral FL",
+    "country": "United States",
+    "lat": 26.6864871,
+    "lng": -81.9174735
+  },
+  {
+    "id": "cabo-abn-old-time-radio-am-1610",
+    "name": "ABN Old-Time Radio AM 1610",
+    "url": "https://s6.yesstreaming.net:18000/listen",
+    "genre": "Music",
+    "city": "Cape Coral FL",
+    "country": "United States",
+    "lat": 26.6864871,
+    "lng": -81.9174735
+  },
+  {
+    "id": "cabo-patriot-radio-classics",
+    "name": "Patriot Radio Classics",
+    "url": "http://n10.radiojar.com/sqxkmtks1d5tv?rj-ttl=5&rj-tok=AAABm_mGnHwATu7SqFej2qYi2g",
+    "genre": "Music",
+    "city": "Cape Coral FL",
+    "country": "United States",
+    "lat": 26.6864871,
+    "lng": -81.9174735
+  },
+  {
+    "id": "cabo-koko-lp-radio-963-fm",
+    "name": "KOKO LP Radio 96.3 FM",
+    "url": "https://s2.yesstreaming.net:7031/stream",
+    "genre": "Music",
+    "city": "Cape Coral FL",
+    "country": "United States",
+    "lat": 26.6864871,
+    "lng": -81.9174735
+  },
+  {
+    "id": "cabo-kbrw-am-680",
+    "name": "KBRW-AM 680",
+    "url": "https://tektite.streamguys1.com:5345/live",
+    "genre": "Music",
+    "city": "Cape Coral FL",
+    "country": "United States",
+    "lat": 26.6864871,
+    "lng": -81.9174735
+  },
+  {
+    "id": "cabo-wsgl-1047-the-mix",
+    "name": "WSGL 104.7 the Mix",
+    "url": "https://14543.live.streamtheworld.com:443/WSGL_FMAAC.aac",
+    "genre": "Music",
+    "city": "Cape Coral FL",
+    "country": "United States",
+    "lat": 26.6864871,
+    "lng": -81.9174735
+  },
+  {
+    "id": "cabo-fox-news-radio",
+    "name": "Fox News Radio",
+    "url": "https://prod-3-222-117-14.amperwave.net/foxnewsradio-foxnewsradioaac-imc?session-id=617c6897f8bb2475ba757133f501955d",
+    "genre": "Music",
+    "city": "Cape Coral FL",
+    "country": "United States",
+    "lat": 26.6864871,
+    "lng": -81.9174735
+  },
+  {
+    "id": "cabo-weng-fm-1075",
+    "name": "WENG FM 107.5",
+    "url": "https://ice8.securenetsystems.net/WENG",
+    "genre": "Music",
+    "city": "Cape Coral FL",
+    "country": "United States",
+    "lat": 26.6864871,
+    "lng": -81.9174735
+  }
+]

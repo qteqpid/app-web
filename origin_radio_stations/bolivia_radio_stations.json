@@ -1,0 +1,662 @@
+[
+  {
+    "id": "bolivia-dimension-fm-1031",
+    "name": "Dimension FM 103.1",
+    "url": "https://sc.host-live.com/8068/",
+    "genre": "Music",
+    "city": "La Paz",
+    "country": "Bolivia",
+    "lat": -16.4955455,
+    "lng": -68.1336229
+  },
+  {
+    "id": "bolivia-cristo-viene-la-red-907-fm",
+    "name": "Cristo Viene La Red 90.7 FM",
+    "url": "https://stream20.usastreams.com:7000/stream",
+    "genre": "Music",
+    "city": "La Paz",
+    "country": "Bolivia",
+    "lat": -16.4955455,
+    "lng": -68.1336229
+  },
+  {
+    "id": "bolivia-chacaltaya-fm-937",
+    "name": "Chacaltaya FM 93.7",
+    "url": "https://cast6.asurahosting.com/proxy/irfradio/stream",
+    "genre": "Music",
+    "city": "La Paz",
+    "country": "Bolivia",
+    "lat": -16.4955455,
+    "lng": -68.1336229
+  },
+  {
+    "id": "bolivia-instrumental-u",
+    "name": "Instrumental U",
+    "url": "https://emiteradio.com/proxy/instrumental?mp=/stream",
+    "genre": "Music",
+    "city": "La Paz",
+    "country": "Bolivia",
+    "lat": -16.4955455,
+    "lng": -68.1336229
+  },
+  {
+    "id": "bolivia-radio-cumbia-90s",
+    "name": "Radio Cumbia 90s",
+    "url": "https://emiteradio.com/proxy/cumbia90s?mp=/stream",
+    "genre": "Music",
+    "city": "La Paz",
+    "country": "Bolivia",
+    "lat": -16.4955455,
+    "lng": -68.1336229
+  },
+  {
+    "id": "bolivia-fm-la-paz-967",
+    "name": "FM La Paz 96.7",
+    "url": "https://spanel.gcomstreaming.com/8018/stream",
+    "genre": "Music",
+    "city": "La Paz",
+    "country": "Bolivia",
+    "lat": -16.4955455,
+    "lng": -68.1336229
+  },
+  {
+    "id": "bolivia-radio-cabina365",
+    "name": "Radio Cabina365",
+    "url": "https://emiteradio.com/proxy/cabina365?mp=/stream",
+    "genre": "Music",
+    "city": "La Paz",
+    "country": "Bolivia",
+    "lat": -16.4955455,
+    "lng": -68.1336229
+  },
+  {
+    "id": "bolivia-radio-fides-la-paz-760-am",
+    "name": "Radio Fides La Paz 760 AM",
+    "url": "https://usa7.fastcast4u.com/proxy/grflores?mp=/1",
+    "genre": "Music",
+    "city": "La Paz",
+    "country": "Bolivia",
+    "lat": -16.4955455,
+    "lng": -68.1336229
+  },
+  {
+    "id": "bolivia-apracbol-886-fm",
+    "name": "APRACBol 88.6 FM",
+    "url": "https://sr.boliviaplay.com.bo/listen/aprac/radio.mp3",
+    "genre": "Music",
+    "city": "La Paz",
+    "country": "Bolivia",
+    "lat": -16.4955455,
+    "lng": -68.1336229
+  },
+  {
+    "id": "bolivia-fm-bolivia-1013",
+    "name": "FM Bolivia 101.3",
+    "url": "https://stm11.xcast.com.br:11300/stream",
+    "genre": "Music",
+    "city": "La Paz",
+    "country": "Bolivia",
+    "lat": -16.4955455,
+    "lng": -68.1336229
+  },
+  {
+    "id": "bolivia-erbol-radio",
+    "name": "Erbol Radio",
+    "url": "https://radio.erbol.com.bo/",
+    "genre": "Music",
+    "city": "La Paz",
+    "country": "Bolivia",
+    "lat": -16.4955455,
+    "lng": -68.1336229
+  },
+  {
+    "id": "bolivia-radio-studio-94-fm",
+    "name": "Radio Studio 94 FM",
+    "url": "https://cloudstream2030.conectarhosting.com/8110/stream",
+    "genre": "Music",
+    "city": "La Paz",
+    "country": "Bolivia",
+    "lat": -16.4955455,
+    "lng": -68.1336229
+  },
+  {
+    "id": "bolivia-radio-panamericana-961-fm",
+    "name": "Radio Panamericana 96.1 FM",
+    "url": "https://stream-150.zeno.fm/5hfx7xfambruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI1aGZ4N3hmYW1icnV2IiwiaG9zdCI6InN0cmVhbS0xNTAuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiOG1adnFQZHdUcFdlb0o4Ym1UeU9pdyIsImlhdCI6MTc2OTQxNjkxOSwiZXhwIjoxNzY5NDE2OTc5fQ.Zjgm8ckH_4en29AYQTOcNOVQxt2LRdrEgVbEA3R8tq0",
+    "genre": "Music",
+    "city": "La Paz",
+    "country": "Bolivia",
+    "lat": -16.4955455,
+    "lng": -68.1336229
+  },
+  {
+    "id": "bolivia-radio-lobo-934-fm",
+    "name": "Radio Lobo 93.4 FM",
+    "url": "https://eu1.serviaudio.com/8056/stream",
+    "genre": "Music",
+    "city": "La Paz",
+    "country": "Bolivia",
+    "lat": -16.4955455,
+    "lng": -68.1336229
+  },
+  {
+    "id": "bolivia-radio-centro-fm-961",
+    "name": "Radio Centro FM 96.1",
+    "url": "https://radio.yoemito.net/listen/centrofm/stream",
+    "genre": "Music",
+    "city": "La Paz",
+    "country": "Bolivia",
+    "lat": -16.4955455,
+    "lng": -68.1336229
+  },
+  {
+    "id": "bolivia-radio-ritmo-98",
+    "name": "Radio Ritmo 98",
+    "url": "https://stream-178.zeno.fm/thn9k054aa9uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0aG45azA1NGFhOXV2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoianpDekRibDBUUXVyNlZ0ejI5S0gzdyIsImlhdCI6MTc2OTQxNjkxOSwiZXhwIjoxNzY5NDE2OTc5fQ.lFlkBDThDhd2tZYJ4s1E5g8lk4mAANt40d0__Pfolkw",
+    "genre": "Music",
+    "city": "La Paz",
+    "country": "Bolivia",
+    "lat": -16.4955455,
+    "lng": -68.1336229
+  },
+  {
+    "id": "bolivia-radio-mundial",
+    "name": "Radio Mundial",
+    "url": "https://streaming1.locucionar.com/proxy/radiomundial?mp=/stream",
+    "genre": "Music",
+    "city": "La Paz",
+    "country": "Bolivia",
+    "lat": -16.4955455,
+    "lng": -68.1336229
+  },
+  {
+    "id": "bolivia-diana-d-1021-fm",
+    "name": "Diana D 102.1 FM",
+    "url": "https://cesarradio.realserver.es/listen/diana_d_/radio.mp3",
+    "genre": "Music",
+    "city": "La Paz",
+    "country": "Bolivia",
+    "lat": -16.4955455,
+    "lng": -68.1336229
+  },
+  {
+    "id": "bolivia-radio-fides-949-fm",
+    "name": "Radio FIDES 94.9 FM",
+    "url": "http://usa14.fastcast4u.com:5654/stream",
+    "genre": "Music",
+    "city": "Cochabamba",
+    "country": "Bolivia",
+    "lat": -17.4012458,
+    "lng": -66.1675681
+  },
+  {
+    "id": "bolivia-radio-urbana-952-fm",
+    "name": "Radio Urbana 95.2 FM",
+    "url": "https://radio.yoemito.net:8110/status-json.xsl//stream",
+    "genre": "Music",
+    "city": "Cochabamba",
+    "country": "Bolivia",
+    "lat": -17.4012458,
+    "lng": -66.1675681
+  },
+  {
+    "id": "bolivia-radio-stereo-97",
+    "name": "Radio Stereo 97",
+    "url": "https://stream.consultoradas.com/8340/stream",
+    "genre": "Music",
+    "city": "La Paz",
+    "country": "Bolivia",
+    "lat": -16.4955455,
+    "lng": -68.1336229
+  },
+  {
+    "id": "bolivia-radio-betania-937-fm",
+    "name": "Radio Betania 93.7 FM",
+    "url": "https://emiteradio.com/proxy/radiobetania?mp=/stream",
+    "genre": "Music",
+    "city": "Santa Cruz de la Sierra",
+    "country": "Bolivia",
+    "lat": -17.7834217,
+    "lng": -63.1820853
+  },
+  {
+    "id": "bolivia-radiosat-fm--bolivia",
+    "name": "RadioSat FM - Bolivia",
+    "url": "https://mira.streamerr.co/listen/radiosatbolivia/radio.mp3",
+    "genre": "Music",
+    "city": "Santa Cruz de la Sierra",
+    "country": "Bolivia",
+    "lat": -17.7834217,
+    "lng": -63.1820853
+  },
+  {
+    "id": "bolivia-radio-san-rafael-fm-925",
+    "name": "Radio San Rafael FM 92.5",
+    "url": "https://guri.tepuyserver.net:7098/stream",
+    "genre": "Music",
+    "city": "Cochabamba",
+    "country": "Bolivia",
+    "lat": -17.4012458,
+    "lng": -66.1675681
+  },
+  {
+    "id": "bolivia-eres-radio-985-fm",
+    "name": "Eres Radio 98.5 FM",
+    "url": "https://sp5.servidorrprivado.com/8789/stream",
+    "genre": "Music",
+    "city": "Cochabamba",
+    "country": "Bolivia",
+    "lat": -17.4012458,
+    "lng": -66.1675681
+  },
+  {
+    "id": "bolivia-la-mega-973-fm",
+    "name": "La Mega 97.3 FM",
+    "url": "https://stream-178.zeno.fm/x2q3a95ugy8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ4MnEzYTk1dWd5OHV2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoibnNlRHdwdllRd3lnYWdDWm5yNnRmdyIsImlhdCI6MTc2OTQxNjkyMiwiZXhwIjoxNzY5NDE2OTgyfQ.o2ZaoJiIMwvdOz5sehbZwm0n0IOlLttAnrg7yVlr-gI",
+    "genre": "Music",
+    "city": "Santa Cruz de la Sierra",
+    "country": "Bolivia",
+    "lat": -17.7834217,
+    "lng": -63.1820853
+  },
+  {
+    "id": "bolivia-radio-trans-mundial-bolivia",
+    "name": "Radio Trans Mundial Bolivia",
+    "url": "https://emiteradio.com/proxy/rtmsatelite?mp=/stream",
+    "genre": "Music",
+    "city": "Santa Cruz de la Sierra",
+    "country": "Bolivia",
+    "lat": -17.7834217,
+    "lng": -63.1820853
+  },
+  {
+    "id": "bolivia-electra-radio",
+    "name": "ELECTRA Radio",
+    "url": "https://cesarradio.realserver.es/listen/electra_radio/radio.mp3",
+    "genre": "Music",
+    "city": "Cochabamba",
+    "country": "Bolivia",
+    "lat": -17.4012458,
+    "lng": -66.1675681
+  },
+  {
+    "id": "bolivia-radio-santa-cruz-fm-922",
+    "name": "Radio Santa Cruz FM 92.2",
+    "url": "https://azura1.bitstreaming.net:8510/radio.mp3",
+    "genre": "Music",
+    "city": "Santa Cruz de la Sierra",
+    "country": "Bolivia",
+    "lat": -17.7834217,
+    "lng": -63.1820853
+  },
+  {
+    "id": "bolivia-radio-la-cruz-del-sur-fm-952",
+    "name": "Radio La Cruz del Sur FM 95.2",
+    "url": "https://stream-160.zeno.fm/qqmgs8pfv1gtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxcW1nczhwZnYxZ3R2IiwiaG9zdCI6InN0cmVhbS0xNjAuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiVmxCdVhkcmxSUkNremVzWGxIQTdiUSIsImlhdCI6MTc2OTQxNjkyMiwiZXhwIjoxNzY5NDE2OTgyfQ.vNP3pN79t6D1Zl46ZcsDh4ivgY20G6ihNo27AaeiZbc",
+    "genre": "Music",
+    "city": "Cochabamba",
+    "country": "Bolivia",
+    "lat": -17.4012458,
+    "lng": -66.1675681
+  },
+  {
+    "id": "bolivia-radio-aymara",
+    "name": "Radio Aymara",
+    "url": "https://stream-160.zeno.fm/mryk3skxum0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJtcnlrM3NreHVtMHV2IiwiaG9zdCI6InN0cmVhbS0xNjAuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiak1iWXBJOURRVE9lWlI3NVBsWFE0USIsImlhdCI6MTc2OTQxNjkyMiwiZXhwIjoxNzY5NDE2OTgyfQ.7pl4pGTXcLknD-xR3yzrtHerjhIanoTxFUF-Ybi0ycA",
+    "genre": "Music",
+    "city": "Cochabamba",
+    "country": "Bolivia",
+    "lat": -17.4012458,
+    "lng": -66.1675681
+  },
+  {
+    "id": "bolivia-radio-mix-show",
+    "name": "Radio Mix Show",
+    "url": "https://srv3.elittehosting.com:8010/stream",
+    "genre": "Music",
+    "city": "Santa Cruz de la Sierra",
+    "country": "Bolivia",
+    "lat": -17.7834217,
+    "lng": -63.1820853
+  },
+  {
+    "id": "bolivia-maritima-fm-1009",
+    "name": "Maritima FM 100.9",
+    "url": "https://spanel.gcomstreaming.com/8004/stream",
+    "genre": "Music",
+    "city": "Santa Cruz de la Sierra",
+    "country": "Bolivia",
+    "lat": -17.7834217,
+    "lng": -63.1820853
+  },
+  {
+    "id": "bolivia-radio-mediterraneo-oruro",
+    "name": "Radio Mediterraneo Oruro",
+    "url": "http://5.135.183.124:8165/stream",
+    "genre": "Music",
+    "city": "Oruro",
+    "country": "Bolivia",
+    "lat": -18.666667,
+    "lng": -67.666667
+  },
+  {
+    "id": "bolivia-radio-disney-1027-fm",
+    "name": "Radio Disney 102.7 FM",
+    "url": "https://27353.live.streamtheworld.com:443/DISNEY_BOL_SCAAC.aac",
+    "genre": "Music",
+    "city": "Cochabamba",
+    "country": "Bolivia",
+    "lat": -17.4012458,
+    "lng": -66.1675681
+  },
+  {
+    "id": "bolivia-ciudad-radio-fm-1015",
+    "name": "Ciudad Radio FM 101.5",
+    "url": "https://emiteradio.com/proxy/monteroradio?mp=/stream",
+    "genre": "Music",
+    "city": "Santa Cruz de la Sierra",
+    "country": "Bolivia",
+    "lat": -17.7834217,
+    "lng": -63.1820853
+  },
+  {
+    "id": "bolivia-radio-kantuta-1018-fm",
+    "name": "Radio Kantuta 101.8 FM",
+    "url": "https://audiokadosh.com:8050/status-json.xsl//stream",
+    "genre": "Music",
+    "city": "Oruro",
+    "country": "Bolivia",
+    "lat": -18.666667,
+    "lng": -67.666667
+  },
+  {
+    "id": "bolivia-radio-caliente-973-fm",
+    "name": "Radio Caliente 97.3 FM",
+    "url": "https://eu1.serviaudio.com:10982/stream/",
+    "genre": "Music",
+    "city": "Oruro",
+    "country": "Bolivia",
+    "lat": -18.666667,
+    "lng": -67.666667
+  },
+  {
+    "id": "bolivia-vox-radio-elsajamacom",
+    "name": "Vox Radio ElSajama.com",
+    "url": "https://emiteradio.com/proxy/voxradio/stream",
+    "genre": "Music",
+    "city": "Oruro",
+    "country": "Bolivia",
+    "lat": -18.666667,
+    "lng": -67.666667
+  },
+  {
+    "id": "bolivia-radio-fama-fm-1015",
+    "name": "Radio Fama FM 101.5",
+    "url": "https://srv3.elittehosting.com:8002/stream",
+    "genre": "Music",
+    "city": "Santa Cruz de la Sierra",
+    "country": "Bolivia",
+    "lat": -17.7834217,
+    "lng": -63.1820853
+  },
+  {
+    "id": "bolivia-radio-atipiri-am-840",
+    "name": "Radio Atipiri AM 840",
+    "url": "https://emiteradio.com/proxy/atipiriradio?mp=/stream",
+    "genre": "Music",
+    "city": "El Alto",
+    "country": "Bolivia",
+    "lat": -16.5048228,
+    "lng": -68.1624337
+  },
+  {
+    "id": "bolivia-radio-caliente-fm-1051",
+    "name": "Radio Caliente FM 105.1",
+    "url": "https://srv3.elittehosting.com:8004/stream",
+    "genre": "Music",
+    "city": "Santa Cruz de la Sierra",
+    "country": "Bolivia",
+    "lat": -17.7834217,
+    "lng": -63.1820853
+  },
+  {
+    "id": "bolivia-radio-universal-1069-fm",
+    "name": "Radio Universal 106.9 FM",
+    "url": "https://radio.yoemito.net/listen/universalfm/stream",
+    "genre": "Music",
+    "city": "Oruro",
+    "country": "Bolivia",
+    "lat": -18.666667,
+    "lng": -67.666667
+  },
+  {
+    "id": "bolivia-radio-nacional-de-huanuni-fm-945",
+    "name": "Radio Nacional de Huanuni FM 94.5",
+    "url": "https://eu1.serviaudio.com:10984/stream/",
+    "genre": "Music",
+    "city": "Oruro",
+    "country": "Bolivia",
+    "lat": -18.666667,
+    "lng": -67.666667
+  },
+  {
+    "id": "bolivia-radio-san-gabriel-982-fm",
+    "name": "Radio San Gabriel 98.2 FM",
+    "url": "https://spanel.gcomstreaming.com:7004/index.html?sid=1",
+    "genre": "Music",
+    "city": "El Alto",
+    "country": "Bolivia",
+    "lat": -16.5048228,
+    "lng": -68.1624337
+  },
+  {
+    "id": "bolivia-radio-san-gabriel-am-670",
+    "name": "Radio San Gabriel AM 670",
+    "url": "https://spanel.gcomstreaming.com:7003/index.html?sid=1",
+    "genre": "Music",
+    "city": "El Alto",
+    "country": "Bolivia",
+    "lat": -16.5048228,
+    "lng": -68.1624337
+  },
+  {
+    "id": "bolivia-wkm-radio-913-fm",
+    "name": "WKM Radio 91.3 FM",
+    "url": "https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio/5c255b6a2856d158a734dba3/5df7cf305396b836ef541c12/icecast.audio?aid=5c255b6a2856d158a734dba3&pid=fdmKI04OMyBQtGJJjY3viXhsSI78p4kI&sid=ifKnbu85Z9UGhMjltO5K1bQA20npk57Z&uid=byKCcsOb87DvftnRv9y2R1iiVlgfQw9R&es=us-b4-p-e-zs14-audio.cdn.mdstrm.com&ote=1769503326573&ot=RkIsXec5-DWZ79xHz1dypg&proto=https&pz=us&cP=128000",
+    "genre": "Music",
+    "city": "Oruro",
+    "country": "Bolivia",
+    "lat": -18.666667,
+    "lng": -67.666667
+  },
+  {
+    "id": "bolivia-radio-delta-bolivia",
+    "name": "Radio Delta Bolivia",
+    "url": "https://st.deltaboliviainstitucion.org:8005/stream",
+    "genre": "Music",
+    "city": "El Alto",
+    "country": "Bolivia",
+    "lat": -16.5048228,
+    "lng": -68.1624337
+  },
+  {
+    "id": "bolivia-guemes-1063-fm",
+    "name": "Guemes 106.3 FM",
+    "url": "https://server.radiostreaming.com.ar/8564/stream",
+    "genre": "Music",
+    "city": "Tarija",
+    "country": "Bolivia",
+    "lat": -21.583333,
+    "lng": -63.833333
+  },
+  {
+    "id": "bolivia-chapaco-noticias-tarija",
+    "name": "Chapaco Noticias Tarija",
+    "url": "https://radio.chapaconoticias.com/stream",
+    "genre": "Music",
+    "city": "Tarija",
+    "country": "Bolivia",
+    "lat": -21.583333,
+    "lng": -63.833333
+  },
+  {
+    "id": "bolivia-studio-94-fm",
+    "name": "Studio 94 FM",
+    "url": "https://radiostreambo.live:8010/radio.mp3",
+    "genre": "Music",
+    "city": "El Alto",
+    "country": "Bolivia",
+    "lat": -16.5048228,
+    "lng": -68.1624337
+  },
+  {
+    "id": "bolivia-radio-onda-tarijeña-fm-1039",
+    "name": "Radio Onda Tarijeña FM 103.9",
+    "url": "https://cloudstream2034.conectarhosting.com/8006/stream",
+    "genre": "Music",
+    "city": "Tarija",
+    "country": "Bolivia",
+    "lat": -21.583333,
+    "lng": -63.833333
+  },
+  {
+    "id": "bolivia-radio-bartolina-sisa-994-fm",
+    "name": "Radio Bartolina Sisa 99.4 FM",
+    "url": "https://stream-175.zeno.fm/arcdb5ubn0quv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJhcmNkYjV1Ym4wcXV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiMWhFaENCcG1UUmlTV25WNlgtTmctQSIsImlhdCI6MTc2OTQxNjkyOSwiZXhwIjoxNzY5NDE2OTg5fQ.z_UXbwEyj9nYH-kLGJiDliECqoSUipvLe1ZYTepOAYs",
+    "genre": "Music",
+    "city": "El Alto",
+    "country": "Bolivia",
+    "lat": -16.5048228,
+    "lng": -68.1624337
+  },
+  {
+    "id": "bolivia-radio-folclórica-de-uyuni",
+    "name": "Radio Folclórica de Uyuni",
+    "url": "https://emiteradio.com/proxy/uyuni?mp=/stream",
+    "genre": "Music",
+    "city": "Tarija",
+    "country": "Bolivia",
+    "lat": -21.583333,
+    "lng": -63.833333
+  },
+  {
+    "id": "bolivia-radio-capital-1057-fm",
+    "name": "Radio Capital 105.7 FM",
+    "url": "https://stream-179.zeno.fm/58q98xtkr7zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI1OHE5OHh0a3I3enV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiemZlU0VXMllUSm14cFpkbWZNRjZMdyIsImlhdCI6MTc2OTQxNjkzMCwiZXhwIjoxNzY5NDE2OTkwfQ.76qlqEACuQ08aGOubxvWfK6ZsUEGQOgBWhf7h8bJ0zk",
+    "genre": "Music",
+    "city": "Tarija",
+    "country": "Bolivia",
+    "lat": -21.583333,
+    "lng": -63.833333
+  },
+  {
+    "id": "bolivia-la-cruz-tarija-fm-928",
+    "name": "La Cruz Tarija FM 92.8",
+    "url": "https://stream-179.zeno.fm/qu96hpzmky8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxdTk2aHB6bWt5OHV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiYTBMRzUtQVFTWmlZUVdjT3lVSVdndyIsImlhdCI6MTc2OTQxNjkzMCwiZXhwIjoxNzY5NDE2OTkwfQ.V-lw-Z-kmucNHBCK-tAWj4DtO5A4B-ECuTZoQ-ljQGY",
+    "genre": "Music",
+    "city": "Tarija",
+    "country": "Bolivia",
+    "lat": -21.583333,
+    "lng": -63.833333
+  },
+  {
+    "id": "bolivia-red-chuquisaqueña",
+    "name": "Red Chuquisaqueña",
+    "url": "https://stream-179.zeno.fm/b9u2qztkr7zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJiOXUycXp0a3I3enV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiNEhMY0hVUVNTbTZBbWk3RGZhRTZNQSIsImlhdCI6MTc2OTQxNjkzMSwiZXhwIjoxNzY5NDE2OTkxfQ.03ctIU22LPq6sq-QQ6ktn3w6f99d0GVkB1LhzLJB4H8",
+    "genre": "Music",
+    "city": "Sucre",
+    "country": "Bolivia",
+    "lat": -19.0477251,
+    "lng": -65.2594306
+  },
+  {
+    "id": "bolivia-radio-pionera-1037-fm",
+    "name": "Radio Pionera 103.7 FM",
+    "url": "https://stream-168.zeno.fm/vv226fdrbrzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2djIyNmZkcmJyenV2IiwiaG9zdCI6InN0cmVhbS0xNjguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiWURQbkJ1SlZUOXU4bXBNNE5FNGRsQSIsImlhdCI6MTc2OTQxNjkzMCwiZXhwIjoxNzY5NDE2OTkwfQ.nCcDOJhnMhZ0maLIbT004SWYBf4ELIMWC-AuSg2la_U",
+    "genre": "Music",
+    "city": "Potosi",
+    "country": "Bolivia",
+    "lat": -19.5892896,
+    "lng": -65.7534713
+  },
+  {
+    "id": "bolivia-radio-turbo-mix-fm-915",
+    "name": "Radio Turbo Mix FM 91.5",
+    "url": "https://one.cloudstreaming.eu/proxy/turbomix/stream",
+    "genre": "Music",
+    "city": "Montero",
+    "country": "Bolivia",
+    "lat": -17.3420202,
+    "lng": -63.2557687
+  },
+  {
+    "id": "bolivia-audiokiss-907-fm",
+    "name": "Audiokiss 90.7 FM",
+    "url": "https://radio02.com/7040/stream",
+    "genre": "Music",
+    "city": "Santa Cruz de la Sierra",
+    "country": "Bolivia",
+    "lat": -17.7834217,
+    "lng": -63.1820853
+  },
+  {
+    "id": "bolivia-fm-energy-911",
+    "name": "FM Energy 91.1",
+    "url": "https://emiteradio.com/proxy/energy?mp=/stream",
+    "genre": "Music",
+    "city": "Villazon",
+    "country": "Bolivia",
+    "lat": -22.090727,
+    "lng": -65.5956943
+  },
+  {
+    "id": "bolivia-fm-patria-1073",
+    "name": "FM Patria 107.3",
+    "url": "https://edge04.radiohdvivo.com/fmpatria1073",
+    "genre": "Music",
+    "city": "Villazon",
+    "country": "Bolivia",
+    "lat": -22.090727,
+    "lng": -65.5956943
+  },
+  {
+    "id": "bolivia-trentina-fm-1011",
+    "name": "Trentina FM 101.1",
+    "url": "https://stm8.xcast.com.br:8642/stream",
+    "genre": "Music",
+    "city": "Villazon",
+    "country": "Bolivia",
+    "lat": -22.090727,
+    "lng": -65.5956943
+  },
+  {
+    "id": "bolivia-raio-dj-tv-fm-1071",
+    "name": "Raio DJ TV FM 107.1",
+    "url": "https://stream-153.zeno.fm/zsbf9w2yzf8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ6c2JmOXcyeXpmOHV2IiwiaG9zdCI6InN0cmVhbS0xNTMuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiaHRETDRQbkNTcW1fUVhYN1ViUVVJQSIsImlhdCI6MTc2OTQxNjkzMywiZXhwIjoxNzY5NDE2OTkzfQ.1ByKUACYPba9ba5X9jU_O3ANSuClINp7I0r0S548C94",
+    "genre": "Music",
+    "city": "Huanuni",
+    "country": "Bolivia",
+    "lat": -18.2857835,
+    "lng": -66.8346828
+  },
+  {
+    "id": "bolivia-glam-fm",
+    "name": "Glam FM",
+    "url": "https://streaming2.locucionar.com/proxy/glam963?mp=/stream",
+    "genre": "Music",
+    "city": "Villazon",
+    "country": "Bolivia",
+    "lat": -22.090727,
+    "lng": -65.5956943
+  },
+  {
+    "id": "bolivia-mundo-laboral-radio",
+    "name": "Mundo Laboral Radio",
+    "url": "https://azura1.bitstreaming.net/listen/mundolaboral/radio.mp3",
+    "genre": "Music",
+    "city": "Vallegrande",
+    "country": "Bolivia",
+    "lat": -18.6690823,
+    "lng": -63.9783069
+  }
+]

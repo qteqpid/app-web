@@ -1,0 +1,2882 @@
+[
+  {
+    "id": "brazil-redevoice",
+    "name": "RedeVoice",
+    "url": "https://hts06.brascast.com:9302/live",
+    "genre": "Music",
+    "city": "São Paulo SP",
+    "country": "Brazil",
+    "lat": -23.4647655,
+    "lng": -46.8584264
+  },
+  {
+    "id": "brazil-jacare-fm",
+    "name": "Jacare FM",
+    "url": "http://cast2.hoost.com.br:8113/stream",
+    "genre": "Music",
+    "city": "Rio de Janeiro RJ",
+    "country": "Brazil",
+    "lat": -22.905313,
+    "lng": -43.2268365
+  },
+  {
+    "id": "brazil-jovem-pan-fm-1009",
+    "name": "Jovem Pan FM 100.9",
+    "url": "https://stream-150.zeno.fm/c45wbq2us3buv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjNDV3YnEydXMzYnV2IiwiaG9zdCI6InN0cmVhbS0xNTAuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiT3FwQV9YRHpSb1NzSmlFSmRIb2NPZyIsImlhdCI6MTc2OTQxNzA2MSwiZXhwIjoxNzY5NDE3MTIxfQ._OggRQiOTxL3aQ8tfHYvp3s3OpImS8I4np8MGSUXdNY",
+    "genre": "Music",
+    "city": "São Paulo SP",
+    "country": "Brazil",
+    "lat": -23.4647655,
+    "lng": -46.8584264
+  },
+  {
+    "id": "brazil-rádio-mais-fm-1029",
+    "name": "Rádio Mais FM 102.9",
+    "url": "https://8313.brasilstream.com.br/stream",
+    "genre": "Music",
+    "city": "São Paulo SP",
+    "country": "Brazil",
+    "lat": -23.4647655,
+    "lng": -46.8584264
+  },
+  {
+    "id": "brazil-rádio-itatiaia",
+    "name": "Rádio Itatiaia",
+    "url": "https://8903.brasilstream.com.br/stream",
+    "genre": "Music",
+    "city": "São Paulo SP",
+    "country": "Brazil",
+    "lat": -23.4647655,
+    "lng": -46.8584264
+  },
+  {
+    "id": "brazil-progressive-earth-radio",
+    "name": "Progressive Earth Radio",
+    "url": "https://sv10.hdradios.net:6674/stream",
+    "genre": "Music",
+    "city": "São Paulo SP",
+    "country": "Brazil",
+    "lat": -23.4647655,
+    "lng": -46.8584264
+  },
+  {
+    "id": "brazil-live-mix",
+    "name": "Live Mix",
+    "url": "https://streaming.inweb.com.br/livemix",
+    "genre": "Music",
+    "city": "São Paulo SP",
+    "country": "Brazil",
+    "lat": -23.4647655,
+    "lng": -46.8584264
+  },
+  {
+    "id": "brazil-tropical-fm-1079",
+    "name": "Tropical FM 107.9",
+    "url": "https://f108.fabricahost.com.br/tropicalfmsp?f=1769417062N01KFWQKEHXTR7T9K0D8XT45B16&tid=01KFWQKEHXDDNR80E9C0XNWFSA",
+    "genre": "Music",
+    "city": "São Paulo SP",
+    "country": "Brazil",
+    "lat": -23.4647655,
+    "lng": -46.8584264
+  },
+  {
+    "id": "brazil-radio-estilo-leblon",
+    "name": "Radio Estilo Leblon",
+    "url": "https://us4.internet-radio.com/proxy/radioestiloleblon?mp=/stream",
+    "genre": "Music",
+    "city": "Rio de Janeiro RJ",
+    "country": "Brazil",
+    "lat": -22.905313,
+    "lng": -43.2268365
+  },
+  {
+    "id": "brazil-antena-1",
+    "name": "Antena 1",
+    "url": "https://antenaone.crossradio.com.br/stream",
+    "genre": "Music",
+    "city": "São Paulo SP",
+    "country": "Brazil",
+    "lat": -23.4647655,
+    "lng": -46.8584264
+  },
+  {
+    "id": "brazil-alpha-fm-1017",
+    "name": "Alpha FM 101.7",
+    "url": "https://14073.live.streamtheworld.com:443/RADIO_ALPHAFMAAC.aac",
+    "genre": "Music",
+    "city": "São Paulo SP",
+    "country": "Brazil",
+    "lat": -23.4647655,
+    "lng": -46.8584264
+  },
+  {
+    "id": "brazil-rádio-metropolitana--sertanejo",
+    "name": "Rádio Metropolitana - Sertanejo",
+    "url": "https://f108.fabricahost.com.br/metrospsertanejo?f=1769417062N01KFWQKEE76MKAQ8RDC30B0A72&tid=01KFWQKEE720C9H8EQ492NQ1QK",
+    "genre": "Music",
+    "city": "São Paulo SP",
+    "country": "Brazil",
+    "lat": -23.4647655,
+    "lng": -46.8584264
+  },
+  {
+    "id": "brazil-rádio-over-rock",
+    "name": "Rádio Over Rock",
+    "url": "https://s18.maxcast.com.br:8008/live",
+    "genre": "Music",
+    "city": "São Paulo SP",
+    "country": "Brazil",
+    "lat": -23.4647655,
+    "lng": -46.8584264
+  },
+  {
+    "id": "brazil-imperio-fm",
+    "name": "Império FM",
+    "url": "https://s1.tgastream.com.br:8519/stream",
+    "genre": "Music",
+    "city": "São Paulo SP",
+    "country": "Brazil",
+    "lat": -23.4647655,
+    "lng": -46.8584264
+  },
+  {
+    "id": "brazil-rádio-rock-fm-891",
+    "name": "Rádio Rock FM 89.1",
+    "url": "https://27353.live.streamtheworld.com:443/RADIO_89FM_ADP.aac",
+    "genre": "Music",
+    "city": "São Paulo SP",
+    "country": "Brazil",
+    "lat": -23.4647655,
+    "lng": -46.8584264
+  },
+  {
+    "id": "brazil-rádio-cbn-são-paulo",
+    "name": "Rádio CBN São Paulo",
+    "url": "https://27363.live.streamtheworld.com:443/CBN_SPAAC.aac",
+    "genre": "Music",
+    "city": "São Paulo SP",
+    "country": "Brazil",
+    "lat": -23.4647655,
+    "lng": -46.8584264
+  },
+  {
+    "id": "brazil-rádio-jb-fm-99,9",
+    "name": "Rádio JB FM 99,9",
+    "url": "https://27373.live.streamtheworld.com:443/JBFMAAC.aac",
+    "genre": "Music",
+    "city": "São Paulo SP",
+    "country": "Brazil",
+    "lat": -23.4647655,
+    "lng": -46.8584264
+  },
+  {
+    "id": "brazil-xanadu-fm",
+    "name": "Xanadu FM",
+    "url": "https://stm10.srvstm.com:8194/stream",
+    "genre": "Music",
+    "city": "Rio de Janeiro RJ",
+    "country": "Brazil",
+    "lat": -22.905313,
+    "lng": -43.2268365
+  },
+  {
+    "id": "brazil-rádio-new-life-875-fm",
+    "name": "Rádio New Life 87.5 FM",
+    "url": "https://radio.saopaulo01.com.br:10861/index.html?sid=1",
+    "genre": "Music",
+    "city": "São Paulo SP",
+    "country": "Brazil",
+    "lat": -23.4647655,
+    "lng": -46.8584264
+  },
+  {
+    "id": "brazil-rádio-pinheiral-rock",
+    "name": "Rádio Pinheiral Rock",
+    "url": "https://azura1.cmaudioevideo.com:8190/radio.mp3",
+    "genre": "Music",
+    "city": "Rio de Janeiro RJ",
+    "country": "Brazil",
+    "lat": -22.905313,
+    "lng": -43.2268365
+  },
+  {
+    "id": "brazil-super-rádio-tupi-fm-965",
+    "name": "Super Rádio Tupi FM 96.5",
+    "url": "https://8923.brasilstream.com.br/stream",
+    "genre": "Music",
+    "city": "Rio de Janeiro RJ",
+    "country": "Brazil",
+    "lat": -22.905313,
+    "lng": -43.2268365
+  },
+  {
+    "id": "brazil-mirandela-fm-987",
+    "name": "Mirandela FM 98.7",
+    "url": "https://cast.hoost.com.br:9232/stream",
+    "genre": "Music",
+    "city": "Rio de Janeiro RJ",
+    "country": "Brazil",
+    "lat": -22.905313,
+    "lng": -43.2268365
+  },
+  {
+    "id": "brazil-radio-cais-embarcadero",
+    "name": "Radio Cais Embarcadero",
+    "url": "https://superaudio.radio.br/radio/8180/stream",
+    "genre": "Music",
+    "city": "Porto Alegre RS",
+    "country": "Brazil",
+    "lat": -30.0340622,
+    "lng": -51.1576233
+  },
+  {
+    "id": "brazil-radio-big-love",
+    "name": "Radio Big Love",
+    "url": "https://stm9.xcast.com.br:9958/stream",
+    "genre": "Music",
+    "city": "Porto Alegre RS",
+    "country": "Brazil",
+    "lat": -30.0340622,
+    "lng": -51.1576233
+  },
+  {
+    "id": "brazil-rádio-jovem-pan--grande-porto-alegre",
+    "name": "Rádio Jovem Pan - Grande Porto Alegre",
+    "url": "https://r6.ciclano.io/proxy/jp907/stream",
+    "genre": "Music",
+    "city": "Porto Alegre RS",
+    "country": "Brazil",
+    "lat": -30.0340622,
+    "lng": -51.1576233
+  },
+  {
+    "id": "brazil-rádio-manawa",
+    "name": "Rádio Manawa",
+    "url": "https://audio.masterstreaming.com.br/radio/8000/radio.mp3",
+    "genre": "Music",
+    "city": "Porto Alegre RS",
+    "country": "Brazil",
+    "lat": -30.0340622,
+    "lng": -51.1576233
+  },
+  {
+    "id": "brazil-rádio-transamerica-pop",
+    "name": "Rádio Transamérica POP",
+    "url": "https://26523.live.streamtheworld.com:443/RT_RJAAC.aac",
+    "genre": "Music",
+    "city": "Rio de Janeiro RJ",
+    "country": "Brazil",
+    "lat": -22.905313,
+    "lng": -43.2268365
+  },
+  {
+    "id": "brazil-antena-1-rio-fm-1037",
+    "name": "Antena 1 Rio FM 103.7",
+    "url": "https://antena1campanha.crossradio.com.br:29090/camp3",
+    "genre": "Music",
+    "city": "Rio de Janeiro RJ",
+    "country": "Brazil",
+    "lat": -22.905313,
+    "lng": -43.2268365
+  },
+  {
+    "id": "brazil-radio-liberdade-825-fm",
+    "name": "Radio Liberdade 82.5 FM",
+    "url": "https://cast4.audiostream.com.br:2655/mp3",
+    "genre": "Music",
+    "city": "Porto Alegre RS",
+    "country": "Brazil",
+    "lat": -30.0340622,
+    "lng": -51.1576233
+  },
+  {
+    "id": "brazil-radio-pampa-fm",
+    "name": "Radio Pampa FM",
+    "url": "https://cast4.audiostream.com.br:2653/aac",
+    "genre": "Music",
+    "city": "Porto Alegre RS",
+    "country": "Brazil",
+    "lat": -30.0340622,
+    "lng": -51.1576233
+  },
+  {
+    "id": "brazil-radio-globo-981-fm",
+    "name": "Radio Globo 98.1 FM",
+    "url": "https://26583.live.streamtheworld.com:443/RADIO_GLOBO_RJAAC.aac",
+    "genre": "Music",
+    "city": "Rio de Janeiro RJ",
+    "country": "Brazil",
+    "lat": -22.905313,
+    "lng": -43.2268365
+  },
+  {
+    "id": "brazil-rádio-graviola",
+    "name": "Rádio Graviola",
+    "url": "https://servidor30.brlogic.com:8262/live",
+    "genre": "Music",
+    "city": "Rio de Janeiro RJ",
+    "country": "Brazil",
+    "lat": -22.905313,
+    "lng": -43.2268365
+  },
+  {
+    "id": "brazil-continental-983-fm",
+    "name": "Continental 98.3 FM",
+    "url": "https://cast3.my-control-panel.com/proxy/rede/mp3",
+    "genre": "Music",
+    "city": "Porto Alegre RS",
+    "country": "Brazil",
+    "lat": -30.0340622,
+    "lng": -51.1576233
+  },
+  {
+    "id": "brazil-fm-o-dia-1005",
+    "name": "FM o Dia 100.5",
+    "url": "https://streaming.livespanel.com:20000/live",
+    "genre": "Music",
+    "city": "Rio de Janeiro RJ",
+    "country": "Brazil",
+    "lat": -22.905313,
+    "lng": -43.2268365
+  },
+  {
+    "id": "brazil-rádio-grenal",
+    "name": "Rádio Grenal",
+    "url": "https://grenal.audiostream.com.br:20000/aac",
+    "genre": "Music",
+    "city": "Porto Alegre RS",
+    "country": "Brazil",
+    "lat": -30.0340622,
+    "lng": -51.1576233
+  },
+  {
+    "id": "brazil-rádio-sarau",
+    "name": "Rádio Sarau",
+    "url": "https://servidor33-3.brlogic.com:7064/live",
+    "genre": "Music",
+    "city": "Rio de Janeiro RJ",
+    "country": "Brazil",
+    "lat": -22.905313,
+    "lng": -43.2268365
+  },
+  {
+    "id": "brazil-rádio-itaí-deus-e-amor-am-880",
+    "name": "Rádio Itaí Deus é Amor AM 880",
+    "url": "https://27433.live.streamtheworld.com:443/RS_RADIOONLINEAAC_SC",
+    "genre": "Music",
+    "city": "Porto Alegre RS",
+    "country": "Brazil",
+    "lat": -30.0340622,
+    "lng": -51.1576233
+  },
+  {
+    "id": "brazil-radio-real",
+    "name": "Radio Real",
+    "url": "https://ssl.xcast.com.br:9770/index.html?sid=1",
+    "genre": "Music",
+    "city": "Porto Alegre RS",
+    "country": "Brazil",
+    "lat": -30.0340622,
+    "lng": -51.1576233
+  },
+  {
+    "id": "brazil-rádio-dimensão-fm-1071",
+    "name": "Rádio Dimensão FM 107.1",
+    "url": "http://sl.dnip.com.br:8832/stream",
+    "genre": "Music",
+    "city": "Curitiba PR",
+    "country": "Brazil",
+    "lat": -25.41651,
+    "lng": -49.2646701
+  },
+  {
+    "id": "brazil-radio-gospel-rs",
+    "name": "Radio Gospel RS",
+    "url": "https://cc4.streammaximum.com:20012/stream",
+    "genre": "Music",
+    "city": "Porto Alegre RS",
+    "country": "Brazil",
+    "lat": -30.0340622,
+    "lng": -51.1576233
+  },
+  {
+    "id": "brazil-super-rede-boa-vontade-de-rádio",
+    "name": "Super Rede Boa Vontade de Rádio",
+    "url": "https://8915.brasilstream.com.br/stream",
+    "genre": "Music",
+    "city": "Porto Alegre RS",
+    "country": "Brazil",
+    "lat": -30.0340622,
+    "lng": -51.1576233
+  },
+  {
+    "id": "brazil-viagem-do-rock",
+    "name": "Viagem do Rock",
+    "url": "https://servidor33-4.brlogic.com:8178/live",
+    "genre": "Music",
+    "city": "Rio de Janeiro RJ",
+    "country": "Brazil",
+    "lat": -22.905313,
+    "lng": -43.2268365
+  },
+  {
+    "id": "brazil-rádio-viva-o-samba",
+    "name": "Rádio Viva o Samba",
+    "url": "https://servidor33-3.brlogic.com:8020/live",
+    "genre": "Music",
+    "city": "Rio de Janeiro RJ",
+    "country": "Brazil",
+    "lat": -22.905313,
+    "lng": -43.2268365
+  },
+  {
+    "id": "brazil-rádio-integração-879-fm",
+    "name": "Rádio Integração 87.9 FM",
+    "url": "https://s19.maxcast.com.br:8108/live",
+    "genre": "Music",
+    "city": "Porto Alegre RS",
+    "country": "Brazil",
+    "lat": -30.0340622,
+    "lng": -51.1576233
+  },
+  {
+    "id": "brazil-atlântida-943-fm",
+    "name": "Atlântida 94.3 FM",
+    "url": "https://26683.live.streamtheworld.com:443/RBS_RADIOSAAC.aac",
+    "genre": "Music",
+    "city": "Porto Alegre RS",
+    "country": "Brazil",
+    "lat": -30.0340622,
+    "lng": -51.1576233
+  },
+  {
+    "id": "brazil-rádio-virtual",
+    "name": "Rádio Virtual",
+    "url": "https://ssl.painelcast.com:6766/index.html?sid=1",
+    "genre": "Music",
+    "city": "Curitiba PR",
+    "country": "Brazil",
+    "lat": -25.41651,
+    "lng": -49.2646701
+  },
+  {
+    "id": "brazil-rádio-cultura-de-curitiba",
+    "name": "Rádio Cultura de Curitiba",
+    "url": "https://mbetti.jmvstream.com/stream",
+    "genre": "Music",
+    "city": "Curitiba PR",
+    "country": "Brazil",
+    "lat": -25.41651,
+    "lng": -49.2646701
+  },
+  {
+    "id": "brazil-rádio-98-fm-curitiba",
+    "name": "Rádio 98 FM Curitiba",
+    "url": "https://24493.live.streamtheworld.com:443/98FM_CWBAAC.aac",
+    "genre": "Music",
+    "city": "Curitiba PR",
+    "country": "Brazil",
+    "lat": -25.41651,
+    "lng": -49.2646701
+  },
+  {
+    "id": "brazil-massa-fm-977",
+    "name": "Massa FM 97.7",
+    "url": "http://stm01.virtualcast.com.br:8118/massacuritiba",
+    "genre": "Music",
+    "city": "Curitiba PR",
+    "country": "Brazil",
+    "lat": -25.41651,
+    "lng": -49.2646701
+  },
+  {
+    "id": "brazil-stereo-life",
+    "name": "Stereo Life",
+    "url": "https://hts02.brascast.com:10034/live",
+    "genre": "Music",
+    "city": "Curitiba PR",
+    "country": "Brazil",
+    "lat": -25.41651,
+    "lng": -49.2646701
+  },
+  {
+    "id": "brazil-rádio-yes-curitiba",
+    "name": "Rádio Yes Curitiba",
+    "url": "https://s02.maxcast.com.br:8628/live",
+    "genre": "Music",
+    "city": "Curitiba PR",
+    "country": "Brazil",
+    "lat": -25.41651,
+    "lng": -49.2646701
+  },
+  {
+    "id": "brazil-rádio-fábrica-de-gaiteiros",
+    "name": "Rádio Fábrica de Gaiteiros",
+    "url": "https://servidor28-1.brlogic.com:8540/live",
+    "genre": "Music",
+    "city": "Porto Alegre RS",
+    "country": "Brazil",
+    "lat": -30.0340622,
+    "lng": -51.1576233
+  },
+  {
+    "id": "brazil-cbn-curitiba",
+    "name": "CBN Curitiba",
+    "url": "https://f100.fabricahost.com.br/cbncuritiba?f=1769417075N01KFWQKTBD7J47ETZPMF0R34MF&tid=01KFWQKTBD3YRG19B4GF224THY",
+    "genre": "Music",
+    "city": "Curitiba PR",
+    "country": "Brazil",
+    "lat": -25.41651,
+    "lng": -49.2646701
+  },
+  {
+    "id": "brazil-mundo-livre-939-fm",
+    "name": "Mundo LIvre 93.9 FM",
+    "url": "https://27363.live.streamtheworld.com:443/MUNDOLIVRE_CWBAAC_64.aac",
+    "genre": "Music",
+    "city": "Curitiba PR",
+    "country": "Brazil",
+    "lat": -25.41651,
+    "lng": -49.2646701
+  },
+  {
+    "id": "brazil-rádio-liberdade-ct",
+    "name": "Rádio Liberdade CT",
+    "url": "https://ssl.xcast.com.br:10638/index.html?sid=1",
+    "genre": "Music",
+    "city": "Curitiba PR",
+    "country": "Brazil",
+    "lat": -25.41651,
+    "lng": -49.2646701
+  },
+  {
+    "id": "brazil-rádio-construtiva",
+    "name": "Rádio Construtiva",
+    "url": "https://server3.webradios.com.br:9382/9382",
+    "genre": "Music",
+    "city": "Curitiba PR",
+    "country": "Brazil",
+    "lat": -25.41651,
+    "lng": -49.2646701
+  },
+  {
+    "id": "brazil-clube-fm-965",
+    "name": "Clube FM 96.5",
+    "url": "https://8112.brasilstream.com.br/stream",
+    "genre": "Music",
+    "city": "Belo Horizonte MG",
+    "country": "Brazil",
+    "lat": -19.850977,
+    "lng": -43.949192
+  },
+  {
+    "id": "brazil-great-hits-web-radio",
+    "name": "Great Hits Web Radio",
+    "url": "https://stm1.xcast.com.br:7792/stream/",
+    "genre": "Music",
+    "city": "Belo Horizonte MG",
+    "country": "Brazil",
+    "lat": -19.850977,
+    "lng": -43.949192
+  },
+  {
+    "id": "brazil-rádio-máquina-do-tempo-internacional",
+    "name": "Rádio Máquina do Tempo Internacional",
+    "url": "https://servidor28-3.brlogic.com:8212/live",
+    "genre": "Music",
+    "city": "Curitiba PR",
+    "country": "Brazil",
+    "lat": -25.41651,
+    "lng": -49.2646701
+  },
+  {
+    "id": "brazil-rádio-ipb-petrolândia",
+    "name": "Rádio IPB Petrolândia",
+    "url": "http://usa15.clic.radio.br:21066/stream/",
+    "genre": "Music",
+    "city": "Belo Horizonte MG",
+    "country": "Brazil",
+    "lat": -19.850977,
+    "lng": -43.949192
+  },
+  {
+    "id": "brazil-ouro-verde-fm-1055",
+    "name": "Ouro Verde FM 105.5",
+    "url": "https://servidor18-1.brlogic.com:7484/live",
+    "genre": "Music",
+    "city": "Curitiba PR",
+    "country": "Brazil",
+    "lat": -25.41651,
+    "lng": -49.2646701
+  },
+  {
+    "id": "brazil-jovem-pan-99,1",
+    "name": "Jovem Pan 99,1",
+    "url": "https://8062.brasilstream.com.br/stream",
+    "genre": "Music",
+    "city": "Belo Horizonte MG",
+    "country": "Brazil",
+    "lat": -19.850977,
+    "lng": -43.949192
+  },
+  {
+    "id": "brazil-estação-antonina-fm-983",
+    "name": "Estação Antonina FM 98.3",
+    "url": "https://s1.tgastream.com.br:7298/stream",
+    "genre": "Music",
+    "city": "Curitiba PR",
+    "country": "Brazil",
+    "lat": -25.41651,
+    "lng": -49.2646701
+  },
+  {
+    "id": "brazil-rádio-mpb-máquina-do-tempo",
+    "name": "Rádio MPB Máquina do Tempo",
+    "url": "https://servidor28.brlogic.com:8032/live",
+    "genre": "Music",
+    "city": "Curitiba PR",
+    "country": "Brazil",
+    "lat": -25.41651,
+    "lng": -49.2646701
+  },
+  {
+    "id": "brazil-cidade-fm-itabirito",
+    "name": "Cidade FM Itabirito",
+    "url": "http://streaming17.hstbr.net:8116/live",
+    "genre": "Music",
+    "city": "Belo Horizonte MG",
+    "country": "Brazil",
+    "lat": -19.850977,
+    "lng": -43.949192
+  },
+  {
+    "id": "brazil-radio-liberdade-929-fm",
+    "name": "Radio Liberdade 92.9 FM",
+    "url": "https://8335.brasilstream.com.br/stream",
+    "genre": "Music",
+    "city": "Belo Horizonte MG",
+    "country": "Brazil",
+    "lat": -19.850977,
+    "lng": -43.949192
+  },
+  {
+    "id": "brazil-98fm",
+    "name": "98FM",
+    "url": "https://9554.brasilstream.com.br/stream",
+    "genre": "Music",
+    "city": "Belo Horizonte MG",
+    "country": "Brazil",
+    "lat": -19.850977,
+    "lng": -43.949192
+  },
+  {
+    "id": "brazil-rádio-cbn-belo-horizonte",
+    "name": "Rádio CBN Belo Horizonte",
+    "url": "https://24283.live.streamtheworld.com:443/CBN_BHAAC.aac",
+    "genre": "Music",
+    "city": "Belo Horizonte MG",
+    "country": "Brazil",
+    "lat": -19.850977,
+    "lng": -43.949192
+  },
+  {
+    "id": "brazil-rádio-ufmg-educativa-fm-1045",
+    "name": "Rádio UFMG Educativa FM 104.5",
+    "url": "https://www3.ufmg.br/streamingradioaovivo/aovivo.mp3",
+    "genre": "Music",
+    "city": "Belo Horizonte MG",
+    "country": "Brazil",
+    "lat": -19.850977,
+    "lng": -43.949192
+  },
+  {
+    "id": "brazil-cooee-beats-fm",
+    "name": "Cooee Beats FM",
+    "url": "https://server14.srvsh.com.br:8360/stream",
+    "genre": "Music",
+    "city": "Belo Horizonte MG",
+    "country": "Brazil",
+    "lat": -19.850977,
+    "lng": -43.949192
+  },
+  {
+    "id": "brazil-caioba-fm-1023",
+    "name": "Caioba FM 102.3",
+    "url": "https://servidor35.brlogic.com:7094/live",
+    "genre": "Music",
+    "city": "Curitiba PR",
+    "country": "Brazil",
+    "lat": -25.41651,
+    "lng": -49.2646701
+  },
+  {
+    "id": "brazil-tempo-fm-1039",
+    "name": "Tempo FM 103.9",
+    "url": "https://radio.webfrequencia.com.br:8110/tempofm",
+    "genre": "Music",
+    "city": "Fortaleza CE",
+    "country": "Brazil",
+    "lat": -3.7477845,
+    "lng": -38.4610596
+  },
+  {
+    "id": "brazil-rádio-logos-fm-913",
+    "name": "Rádio Logos FM 91.3",
+    "url": "https://streaming-prod.brandaodeveloper.com.br:8000/stream",
+    "genre": "Music",
+    "city": "Fortaleza CE",
+    "country": "Brazil",
+    "lat": -3.7477845,
+    "lng": -38.4610596
+  },
+  {
+    "id": "brazil-web-rádio-clamor-da-terra",
+    "name": "Web Rádio Clamor da Terra",
+    "url": "https://s32.maxcast.com.br:8150/live",
+    "genre": "Music",
+    "city": "Belo Horizonte MG",
+    "country": "Brazil",
+    "lat": -19.850977,
+    "lng": -43.949192
+  },
+  {
+    "id": "brazil-alvorada-fm-949",
+    "name": "Alvorada FM 94.9",
+    "url": "https://26573.live.streamtheworld.com:443/RADIO_ALVORADAAAC.aac",
+    "genre": "Music",
+    "city": "Belo Horizonte MG",
+    "country": "Brazil",
+    "lat": -19.850977,
+    "lng": -43.949192
+  },
+  {
+    "id": "brazil-rádio-bh-fm",
+    "name": "Rádio BH FM",
+    "url": "https://27343.live.streamtheworld.com:443/BHFMAAC.aac",
+    "genre": "Music",
+    "city": "Belo Horizonte MG",
+    "country": "Brazil",
+    "lat": -19.850977,
+    "lng": -43.949192
+  },
+  {
+    "id": "brazil-plus-fm",
+    "name": "Plus FM",
+    "url": "https://webradio.amsolution.com.br/radio/8020/plus",
+    "genre": "Music",
+    "city": "Fortaleza CE",
+    "country": "Brazil",
+    "lat": -3.7477845,
+    "lng": -38.4610596
+  },
+  {
+    "id": "brazil-radio-virtual-plus-web",
+    "name": "radio virtual plus web",
+    "url": "https://ssl.xcast.com.br:12770/index.html?sid=1",
+    "genre": "Music",
+    "city": "Fortaleza CE",
+    "country": "Brazil",
+    "lat": -3.7477845,
+    "lng": -38.4610596
+  },
+  {
+    "id": "brazil-rádio-beach-park-fm-1027",
+    "name": "Rádio Beach Park FM 102.7",
+    "url": "http://www.radioideal.net:8026/;stream/1",
+    "genre": "Music",
+    "city": "Fortaleza CE",
+    "country": "Brazil",
+    "lat": -3.7477845,
+    "lng": -38.4610596
+  },
+  {
+    "id": "brazil-fm-93",
+    "name": "FM 93",
+    "url": "https://zoeweb.net/proxy/93fm/stream",
+    "genre": "Music",
+    "city": "Fortaleza CE",
+    "country": "Brazil",
+    "lat": -3.7477845,
+    "lng": -38.4610596
+  },
+  {
+    "id": "brazil-som-music-fm",
+    "name": "Som Music FM",
+    "url": "https://server02.srvsh.com.br:8052/stream/",
+    "genre": "Music",
+    "city": "Fortaleza CE",
+    "country": "Brazil",
+    "lat": -3.7477845,
+    "lng": -38.4610596
+  },
+  {
+    "id": "brazil-rádio-glmece",
+    "name": "Rádio GLMECE",
+    "url": "https://s02.maxcast.com.br:8014/live",
+    "genre": "Music",
+    "city": "Fortaleza CE",
+    "country": "Brazil",
+    "lat": -3.7477845,
+    "lng": -38.4610596
+  },
+  {
+    "id": "brazil-jangadeiro-fm-889",
+    "name": "Jangadeiro FM 88.9",
+    "url": "https://stream-165.zeno.fm/xuh02vfzurhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ4dWgwMnZmenVyaHZ2IiwiaG9zdCI6InN0cmVhbS0xNjUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiV001Z3gyNlJUXy1pQ3RPUU5GWUk0ZyIsImlhdCI6MTc2OTQxNzA4MSwiZXhwIjoxNzY5NDE3MTQxfQ.0moKPCjZk57LY681Rjrb2IRx_jxm6iPaI3ozbK_cE1w",
+    "genre": "Music",
+    "city": "Fortaleza CE",
+    "country": "Brazil",
+    "lat": -3.7477845,
+    "lng": -38.4610596
+  },
+  {
+    "id": "brazil-rádio-web-flash-brega",
+    "name": "Rádio Web Flash Brega",
+    "url": "https://sv10.hdradios.net:18342/stream",
+    "genre": "Music",
+    "city": "Fortaleza CE",
+    "country": "Brazil",
+    "lat": -3.7477845,
+    "lng": -38.4610596
+  },
+  {
+    "id": "brazil-nova-brasil-fm-1065",
+    "name": "Nova Brasil FM 106.5",
+    "url": "https://24273.live.streamtheworld.com:443/NOVABRASIL_FORAAC.aac",
+    "genre": "Music",
+    "city": "Fortaleza CE",
+    "country": "Brazil",
+    "lat": -3.7477845,
+    "lng": -38.4610596
+  },
+  {
+    "id": "brazil-web-rádio-atalaia-caucaia",
+    "name": "Web Rádio Atalaia Caucaia",
+    "url": "https://hts04.brascast.com:10568/live",
+    "genre": "Music",
+    "city": "Fortaleza CE",
+    "country": "Brazil",
+    "lat": -3.7477845,
+    "lng": -38.4610596
+  },
+  {
+    "id": "brazil-esportes-brasília",
+    "name": "Esportes Brasília",
+    "url": "https://stream.comandohost.com.br:8020/stream",
+    "genre": "Music",
+    "city": "Brasília DF",
+    "country": "Brazil",
+    "lat": -15.8032581,
+    "lng": -47.8854767
+  },
+  {
+    "id": "brazil-maranguape-fm-879",
+    "name": "Maranguape FM 87.9",
+    "url": "https://stm35.srvstm.com:7136/1/",
+    "genre": "Music",
+    "city": "Fortaleza CE",
+    "country": "Brazil",
+    "lat": -3.7477845,
+    "lng": -38.4610596
+  },
+  {
+    "id": "brazil-rádio-lasafá-fm-879",
+    "name": "Rádio Lasafá FM 87.9",
+    "url": "https://servidor29-3.brlogic.com:8100/live",
+    "genre": "Music",
+    "city": "Belo Horizonte MG",
+    "country": "Brazil",
+    "lat": -19.850977,
+    "lng": -43.949192
+  },
+  {
+    "id": "brazil-rádio-eixo",
+    "name": "Rádio Eixo",
+    "url": "https://hts02.brascast.com:9758/live",
+    "genre": "Music",
+    "city": "Brasília DF",
+    "country": "Brazil",
+    "lat": -15.8032581,
+    "lng": -47.8854767
+  },
+  {
+    "id": "brazil-radio-marinha",
+    "name": "Radio Marinha",
+    "url": "https://stm0.inovativa.net/listen/radiomarinha/radio.mp3",
+    "genre": "Music",
+    "city": "Brasília DF",
+    "country": "Brazil",
+    "lat": -15.8032581,
+    "lng": -47.8854767
+  },
+  {
+    "id": "brazil-atlântico-sul-fm-1057",
+    "name": "Atlântico Sul FM 105.7",
+    "url": "https://streaming.livespanel.com:21057/stream",
+    "genre": "Music",
+    "city": "Fortaleza CE",
+    "country": "Brazil",
+    "lat": -3.7477845,
+    "lng": -38.4610596
+  },
+  {
+    "id": "brazil-clube-fm-105",
+    "name": "Clube FM 105",
+    "url": "https://8157.brasilstream.com.br/stream",
+    "genre": "Music",
+    "city": "Brasília DF",
+    "country": "Brazil",
+    "lat": -15.8032581,
+    "lng": -47.8854767
+  },
+  {
+    "id": "brazil-vizinhança-fm-1059",
+    "name": "Vizinhança FM 105.9",
+    "url": "https://player.s01.com.br/proxy/7832",
+    "genre": "Music",
+    "city": "Brasília DF",
+    "country": "Brazil",
+    "lat": -15.8032581,
+    "lng": -47.8854767
+  },
+  {
+    "id": "brazil-rede-dimensao-fm-875",
+    "name": "Rede Dimensao FM 87.5",
+    "url": "https://sonicpanel.oficialserver.com/8286/stream",
+    "genre": "Music",
+    "city": "Brasília DF",
+    "country": "Brazil",
+    "lat": -15.8032581,
+    "lng": -47.8854767
+  },
+  {
+    "id": "brazil-alcance-fm",
+    "name": "Alcance FM",
+    "url": "http://ip2.paineldj5.com.br:8164/live",
+    "genre": "Music",
+    "city": "Salvador BA",
+    "country": "Brazil",
+    "lat": -12.9737371,
+    "lng": -38.5090389
+  },
+  {
+    "id": "brazil-rádio-supra-fm-909",
+    "name": "Rádio Supra FM 90.9",
+    "url": "https://sc1.cdn.upx.com:8300/stream",
+    "genre": "Music",
+    "city": "Brasília DF",
+    "country": "Brazil",
+    "lat": -15.8032581,
+    "lng": -47.8854767
+  },
+  {
+    "id": "brazil-itacima-web-radio",
+    "name": "Itacima Web Radio",
+    "url": "https://s10.maxcast.com.br:8243/live",
+    "genre": "Music",
+    "city": "Fortaleza CE",
+    "country": "Brazil",
+    "lat": -3.7477845,
+    "lng": -38.4610596
+  },
+  {
+    "id": "brazil-rádio-tocantins-580-am",
+    "name": "Rádio Tocantins 580 AM",
+    "url": "https://sv1.audiostream.com.br/radio/8040/stream",
+    "genre": "Music",
+    "city": "Brasília DF",
+    "country": "Brazil",
+    "lat": -15.8032581,
+    "lng": -47.8854767
+  },
+  {
+    "id": "brazil-rádio-top-sertanejo",
+    "name": "Rádio Top Sertanejo",
+    "url": "https://live3.livemus.com.br:27348/stream/",
+    "genre": "Music",
+    "city": "Brasília DF",
+    "country": "Brazil",
+    "lat": -15.8032581,
+    "lng": -47.8854767
+  },
+  {
+    "id": "brazil-rádio-lance-fm-981",
+    "name": "Rádio Lance FM 98.1",
+    "url": "https://ssl1.transmissaodigital.com:20316/stream/",
+    "genre": "Music",
+    "city": "Brasília DF",
+    "country": "Brazil",
+    "lat": -15.8032581,
+    "lng": -47.8854767
+  },
+  {
+    "id": "brazil-rádio-cidade-fm-991",
+    "name": "Rádio Cidade FM 99.1",
+    "url": "https://streaming.livespanel.com:9910/stream",
+    "genre": "Music",
+    "city": "Fortaleza CE",
+    "country": "Brazil",
+    "lat": -3.7477845,
+    "lng": -38.4610596
+  },
+  {
+    "id": "brazil-interativa-fm-879",
+    "name": "Interativa FM 87.9",
+    "url": "https://s1.tgastream.com.br:8172/stream",
+    "genre": "Music",
+    "city": "Brasília DF",
+    "country": "Brazil",
+    "lat": -15.8032581,
+    "lng": -47.8854767
+  },
+  {
+    "id": "brazil-anos-dourados-fm",
+    "name": "Anos Dourados FM",
+    "url": "https://stm1.xcast.com.br:7882/stream",
+    "genre": "Music",
+    "city": "Salvador BA",
+    "country": "Brazil",
+    "lat": -12.9737371,
+    "lng": -38.5090389
+  },
+  {
+    "id": "brazil-rádio-senado-fm-917",
+    "name": "Rádio Senado FM 91.7",
+    "url": "https://radioaovivo.senado.leg.br/fm.mp3",
+    "genre": "Music",
+    "city": "Brasília DF",
+    "country": "Brazil",
+    "lat": -15.8032581,
+    "lng": -47.8854767
+  },
+  {
+    "id": "brazil-jovem-pan-fm-brasilia-1063-fm",
+    "name": "Jovem Pan FM Brasilia 106.3 FM",
+    "url": "https://streaming.livespanel.com:21063/jovempanfm",
+    "genre": "Music",
+    "city": "Brasília DF",
+    "country": "Brazil",
+    "lat": -15.8032581,
+    "lng": -47.8854767
+  },
+  {
+    "id": "brazil-cbn-fm-953",
+    "name": "CBN FM 95.3",
+    "url": "https://26563.live.streamtheworld.com:443/CBN_BSBAAC.aac",
+    "genre": "Music",
+    "city": "Brasília DF",
+    "country": "Brazil",
+    "lat": -15.8032581,
+    "lng": -47.8854767
+  },
+  {
+    "id": "brazil-farol-fm-879",
+    "name": "Farol FM 87.9",
+    "url": "https://sws.onradio.biz:10987/index.html?sid=1",
+    "genre": "Music",
+    "city": "Salvador BA",
+    "country": "Brazil",
+    "lat": -12.9737371,
+    "lng": -38.5090389
+  },
+  {
+    "id": "brazil-reggae-special-fm",
+    "name": "Reggae Special FM",
+    "url": "https://stm11.xcast.com.br:11464/stream",
+    "genre": "Music",
+    "city": "Salvador BA",
+    "country": "Brazil",
+    "lat": -12.9737371,
+    "lng": -38.5090389
+  },
+  {
+    "id": "brazil-gfm-901",
+    "name": "GFM 90.1",
+    "url": "https://f100.fabricahost.com.br/radiogfm?f=1769417089N01KFWQM8G5VNS5717QSKCT0RXP&tid=01KFWQM8G50MVNYKRTB5RG9HBZ",
+    "genre": "Music",
+    "city": "Salvador BA",
+    "country": "Brazil",
+    "lat": -12.9737371,
+    "lng": -38.5090389
+  },
+  {
+    "id": "brazil-bahia-fm-887",
+    "name": "Bahia FM 88.7",
+    "url": "https://f100.fabricahost.com.br/radiobahiafm?f=1769417089N01KFWQM8KAVW8T0ZMFPAE75NKV&tid=01KFWQM8KAPYVC39D87BHPERY3",
+    "genre": "Music",
+    "city": "Salvador BA",
+    "country": "Brazil",
+    "lat": -12.9737371,
+    "lng": -38.5090389
+  },
+  {
+    "id": "brazil-93-fm-alagoinhas",
+    "name": "93 FM Alagoinhas",
+    "url": "https://cast.radiu.live:9346/stream",
+    "genre": "Music",
+    "city": "Salvador BA",
+    "country": "Brazil",
+    "lat": -12.9737371,
+    "lng": -38.5090389
+  },
+  {
+    "id": "brazil-rede-graúna-fm",
+    "name": "Rede Graúna FM",
+    "url": "https://centova11.ipstm.net:20032/stream",
+    "genre": "Music",
+    "city": "Salvador BA",
+    "country": "Brazil",
+    "lat": -12.9737371,
+    "lng": -38.5090389
+  },
+  {
+    "id": "brazil-rádio-utopia-fm-981",
+    "name": "Rádio Utopia FM 98.1",
+    "url": "https://server05.srvsh.com.br:7950/index.html?sid=1",
+    "genre": "Music",
+    "city": "Brasília DF",
+    "country": "Brazil",
+    "lat": -15.8032581,
+    "lng": -47.8854767
+  },
+  {
+    "id": "brazil-rádio-subae-am-1080",
+    "name": "Rádio Subaé AM 1080",
+    "url": "https://cast.radiu.live:9992/stream",
+    "genre": "Music",
+    "city": "Salvador BA",
+    "country": "Brazil",
+    "lat": -12.9737371,
+    "lng": -38.5090389
+  },
+  {
+    "id": "brazil-jovem-pan-fm-salvador-913",
+    "name": "Jovem Pan FM Salvador 91.3",
+    "url": "https://f108.fabricahost.com.br/jpsalvador?f=1769417090N01KFWQM96QVVZXDCTXYVFVGZ7M&tid=01KFWQM96QZ8D4J5FT9FD37MQ8",
+    "genre": "Music",
+    "city": "Salvador BA",
+    "country": "Brazil",
+    "lat": -12.9737371,
+    "lng": -38.5090389
+  },
+  {
+    "id": "brazil-radio-ativa-fm-947",
+    "name": "Radio Ativa FM 94.7",
+    "url": "https://stm5.painelcast.com:7580/index.html?sid=1",
+    "genre": "Music",
+    "city": "Salvador BA",
+    "country": "Brazil",
+    "lat": -12.9737371,
+    "lng": -38.5090389
+  },
+  {
+    "id": "brazil-rbn-digital",
+    "name": "RBN Digital",
+    "url": "https://radio.rbndigital.com/live",
+    "genre": "Music",
+    "city": "Salvador BA",
+    "country": "Brazil",
+    "lat": -12.9737371,
+    "lng": -38.5090389
+  },
+  {
+    "id": "brazil-music-fm-887",
+    "name": "Music FM 88.7",
+    "url": "http://cast4.audiostream.com.br:8006/live",
+    "genre": "Music",
+    "city": "Recife PE",
+    "country": "Brazil",
+    "lat": -8.1519378,
+    "lng": -34.9119722
+  },
+  {
+    "id": "brazil-painel-web-radio",
+    "name": "Painel Web Radio",
+    "url": "https://cloud.cdnseguro.com:2363/stream",
+    "genre": "Music",
+    "city": "Recife PE",
+    "country": "Brazil",
+    "lat": -8.1519378,
+    "lng": -34.9119722
+  },
+  {
+    "id": "brazil-rádio-excelsior-reconcavo-fm-1051",
+    "name": "Rádio Excelsior Reconcavo FM 105.1",
+    "url": "https://virtues.live:8352/stream",
+    "genre": "Music",
+    "city": "Salvador BA",
+    "country": "Brazil",
+    "lat": -12.9737371,
+    "lng": -38.5090389
+  },
+  {
+    "id": "brazil-jovem-pan-recife-959-fm",
+    "name": "Jovem Pan Recife 95.9 FM",
+    "url": "https://cast4.audiostream.com.br:20004/jp95",
+    "genre": "Music",
+    "city": "Recife PE",
+    "country": "Brazil",
+    "lat": -8.1519378,
+    "lng": -34.9119722
+  },
+  {
+    "id": "brazil-rádio-clube-am-720",
+    "name": "Rádio Clube AM 720",
+    "url": "https://radio.saopaulo01.com.br/8018/stream",
+    "genre": "Music",
+    "city": "Recife PE",
+    "country": "Brazil",
+    "lat": -8.1519378,
+    "lng": -34.9119722
+  },
+  {
+    "id": "brazil-rádio-piatã-fm-943",
+    "name": "Rádio Piatã FM 94.3",
+    "url": "https://streaming.livespanel.com:9430/stream",
+    "genre": "Music",
+    "city": "Salvador BA",
+    "country": "Brazil",
+    "lat": -12.9737371,
+    "lng": -38.5090389
+  },
+  {
+    "id": "brazil-rádio-olinda-fm-1053",
+    "name": "Rádio Olinda FM 105.3",
+    "url": "https://radio.saopaulo01.com.br/8334/stream",
+    "genre": "Music",
+    "city": "Recife PE",
+    "country": "Brazil",
+    "lat": -8.1519378,
+    "lng": -34.9119722
+  },
+  {
+    "id": "brazil-rádio-criatividade-fm-983",
+    "name": "Rádio Criatividade FM 98.3",
+    "url": "https://s04.maxcast.com.br:8148/live",
+    "genre": "Music",
+    "city": "Recife PE",
+    "country": "Brazil",
+    "lat": -8.1519378,
+    "lng": -34.9119722
+  },
+  {
+    "id": "brazil-rnlp-rádio-nova-da-língua-portuguesa",
+    "name": "RNLP Rádio Nova da Língua Portuguesa",
+    "url": "https://servidor22.brlogic.com:7026/live",
+    "genre": "Music",
+    "city": "Salvador BA",
+    "country": "Brazil",
+    "lat": -12.9737371,
+    "lng": -38.5090389
+  },
+  {
+    "id": "brazil-radio-saf",
+    "name": "Radio SAF",
+    "url": "https://streaming.fox.srv.br:8070/stream",
+    "genre": "Music",
+    "city": "Recife PE",
+    "country": "Brazil",
+    "lat": -8.1519378,
+    "lng": -34.9119722
+  },
+  {
+    "id": "brazil-rádio-clube-fm-991",
+    "name": "Rádio Clube FM 99.1",
+    "url": "https://radio.saopaulo01.com.br:10913/stream/",
+    "genre": "Music",
+    "city": "Recife PE",
+    "country": "Brazil",
+    "lat": -8.1519378,
+    "lng": -34.9119722
+  },
+  {
+    "id": "brazil-camará-fm-985",
+    "name": "Camará FM 98.5",
+    "url": "https://live10.livemus.com.br:27040/stream",
+    "genre": "Music",
+    "city": "Recife PE",
+    "country": "Brazil",
+    "lat": -8.1519378,
+    "lng": -34.9119722
+  },
+  {
+    "id": "brazil-radio-vox",
+    "name": "Radio Vox",
+    "url": "https://srv1.braudio.com.br/7382/",
+    "genre": "Music",
+    "city": "Recife PE",
+    "country": "Brazil",
+    "lat": -8.1519378,
+    "lng": -34.9119722
+  },
+  {
+    "id": "brazil-rádio-hidequel-fm-931",
+    "name": "Rádio Hidequel FM 93.1",
+    "url": "https://radio.saopaulo01.com.br:10849/stream/",
+    "genre": "Music",
+    "city": "Recife PE",
+    "country": "Brazil",
+    "lat": -8.1519378,
+    "lng": -34.9119722
+  },
+  {
+    "id": "brazil-overrocks-web-rádio",
+    "name": "OverRocks Web Rádio",
+    "url": "https://server22.srvsh.com.br:9032/stream",
+    "genre": "Music",
+    "city": "Campinas SP",
+    "country": "Brazil",
+    "lat": -22.8965198,
+    "lng": -47.0011252
+  },
+  {
+    "id": "brazil-novabrasil-fm-recife-943",
+    "name": "Novabrasil FM Recife 94.3",
+    "url": "https://26523.live.streamtheworld.com:443/NOVABRASIL_RECAAC.aac",
+    "genre": "Music",
+    "city": "Recife PE",
+    "country": "Brazil",
+    "lat": -8.1519378,
+    "lng": -34.9119722
+  },
+  {
+    "id": "brazil-radio-escuta-aerea",
+    "name": "Radio Escuta Aerea",
+    "url": "http://streaming17.hstbr.net:8118/live",
+    "genre": "Music",
+    "city": "Campinas SP",
+    "country": "Brazil",
+    "lat": -22.8965198,
+    "lng": -47.0011252
+  },
+  {
+    "id": "brazil-jovem-pan-899-fm",
+    "name": "Jovem Pan 89.9 FM",
+    "url": "https://paineldj5.com.br:20028/stream/",
+    "genre": "Music",
+    "city": "Campinas SP",
+    "country": "Brazil",
+    "lat": -22.8965198,
+    "lng": -47.0011252
+  },
+  {
+    "id": "brazil-nativa-fm-campinas",
+    "name": "Nativa FM Campinas",
+    "url": "https://stm11.xcast.com.br:11276/stream/",
+    "genre": "Music",
+    "city": "Campinas SP",
+    "country": "Brazil",
+    "lat": -22.8965198,
+    "lng": -47.0011252
+  },
+  {
+    "id": "brazil-rádio-bucks",
+    "name": "Rádio Bucks",
+    "url": "https://everest.servercast.com.br:1090/stream",
+    "genre": "Music",
+    "city": "Campinas SP",
+    "country": "Brazil",
+    "lat": -22.8965198,
+    "lng": -47.0011252
+  },
+  {
+    "id": "brazil-smoothjazz-brasil",
+    "name": "Smoothjazz Brasil",
+    "url": "https://sc4s.cdn.upx.com:8176/stream/",
+    "genre": "Music",
+    "city": "Campinas SP",
+    "country": "Brazil",
+    "lat": -22.8965198,
+    "lng": -47.0011252
+  },
+  {
+    "id": "brazil-band-fm-1067",
+    "name": "Band FM 106.7",
+    "url": "https://stm2.xcast.com.br:11264/stream/",
+    "genre": "Music",
+    "city": "Campinas SP",
+    "country": "Brazil",
+    "lat": -22.8965198,
+    "lng": -47.0011252
+  },
+  {
+    "id": "brazil-radio-cbn-991",
+    "name": "Radio CBN 99.1",
+    "url": "https://8214.brasilstream.com.br/stream",
+    "genre": "Music",
+    "city": "Campinas SP",
+    "country": "Brazil",
+    "lat": -22.8965198,
+    "lng": -47.0011252
+  },
+  {
+    "id": "brazil-rádio-bandeirantes",
+    "name": "Rádio Bandeirantes",
+    "url": "https://stm23.xcast.com.br:11284/stream/",
+    "genre": "Music",
+    "city": "Campinas SP",
+    "country": "Brazil",
+    "lat": -22.8965198,
+    "lng": -47.0011252
+  },
+  {
+    "id": "brazil-nova-fm-campinas",
+    "name": "Nova FM Campinas",
+    "url": "https://23033.live.streamtheworld.com:443/NOVA_CAMPINASAAC.aac",
+    "genre": "Music",
+    "city": "Campinas SP",
+    "country": "Brazil",
+    "lat": -22.8965198,
+    "lng": -47.0011252
+  },
+  {
+    "id": "brazil-rede-nordeste-de-rádio",
+    "name": "Rede Nordeste de Rádio",
+    "url": "https://servidor28.brlogic.com:8088/live",
+    "genre": "Music",
+    "city": "Recife PE",
+    "country": "Brazil",
+    "lat": -8.1519378,
+    "lng": -34.9119722
+  },
+  {
+    "id": "brazil-rádio-estação-louveira",
+    "name": "Rádio Estação Louveira",
+    "url": "https://hts04.brascast.com:11718/live",
+    "genre": "Music",
+    "city": "Campinas SP",
+    "country": "Brazil",
+    "lat": -22.8965198,
+    "lng": -47.0011252
+  },
+  {
+    "id": "brazil-mix-fm-campinas",
+    "name": "Mix FM Campinas",
+    "url": "https://19253.live.streamtheworld.com:443/MIXFM_CAMPINAS.mp3",
+    "genre": "Music",
+    "city": "Campinas SP",
+    "country": "Brazil",
+    "lat": -22.8965198,
+    "lng": -47.0011252
+  },
+  {
+    "id": "brazil-rádio-nova-atalaia",
+    "name": "Rádio Nova Atalaia",
+    "url": "https://stm23.xcast.com.br:10532/stream",
+    "genre": "Music",
+    "city": "Campinas SP",
+    "country": "Brazil",
+    "lat": -22.8965198,
+    "lng": -47.0011252
+  },
+  {
+    "id": "brazil-rádio-tony-silva-do-forró",
+    "name": "Rádio Tony Silva Do Forró",
+    "url": "https://stm13.xcast.com.br:9334/stream",
+    "genre": "Music",
+    "city": "Teresina PI",
+    "country": "Brazil",
+    "lat": -5.0899207,
+    "lng": -42.6227578
+  },
+  {
+    "id": "brazil-top-music-fm-971",
+    "name": "Top Music FM 97.1",
+    "url": "https://servidor38-3.brlogic.com:8014/live",
+    "genre": "Music",
+    "city": "Recife PE",
+    "country": "Brazil",
+    "lat": -8.1519378,
+    "lng": -34.9119722
+  },
+  {
+    "id": "brazil-brasileira-sat",
+    "name": "Brasileira Sat",
+    "url": "https://webradio.amsolution.com.br/radio/8060/radio.mp3",
+    "genre": "Music",
+    "city": "Teresina PI",
+    "country": "Brazil",
+    "lat": -5.0899207,
+    "lng": -42.6227578
+  },
+  {
+    "id": "brazil-verdes-campos-sat",
+    "name": "Verdes Campos Sat",
+    "url": "https://player.rpmhost.com.br/proxy/8094",
+    "genre": "Music",
+    "city": "Teresina PI",
+    "country": "Brazil",
+    "lat": -5.0899207,
+    "lng": -42.6227578
+  },
+  {
+    "id": "brazil-love-songs-fm",
+    "name": "Love Songs FM",
+    "url": "https://stm10.xcast.com.br:7624/stream",
+    "genre": "Music",
+    "city": "Teresina PI",
+    "country": "Brazil",
+    "lat": -5.0899207,
+    "lng": -42.6227578
+  },
+  {
+    "id": "brazil-cv-mais-fm-975",
+    "name": "CV Mais FM 97.5",
+    "url": "https://ssl1.transmissaodigital.com:20098/index.html?sid=1",
+    "genre": "Music",
+    "city": "Teresina PI",
+    "country": "Brazil",
+    "lat": -5.0899207,
+    "lng": -42.6227578
+  },
+  {
+    "id": "brazil-rádio-cocais-fm",
+    "name": "Rádio Cocais FM",
+    "url": "https://webradio.amsolution.com.br/radio/8230/cocais",
+    "genre": "Music",
+    "city": "Teresina PI",
+    "country": "Brazil",
+    "lat": -5.0899207,
+    "lng": -42.6227578
+  },
+  {
+    "id": "brazil-rádio-antares",
+    "name": "Rádio Antares",
+    "url": "https://stm23.srvaudio.com.br:9832/stream",
+    "genre": "Music",
+    "city": "Teresina PI",
+    "country": "Brazil",
+    "lat": -5.0899207,
+    "lng": -42.6227578
+  },
+  {
+    "id": "brazil-rádio-meio-norte-fm-999-mhz",
+    "name": "Rádio Meio Norte FM 99.9 MHz",
+    "url": "https://webradio.amsolution.com.br/radio/8280/meionorte",
+    "genre": "Music",
+    "city": "Teresina PI",
+    "country": "Brazil",
+    "lat": -5.0899207,
+    "lng": -42.6227578
+  },
+  {
+    "id": "brazil-radio-guaruja-am-1420",
+    "name": "Radio Guaruja AM 1420",
+    "url": "http://painel.localmidia.com.br:8038/aovivo",
+    "genre": "Music",
+    "city": "Florianópolis SC",
+    "country": "Brazil",
+    "lat": -27.6649636,
+    "lng": -48.4786581
+  },
+  {
+    "id": "brazil-paraiso-fm",
+    "name": "Paraiso FM",
+    "url": "https://stm2.voxhd.com.br:9854/stream/",
+    "genre": "Music",
+    "city": "Teresina PI",
+    "country": "Brazil",
+    "lat": -5.0899207,
+    "lng": -42.6227578
+  },
+  {
+    "id": "brazil-rádio-cpi",
+    "name": "Rádio CPI",
+    "url": "https://stm28.srvaudio.com.br:10930/stream",
+    "genre": "Music",
+    "city": "Teresina PI",
+    "country": "Brazil",
+    "lat": -5.0899207,
+    "lng": -42.6227578
+  },
+  {
+    "id": "brazil-classe-a-floripa",
+    "name": "Classe A Floripa",
+    "url": "https://everest.servercast.com.br:1115/stream",
+    "genre": "Music",
+    "city": "Florianópolis SC",
+    "country": "Brazil",
+    "lat": -27.6649636,
+    "lng": -48.4786581
+  },
+  {
+    "id": "brazil-rádio-eldorado-fm-879",
+    "name": "Rádio Eldorado FM 87.9",
+    "url": "https://ssl.xcast.com.br:8714/index.html?sid=1",
+    "genre": "Music",
+    "city": "Teresina PI",
+    "country": "Brazil",
+    "lat": -5.0899207,
+    "lng": -42.6227578
+  },
+  {
+    "id": "brazil-fm-imperial-955",
+    "name": "FM Imperial 95.5",
+    "url": "https://cast.radiograma.com.br:8005/fmimperial",
+    "genre": "Music",
+    "city": "Teresina PI",
+    "country": "Brazil",
+    "lat": -5.0899207,
+    "lng": -42.6227578
+  },
+  {
+    "id": "brazil-nova-ilha-fm-879",
+    "name": "Nova Ilha FM 87.9",
+    "url": "https://s02.brascast.com:7828/live",
+    "genre": "Music",
+    "city": "Florianópolis SC",
+    "country": "Brazil",
+    "lat": -27.6649636,
+    "lng": -48.4786581
+  },
+  {
+    "id": "brazil-radio-regueiros-guerreiros-de-jah",
+    "name": "Radio Regueiros Guerreiros de Jah",
+    "url": "https://stm26.srvaudio.com.br:10532/stream/",
+    "genre": "Music",
+    "city": "Florianópolis SC",
+    "country": "Brazil",
+    "lat": -27.6649636,
+    "lng": -48.4786581
+  },
+  {
+    "id": "brazil-lupa-1-fm-945",
+    "name": "Lupa 1 FM 94.5",
+    "url": "https://streaming.livespanel.com:9450/lupa1fm",
+    "genre": "Music",
+    "city": "Teresina PI",
+    "country": "Brazil",
+    "lat": -5.0899207,
+    "lng": -42.6227578
+  },
+  {
+    "id": "brazil-rádio-nativa-fm-1049",
+    "name": "Rádio Nativa FM 104.9",
+    "url": "https://centova.svdns.com.br:2960/live",
+    "genre": "Music",
+    "city": "Teresina PI",
+    "country": "Brazil",
+    "lat": -5.0899207,
+    "lng": -42.6227578
+  },
+  {
+    "id": "brazil-radio-transmundial-anos-60-70-80-e-90",
+    "name": "Radio Transmundial anos 60 70 80 e 90",
+    "url": "https://hts02.brascast.com:9260/live",
+    "genre": "Music",
+    "city": "Florianópolis SC",
+    "country": "Brazil",
+    "lat": -27.6649636,
+    "lng": -48.4786581
+  },
+  {
+    "id": "brazil-jovem-pan-florianopolis-fm-1017",
+    "name": "Jovem Pan Florianopolis FM 101.7",
+    "url": "https://live.paineldj.com.br/proxy/jfloripa?mp=/stream?format=aac",
+    "genre": "Music",
+    "city": "Florianópolis SC",
+    "country": "Brazil",
+    "lat": -27.6649636,
+    "lng": -48.4786581
+  },
+  {
+    "id": "brazil-rádio-garopaba-879-fm",
+    "name": "Rádio Garopaba 87.9 FM",
+    "url": "https://04.painelstreaming.com.br:27096/stream",
+    "genre": "Music",
+    "city": "Florianópolis SC",
+    "country": "Brazil",
+    "lat": -27.6649636,
+    "lng": -48.4786581
+  },
+  {
+    "id": "brazil-sertaneja-raíz",
+    "name": "Sertaneja Raíz",
+    "url": "http://station.radionanet.com:8330/1",
+    "genre": "Music",
+    "city": "Ribeirão Preto SP",
+    "country": "Brazil",
+    "lat": -21.2298101,
+    "lng": -47.759865
+  },
+  {
+    "id": "brazil-melody-fm-941",
+    "name": "Melody FM 94.1",
+    "url": "https://sc4s.cdn.upx.com:8080/stream/",
+    "genre": "Music",
+    "city": "Ribeirão Preto SP",
+    "country": "Brazil",
+    "lat": -21.2298101,
+    "lng": -47.759865
+  },
+  {
+    "id": "brazil-clube-1-fm-967",
+    "name": "Clube 1 FM 96.7",
+    "url": "https://sc4s.cdn.upx.com:8073/stream/",
+    "genre": "Music",
+    "city": "Ribeirão Preto SP",
+    "country": "Brazil",
+    "lat": -21.2298101,
+    "lng": -47.759865
+  },
+  {
+    "id": "brazil-teresina-fm-919",
+    "name": "Teresina FM 91.9",
+    "url": "https://servidor27.brlogic.com:8034/live",
+    "genre": "Music",
+    "city": "Teresina PI",
+    "country": "Brazil",
+    "lat": -5.0899207,
+    "lng": -42.6227578
+  },
+  {
+    "id": "brazil-metropolitana-fm-993-",
+    "name": "Metropolitana FM 99.3 ",
+    "url": "https://rrdns-megasistema.webnow.com.br/993fm.aac",
+    "genre": "Music",
+    "city": "Ribeirão Preto SP",
+    "country": "Brazil",
+    "lat": -21.2298101,
+    "lng": -47.759865
+  },
+  {
+    "id": "brazil-rádio-santa-catarina-am-890",
+    "name": "Rádio Santa Catarina AM 890",
+    "url": "https://27433.live.streamtheworld.com:443/SC_RADIOONLINEAAC_SC",
+    "genre": "Music",
+    "city": "Florianópolis SC",
+    "country": "Brazil",
+    "lat": -27.6649636,
+    "lng": -48.4786581
+  },
+  {
+    "id": "brazil-diário-fm-997",
+    "name": "Diário FM 99.7",
+    "url": "https://pontofixo-megasistema.webnow.com.br/diario.mp3",
+    "genre": "Music",
+    "city": "Ribeirão Preto SP",
+    "country": "Brazil",
+    "lat": -21.2298101,
+    "lng": -47.759865
+  },
+  {
+    "id": "brazil-atlântida-1009-fm",
+    "name": "Atlântida 100.9 FM",
+    "url": "https://24403.live.streamtheworld.com:443/ATL_FLOAAC.aac",
+    "genre": "Music",
+    "city": "Florianópolis SC",
+    "country": "Brazil",
+    "lat": -27.6649636,
+    "lng": -48.4786581
+  },
+  {
+    "id": "brazil-rádio-câmara-fm-1015",
+    "name": "Rádio Câmara FM 101.5",
+    "url": "https://radio.cambc.sc.gov.br:8443/stream",
+    "genre": "Music",
+    "city": "Florianópolis SC",
+    "country": "Brazil",
+    "lat": -27.6649636,
+    "lng": -48.4786581
+  },
+  {
+    "id": "brazil-massa-fm-florianópolis",
+    "name": "Massa FM Florianópolis",
+    "url": "https://stm01.virtualcast.com.br:8152/massaflorianopolis",
+    "genre": "Music",
+    "city": "Florianópolis SC",
+    "country": "Brazil",
+    "lat": -27.6649636,
+    "lng": -48.4786581
+  },
+  {
+    "id": "brazil-itapema-fm-937",
+    "name": "Itapema FM 93.7",
+    "url": "https://27353.live.streamtheworld.com:443/ITA_FLO.mp3",
+    "genre": "Music",
+    "city": "Florianópolis SC",
+    "country": "Brazil",
+    "lat": -27.6649636,
+    "lng": -48.4786581
+  },
+  {
+    "id": "brazil-conquista-fm-977",
+    "name": "Conquista FM 97.7",
+    "url": "https://pontofixo-megasistema.webnow.com.br/conquista.mp3",
+    "genre": "Music",
+    "city": "Ribeirão Preto SP",
+    "country": "Brazil",
+    "lat": -21.2298101,
+    "lng": -47.759865
+  },
+  {
+    "id": "brazil-rádio-usp-1079-fm",
+    "name": "Rádio USP 107.9 FM",
+    "url": "https://flow.emm.usp.br:8008/radiousp-rp-128.mp3",
+    "genre": "Music",
+    "city": "Ribeirão Preto SP",
+    "country": "Brazil",
+    "lat": -21.2298101,
+    "lng": -47.759865
+  },
+  {
+    "id": "brazil-rádio-porto-belo-989-fm",
+    "name": "Rádio Porto Belo 98.9 FM",
+    "url": "https://27433.live.streamtheworld.com:443/SC_RADIOONLINEAAC.aac",
+    "genre": "Music",
+    "city": "Florianópolis SC",
+    "country": "Brazil",
+    "lat": -27.6649636,
+    "lng": -48.4786581
+  },
+  {
+    "id": "brazil-clube-fm-1005",
+    "name": "Clube FM 100.5",
+    "url": "https://sc4s.cdn.upx.com:8069/stream/",
+    "genre": "Music",
+    "city": "Ribeirão Preto SP",
+    "country": "Brazil",
+    "lat": -21.2298101,
+    "lng": -47.759865
+  },
+  {
+    "id": "brazil-106-sertaneja-1067-fm",
+    "name": "106 Sertaneja 106.7 FM",
+    "url": "https://sc4s.cdn.upx.com:8067/stream/",
+    "genre": "Music",
+    "city": "Ribeirão Preto SP",
+    "country": "Brazil",
+    "lat": -21.2298101,
+    "lng": -47.759865
+  },
+  {
+    "id": "brazil-dumont-fm-1043",
+    "name": "Dumont FM 104.3",
+    "url": "https://rrdns-dumont.webnow.com.br/dumont.aac",
+    "genre": "Music",
+    "city": "Ribeirão Preto SP",
+    "country": "Brazil",
+    "lat": -21.2298101,
+    "lng": -47.759865
+  },
+  {
+    "id": "brazil-clip-80s-music",
+    "name": "Clip 80's Music",
+    "url": "https://radioclipfm.com:8000/radio.mp3",
+    "genre": "Music",
+    "city": "São José dos Campos SP",
+    "country": "Brazil",
+    "lat": -23.1867782,
+    "lng": -45.8854538
+  },
+  {
+    "id": "brazil-nova-brasil-rp-913-fm",
+    "name": "Nova Brasil RP 91.3 FM",
+    "url": "https://26653.live.streamtheworld.com:443/NOVABRASIL_RAOAAC.aac",
+    "genre": "Music",
+    "city": "Ribeirão Preto SP",
+    "country": "Brazil",
+    "lat": -21.2298101,
+    "lng": -47.759865
+  },
+  {
+    "id": "brazil-cruz-fm",
+    "name": "Cruz FM",
+    "url": "https://sv11.hdradios.net:7384/stream",
+    "genre": "Music",
+    "city": "Ribeirão Preto SP",
+    "country": "Brazil",
+    "lat": -21.2298101,
+    "lng": -47.759865
+  },
+  {
+    "id": "brazil-rádio-cultural-fm-1079",
+    "name": "Rádio Cultural FM 107.9",
+    "url": "https://stm4.conectastreaming.com:17002/stream",
+    "genre": "Music",
+    "city": "São José dos Campos SP",
+    "country": "Brazil",
+    "lat": -23.1867782,
+    "lng": -45.8854538
+  },
+  {
+    "id": "brazil-jovem-pan-news-am-1510",
+    "name": "Jovem Pan News AM 1510",
+    "url": "https://f100.fabricahost.com.br/jpjaboticabal?f=1769417108N01KFWQMTWQB05CPC26E1FWZGS7&tid=01KFWQMTWQC7X88KX7Z15YD375",
+    "genre": "Music",
+    "city": "Ribeirão Preto SP",
+    "country": "Brazil",
+    "lat": -21.2298101,
+    "lng": -47.759865
+  },
+  {
+    "id": "brazil-rádio-musical-net",
+    "name": "Rádio Musical Net",
+    "url": "https://ssl.xcast.com.br:11148/",
+    "genre": "Music",
+    "city": "São José dos Campos SP",
+    "country": "Brazil",
+    "lat": -23.1867782,
+    "lng": -45.8854538
+  },
+  {
+    "id": "brazil-rádio-e-tv-imprensa",
+    "name": "Rádio e TV Imprensa",
+    "url": "https://radio02.zas.media/proxy/imprensa/stream",
+    "genre": "Music",
+    "city": "São José dos Campos SP",
+    "country": "Brazil",
+    "lat": -23.1867782,
+    "lng": -45.8854538
+  },
+  {
+    "id": "brazil-otima-fm-903",
+    "name": "Otima FM 90.3",
+    "url": "https://f100.fabricahost.com.br/otimafm903?f=1769417109N01KFWQMVMPZE8WVFYYT2V5MNT5&tid=01KFWQMVMPW6CNB84DRHZGMSX8",
+    "genre": "Music",
+    "city": "São José dos Campos SP",
+    "country": "Brazil",
+    "lat": -23.1867782,
+    "lng": -45.8854538
+  },
+  {
+    "id": "brazil-stereo-vale-fm-1039",
+    "name": "Stereo Vale FM 103.9",
+    "url": "https://stm11.xcast.com.br:12086/stream",
+    "genre": "Music",
+    "city": "São José dos Campos SP",
+    "country": "Brazil",
+    "lat": -23.1867782,
+    "lng": -45.8854538
+  },
+  {
+    "id": "brazil-rádio-vivência-espírita",
+    "name": "Rádio Vivência Espírita",
+    "url": "https://radio.vivenciaespirita.org/listen/vivenciaespirita/radio.mp3",
+    "genre": "Music",
+    "city": "São José dos Campos SP",
+    "country": "Brazil",
+    "lat": -23.1867782,
+    "lng": -45.8854538
+  },
+  {
+    "id": "brazil-radio-joseense",
+    "name": "Radio Joseense",
+    "url": "https://sv16.hdradios.net:7248/stream",
+    "genre": "Music",
+    "city": "São José dos Campos SP",
+    "country": "Brazil",
+    "lat": -23.1867782,
+    "lng": -45.8854538
+  },
+  {
+    "id": "brazil-rádio-dominus-est",
+    "name": "Rádio Dominus Est",
+    "url": "https://servidor14-3.brlogic.com:7282/live",
+    "genre": "Music",
+    "city": "Ribeirão Preto SP",
+    "country": "Brazil",
+    "lat": -21.2298101,
+    "lng": -47.759865
+  },
+  {
+    "id": "brazil-jambeiro-fm-1049",
+    "name": "Jambeiro FM 104.9",
+    "url": "https://cast4.hoost.com.br:20010/stream",
+    "genre": "Music",
+    "city": "São José dos Campos SP",
+    "country": "Brazil",
+    "lat": -23.1867782,
+    "lng": -45.8854538
+  },
+  {
+    "id": "brazil-rodani-fm",
+    "name": "Rodani FM",
+    "url": "https://sv13.hdradios.net:7902/index.html?sid=1",
+    "genre": "Music",
+    "city": "Ribeirão Preto SP",
+    "country": "Brazil",
+    "lat": -21.2298101,
+    "lng": -47.759865
+  },
+  {
+    "id": "brazil-rádio-missionários-de-cristo",
+    "name": "Rádio Missionários de Cristo",
+    "url": "https://hts05.brascast.com:12486/live",
+    "genre": "Music",
+    "city": "São José dos Campos SP",
+    "country": "Brazil",
+    "lat": -23.1867782,
+    "lng": -45.8854538
+  },
+  {
+    "id": "brazil-rádio-bem-sertaneja",
+    "name": "Rádio Bem Sertaneja",
+    "url": "https://tiagosilva.stream.laut.fm/tiagosilva",
+    "genre": "Music",
+    "city": "Ribeirão Preto SP",
+    "country": "Brazil",
+    "lat": -21.2298101,
+    "lng": -47.759865
+  },
+  {
+    "id": "brazil-capital-fm-885",
+    "name": "Capital FM 88.5",
+    "url": "https://f100.fabricahost.com.br/capitalfm885?f=1769417110N01KFWQMXCS9MRCCVJ58AN4YWG3&tid=01KFWQMXCSR1TCMA1T5REVP3XY",
+    "genre": "Music",
+    "city": "São José dos Campos SP",
+    "country": "Brazil",
+    "lat": -23.1867782,
+    "lng": -45.8854538
+  },
+  {
+    "id": "brazil-rádio-web-horizonte",
+    "name": "Rádio Web Horizonte",
+    "url": "https://stream1.svrdedicado.org/8568/stream",
+    "genre": "Music",
+    "city": "São José dos Campos SP",
+    "country": "Brazil",
+    "lat": -23.1867782,
+    "lng": -45.8854538
+  },
+  {
+    "id": "brazil-rádio-uniderp-fm-1037",
+    "name": "Rádio Uniderp FM 103.7",
+    "url": "https://radio.megadj.com.br/listen/uniderp23/radio.mp3",
+    "genre": "Music",
+    "city": "Campo Grande MS",
+    "country": "Brazil",
+    "lat": -20.4083368,
+    "lng": -54.5748776
+  },
+  {
+    "id": "brazil-radio-via-gospel",
+    "name": "Radio Via Gospel",
+    "url": "https://cast.hoost.com.br:8893/stream",
+    "genre": "Music",
+    "city": "Campo Grande MS",
+    "country": "Brazil",
+    "lat": -20.4083368,
+    "lng": -54.5748776
+  },
+  {
+    "id": "brazil-capital-fm-959",
+    "name": "Capital FM 95.9",
+    "url": "https://stm1.srvif.com:7908/stream",
+    "genre": "Music",
+    "city": "Campo Grande MS",
+    "country": "Brazil",
+    "lat": -20.4083368,
+    "lng": -54.5748776
+  },
+  {
+    "id": "brazil-web-rádio-enova",
+    "name": "Web Rádio eNOVA",
+    "url": "https://www.quinsanbroadcast.com.br:8000/radioenova",
+    "genre": "Music",
+    "city": "São José dos Campos SP",
+    "country": "Brazil",
+    "lat": -23.1867782,
+    "lng": -45.8854538
+  },
+  {
+    "id": "brazil-jovem-pan-943-fm",
+    "name": "Jovem Pan 94.3 FM",
+    "url": "https://r15.ciclano.io/proxy/radiomu1/stream",
+    "genre": "Music",
+    "city": "São José dos Campos SP",
+    "country": "Brazil",
+    "lat": -23.1867782,
+    "lng": -45.8854538
+  },
+  {
+    "id": "brazil-nova-fm-99,1",
+    "name": "Nova FM 99,1",
+    "url": "https://rvn01.painelstream.net:9284/live",
+    "genre": "Music",
+    "city": "Campo Grande MS",
+    "country": "Brazil",
+    "lat": -20.4083368,
+    "lng": -54.5748776
+  },
+  {
+    "id": "brazil-8-fm",
+    "name": "8 FM",
+    "url": "https://server24.srvsh.com.br:7050/stream",
+    "genre": "Music",
+    "city": "São José dos Campos SP",
+    "country": "Brazil",
+    "lat": -23.1867782,
+    "lng": -45.8854538
+  },
+  {
+    "id": "brazil-fm-cidade-979",
+    "name": "FM Cidade 97.9",
+    "url": "https://radio.megadj.com.br/listen/cidade97/radio.mp3",
+    "genre": "Music",
+    "city": "Campo Grande MS",
+    "country": "Brazil",
+    "lat": -20.4083368,
+    "lng": -54.5748776
+  },
+  {
+    "id": "brazil-radio-flash-back-mix",
+    "name": "Radio Flash Back Mix",
+    "url": "https://stm01.streammaximum.com:7953//",
+    "genre": "Music",
+    "city": "Campo Grande MS",
+    "country": "Brazil",
+    "lat": -20.4083368,
+    "lng": -54.5748776
+  },
+  {
+    "id": "brazil-mega-94",
+    "name": "Mega 94",
+    "url": "https://paineldj5.com.br:20021/stream",
+    "genre": "Music",
+    "city": "Campo Grande MS",
+    "country": "Brazil",
+    "lat": -20.4083368,
+    "lng": -54.5748776
+  },
+  {
+    "id": "brazil-rádio-cidade-1041-fm",
+    "name": "Rádio Cidade 104.1 FM",
+    "url": "https://stm10.virtualcast.com.br:8316/cidadelitoral",
+    "genre": "Music",
+    "city": "Florianópolis SC",
+    "country": "Brazil",
+    "lat": -27.6649636,
+    "lng": -48.4786581
+  },
+  {
+    "id": "brazil-educativa-1047-fm",
+    "name": "Educativa 104.7 FM",
+    "url": "https://stream01.digilab.com.br/fertel/radio/icecast.audio",
+    "genre": "Music",
+    "city": "Campo Grande MS",
+    "country": "Brazil",
+    "lat": -20.4083368,
+    "lng": -54.5748776
+  },
+  {
+    "id": "brazil-radio-morena-fm-1071",
+    "name": "Radio Morena FM 107.1",
+    "url": "https://centova.svdns.com.br:20110/stream",
+    "genre": "Music",
+    "city": "Campo Grande MS",
+    "country": "Brazil",
+    "lat": -20.4083368,
+    "lng": -54.5748776
+  },
+  {
+    "id": "brazil-radio-vida-em-jesus",
+    "name": "Radio Vida em Jesus",
+    "url": "https://radio02.logicahost.com.br:7002/index.html?sid=1",
+    "genre": "Music",
+    "city": "Campo Grande MS",
+    "country": "Brazil",
+    "lat": -20.4083368,
+    "lng": -54.5748776
+  },
+  {
+    "id": "brazil-rádio-sucesso-fm-983",
+    "name": "Rádio Sucesso FM 98.3",
+    "url": "http://cast61.sitehosting.com.br:8446/live",
+    "genre": "Music",
+    "city": "Goiânia GO",
+    "country": "Brazil",
+    "lat": -16.7258898,
+    "lng": -49.2638538
+  },
+  {
+    "id": "brazil-rádio-bonito-989-fm",
+    "name": "Rádio Bonito 98.9 FM",
+    "url": "https://painel.radiosms.com.br/8040/stream",
+    "genre": "Music",
+    "city": "Campo Grande MS",
+    "country": "Brazil",
+    "lat": -20.4083368,
+    "lng": -54.5748776
+  },
+  {
+    "id": "brazil-fm-nova-1035",
+    "name": "FM Nova 103.5",
+    "url": "https://wms5.webradios.com.br:18920/8920",
+    "genre": "Music",
+    "city": "Campo Grande MS",
+    "country": "Brazil",
+    "lat": -20.4083368,
+    "lng": -54.5748776
+  },
+  {
+    "id": "brazil-avivaweb",
+    "name": "AvivaWeb",
+    "url": "https://hts03.brascast.com:8704/live",
+    "genre": "Music",
+    "city": "Goiânia GO",
+    "country": "Brazil",
+    "lat": -16.7258898,
+    "lng": -49.2638538
+  },
+  {
+    "id": "brazil-difusora-pantanal-fm-1019",
+    "name": "Difusora Pantanal FM 101.9",
+    "url": "https://aovivo.difusorapantanal.com.br/listen/difusora_pantanal/radio.mp3",
+    "genre": "Music",
+    "city": "Campo Grande MS",
+    "country": "Brazil",
+    "lat": -20.4083368,
+    "lng": -54.5748776
+  },
+  {
+    "id": "brazil-band-fm-104,7",
+    "name": "Band FM 104,7",
+    "url": "https://rvn01.painelstream.net:9268/stream/",
+    "genre": "Music",
+    "city": "Campo Grande MS",
+    "country": "Brazil",
+    "lat": -20.4083368,
+    "lng": -54.5748776
+  },
+  {
+    "id": "brazil-rede-bons-ventos-fm-1073",
+    "name": "Rede Bons Ventos FM 107.3",
+    "url": "https://stream1.svrdedicado.org:7105/index.html?sid=1",
+    "genre": "Music",
+    "city": "Goiânia GO",
+    "country": "Brazil",
+    "lat": -16.7258898,
+    "lng": -49.2638538
+  },
+  {
+    "id": "brazil-rádio-máxima-goiânia",
+    "name": "Rádio Máxima Goiânia",
+    "url": "https://player.hdradios.net/proxy/7696/stream",
+    "genre": "Music",
+    "city": "Goiânia GO",
+    "country": "Brazil",
+    "lat": -16.7258898,
+    "lng": -49.2638538
+  },
+  {
+    "id": "brazil-jovem-pan-goiania-fm-1067",
+    "name": "Jovem Pan Goiania FM 106.7",
+    "url": "https://cast4.hoost.com.br:20263/stream",
+    "genre": "Music",
+    "city": "Goiânia GO",
+    "country": "Brazil",
+    "lat": -16.7258898,
+    "lng": -49.2638538
+  },
+  {
+    "id": "brazil-a-marca-do-evangelho",
+    "name": "A Marca do Evangelho",
+    "url": "https://s18.maxcast.com.br:8377/live",
+    "genre": "Music",
+    "city": "Campo Grande MS",
+    "country": "Brazil",
+    "lat": -20.4083368,
+    "lng": -54.5748776
+  },
+  {
+    "id": "brazil-rádio-995-fm",
+    "name": "Rádio 99.5 FM",
+    "url": "https://ssl.zoeweb.net/proxy/serradourada?mp=/stream/;",
+    "genre": "Music",
+    "city": "Goiânia GO",
+    "country": "Brazil",
+    "lat": -16.7258898,
+    "lng": -49.2638538
+  },
+  {
+    "id": "brazil-rádio-germinal",
+    "name": "Rádio Germinal",
+    "url": "https://s32.maxcast.com.br:8226/live",
+    "genre": "Music",
+    "city": "Goiânia GO",
+    "country": "Brazil",
+    "lat": -16.7258898,
+    "lng": -49.2638538
+  },
+  {
+    "id": "brazil-blink-102-fm",
+    "name": "Blink 102 FM",
+    "url": "https://26563.live.streamtheworld.com:443/BLINK102FMAAC.aac",
+    "genre": "Music",
+    "city": "Campo Grande MS",
+    "country": "Brazil",
+    "lat": -20.4083368,
+    "lng": -54.5748776
+  },
+  {
+    "id": "brazil-alpha-fm-goiâna-102,1",
+    "name": "Alpha FM Goiâna 102,1",
+    "url": "https://f108.fabricahost.com.br/alphafm1021?f=1769417116N01KFWQN2XSFWTVMP5KZN7SSZPJ&tid=01KFWQN2XS705364JNEDCFXY2Y",
+    "genre": "Music",
+    "city": "Goiânia GO",
+    "country": "Brazil",
+    "lat": -16.7258898,
+    "lng": -49.2638538
+  },
+  {
+    "id": "brazil-imprensa-fm-1049",
+    "name": "Imprensa FM 104.9",
+    "url": "https://r16.ciclano.io/proxy/lidiamag/stream",
+    "genre": "Music",
+    "city": "Goiânia GO",
+    "country": "Brazil",
+    "lat": -16.7258898,
+    "lng": -49.2638538
+  },
+  {
+    "id": "brazil-fonte-fm-1037",
+    "name": "Fonte FM 103.7",
+    "url": "https://livesh.com.br/proxy/fonte?mp=/stream",
+    "genre": "Music",
+    "city": "Goiânia GO",
+    "country": "Brazil",
+    "lat": -16.7258898,
+    "lng": -49.2638538
+  },
+  {
+    "id": "brazil-89-a-radio-rock-fm-1029",
+    "name": "89 a Radio Rock FM 102.9",
+    "url": "https://f100.fabricahost.com.br/89aradiorockgo?f=1769417117N01KFWQN3CS10VX2GCD2E0WSF35&tid=01KFWQN3CSGMZQQ4F1C72XT2VR",
+    "genre": "Music",
+    "city": "Goiânia GO",
+    "country": "Brazil",
+    "lat": -16.7258898,
+    "lng": -49.2638538
+  },
+  {
+    "id": "brazil-rádio-sol-fm-879",
+    "name": "Rádio Sol FM 87.9",
+    "url": "https://s03.transmissaodigital.com:7642/stream",
+    "genre": "Music",
+    "city": "Goiânia GO",
+    "country": "Brazil",
+    "lat": -16.7258898,
+    "lng": -49.2638538
+  },
+  {
+    "id": "brazil-chic-web-radio",
+    "name": "Chic Web Radio",
+    "url": "http://radio.saopaulo01.com.br:7048/",
+    "genre": "Music",
+    "city": "Belém PA",
+    "country": "Brazil",
+    "lat": -1.3748155,
+    "lng": -48.4291918
+  },
+  {
+    "id": "brazil-rádio-saudade-50",
+    "name": "Rádio Saudade 5.0",
+    "url": "https://stream.jmhost.com.br/radio/8190/index.html?sid=1",
+    "genre": "Music",
+    "city": "Belém PA",
+    "country": "Brazil",
+    "lat": -1.3748155,
+    "lng": -48.4291918
+  },
+  {
+    "id": "brazil-rádio-progresso-belem",
+    "name": "Rádio Progresso Belém",
+    "url": "https://hts04.brascast.com:8264/live",
+    "genre": "Music",
+    "city": "Belém PA",
+    "country": "Brazil",
+    "lat": -1.3748155,
+    "lng": -48.4291918
+  },
+  {
+    "id": "brazil-silvestre-fm-911",
+    "name": "Silvestre FM 91.1",
+    "url": "https://9818.brasilstream.com.br/stream",
+    "genre": "Music",
+    "city": "Goiânia GO",
+    "country": "Brazil",
+    "lat": -16.7258898,
+    "lng": -49.2638538
+  },
+  {
+    "id": "brazil-rádio-liberal-fm-975",
+    "name": "Rádio Liberal FM 97.5",
+    "url": "http://177.105.192.70:9750/liberalfm.mp3/",
+    "genre": "Music",
+    "city": "Belém PA",
+    "country": "Brazil",
+    "lat": -1.3748155,
+    "lng": -48.4291918
+  },
+  {
+    "id": "brazil-web-rádio-super-cfsom",
+    "name": "Web Rádio Super CFsom",
+    "url": "https://hts01.brascast.com:7580/live",
+    "genre": "Music",
+    "city": "Belém PA",
+    "country": "Brazil",
+    "lat": -1.3748155,
+    "lng": -48.4291918
+  },
+  {
+    "id": "brazil-interativa-fm-949",
+    "name": "Interativa FM 94.9",
+    "url": "https://radio.saopaulo01.com.br:10766/stream",
+    "genre": "Music",
+    "city": "Goiânia GO",
+    "country": "Brazil",
+    "lat": -16.7258898,
+    "lng": -49.2638538
+  },
+  {
+    "id": "brazil-radio-diario-fm-929",
+    "name": "Radio Diario FM 92.9",
+    "url": "https://hts02.brascast.com:8856/live",
+    "genre": "Music",
+    "city": "Belém PA",
+    "country": "Brazil",
+    "lat": -1.3748155,
+    "lng": -48.4291918
+  },
+  {
+    "id": "brazil-rauland-fm-951",
+    "name": "Rauland FM 95.1",
+    "url": "https://stm1.srvif.com:6672/stream",
+    "genre": "Music",
+    "city": "Belém PA",
+    "country": "Brazil",
+    "lat": -1.3748155,
+    "lng": -48.4291918
+  },
+  {
+    "id": "brazil-99fm",
+    "name": "99FM",
+    "url": "https://hts02.brascast.com:8862/live",
+    "genre": "Music",
+    "city": "Belém PA",
+    "country": "Brazil",
+    "lat": -1.3748155,
+    "lng": -48.4291918
+  },
+  {
+    "id": "brazil-rádio-so80",
+    "name": "Rádio SÒ80",
+    "url": "https://stm2.srvif.com:6704/stream/",
+    "genre": "Music",
+    "city": "Belém PA",
+    "country": "Brazil",
+    "lat": -1.3748155,
+    "lng": -48.4291918
+  },
+  {
+    "id": "brazil-rádio-sistema-miriense-983-fm",
+    "name": "Rádio Sistema Miriense 98.3 FM",
+    "url": "https://hts07.brascast.com:11102/live",
+    "genre": "Music",
+    "city": "Belém PA",
+    "country": "Brazil",
+    "lat": -1.3748155,
+    "lng": -48.4291918
+  },
+  {
+    "id": "brazil-news-fm-1049",
+    "name": "News FM 104.9",
+    "url": "https://stm25.srvaudio.com.br:11234/;/",
+    "genre": "Music",
+    "city": "Belém PA",
+    "country": "Brazil",
+    "lat": -1.3748155,
+    "lng": -48.4291918
+  },
+  {
+    "id": "brazil-paraiso-das-belasilhas",
+    "name": "Paraiso das Belasilhas",
+    "url": "https://stm22.srvaudio.com.br:10954/stream",
+    "genre": "Music",
+    "city": "Belém PA",
+    "country": "Brazil",
+    "lat": -1.3748155,
+    "lng": -48.4291918
+  },
+  {
+    "id": "brazil-rádio-boas-novas-fm-919",
+    "name": "Rádio Boas Novas FM 91.9",
+    "url": "https://boasnovasaac.jmvstream.com/stream",
+    "genre": "Music",
+    "city": "Belém PA",
+    "country": "Brazil",
+    "lat": -1.3748155,
+    "lng": -48.4291918
+  },
+  {
+    "id": "brazil-super-marajoara-am-1130",
+    "name": "Super Marajoara AM 1130",
+    "url": "https://www.bravecenterhost.com:8020/stream",
+    "genre": "Music",
+    "city": "Belém PA",
+    "country": "Brazil",
+    "lat": -1.3748155,
+    "lng": -48.4291918
+  },
+  {
+    "id": "brazil-rádio-clube-do-pará-fm-1069",
+    "name": "Rádio Clube do Pará FM 106.9",
+    "url": "https://carajas2.jmvstream.com/live",
+    "genre": "Music",
+    "city": "Belém PA",
+    "country": "Brazil",
+    "lat": -1.3748155,
+    "lng": -48.4291918
+  },
+  {
+    "id": "brazil-rádio-comercio-sorocaba",
+    "name": "Rádio Comercio Sorocaba",
+    "url": "https://hts07.brascast.com:12640/live",
+    "genre": "Music",
+    "city": "Sorocaba SP",
+    "country": "Brazil",
+    "lat": -23.2510216,
+    "lng": -47.2686902
+  },
+  {
+    "id": "brazil-estação-brasil-365",
+    "name": "Estação Brasil 365",
+    "url": "https://str1.castradios.com.br:10998/stream",
+    "genre": "Music",
+    "city": "Sorocaba SP",
+    "country": "Brazil",
+    "lat": -23.2510216,
+    "lng": -47.2686902
+  },
+  {
+    "id": "brazil-rádio-fox-rock-fm-879",
+    "name": "Rádio Fox Rock FM 87.9",
+    "url": "https://brapostreaming.com.br/radio/8000/radio.mp3",
+    "genre": "Music",
+    "city": "Sorocaba SP",
+    "country": "Brazil",
+    "lat": -23.2510216,
+    "lng": -47.2686902
+  },
+  {
+    "id": "brazil-radio-umari-875-fm",
+    "name": "Radio Umari 87.5 FM",
+    "url": "https://s01.transmissaodigital.com:7488/stream",
+    "genre": "Music",
+    "city": "Belém PA",
+    "country": "Brazil",
+    "lat": -1.3748155,
+    "lng": -48.4291918
+  },
+  {
+    "id": "brazil-rádio-sorocaba-fm",
+    "name": "Rádio Sorocaba FM",
+    "url": "https://stream1.svrdedicado.org/8100/stream",
+    "genre": "Music",
+    "city": "Sorocaba SP",
+    "country": "Brazil",
+    "lat": -23.2510216,
+    "lng": -47.2686902
+  },
+  {
+    "id": "brazil-radio-muaná-gospel",
+    "name": "Radio Muaná Gospel",
+    "url": "https://stream-157.zeno.fm/7qvh7heambruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI3cXZoN2hlYW1icnV2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiaGF1ZTlSVjdReXlvWE5EVEp3djdZQSIsImlhdCI6MTc2OTQxNzEyMCwiZXhwIjoxNzY5NDE3MTgwfQ.4I-VcZtnVZcesWzvFjGQLLIdXpi0FXTMM7L1YYmXWTM",
+    "genre": "Music",
+    "city": "Belém PA",
+    "country": "Brazil",
+    "lat": -1.3748155,
+    "lng": -48.4291918
+  },
+  {
+    "id": "brazil-rádio-vanguarda-fm-949",
+    "name": "Rádio Vanguarda FM 94.9",
+    "url": "https://cast3.hoost.com.br:20030/live",
+    "genre": "Music",
+    "city": "Sorocaba SP",
+    "country": "Brazil",
+    "lat": -23.2510216,
+    "lng": -47.2686902
+  },
+  {
+    "id": "brazil-rádio-só-mpb",
+    "name": "Rádio Só MPB",
+    "url": "https://srv1.braudio.com.br:7008/stream",
+    "genre": "Music",
+    "city": "Sorocaba SP",
+    "country": "Brazil",
+    "lat": -23.2510216,
+    "lng": -47.2686902
+  },
+  {
+    "id": "brazil-rainha-do-sol-fm-1057",
+    "name": "Rainha do Sol FM 105.7",
+    "url": "http://sonicpanel.oficialserver.com:9918/stream",
+    "genre": "Music",
+    "city": "Sorocaba SP",
+    "country": "Brazil",
+    "lat": -23.2510216,
+    "lng": -47.2686902
+  },
+  {
+    "id": "brazil-jovem-pan-fm-911",
+    "name": "Jovem Pan FM 91.1",
+    "url": "https://cast2.hoost.com.br:8039/stream",
+    "genre": "Music",
+    "city": "Sorocaba SP",
+    "country": "Brazil",
+    "lat": -23.2510216,
+    "lng": -47.2686902
+  },
+  {
+    "id": "brazil-band-fm-sorocaba",
+    "name": "Band FM Sorocaba",
+    "url": "https://stm11.xcast.com.br:7908/stream",
+    "genre": "Music",
+    "city": "Sorocaba SP",
+    "country": "Brazil",
+    "lat": -23.2510216,
+    "lng": -47.2686902
+  },
+  {
+    "id": "brazil-rádio-sorocaba-mpb",
+    "name": "Rádio Sorocaba MPB",
+    "url": "https://stream1.svrdedicado.org/8102/stream",
+    "genre": "Music",
+    "city": "Sorocaba SP",
+    "country": "Brazil",
+    "lat": -23.2510216,
+    "lng": -47.2686902
+  },
+  {
+    "id": "brazil-nova-cultura-fm-879",
+    "name": "Nova Cultura FM 87.9",
+    "url": "https://cast2.hoost.com.br:20128/stream",
+    "genre": "Music",
+    "city": "Sorocaba SP",
+    "country": "Brazil",
+    "lat": -23.2510216,
+    "lng": -47.2686902
+  },
+  {
+    "id": "brazil-rádio-nova-itu-fm-1059",
+    "name": "Rádio Nova Itu FM 105.9",
+    "url": "https://s02.brascast.com:7894/stream",
+    "genre": "Music",
+    "city": "Sorocaba SP",
+    "country": "Brazil",
+    "lat": -23.2510216,
+    "lng": -47.2686902
+  },
+  {
+    "id": "brazil-rádio-cidade-sorocaba",
+    "name": "Rádio Cidade Sorocaba",
+    "url": "https://mars.streamerr.co/8256/stream",
+    "genre": "Music",
+    "city": "Sorocaba SP",
+    "country": "Brazil",
+    "lat": -23.2510216,
+    "lng": -47.2686902
+  },
+  {
+    "id": "brazil-rádio-raízes-do-brasil",
+    "name": "Rádio Raízes do Brasil",
+    "url": "https://play.braudio.com.br/ssl.php?p=7014&s=srv1",
+    "genre": "Music",
+    "city": "Sorocaba SP",
+    "country": "Brazil",
+    "lat": -23.2510216,
+    "lng": -47.2686902
+  },
+  {
+    "id": "brazil-mundo-livre-fm-londrina-941",
+    "name": "Mundo Livre FM Londrina 94.1",
+    "url": "https://rrdns-continental.webnow.com.br/mllondrina.mp3",
+    "genre": "Music",
+    "city": "Londrina PR",
+    "country": "Brazil",
+    "lat": -23.3142966,
+    "lng": -51.1622425
+  },
+  {
+    "id": "brazil-cbn-fm-1009",
+    "name": "CBN FM 100.9",
+    "url": "https://f108.fabricahost.com.br/cbnlondrina?f=1769417124N01KFWQNA65BGHDM34ZJ724SQ3P&tid=01KFWQNA65D9PGCP4113C73VK3",
+    "genre": "Music",
+    "city": "Londrina PR",
+    "country": "Brazil",
+    "lat": -23.3142966,
+    "lng": -51.1622425
+  },
+  {
+    "id": "brazil-rádio-visão-missionária-evangelica",
+    "name": "Rádio Visão Missionária Evangélica",
+    "url": "https://s11.maxcast.com.br:8488/live",
+    "genre": "Music",
+    "city": "Sorocaba SP",
+    "country": "Brazil",
+    "lat": -23.2510216,
+    "lng": -47.2686902
+  },
+  {
+    "id": "brazil-tarobá-fm-1017",
+    "name": "Tarobá FM 101.7",
+    "url": "https://taroba2.jmvstream.com/live",
+    "genre": "Music",
+    "city": "Londrina PR",
+    "country": "Brazil",
+    "lat": -23.3142966,
+    "lng": -51.1622425
+  },
+  {
+    "id": "brazil-jovem-pan-fm-1021",
+    "name": "Jovem Pan FM 102.1",
+    "url": "https://f100.fabricahost.com.br/jplondrina?f=1769417125N01KFWQNBPAPRTW3NMXYSSJHQ28&tid=01KFWQNBPA3A6HNDJRPSJ0AH2B",
+    "genre": "Music",
+    "city": "Londrina PR",
+    "country": "Brazil",
+    "lat": -23.3142966,
+    "lng": -51.1622425
+  },
+  {
+    "id": "brazil-cultura-fm-1073",
+    "name": "Cultura FM 107.3",
+    "url": "https://r13.ciclano.io/proxy/radiocu7/stream",
+    "genre": "Music",
+    "city": "Londrina PR",
+    "country": "Brazil",
+    "lat": -23.3142966,
+    "lng": -51.1622425
+  },
+  {
+    "id": "brazil-radio-clube-tropical",
+    "name": "Radio Clube Tropical",
+    "url": "https://servidor24.brlogic.com:7050/live",
+    "genre": "Music",
+    "city": "Sorocaba SP",
+    "country": "Brazil",
+    "lat": -23.2510216,
+    "lng": -47.2686902
+  },
+  {
+    "id": "brazil-radio-almagro-fm",
+    "name": "Radio Almagro FM",
+    "url": "https://01.painelaudiohd.com.br:27026/index.html?sid=1",
+    "genre": "Music",
+    "city": "Londrina PR",
+    "country": "Brazil",
+    "lat": -23.3142966,
+    "lng": -51.1622425
+  },
+  {
+    "id": "brazil-rádio-paiquerê-fm-917",
+    "name": "Rádio Paiquerê FM 91.7",
+    "url": "https://f108.fabricahost.com.br/paiquere917?f=1769417125N01KFWQNBX8AFQB0EVE6HTGA70X&tid=01KFWQNBX885D7S5CSX1Z0ZMSR",
+    "genre": "Music",
+    "city": "Londrina PR",
+    "country": "Brazil",
+    "lat": -23.3142966,
+    "lng": -51.1622425
+  },
+  {
+    "id": "brazil-ecd-fm-967-rede-encontro",
+    "name": "ECD FM 96.7 Rede Encontro",
+    "url": "https://radio02.zas.media/proxy/ecd/stream",
+    "genre": "Music",
+    "city": "Londrina PR",
+    "country": "Brazil",
+    "lat": -23.3142966,
+    "lng": -51.1622425
+  },
+  {
+    "id": "brazil-tribuna-soft-fm",
+    "name": "Tribuna Soft FM",
+    "url": "https://f108.fabricahost.com.br/tribunafm?f=1769417126N01KFWQNCC2WX4KMRQYARD55KNJ&tid=01KFWQNCC2GPCEH4CSZWVMWMGK",
+    "genre": "Music",
+    "city": "Londrina PR",
+    "country": "Brazil",
+    "lat": -23.3142966,
+    "lng": -51.1622425
+  },
+  {
+    "id": "brazil-jovem-pan-news-londrina-fm-1045",
+    "name": "Jovem Pan News Londrina FM 104.5",
+    "url": "https://f108.fabricahost.com.br/pannewslondrina?f=1769417126N01KFWQNCBYG5FWX9B1FGZM7X2Y&tid=01KFWQNCBYDWDVKR0VYAMGYFT7",
+    "genre": "Music",
+    "city": "Londrina PR",
+    "country": "Brazil",
+    "lat": -23.3142966,
+    "lng": -51.1622425
+  },
+  {
+    "id": "brazil-rc-fm-981",
+    "name": "RC FM 98.1",
+    "url": "https://player.transmissaodigital.com/proxy/7434",
+    "genre": "Music",
+    "city": "Londrina PR",
+    "country": "Brazil",
+    "lat": -23.3142966,
+    "lng": -51.1622425
+  },
+  {
+    "id": "brazil-rádio-terra-nativa-am-1360",
+    "name": "Rádio Terra Nativa AM 1360",
+    "url": "https://s01.transmissaodigital.com:7404/index.html?sid=1",
+    "genre": "Music",
+    "city": "Londrina PR",
+    "country": "Brazil",
+    "lat": -23.3142966,
+    "lng": -51.1622425
+  },
+  {
+    "id": "brazil-paiquerê-fm-989",
+    "name": "Paiquerê FM 98.9",
+    "url": "https://stm04.virtualcast.com.br:8002/paiquerelondrina",
+    "genre": "Music",
+    "city": "Londrina PR",
+    "country": "Brazil",
+    "lat": -23.3142966,
+    "lng": -51.1622425
+  },
+  {
+    "id": "brazil-super-rádio-deus-e-amor-am-640",
+    "name": "Super Rádio Deus é Amor AM 640",
+    "url": "https://26573.live.streamtheworld.com:443/SP_RADIOONLINE2AAC.aac",
+    "genre": "Music",
+    "city": "Londrina PR",
+    "country": "Brazil",
+    "lat": -23.3142966,
+    "lng": -51.1622425
+  },
+  {
+    "id": "brazil-massa-fm-londrina",
+    "name": "Massa FM Londrina",
+    "url": "https://stm01.virtualcast.com.br:8120/live",
+    "genre": "Music",
+    "city": "Londrina PR",
+    "country": "Brazil",
+    "lat": -23.3142966,
+    "lng": -51.1622425
+  },
+  {
+    "id": "brazil-rádio-livo",
+    "name": "Rádio Livo",
+    "url": "https://servidor34.brlogic.com:7038/live",
+    "genre": "Music",
+    "city": "Sorocaba SP",
+    "country": "Brazil",
+    "lat": -23.2510216,
+    "lng": -47.2686902
+  },
+  {
+    "id": "brazil-rádio-vida-melhor-fm-1059",
+    "name": "Rádio Vida Melhor FM 105.9",
+    "url": "https://servidor32.brlogic.com:8480/live",
+    "genre": "Music",
+    "city": "Londrina PR",
+    "country": "Brazil",
+    "lat": -23.3142966,
+    "lng": -51.1622425
+  }
+]

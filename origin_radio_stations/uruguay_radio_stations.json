@@ -1,0 +1,1262 @@
+[
+  {
+    "id": "uruguay-fm-ciudad-uruguay",
+    "name": "FM Ciudad Uruguay",
+    "url": "https://s1.radiosenialesfm.com:8040/radio.mp3",
+    "genre": "Music",
+    "city": "Montevideo",
+    "country": "Uruguay",
+    "lat": -34.9058916,
+    "lng": -56.1913095
+  },
+  {
+    "id": "uruguay-ciudadana-fm-923",
+    "name": "Ciudadana FM 92.3",
+    "url": "https://stream.radiopro.uy:8010/ciudadana",
+    "genre": "Music",
+    "city": "Montevideo",
+    "country": "Uruguay",
+    "lat": -34.9058916,
+    "lng": -56.1913095
+  },
+  {
+    "id": "uruguay-la-metro",
+    "name": "La Metro",
+    "url": "https://sc10.conectarhosting.com/proxy/lametro/stream",
+    "genre": "Music",
+    "city": "Montevideo",
+    "country": "Uruguay",
+    "lat": -34.9058916,
+    "lng": -56.1913095
+  },
+  {
+    "id": "uruguay-inolvidable-fm-931",
+    "name": "Inolvidable FM 93.1",
+    "url": "https://inolvidable-2.nty.uy/",
+    "genre": "Music",
+    "city": "Montevideo",
+    "country": "Uruguay",
+    "lat": -34.9058916,
+    "lng": -56.1913095
+  },
+  {
+    "id": "uruguay-metropolis-fm-1049",
+    "name": "Metropolis FM 104.9",
+    "url": "https://metropolis-web-1.nty.uy/",
+    "genre": "Music",
+    "city": "Montevideo",
+    "country": "Uruguay",
+    "lat": -34.9058916,
+    "lng": -56.1913095
+  },
+  {
+    "id": "uruguay-fm-delsol-995",
+    "name": "FM DelSol 99.5",
+    "url": "https://delsol-4.nty.uy/stream/1/",
+    "genre": "Music",
+    "city": "Montevideo",
+    "country": "Uruguay",
+    "lat": -34.9058916,
+    "lng": -56.1913095
+  },
+  {
+    "id": "uruguay-atlantida-fm-899",
+    "name": "Atlantida FM 89.9",
+    "url": "https://server-usa2.radioseninternet.net/8034/stream",
+    "genre": "Music",
+    "city": "Montevideo",
+    "country": "Uruguay",
+    "lat": -34.9058916,
+    "lng": -56.1913095
+  },
+  {
+    "id": "uruguay-azul-fm-1019",
+    "name": "Azul FM 101.9",
+    "url": "https://azul-1.nty.uy/",
+    "genre": "Music",
+    "city": "Montevideo",
+    "country": "Uruguay",
+    "lat": -34.9058916,
+    "lng": -56.1913095
+  },
+  {
+    "id": "uruguay-espectador-810-am",
+    "name": "Espectador 810 AM",
+    "url": "https://espectador-1.nty.uy/",
+    "genre": "Music",
+    "city": "Montevideo",
+    "country": "Uruguay",
+    "lat": -34.9058916,
+    "lng": -56.1913095
+  },
+  {
+    "id": "uruguay-mundo-fm-1079",
+    "name": "Mundo FM 107.9",
+    "url": "http://emisiones.com.uy:8088/mundo",
+    "genre": "Music",
+    "city": "Salto",
+    "country": "Uruguay",
+    "lat": -31.38889,
+    "lng": -57.9608876
+  },
+  {
+    "id": "uruguay-radio-arapey",
+    "name": "Radio Arapey",
+    "url": "http://emisiones.com.uy:8085/arapey",
+    "genre": "Music",
+    "city": "Salto",
+    "country": "Uruguay",
+    "lat": -31.38889,
+    "lng": -57.9608876
+  },
+  {
+    "id": "uruguay-del-lago-fm-883",
+    "name": "Del Lago FM 88.3",
+    "url": "http://emisiones.com.uy:8116/lago",
+    "genre": "Music",
+    "city": "Salto",
+    "country": "Uruguay",
+    "lat": -31.38889,
+    "lng": -57.9608876
+  },
+  {
+    "id": "uruguay-carve-am-850",
+    "name": "Carve AM 850",
+    "url": "https://icecast1.innovanexo.com:9000/radiocarve850.mp3",
+    "genre": "Music",
+    "city": "Montevideo",
+    "country": "Uruguay",
+    "lat": -34.9058916,
+    "lng": -56.1913095
+  },
+  {
+    "id": "uruguay-radio-monte-carlo-am-930",
+    "name": "Radio Monte Carlo AM 930",
+    "url": "https://icecast1.innovanexo.com:9000/montecarlo.mp3",
+    "genre": "Music",
+    "city": "Montevideo",
+    "country": "Uruguay",
+    "lat": -34.9058916,
+    "lng": -56.1913095
+  },
+  {
+    "id": "uruguay-radio-tabare",
+    "name": "Radio Tabaré",
+    "url": "http://emisiones.com.uy:8130/taba",
+    "genre": "Music",
+    "city": "Salto",
+    "country": "Uruguay",
+    "lat": -31.38889,
+    "lng": -57.9608876
+  },
+  {
+    "id": "uruguay-1410-turistica-am-salto",
+    "name": "1410 Turistica AM Salto",
+    "url": "http://emisiones.com.uy:8086/turistic",
+    "genre": "Music",
+    "city": "Salto",
+    "country": "Uruguay",
+    "lat": -31.38889,
+    "lng": -57.9608876
+  },
+  {
+    "id": "uruguay-cafe-express-radio",
+    "name": "Café Express Radio",
+    "url": "https://streaming5.locucionar.com/proxy/cafeexpress?mp=/stream",
+    "genre": "Music",
+    "city": "Montevideo",
+    "country": "Uruguay",
+    "lat": -34.9058916,
+    "lng": -56.1913095
+  },
+  {
+    "id": "uruguay-radio-fenix",
+    "name": "Radio Fenix",
+    "url": "https://streaming.evolucionstreaming.com:10719/stream?icy=http/;",
+    "genre": "Music",
+    "city": "Salto",
+    "country": "Uruguay",
+    "lat": -31.38889,
+    "lng": -57.9608876
+  },
+  {
+    "id": "uruguay-estudio-aventura-radio",
+    "name": "Estudio Aventura Radio",
+    "url": "http://162.244.80.106:11033/index.html?sid=1",
+    "genre": "Music",
+    "city": "Tacuarembó",
+    "country": "Uruguay",
+    "lat": -32.166667,
+    "lng": -55.5
+  },
+  {
+    "id": "uruguay-radio-disney-fm-1037",
+    "name": "Radio Disney FM 103.7",
+    "url": "https://26653.live.streamtheworld.com:443/DISNEY_URY_MV.mp3",
+    "genre": "Music",
+    "city": "Montevideo",
+    "country": "Uruguay",
+    "lat": -34.9058916,
+    "lng": -56.1913095
+  },
+  {
+    "id": "uruguay-radio-tacuarembó-1280-am",
+    "name": "Radio Tacuarembó 1280 AM",
+    "url": "http://usa15.ciudaddigital.com.uy:8114/TacuaremboAM",
+    "genre": "Music",
+    "city": "Tacuarembó",
+    "country": "Uruguay",
+    "lat": -32.166667,
+    "lng": -55.5
+  },
+  {
+    "id": "uruguay-la-kandela-fm-1055",
+    "name": "La Kandela FM 105.5",
+    "url": "https://video2.getstreamhosting.com:2020/stream/8178",
+    "genre": "Music",
+    "city": "Tacuarembó",
+    "country": "Uruguay",
+    "lat": -32.166667,
+    "lng": -55.5
+  },
+  {
+    "id": "uruguay-box-943-fm",
+    "name": "Box 94.3 FM",
+    "url": "https://streaming2.locucionar.com/proxy/boxfm1045?mp=/stream",
+    "genre": "Music",
+    "city": "Salto",
+    "country": "Uruguay",
+    "lat": -31.38889,
+    "lng": -57.9608876
+  },
+  {
+    "id": "uruguay-venecia-fm-933",
+    "name": "Venecia FM 93.3",
+    "url": "https://sonic.host-live.com/8194/stream",
+    "genre": "Music",
+    "city": "Salto",
+    "country": "Uruguay",
+    "lat": -31.38889,
+    "lng": -57.9608876
+  },
+  {
+    "id": "uruguay-radio-master",
+    "name": "Radio Master",
+    "url": "https://streaming01.shockmedia.com.ar:10282/stream",
+    "genre": "Music",
+    "city": "Salto",
+    "country": "Uruguay",
+    "lat": -31.38889,
+    "lng": -57.9608876
+  },
+  {
+    "id": "uruguay-kairos-fm-877",
+    "name": "Kairos FM 87.7",
+    "url": "https://panel.streamenviron.com:8264/radiokairos",
+    "genre": "Music",
+    "city": "Montevideo",
+    "country": "Uruguay",
+    "lat": -34.9058916,
+    "lng": -56.1913095
+  },
+  {
+    "id": "uruguay-fm-93",
+    "name": "FM 93",
+    "url": "https://s47.myradiostream.com:12110/listen.m4a",
+    "genre": "Music",
+    "city": "Tacuarembó",
+    "country": "Uruguay",
+    "lat": -32.166667,
+    "lng": -55.5
+  },
+  {
+    "id": "uruguay-tacuarembó-fm-903",
+    "name": "Tacuarembó FM 90.3",
+    "url": "https://tacuarembo-zikoxweb2.radioca.st/stream",
+    "genre": "Music",
+    "city": "Tacuarembó",
+    "country": "Uruguay",
+    "lat": -32.166667,
+    "lng": -55.5
+  },
+  {
+    "id": "uruguay-la-comuna-955-fm",
+    "name": "La Comuna 95.5 FM",
+    "url": "https://s2.servicioderadio.com/8084/stream",
+    "genre": "Music",
+    "city": "Tacuarembó",
+    "country": "Uruguay",
+    "lat": -32.166667,
+    "lng": -55.5
+  },
+  {
+    "id": "uruguay-la-voz-de-artigas",
+    "name": "La voz de Artigas",
+    "url": "http://usa15.ciudaddigital.com.uy:8128/LaVozDeArtigas",
+    "genre": "Music",
+    "city": "Tacuarembó",
+    "country": "Uruguay",
+    "lat": -32.166667,
+    "lng": -55.5
+  },
+  {
+    "id": "uruguay-fm-tiempo-1017",
+    "name": "FM Tiempo 101.7",
+    "url": "https://as100.globalhost1.com/8144/stream",
+    "genre": "Music",
+    "city": "Tacuarembó",
+    "country": "Uruguay",
+    "lat": -32.166667,
+    "lng": -55.5
+  },
+  {
+    "id": "uruguay-fm-música-889",
+    "name": "FM Música 88.9",
+    "url": "https://server-usa2.radioseninternet.net/8260/stream",
+    "genre": "Music",
+    "city": "Tacuarembó",
+    "country": "Uruguay",
+    "lat": -32.166667,
+    "lng": -55.5
+  },
+  {
+    "id": "uruguay-radio-espirita-uruguay",
+    "name": "Radio Espirita Uruguay",
+    "url": "https://servidor21-3.brlogic.com:8462/live",
+    "genre": "Music",
+    "city": "Montevideo",
+    "country": "Uruguay",
+    "lat": -34.9058916,
+    "lng": -56.1913095
+  },
+  {
+    "id": "uruguay-radio-real-am-1370",
+    "name": "Radio Real AM 1370",
+    "url": "http://usa15.ciudaddigital.com.uy:8006/RealAM",
+    "genre": "Music",
+    "city": "Tacuarembó",
+    "country": "Uruguay",
+    "lat": -32.166667,
+    "lng": -55.5
+  },
+  {
+    "id": "uruguay-la-otra-fm-1045",
+    "name": "La Otra FM 104.5",
+    "url": "http://144.217.67.108:9242/stream",
+    "genre": "Music",
+    "city": "Paysandú",
+    "country": "Uruguay",
+    "lat": -32.3217257,
+    "lng": -58.0892136
+  },
+  {
+    "id": "uruguay-salamanca-fm-1013",
+    "name": "Salamanca FM 101.3",
+    "url": "https://live.paineldj.com.br/proxy/salamancahd?mp=/stream",
+    "genre": "Music",
+    "city": "Tacuarembó",
+    "country": "Uruguay",
+    "lat": -32.166667,
+    "lng": -55.5
+  },
+  {
+    "id": "uruguay-radio-delirio",
+    "name": "Radio Delirio",
+    "url": "https://srv2.radiostreamuy.com/8004/stream",
+    "genre": "Music",
+    "city": "Tacuarembó",
+    "country": "Uruguay",
+    "lat": -32.166667,
+    "lng": -55.5
+  },
+  {
+    "id": "uruguay-la-regional-radio-online",
+    "name": "La Regional Radio Online",
+    "url": "https://emisora.unorte.edu.uy/",
+    "genre": "Music",
+    "city": "Salto",
+    "country": "Uruguay",
+    "lat": -31.38889,
+    "lng": -57.9608876
+  },
+  {
+    "id": "uruguay-radio-buen-anuncio-rba-fm-957",
+    "name": "Radio Buen Anuncio RBA FM 95.7",
+    "url": "http://51.79.51.128:10404/",
+    "genre": "Music",
+    "city": "Paysandú",
+    "country": "Uruguay",
+    "lat": -32.3217257,
+    "lng": -58.0892136
+  },
+  {
+    "id": "uruguay-jc-radio-web",
+    "name": "JC Radio Web",
+    "url": "https://alfamedia.uy:8010/radio.mp3",
+    "genre": "Music",
+    "city": "Tacuarembó",
+    "country": "Uruguay",
+    "lat": -32.166667,
+    "lng": -55.5
+  },
+  {
+    "id": "uruguay-azul-fm-935",
+    "name": "Azul FM 93.5",
+    "url": "http://icecasthd.net:8030/live",
+    "genre": "Music",
+    "city": "Punta del Este",
+    "country": "Uruguay",
+    "lat": -34.9632342,
+    "lng": -54.9439981
+  },
+  {
+    "id": "uruguay-rádio-upamaroty-fm-online",
+    "name": "Rádio Upamaroty FM Online",
+    "url": "https://s4.guaracast.com:48054/stream",
+    "genre": "Music",
+    "city": "Tacuarembó",
+    "country": "Uruguay",
+    "lat": -32.166667,
+    "lng": -55.5
+  },
+  {
+    "id": "uruguay-rádio-upacaraí-am-1330",
+    "name": "Rádio Upacaraí AM 1330",
+    "url": "https://stm01.virtualcast.com.br:8144/live",
+    "genre": "Music",
+    "city": "Tacuarembó",
+    "country": "Uruguay",
+    "lat": -32.166667,
+    "lng": -55.5
+  },
+  {
+    "id": "uruguay-lt15--am-560",
+    "name": "LT15 - AM 560",
+    "url": "https://lt15concordia.radioca.st/stream",
+    "genre": "Music",
+    "city": "Paysandú",
+    "country": "Uruguay",
+    "lat": -32.3217257,
+    "lng": -58.0892136
+  },
+  {
+    "id": "uruguay-concierto-punta-951-fm",
+    "name": "Concierto Punta 95.1 FM",
+    "url": "https://conectperu.com/8012/stream",
+    "genre": "Music",
+    "city": "Punta del Este",
+    "country": "Uruguay",
+    "lat": -34.9632342,
+    "lng": -54.9439981
+  },
+  {
+    "id": "uruguay-881fm",
+    "name": "88.1FM",
+    "url": "https://s1.radioforge.com:9156/stream",
+    "genre": "Music",
+    "city": "Punta del Este",
+    "country": "Uruguay",
+    "lat": -34.9632342,
+    "lng": -54.9439981
+  },
+  {
+    "id": "uruguay-exito-fm-997",
+    "name": "Exito FM 99.7",
+    "url": "https://salida.stream.com.uy:8506/stream",
+    "genre": "Music",
+    "city": "Paysandú",
+    "country": "Uruguay",
+    "lat": -32.3217257,
+    "lng": -58.0892136
+  },
+  {
+    "id": "uruguay-contacto-fm-1069",
+    "name": "Contacto FM 106.9",
+    "url": "https://salida.stream.com.uy:8512/stream",
+    "genre": "Music",
+    "city": "Paysandú",
+    "country": "Uruguay",
+    "lat": -32.3217257,
+    "lng": -58.0892136
+  },
+  {
+    "id": "uruguay-brava-fm-915",
+    "name": "Brava FM 91.5",
+    "url": "https://fmbrava-2.nty.uy/",
+    "genre": "Music",
+    "city": "Punta del Este",
+    "country": "Uruguay",
+    "lat": -34.9632342,
+    "lng": -54.9439981
+  },
+  {
+    "id": "uruguay-fm-riel-931",
+    "name": "FM Riel 93.1",
+    "url": "https://streamconex.com:2000/stream/FMRiel",
+    "genre": "Music",
+    "city": "Paysandú",
+    "country": "Uruguay",
+    "lat": -32.3217257,
+    "lng": -58.0892136
+  },
+  {
+    "id": "uruguay-federal-fm-991",
+    "name": "Federal FM 99.1",
+    "url": "http://usa15.ciudaddigital.com.uy:8040/FederalFM",
+    "genre": "Music",
+    "city": "Punta del Este",
+    "country": "Uruguay",
+    "lat": -34.9632342,
+    "lng": -54.9439981
+  },
+  {
+    "id": "uruguay-radio-enkantada-887-fm",
+    "name": "Radio Enkantada 88.7 FM",
+    "url": "https://stream-167.zeno.fm/ku7pcr7fprhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJrdTdwY3I3ZnByaHZ2IiwiaG9zdCI6InN0cmVhbS0xNjcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiR0VtMjBLMU5RcTJYYTNhSWQ5cU42QSIsImlhdCI6MTc2OTQyNDIyMSwiZXhwIjoxNzY5NDI0MjgxfQ.SE4KV7gFHEbQCkoY-4D5WwfB8mVWipNJuSrXFsQqPcU",
+    "genre": "Music",
+    "city": "Punta del Este",
+    "country": "Uruguay",
+    "lat": -34.9632342,
+    "lng": -54.9439981
+  },
+  {
+    "id": "uruguay-horizonte-fm-893",
+    "name": "Horizonte FM 89.3",
+    "url": "http://medios.ciudaddigital.com.uy:8078/HorizonteFM",
+    "genre": "Music",
+    "city": "Rivera",
+    "country": "Uruguay",
+    "lat": -30.900058,
+    "lng": -55.5408151
+  },
+  {
+    "id": "uruguay-metropolis-fm-959",
+    "name": "Metropolis FM 95.9",
+    "url": "https://metropolis-punta-1.nty.uy/netradio/",
+    "genre": "Music",
+    "city": "Punta del Este",
+    "country": "Uruguay",
+    "lat": -34.9632342,
+    "lng": -54.9439981
+  },
+  {
+    "id": "uruguay-radio-cero-1015-fm",
+    "name": "Radio Cero 101.5 FM",
+    "url": "https://icecast1.innovanexo.com:9000/radiocero_punta.mp3",
+    "genre": "Music",
+    "city": "Punta del Este",
+    "country": "Uruguay",
+    "lat": -34.9632342,
+    "lng": -54.9439981
+  },
+  {
+    "id": "uruguay-la-paloma-fm-1021",
+    "name": "La Paloma FM 102.1",
+    "url": "https://stream.radioinfo.ar/p/6112/",
+    "genre": "Music",
+    "city": "Punta del Este",
+    "country": "Uruguay",
+    "lat": -34.9632342,
+    "lng": -54.9439981
+  },
+  {
+    "id": "uruguay-radio-rivera-1440-am",
+    "name": "Radio Rivera 1440 AM",
+    "url": "http://usa15.ciudaddigital.com.uy:8060/RiveraAM",
+    "genre": "Music",
+    "city": "Rivera",
+    "country": "Uruguay",
+    "lat": -30.900058,
+    "lng": -55.5408151
+  },
+  {
+    "id": "uruguay-fm-voces-1045",
+    "name": "FM Voces 104.5",
+    "url": "https://streaming2.locucionar.com/proxy/fmvoces?mp=/stream",
+    "genre": "Music",
+    "city": "Punta del Este",
+    "country": "Uruguay",
+    "lat": -34.9632342,
+    "lng": -54.9439981
+  },
+  {
+    "id": "uruguay-interativa-fm-1049",
+    "name": "Interativa FM 104.9",
+    "url": "http://cast.hoost.com.br:9032/stream",
+    "genre": "Music",
+    "city": "Melo",
+    "country": "Uruguay",
+    "lat": -32.3680849,
+    "lng": -54.1697146
+  },
+  {
+    "id": "uruguay-internacional-am-1480",
+    "name": "Internacional AM 1480",
+    "url": "https://srv2.radiostreamuy.com/8024/stream",
+    "genre": "Music",
+    "city": "Rivera",
+    "country": "Uruguay",
+    "lat": -30.900058,
+    "lng": -55.5408151
+  },
+  {
+    "id": "uruguay-radio-fm-991",
+    "name": "Radio FM 99.1",
+    "url": "https://rr5100.globalhost1.com/8454/stream",
+    "genre": "Music",
+    "city": "Melo",
+    "country": "Uruguay",
+    "lat": -32.3680849,
+    "lng": -54.1697146
+  },
+  {
+    "id": "uruguay-la-voz-de-melo-am-1340",
+    "name": "La Voz de Melo AM 1340",
+    "url": "https://rr5100.globalhost1.com/8448/stream",
+    "genre": "Music",
+    "city": "Melo",
+    "country": "Uruguay",
+    "lat": -32.3680849,
+    "lng": -54.1697146
+  },
+  {
+    "id": "uruguay-tranqueras-fm-1073",
+    "name": "Tranqueras FM 107.3",
+    "url": "https://srv2.radiostreamuy.com/8002/stream",
+    "genre": "Music",
+    "city": "Rivera",
+    "country": "Uruguay",
+    "lat": -30.900058,
+    "lng": -55.5408151
+  },
+  {
+    "id": "uruguay-la-vereda-web-radio",
+    "name": "La Vereda Web Radio",
+    "url": "https://srv2.radiostreamuy.com/8012/stream",
+    "genre": "Music",
+    "city": "Rivera",
+    "country": "Uruguay",
+    "lat": -30.900058,
+    "lng": -55.5408151
+  },
+  {
+    "id": "uruguay-la-bruja-fm-899",
+    "name": "La Bruja FM 89.9",
+    "url": "https://rr5100.globalhost1.com/8452/stream",
+    "genre": "Music",
+    "city": "Melo",
+    "country": "Uruguay",
+    "lat": -32.3680849,
+    "lng": -54.1697146
+  },
+  {
+    "id": "uruguay-band-fm-961",
+    "name": "Band FM 96.1",
+    "url": "https://stream.ouveai.com.br/proxy/bandfmlivramento?mp=/stream",
+    "genre": "Music",
+    "city": "Rivera",
+    "country": "Uruguay",
+    "lat": -30.900058,
+    "lng": -55.5408151
+  },
+  {
+    "id": "uruguay-difusora-fm-1063",
+    "name": "Difusora FM 106.3",
+    "url": "https://stm2.streamproarte.com.br:7130/stream/",
+    "genre": "Music",
+    "city": "Melo",
+    "country": "Uruguay",
+    "lat": -32.3680849,
+    "lng": -54.1697146
+  },
+  {
+    "id": "uruguay-coronilla-fm-1023",
+    "name": "Coronilla FM 102.3",
+    "url": "https://streaming01.shockmedia.com.ar/9184/stream",
+    "genre": "Music",
+    "city": "Chuy",
+    "country": "Uruguay",
+    "lat": -33.6937948,
+    "lng": -53.4561114
+  },
+  {
+    "id": "uruguay-líder-fm-891",
+    "name": "Líder FM 89.1",
+    "url": "https://liderfm-zikoxweb2.radioca.st/stream/1/",
+    "genre": "Music",
+    "city": "Chuy",
+    "country": "Uruguay",
+    "lat": -33.6937948,
+    "lng": -53.4561114
+  },
+  {
+    "id": "uruguay-infinito-fm-1023",
+    "name": "Infinito FM 102.3",
+    "url": "https://player.gmpro.top/proxy/7028",
+    "genre": "Music",
+    "city": "Las Piedras",
+    "country": "Uruguay",
+    "lat": -34.7274904,
+    "lng": -56.2164982
+  },
+  {
+    "id": "uruguay-oceánica-fm-893",
+    "name": "Oceánica FM 89.3",
+    "url": "https://sv13.hdradios.net:7754/stream",
+    "genre": "Music",
+    "city": "Chuy",
+    "country": "Uruguay",
+    "lat": -33.6937948,
+    "lng": -53.4561114
+  },
+  {
+    "id": "uruguay-cadena-digital",
+    "name": "Cadena Digital",
+    "url": "http://medios.ciudaddigital.com.uy:8148/CadenaDigital",
+    "genre": "Music",
+    "city": "Rocha",
+    "country": "Uruguay",
+    "lat": -34.0,
+    "lng": -54.0
+  },
+  {
+    "id": "uruguay-esteña-fm-1031",
+    "name": "Esteña FM 103.1",
+    "url": "https://stream.radiopro.uy/listen/estena/estena",
+    "genre": "Music",
+    "city": "Chuy",
+    "country": "Uruguay",
+    "lat": -33.6937948,
+    "lng": -53.4561114
+  },
+  {
+    "id": "uruguay-fm-radio-maxima-945",
+    "name": "FM Radio Maxima 94.5",
+    "url": "https://mediapanel.siglocero.net:8002/stream",
+    "genre": "Music",
+    "city": "Paysandú",
+    "country": "Uruguay",
+    "lat": -32.3217257,
+    "lng": -58.0892136
+  },
+  {
+    "id": "uruguay-acuario-fm-949",
+    "name": "Acuario FM 94.9",
+    "url": "https://radio25-zikoxstream.radioca.st/stream",
+    "genre": "Music",
+    "city": "Rocha",
+    "country": "Uruguay",
+    "lat": -34.0,
+    "lng": -54.0
+  },
+  {
+    "id": "uruguay-atlantica-fm-893",
+    "name": "Atlantica FM 89.3",
+    "url": "https://atlanticafm.radioca.st/stream",
+    "genre": "Music",
+    "city": "Chuy",
+    "country": "Uruguay",
+    "lat": -33.6937948,
+    "lng": -53.4561114
+  },
+  {
+    "id": "uruguay-radio-cuervo-uruguay",
+    "name": "Radio Cuervo Uruguay",
+    "url": "https://streaming1.hostingmontevideo.com:7008/index.html?sid=1",
+    "genre": "Music",
+    "city": "Las Piedras",
+    "country": "Uruguay",
+    "lat": -34.7274904,
+    "lng": -56.2164982
+  },
+  {
+    "id": "uruguay-minuano-fm-975",
+    "name": "Minuano FM 97.5",
+    "url": "https://audiostream.i9suaradio.com:1105/stream",
+    "genre": "Music",
+    "city": "Rivera",
+    "country": "Uruguay",
+    "lat": -30.900058,
+    "lng": -55.5408151
+  },
+  {
+    "id": "uruguay-nueva-onda-fm-1053",
+    "name": "Nueva Onda FM 105.3",
+    "url": "https://stream-176.zeno.fm/e215hsxe2wzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJlMjE1aHN4ZTJ3enV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiRXFKUFE0VGtTRkdqS2lwM0VlaG43QSIsImlhdCI6MTc2OTQyNDIyOCwiZXhwIjoxNzY5NDI0Mjg4fQ.q5QI3OtSEFJP5pWa-eXxapFdi-CsS0Xh5NqiXCALGK8",
+    "genre": "Music",
+    "city": "Chuy",
+    "country": "Uruguay",
+    "lat": -33.6937948,
+    "lng": -53.4561114
+  },
+  {
+    "id": "uruguay-radio-fortaleza-am-1320",
+    "name": "Radio Fortaleza AM 1320",
+    "url": "http://server-uk1.radioseninternet.net:9304/;stream/1",
+    "genre": "Music",
+    "city": "Rocha",
+    "country": "Uruguay",
+    "lat": -34.0,
+    "lng": -54.0
+  },
+  {
+    "id": "uruguay-radio-tchê-comunidade",
+    "name": "Radio Tchê Comunidade",
+    "url": "https://servidor26-2.brlogic.com:8016/live",
+    "genre": "Music",
+    "city": "Rivera",
+    "country": "Uruguay",
+    "lat": -30.900058,
+    "lng": -55.5408151
+  },
+  {
+    "id": "uruguay-vida-fm-1047",
+    "name": "Vida FM 104.7",
+    "url": "http://usa15.ciudaddigital.com.uy:8048/VidaFM",
+    "genre": "Music",
+    "city": "Rocha",
+    "country": "Uruguay",
+    "lat": -34.0,
+    "lng": -54.0
+  },
+  {
+    "id": "uruguay-cadena-del-sol-fm-917",
+    "name": "Cadena del Sol FM 91.7",
+    "url": "https://streaming01.radiosenlinea.com.ar/8928/stream",
+    "genre": "Music",
+    "city": "Rocha",
+    "country": "Uruguay",
+    "lat": -34.0,
+    "lng": -54.0
+  },
+  {
+    "id": "uruguay-milenium-fm-887",
+    "name": "Milenium FM 88.7",
+    "url": "http://server-uk1.radioseninternet.net:9302/stream/1/",
+    "genre": "Music",
+    "city": "Rocha",
+    "country": "Uruguay",
+    "lat": -34.0,
+    "lng": -54.0
+  },
+  {
+    "id": "uruguay-la-rochense",
+    "name": "La Rochense",
+    "url": "https://server-usa2.radioseninternet.net/8044/stream",
+    "genre": "Music",
+    "city": "Rocha",
+    "country": "Uruguay",
+    "lat": -34.0,
+    "lng": -54.0
+  },
+  {
+    "id": "uruguay-radio-impacto-989-fm",
+    "name": "Radio Impacto 98.9 FM",
+    "url": "https://a3.asurahosting.com:7740/radio.mp3",
+    "genre": "Music",
+    "city": "Fray Bentos",
+    "country": "Uruguay",
+    "lat": -33.1165167,
+    "lng": -58.3130977
+  },
+  {
+    "id": "uruguay-radio-litoral",
+    "name": "Radio Litoral",
+    "url": "http://usa15.ciudaddigital.com.uy:8096/LitoralFM",
+    "genre": "Music",
+    "city": "Fray Bentos",
+    "country": "Uruguay",
+    "lat": -33.1165167,
+    "lng": -58.3130977
+  },
+  {
+    "id": "uruguay-visión-fm",
+    "name": "Visión FM",
+    "url": "http://emisiones.com.uy:8108/vision",
+    "genre": "Music",
+    "city": "Fray Bentos",
+    "country": "Uruguay",
+    "lat": -33.1165167,
+    "lng": -58.3130977
+  },
+  {
+    "id": "uruguay-radio-parque-921",
+    "name": "Radio Parque 92.1",
+    "url": "https://streaming3.hostingmontevideo.com/8018/stream/",
+    "genre": "Music",
+    "city": "Rocha",
+    "country": "Uruguay",
+    "lat": -34.0,
+    "lng": -54.0
+  },
+  {
+    "id": "uruguay-radio-estación-sur-fm-917",
+    "name": "Radio Estación Sur FM 91.7",
+    "url": "http://88.198.9.174:8196/live",
+    "genre": "Music",
+    "city": "Colonia del Sacramento",
+    "country": "Uruguay",
+    "lat": -34.4698592,
+    "lng": -57.8433679
+  },
+  {
+    "id": "uruguay-radio-rincón-fm-1077",
+    "name": "Radio Rincón FM 107.7",
+    "url": "https://rincon2-zikoxweb.radioca.st/stream.mp3",
+    "genre": "Music",
+    "city": "Fray Bentos",
+    "country": "Uruguay",
+    "lat": -33.1165167,
+    "lng": -58.3130977
+  },
+  {
+    "id": "uruguay-radio-rincón-am-1510",
+    "name": "Radio Rincón AM 1510",
+    "url": "https://rinconam-zikoxweb.radioca.st/stream.mp3",
+    "genre": "Music",
+    "city": "Fray Bentos",
+    "country": "Uruguay",
+    "lat": -33.1165167,
+    "lng": -58.3130977
+  },
+  {
+    "id": "uruguay-cv121-rbc-1210-am",
+    "name": "CV121 RBC 1210 AM",
+    "url": "http://usa15.ciudaddigital.com.uy:8058/RbcAM",
+    "genre": "Music",
+    "city": "La Paloma",
+    "country": "Uruguay",
+    "lat": -34.6631811,
+    "lng": -54.155092
+  },
+  {
+    "id": "uruguay-el-lugar-991",
+    "name": "El Lugar 99.1",
+    "url": "http://usa15.ciudaddigital.com.uy:8140/ElLugarFM",
+    "genre": "Music",
+    "city": "San José de Mayo",
+    "country": "Uruguay",
+    "lat": -34.3396521,
+    "lng": -56.7143155
+  },
+  {
+    "id": "uruguay-sacramento-fm-1019",
+    "name": "Sacramento FM 101.9",
+    "url": "https://radiolatina.live/8110/stream",
+    "genre": "Music",
+    "city": "Colonia del Sacramento",
+    "country": "Uruguay",
+    "lat": -34.4698592,
+    "lng": -57.8433679
+  },
+  {
+    "id": "uruguay-agenhoy-radio-fm-977",
+    "name": "Agenhoy Radio FM 97.7",
+    "url": "https://streaming2.locucionar.com/proxy/estacionsur977?mp=/stream",
+    "genre": "Music",
+    "city": "Colonia del Sacramento",
+    "country": "Uruguay",
+    "lat": -34.4698592,
+    "lng": -57.8433679
+  },
+  {
+    "id": "uruguay-radio-vox-fm-1029",
+    "name": "Radio Vox FM 102.9",
+    "url": "https://streaming01.shockmedia.com.ar:10636/stream",
+    "genre": "Music",
+    "city": "Colonia del Sacramento",
+    "country": "Uruguay",
+    "lat": -34.4698592,
+    "lng": -57.8433679
+  },
+  {
+    "id": "uruguay-radio-cristal-fm-897",
+    "name": "Radio Cristal FM 89.7",
+    "url": "https://ssl.radiosnethosting.com/index.php?port=8040",
+    "genre": "Music",
+    "city": "Fray Bentos",
+    "country": "Uruguay",
+    "lat": -33.1165167,
+    "lng": -58.3130977
+  },
+  {
+    "id": "uruguay-la-noventa-fm-909",
+    "name": "La Noventa FM 90.9",
+    "url": "http://emisiones.com.uy:8129/nove",
+    "genre": "Music",
+    "city": "San José de Mayo",
+    "country": "Uruguay",
+    "lat": -34.3396521,
+    "lng": -56.7143155
+  },
+  {
+    "id": "uruguay-maragata-fm-975",
+    "name": "Maragata FM 97.5",
+    "url": "https://streaming2.locucionar.com/proxy/maragata975?mp=/stream",
+    "genre": "Music",
+    "city": "San José de Mayo",
+    "country": "Uruguay",
+    "lat": -34.3396521,
+    "lng": -56.7143155
+  },
+  {
+    "id": "uruguay-san-jose-ahora-radio",
+    "name": "San José Ahora Radio",
+    "url": "https://radiosanjose-zikoxweb.radioca.st/stream",
+    "genre": "Music",
+    "city": "San José de Mayo",
+    "country": "Uruguay",
+    "lat": -34.3396521,
+    "lng": -56.7143155
+  },
+  {
+    "id": "uruguay-solari-radio-fm-907",
+    "name": "Solari Radio FM 90.7",
+    "url": "https://radiosolari-3.nty.uy/",
+    "genre": "Music",
+    "city": "La Paloma",
+    "country": "Uruguay",
+    "lat": -34.6631811,
+    "lng": -54.155092
+  },
+  {
+    "id": "uruguay-emisora-principal-1079-fm",
+    "name": "Emisora Principal 107.9 FM",
+    "url": "https://s7.myradiostream.com/:10764/index.html?sid=1",
+    "genre": "Music",
+    "city": "San José de Mayo",
+    "country": "Uruguay",
+    "lat": -34.3396521,
+    "lng": -56.7143155
+  },
+  {
+    "id": "uruguay-ruta-fm-935",
+    "name": "Ruta FM 93.5",
+    "url": "https://nazca.globalhost1.com:7040/index.html?sid=1",
+    "genre": "Music",
+    "city": "San José de Mayo",
+    "country": "Uruguay",
+    "lat": -34.3396521,
+    "lng": -56.7143155
+  },
+  {
+    "id": "uruguay-radio-empresaria-925",
+    "name": "Radio Empresaria 92.5",
+    "url": "https://ohradio.cc/8310/stream",
+    "genre": "Music",
+    "city": "Colonia del Sacramento",
+    "country": "Uruguay",
+    "lat": -34.4698592,
+    "lng": -57.8433679
+  },
+  {
+    "id": "uruguay-radio-cantilo-fm-1019",
+    "name": "Radio Cantilo FM 101.9",
+    "url": "https://01.solumedia.com.ar:7231/stream",
+    "genre": "Music",
+    "city": "Colonia del Sacramento",
+    "country": "Uruguay",
+    "lat": -34.4698592,
+    "lng": -57.8433679
+  },
+  {
+    "id": "uruguay-musica-en-el-aire",
+    "name": "Musica En El Aire",
+    "url": "https://server-usa2.radioseninternet.net:7047/index.html?sid=1",
+    "genre": "Music",
+    "city": "San José de Mayo",
+    "country": "Uruguay",
+    "lat": -34.3396521,
+    "lng": -56.7143155
+  },
+  {
+    "id": "uruguay-fm-mágica-935",
+    "name": "FM Mágica 93.5",
+    "url": "https://27383.live.streamtheworld.com:443/MAGICA.mp3",
+    "genre": "Music",
+    "city": "Colonia del Sacramento",
+    "country": "Uruguay",
+    "lat": -34.4698592,
+    "lng": -57.8433679
+  },
+  {
+    "id": "uruguay-radio-colonia-am-550",
+    "name": "Radio Colonia AM 550",
+    "url": "https://27383.live.streamtheworld.com:443/COLONIAAAC.aac",
+    "genre": "Music",
+    "city": "Colonia del Sacramento",
+    "country": "Uruguay",
+    "lat": -34.4698592,
+    "lng": -57.8433679
+  },
+  {
+    "id": "uruguay-cw54-emisora-del-este",
+    "name": "CW54 Emisora del Este",
+    "url": "http://usa15.ciudaddigital.com.uy:8076/EmisoraDelEste",
+    "genre": "Music",
+    "city": "Maldonado",
+    "country": "Uruguay",
+    "lat": -34.9087162,
+    "lng": -54.9582718
+  },
+  {
+    "id": "uruguay-fm-conquistador-973",
+    "name": "FM Conquistador 97.3",
+    "url": "http://198.204.234.10:8143/stream/1/",
+    "genre": "Music",
+    "city": "Treinta y Tres",
+    "country": "Uruguay",
+    "lat": -33.0,
+    "lng": -54.25
+  },
+  {
+    "id": "uruguay-onda-21",
+    "name": "Onda 21",
+    "url": "http://sseg.us:8136/stream",
+    "genre": "Music",
+    "city": "Salinas",
+    "country": "Uruguay",
+    "lat": -34.7818023,
+    "lng": -55.8370115
+  },
+  {
+    "id": "uruguay-fm-gente-1071",
+    "name": "FM Gente 107.1",
+    "url": "https://cast1.asurahosting.com/proxy/btsasalv/stream",
+    "genre": "Music",
+    "city": "Maldonado",
+    "country": "Uruguay",
+    "lat": -34.9087162,
+    "lng": -54.9582718
+  },
+  {
+    "id": "uruguay-radio-patria-am-1540",
+    "name": "Radio Patria AM 1540",
+    "url": "http://usa15.ciudaddigital.com.uy:8052/PatriaAM",
+    "genre": "Music",
+    "city": "Treinta y Tres",
+    "country": "Uruguay",
+    "lat": -33.0,
+    "lng": -54.25
+  },
+  {
+    "id": "uruguay-frecuencia-808",
+    "name": "Frecuencia 808",
+    "url": "https://stream.lacurulla.com/8030/stream",
+    "genre": "Music",
+    "city": "Salinas",
+    "country": "Uruguay",
+    "lat": -34.7818023,
+    "lng": -55.8370115
+  },
+  {
+    "id": "uruguay-radio-young-fm-945",
+    "name": "Radio Young FM 94.5",
+    "url": "http://emisiones.com.uy:8108/retorno",
+    "genre": "Music",
+    "city": "Young",
+    "country": "Uruguay",
+    "lat": -32.6995318,
+    "lng": -57.6341992
+  },
+  {
+    "id": "uruguay-radio-city-fm-951",
+    "name": "Radio City FM 95.1",
+    "url": "http://usa15.ciudaddigital.com.uy:8030/CityFM",
+    "genre": "Music",
+    "city": "Trinidad",
+    "country": "Uruguay",
+    "lat": -33.5173479,
+    "lng": -56.8979718
+  },
+  {
+    "id": "uruguay-radio-marindia-fm-889",
+    "name": "Radio Marindia FM 88.9",
+    "url": "https://radios.iwstreaming.uy/8004/stream",
+    "genre": "Music",
+    "city": "Salinas",
+    "country": "Uruguay",
+    "lat": -34.7818023,
+    "lng": -55.8370115
+  },
+  {
+    "id": "uruguay-difusora-treinta-y-tres-fm-943",
+    "name": "Difusora Treinta y Tres FM 94.3",
+    "url": "https://server-usa2.radioseninternet.net/8138/stream",
+    "genre": "Music",
+    "city": "Treinta y Tres",
+    "country": "Uruguay",
+    "lat": -33.0,
+    "lng": -54.25
+  },
+  {
+    "id": "uruguay-sur-fm-1071-fm",
+    "name": "Sur FM 107.1 FM",
+    "url": "https://dattavolt.com/8268/stream",
+    "genre": "Music",
+    "city": "Trinidad",
+    "country": "Uruguay",
+    "lat": -33.5173479,
+    "lng": -56.8979718
+  },
+  {
+    "id": "uruguay-fm-sapukay",
+    "name": "FM Sapukay",
+    "url": "https://server.radiostreaming.com.ar/8428/stream",
+    "genre": "Music",
+    "city": "Young",
+    "country": "Uruguay",
+    "lat": -32.6995318,
+    "lng": -57.6341992
+  },
+  {
+    "id": "uruguay-perfil-fm-909",
+    "name": "Perfil FM 90.9",
+    "url": "https://radiosar.com:8086/stream/",
+    "genre": "Music",
+    "city": "Treinta y Tres",
+    "country": "Uruguay",
+    "lat": -33.0,
+    "lng": -54.25
+  },
+  {
+    "id": "uruguay-luna-fm-933",
+    "name": "Luna FM 93.3",
+    "url": "https://radio.servidorstreaming.com/8012/stream",
+    "genre": "Music",
+    "city": "Young",
+    "country": "Uruguay",
+    "lat": -32.6995318,
+    "lng": -57.6341992
+  },
+  {
+    "id": "uruguay-radio-young-am-680",
+    "name": "Radio Young AM 680",
+    "url": "https://radio.servidorstreaming.com/8014/stream",
+    "genre": "Music",
+    "city": "Young",
+    "country": "Uruguay",
+    "lat": -32.6995318,
+    "lng": -57.6341992
+  },
+  {
+    "id": "uruguay-φradio",
+    "name": "Φ.Radio",
+    "url": "https://cruradio.stream.laut.fm/cruradio",
+    "genre": "Music",
+    "city": "Salinas",
+    "country": "Uruguay",
+    "lat": -34.7818023,
+    "lng": -55.8370115
+  },
+  {
+    "id": "uruguay-radio-cinco-fm-897",
+    "name": "Radio Cinco FM 89.7",
+    "url": "https://streaming6.locucionar.com:24454/stream",
+    "genre": "Music",
+    "city": "Trinidad",
+    "country": "Uruguay",
+    "lat": -33.5173479,
+    "lng": -56.8979718
+  }
+]

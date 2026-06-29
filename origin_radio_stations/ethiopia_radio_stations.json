@@ -1,0 +1,202 @@
+[
+  {
+    "id": "ethiopia-delta-fm-1017",
+    "name": "Delta FM 101.7",
+    "url": "http://168.119.10.136:7057/live",
+    "genre": "Music",
+    "city": "Bahir Dar",
+    "country": "Ethiopia",
+    "lat": 11.5949663,
+    "lng": 37.3882251
+  },
+  {
+    "id": "ethiopia-radio-ashe-illeret-953-fm",
+    "name": "Radio Ashe Illeret 95.3 FM",
+    "url": "http://uk3-vn.mixstream.net:8124/listen.mp3",
+    "genre": "Music",
+    "city": "Addis Ababa",
+    "country": "Ethiopia",
+    "lat": 9.0358287,
+    "lng": 38.7524127
+  },
+  {
+    "id": "ethiopia-sudan-hope-radio",
+    "name": "Sudan Hope Radio",
+    "url": "https://a1.asurahosting.com/listen/hope_radio_/radio.mp3",
+    "genre": "Music",
+    "city": "Bahir Dar",
+    "country": "Ethiopia",
+    "lat": 11.5949663,
+    "lng": 37.3882251
+  },
+  {
+    "id": "ethiopia-radio-aden-al-ghad",
+    "name": "Radio Aden al-Ghad",
+    "url": "https://r.fm-radio.net/adengad",
+    "genre": "Music",
+    "city": "Bahir Dar",
+    "country": "Ethiopia",
+    "lat": 11.5949663,
+    "lng": 37.3882251
+  },
+  {
+    "id": "ethiopia-menahria-991-fm",
+    "name": "Menahria 99.1 FM",
+    "url": "https://stream-151.zeno.fm/yw8poig9iwtuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5dzhwb2lnOWl3dHV2IiwiaG9zdCI6InN0cmVhbS0xNTEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiYl9SWEtIaUZTbWlZeS00cXUteU05QSIsImlhdCI6MTc2OTQxODQyNSwiZXhwIjoxNzY5NDE4NDg1fQ.tNKtYTl72q7m5Tj5hcTSRcgxe2I_PdEFpC5_Ko3EKMo",
+    "genre": "Music",
+    "city": "Addis Ababa",
+    "country": "Ethiopia",
+    "lat": 9.0358287,
+    "lng": 38.7524127
+  },
+  {
+    "id": "ethiopia-arada-fm-951",
+    "name": "Arada FM 95.1",
+    "url": "https://stream-154.zeno.fm/6immfxu3d5lvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2aW1tZnh1M2Q1bHZ2IiwiaG9zdCI6InN0cmVhbS0xNTQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiNzAyUkZZelNSR2E0SXVCYUFMdThydyIsImlhdCI6MTc2OTQxODQyNSwiZXhwIjoxNzY5NDE4NDg1fQ.KAa91cOjMm2Y6oXrV9VVoPMoR6x2gZkRv8iPKvqeuvg",
+    "genre": "Music",
+    "city": "Addis Ababa",
+    "country": "Ethiopia",
+    "lat": 9.0358287,
+    "lng": 38.7524127
+  },
+  {
+    "id": "ethiopia-fm-addis-971",
+    "name": "FM Addis 97.1",
+    "url": "https://stream-153.zeno.fm/rb6wbrap7yzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJyYjZ3YnJhcDd5enV2IiwiaG9zdCI6InN0cmVhbS0xNTMuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoidDZwRU1JX2tRT0twZS1KUGVPWE9BUSIsImlhdCI6MTc2OTQxODQyNSwiZXhwIjoxNzY5NDE4NDg1fQ.J_tYUohkZPq0ZgyP3nm1xBrNyNW7YsbXAVJ8O6oJKfA",
+    "genre": "Music",
+    "city": "Addis Ababa",
+    "country": "Ethiopia",
+    "lat": 9.0358287,
+    "lng": 38.7524127
+  },
+  {
+    "id": "ethiopia-ejok-fm-879",
+    "name": "Ejok FM 87.9",
+    "url": "https://stream-162.zeno.fm/b9u3fbs4kuhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJiOXUzZmJzNGt1aHZ2IiwiaG9zdCI6InN0cmVhbS0xNjIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiMlhURTd6UzRRQUtqNWFtVXlYWTFodyIsImlhdCI6MTc2OTQxODQyNSwiZXhwIjoxNzY5NDE4NDg1fQ.HP5XDuL8PjN4Yz6aLGLXpx-7qQ3eNZS5bbdtq8uLlMk",
+    "genre": "Music",
+    "city": "Addis Ababa",
+    "country": "Ethiopia",
+    "lat": 9.0358287,
+    "lng": 38.7524127
+  },
+  {
+    "id": "ethiopia-radio-jangwani-fm-1063",
+    "name": "Radio Jangwani FM 106.3",
+    "url": "https://stream-175.zeno.fm/58y70ewrqkeuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI1OHk3MGV3cnFrZXV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiT01POHFaY1hSaC02LWVHZ3FXa3h2USIsImlhdCI6MTc2OTQxODQyNSwiZXhwIjoxNzY5NDE4NDg1fQ.9e_rmYIYmKQbycva97kRBSOYjldWFRT36_xdPjo39Bk",
+    "genre": "Music",
+    "city": "Addis Ababa",
+    "country": "Ethiopia",
+    "lat": 9.0358287,
+    "lng": 38.7524127
+  },
+  {
+    "id": "ethiopia-amhara-fm-bahir-dar-969",
+    "name": "Amhara FM Bahir Dar 96.9",
+    "url": "https://stream-176.zeno.fm/cxf4zy74em0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjeGY0enk3NGVtMHV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiNnUyQW05ZGpTZE8zY3dZVkpGZmVQdyIsImlhdCI6MTc2OTQxODQyNSwiZXhwIjoxNzY5NDE4NDg1fQ.fRkaH0lFend7mJ9-gnaXuy_WNV3acl--7DtCI8iHzZw",
+    "genre": "Music",
+    "city": "Addis Ababa",
+    "country": "Ethiopia",
+    "lat": 9.0358287,
+    "lng": 38.7524127
+  },
+  {
+    "id": "ethiopia-lana-fm-919",
+    "name": "Lana FM 91.9",
+    "url": "https://stream-179.zeno.fm/5dz0pbz258quv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI1ZHowcGJ6MjU4cXV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiQTh5QUNWTU5Tcks0YS1sY2NKMlgtQSIsImlhdCI6MTc2OTQxODQyNSwiZXhwIjoxNzY5NDE4NDg1fQ.dIgQ6BDB6TIrM1TIqubrd_xggp93Ndyle0Ds1-j6qYo",
+    "genre": "Music",
+    "city": "Addis Ababa",
+    "country": "Ethiopia",
+    "lat": 9.0358287,
+    "lng": 38.7524127
+  },
+  {
+    "id": "ethiopia-ebc-1047-fm",
+    "name": "EBC 104.7 FM",
+    "url": "https://stream-153.zeno.fm/2xguamap7yzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIyeGd1YW1hcDd5enV2IiwiaG9zdCI6InN0cmVhbS0xNTMuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiWEhXb0pzNmJSYXlCdFBmbEg0VzBBZyIsImlhdCI6MTc2OTQxODQyNSwiZXhwIjoxNzY5NDE4NDg1fQ.W452FvJjQInwkYey5O0QOskmY5lse32XbLPnMJZtW2Y",
+    "genre": "Music",
+    "city": "Addis Ababa",
+    "country": "Ethiopia",
+    "lat": 9.0358287,
+    "lng": 38.7524127
+  },
+  {
+    "id": "ethiopia-taem-radio-ጣዕም-ሬድዮ",
+    "name": "Taem Radio ጣዕም ሬድዮ",
+    "url": "https://stream-152.zeno.fm/ffg8htkh1k0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJmZmc4aHRraDFrMHV2IiwiaG9zdCI6InN0cmVhbS0xNTIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiUWRkcGxnaDhSVkNZTnZSLUhuczZIdyIsImlhdCI6MTc2OTQxODQyNSwiZXhwIjoxNzY5NDE4NDg1fQ.vAhvldXZSQxZhDEuE3aR-S_HC3sE2HiQYPSKjEoFUgM",
+    "genre": "Music",
+    "city": "Bahir Dar",
+    "country": "Ethiopia",
+    "lat": 11.5949663,
+    "lng": 37.3882251
+  },
+  {
+    "id": "ethiopia-ethio-fm-1078",
+    "name": "Ethio FM 107.8",
+    "url": "https://stream-157.zeno.fm/72y045deqeruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI3MnkwNDVkZXFlcnV2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoidHBrcm8yZkpRVTZBbkxtTlJ0am4ydyIsImlhdCI6MTc2OTQxODQyNSwiZXhwIjoxNzY5NDE4NDg1fQ.z8fhv07vB4ka_UdIad01JXs9-m-PAnW4n6vehHHdTmg",
+    "genre": "Music",
+    "city": "Addis Ababa",
+    "country": "Ethiopia",
+    "lat": 9.0358287,
+    "lng": 38.7524127
+  },
+  {
+    "id": "ethiopia-ahadu-radio-fm-943",
+    "name": "Ahadu Radio FM 94.3",
+    "url": "https://stream-152.zeno.fm/txxpndf1wwzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0eHhwbmRmMXd3enV2IiwiaG9zdCI6InN0cmVhbS0xNTIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoia3hHaVYzY0pRSUNhZ2R6dnRqRlVOQSIsImlhdCI6MTc2OTQxODQyNSwiZXhwIjoxNzY5NDE4NDg1fQ.8iAv1mqsIuFeMTvb-xnq91-yeIiyuHn7IMiLopd0Dag",
+    "genre": "Music",
+    "city": "Addis Ababa",
+    "country": "Ethiopia",
+    "lat": 9.0358287,
+    "lng": 38.7524127
+  },
+  {
+    "id": "ethiopia-tirita-976-fm",
+    "name": "Tirita 97.6 FM",
+    "url": "https://stream-157.zeno.fm/x751reg18zhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ4NzUxcmVnMTh6aHZ2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiMnFKYk8zWEhTVS1ja0UzZG5nb01mdyIsImlhdCI6MTc2OTQxODQyNSwiZXhwIjoxNzY5NDE4NDg1fQ.1fmY0M9HjauLy3BTyYonYjOcNwv16-DGnImuawlypdo",
+    "genre": "Music",
+    "city": "Addis Ababa",
+    "country": "Ethiopia",
+    "lat": 9.0358287,
+    "lng": 38.7524127
+  },
+  {
+    "id": "ethiopia-ameco-debre-birhan-fm-914",
+    "name": "Ameco Debre Birhan FM 91.4",
+    "url": "https://stream-179.zeno.fm/eq5nw5e8vp8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJlcTVudzVlOHZwOHV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiUE0tVDNYMTdUZjJYOVVBd1o0R3JydyIsImlhdCI6MTc2OTQxODQyNSwiZXhwIjoxNzY5NDE4NDg1fQ.ULZgChwotdtMoGKsyF-aNWgFELF0a-QyX-IAX48JgKg",
+    "genre": "Music",
+    "city": "Debre Birhan",
+    "country": "Ethiopia",
+    "lat": 9.6752117,
+    "lng": 39.5324899
+  },
+  {
+    "id": "ethiopia-የሸገር-sheger-fm-1021",
+    "name": "የሸገር Sheger FM 102.1",
+    "url": "https://stream-140.zeno.fm/s7scdp65puquv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzN3NjZHA2NXB1cXV2IiwiaG9zdCI6InN0cmVhbS0xNDAuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiakJTN2F4YmpSdXlCTWJ2dE9ocUZuZyIsImlhdCI6MTc2OTQxODQyNSwiZXhwIjoxNzY5NDE4NDg1fQ.znXGknYD8T6LjsDayJYEamdSylBy03x_-p6w5aAQjDw",
+    "genre": "Music",
+    "city": "Addis Ababa",
+    "country": "Ethiopia",
+    "lat": 9.0358287,
+    "lng": 38.7524127
+  },
+  {
+    "id": "ethiopia-bisrat-fm-1011",
+    "name": "Bisrat FM 101.1",
+    "url": "https://bisratfm-atunwadigital.streamguys1.com/bisratfm",
+    "genre": "Music",
+    "city": "Addis Ababa",
+    "country": "Ethiopia",
+    "lat": 9.0358287,
+    "lng": 38.7524127
+  },
+  {
+    "id": "ethiopia-❦-أهل-الصفا-❦-clubhouse",
+    "name": "❦ أهل الصفا ❦ Clubhouse",
+    "url": "https://tijaniyyah.asuscomm.com:8000/stream/4/",
+    "genre": "Music",
+    "city": "Bahir Dar",
+    "country": "Ethiopia",
+    "lat": 11.5949663,
+    "lng": 37.3882251
+  }
+]

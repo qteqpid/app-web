@@ -1,0 +1,432 @@
+[
+  {
+    "id": "pakistan-fm-107-karachi",
+    "name": "FM 107 Karachi",
+    "url": "http://72.255.62.220:7070/live107",
+    "genre": "Music",
+    "city": "Karachi",
+    "country": "Pakistan",
+    "lat": 24.8546842,
+    "lng": 67.0207055
+  },
+  {
+    "id": "pakistan-akhand-path-radio",
+    "name": "Akhand Path Radio",
+    "url": "http://radio.punjabrocks.com:9968/;.mp3",
+    "genre": "Music",
+    "city": "Islamabad",
+    "country": "Pakistan",
+    "lat": 33.6938118,
+    "lng": 73.0651511
+  },
+  {
+    "id": "pakistan-bol-fm-88",
+    "name": "Bol FM 88",
+    "url": "https://stream.reinflux.com/radio/8050/radio.mp3",
+    "genre": "Music",
+    "city": "Islamabad",
+    "country": "Pakistan",
+    "lat": 33.6938118,
+    "lng": 73.0651511
+  },
+  {
+    "id": "pakistan-radio-pakistan-fm93",
+    "name": "Radio Pakistan FM93",
+    "url": "https://whmsonic.radio.gov.pk:8022/relay/",
+    "genre": "Music",
+    "city": "Islamabad",
+    "country": "Pakistan",
+    "lat": 33.6938118,
+    "lng": 73.0651511
+  },
+  {
+    "id": "pakistan-fm-101",
+    "name": "FM-101",
+    "url": "https://whmsonic.radio.gov.pk:8024/relay/",
+    "genre": "Music",
+    "city": "Islamabad",
+    "country": "Pakistan",
+    "lat": 33.6938118,
+    "lng": 73.0651511
+  },
+  {
+    "id": "pakistan-dhanak",
+    "name": "Dhanak",
+    "url": "https://whmsonic.radio.gov.pk:7007/stream/",
+    "genre": "Music",
+    "city": "Islamabad",
+    "country": "Pakistan",
+    "lat": 33.6938118,
+    "lng": 73.0651511
+  },
+  {
+    "id": "pakistan-saut-ul-quran-934-fm",
+    "name": "Saut-ul-Quran 93.4 FM",
+    "url": "https://whmsonic.radio.gov.pk:7002/stream/",
+    "genre": "Music",
+    "city": "Islamabad",
+    "country": "Pakistan",
+    "lat": 33.6938118,
+    "lng": 73.0651511
+  },
+  {
+    "id": "pakistan-fm-93-karachi",
+    "name": "FM 93 Karachi",
+    "url": "https://whmsonic.radio.gov.pk:7022/stream/",
+    "genre": "Music",
+    "city": "Karachi",
+    "country": "Pakistan",
+    "lat": 24.8546842,
+    "lng": 67.0207055
+  },
+  {
+    "id": "pakistan-fm-101-islamabad",
+    "name": "FM 101 Islamabad",
+    "url": "https://whmsonic.radio.gov.pk:7008/stream/",
+    "genre": "Music",
+    "city": "Islamabad",
+    "country": "Pakistan",
+    "lat": 33.6938118,
+    "lng": 73.0651511
+  },
+  {
+    "id": "pakistan-fm-101-multan",
+    "name": "FM-101 Multan",
+    "url": "https://whmsonic.radio.gov.pk:7014/stream/",
+    "genre": "Music",
+    "city": "Islamabad",
+    "country": "Pakistan",
+    "lat": 33.6938118,
+    "lng": 73.0651511
+  },
+  {
+    "id": "pakistan-humfm106",
+    "name": "HumFm106",
+    "url": "https://server.mediacast4u.stream/8002/stream",
+    "genre": "Music",
+    "city": "Islamabad",
+    "country": "Pakistan",
+    "lat": 33.6938118,
+    "lng": 73.0651511
+  },
+  {
+    "id": "pakistan-doaba-radio",
+    "name": "Doaba Radio",
+    "url": "https://cast5.asurahosting.com/proxy/doabarad/stream",
+    "genre": "Music",
+    "city": "Islamabad",
+    "country": "Pakistan",
+    "lat": 33.6938118,
+    "lng": 73.0651511
+  },
+  {
+    "id": "pakistan-1000-fm",
+    "name": "100.0 FM",
+    "url": "https://cast4.servcast.net/proxy/karachi/stream?ver=776520",
+    "genre": "Music",
+    "city": "Karachi",
+    "country": "Pakistan",
+    "lat": 24.8546842,
+    "lng": 67.0207055
+  },
+  {
+    "id": "pakistan-radio-sharda",
+    "name": "Radio Sharda",
+    "url": "http://s8.voscast.com:7738/index.html?sid=1",
+    "genre": "Music",
+    "city": "Islamabad",
+    "country": "Pakistan",
+    "lat": 33.6938118,
+    "lng": 73.0651511
+  },
+  {
+    "id": "pakistan-junagadh-janvani-912-fm",
+    "name": "Junagadh Janvani 91.2 FM",
+    "url": "https://stream.dbhatt.org/radio/8020/junagadh_janvani.mp3",
+    "genre": "Music",
+    "city": "Karachi",
+    "country": "Pakistan",
+    "lat": 24.8546842,
+    "lng": 67.0207055
+  },
+  {
+    "id": "pakistan-mera-fm-1074",
+    "name": "Mera FM 107.4",
+    "url": "https://samaakhi107-itelservices.radioca.st/stream",
+    "genre": "Music",
+    "city": "Islamabad",
+    "country": "Pakistan",
+    "lat": 33.6938118,
+    "lng": 73.0651511
+  },
+  {
+    "id": "pakistan-swaminarayan-kirtan",
+    "name": "Swaminarayan Kirtan",
+    "url": "https://radio.nnd.media/listen/swaminarayan_kirtan/Kirtan.mp3",
+    "genre": "Music",
+    "city": "Karachi",
+    "country": "Pakistan",
+    "lat": 24.8546842,
+    "lng": 67.0207055
+  },
+  {
+    "id": "pakistan-city-fm-890",
+    "name": "City FM 89.0",
+    "url": "https://radio.cityfm89.com/stream",
+    "genre": "Music",
+    "city": "Karachi",
+    "country": "Pakistan",
+    "lat": 24.8546842,
+    "lng": 67.0207055
+  },
+  {
+    "id": "pakistan-valley-fm-103",
+    "name": "Valley FM 103",
+    "url": "https://stream-178.zeno.fm/s96ccqggr2zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzOTZjY3FnZ3IyenV2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiV0ZZSWRjMjRReENaVnZhVDRzM2JwUSIsImlhdCI6MTc2OTQyMTYxNSwiZXhwIjoxNzY5NDIxNjc1fQ.vr1siCSufm6FE6Ff9jquwKMyUGHlIDBbncbHmj5QWS8",
+    "genre": "Music",
+    "city": "Islamabad",
+    "country": "Pakistan",
+    "lat": 33.6938118,
+    "lng": 73.0651511
+  },
+  {
+    "id": "pakistan-radio-rajkot-896-fm",
+    "name": "Radio Rajkot 89.6 FM",
+    "url": "https://a13.asurahosting.com/listen/89.6_radio_rajkot/radio.mp3",
+    "genre": "Music",
+    "city": "Karachi",
+    "country": "Pakistan",
+    "lat": 24.8546842,
+    "lng": 67.0207055
+  },
+  {
+    "id": "pakistan-bhuj-mandir-radio",
+    "name": "Bhuj Mandir Radio",
+    "url": "https://radio.bhujmandir.org/stream/9/",
+    "genre": "Music",
+    "city": "Karachi",
+    "country": "Pakistan",
+    "lat": 24.8546842,
+    "lng": 67.0207055
+  },
+  {
+    "id": "pakistan-taal-radio",
+    "name": "Taal Radio",
+    "url": "http://radio.punjabrocks.com:9998/index.html?sid=1",
+    "genre": "Music",
+    "city": "Lahore",
+    "country": "Pakistan",
+    "lat": 31.5656822,
+    "lng": 74.3141829
+  },
+  {
+    "id": "pakistan-radio-madhuban-1078-fm",
+    "name": "Radio Madhuban 107.8 FM",
+    "url": "https://icecast.bkwsu.eu/radiomadhuban.mp3",
+    "genre": "Music",
+    "city": "Karachi",
+    "country": "Pakistan",
+    "lat": 24.8546842,
+    "lng": 67.0207055
+  },
+  {
+    "id": "pakistan-god-stands-tv-radio",
+    "name": "God Stands TV Radio",
+    "url": "https://radio.godstands.tv:8443/stream",
+    "genre": "Music",
+    "city": "Lahore",
+    "country": "Pakistan",
+    "lat": 31.5656822,
+    "lng": 74.3141829
+  },
+  {
+    "id": "pakistan-fm-101-hyderabad",
+    "name": "FM 101 Hyderabad",
+    "url": "https://whmsonic.radio.gov.pk:8044/stream/",
+    "genre": "Music",
+    "city": "Hyderabad",
+    "country": "Pakistan",
+    "lat": 25.3868287,
+    "lng": 68.3714971
+  },
+  {
+    "id": "pakistan-akathkatha",
+    "name": "Akathkatha",
+    "url": "https://cast1.my-control-panel.com/proxy/akath/stream",
+    "genre": "Music",
+    "city": "Lahore",
+    "country": "Pakistan",
+    "lat": 31.5656822,
+    "lng": 74.3141829
+  },
+  {
+    "id": "pakistan-quran-radio",
+    "name": "Quran Radio",
+    "url": "http://s2.reliastream.com:8239/Tune-In%20Links/",
+    "genre": "Music",
+    "city": "Multan",
+    "country": "Pakistan",
+    "lat": 30.197838,
+    "lng": 71.4719683
+  },
+  {
+    "id": "pakistan-am-1170",
+    "name": "AM 1170",
+    "url": "https://whmsonic.radio.gov.pk:8072/relay/",
+    "genre": "Music",
+    "city": "Peshawar",
+    "country": "Pakistan",
+    "lat": 34.0123846,
+    "lng": 71.5787458
+  },
+  {
+    "id": "pakistan-fm-88-chiltan",
+    "name": "FM 88 Chiltan",
+    "url": "http://5.9.71.122:8284/layer",
+    "genre": "Music",
+    "city": "Quetta",
+    "country": "Pakistan",
+    "lat": 30.1916268,
+    "lng": 67.0007561
+  },
+  {
+    "id": "pakistan-fm1015-peshawar",
+    "name": "FM101.5 Peshawar",
+    "url": "https://whmsonic.radio.gov.pk:8070/relay/",
+    "genre": "Music",
+    "city": "Peshawar",
+    "country": "Pakistan",
+    "lat": 34.0123846,
+    "lng": 71.5787458
+  },
+  {
+    "id": "pakistan-desi-world-radio",
+    "name": "Desi World Radio",
+    "url": "https://stream-152.zeno.fm/4mbfcn4mf24tv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0bWJmY240bWYyNHR2IiwiaG9zdCI6InN0cmVhbS0xNTIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoieVV4aldkXzZRRktkSkxJLXh0WmRsQSIsImlhdCI6MTc2OTQyMTYxNywiZXhwIjoxNzY5NDIxNjc3fQ.hS8mqLvwfJTKHZOorUx1pMkB2zy-S2OQxWf3W0P5xVc",
+    "genre": "Music",
+    "city": "Lahore",
+    "country": "Pakistan",
+    "lat": 31.5656822,
+    "lng": 74.3141829
+  },
+  {
+    "id": "pakistan-mohabbat-radio",
+    "name": "Mohabbat Radio",
+    "url": "https://stream-142.zeno.fm/t2ekq8zsgtzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0MmVrcTh6c2d0enV2IiwiaG9zdCI6InN0cmVhbS0xNDIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiQ1pBOVRMYjRSRlNKV3pxalZnVEsydyIsImlhdCI6MTc2OTQyMTYxNywiZXhwIjoxNzY5NDIxNjc3fQ.BWPcMDbxcBAmGwFDgHJR10tV-wzor_zBT9G4AyKgw50",
+    "genre": "Music",
+    "city": "Lahore",
+    "country": "Pakistan",
+    "lat": 31.5656822,
+    "lng": 74.3141829
+  },
+  {
+    "id": "pakistan-fm-101-quetta",
+    "name": "FM 101 Quetta",
+    "url": "https://whmsonic.radio.gov.pk:8058/stream/",
+    "genre": "Music",
+    "city": "Quetta",
+    "country": "Pakistan",
+    "lat": 30.1916268,
+    "lng": 67.0007561
+  },
+  {
+    "id": "pakistan-live-gurbani-radio",
+    "name": "Live Gurbani Radio",
+    "url": "https://stream-151.zeno.fm/r3m0whh0kxquv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJyM20wd2hoMGt4cXV2IiwiaG9zdCI6InN0cmVhbS0xNTEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiOUM4SExuUVVSdlMyV0FoM014SlliQSIsImlhdCI6MTc2OTQyMTYxNywiZXhwIjoxNzY5NDIxNjc3fQ.Dy0WOpqw-niJrd5l_HDbhuEOEfwxaPSIEryhezjt614",
+    "genre": "Music",
+    "city": "Faisalabad",
+    "country": "Pakistan",
+    "lat": 31.4220558,
+    "lng": 73.0923253
+  },
+  {
+    "id": "pakistan-fm-101-sargodha",
+    "name": "FM 101 Sargodha",
+    "url": "https://whmsonic.radio.gov.pk:8040/relay/",
+    "genre": "Music",
+    "city": "Sargodha",
+    "country": "Pakistan",
+    "lat": 32.0836514,
+    "lng": 72.676461
+  },
+  {
+    "id": "pakistan-fm-97",
+    "name": "FM 97",
+    "url": "http://s7.reliastream.com:8218/Tune-In%20Links/",
+    "genre": "Music",
+    "city": "Mianwali",
+    "country": "Pakistan",
+    "lat": 32.5793897,
+    "lng": 71.5353168
+  },
+  {
+    "id": "pakistan-sikh-katha-radio",
+    "name": "Sikh Katha Radio",
+    "url": "http://radio.punjabrocks.com:9978/;.mp3",
+    "genre": "Music",
+    "city": "Muzaffarabad",
+    "country": "Pakistan",
+    "lat": 34.3734751,
+    "lng": 73.4702407
+  },
+  {
+    "id": "pakistan-fm-101-mianwali",
+    "name": "FM 101 Mianwali",
+    "url": "https://whmsonic.radio.gov.pk:8028/relay/",
+    "genre": "Music",
+    "city": "Mianwali",
+    "country": "Pakistan",
+    "lat": 32.5793897,
+    "lng": 71.5353168
+  },
+  {
+    "id": "pakistan-radio-fm-world-pakistan",
+    "name": "Radio FM World Pakistan",
+    "url": "https://stream-179.zeno.fm/tty4gmu30ehvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0dHk0Z211MzBlaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoicmFOSzJ1NUFTNlNsNlV3NVVTX19mQSIsImlhdCI6MTc2OTQyMTYxOCwiZXhwIjoxNzY5NDIxNjc4fQ.b0O-6LQzp4pfFGpLTDShaKMtCTVp4WK7zYrsX3T-4M4",
+    "genre": "Music",
+    "city": "Peshawar",
+    "country": "Pakistan",
+    "lat": 34.0123846,
+    "lng": 71.5787458
+  },
+  {
+    "id": "pakistan-ncac-news-and-current-affairs-channel",
+    "name": "NCAC News and Current affairs channel",
+    "url": "https://whmsonic.radio.gov.pk:7004/stream/",
+    "genre": "Music",
+    "city": "Mianwali",
+    "country": "Pakistan",
+    "lat": 32.5793897,
+    "lng": 71.5353168
+  },
+  {
+    "id": "pakistan-jeay-fm-88",
+    "name": "Jeay FM 88",
+    "url": "https://ssl.rockhost.com/proxy/sukkur?mp=/stream",
+    "genre": "Music",
+    "city": "Sukkur",
+    "country": "Pakistan",
+    "lat": 27.7007522,
+    "lng": 68.8663081
+  },
+  {
+    "id": "pakistan-shopen-anime-radio",
+    "name": "Shopen Anime Radio",
+    "url": "https://s97.radiolize.com:8040/radio.mp3",
+    "genre": "Music",
+    "city": "Lahore",
+    "country": "Pakistan",
+    "lat": 31.5656822,
+    "lng": 74.3141829
+  },
+  {
+    "id": "pakistan-marwar-radio",
+    "name": "Marwar Radio",
+    "url": "https://stream-162.zeno.fm/vq6p5vxb4v8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2cTZwNXZ4YjR2OHV2IiwiaG9zdCI6InN0cmVhbS0xNjIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiVzVtSFpjMktTc3VGMVI1TVdTOURhdyIsImlhdCI6MTc2OTQyMTYxOSwiZXhwIjoxNzY5NDIxNjc5fQ.zpUdh0iw4_53j0ARaTTGDIuJXzLURxQZKwbaEgqt16w",
+    "genre": "Music",
+    "city": "Sukkur",
+    "country": "Pakistan",
+    "lat": 27.7007522,
+    "lng": 68.8663081
+  }
+]

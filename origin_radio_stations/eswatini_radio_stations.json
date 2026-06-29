@@ -1,0 +1,82 @@
+[
+  {
+    "id": "eswatini-ebis-2-fm",
+    "name": "EBIS 2 FM",
+    "url": "http://ebisradio.zapto.org:8002/stream",
+    "genre": "Music",
+    "city": "Manzini",
+    "country": "Eswatini",
+    "lat": -26.4976444,
+    "lng": 31.3750815
+  },
+  {
+    "id": "eswatini-ebis-1-fm",
+    "name": "EBIS 1 FM",
+    "url": "http://ebisradio.zapto.org:8000/stream",
+    "genre": "Music",
+    "city": "Manzini",
+    "country": "Eswatini",
+    "lat": -26.4976444,
+    "lng": 31.3750815
+  },
+  {
+    "id": "eswatini-hfm964",
+    "name": "HFM964",
+    "url": "https://edge.iono.fm/xice/327_medium.mp3",
+    "genre": "Music",
+    "city": "Manzini",
+    "country": "Eswatini",
+    "lat": -26.4976444,
+    "lng": 31.3750815
+  },
+  {
+    "id": "eswatini-kosmos-fm-993",
+    "name": "Kosmos FM 99.3",
+    "url": "https://edge.iono.fm/xice/296_medium.aac",
+    "genre": "Music",
+    "city": "Manzini",
+    "country": "Eswatini",
+    "lat": -26.4976444,
+    "lng": 31.3750815
+  },
+  {
+    "id": "eswatini-voc-fm-siswati",
+    "name": "VOC FM Siswati",
+    "url": "https://edge.iono.fm/xice/350_high.aac",
+    "genre": "Music",
+    "city": "Manzini",
+    "country": "Eswatini",
+    "lat": -26.4976444,
+    "lng": 31.3750815
+  },
+  {
+    "id": "eswatini-voc-fm-english-102-fm",
+    "name": "VOC FM English 102 FM",
+    "url": "https://edge.iono.fm/xice/352_medium.aac",
+    "genre": "Music",
+    "city": "Manzini",
+    "country": "Eswatini",
+    "lat": -26.4976444,
+    "lng": 31.3750815
+  },
+  {
+    "id": "eswatini-naas-top-stereo",
+    "name": "Naas Top Stereo",
+    "url": "https://live.exertion.in/radio/8070/radio.mp3",
+    "genre": "Music",
+    "city": "Manzini",
+    "country": "Eswatini",
+    "lat": -26.4976444,
+    "lng": 31.3750815
+  },
+  {
+    "id": "eswatini-ub-fm-live",
+    "name": "UB FM Live",
+    "url": "https://stream.hero24.org:7098/stream",
+    "genre": "Music",
+    "city": "Manzini",
+    "country": "Eswatini",
+    "lat": -26.4976444,
+    "lng": 31.3750815
+  }
+]

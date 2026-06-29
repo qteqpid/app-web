@@ -1,0 +1,1272 @@
+[
+  {
+    "id": "ecuador-ecuador-activo",
+    "name": "Ecuador Activo",
+    "url": "http://5.135.183.124:8233/stream",
+    "genre": "Music",
+    "city": "Quito",
+    "country": "Ecuador",
+    "lat": -0.2201641,
+    "lng": -78.5123274
+  },
+  {
+    "id": "ecuador-radio-sonorama",
+    "name": "Radio Sonorama",
+    "url": "https://radio.kapchosting.com/8080/stream",
+    "genre": "Music",
+    "city": "Quito",
+    "country": "Ecuador",
+    "lat": -0.2201641,
+    "lng": -78.5123274
+  },
+  {
+    "id": "ecuador-indoamerica-radio-905-fm",
+    "name": "Indoamerica Radio 90.5 FM",
+    "url": "https://rr5100.globalhost1.com/8260/stream",
+    "genre": "Music",
+    "city": "Quito",
+    "country": "Ecuador",
+    "lat": -0.2201641,
+    "lng": -78.5123274
+  },
+  {
+    "id": "ecuador-radio-pichincha-953-fm",
+    "name": "Radio Pichincha 95.3 FM",
+    "url": "https://icecast.radiopichincha.com/radiopichincha",
+    "genre": "Music",
+    "city": "Quito",
+    "country": "Ecuador",
+    "lat": -0.2201641,
+    "lng": -78.5123274
+  },
+  {
+    "id": "ecuador-radio-energia-fm",
+    "name": "Radio Energia FM",
+    "url": "https://servers58.com/proxy/energiafm/stream",
+    "genre": "Music",
+    "city": "Quito",
+    "country": "Ecuador",
+    "lat": -0.2201641,
+    "lng": -78.5123274
+  },
+  {
+    "id": "ecuador-color-stereo-1053-fm",
+    "name": "Color Stereo 105.3 FM",
+    "url": "https://cloudstream2032.conectarhosting.com/9470/stream",
+    "genre": "Music",
+    "city": "Quito",
+    "country": "Ecuador",
+    "lat": -0.2201641,
+    "lng": -78.5123274
+  },
+  {
+    "id": "ecuador-radio-intag-967-fm",
+    "name": "Radio Intag 96.7 FM",
+    "url": "https://aler.org:8445/radiointag.ogg",
+    "genre": "Music",
+    "city": "Quito",
+    "country": "Ecuador",
+    "lat": -0.2201641,
+    "lng": -78.5123274
+  },
+  {
+    "id": "ecuador-majestad-fm-897",
+    "name": "Majestad FM 89.7",
+    "url": "https://sonicpanel.tmcreativos.com/8084/stream",
+    "genre": "Music",
+    "city": "Quito",
+    "country": "Ecuador",
+    "lat": -0.2201641,
+    "lng": -78.5123274
+  },
+  {
+    "id": "ecuador-hchv-zaracay-fm-1005",
+    "name": "HCHV Zaracay FM 100.5",
+    "url": "https://stream-148.zeno.fm/as3xhhc0ts8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJhczN4aGhjMHRzOHV2IiwiaG9zdCI6InN0cmVhbS0xNDguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoidnJIOHZHeGxSRE8tNlFVT3Y3ZURmdyIsImlhdCI6MTc2OTQxODIwOSwiZXhwIjoxNzY5NDE4MjY5fQ.lVjcxBmpfx6yPctIyXCeJI-CaoEwhPulfH4n3EKFTS0",
+    "genre": "Music",
+    "city": "Quito",
+    "country": "Ecuador",
+    "lat": -0.2201641,
+    "lng": -78.5123274
+  },
+  {
+    "id": "ecuador-radio-bacan-stereo",
+    "name": "Radio Bacan Stereo",
+    "url": "https://cloudstream2032.conectarhosting.com/8034/stream/",
+    "genre": "Music",
+    "city": "Guayaquil",
+    "country": "Ecuador",
+    "lat": -2.1900572,
+    "lng": -79.8868669
+  },
+  {
+    "id": "ecuador-fm-mundo-981",
+    "name": "FM Mundo 98.1",
+    "url": "https://streamingecuador.com:9810/stream",
+    "genre": "Music",
+    "city": "Quito",
+    "country": "Ecuador",
+    "lat": -0.2201641,
+    "lng": -78.5123274
+  },
+  {
+    "id": "ecuador-radio-platinum-fm-909",
+    "name": "Radio Platinum FM 90.9",
+    "url": "https://streamingecuador.com:8160/radioplatinum",
+    "genre": "Music",
+    "city": "Quito",
+    "country": "Ecuador",
+    "lat": -0.2201641,
+    "lng": -78.5123274
+  },
+  {
+    "id": "ecuador-egc-radio-1075-fm",
+    "name": "EGC Radio 107.5 FM",
+    "url": "https://ic2.streaminglatam.com:8080/grancolombia",
+    "genre": "Music",
+    "city": "Quito",
+    "country": "Ecuador",
+    "lat": -0.2201641,
+    "lng": -78.5123274
+  },
+  {
+    "id": "ecuador-jc-radio-la-bruja",
+    "name": "JC Radio La Bruja",
+    "url": "https://s7.yesstreaming.net:8040/stream",
+    "genre": "Music",
+    "city": "Quito",
+    "country": "Ecuador",
+    "lat": -0.2201641,
+    "lng": -78.5123274
+  },
+  {
+    "id": "ecuador-radio-caravana",
+    "name": "Radio Caravana",
+    "url": "https://streamingecuador.com:8006/radiocaravana",
+    "genre": "Music",
+    "city": "Quito",
+    "country": "Ecuador",
+    "lat": -0.2201641,
+    "lng": -78.5123274
+  },
+  {
+    "id": "ecuador-radio-cultura-fm-1009",
+    "name": "Radio Cultura FM 100.9",
+    "url": "https://grupomundodigital.com:8700/stream",
+    "genre": "Music",
+    "city": "Quito",
+    "country": "Ecuador",
+    "lat": -0.2201641,
+    "lng": -78.5123274
+  },
+  {
+    "id": "ecuador-radio-antena-3",
+    "name": "Radio Antena 3",
+    "url": "https://streamingecuador.com:9170/stream",
+    "genre": "Music",
+    "city": "Guayaquil",
+    "country": "Ecuador",
+    "lat": -2.1900572,
+    "lng": -79.8868669
+  },
+  {
+    "id": "ecuador-exa-fm-925",
+    "name": "Exa FM 92.5",
+    "url": "https://24283.live.streamtheworld.com:443/ECUADOR_SC",
+    "genre": "Music",
+    "city": "Quito",
+    "country": "Ecuador",
+    "lat": -0.2201641,
+    "lng": -78.5123274
+  },
+  {
+    "id": "ecuador-la-voz-del-tomebamba",
+    "name": "La Voz del Tomebamba",
+    "url": "https://streamingecuador.net:8074/lavozdeltomebamba",
+    "genre": "Music",
+    "city": "Quito",
+    "country": "Ecuador",
+    "lat": -0.2201641,
+    "lng": -78.5123274
+  },
+  {
+    "id": "ecuador-la-otra-949-fm",
+    "name": "La Otra 94.9 FM",
+    "url": "https://laotrafm.makrodigital.com/stream/laotrafmguayaquil",
+    "genre": "Music",
+    "city": "Guayaquil",
+    "country": "Ecuador",
+    "lat": -2.1900572,
+    "lng": -79.8868669
+  },
+  {
+    "id": "ecuador-radio-canela-guayas-905-fm",
+    "name": "Radio Canela Guayas 90.5 FM",
+    "url": "https://canelaradio.makrodigital.com/stream/canelaradioguayaquil",
+    "genre": "Music",
+    "city": "Guayaquil",
+    "country": "Ecuador",
+    "lat": -2.1900572,
+    "lng": -79.8868669
+  },
+  {
+    "id": "ecuador-radio-ilumán-1067-fm",
+    "name": "Radio Ilumán 106.7 FM",
+    "url": "https://streamingecuador.net:9016/radioiluman",
+    "genre": "Music",
+    "city": "Quito",
+    "country": "Ecuador",
+    "lat": -0.2201641,
+    "lng": -78.5123274
+  },
+  {
+    "id": "ecuador-radio-cristal-870-am",
+    "name": "Radio Cristal 870 AM",
+    "url": "https://radiocristal.makrodigital.com/stream/radiocristal",
+    "genre": "Music",
+    "city": "Guayaquil",
+    "country": "Ecuador",
+    "lat": -2.1900572,
+    "lng": -79.8868669
+  },
+  {
+    "id": "ecuador-radio-fuego-1065-fm",
+    "name": "Radio Fuego 106.5 FM",
+    "url": "https://streamingecuador.net:8005/radiofuego",
+    "genre": "Music",
+    "city": "Guayaquil",
+    "country": "Ecuador",
+    "lat": -2.1900572,
+    "lng": -79.8868669
+  },
+  {
+    "id": "ecuador-el-rocio-am-1370",
+    "name": "El Rocio AM 1370",
+    "url": "https://dattavolt.com/8326/Rocio",
+    "genre": "Music",
+    "city": "Guayaquil",
+    "country": "Ecuador",
+    "lat": -2.1900572,
+    "lng": -79.8868669
+  },
+  {
+    "id": "ecuador-radio-libre-fm-939",
+    "name": "Radio Libre FM 93.9",
+    "url": "https://cloudstream2036.conectarhosting.com/8146/stream?_=1",
+    "genre": "Music",
+    "city": "Guayaquil",
+    "country": "Ecuador",
+    "lat": -2.1900572,
+    "lng": -79.8868669
+  },
+  {
+    "id": "ecuador-radio-hit-fm",
+    "name": "Radio Hit FM",
+    "url": "https://dattavolt.com/8398/stream",
+    "genre": "Music",
+    "city": "Cuenca",
+    "country": "Ecuador",
+    "lat": -2.8974072,
+    "lng": -79.0041726
+  },
+  {
+    "id": "ecuador-radio-rumba-1073-fm",
+    "name": "Radio Rumba 107.3 FM",
+    "url": "https://streamingecuador.net:8078/radiorumbanetwork",
+    "genre": "Music",
+    "city": "Guayaquil",
+    "country": "Ecuador",
+    "lat": -2.1900572,
+    "lng": -79.8868669
+  },
+  {
+    "id": "ecuador-radio-la-voz-de-ingapirca-945-fm",
+    "name": "Radio La Voz de Ingapirca 94.5 FM",
+    "url": "https://stream-156.zeno.fm/k51xpp3fmzzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJrNTF4cHAzZm16enV2IiwiaG9zdCI6InN0cmVhbS0xNTYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiSnkwRWROWXhUVUMzT1dBZlZwaHdkUSIsImlhdCI6MTc2OTQxODIxNCwiZXhwIjoxNzY5NDE4Mjc0fQ.Iw8f7C8fUoMrREIgFnqUhl-azH0YkqrwyVIrFOmvyXE",
+    "genre": "Music",
+    "city": "Guayaquil",
+    "country": "Ecuador",
+    "lat": -2.1900572,
+    "lng": -79.8868669
+  },
+  {
+    "id": "ecuador-vision-fm-1061",
+    "name": "Vision FM 106.1",
+    "url": "https://dattavolt.com/8200/stream",
+    "genre": "Music",
+    "city": "Cuenca",
+    "country": "Ecuador",
+    "lat": -2.8974072,
+    "lng": -79.0041726
+  },
+  {
+    "id": "ecuador-radio-studio54",
+    "name": "Radio Studio54",
+    "url": "https://dattavolt.com/8194/stream",
+    "genre": "Music",
+    "city": "Cuenca",
+    "country": "Ecuador",
+    "lat": -2.8974072,
+    "lng": -79.0041726
+  },
+  {
+    "id": "ecuador-radio-sucre-700-am",
+    "name": "Radio Sucre 700 AM",
+    "url": "https://streamingecuador.net:8076/radiosucre",
+    "genre": "Music",
+    "city": "Guayaquil",
+    "country": "Ecuador",
+    "lat": -2.1900572,
+    "lng": -79.8868669
+  },
+  {
+    "id": "ecuador-radio-complice-fm-997",
+    "name": "Radio Complice FM 99.7",
+    "url": "https://dattavolt.com/8422/stream",
+    "genre": "Music",
+    "city": "Cuenca",
+    "country": "Ecuador",
+    "lat": -2.8974072,
+    "lng": -79.0041726
+  },
+  {
+    "id": "ecuador-diblu-fm-889",
+    "name": "DiBlu FM 88.9",
+    "url": "https://streamingecuador.com:8890/diblu",
+    "genre": "Music",
+    "city": "Guayaquil",
+    "country": "Ecuador",
+    "lat": -2.1900572,
+    "lng": -79.8868669
+  },
+  {
+    "id": "ecuador-radio-uda",
+    "name": "Radio UDA",
+    "url": "https://udaradio.uazuay.edu.ec:8443/radiouda/",
+    "genre": "Music",
+    "city": "Cuenca",
+    "country": "Ecuador",
+    "lat": -2.8974072,
+    "lng": -79.0041726
+  },
+  {
+    "id": "ecuador-radio-antena-1",
+    "name": "Radio Antena 1",
+    "url": "https://dattavolt.com/8202/stream",
+    "genre": "Music",
+    "city": "Cuenca",
+    "country": "Ecuador",
+    "lat": -2.8974072,
+    "lng": -79.0041726
+  },
+  {
+    "id": "ecuador-radio-activa-fm-885",
+    "name": "Radio Activa FM 88.5",
+    "url": "https://dattavolt.com/8394/stream",
+    "genre": "Music",
+    "city": "Cuenca",
+    "country": "Ecuador",
+    "lat": -2.8974072,
+    "lng": -79.0041726
+  },
+  {
+    "id": "ecuador-radio-la-chueka",
+    "name": "Radio La Chueka",
+    "url": "https://sp.dattavolt.com/8182/stream",
+    "genre": "Music",
+    "city": "Guayaquil",
+    "country": "Ecuador",
+    "lat": -2.1900572,
+    "lng": -79.8868669
+  },
+  {
+    "id": "ecuador-vibe-recuerdo",
+    "name": "VIBE Recuerdo",
+    "url": "https://stream-165.zeno.fm/rjule5vsaaovv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJyanVsZTV2c2Fhb3Z2IiwiaG9zdCI6InN0cmVhbS0xNjUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiZ0NvbXA5SDhSTm04aVJxVFNTLUktZyIsImlhdCI6MTc2OTQxODIxNSwiZXhwIjoxNzY5NDE4Mjc1fQ.DHEzf1yeMF1OXd17roMLLb6r8edisOd_xh347pyGkBA",
+    "genre": "Music",
+    "city": "Guayaquil",
+    "country": "Ecuador",
+    "lat": -2.1900572,
+    "lng": -79.8868669
+  },
+  {
+    "id": "ecuador-super-fm-949",
+    "name": "Super FM 94.9",
+    "url": "https://dattavolt.com/8028/stream",
+    "genre": "Music",
+    "city": "Cuenca",
+    "country": "Ecuador",
+    "lat": -2.8974072,
+    "lng": -79.0041726
+  },
+  {
+    "id": "ecuador-la-chismosa-1041-fm",
+    "name": "La Chismosa 104.1 FM",
+    "url": "https://dattavolt.com/8256/stream",
+    "genre": "Music",
+    "city": "Cuenca",
+    "country": "Ecuador",
+    "lat": -2.8974072,
+    "lng": -79.0041726
+  },
+  {
+    "id": "ecuador-w-radio-ecuador",
+    "name": "W Radio Ecuador",
+    "url": "https://aacplus.rstreaminghd.com/8072/stream",
+    "genre": "Music",
+    "city": "Cuenca",
+    "country": "Ecuador",
+    "lat": -2.8974072,
+    "lng": -79.0041726
+  },
+  {
+    "id": "ecuador-radio-incendiaria",
+    "name": "Radio Incendiaria",
+    "url": "https://pluralgo.radioca.st/bakanfm",
+    "genre": "Music",
+    "city": "Cuenca",
+    "country": "Ecuador",
+    "lat": -2.8974072,
+    "lng": -79.0041726
+  },
+  {
+    "id": "ecuador-radio-amigos-ecuador",
+    "name": "Radio Amigos Ecuador",
+    "url": "https://c20.radioboss.fm:8568/stream",
+    "genre": "Music",
+    "city": "Cuenca",
+    "country": "Ecuador",
+    "lat": -2.8974072,
+    "lng": -79.0041726
+  },
+  {
+    "id": "ecuador-radio-tentacion-biblian",
+    "name": "Radio Tentacion Biblian",
+    "url": "https://securestream.radioshd.info:7093/index.html?sid=1",
+    "genre": "Music",
+    "city": "Cuenca",
+    "country": "Ecuador",
+    "lat": -2.8974072,
+    "lng": -79.0041726
+  },
+  {
+    "id": "ecuador-loarte-stereo",
+    "name": "Loarte Stereo",
+    "url": "https://sv2.globalhostlive.com/proxy/ltestereo/stream",
+    "genre": "Music",
+    "city": "Loja",
+    "country": "Ecuador",
+    "lat": -4.0528506,
+    "lng": -79.8053425
+  },
+  {
+    "id": "ecuador-oe-radio-941-fm",
+    "name": "OE Radio 94.1 FM",
+    "url": "https://eu1.fastcast4u.com/proxy/oeradio/stream",
+    "genre": "Music",
+    "city": "Loja",
+    "country": "Ecuador",
+    "lat": -4.0528506,
+    "lng": -79.8053425
+  },
+  {
+    "id": "ecuador-paltas-stereo-fm",
+    "name": "Paltas Stereo FM",
+    "url": "https://radio.kapchosting.com:7006/index.html?sid=1",
+    "genre": "Music",
+    "city": "Cuenca",
+    "country": "Ecuador",
+    "lat": -2.8974072,
+    "lng": -79.0041726
+  },
+  {
+    "id": "ecuador-radio-luz-y-vida-fm-881",
+    "name": "Radio Luz y Vida FM 88.1",
+    "url": "https://sonicpanel.zonaradio.net/8248/stream",
+    "genre": "Music",
+    "city": "Loja",
+    "country": "Ecuador",
+    "lat": -4.0528506,
+    "lng": -79.8053425
+  },
+  {
+    "id": "ecuador-radio-activa",
+    "name": "Radio Activa",
+    "url": "https://usa13.fastcast4u.com/proxy/radioactivahd?mp=/1",
+    "genre": "Music",
+    "city": "Loja",
+    "country": "Ecuador",
+    "lat": -4.0528506,
+    "lng": -79.8053425
+  },
+  {
+    "id": "ecuador-radio-mix-1057-fm",
+    "name": "Radio Mix 105.7 FM",
+    "url": "https://streaming.ecuaradios.com/radiomix/stream",
+    "genre": "Music",
+    "city": "Loja",
+    "country": "Ecuador",
+    "lat": -4.0528506,
+    "lng": -79.8053425
+  },
+  {
+    "id": "ecuador-radio-planeta-sur-1061-fm",
+    "name": "Radio Planeta Sur 106.1 FM",
+    "url": "https://streaming.radioestacion4.com/8096/stream",
+    "genre": "Music",
+    "city": "Loja",
+    "country": "Ecuador",
+    "lat": -4.0528506,
+    "lng": -79.8053425
+  },
+  {
+    "id": "ecuador-ecuasur-1021-fm",
+    "name": "Ecuasur 102.1 FM",
+    "url": "https://stream.hospedandosites.com.br/8092/stream",
+    "genre": "Music",
+    "city": "Loja",
+    "country": "Ecuador",
+    "lat": -4.0528506,
+    "lng": -79.8053425
+  },
+  {
+    "id": "ecuador-radio-samantha-fm-899",
+    "name": "Radio Samantha FM 89.9",
+    "url": "https://usa3.lhdserver.es:8071/stream",
+    "genre": "Music",
+    "city": "Loja",
+    "country": "Ecuador",
+    "lat": -4.0528506,
+    "lng": -79.8053425
+  },
+  {
+    "id": "ecuador-radio-impacto-1079",
+    "name": "Radio Impacto 107.9",
+    "url": "https://cast.uncuartocomunicacion.com/listen/radioimpacto/live",
+    "genre": "Music",
+    "city": "Loja",
+    "country": "Ecuador",
+    "lat": -4.0528506,
+    "lng": -79.8053425
+  },
+  {
+    "id": "ecuador-zeta-radio-1069-fm",
+    "name": "Zeta Radio 106.9 FM",
+    "url": "https://as100.globalhost1.com/8190/stream",
+    "genre": "Music",
+    "city": "Loja",
+    "country": "Ecuador",
+    "lat": -4.0528506,
+    "lng": -79.8053425
+  },
+  {
+    "id": "ecuador-latidos-893-fm",
+    "name": "Latidos 89.3 FM",
+    "url": "https://sonic.streamseguro.com/8060/stream",
+    "genre": "Music",
+    "city": "Loja",
+    "country": "Ecuador",
+    "lat": -4.0528506,
+    "lng": -79.8053425
+  },
+  {
+    "id": "ecuador-radio-palmeras-fm",
+    "name": "Radio Palmeras FM",
+    "url": "https://accplus.tecnohost.ec:8002/index.html?sid=1",
+    "genre": "Music",
+    "city": "Loja",
+    "country": "Ecuador",
+    "lat": -4.0528506,
+    "lng": -79.8053425
+  },
+  {
+    "id": "ecuador-marbal-streaming",
+    "name": "MarBal Streaming",
+    "url": "https://sonic.host-live.com/8244/stream",
+    "genre": "Music",
+    "city": "Ambato",
+    "country": "Ecuador",
+    "lat": -1.2422413,
+    "lng": -78.6287594
+  },
+  {
+    "id": "ecuador-radio-semillas-de-amor-897-fm",
+    "name": "Radio Semillas de Amor 89.7 FM",
+    "url": "https://stream-176.zeno.fm/vkn46n2u4f0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2a240Nm4ydTRmMHV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiWWY4a3BtSzBTT3FCOUdlV1RzemdCdyIsImlhdCI6MTc2OTQxODIxOSwiZXhwIjoxNzY5NDE4Mjc5fQ.KD1XKdaQIczr2GsR2mIEncZY-5hYP2bunm6GsffdY6E",
+    "genre": "Music",
+    "city": "Loja",
+    "country": "Ecuador",
+    "lat": -4.0528506,
+    "lng": -79.8053425
+  },
+  {
+    "id": "ecuador-rumba-889-fm",
+    "name": "Rumba 88.9 FM",
+    "url": "https://radio.kapchosting.com/8100/stream",
+    "genre": "Music",
+    "city": "Ambato",
+    "country": "Ecuador",
+    "lat": -1.2422413,
+    "lng": -78.6287594
+  },
+  {
+    "id": "ecuador-radio-pintando-canas",
+    "name": "Radio Pintando Canas",
+    "url": "https://stream-179.zeno.fm/2yjdzzpavd5uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIyeWpkenpwYXZkNXV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoieTMyeFg0b3RSUVdrQVVqVmJkWGRTZyIsImlhdCI6MTc2OTQxODIyMCwiZXhwIjoxNzY5NDE4MjgwfQ.Ukby0Hkf41sERMBDKAZatCoBqaOcMmzFTNtAuty0gQo",
+    "genre": "Music",
+    "city": "Ambato",
+    "country": "Ecuador",
+    "lat": -1.2422413,
+    "lng": -78.6287594
+  },
+  {
+    "id": "ecuador-sbc-radio-tv",
+    "name": "SBC Radio TV",
+    "url": "https://securestream.radioshd.info:7076/stream",
+    "genre": "Music",
+    "city": "Ambato",
+    "country": "Ecuador",
+    "lat": -1.2422413,
+    "lng": -78.6287594
+  },
+  {
+    "id": "ecuador-radio-alegría",
+    "name": "Radio Alegría",
+    "url": "https://cloudstream2032.conectarhosting.com/9376/",
+    "genre": "Music",
+    "city": "Ambato",
+    "country": "Ecuador",
+    "lat": -1.2422413,
+    "lng": -78.6287594
+  },
+  {
+    "id": "ecuador-radio-ambato",
+    "name": "Radio Ambato",
+    "url": "http://190.99.72.142:8000/radioambato",
+    "genre": "Music",
+    "city": "Ambato",
+    "country": "Ecuador",
+    "lat": -1.2422413,
+    "lng": -78.6287594
+  },
+  {
+    "id": "ecuador-radio-poder-953-fm",
+    "name": "Radio Poder 95.3 FM",
+    "url": "https://streamingecuador.net:7044/radiopoder",
+    "genre": "Music",
+    "city": "Loja",
+    "country": "Ecuador",
+    "lat": -4.0528506,
+    "lng": -79.8053425
+  },
+  {
+    "id": "ecuador-ultra-online",
+    "name": "Ultra Online",
+    "url": "https://rr5100.globalhost1.com/8620/",
+    "genre": "Music",
+    "city": "Ambato",
+    "country": "Ecuador",
+    "lat": -1.2422413,
+    "lng": -78.6287594
+  },
+  {
+    "id": "ecuador-radio-centro-917-fm",
+    "name": "Radio Centro 91.7 FM",
+    "url": "https://securestream.radioshd.info:7002/stream/",
+    "genre": "Music",
+    "city": "Ambato",
+    "country": "Ecuador",
+    "lat": -1.2422413,
+    "lng": -78.6287594
+  },
+  {
+    "id": "ecuador-pantera-fm-1031",
+    "name": "Pantera FM 103.1",
+    "url": "https://securestream.radioshd.info:7088/index.html?sid=1",
+    "genre": "Music",
+    "city": "Ambato",
+    "country": "Ecuador",
+    "lat": -1.2422413,
+    "lng": -78.6287594
+  },
+  {
+    "id": "ecuador-radio-paz-y-bien-1045-fm",
+    "name": "Radio Paz Y Bien 104.5 FM",
+    "url": "https://s7.myradiostream.com:59906/listen.mp3?nocache=1769418221",
+    "genre": "Music",
+    "city": "Ambato",
+    "country": "Ecuador",
+    "lat": -1.2422413,
+    "lng": -78.6287594
+  },
+  {
+    "id": "ecuador-radio-stereo-familiar-fm-1073",
+    "name": "Radio Stereo Familiar FM 107.3",
+    "url": "https://streaming.teklabs.org:8010/radio.mp3",
+    "genre": "Music",
+    "city": "Riobamba",
+    "country": "Ecuador",
+    "lat": -1.6716698,
+    "lng": -78.6607421
+  },
+  {
+    "id": "ecuador-radio-apr",
+    "name": "Radio APR",
+    "url": "https://usa3.lhdserver.es:8067/stream",
+    "genre": "Music",
+    "city": "Riobamba",
+    "country": "Ecuador",
+    "lat": -1.6716698,
+    "lng": -78.6607421
+  },
+  {
+    "id": "ecuador-colosal-1040-am",
+    "name": "Colosal 1040 AM",
+    "url": "https://streamingecuador.net:9062/radiocolosal",
+    "genre": "Music",
+    "city": "Ambato",
+    "country": "Ecuador",
+    "lat": -1.2422413,
+    "lng": -78.6287594
+  },
+  {
+    "id": "ecuador-radio-novedades-am-1100",
+    "name": "Radio Novedades AM 1100",
+    "url": "https://stream-165.zeno.fm/rnuj9iesyyotv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJybnVqOWllc3l5b3R2IiwiaG9zdCI6InN0cmVhbS0xNjUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiRXpWZ2xGa1RTRlNELXp3SHROLXpTdyIsImlhdCI6MTc2OTQxODIyMiwiZXhwIjoxNzY5NDE4MjgyfQ.fW5cD606KNj_TqU5g2nV0zso9Az-J0nBVY8Cw0h2-sw",
+    "genre": "Music",
+    "city": "Ambato",
+    "country": "Ecuador",
+    "lat": -1.2422413,
+    "lng": -78.6287594
+  },
+  {
+    "id": "ecuador-radio-bonita-893-fm",
+    "name": "Radio Bonita 89.3 FM",
+    "url": "https://mediastreamm.com/labonitafm/stream",
+    "genre": "Music",
+    "city": "Riobamba",
+    "country": "Ecuador",
+    "lat": -1.6716698,
+    "lng": -78.6607421
+  },
+  {
+    "id": "ecuador-america-ibarra",
+    "name": "America Ibarra",
+    "url": "https://streamingecuador.net/stream/americaibarra",
+    "genre": "Music",
+    "city": "Ibarra",
+    "country": "Ecuador",
+    "lat": 0.515937,
+    "lng": -78.1329448
+  },
+  {
+    "id": "ecuador-oxígeno-fm-1021",
+    "name": "Oxígeno FM 102.1",
+    "url": "https://stream-175.zeno.fm/30tq91whq7zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIzMHRxOTF3aHE3enV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiUk4yYlhORThSWW1pOVR3NklhV3V1USIsImlhdCI6MTc2OTQxODIyMiwiZXhwIjoxNzY5NDE4MjgyfQ.fGxYTIM4cQI71RWRSQYSe04Y6pTiHdewIKqhSQX6sko",
+    "genre": "Music",
+    "city": "Ambato",
+    "country": "Ecuador",
+    "lat": -1.2422413,
+    "lng": -78.6287594
+  },
+  {
+    "id": "ecuador-radio-rey-967-fm",
+    "name": "Radio Rey 96.7 FM",
+    "url": "https://stream-178.zeno.fm/0hbhr4va3hhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwaGJocjR2YTNoaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiMVV3YlY0dlBSWVcwYWdfbzJSLXpqdyIsImlhdCI6MTc2OTQxODIyMiwiZXhwIjoxNzY5NDE4MjgyfQ.LxdHiMVcH5V4v8Fi7k3YHMsNtCb2WzlS00zLHOavbRI",
+    "genre": "Music",
+    "city": "Ambato",
+    "country": "Ecuador",
+    "lat": -1.2422413,
+    "lng": -78.6287594
+  },
+  {
+    "id": "ecuador-zona-cálida",
+    "name": "Zona Cálida",
+    "url": "https://dattavolt.com/8170/stream",
+    "genre": "Music",
+    "city": "Riobamba",
+    "country": "Ecuador",
+    "lat": -1.6716698,
+    "lng": -78.6607421
+  },
+  {
+    "id": "ecuador-radio-mundial-fm-961",
+    "name": "Radio Mundial FM 96.1",
+    "url": "https://server.efrasystem.com/7060/stream",
+    "genre": "Music",
+    "city": "Riobamba",
+    "country": "Ecuador",
+    "lat": -1.6716698,
+    "lng": -78.6607421
+  },
+  {
+    "id": "ecuador-la-muni-fm-899",
+    "name": "La Muni FM 89.9",
+    "url": "https://securestream.radioshd.info:7053/stream",
+    "genre": "Music",
+    "city": "Riobamba",
+    "country": "Ecuador",
+    "lat": -1.6716698,
+    "lng": -78.6607421
+  },
+  {
+    "id": "ecuador-señal-pirata-ibarra",
+    "name": "Señal Pirata Ibarra",
+    "url": "https://sonicpanel.zonaradio.net/8308/stream",
+    "genre": "Music",
+    "city": "Ibarra",
+    "country": "Ecuador",
+    "lat": 0.515937,
+    "lng": -78.1329448
+  },
+  {
+    "id": "ecuador-radio-oriental-tena-897-fm",
+    "name": "Radio Oriental Tena 89.7 FM",
+    "url": "https://streamingecuador.com:7042/stream",
+    "genre": "Music",
+    "city": "Ambato",
+    "country": "Ecuador",
+    "lat": -1.2422413,
+    "lng": -78.6287594
+  },
+  {
+    "id": "ecuador-internacional-stereo-fm-1059",
+    "name": "Internacional Stereo FM 105.9",
+    "url": "https://radiohd3.streaminghd.co/8054/stream",
+    "genre": "Music",
+    "city": "Ibarra",
+    "country": "Ecuador",
+    "lat": 0.515937,
+    "lng": -78.1329448
+  },
+  {
+    "id": "ecuador-líder-internacional-1015-fm",
+    "name": "Líder Internacional 101.5 FM",
+    "url": "https://sv2.globalhostlive.com/proxy/lider/stream",
+    "genre": "Music",
+    "city": "Machala",
+    "country": "Ecuador",
+    "lat": -3.3148937,
+    "lng": -79.9512804
+  },
+  {
+    "id": "ecuador-bendicion-stereo",
+    "name": "Bendicion Stereo",
+    "url": "https://sv2.globalhostlive.com/proxy/bendistereo/stream3",
+    "genre": "Music",
+    "city": "Machala",
+    "country": "Ecuador",
+    "lat": -3.3148937,
+    "lng": -79.9512804
+  },
+  {
+    "id": "ecuador-la-mega-99nueve",
+    "name": "La Mega 99.nueve",
+    "url": "https://usa3.fastcast4u.com/proxy/lamega?mp=/stream",
+    "genre": "Music",
+    "city": "Ibarra",
+    "country": "Ecuador",
+    "lat": 0.515937,
+    "lng": -78.1329448
+  },
+  {
+    "id": "ecuador-radio-genesis-1075-fm",
+    "name": "Radio Genesis 107.5 FM",
+    "url": "https://sv2.globalhostlive.com/proxy/genesis/stream",
+    "genre": "Music",
+    "city": "Machala",
+    "country": "Ecuador",
+    "lat": -3.3148937,
+    "lng": -79.9512804
+  },
+  {
+    "id": "ecuador-radio-sentimiento-latino",
+    "name": "Radio Sentimiento Latino",
+    "url": "https://eu4.fastcast4u.com/proxy/sentimie?mp=/1/live",
+    "genre": "Music",
+    "city": "Machala",
+    "country": "Ecuador",
+    "lat": -3.3148937,
+    "lng": -79.9512804
+  },
+  {
+    "id": "ecuador-radio-andina-fm-1061",
+    "name": "Radio Andina FM 106.1",
+    "url": "https://grupomundodigital.com:8580/stream",
+    "genre": "Music",
+    "city": "Riobamba",
+    "country": "Ecuador",
+    "lat": -1.6716698,
+    "lng": -78.6607421
+  },
+  {
+    "id": "ecuador-exitos-fm",
+    "name": "Exitos FM",
+    "url": "https://radiostreaming.pro/8080/stream",
+    "genre": "Music",
+    "city": "Ibarra",
+    "country": "Ecuador",
+    "lat": 0.515937,
+    "lng": -78.1329448
+  },
+  {
+    "id": "ecuador-360-latina-fm",
+    "name": "360 Latina FM",
+    "url": "https://stream-175.zeno.fm/v659dphpqqzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2NjU5ZHBocHFxenV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoidXZDaE82VHlRaUtKU0JBdTRmZ1JEZyIsImlhdCI6MTc2OTQxODIyNSwiZXhwIjoxNzY5NDE4Mjg1fQ.6ZWk4xwNpJQ-A3AAGbDVmkO2yfOm4c4hCIWU-pQwFc8",
+    "genre": "Music",
+    "city": "Ibarra",
+    "country": "Ecuador",
+    "lat": 0.515937,
+    "lng": -78.1329448
+  },
+  {
+    "id": "ecuador-radio-macarena-fm-921",
+    "name": "Radio Macarena FM 92.1",
+    "url": "https://radiomacarena.com/st-alta",
+    "genre": "Music",
+    "city": "Santo Domingo",
+    "country": "Ecuador",
+    "lat": -0.2546212,
+    "lng": -79.1686724
+  },
+  {
+    "id": "ecuador-flama-plus-1045fm",
+    "name": "Flama Plus 104.5FM",
+    "url": "https://streaming.viphosting.cl/8286/stream",
+    "genre": "Music",
+    "city": "Santo Domingo",
+    "country": "Ecuador",
+    "lat": -0.2546212,
+    "lng": -79.1686724
+  },
+  {
+    "id": "ecuador-fm-ritmo-1035",
+    "name": "FM Ritmo 103.5",
+    "url": "https://streamingecuador.net:7029/stream",
+    "genre": "Music",
+    "city": "Ibarra",
+    "country": "Ecuador",
+    "lat": 0.515937,
+    "lng": -78.1329448
+  },
+  {
+    "id": "ecuador-radio-kachwa-fm-1011",
+    "name": "Radio Kachwa FM 101.1",
+    "url": "http://ecuamedios.net:8048/stream",
+    "genre": "Music",
+    "city": "Santo Domingo",
+    "country": "Ecuador",
+    "lat": -0.2546212,
+    "lng": -79.1686724
+  },
+  {
+    "id": "ecuador-radio-megaestación-929-fm",
+    "name": "Radio Megaestación 92.9 FM",
+    "url": "https://laradiossl.online:10235/stream",
+    "genre": "Music",
+    "city": "Santo Domingo",
+    "country": "Ecuador",
+    "lat": -0.2546212,
+    "lng": -79.1686724
+  },
+  {
+    "id": "ecuador-radio-salsa-online",
+    "name": "Radio Salsa Online",
+    "url": "https://usa15.fastcast4u.com/proxy/erenteri?mp=/1",
+    "genre": "Music",
+    "city": "Machala",
+    "country": "Ecuador",
+    "lat": -3.3148937,
+    "lng": -79.9512804
+  },
+  {
+    "id": "ecuador-radio-ritmo-985-fm",
+    "name": "Radio Ritmo 98.5 FM",
+    "url": "https://ritmo985.ecutec.work/radio/3472/radio.mp3",
+    "genre": "Music",
+    "city": "Santo Domingo",
+    "country": "Ecuador",
+    "lat": -0.2546212,
+    "lng": -79.1686724
+  },
+  {
+    "id": "ecuador-ritmo-939-fm",
+    "name": "Ritmo 93.9 FM",
+    "url": "https://securestream.radioshd.info:7087/index.html?sid=1",
+    "genre": "Music",
+    "city": "Puyo",
+    "country": "Ecuador",
+    "lat": -1.4854777,
+    "lng": -77.9969666
+  },
+  {
+    "id": "ecuador-x-fm-947-ecuador",
+    "name": "X FM 94.7 Ecuador",
+    "url": "https://streamingecuador.net:8036/stream",
+    "genre": "Music",
+    "city": "Ibarra",
+    "country": "Ecuador",
+    "lat": 0.515937,
+    "lng": -78.1329448
+  },
+  {
+    "id": "ecuador-aventura-fm-1071",
+    "name": "Aventura FM 107.1",
+    "url": "https://securestream.radioshd.info:7062/index.html?sid=1",
+    "genre": "Music",
+    "city": "Puyo",
+    "country": "Ecuador",
+    "lat": -1.4854777,
+    "lng": -77.9969666
+  },
+  {
+    "id": "ecuador-rvt-satelital-915-fm",
+    "name": "RVT Satelital 91.5 FM",
+    "url": "http://rvtradio.com:8000/stream",
+    "genre": "Music",
+    "city": "Quevedo",
+    "country": "Ecuador",
+    "lat": -1.0669701,
+    "lng": -79.4776812
+  },
+  {
+    "id": "ecuador-super-sol-963-fm",
+    "name": "Super Sol 96.3 FM",
+    "url": "https://streamingecuador.com:8002/radiosupersol",
+    "genre": "Music",
+    "city": "Machala",
+    "country": "Ecuador",
+    "lat": -3.3148937,
+    "lng": -79.9512804
+  },
+  {
+    "id": "ecuador-radio-catedral-azogues",
+    "name": "Radio Catedral Azogues",
+    "url": "https://c19.radioboss.fm:8035/live",
+    "genre": "Music",
+    "city": "Azogues",
+    "country": "Ecuador",
+    "lat": -2.6317291,
+    "lng": -78.7008934
+  },
+  {
+    "id": "ecuador-fluminense-1015-fm",
+    "name": "Fluminense 101.5 FM",
+    "url": "https://mediastreamm.com/8178/stream",
+    "genre": "Music",
+    "city": "Quevedo",
+    "country": "Ecuador",
+    "lat": -1.0669701,
+    "lng": -79.4776812
+  },
+  {
+    "id": "ecuador-pm-radio-quevedo",
+    "name": "PM Radio Quevedo",
+    "url": "https://as100.globalhost1.com/8010/stream",
+    "genre": "Music",
+    "city": "Quevedo",
+    "country": "Ecuador",
+    "lat": -1.0669701,
+    "lng": -79.4776812
+  },
+  {
+    "id": "ecuador-radio-positiva-1077-fm",
+    "name": "Radio Positiva 107.7 FM",
+    "url": "https://stream-176.zeno.fm/cd6k4br4gwzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjZDZrNGJyNGd3enV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiS0xJb2lGYUFSdS1DQXh5VmVEYWtfdyIsImlhdCI6MTc2OTQxODIyOCwiZXhwIjoxNzY5NDE4Mjg4fQ.PPj4bhvHpFTPxNKR7Nbi-BNE3YZVFs119iqhsw_93FA",
+    "genre": "Music",
+    "city": "Puyo",
+    "country": "Ecuador",
+    "lat": -1.4854777,
+    "lng": -77.9969666
+  },
+  {
+    "id": "ecuador-radio-super-tropicana-1059-fm",
+    "name": "Radio Super Tropicana 105.9 FM",
+    "url": "https://s47.myradiostream.com:15636/listen.mp3?nocache=1769418228",
+    "genre": "Music",
+    "city": "Puyo",
+    "country": "Ecuador",
+    "lat": -1.4854777,
+    "lng": -77.9969666
+  },
+  {
+    "id": "ecuador-la-farra-station-1069-fm",
+    "name": "La Farra Station 106.9 FM",
+    "url": "https://radiohdstreaming.com/listen/farra1069/radio",
+    "genre": "Music",
+    "city": "Azogues",
+    "country": "Ecuador",
+    "lat": -2.6317291,
+    "lng": -78.7008934
+  },
+  {
+    "id": "ecuador-gm-7-radio",
+    "name": "GM 7 Radio",
+    "url": "https://aacplus.rstreaminghd.com/8010/stream",
+    "genre": "Music",
+    "city": "Azogues",
+    "country": "Ecuador",
+    "lat": -2.6317291,
+    "lng": -78.7008934
+  },
+  {
+    "id": "ecuador-radio-web-viva-catamayo",
+    "name": "Radio Web Viva Catamayo",
+    "url": "https://sonic.streamseguro.com/8116/stream",
+    "genre": "Music",
+    "city": "Catamayo",
+    "country": "Ecuador",
+    "lat": -3.9912144,
+    "lng": -79.403789
+  },
+  {
+    "id": "ecuador-radio-boquerón-fm-937",
+    "name": "Radio Boquerón FM 93.7",
+    "url": "https://stream.hospedandosites.com.br/8038/stream",
+    "genre": "Music",
+    "city": "Catamayo",
+    "country": "Ecuador",
+    "lat": -3.9912144,
+    "lng": -79.403789
+  },
+  {
+    "id": "ecuador-radio-la-kariñosa-981-fm",
+    "name": "Radio La Kariñosa 98.1 FM",
+    "url": "https://stream-156.zeno.fm/3phhik1pblltv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIzcGhoaWsxcGJsbHR2IiwiaG9zdCI6InN0cmVhbS0xNTYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiTHpGRmZ3bUFSNUM4b3FwYU5WY0tjUSIsImlhdCI6MTc2OTQxODIzMCwiZXhwIjoxNzY5NDE4MjkwfQ.eMA9Uz-iSMHdd09FIJ4UbQai6Xzr2V1GfEPZcd5E5S0",
+    "genre": "Music",
+    "city": "Catamayo",
+    "country": "Ecuador",
+    "lat": -3.9912144,
+    "lng": -79.403789
+  },
+  {
+    "id": "ecuador-cotaesg-radio-station",
+    "name": "Cotaesg Radio Station",
+    "url": "https://s31.radiolize.com/radio/8090/radio.mp3",
+    "genre": "Music",
+    "city": "Tena",
+    "country": "Ecuador",
+    "lat": -0.9438718,
+    "lng": -78.1083981
+  },
+  {
+    "id": "ecuador-radio-modelo-fm-977",
+    "name": "Radio Modelo FM 97.7",
+    "url": "https://usa3.lhdserver.es:8197/stream",
+    "genre": "Music",
+    "city": "Manta",
+    "country": "Ecuador",
+    "lat": -1.0320064,
+    "lng": -80.8169311
+  },
+  {
+    "id": "ecuador-radio-ondas-quevedeñas",
+    "name": "Radio Ondas Quevedeñas",
+    "url": "https://streamingecuador.net:7009/ondasquevedenas",
+    "genre": "Music",
+    "city": "Quevedo",
+    "country": "Ecuador",
+    "lat": -1.0669701,
+    "lng": -79.4776812
+  },
+  {
+    "id": "ecuador-radio-quimera-1025-fm",
+    "name": "Radio Quimera 102.5 FM",
+    "url": "https://streaming.seytratec.com/quimera",
+    "genre": "Music",
+    "city": "Tena",
+    "country": "Ecuador",
+    "lat": -0.9438718,
+    "lng": -78.1083981
+  },
+  {
+    "id": "ecuador-radio-arcoiris-napo-1073-fm",
+    "name": "Radio Arcoiris Napo 107.3 FM",
+    "url": "https://securestream.radioshd.info:7073/stream",
+    "genre": "Music",
+    "city": "Tena",
+    "country": "Ecuador",
+    "lat": -0.9438718,
+    "lng": -78.1083981
+  },
+  {
+    "id": "ecuador-favorita-fm-983",
+    "name": "Favorita FM 98.3",
+    "url": "https://streamingecuador.com:7002/stream",
+    "genre": "Music",
+    "city": "Quevedo",
+    "country": "Ecuador",
+    "lat": -1.0669701,
+    "lng": -79.4776812
+  },
+  {
+    "id": "ecuador-lvc-radio-953-fm",
+    "name": "LVC Radio 95.3 FM",
+    "url": "https://securestream.radioshd.info:7034/index.html?sid=1",
+    "genre": "Music",
+    "city": "Manta",
+    "country": "Ecuador",
+    "lat": -1.0320064,
+    "lng": -80.8169311
+  },
+  {
+    "id": "ecuador-sono-onda-997-fm",
+    "name": "Sono Onda 99.7 FM",
+    "url": "https://usa3.lhdserver.es:8043/stream",
+    "genre": "Music",
+    "city": "Manta",
+    "country": "Ecuador",
+    "lat": -1.0320064,
+    "lng": -80.8169311
+  },
+  {
+    "id": "ecuador-radio-ultimito-mix",
+    "name": "Radio Ultimito Mix",
+    "url": "https://stream-175.zeno.fm/1g4mf0b3ziouv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIxZzRtZjBiM3ppb3V2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiRGRDTERObjBTTFNiajRGaUpnX2RFZyIsImlhdCI6MTc2OTQxODIzMSwiZXhwIjoxNzY5NDE4MjkxfQ.L7odaGNbV_7x3LWTozSxfUHikkZPwgZuC8l5HUoe6Uw",
+    "genre": "Music",
+    "city": "Manta",
+    "country": "Ecuador",
+    "lat": -1.0320064,
+    "lng": -80.8169311
+  },
+  {
+    "id": "ecuador-radio-super-k-1200-am",
+    "name": "Radio Super K 1200 AM",
+    "url": "https://sonicpanel.zonaradio.net/8358/stream",
+    "genre": "Music",
+    "city": "Latacunga",
+    "country": "Ecuador",
+    "lat": -0.9340311,
+    "lng": -78.6145758
+  },
+  {
+    "id": "ecuador-radio-jesús-fuente-de-vida",
+    "name": "Radio Jesús Fuente de Vida",
+    "url": "https://stream-175.zeno.fm/0e1qunxd9zquv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwZTFxdW54ZDl6cXV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiekZkWGNSQlFSR09aVFhnaUhIYXl5USIsImlhdCI6MTc2OTQxODIzMiwiZXhwIjoxNzY5NDE4MjkyfQ.umiOYZ_7HQS54NPa37aGzPXzyapPytduuyZhI-m40Iw",
+    "genre": "Music",
+    "city": "Babahoyo",
+    "country": "Ecuador",
+    "lat": -1.8762599,
+    "lng": -79.5068917
+  },
+  {
+    "id": "ecuador-radio-la-voz-de-su-amigo-963-fm",
+    "name": "Radio La Voz de su Amigo 96.3 FM",
+    "url": "https://ss.ecuastreamhd.com:8138/VozAmigo",
+    "genre": "Music",
+    "city": "Esmeraldas",
+    "country": "Ecuador",
+    "lat": 0.7343619,
+    "lng": -79.3858867
+  },
+  {
+    "id": "ecuador-radio-chachi-895-fm",
+    "name": "Radio Chachi 89.5 FM",
+    "url": "https://servidor34-1.brlogic.com:7354/live",
+    "genre": "Music",
+    "city": "Esmeraldas",
+    "country": "Ecuador",
+    "lat": 0.7343619,
+    "lng": -79.3858867
+  }
+]

@@ -1,0 +1,2582 @@
+[
+  {
+    "id": "spain-radio-utopía-1078-fm",
+    "name": "Radio Utopía 107.8 FM",
+    "url": "http://streaming.radioutopia.org.es:8000/radio-utopia.mp3",
+    "genre": "Music",
+    "city": "Madrid",
+    "country": "Spain",
+    "lat": 40.416782,
+    "lng": -3.703507
+  },
+  {
+    "id": "spain-cadena-luna",
+    "name": "Cadena Luna",
+    "url": "https://radio.almunecar360.com:8100/radio",
+    "genre": "Music",
+    "city": "Madrid",
+    "country": "Spain",
+    "lat": 40.416782,
+    "lng": -3.703507
+  },
+  {
+    "id": "spain-ona-pau-catalunya",
+    "name": "Ona Pau Catalunya",
+    "url": "https://srv7021.dns-lcinternet.com/8064/stream",
+    "genre": "Music",
+    "city": "Barcelona",
+    "country": "Spain",
+    "lat": 41.3825802,
+    "lng": 2.177073
+  },
+  {
+    "id": "spain-antena-cemu-fm-892",
+    "name": "Antena CEMU FM 89.2",
+    "url": "https://sonic.mediatelekom.net/9980/stream",
+    "genre": "Music",
+    "city": "Madrid",
+    "country": "Spain",
+    "lat": 40.416782,
+    "lng": -3.703507
+  },
+  {
+    "id": "spain-edm-radio-fm-974",
+    "name": "EDM Radio FM 97.4",
+    "url": "https://c22.radioboss.fm:8653/stream",
+    "genre": "Music",
+    "city": "Madrid",
+    "country": "Spain",
+    "lat": 40.416782,
+    "lng": -3.703507
+  },
+  {
+    "id": "spain-roca-fm-madrid-1009",
+    "name": "Roca FM Madrid 100.9",
+    "url": "https://xxdelgado.radioca.st/stream/1/",
+    "genre": "Music",
+    "city": "Madrid",
+    "country": "Spain",
+    "lat": 40.416782,
+    "lng": -3.703507
+  },
+  {
+    "id": "spain-radio-vallekas-fm-1075",
+    "name": "Radio Vallekas FM 107.5",
+    "url": "https://radio.radiobot.org/listen/rvk/rvk.mp3",
+    "genre": "Music",
+    "city": "Madrid",
+    "country": "Spain",
+    "lat": 40.416782,
+    "lng": -3.703507
+  },
+  {
+    "id": "spain-espacio-4-fm",
+    "name": "Espacio 4 FM",
+    "url": "https://stream-179.zeno.fm/fz0bc82wn0hvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJmejBiYzgyd24waHZ2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoidFN6enhPNURRTTZCamN3aTRSdXNiUSIsImlhdCI6MTc2OTQyMzE2NywiZXhwIjoxNzY5NDIzMjI3fQ.IKqS-X5tMgKexlaNTrT64UY9O0Mxvd5BrWlXRjjCAp4",
+    "genre": "Music",
+    "city": "Madrid",
+    "country": "Spain",
+    "lat": 40.416782,
+    "lng": -3.703507
+  },
+  {
+    "id": "spain-radio-marca",
+    "name": "Radio Marca",
+    "url": "https://28033.live.streamtheworld.com:443/RADIOMARCA_NACIONAL.mp3",
+    "genre": "Music",
+    "city": "Madrid",
+    "country": "Spain",
+    "lat": 40.416782,
+    "lng": -3.703507
+  },
+  {
+    "id": "spain-cadena-ser-madrid-sur",
+    "name": "Cadena SER Madrid Sur",
+    "url": "https://23553.live.streamtheworld.com:443/SER_ASO_MADRID_SURAAC.aac",
+    "genre": "Music",
+    "city": "Madrid",
+    "country": "Spain",
+    "lat": 40.416782,
+    "lng": -3.703507
+  },
+  {
+    "id": "spain-los40-classic",
+    "name": "LOS40 Classic",
+    "url": "https://25253.live.streamtheworld.com:443/LOS40_CLASSICAAC.aac",
+    "genre": "Music",
+    "city": "Madrid",
+    "country": "Spain",
+    "lat": 40.416782,
+    "lng": -3.703507
+  },
+  {
+    "id": "spain-cadena-ser-madrid-norte",
+    "name": "Cadena SER Madrid Norte",
+    "url": "https://25483.live.streamtheworld.com:443/SER_ASO_MADRID_NORTEAAC.aac",
+    "genre": "Music",
+    "city": "Madrid",
+    "country": "Spain",
+    "lat": 40.416782,
+    "lng": -3.703507
+  },
+  {
+    "id": "spain-cadena-ser",
+    "name": "Cadena Ser",
+    "url": "https://25443.live.streamtheworld.com:443/CADENASERAAC.aac",
+    "genre": "Music",
+    "city": "Madrid",
+    "country": "Spain",
+    "lat": 40.416782,
+    "lng": -3.703507
+  },
+  {
+    "id": "spain-scannerfm",
+    "name": "scannerFM",
+    "url": "https://eu10.fastcast4u.com/scannerfm",
+    "genre": "Music",
+    "city": "Barcelona",
+    "country": "Spain",
+    "lat": 41.3825802,
+    "lng": 2.177073
+  },
+  {
+    "id": "spain-esradio",
+    "name": "esRadio",
+    "url": "https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-med.aac",
+    "genre": "Music",
+    "city": "Madrid",
+    "country": "Spain",
+    "lat": 40.416782,
+    "lng": -3.703507
+  },
+  {
+    "id": "spain-ruido-feminista-radio",
+    "name": "Ruido Feminista Radio",
+    "url": "https://radiobot.radioslibres.info/listen/ruidofeminista/RFR.BCN",
+    "genre": "Music",
+    "city": "Barcelona",
+    "country": "Spain",
+    "lat": 41.3825802,
+    "lng": 2.177073
+  },
+  {
+    "id": "spain-el-prat-radio",
+    "name": "El Prat Ràdio",
+    "url": "https://server.elprat.digital/stream.mp3",
+    "genre": "Music",
+    "city": "Barcelona",
+    "country": "Spain",
+    "lat": 41.3825802,
+    "lng": 2.177073
+  },
+  {
+    "id": "spain-i-van-radio",
+    "name": "i Van RADIO",
+    "url": "https://18093.live.streamtheworld.com/SAM03AAC595_SC",
+    "genre": "Music",
+    "city": "Madrid",
+    "country": "Spain",
+    "lat": 40.416782,
+    "lng": -3.703507
+  },
+  {
+    "id": "spain-radio-la-mina-fm-1025",
+    "name": "Ràdio La Mina FM 102.5",
+    "url": "http://cervera.eldialdigital.com:11121/stream",
+    "genre": "Music",
+    "city": "Barcelona",
+    "country": "Spain",
+    "lat": 41.3825802,
+    "lng": 2.177073
+  },
+  {
+    "id": "spain-rac1",
+    "name": "RAC1",
+    "url": "https://28513.live.streamtheworld.com:443/RAC_1.mp3",
+    "genre": "Music",
+    "city": "Barcelona",
+    "country": "Spain",
+    "lat": 41.3825802,
+    "lng": 2.177073
+  },
+  {
+    "id": "spain-cerdanyola-radio-fm-1053",
+    "name": "Cerdanyola Ràdio FM 105.3",
+    "url": "https://comcast04-h-cloud.flumotion.com/ajcerdanyola/live.mp3",
+    "genre": "Music",
+    "city": "Barcelona",
+    "country": "Spain",
+    "lat": 41.3825802,
+    "lng": 2.177073
+  },
+  {
+    "id": "spain-ser-catalunya",
+    "name": "SER Catalunya",
+    "url": "https://22183.live.streamtheworld.com:443/SER_CATAAC.aac",
+    "genre": "Music",
+    "city": "Barcelona",
+    "country": "Spain",
+    "lat": 41.3825802,
+    "lng": 2.177073
+  },
+  {
+    "id": "spain-los-40-catalunya",
+    "name": "Los 40 Catalunya",
+    "url": "https://22183.live.streamtheworld.com:443/LOS40_CAT_SC",
+    "genre": "Music",
+    "city": "Barcelona",
+    "country": "Spain",
+    "lat": 41.3825802,
+    "lng": 2.177073
+  },
+  {
+    "id": "spain-catalunya-radio",
+    "name": "Catalunya Ràdio",
+    "url": "https://shoutcast.ccma.cat/ccma/catalunyaradioHD.mp3",
+    "genre": "Music",
+    "city": "Barcelona",
+    "country": "Spain",
+    "lat": 41.3825802,
+    "lng": 2.177073
+  },
+  {
+    "id": "spain-pulse-barcelona",
+    "name": "Pulse Barcelona",
+    "url": "https://servidor20-2.brlogic.com:7018/live",
+    "genre": "Music",
+    "city": "Barcelona",
+    "country": "Spain",
+    "lat": 41.3825802,
+    "lng": 2.177073
+  },
+  {
+    "id": "spain-ripollet-radio-913-fm",
+    "name": "Ripollet Ràdio 91.3 FM",
+    "url": "https://directe.ripolletradio.cat/live",
+    "genre": "Music",
+    "city": "Barcelona",
+    "country": "Spain",
+    "lat": 41.3825802,
+    "lng": 2.177073
+  },
+  {
+    "id": "spain-rab-radio-america-barcelona",
+    "name": "RAB Ràdio AMèrica Barcelona",
+    "url": "https://s3.radio.co/sf09831a0e/listen",
+    "genre": "Music",
+    "city": "Barcelona",
+    "country": "Spain",
+    "lat": 41.3825802,
+    "lng": 2.177073
+  },
+  {
+    "id": "spain-radio-balear",
+    "name": "Radio Balear",
+    "url": "http://server6.20comunicacion.com:8076/",
+    "genre": "Music",
+    "city": "Palma de Mallorca",
+    "country": "Spain",
+    "lat": 39.5695818,
+    "lng": 2.6500745
+  },
+  {
+    "id": "spain-rne-baleares-fm-901",
+    "name": "RNE Baleares FM 90.1",
+    "url": "https://d131.rndfnk.com/star/crtve/rne1/bal/mp3/128/ct/stream.mp3?cid=01GENXDEP359Y7H3A20GN981S8&sid=38n6pvHOiafRvK01vZfkOEayGGW&token=x-ig9nWhE-cctV0bNQfBBhqj2RT1uW1rEK9DojNastQ&tvf=tkKMeKVUjhhkMTMxLnJuZGZuay5jb20",
+    "genre": "Music",
+    "city": "Palma de Mallorca",
+    "country": "Spain",
+    "lat": 39.5695818,
+    "lng": 2.6500745
+  },
+  {
+    "id": "spain-ona-mar-fm-880",
+    "name": "Ona Mar FM 88.0",
+    "url": "https://streaming.enacast.com/onamar128.mp3",
+    "genre": "Music",
+    "city": "Barcelona",
+    "country": "Spain",
+    "lat": 41.3825802,
+    "lng": 2.177073
+  },
+  {
+    "id": "spain-canal-4-radio",
+    "name": "Canal 4 Radio",
+    "url": "https://stream.recasound.es/proxy/canal4radio/stream",
+    "genre": "Music",
+    "city": "Palma de Mallorca",
+    "country": "Spain",
+    "lat": 39.5695818,
+    "lng": 2.6500745
+  },
+  {
+    "id": "spain-flaixbac",
+    "name": "Flaixbac",
+    "url": "https://us-b4-p-e-ja16-audio.cdn.mdstrm.com/live-audio-aw/65afe517d47dc208abd053d2?aid=65afe021932b88086588cb4c&pid=fY9ZjVZMbnKabx1WDs1HcrnWAxcLGJIe&sid=fKpxUvvQjmymZn9Y2fWAiFay584pmGO4&uid=D3bQUOrh0gop7dvDVVIj6SzPHBl3Hsnd&es=us-b4-p-e-ja16-audio.cdn.mdstrm.com&ote=1769509571620&ot=57puk0PVXS2-1R9Rp-E2_A&proto=https&pz=us&cP=128000&awCollectionId=65afe021932b88086588cb4c&liveId=65afe517d47dc208abd053d2&referer=https%3A%2F%2Fradio.garden%2F&listenerId=D3bQUOrh0gop7dvDVVIj6SzPHBl3Hsnd",
+    "genre": "Music",
+    "city": "Barcelona",
+    "country": "Spain",
+    "lat": 41.3825802,
+    "lng": 2.177073
+  },
+  {
+    "id": "spain-mallorca-sunshine-radio",
+    "name": "Mallorca Sunshine Radio",
+    "url": "https://mallorcasunshine--di--nacs-ais-lgc--05--cdn.cast.addradio.de/mallorcasunshine/live/mp3/high",
+    "genre": "Music",
+    "city": "Palma de Mallorca",
+    "country": "Spain",
+    "lat": 39.5695818,
+    "lng": 2.6500745
+  },
+  {
+    "id": "spain-rne-5-baleares-fm-997",
+    "name": "RNE 5 Baleares FM 99.7",
+    "url": "https://d131.rndfnk.com/star/crtve/rne5/pmi/mp3/128/stream.mp3?cid=01GEP50MSTTSX8MSAMVMKCPKPK&sid=38n6q0KmTAte62HInoXJzOEh3YR&token=GQrskJkn0hFFgLdnl1oDBUGm-Qec4gG1pBR0LEFgxLc&tvf=WmUzxqVUjhhkMTMxLnJuZGZuay5jb20",
+    "genre": "Music",
+    "city": "Palma de Mallorca",
+    "country": "Spain",
+    "lat": 39.5695818,
+    "lng": 2.6500745
+  },
+  {
+    "id": "spain-onda-cero-islas-baleares-951-fm",
+    "name": "Onda Cero Islas Baleares 95.1 FM",
+    "url": "https://23553.live.streamtheworld.com:443/OC_MALLORCAAAC",
+    "genre": "Music",
+    "city": "Palma de Mallorca",
+    "country": "Spain",
+    "lat": 39.5695818,
+    "lng": 2.6500745
+  },
+  {
+    "id": "spain-perfect-chillout",
+    "name": "Perfect Chillout",
+    "url": "https://n10.radiojar.com/whwyhz188a0uv?rj-ttl=5&rj-tok=AAABm_ngI94A7M2dpjtwqvNnQA",
+    "genre": "Music",
+    "city": "Palma de Mallorca",
+    "country": "Spain",
+    "lat": 39.5695818,
+    "lng": 2.6500745
+  },
+  {
+    "id": "spain-perfect-reggae",
+    "name": "Perfect Reggae",
+    "url": "https://n0d.radiojar.com/ezs0qr9m4qruv?rj-ttl=5&rj-tok=AAABm_ngIXQANCqAISR7pHQ42g",
+    "genre": "Music",
+    "city": "Palma de Mallorca",
+    "country": "Spain",
+    "lat": 39.5695818,
+    "lng": 2.6500745
+  },
+  {
+    "id": "spain-rtv-onda-vida",
+    "name": "RTV Onda Vida",
+    "url": "http://whmsonic.playerfullhd.com:8102/;stream.mp3",
+    "genre": "Music",
+    "city": "Seville",
+    "country": "Spain",
+    "lat": 37.3886303,
+    "lng": -5.9953403
+  },
+  {
+    "id": "spain-onda-capital-fm-951",
+    "name": "Onda Capital FM 95.1",
+    "url": "https://server1.radiocast.es/listen/onda_capital/capitalweb",
+    "genre": "Music",
+    "city": "Seville",
+    "country": "Spain",
+    "lat": 37.3886303,
+    "lng": -5.9953403
+  },
+  {
+    "id": "spain-oxígeno-europa-radio-fm-945",
+    "name": "Oxígeno Europa Radio FM 94.5",
+    "url": "https://eu1.lhdserver.es:3039/stream",
+    "genre": "Music",
+    "city": "Seville",
+    "country": "Spain",
+    "lat": 37.3886303,
+    "lng": -5.9953403
+  },
+  {
+    "id": "spain-radio-sevillanas",
+    "name": "Radio Sevillanas",
+    "url": "http://radio.wesped.com:8000/streamflamenco",
+    "genre": "Music",
+    "city": "Seville",
+    "country": "Spain",
+    "lat": 37.3886303,
+    "lng": -5.9953403
+  },
+  {
+    "id": "spain-perfect-salsa",
+    "name": "Perfect Salsa",
+    "url": "https://n08.radiojar.com/kfsf1eexrf9uv?rj-ttl=5&rj-tok=AAABm_ngJaAA09oL9x1XnzGApg",
+    "genre": "Music",
+    "city": "Palma de Mallorca",
+    "country": "Spain",
+    "lat": 39.5695818,
+    "lng": 2.6500745
+  },
+  {
+    "id": "spain-power-fm-993",
+    "name": "Power FM 99.3",
+    "url": "https://eu1.lhdserver.es:2023/stream",
+    "genre": "Music",
+    "city": "Seville",
+    "country": "Spain",
+    "lat": 37.3886303,
+    "lng": -5.9953403
+  },
+  {
+    "id": "spain-the-club-898-fm",
+    "name": "The Club 89.8 FM",
+    "url": "https://relay.stream.enacast-cloud.com:30256/radioclubmovilHD.mp3",
+    "genre": "Music",
+    "city": "Palma de Mallorca",
+    "country": "Spain",
+    "lat": 39.5695818,
+    "lng": 2.6500745
+  },
+  {
+    "id": "spain-radio-mallorca-fm-961",
+    "name": "Radio Mallorca FM 96.1",
+    "url": "https://25453.live.streamtheworld.com:443/SER_MALLORCAAAC.aac",
+    "genre": "Music",
+    "city": "Palma de Mallorca",
+    "country": "Spain",
+    "lat": 39.5695818,
+    "lng": 2.6500745
+  },
+  {
+    "id": "spain-ibiza-stardust-radio",
+    "name": "Ibiza Stardust Radio",
+    "url": "https://listen.radioking.com/radio/260965/stream/524456",
+    "genre": "Music",
+    "city": "Palma de Mallorca",
+    "country": "Spain",
+    "lat": 39.5695818,
+    "lng": 2.6500745
+  },
+  {
+    "id": "spain-ib3-radio",
+    "name": "IB3 Ràdio",
+    "url": "https://streaming01.ib3radio.com/ib3radio.mp3",
+    "genre": "Music",
+    "city": "Palma de Mallorca",
+    "country": "Spain",
+    "lat": 39.5695818,
+    "lng": 2.6500745
+  },
+  {
+    "id": "spain-oromana-radio-fm-928",
+    "name": "Oromana Radio FM 92.8",
+    "url": "http://str1.mediatelekom.net:8162/stream",
+    "genre": "Music",
+    "city": "Seville",
+    "country": "Spain",
+    "lat": 37.3886303,
+    "lng": -5.9953403
+  },
+  {
+    "id": "spain-onda-local-de-andalucía--ema-rtv",
+    "name": "Onda Local de Andalucía - EMA-RTV",
+    "url": "https://control.streaming-pro.com:6004/emartvlink.mp3",
+    "genre": "Music",
+    "city": "Seville",
+    "country": "Spain",
+    "lat": 37.3886303,
+    "lng": -5.9953403
+  },
+  {
+    "id": "spain-musulmanes-radio",
+    "name": "Musulmanes Radio",
+    "url": "https://redradioypc.com:8028/stream",
+    "genre": "Music",
+    "city": "Palma de Mallorca",
+    "country": "Spain",
+    "lat": 39.5695818,
+    "lng": 2.6500745
+  },
+  {
+    "id": "spain-radio-cantillana",
+    "name": "Radio Cantillana",
+    "url": "https://s22.myradiostream.com/:13956/index.html?sid=1",
+    "genre": "Music",
+    "city": "Seville",
+    "country": "Spain",
+    "lat": 37.3886303,
+    "lng": -5.9953403
+  },
+  {
+    "id": "spain-fm-sur-963",
+    "name": "FM Sur 96.3",
+    "url": "https://stream.fmsur.pro:8125/web.mp3",
+    "genre": "Music",
+    "city": "Málaga",
+    "country": "Spain",
+    "lat": 36.7213028,
+    "lng": -4.4216366
+  },
+  {
+    "id": "spain-radio-rinconada-fm-1047",
+    "name": "Radio Rinconada FM 104.7",
+    "url": "https://sonic.mediatelekom.net/9048/stream",
+    "genre": "Music",
+    "city": "Seville",
+    "country": "Spain",
+    "lat": 37.3886303,
+    "lng": -5.9953403
+  },
+  {
+    "id": "spain-ser-+-sevilla",
+    "name": "Ser + Sevilla",
+    "url": "https://25483.live.streamtheworld.com:443/SER_MAS_SEVILLA.mp3",
+    "genre": "Music",
+    "city": "Seville",
+    "country": "Spain",
+    "lat": 37.3886303,
+    "lng": -5.9953403
+  },
+  {
+    "id": "spain-cope-más-málaga",
+    "name": "COPE Más Málaga",
+    "url": "https://wecast24-o-cloud.flumotion.com/copesedes/malaga-mas.mp3",
+    "genre": "Music",
+    "city": "Málaga",
+    "country": "Spain",
+    "lat": 36.7213028,
+    "lng": -4.4216366
+  },
+  {
+    "id": "spain-esradio-sevilla",
+    "name": "EsRadio Sevilla",
+    "url": "https://libertaddigital-radio-live3.flumotion.com/libertaddigital/ld-live3-low.aac",
+    "genre": "Music",
+    "city": "Seville",
+    "country": "Spain",
+    "lat": 37.3886303,
+    "lng": -5.9953403
+  },
+  {
+    "id": "spain-master-fm-1011",
+    "name": "Master FM 101.1",
+    "url": "https://radios.lamaster.es/listen/master_fm/web24",
+    "genre": "Music",
+    "city": "Seville",
+    "country": "Spain",
+    "lat": 37.3886303,
+    "lng": -5.9953403
+  },
+  {
+    "id": "spain-radio-planeta",
+    "name": "Radio Planeta",
+    "url": "https://radioplaneta.emitironline.com/",
+    "genre": "Music",
+    "city": "Málaga",
+    "country": "Spain",
+    "lat": 36.7213028,
+    "lng": -4.4216366
+  },
+  {
+    "id": "spain-radio-marca-málaga",
+    "name": "Radio Marca Málaga",
+    "url": "https://cdn-peer032.streaming-pro.com:8131/malagafmmobile",
+    "genre": "Music",
+    "city": "Málaga",
+    "country": "Spain",
+    "lat": 36.7213028,
+    "lng": -4.4216366
+  },
+  {
+    "id": "spain-onda-cero-sevilla-fm-959",
+    "name": "Onda Cero Sevilla FM 95.9",
+    "url": "https://23603.live.streamtheworld.com:443/OC_SEVILLAAAC.aac",
+    "genre": "Music",
+    "city": "Seville",
+    "country": "Spain",
+    "lat": 37.3886303,
+    "lng": -5.9953403
+  },
+  {
+    "id": "spain-los-40-fm-971",
+    "name": "Los 40 FM 97.1",
+    "url": "https://25453.live.streamtheworld.com:443/LOS40_SEVILLA.mp3",
+    "genre": "Music",
+    "city": "Seville",
+    "country": "Spain",
+    "lat": 37.3886303,
+    "lng": -5.9953403
+  },
+  {
+    "id": "spain-radio-marca",
+    "name": "Radio Marca",
+    "url": "https://25683.live.streamtheworld.com:443/RADIOMARCA_SEVILLA.mp3",
+    "genre": "Music",
+    "city": "Seville",
+    "country": "Spain",
+    "lat": 37.3886303,
+    "lng": -5.9953403
+  },
+  {
+    "id": "spain-rock-66",
+    "name": "Rock 66",
+    "url": "http://streaming5.elitecomunicacion.es:8046/stream",
+    "genre": "Music",
+    "city": "Málaga",
+    "country": "Spain",
+    "lat": 36.7213028,
+    "lng": -4.4216366
+  },
+  {
+    "id": "spain-ahora-radio",
+    "name": "Ahora Radio",
+    "url": "https://relay.stream.enacast-cloud.com:40293/ahoraradiogelvesHD.mp3",
+    "genre": "Music",
+    "city": "Seville",
+    "country": "Spain",
+    "lat": 37.3886303,
+    "lng": -5.9953403
+  },
+  {
+    "id": "spain-alhaurín-radio-1070-fm",
+    "name": "Alhaurín Radio 107.0 FM",
+    "url": "https://server8.emitironline.com:18266/radio",
+    "genre": "Music",
+    "city": "Málaga",
+    "country": "Spain",
+    "lat": 36.7213028,
+    "lng": -4.4216366
+  },
+  {
+    "id": "spain-gozadera-fm",
+    "name": "Gozadera FM",
+    "url": "https://streaming.shoutcast.com/gozadera",
+    "genre": "Music",
+    "city": "Málaga",
+    "country": "Spain",
+    "lat": 36.7213028,
+    "lng": -4.4216366
+  },
+  {
+    "id": "spain-the-flow-1048-fm",
+    "name": "The FLOW 104.8 FM",
+    "url": "https://server8.emitironline.com:18738/stream",
+    "genre": "Music",
+    "city": "Málaga",
+    "country": "Spain",
+    "lat": 36.7213028,
+    "lng": -4.4216366
+  },
+  {
+    "id": "spain-radio-mandarina",
+    "name": "Radio Mandarina",
+    "url": "https://server8.emitironline.com:18526/stream",
+    "genre": "Music",
+    "city": "Valencia",
+    "country": "Spain",
+    "lat": 39.4697065,
+    "lng": -0.3763353
+  },
+  {
+    "id": "spain-atlantis-radio",
+    "name": "Atlantis Radio",
+    "url": "https://listen.radioking.com/radio/776405/stream/843824",
+    "genre": "Music",
+    "city": "Málaga",
+    "country": "Spain",
+    "lat": 36.7213028,
+    "lng": -4.4216366
+  },
+  {
+    "id": "spain-cadena-ser-málaga",
+    "name": "Cadena SER Málaga",
+    "url": "https://22183.live.streamtheworld.com:443/SER_MALAGA.mp3",
+    "genre": "Music",
+    "city": "Málaga",
+    "country": "Spain",
+    "lat": 36.7213028,
+    "lng": -4.4216366
+  },
+  {
+    "id": "spain-spektra-fm",
+    "name": "Spektra FM",
+    "url": "http://stm1.emiteonline.com:8008/spektrafm",
+    "genre": "Music",
+    "city": "Valencia",
+    "country": "Spain",
+    "lat": 39.4697065,
+    "lng": -0.3763353
+  },
+  {
+    "id": "spain-ro-fm-valencia",
+    "name": "RO FM Valencia",
+    "url": "https://rofmvalencia.cyou/radio/8000/live.mp3",
+    "genre": "Music",
+    "city": "Valencia",
+    "country": "Spain",
+    "lat": 39.4697065,
+    "lng": -0.3763353
+  },
+  {
+    "id": "spain-onda-cero-málaga-fm-908",
+    "name": "Onda Cero Málaga FM 90.8",
+    "url": "https://20073.live.streamtheworld.com:443/OC_MALAGAAAC.aac",
+    "genre": "Music",
+    "city": "Málaga",
+    "country": "Spain",
+    "lat": 36.7213028,
+    "lng": -4.4216366
+  },
+  {
+    "id": "spain-codigo-fm-1007",
+    "name": "Codigo FM 100.7",
+    "url": "https://cloudstream2034.conectarhosting.com/8024/stream",
+    "genre": "Music",
+    "city": "Valencia",
+    "country": "Spain",
+    "lat": 39.4697065,
+    "lng": -0.3763353
+  },
+  {
+    "id": "spain-mdt-radio-1074-fm",
+    "name": "MDT Radio 107.4 FM",
+    "url": "http://streams1.mdtradio.com:8020/mdtweb",
+    "genre": "Music",
+    "city": "Valencia",
+    "country": "Spain",
+    "lat": 39.4697065,
+    "lng": -0.3763353
+  },
+  {
+    "id": "spain-ser-andalucia-centro-1001-fm",
+    "name": "SER Andalucia Centro 100.1 FM",
+    "url": "https://25483.live.streamtheworld.com:443/SER_ASO_ANTEQUERA.mp3",
+    "genre": "Music",
+    "city": "Málaga",
+    "country": "Spain",
+    "lat": 36.7213028,
+    "lng": -4.4216366
+  },
+  {
+    "id": "spain-ibcvmedia-radio",
+    "name": "IBCVmedia Radio",
+    "url": "https://streaming.hosters.es/proxy/samuel/stream",
+    "genre": "Music",
+    "city": "Valencia",
+    "country": "Spain",
+    "lat": 39.4697065,
+    "lng": -0.3763353
+  },
+  {
+    "id": "spain-onda-aragonesa-967-fm",
+    "name": "Onda Aragonesa 96.7 FM",
+    "url": "https://eu1.lhdserver.es:9047/stream",
+    "genre": "Music",
+    "city": "Zaragoza",
+    "country": "Spain",
+    "lat": 41.6521342,
+    "lng": -0.8809428
+  },
+  {
+    "id": "spain-remember-the-music-fm-966",
+    "name": "Remember The Music FM 96.6",
+    "url": "https://stream-153.zeno.fm/2h5vfzf57vzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIyaDV2ZnpmNTd2enV2IiwiaG9zdCI6InN0cmVhbS0xNTMuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiVXplaXdkMFNTMUtfTmlaY2NlRzZwdyIsImlhdCI6MTc2OTQyMzE4MiwiZXhwIjoxNzY5NDIzMjQyfQ.uIloWgne_CBik9p59SJIbC8uJ2xHNxfxsmNpaPqSvXo",
+    "genre": "Music",
+    "city": "Valencia",
+    "country": "Spain",
+    "lat": 39.4697065,
+    "lng": -0.3763353
+  },
+  {
+    "id": "spain-cadena-ser--radio-valencia",
+    "name": "Cadena Ser - Radio Valencia",
+    "url": "https://28563.live.streamtheworld.com:443/SER_VALENCIA.mp3",
+    "genre": "Music",
+    "city": "Valencia",
+    "country": "Spain",
+    "lat": 39.4697065,
+    "lng": -0.3763353
+  },
+  {
+    "id": "spain-flash-radio-spain",
+    "name": "Flash Radio Spain",
+    "url": "https://flashradioserver.es/radio/8000/radio.mp3",
+    "genre": "Music",
+    "city": "Valencia",
+    "country": "Spain",
+    "lat": 39.4697065,
+    "lng": -0.3763353
+  },
+  {
+    "id": "spain-radio-metropolitana-fm-1064",
+    "name": "Radio Metropolitana FM 106.4",
+    "url": "https://streaming.enacast.com/radiometropolitanamalaga128.mp3",
+    "genre": "Music",
+    "city": "Málaga",
+    "country": "Spain",
+    "lat": 36.7213028,
+    "lng": -4.4216366
+  },
+  {
+    "id": "spain-radio-sol-albal-937-fm",
+    "name": "Ràdio SOL Albal 93.7 FM",
+    "url": "https://stream.mediasector.es/listen/radiosol_albal/radiosolalbal.mp3",
+    "genre": "Music",
+    "city": "Valencia",
+    "country": "Spain",
+    "lat": 39.4697065,
+    "lng": -0.3763353
+  },
+  {
+    "id": "spain-radio-la-granja-fm-1021",
+    "name": "Radio La Granja FM 102.1",
+    "url": "https://radiobot.radioslibres.info/radio/8040/rlg.mp3",
+    "genre": "Music",
+    "city": "Zaragoza",
+    "country": "Spain",
+    "lat": 41.6521342,
+    "lng": -0.8809428
+  },
+  {
+    "id": "spain-radio-topo",
+    "name": "Radio Topo",
+    "url": "https://radiobot.radioslibres.info/listen/radio_topo/radio96.mp3",
+    "genre": "Music",
+    "city": "Zaragoza",
+    "country": "Spain",
+    "lat": 41.6521342,
+    "lng": -0.8809428
+  },
+  {
+    "id": "spain-radio-la-nueva-990-fm",
+    "name": "Radio La Nueva 99.0 FM",
+    "url": "https://sonicpanel.zonaradio.net:7064/index.html?sid=1",
+    "genre": "Music",
+    "city": "Zaragoza",
+    "country": "Spain",
+    "lat": 41.6521342,
+    "lng": -0.8809428
+  },
+  {
+    "id": "spain-onda-cero-valencia-1012-fm",
+    "name": "Onda Cero Valencia 101.2 FM",
+    "url": "https://25593.live.streamtheworld.com:443/OC_VALENCIAAAC.aac",
+    "genre": "Music",
+    "city": "Valencia",
+    "country": "Spain",
+    "lat": 39.4697065,
+    "lng": -0.3763353
+  },
+  {
+    "id": "spain-radio-la-pobla-de-vallbona-1078-fm",
+    "name": "Ràdio la Pobla de Vallbona 107.8 FM",
+    "url": "https://relay.stream.enacast-cloud.com:40243/pobladevallbonaHD.mp3",
+    "genre": "Music",
+    "city": "Valencia",
+    "country": "Spain",
+    "lat": 39.4697065,
+    "lng": -0.3763353
+  },
+  {
+    "id": "spain-cope-calatayud",
+    "name": "COPE Calatayud",
+    "url": "http://server6.20comunicacion.com:8030/",
+    "genre": "Music",
+    "city": "Zaragoza",
+    "country": "Spain",
+    "lat": 41.6521342,
+    "lng": -0.8809428
+  },
+  {
+    "id": "spain-megadisco-radio",
+    "name": "MegaDisco Radio",
+    "url": "https://megadiscoradio.stream.laut.fm/megadiscoradio?t302=2026-01-26_10-26-18&uuid=fb266d16-7d9c-4a69-9f0a-2fe3b04cd0f1",
+    "genre": "Music",
+    "city": "Málaga",
+    "country": "Spain",
+    "lat": 36.7213028,
+    "lng": -4.4216366
+  },
+  {
+    "id": "spain-radio-ebro-fm-1052",
+    "name": "Radio Ebro FM 105.2",
+    "url": "http://s2.prositel.net:7010/ebrofm",
+    "genre": "Music",
+    "city": "Zaragoza",
+    "country": "Spain",
+    "lat": 41.6521342,
+    "lng": -0.8809428
+  },
+  {
+    "id": "spain-aldaia-radio-894-fm",
+    "name": "Aldaia Radio 89.4 FM",
+    "url": "https://relay.stream.enacast-cloud.com:40223/aldaiaradioHD.mp3",
+    "genre": "Music",
+    "city": "Valencia",
+    "country": "Spain",
+    "lat": 39.4697065,
+    "lng": -0.3763353
+  },
+  {
+    "id": "spain-radio-power-96",
+    "name": "Radio Power 96",
+    "url": "https://s15.myradiostream.com:7382/listen.mp3?nocache=1769423185",
+    "genre": "Music",
+    "city": "Zaragoza",
+    "country": "Spain",
+    "lat": 41.6521342,
+    "lng": -0.8809428
+  },
+  {
+    "id": "spain-radio-marca-876-fm",
+    "name": "Radio Marca 87.6 FM",
+    "url": "https://c6.auracast.net/radio/8020/radio.mp3",
+    "genre": "Music",
+    "city": "Zaragoza",
+    "country": "Spain",
+    "lat": 41.6521342,
+    "lng": -0.8809428
+  },
+  {
+    "id": "spain-onda-cero-zaragoza-994-fm",
+    "name": "Onda Cero Zaragoza 99.4 FM",
+    "url": "https://25433.live.streamtheworld.com:443/OC_ZARAGOZAAAC",
+    "genre": "Music",
+    "city": "Zaragoza",
+    "country": "Spain",
+    "lat": 41.6521342,
+    "lng": -0.8809428
+  },
+  {
+    "id": "spain-radio-zaragoza-cadena-ser",
+    "name": "Radio Zaragoza Cadena SER",
+    "url": "https://25533.live.streamtheworld.com:443/SER_ZARAGOZAAAC.aac",
+    "genre": "Music",
+    "city": "Zaragoza",
+    "country": "Spain",
+    "lat": 41.6521342,
+    "lng": -0.8809428
+  },
+  {
+    "id": "spain-radio-carnaval",
+    "name": "Radio Carnaval",
+    "url": "https://streamtotal.net/proxy/carnaval/stream",
+    "genre": "Music",
+    "city": "Santa Cruz de Tenerife",
+    "country": "Spain",
+    "lat": 28.467178,
+    "lng": -16.2507843
+  },
+  {
+    "id": "spain-la-fresca-tenerife-1047-fm",
+    "name": "La Fresca Tenerife 104.7 FM",
+    "url": "https://stream.produccionesdale.com:8899/tenerife",
+    "genre": "Music",
+    "city": "Santa Cruz de Tenerife",
+    "country": "Spain",
+    "lat": 28.467178,
+    "lng": -16.2507843
+  },
+  {
+    "id": "spain-radio-túria-906-fm",
+    "name": "Ràdio Túria 90.6 FM",
+    "url": "https://streaming.enacast.com/radioturiaHD.mp3",
+    "genre": "Music",
+    "city": "Valencia",
+    "country": "Spain",
+    "lat": 39.4697065,
+    "lng": -0.3763353
+  },
+  {
+    "id": "spain-la-almunia-radio-fm-1074",
+    "name": "La Almunia Radio FM 107.4",
+    "url": "https://stream-179.zeno.fm/dahlxvtaz1guv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJkYWhseHZ0YXoxZ3V2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiaUFnV1lLbmZTNTJFVjBwYnhrelh1dyIsImlhdCI6MTc2OTQyMzE4NywiZXhwIjoxNzY5NDIzMjQ3fQ.DqAIQLX1Zemnx0MC6za_5qxdnCuSyhiWr8PsqkWjNtc",
+    "genre": "Music",
+    "city": "Zaragoza",
+    "country": "Spain",
+    "lat": 41.6521342,
+    "lng": -0.8809428
+  },
+  {
+    "id": "spain-la-diez-radio",
+    "name": "La Diez Radio",
+    "url": "https://panel5.soydigital.fm/8030/stream",
+    "genre": "Music",
+    "city": "Santa Cruz de Tenerife",
+    "country": "Spain",
+    "lat": 28.467178,
+    "lng": -16.2507843
+  },
+  {
+    "id": "spain-qfm-943",
+    "name": "QFM 94.3",
+    "url": "https://securestreams4.autopo.st:1889/stream",
+    "genre": "Music",
+    "city": "Santa Cruz de Tenerife",
+    "country": "Spain",
+    "lat": 28.467178,
+    "lng": -16.2507843
+  },
+  {
+    "id": "spain-mix-fm-radio-989-fm",
+    "name": "Mix FM Radio 98.9 FM",
+    "url": "https://server10.emitironline.com:8064/",
+    "genre": "Music",
+    "city": "Santa Cruz de Tenerife",
+    "country": "Spain",
+    "lat": 28.467178,
+    "lng": -16.2507843
+  },
+  {
+    "id": "spain-radio-daute-isla-baja",
+    "name": "Radio Daute Isla Baja",
+    "url": "https://sp.dattavolt.com/8196/stream",
+    "genre": "Music",
+    "city": "Santa Cruz de Tenerife",
+    "country": "Spain",
+    "lat": 28.467178,
+    "lng": -16.2507843
+  },
+  {
+    "id": "spain-cope-más-tenerife",
+    "name": "COPE Más Tenerife",
+    "url": "https://wecast-bl03.flumotion.com/copesedes/tenerife-mas.mp3",
+    "genre": "Music",
+    "city": "Santa Cruz de Tenerife",
+    "country": "Spain",
+    "lat": 28.467178,
+    "lng": -16.2507843
+  },
+  {
+    "id": "spain-puro-sabor-fm--zona-capital",
+    "name": "Puro Sabor FM - Zona Capital",
+    "url": "https://icecasthd.net/proxy/purosabor/purosabor",
+    "genre": "Music",
+    "city": "Santa Cruz de Tenerife",
+    "country": "Spain",
+    "lat": 28.467178,
+    "lng": -16.2507843
+  },
+  {
+    "id": "spain-radio-cinco-villas-cadena-ser",
+    "name": "Radio Cinco Villas Cadena SER",
+    "url": "https://27913.live.streamtheworld.com:443/SER_CINCO_VILLAS.mp3",
+    "genre": "Music",
+    "city": "Zaragoza",
+    "country": "Spain",
+    "lat": 41.6521342,
+    "lng": -0.8809428
+  },
+  {
+    "id": "spain-graba-radio-ibiza",
+    "name": "Graba Radio Ibiza",
+    "url": "https://radio.grabamusic.com/gmr-hd",
+    "genre": "Music",
+    "city": "Ibiza",
+    "country": "Spain",
+    "lat": 38.9743901,
+    "lng": 1.4197463
+  },
+  {
+    "id": "spain-radio-6-tenerife",
+    "name": "Radio 6 Tenerife",
+    "url": "https://ns6.emisionlocal.com/proxy/radio6?mp=/stream",
+    "genre": "Music",
+    "city": "Santa Cruz de Tenerife",
+    "country": "Spain",
+    "lat": 28.467178,
+    "lng": -16.2507843
+  },
+  {
+    "id": "spain-radio-jazz,-rock-blues",
+    "name": "Radio Jazz, Rock & Blues",
+    "url": "https://conectperu.com/8464/stream",
+    "genre": "Music",
+    "city": "Santa Cruz de Tenerife",
+    "country": "Spain",
+    "lat": 28.467178,
+    "lng": -16.2507843
+  },
+  {
+    "id": "spain-ibiza-global-radio-fm-1008",
+    "name": "Ibiza Global Radio FM 100.8",
+    "url": "https://cdn-peer022.streaming-pro.com:8025/ibizaglobalradio.mp3",
+    "genre": "Music",
+    "city": "Ibiza",
+    "country": "Spain",
+    "lat": 38.9743901,
+    "lng": 1.4197463
+  },
+  {
+    "id": "spain-radio-club-tenerife-cadena-ser",
+    "name": "Radio Club Tenerife Cadena SER",
+    "url": "https://23543.live.streamtheworld.com:443/SER_TENERIFEAAC.aac",
+    "genre": "Music",
+    "city": "Santa Cruz de Tenerife",
+    "country": "Spain",
+    "lat": 28.467178,
+    "lng": -16.2507843
+  },
+  {
+    "id": "spain-blue-marlin-ibiza",
+    "name": "Blue Marlin Ibiza",
+    "url": "https://ibizasonica.streaming-pro.com:8001/bluemarlin",
+    "genre": "Music",
+    "city": "Ibiza",
+    "country": "Spain",
+    "lat": 38.9743901,
+    "lng": 1.4197463
+  },
+  {
+    "id": "spain-ibiza-records-radio",
+    "name": "Ibiza Records Radio",
+    "url": "https://a11.asurahosting.com:9010/radio.mp3",
+    "genre": "Music",
+    "city": "Ibiza",
+    "country": "Spain",
+    "lat": 38.9743901,
+    "lng": 1.4197463
+  },
+  {
+    "id": "spain-costa-del-mar--chillout",
+    "name": "Costa Del Mar - Chillout",
+    "url": "https://radio4.cdm-radio.com:18020/stream64k-AAC-Chill",
+    "genre": "Music",
+    "city": "Ibiza",
+    "country": "Spain",
+    "lat": 38.9743901,
+    "lng": 1.4197463
+  },
+  {
+    "id": "spain-ibiza-live-radio-fm-1037",
+    "name": "Ibiza Live Radio FM 103.7",
+    "url": "https://uksoutha.streaming.broadcast.radio/ibiza-live-radio",
+    "genre": "Music",
+    "city": "Ibiza",
+    "country": "Spain",
+    "lat": 38.9743901,
+    "lng": 1.4197463
+  },
+  {
+    "id": "spain-costa-del-mar--deep-house",
+    "name": "Costa Del Mar - Deep House",
+    "url": "https://radio4.cdm-radio.com:18012/stream64k-AAC-Deep",
+    "genre": "Music",
+    "city": "Ibiza",
+    "country": "Spain",
+    "lat": 38.9743901,
+    "lng": 1.4197463
+  },
+  {
+    "id": "spain-radio-calvia-fm-1074",
+    "name": "Ràdio Calvià FM 107.4",
+    "url": "https://eu1.lhdserver.es:3149/stream",
+    "genre": "Music",
+    "city": "Ibiza",
+    "country": "Spain",
+    "lat": 38.9743901,
+    "lng": 1.4197463
+  },
+  {
+    "id": "spain-ibiza-organica-radio-1011-fm",
+    "name": "Ibiza Organica Radio 101.1 FM",
+    "url": "https://stream-15.aiir.com/ilduibssvzbtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJpbGR1aWJzc3Z6YnR2IiwiaG9zdCI6InN0cmVhbS0xNS5haWlyLmNvbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiQUd3T3FfamtRd0N5U01maXk4Y3ZGQSIsImlhdCI6MTc2OTQyMzE5MiwiZXhwIjoxNzY5NDIzMjUyfQ.sv4TdMeMC3FZgdLmqNKF1qA8u8WRVAH8FnJYIMwvTK4",
+    "genre": "Music",
+    "city": "Ibiza",
+    "country": "Spain",
+    "lat": 38.9743901,
+    "lng": 1.4197463
+  },
+  {
+    "id": "spain-radiosion",
+    "name": "raDIOSion",
+    "url": "https://eu1.lhdserver.es:9131/stream",
+    "genre": "Music",
+    "city": "Murcia",
+    "country": "Spain",
+    "lat": 37.9923795,
+    "lng": -1.1305431
+  },
+  {
+    "id": "spain-ibiza-1-fm-941",
+    "name": "Ibiza 1 FM 94.1",
+    "url": "https://n05.rcs.revma.com/p1s12vpxdd3vv?rj-ttl=5&rj-tok=AAABm_ngZj0AJbDhGGzKKhfEGQ",
+    "genre": "Music",
+    "city": "Ibiza",
+    "country": "Spain",
+    "lat": 38.9743901,
+    "lng": 1.4197463
+  },
+  {
+    "id": "spain-ibiza-bpm-radio",
+    "name": "Ibiza BPM Radio",
+    "url": "https://streams.radio.co/s3ed04b8f7/listen",
+    "genre": "Music",
+    "city": "Ibiza",
+    "country": "Spain",
+    "lat": 38.9743901,
+    "lng": 1.4197463
+  },
+  {
+    "id": "spain-fabulosa-fm",
+    "name": "Fabulosa FM",
+    "url": "https://medios.fabulosafm.es/listen/fabulosa_fm/radio.mp3",
+    "genre": "Music",
+    "city": "Murcia",
+    "country": "Spain",
+    "lat": 37.9923795,
+    "lng": -1.1305431
+  },
+  {
+    "id": "spain-pure-ibiza-radio-fm-972",
+    "name": "Pure Ibiza Radio FM 97.2",
+    "url": "https://pureibizaradio.streaming-pro.com:8024/stream.aac",
+    "genre": "Music",
+    "city": "Ibiza",
+    "country": "Spain",
+    "lat": 38.9743901,
+    "lng": 1.4197463
+  },
+  {
+    "id": "spain-morefm-80s",
+    "name": "MoreFM 80s",
+    "url": "https://stream-mmr80s.creativedork.com/",
+    "genre": "Music",
+    "city": "Murcia",
+    "country": "Spain",
+    "lat": 37.9923795,
+    "lng": -1.1305431
+  },
+  {
+    "id": "spain-onda-3-radio",
+    "name": "Onda 3 Radio",
+    "url": "https://sonic.mediatelekom.net:10997/index.html?sid=1",
+    "genre": "Music",
+    "city": "Murcia",
+    "country": "Spain",
+    "lat": 37.9923795,
+    "lng": -1.1305431
+  },
+  {
+    "id": "spain-sensacion-fm",
+    "name": "Sensacion FM",
+    "url": "https://securestream.radioshd.info:7023/index.html?sid=1",
+    "genre": "Music",
+    "city": "Murcia",
+    "country": "Spain",
+    "lat": 37.9923795,
+    "lng": -1.1305431
+  },
+  {
+    "id": "spain-br2-pure-gold-radio-941",
+    "name": "BR2 Pure Gold Radio 94.1",
+    "url": "https://s6.myradiostream.com:6244/listen.mp3?nocache=1769423193",
+    "genre": "Music",
+    "city": "Ibiza",
+    "country": "Spain",
+    "lat": 38.9743901,
+    "lng": 1.4197463
+  },
+  {
+    "id": "spain-rcc-fm-946",
+    "name": "RCC FM 94.6",
+    "url": "https://radios.yanapak.org/rcc",
+    "genre": "Music",
+    "city": "Santa Cruz de Tenerife",
+    "country": "Spain",
+    "lat": 28.467178,
+    "lng": -16.2507843
+  },
+  {
+    "id": "spain-urban-revolution",
+    "name": "Urban Revolution",
+    "url": "https://st1.urbanrevolution.es:8443/directo",
+    "genre": "Music",
+    "city": "Murcia",
+    "country": "Spain",
+    "lat": 37.9923795,
+    "lng": -1.1305431
+  },
+  {
+    "id": "spain-radio-ibiza-paradise-927-fm",
+    "name": "Radio Ibiza Paradise 92.7 FM",
+    "url": "https://s9.citrus3.com:8174/stream",
+    "genre": "Music",
+    "city": "Ibiza",
+    "country": "Spain",
+    "lat": 38.9743901,
+    "lng": 1.4197463
+  },
+  {
+    "id": "spain-ibiza-playabout-radio",
+    "name": "Ibiza PlayAbout Radio",
+    "url": "https://streams.radio.co/s489162ca0/listen",
+    "genre": "Music",
+    "city": "Ibiza",
+    "country": "Spain",
+    "lat": 38.9743901,
+    "lng": 1.4197463
+  },
+  {
+    "id": "spain-cope-espuña-fm-887",
+    "name": "Cope Espuña FM 88.7",
+    "url": "https://eu1.lhdserver.es:3197/stream",
+    "genre": "Music",
+    "city": "Murcia",
+    "country": "Spain",
+    "lat": 37.9923795,
+    "lng": -1.1305431
+  },
+  {
+    "id": "spain-wifon-fm-975",
+    "name": "Wifon FM 97.5",
+    "url": "https://betelgeuse.nucast.co.uk:8044/wifonfm",
+    "genre": "Music",
+    "city": "Murcia",
+    "country": "Spain",
+    "lat": 37.9923795,
+    "lng": -1.1305431
+  },
+  {
+    "id": "spain-motiva-fm-969",
+    "name": "Motiva FM 96.9",
+    "url": "https://stream.motivafm.com/listen/motiva/motiva-murcia.mp3",
+    "genre": "Music",
+    "city": "Murcia",
+    "country": "Spain",
+    "lat": 37.9923795,
+    "lng": -1.1305431
+  },
+  {
+    "id": "spain-radio-sintonía-fm-1078",
+    "name": "Radio Sintonía FM 107.8",
+    "url": "https://nodo102.liveradio.com.es/8008/stream",
+    "genre": "Music",
+    "city": "Murcia",
+    "country": "Spain",
+    "lat": 37.9923795,
+    "lng": -1.1305431
+  },
+  {
+    "id": "spain-moderna-fm-1006",
+    "name": "Moderna FM 100.6",
+    "url": "https://radioip.es:8300/radio.mp3",
+    "genre": "Music",
+    "city": "Murcia",
+    "country": "Spain",
+    "lat": 37.9923795,
+    "lng": -1.1305431
+  },
+  {
+    "id": "spain-ser+-radio-murcia",
+    "name": "SER+ Radio Murcia",
+    "url": "https://27953.live.streamtheworld.com:443/SER_MAS_MURCIA.mp3",
+    "genre": "Music",
+    "city": "Murcia",
+    "country": "Spain",
+    "lat": 37.9923795,
+    "lng": -1.1305431
+  },
+  {
+    "id": "spain-lafresca-granada-988-fm",
+    "name": "laFRESCA Granada 98.8 FM",
+    "url": "https://stream.produccionesdale.com/listen/lafresca/granada",
+    "genre": "Music",
+    "city": "Granada",
+    "country": "Spain",
+    "lat": 37.1734995,
+    "lng": -3.5995337
+  },
+  {
+    "id": "spain-radio-murcia-cadena-ser",
+    "name": "Radio Murcia Cadena SER",
+    "url": "https://27833.live.streamtheworld.com:443/SER_MURCIAAAC.aac",
+    "genre": "Music",
+    "city": "Murcia",
+    "country": "Spain",
+    "lat": 37.9923795,
+    "lng": -1.1305431
+  },
+  {
+    "id": "spain-radio-almaina-885-fm",
+    "name": "Radio Almaina 88.5 FM",
+    "url": "https://zeppelin.streampunk.cc/_stream/almaina.ogg",
+    "genre": "Music",
+    "city": "Granada",
+    "country": "Spain",
+    "lat": 37.1734995,
+    "lng": -3.5995337
+  },
+  {
+    "id": "spain-radio-alfaguara-1070-fm",
+    "name": "Radio Alfaguara 107.0 FM",
+    "url": "https://server8.emitironline.com:18582/stream",
+    "genre": "Music",
+    "city": "Granada",
+    "country": "Spain",
+    "lat": 37.1734995,
+    "lng": -3.5995337
+  },
+  {
+    "id": "spain-cadena-ser-arco-norte",
+    "name": "Cadena SER Arco Norte",
+    "url": "https://29053.live.streamtheworld.com:443/SER_ARCO_NORTEAAC.aac",
+    "genre": "Music",
+    "city": "Murcia",
+    "country": "Spain",
+    "lat": 37.9923795,
+    "lng": -1.1305431
+  },
+  {
+    "id": "spain-onda-cero-murcia-929-fm",
+    "name": "Onda Cero Murcia 92.9 FM",
+    "url": "https://22533.live.streamtheworld.com:443/OC_MURCIAAAC",
+    "genre": "Music",
+    "city": "Murcia",
+    "country": "Spain",
+    "lat": 37.9923795,
+    "lng": -1.1305431
+  },
+  {
+    "id": "spain-esradio-fm-1067",
+    "name": "esRadio FM 106.7",
+    "url": "https://azura.abcorp.es/listen/esradio_granada/radio.mp3",
+    "genre": "Music",
+    "city": "Granada",
+    "country": "Spain",
+    "lat": 37.1734995,
+    "lng": -3.5995337
+  },
+  {
+    "id": "spain-radio-alhama-en-internet",
+    "name": "Radio Alhama en Internet",
+    "url": "https://stream.alhama.com/live",
+    "genre": "Music",
+    "city": "Granada",
+    "country": "Spain",
+    "lat": 37.1734995,
+    "lng": -3.5995337
+  },
+  {
+    "id": "spain-energy-fm-923",
+    "name": "Energy FM 92.3",
+    "url": "https://radio.almunecar360.com/listen/energyfm/radio.mp3",
+    "genre": "Music",
+    "city": "Granada",
+    "country": "Spain",
+    "lat": 37.1734995,
+    "lng": -3.5995337
+  },
+  {
+    "id": "spain-onda-amistad-radio",
+    "name": "Onda Amistad Radio",
+    "url": "https://radioserver11.profesionalhosting.com/proxy/pkg64943?mp=/;",
+    "genre": "Music",
+    "city": "Alicante",
+    "country": "Spain",
+    "lat": 38.3436365,
+    "lng": -0.4881708
+  },
+  {
+    "id": "spain-cadena-ser--radio-granada",
+    "name": "Cadena SER - Radio Granada",
+    "url": "https://25593.live.streamtheworld.com:443/SER_ASO_GRANADAAAC.aac",
+    "genre": "Music",
+    "city": "Granada",
+    "country": "Spain",
+    "lat": 37.1734995,
+    "lng": -3.5995337
+  },
+  {
+    "id": "spain-onda-cero-granada-fm-920",
+    "name": "Onda Cero Granada FM 92.0",
+    "url": "https://25433.live.streamtheworld.com:443/OC_GRANADAAAC.aac",
+    "genre": "Music",
+    "city": "Granada",
+    "country": "Spain",
+    "lat": 37.1734995,
+    "lng": -3.5995337
+  },
+  {
+    "id": "spain-motiva-fm-945",
+    "name": "Motiva FM 94.5",
+    "url": "https://stream.motivafm.com/listen/motiva/motiva-alicante.mp3",
+    "genre": "Music",
+    "city": "Alicante",
+    "country": "Spain",
+    "lat": 38.3436365,
+    "lng": -0.4881708
+  },
+  {
+    "id": "spain-radio-mi-amigo-int-sw-6085",
+    "name": "Radio Mi Amigo Int. SW 6085",
+    "url": "https://lion.radioca.st/index.html?sid=1",
+    "genre": "Music",
+    "city": "Alicante",
+    "country": "Spain",
+    "lat": 38.3436365,
+    "lng": -0.4881708
+  },
+  {
+    "id": "spain-fabulosa-fm-941",
+    "name": "Fabulosa FM 94.1",
+    "url": "https://cast2.vulnerados.es:8102/stream",
+    "genre": "Music",
+    "city": "Valladolid",
+    "country": "Spain",
+    "lat": 41.6521807,
+    "lng": -4.728605
+  },
+  {
+    "id": "spain-bikini-fm-1068",
+    "name": "Bikini FM 106.8",
+    "url": "https://stream.emisorasmusicales.net/listen/bikini_fm/bikinifm.mp3",
+    "genre": "Music",
+    "city": "Alicante",
+    "country": "Spain",
+    "lat": 38.3436365,
+    "lng": -0.4881708
+  },
+  {
+    "id": "spain-esencia-fm-907",
+    "name": "Esencia FM 90.7",
+    "url": "https://stream.emisorasmusicales.net/radio/8040/esenciafm.mp3",
+    "genre": "Music",
+    "city": "Alicante",
+    "country": "Spain",
+    "lat": 38.3436365,
+    "lng": -0.4881708
+  },
+  {
+    "id": "spain-radio-plus",
+    "name": "Radio Plus",
+    "url": "https://radio5.pro-fhi.net/listen-jhkzrddd-stream.mp3",
+    "genre": "Music",
+    "city": "Alicante",
+    "country": "Spain",
+    "lat": 38.3436365,
+    "lng": -0.4881708
+  },
+  {
+    "id": "spain-power-fm-964",
+    "name": "Power FM 96.4",
+    "url": "https://streaming.powerfmvalladolid.com:4430/stream",
+    "genre": "Music",
+    "city": "Valladolid",
+    "country": "Spain",
+    "lat": 41.6521807,
+    "lng": -4.728605
+  },
+  {
+    "id": "spain-onda-15",
+    "name": "Onda 15",
+    "url": "https://azc.standfy.com/radio/8200/onda15#.mp3",
+    "genre": "Music",
+    "city": "Alicante",
+    "country": "Spain",
+    "lat": 38.3436365,
+    "lng": -0.4881708
+  },
+  {
+    "id": "spain-motiva-fm-valladolid-978",
+    "name": "Motiva FM Valladolid 97.8",
+    "url": "https://stream.motivafm.com/listen/motiva/motiva-valladolid",
+    "genre": "Music",
+    "city": "Valladolid",
+    "country": "Spain",
+    "lat": 41.6521807,
+    "lng": -4.728605
+  },
+  {
+    "id": "spain-sugar-radio",
+    "name": "Sugar Radio",
+    "url": "https://a5.asurahosting.com/listen/sugar_radio/radio.mp3",
+    "genre": "Music",
+    "city": "Alicante",
+    "country": "Spain",
+    "lat": 38.3436365,
+    "lng": -0.4881708
+  },
+  {
+    "id": "spain-radio-alicante-cadena-ser",
+    "name": "Radio Alicante Cadena SER",
+    "url": "https://22193.live.streamtheworld.com:443/SER_ALICANTEAAC.aac",
+    "genre": "Music",
+    "city": "Alicante",
+    "country": "Spain",
+    "lat": 38.3436365,
+    "lng": -0.4881708
+  },
+  {
+    "id": "spain-elchemania-radio",
+    "name": "elchemania radio",
+    "url": "https://stream-158.zeno.fm/sgy0u3sd2hhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzZ3kwdTNzZDJoaHZ2IiwiaG9zdCI6InN0cmVhbS0xNTguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiTktmZnlUcy1RcmlFVTdjZVQ2TzY2dyIsImlhdCI6MTc2OTQyMzIwMCwiZXhwIjoxNzY5NDIzMjYwfQ.75Rc-OnL7JsFO0rtPtvvCzvbVm2P7kyOSy8gYw3-OOM",
+    "genre": "Music",
+    "city": "Alicante",
+    "country": "Spain",
+    "lat": 38.3436365,
+    "lng": -0.4881708
+  },
+  {
+    "id": "spain-radio-elda-ser-fm-902",
+    "name": "Radio Elda SER FM 90.2",
+    "url": "https://25433.live.streamtheworld.com:443/SER_ASO_ELDAAAC.aac",
+    "genre": "Music",
+    "city": "Alicante",
+    "country": "Spain",
+    "lat": 38.3436365,
+    "lng": -0.4881708
+  },
+  {
+    "id": "spain-rne-castilla-y-león-fm-973",
+    "name": "RNE Castilla y León FM 97.3",
+    "url": "https://d131.rndfnk.com/star/crtve/rne1/cyl/mp3/128/ct/stream.mp3?cid=01GEP0DN8GCZC2C0SGZXHEXY4M&sid=38n6tXtJruCNStr0qj5ki9TgzmW&token=jMRImjzKXTxY177CZvLxDEjoUPm7YMyrqZghCnHp6-0&tvf=XGZ6NKxUjhhkMTMxLnJuZGZuay5jb20",
+    "genre": "Music",
+    "city": "Valladolid",
+    "country": "Spain",
+    "lat": 41.6521807,
+    "lng": -4.728605
+  },
+  {
+    "id": "spain-vive-radio-999-fm",
+    "name": "Vive! Radio 99.9 FM",
+    "url": "https://streaming.viveradio.es/vivevalladolid",
+    "genre": "Music",
+    "city": "Valladolid",
+    "country": "Spain",
+    "lat": 41.6521807,
+    "lng": -4.728605
+  },
+  {
+    "id": "spain-onda-cero-valladolid-1052-fm",
+    "name": "Onda Cero Valladolid 105.2 FM",
+    "url": "https://25593.live.streamtheworld.com:443/OC_VALLADOLIDAAC",
+    "genre": "Music",
+    "city": "Valladolid",
+    "country": "Spain",
+    "lat": 41.6521807,
+    "lng": -4.728605
+  },
+  {
+    "id": "spain-mortal-fm",
+    "name": "Mortal FM",
+    "url": "https://server10.emitironline.com:8044/stream/1/",
+    "genre": "Music",
+    "city": "Valladolid",
+    "country": "Spain",
+    "lat": 41.6521807,
+    "lng": -4.728605
+  },
+  {
+    "id": "spain-radio-las-palmas-fm-973",
+    "name": "Radio Las Palmas FM 97.3",
+    "url": "http://uk1.streamingpulse.com:7066/stream",
+    "genre": "Music",
+    "city": "Las Palmas de Gran Canaria",
+    "country": "Spain",
+    "lat": 28.1288694,
+    "lng": -15.4349015
+  },
+  {
+    "id": "spain-sunshine-fm-1028",
+    "name": "Sunshine FM 102.8",
+    "url": "https://ice31.securenetsystems.net/SRFM",
+    "genre": "Music",
+    "city": "Alicante",
+    "country": "Spain",
+    "lat": 38.3436365,
+    "lng": -0.4881708
+  },
+  {
+    "id": "spain-77-radio-online",
+    "name": "7.7 Radio Online",
+    "url": "https://cast1.my-control-panel.com/proxy/carlosa1/stream",
+    "genre": "Music",
+    "city": "Las Palmas de Gran Canaria",
+    "country": "Spain",
+    "lat": 28.1288694,
+    "lng": -15.4349015
+  },
+  {
+    "id": "spain-radio-aspe-fm-1034",
+    "name": "Radio Aspe FM 103.4",
+    "url": "https://streaming.enacast.com/radioaspe128.mp3",
+    "genre": "Music",
+    "city": "Alicante",
+    "country": "Spain",
+    "lat": 38.3436365,
+    "lng": -0.4881708
+  },
+  {
+    "id": "spain-radio-ibi",
+    "name": "Radio Ibi",
+    "url": "https://streaming.enacast.com/radioibiSD.mp3",
+    "genre": "Music",
+    "city": "Alicante",
+    "country": "Spain",
+    "lat": 38.3436365,
+    "lng": -0.4881708
+  },
+  {
+    "id": "spain-radio-europa-fm-1025",
+    "name": "Radio Europa FM 102.5",
+    "url": "https://server8.emitironline.com:18408/",
+    "genre": "Music",
+    "city": "Las Palmas de Gran Canaria",
+    "country": "Spain",
+    "lat": 28.1288694,
+    "lng": -15.4349015
+  },
+  {
+    "id": "spain-inolvidable-fm-958",
+    "name": "Inolvidable FM 95.8",
+    "url": "https://uk1.streamingpulse.com/ssl/inolvidablefm",
+    "genre": "Music",
+    "city": "Las Palmas de Gran Canaria",
+    "country": "Spain",
+    "lat": 28.1288694,
+    "lng": -15.4349015
+  },
+  {
+    "id": "spain-cope-más-gran-canaria",
+    "name": "Cope Más Gran Canaria",
+    "url": "https://wecast-bl02.flumotion.com/copesedes/laspalmas-mas.mp3",
+    "genre": "Music",
+    "city": "Las Palmas de Gran Canaria",
+    "country": "Spain",
+    "lat": 28.1288694,
+    "lng": -15.4349015
+  },
+  {
+    "id": "spain-techno-room",
+    "name": "Techno Room",
+    "url": "https://s12.myradiostream.com:17550/listen.mp3?nocache=1769423204",
+    "genre": "Music",
+    "city": "Valladolid",
+    "country": "Spain",
+    "lat": 41.6521807,
+    "lng": -4.728605
+  },
+  {
+    "id": "spain-radio-marca-valladolid",
+    "name": "Radio Marca Valladolid",
+    "url": "https://radiomarcavalladolid.streaming-pro.com:6106/radiomarca.mp3",
+    "genre": "Music",
+    "city": "Valladolid",
+    "country": "Spain",
+    "lat": 41.6521807,
+    "lng": -4.728605
+  },
+  {
+    "id": "spain-canarias-radio",
+    "name": "Canarias Radio",
+    "url": "https://rtvc-radio.flumotion.com/rtvc-radio/radio1-high.mp3",
+    "genre": "Music",
+    "city": "Las Palmas de Gran Canaria",
+    "country": "Spain",
+    "lat": 28.1288694,
+    "lng": -15.4349015
+  },
+  {
+    "id": "spain-radio-valladolid-cadena-ser",
+    "name": "Radio Valladolid Cadena SER",
+    "url": "https://25543.live.streamtheworld.com:443/SER_VALLADOLIDAAC.aac",
+    "genre": "Music",
+    "city": "Valladolid",
+    "country": "Spain",
+    "lat": 41.6521807,
+    "lng": -4.728605
+  },
+  {
+    "id": "spain-radio-medina-cadena-ser",
+    "name": "Radio Medina Cadena SER",
+    "url": "https://27903.live.streamtheworld.com:443/SER_ASO_MEDINAAAC.aac",
+    "genre": "Music",
+    "city": "Valladolid",
+    "country": "Spain",
+    "lat": 41.6521807,
+    "lng": -4.728605
+  },
+  {
+    "id": "spain-calimbre-radio",
+    "name": "Calimbre Radio",
+    "url": "https://control.streaming-pro.com:6048/stream",
+    "genre": "Music",
+    "city": "Las Palmas de Gran Canaria",
+    "country": "Spain",
+    "lat": 28.1288694,
+    "lng": -15.4349015
+  },
+  {
+    "id": "spain-tamaran-fm",
+    "name": "Tamaran FM",
+    "url": "http://server2.20comunicacion.com:8038/index.html?sid=1",
+    "genre": "Music",
+    "city": "Las Palmas de Gran Canaria",
+    "country": "Spain",
+    "lat": 28.1288694,
+    "lng": -15.4349015
+  },
+  {
+    "id": "spain-radio-segovia--ser",
+    "name": "Radio Segovia - Ser",
+    "url": "https://20103.live.streamtheworld.com:443/SER_ASO_SEGOVIAAAC.aac",
+    "genre": "Music",
+    "city": "Valladolid",
+    "country": "Spain",
+    "lat": 41.6521807,
+    "lng": -4.728605
+  },
+  {
+    "id": "spain-radio-planeta-gran-canaria-fm-968",
+    "name": "Radio Planeta Gran Canaria FM 96.8",
+    "url": "https://srv7021.dns-lcinternet.com/8076/stream",
+    "genre": "Music",
+    "city": "Las Palmas de Gran Canaria",
+    "country": "Spain",
+    "lat": 28.1288694,
+    "lng": -15.4349015
+  },
+  {
+    "id": "spain-el-espejo-canario",
+    "name": "El Espejo Canario",
+    "url": "https://radioserver11.profesionalhosting.com/proxy/pkg1147232?mp=/stream",
+    "genre": "Music",
+    "city": "Las Palmas de Gran Canaria",
+    "country": "Spain",
+    "lat": 28.1288694,
+    "lng": -15.4349015
+  },
+  {
+    "id": "spain-oid-radio4g-cantabria",
+    "name": "OID Radio4G Cantabria",
+    "url": "http://ns100.emisionlocal.com:9428/live",
+    "genre": "Music",
+    "city": "Santander",
+    "country": "Spain",
+    "lat": 43.4618932,
+    "lng": -3.8100255
+  },
+  {
+    "id": "spain-radio-rabel",
+    "name": "Radio Rabel",
+    "url": "https://eu1.lhdserver.es:3093/stream",
+    "genre": "Music",
+    "city": "Santander",
+    "country": "Spain",
+    "lat": 43.4618932,
+    "lng": -3.8100255
+  },
+  {
+    "id": "spain-onda-canaria-fm-1027",
+    "name": "Onda Canaria FM 102.7",
+    "url": "https://server8.emitironline.com:10864/radio",
+    "genre": "Music",
+    "city": "Las Palmas de Gran Canaria",
+    "country": "Spain",
+    "lat": 28.1288694,
+    "lng": -15.4349015
+  },
+  {
+    "id": "spain-la-kalle-fm-960",
+    "name": "La Kalle FM 96.0",
+    "url": "https://eu1.lhdserver.es:3021/stream",
+    "genre": "Music",
+    "city": "Santander",
+    "country": "Spain",
+    "lat": 43.4618932,
+    "lng": -3.8100255
+  },
+  {
+    "id": "spain-onda-cero-canarias-1068-fm",
+    "name": "Onda Cero Canarias 106.8 FM",
+    "url": "https://25323.live.streamtheworld.com:443/OC_CANARIASAAC",
+    "genre": "Music",
+    "city": "Las Palmas de Gran Canaria",
+    "country": "Spain",
+    "lat": 28.1288694,
+    "lng": -15.4349015
+  },
+  {
+    "id": "spain-radio-pcl-radio",
+    "name": "Radio PCL Radio",
+    "url": "https://radiostreaming.online/8016/stream",
+    "genre": "Music",
+    "city": "Las Palmas de Gran Canaria",
+    "country": "Spain",
+    "lat": 28.1288694,
+    "lng": -15.4349015
+  },
+  {
+    "id": "spain-cadena-ser-las-palmas",
+    "name": "Cadena SER Las Palmas",
+    "url": "https://20073.live.streamtheworld.com:443/SER_LAS_PALMASAAC.aac",
+    "genre": "Music",
+    "city": "Las Palmas de Gran Canaria",
+    "country": "Spain",
+    "lat": 28.1288694,
+    "lng": -15.4349015
+  },
+  {
+    "id": "spain-rne-cantabria-fm-969",
+    "name": "RNE Cantabria FM 96.9",
+    "url": "https://f131.rndfnk.com/star/crtve/rne1/ctb/mp3/128/ct/stream.mp3?cid=01GENYRB3SBAWBGTZNA59D2JE5&sid=38n6uEUshyoFznywjhwONiCzCMj&token=FRl1tnWNTDqIh2wTVZ997iu6wOH7E1SDushPANUnY7w&tvf=r6PWpq1UjhhmMTMxLnJuZGZuay5jb20",
+    "genre": "Music",
+    "city": "Santander",
+    "country": "Spain",
+    "lat": 43.4618932,
+    "lng": -3.8100255
+  },
+  {
+    "id": "spain-radio-ingenio-fm-1022",
+    "name": "Radio Ingenio FM 102.2",
+    "url": "https://stream-176.zeno.fm/972ksag0xqzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI5NzJrc2FnMHhxenV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiVUJONjFRck9SOHFZYWpLMklrMFdDdyIsImlhdCI6MTc2OTQyMzIwNywiZXhwIjoxNzY5NDIzMjY3fQ.Io9IDnSWl6KcLOGMmlGXnItOqCsBHrX6-A9nYtfsR3Y",
+    "genre": "Music",
+    "city": "Las Palmas de Gran Canaria",
+    "country": "Spain",
+    "lat": 28.1288694,
+    "lng": -15.4349015
+  },
+  {
+    "id": "spain-bizkaia-irratia",
+    "name": "BIZKAIA Irratia",
+    "url": "http://79.137.33.224:8000/bizkaiairratia2",
+    "genre": "Music",
+    "city": "Bilbao",
+    "country": "Spain",
+    "lat": 43.2630018,
+    "lng": -2.9350039
+  },
+  {
+    "id": "spain-radio-foramontanos-1074-fm",
+    "name": "Radio Foramontanos 107.4 FM",
+    "url": "https://foramontanos.fm:8443/live",
+    "genre": "Music",
+    "city": "Santander",
+    "country": "Spain",
+    "lat": 43.4618932,
+    "lng": -3.8100255
+  },
+  {
+    "id": "spain-radio-popular--herri-irratia-bilbao",
+    "name": "Radio Popular - Herri Irratia Bilbao",
+    "url": "http://79.137.33.224:8000/radiopopular1",
+    "genre": "Music",
+    "city": "Bilbao",
+    "country": "Spain",
+    "lat": 43.2630018,
+    "lng": -2.9350039
+  },
+  {
+    "id": "spain-radio-espinosa-merindades",
+    "name": "Radio Espinosa Merindades",
+    "url": "https://srv7021.dns-lcinternet.com/8072/stream",
+    "genre": "Music",
+    "city": "Santander",
+    "country": "Spain",
+    "lat": 43.4618932,
+    "lng": -3.8100255
+  },
+  {
+    "id": "spain-radio-marca-cantabria-942-fm",
+    "name": "Radio Marca Cantabria 94.2 FM",
+    "url": "https://ns6.emisionlocal.com/proxy/radiomarca?mp=/stream",
+    "genre": "Music",
+    "city": "Santander",
+    "country": "Spain",
+    "lat": 43.4618932,
+    "lng": -3.8100255
+  },
+  {
+    "id": "spain-cadena-mix-fm",
+    "name": "Cadena Mix FM",
+    "url": "https://ns6.emisionlocal.com/proxy/radiomix?mp=/stream",
+    "genre": "Music",
+    "city": "Santander",
+    "country": "Spain",
+    "lat": 43.4618932,
+    "lng": -3.8100255
+  },
+  {
+    "id": "spain-esradio-cantabria-1064-fm",
+    "name": "esRadio Cantabria 106.4 FM",
+    "url": "https://ns100.emisionlocal.com/proxy/esradiocantabria?mp=/stream",
+    "genre": "Music",
+    "city": "Santander",
+    "country": "Spain",
+    "lat": 43.4618932,
+    "lng": -3.8100255
+  },
+  {
+    "id": "spain-radio-euskadi",
+    "name": "Radio Euskadi",
+    "url": "http://mp3-eitb.stream.flumotion.com/eitb/radioeuskadi.mp3",
+    "genre": "Music",
+    "city": "Bilbao",
+    "country": "Spain",
+    "lat": 43.2630018,
+    "lng": -2.9350039
+  },
+  {
+    "id": "spain-radio-costa-esmeralda",
+    "name": "Radio Costa Esmeralda",
+    "url": "https://s26.myradiostream.com/:14264/index.html?sid=1",
+    "genre": "Music",
+    "city": "Santander",
+    "country": "Spain",
+    "lat": 43.4618932,
+    "lng": -3.8100255
+  },
+  {
+    "id": "spain-arco-fm-cantabria-877",
+    "name": "Arco FM Cantabria 87.7",
+    "url": "https://hisparadio.duckdns.org/stream/1/stream.mp3",
+    "genre": "Music",
+    "city": "Santander",
+    "country": "Spain",
+    "lat": 43.4618932,
+    "lng": -3.8100255
+  },
+  {
+    "id": "spain-radio-santander-cadena-ser",
+    "name": "Radio Santander Cadena SER",
+    "url": "https://25633.live.streamtheworld.com:443/SER_SANTANDERAAC.aac",
+    "genre": "Music",
+    "city": "Santander",
+    "country": "Spain",
+    "lat": 43.4618932,
+    "lng": -3.8100255
+  },
+  {
+    "id": "spain-euskadi-irratia",
+    "name": "Euskadi Irratia",
+    "url": "http://mp3-eitb.stream.flumotion.com/eitb/euskadiirratia.mp3",
+    "genre": "Music",
+    "city": "Bilbao",
+    "country": "Spain",
+    "lat": 43.2630018,
+    "lng": -2.9350039
+  },
+  {
+    "id": "spain-radio-carrizal",
+    "name": "Radio Carrizal",
+    "url": "https://streaming.enacast.com/radiocarrizal128.mp3",
+    "genre": "Music",
+    "city": "Las Palmas de Gran Canaria",
+    "country": "Spain",
+    "lat": 28.1288694,
+    "lng": -15.4349015
+  },
+  {
+    "id": "spain-cadena-ser-castro-urdiales",
+    "name": "Cadena SER Castro Urdiales",
+    "url": "https://25483.live.streamtheworld.com:443/SER_CASTRO_URDIALES.mp3",
+    "genre": "Music",
+    "city": "Santander",
+    "country": "Spain",
+    "lat": 43.4618932,
+    "lng": -3.8100255
+  },
+  {
+    "id": "spain-radio-nervión-880",
+    "name": "Radio Nervión 88.0",
+    "url": "https://stream.radionervion.com/listen/radio-nervion/radionervion.mp3",
+    "genre": "Music",
+    "city": "Bilbao",
+    "country": "Spain",
+    "lat": 43.2630018,
+    "lng": -2.9350039
+  },
+  {
+    "id": "spain-mi-radio-975-fm",
+    "name": "Mi Radio 97.5 FM",
+    "url": "https://a10.asurahosting.com:9060/radio.mp3",
+    "genre": "Music",
+    "city": "Bilbao",
+    "country": "Spain",
+    "lat": 43.2630018,
+    "lng": -2.9350039
+  },
+  {
+    "id": "spain-itsuki-irratia-fm-1070",
+    "name": "Itsuki Irratia FM 107.0",
+    "url": "https://irratia.itsuki.freemyip.com/itsuki.opus",
+    "genre": "Music",
+    "city": "Bilbao",
+    "country": "Spain",
+    "lat": 43.2630018,
+    "lng": -2.9350039
+  },
+  {
+    "id": "spain-radio-caritas-tui-vigo",
+    "name": "Radio Caritas Tui-Vigo",
+    "url": "https://srv7021.dns-lcinternet.com/8052/stream",
+    "genre": "Music",
+    "city": "Vigo",
+    "country": "Spain",
+    "lat": 42.2376602,
+    "lng": -8.7247205
+  },
+  {
+    "id": "spain-phonotoner-radio",
+    "name": "Phonotoner Radio",
+    "url": "https://sonicpanel.globalstream.pro/8028/stream",
+    "genre": "Music",
+    "city": "Vigo",
+    "country": "Spain",
+    "lat": 42.2376602,
+    "lng": -8.7247205
+  },
+  {
+    "id": "spain-soft-radio",
+    "name": "Soft Radio",
+    "url": "https://str3.openstream.co/2339?aw_0_1st.collectionid%3D6263%26stationId%3D6263%26publisherId%3D2363%26k%3D1769423211",
+    "genre": "Music",
+    "city": "Bilbao",
+    "country": "Spain",
+    "lat": 43.2630018,
+    "lng": -2.9350039
+  },
+  {
+    "id": "spain-cadena-ser-radio-bilbao",
+    "name": "Cadena SER Radio Bilbao",
+    "url": "https://25453.live.streamtheworld.com:443/SER_BILBAOAAC.aac",
+    "genre": "Music",
+    "city": "Bilbao",
+    "country": "Spain",
+    "lat": 43.2630018,
+    "lng": -2.9350039
+  },
+  {
+    "id": "spain-onda-vasca",
+    "name": "Onda Vasca",
+    "url": "https://ondavascaplayer.com:8001/bizkaia",
+    "genre": "Music",
+    "city": "Bilbao",
+    "country": "Spain",
+    "lat": 43.2630018,
+    "lng": -2.9350039
+  },
+  {
+    "id": "spain-rkv-radio",
+    "name": "RKV Radio",
+    "url": "https://sonicpanel.globalstream.pro/8196/stream",
+    "genre": "Music",
+    "city": "Vigo",
+    "country": "Spain",
+    "lat": 42.2376602,
+    "lng": -8.7247205
+  },
+  {
+    "id": "spain-durango-irratia",
+    "name": "Durango Irratia",
+    "url": "https://durangoirratia.streaming-pro.com:6006/durangoirratia.mp3",
+    "genre": "Music",
+    "city": "Bilbao",
+    "country": "Spain",
+    "lat": 43.2630018,
+    "lng": -2.9350039
+  },
+  {
+    "id": "spain-radiovoz-1038",
+    "name": "RadioVoz 103.8",
+    "url": "https://live.radiovoz.es/mp3/stream_vigo.mp3",
+    "genre": "Music",
+    "city": "Vigo",
+    "country": "Spain",
+    "lat": 42.2376602,
+    "lng": -8.7247205
+  },
+  {
+    "id": "spain-rocafm-clasicos-vigo",
+    "name": "RocaFM Clasicos Vigo",
+    "url": "https://xxdelgado.radioca.st/stream",
+    "genre": "Music",
+    "city": "Vigo",
+    "country": "Spain",
+    "lat": 42.2376602,
+    "lng": -8.7247205
+  },
+  {
+    "id": "spain-ondacero-vigo-1054-fm",
+    "name": "OndaCero Vigo 105.4 FM",
+    "url": "https://20103.live.streamtheworld.com:443/OC_VIGOAAC",
+    "genre": "Music",
+    "city": "Vigo",
+    "country": "Spain",
+    "lat": 42.2376602,
+    "lng": -8.7247205
+  },
+  {
+    "id": "spain-radio-amor-portugal",
+    "name": "Radio Amor Portugal",
+    "url": "http://stream.radioamorportugal.com:8000/rap.mp3",
+    "genre": "Music",
+    "city": "Vigo",
+    "country": "Spain",
+    "lat": 42.2376602,
+    "lng": -8.7247205
+  },
+  {
+    "id": "spain-la-explosiva-fm-1039",
+    "name": "La Explosiva FM 103.9",
+    "url": "http://5.135.183.124:8125/stream",
+    "genre": "Music",
+    "city": "Pamplona",
+    "country": "Spain",
+    "lat": 42.8181992,
+    "lng": -1.6440089
+  },
+  {
+    "id": "spain-radio-vigo-ser+",
+    "name": "Radio Vigo SER+",
+    "url": "https://23553.live.streamtheworld.com:443/SER_ASO_MAS_VIGO.mp3",
+    "genre": "Music",
+    "city": "Vigo",
+    "country": "Spain",
+    "lat": 42.2376602,
+    "lng": -8.7247205
+  },
+  {
+    "id": "spain-radio-caminha-fm-1062",
+    "name": "Radio Caminha FM 106.2",
+    "url": "https://sp0.redeaudio.com/9918/stream",
+    "genre": "Music",
+    "city": "Vigo",
+    "country": "Spain",
+    "lat": 42.2376602,
+    "lng": -8.7247205
+  },
+  {
+    "id": "spain-atica-fm",
+    "name": "Atica FM",
+    "url": "https://server8.emitironline.com:18571/atica",
+    "genre": "Music",
+    "city": "Pamplona",
+    "country": "Spain",
+    "lat": 42.8181992,
+    "lng": -1.6440089
+  },
+  {
+    "id": "spain-eguzki-irratia",
+    "name": "Eguzki Irratia",
+    "url": "https://streaming.eguzki.eus/eguzki.mp3",
+    "genre": "Music",
+    "city": "Pamplona",
+    "country": "Spain",
+    "lat": 42.8181992,
+    "lng": -1.6440089
+  },
+  {
+    "id": "spain-radio-vigo-ser-fm-1006",
+    "name": "Radio Vigo SER FM 100.6",
+    "url": "https://25483.live.streamtheworld.com:443/SER_ASO_VIGO.mp3",
+    "genre": "Music",
+    "city": "Vigo",
+    "country": "Spain",
+    "lat": 42.2376602,
+    "lng": -8.7247205
+  },
+  {
+    "id": "spain-los40-vigo-994-fm",
+    "name": "LOS40 Vigo 99.4 FM",
+    "url": "https://22183.live.streamtheworld.com:443/LOS40_ASO_VIGO.mp3",
+    "genre": "Music",
+    "city": "Vigo",
+    "country": "Spain",
+    "lat": 42.2376602,
+    "lng": -8.7247205
+  },
+  {
+    "id": "spain-trak-fm",
+    "name": "Trak FM",
+    "url": "https://pr1cen101.emisionlocal.com/proxy/trakfm?mp=/stream",
+    "genre": "Music",
+    "city": "Pamplona",
+    "country": "Spain",
+    "lat": 42.8181992,
+    "lng": -1.6440089
+  },
+  {
+    "id": "spain-euskalerria-irratia",
+    "name": "Euskalerria Irratia",
+    "url": "https://server9.emitironline.com:8014/stream",
+    "genre": "Music",
+    "city": "Pamplona",
+    "country": "Spain",
+    "lat": 42.8181992,
+    "lng": -1.6440089
+  },
+  {
+    "id": "spain-loca-fm-pamplona-889",
+    "name": "Loca FM Pamplona 88.9",
+    "url": "https://s47.myradiostream.com:13914/stream/1/",
+    "genre": "Music",
+    "city": "Pamplona",
+    "country": "Spain",
+    "lat": 42.8181992,
+    "lng": -1.6440089
+  },
+  {
+    "id": "spain-los40-classic-vigo-1012-fm",
+    "name": "LOS40 Classic Vigo 101.2 FM",
+    "url": "https://22593.live.streamtheworld.com:443/LOS40CL_ASO_VIGO.mp3",
+    "genre": "Music",
+    "city": "Vigo",
+    "country": "Spain",
+    "lat": 42.2376602,
+    "lng": -8.7247205
+  },
+  {
+    "id": "spain-cope-más-pamplona",
+    "name": "COPE Más Pamplona",
+    "url": "https://wecast-bl03.flumotion.com/copesedes/pamplona-mas.mp3",
+    "genre": "Music",
+    "city": "Pamplona",
+    "country": "Spain",
+    "lat": 42.8181992,
+    "lng": -1.6440089
+  },
+  {
+    "id": "spain-radio-marca-navarra-fm-1019",
+    "name": "Radio Marca Navarra FM 101.9",
+    "url": "https://srv7041.dns-lcinternet.com/8054/stream",
+    "genre": "Music",
+    "city": "Pamplona",
+    "country": "Spain",
+    "lat": 42.8181992,
+    "lng": -1.6440089
+  },
+  {
+    "id": "spain-eztanda-irratia-1076-fm",
+    "name": "Eztanda Irratia 107.6 FM",
+    "url": "https://streaming.eguzki.eus/eztanda.mp3",
+    "genre": "Music",
+    "city": "Pamplona",
+    "country": "Spain",
+    "lat": 42.8181992,
+    "lng": -1.6440089
+  },
+  {
+    "id": "spain-radio-marca-vigo",
+    "name": "Radio Marca Vigo",
+    "url": "https://streaming.enacast.com/radiomarcavigoHD.mp3",
+    "genre": "Music",
+    "city": "Vigo",
+    "country": "Spain",
+    "lat": 42.2376602,
+    "lng": -8.7247205
+  },
+  {
+    "id": "spain-rne-navarra-fm-1061",
+    "name": "RNE Navarra FM 106.1",
+    "url": "https://d141.rndfnk.com/star/crtve/rne1/nav/mp3/128/ct/stream.mp3?cid=01GENZSPVYG0R84NK9E1C77RSZ&sid=38n6vP9iP6bI0LILI1HjPeGzNyJ&token=FXdAxgielpjshOP56YpAgPLE-ECV1HAbci0-EQgLpdQ&tvf=HWIy2a9UjhhkMTQxLnJuZGZuay5jb20",
+    "genre": "Music",
+    "city": "Pamplona",
+    "country": "Spain",
+    "lat": 42.8181992,
+    "lng": -1.6440089
+  },
+  {
+    "id": "spain-activa-hits-radio-fm-933",
+    "name": "Activa Hits Radio FM 93.3",
+    "url": "https://sonic.mediatelekom.net/8490/stream",
+    "genre": "Music",
+    "city": "Maspalomas",
+    "country": "Spain",
+    "lat": 27.7527731,
+    "lng": -15.5970832
+  },
+  {
+    "id": "spain-radio-pamplona-cadena-ser",
+    "name": "Radio Pamplona Cadena SER",
+    "url": "https://25643.live.streamtheworld.com:443/SER_PAMPLONAAAC.aac",
+    "genre": "Music",
+    "city": "Pamplona",
+    "country": "Spain",
+    "lat": 42.8181992,
+    "lng": -1.6440089
+  },
+  {
+    "id": "spain-mediabask",
+    "name": "MediaBask",
+    "url": "https://zuzenean.naizirratia.eus/radio_mediabask.mp3",
+    "genre": "Music",
+    "city": "Pamplona",
+    "country": "Spain",
+    "lat": 42.8181992,
+    "lng": -1.6440089
+  },
+  {
+    "id": "spain-onda-cero-pamplona",
+    "name": "Onda Cero Pamplona",
+    "url": "https://20043.live.streamtheworld.com:443/OC_PAMPLONAAAC",
+    "genre": "Music",
+    "city": "Pamplona",
+    "country": "Spain",
+    "lat": 42.8181992,
+    "lng": -1.6440089
+  },
+  {
+    "id": "spain-rádio-ondas-do-lima",
+    "name": "Rádio Ondas do Lima",
+    "url": "https://centova.radio.com.pt/proxy/407?mp=/stream",
+    "genre": "Music",
+    "city": "Vigo",
+    "country": "Spain",
+    "lat": 42.2376602,
+    "lng": -8.7247205
+  },
+  {
+    "id": "spain-radio-top-21",
+    "name": "Radio Top 21",
+    "url": "https://radiostreaming.online/8004/stream",
+    "genre": "Music",
+    "city": "Maspalomas",
+    "country": "Spain",
+    "lat": 27.7527731,
+    "lng": -15.5970832
+  },
+  {
+    "id": "spain-radio-dunas",
+    "name": "Radio Dunas",
+    "url": "https://radioserver12.profesionalhosting.com/proxy/pkg84563/stream",
+    "genre": "Music",
+    "city": "Maspalomas",
+    "country": "Spain",
+    "lat": 27.7527731,
+    "lng": -15.5970832
+  },
+  {
+    "id": "spain-irulegiko-irratia-fm-918",
+    "name": "Irulegiko Irratia FM 91.8",
+    "url": "https://hosting.studioradiomedia.fr:1365/stream",
+    "genre": "Music",
+    "city": "Pamplona",
+    "country": "Spain",
+    "lat": 42.8181992,
+    "lng": -1.6440089
+  },
+  {
+    "id": "spain-radio-afifense-fm-876",
+    "name": "Radio Afifense FM 87.6",
+    "url": "https://centova.radio.com.pt/proxy/471?mp=/stream",
+    "genre": "Music",
+    "city": "Vigo",
+    "country": "Spain",
+    "lat": 42.2376602,
+    "lng": -8.7247205
+  },
+  {
+    "id": "spain-radio-irún-cadena-ser",
+    "name": "Radio Irún Cadena SER",
+    "url": "https://25593.live.streamtheworld.com:443/SER_IRUN.mp3",
+    "genre": "Music",
+    "city": "Pamplona",
+    "country": "Spain",
+    "lat": 42.8181992,
+    "lng": -1.6440089
+  },
+  {
+    "id": "spain-latina-fm-906",
+    "name": "Latina FM 90.6",
+    "url": "https://radiostreaming.online:8002/Stream",
+    "genre": "Music",
+    "city": "Maspalomas",
+    "country": "Spain",
+    "lat": 27.7527731,
+    "lng": -15.5970832
+  },
+  {
+    "id": "spain-mix-radio-1011-fm",
+    "name": "Mix Radio 101.1 FM",
+    "url": "https://mixfm.radionetz.de/mixfm.mp3",
+    "genre": "Music",
+    "city": "Maspalomas",
+    "country": "Spain",
+    "lat": 27.7527731,
+    "lng": -15.5970832
+  },
+  {
+    "id": "spain-radio-calima--oro",
+    "name": "Radio Calima - Oro",
+    "url": "https://escucha.calima.fm/aradio",
+    "genre": "Music",
+    "city": "Maspalomas",
+    "country": "Spain",
+    "lat": 27.7527731,
+    "lng": -15.5970832
+  },
+  {
+    "id": "spain-esan-erran-irratia-fm-1079",
+    "name": "Esan Erran Irratia FM 107.9",
+    "url": "https://ametza.eus:8082/EsanErran-mp3",
+    "genre": "Music",
+    "city": "Pamplona",
+    "country": "Spain",
+    "lat": 42.8181992,
+    "lng": -1.6440089
+  },
+  {
+    "id": "spain-radio-calima",
+    "name": "Radio Calima",
+    "url": "https://escucha.calima.fm/stream",
+    "genre": "Music",
+    "city": "Maspalomas",
+    "country": "Spain",
+    "lat": 27.7527731,
+    "lng": -15.5970832
+  },
+  {
+    "id": "spain-radio-faro-fm-925",
+    "name": "Radio Faro FM 92.5",
+    "url": "https://radio.digitalfarocanarias.com/listen/radio_faro/RadioFaro",
+    "genre": "Music",
+    "city": "Maspalomas",
+    "country": "Spain",
+    "lat": 27.7527731,
+    "lng": -15.5970832
+  },
+  {
+    "id": "spain-radio-calima--gaymas",
+    "name": "Radio Calima - Gaymas",
+    "url": "https://escucha.calima.fm/cero",
+    "genre": "Music",
+    "city": "Maspalomas",
+    "country": "Spain",
+    "lat": 27.7527731,
+    "lng": -15.5970832
+  },
+  {
+    "id": "spain-radio-aventura-siglo-21",
+    "name": "Radio Aventura Siglo 21",
+    "url": "https://relay.stream.enacast-cloud.com:40213/carmelomartinHD.mp3",
+    "genre": "Music",
+    "city": "Maspalomas",
+    "country": "Spain",
+    "lat": 27.7527731,
+    "lng": -15.5970832
+  },
+  {
+    "id": "spain-holland-fm-907",
+    "name": "Holland FM 90.7",
+    "url": "https://panel.amediastream.eu:8500/live",
+    "genre": "Music",
+    "city": "Maspalomas",
+    "country": "Spain",
+    "lat": 27.7527731,
+    "lng": -15.5970832
+  },
+  {
+    "id": "spain-gold-fm-1038",
+    "name": "Gold FM 103.8",
+    "url": "https://panel.amediastream.eu:9500/goldfm",
+    "genre": "Music",
+    "city": "Maspalomas",
+    "country": "Spain",
+    "lat": 27.7527731,
+    "lng": -15.5970832
+  }
+]

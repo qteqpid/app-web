@@ -1,0 +1,312 @@
+[
+  {
+    "id": "iceland-streamfo",
+    "name": "Stream.fo",
+    "url": "http://srv.stream.fo:8000/high",
+    "genre": "Music",
+    "city": "Reykjavík",
+    "country": "Iceland",
+    "lat": 64.145981,
+    "lng": -21.9422367
+  },
+  {
+    "id": "iceland-98,7fm",
+    "name": "98,7FM",
+    "url": "http://srv1.stream.fo:8000/128.mp3",
+    "genre": "Music",
+    "city": "Siglufjörður",
+    "country": "Iceland",
+    "lat": 66.1504928,
+    "lng": -18.9096279
+  },
+  {
+    "id": "iceland-bylgjan-fm-989",
+    "name": "Bylgjan FM 98.9",
+    "url": "http://icecast.365net.is:8000/orbbylgjan.aac",
+    "genre": "Music",
+    "city": "Reykjavík",
+    "country": "Iceland",
+    "lat": 64.145981,
+    "lng": -21.9422367
+  },
+  {
+    "id": "iceland-x-ið-fm-977",
+    "name": "X-ið FM 97.7",
+    "url": "http://icecast.365net.is:8000/orbXid.aac",
+    "genre": "Music",
+    "city": "Reykjavík",
+    "country": "Iceland",
+    "lat": 64.145981,
+    "lng": -21.9422367
+  },
+  {
+    "id": "iceland-crc-fm-1029",
+    "name": "CRC FM 102.9",
+    "url": "https://visual.shoutca.st/stream/crcfm",
+    "genre": "Music",
+    "city": "Reykjavík",
+    "country": "Iceland",
+    "lat": 64.145981,
+    "lng": -21.9422367
+  },
+  {
+    "id": "iceland-rúv-rás-2",
+    "name": "RÚV Rás 2",
+    "url": "http://netradio.ruv.is/ras2.mp3",
+    "genre": "Music",
+    "city": "Reykjavík",
+    "country": "Iceland",
+    "lat": 64.145981,
+    "lng": -21.9422367
+  },
+  {
+    "id": "iceland-rúv-rás-1",
+    "name": "RÚV Rás 1",
+    "url": "http://netradio.ruv.is/ras1.mp3",
+    "genre": "Music",
+    "city": "Reykjavík",
+    "country": "Iceland",
+    "lat": 64.145981,
+    "lng": -21.9422367
+  },
+  {
+    "id": "iceland-kvf-2",
+    "name": "KVF-2",
+    "url": "http://netvarp.kringvarp.fo:4443/kvf2_2",
+    "genre": "Music",
+    "city": "Reykjavík",
+    "country": "Iceland",
+    "lat": 64.145981,
+    "lng": -21.9422367
+  },
+  {
+    "id": "iceland-fm-trölli",
+    "name": "FM Trölli",
+    "url": "https://hb.trolli.is/stream",
+    "genre": "Music",
+    "city": "Reykjavík",
+    "country": "Iceland",
+    "lat": 64.145981,
+    "lng": -21.9422367
+  },
+  {
+    "id": "iceland-retro-fm-895",
+    "name": "Retro FM 89.5",
+    "url": "https://ice-11.spilarinn.is/retromobile",
+    "genre": "Music",
+    "city": "Reykjavík",
+    "country": "Iceland",
+    "lat": 64.145981,
+    "lng": -21.9422367
+  },
+  {
+    "id": "iceland-fm-xtra",
+    "name": "FM Xtra",
+    "url": "https://ice-11.spilarinn.is/fmxtra",
+    "genre": "Music",
+    "city": "Reykjavík",
+    "country": "Iceland",
+    "lat": 64.145981,
+    "lng": -21.9422367
+  },
+  {
+    "id": "iceland-flashback-60s",
+    "name": "Flashback 60s",
+    "url": "https://ice-11.spilarinn.is/60flashback",
+    "genre": "Music",
+    "city": "Reykjavík",
+    "country": "Iceland",
+    "lat": 64.145981,
+    "lng": -21.9422367
+  },
+  {
+    "id": "iceland-k100-fm-1005",
+    "name": "K100 FM 100.5",
+    "url": "https://ice-11.spilarinn.is/kaninnmobile",
+    "genre": "Music",
+    "city": "Reykjavík",
+    "country": "Iceland",
+    "lat": 64.145981,
+    "lng": -21.9422367
+  },
+  {
+    "id": "iceland-lett-bylgjan-fm-967",
+    "name": "Létt Bylgjan FM 96.7",
+    "url": "https://ice-11.spilarinn.is/tlettbylgjan",
+    "genre": "Music",
+    "city": "Reykjavík",
+    "country": "Iceland",
+    "lat": 64.145981,
+    "lng": -21.9422367
+  },
+  {
+    "id": "iceland-útvarp-saga-fm-994",
+    "name": "Útvarp Saga FM 99.4",
+    "url": "https://stream.utvarpsaga.is/Hljodver",
+    "genre": "Music",
+    "city": "Reykjavík",
+    "country": "Iceland",
+    "lat": 64.145981,
+    "lng": -21.9422367
+  },
+  {
+    "id": "iceland-voxpop-radio-fm-1041",
+    "name": "VoxPop Radio FM 104.1",
+    "url": "http://stream.midlar.fo/voxpop",
+    "genre": "Music",
+    "city": "Seydisfjordur",
+    "country": "Iceland",
+    "lat": 65.2598475,
+    "lng": -14.0049009
+  },
+  {
+    "id": "iceland-kiss-fm-1045",
+    "name": "Kiss FM 104.5",
+    "url": "https://ice-11.spilarinn.is/kissfm",
+    "genre": "Music",
+    "city": "Reykjavík",
+    "country": "Iceland",
+    "lat": 64.145981,
+    "lng": -21.9422367
+  },
+  {
+    "id": "iceland-seyðisfjörður-community-radio-fm-1071",
+    "name": "Seyðisfjörður Community Radio FM 107.1",
+    "url": "https://seyisfjorur-community-radio.radiocult.fm/stream",
+    "genre": "Music",
+    "city": "Seydisfjordur",
+    "country": "Iceland",
+    "lat": 65.2598475,
+    "lng": -14.0049009
+  },
+  {
+    "id": "iceland-fm957",
+    "name": "FM957",
+    "url": "https://ice-11.spilarinn.is/tfm957",
+    "genre": "Music",
+    "city": "Reykjavík",
+    "country": "Iceland",
+    "lat": 64.145981,
+    "lng": -21.9422367
+  },
+  {
+    "id": "iceland-útvarp-boðun-fm-1055",
+    "name": "Útvarp Boðun FM 105.5",
+    "url": "http://radio.bodun.is:8000/stream",
+    "genre": "Music",
+    "city": "Reykjavík",
+    "country": "Iceland",
+    "lat": 64.145981,
+    "lng": -21.9422367
+  },
+  {
+    "id": "iceland-global-irish-radio-girie",
+    "name": "Global Irish Radio GIR.ie",
+    "url": "https://s3.radio.co/s05b500bb8/listen",
+    "genre": "Music",
+    "city": "Reykjavík",
+    "country": "Iceland",
+    "lat": 64.145981,
+    "lng": -21.9422367
+  },
+  {
+    "id": "iceland-lindin-fm-1010",
+    "name": "Lindin FM 101.0",
+    "url": "https://high.lindin.fo/",
+    "genre": "Music",
+    "city": "Siglufjörður",
+    "country": "Iceland",
+    "lat": 66.1504928,
+    "lng": -18.9096279
+  },
+  {
+    "id": "iceland-owenea-fm-1008",
+    "name": "Owenea FM 100.8",
+    "url": "https://rsstreaming.com/proxy/owenea_fm?mp=/stream",
+    "genre": "Music",
+    "city": "Siglufjörður",
+    "country": "Iceland",
+    "lat": 66.1504928,
+    "lng": -18.9096279
+  },
+  {
+    "id": "iceland-fm-extra",
+    "name": "FM Extra",
+    "url": "https://ice-11.spilarinn.is/zfmextra",
+    "genre": "Music",
+    "city": "Siglufjörður",
+    "country": "Iceland",
+    "lat": 66.1504928,
+    "lng": -18.9096279
+  },
+  {
+    "id": "iceland-gull-bylgjan-fm-909",
+    "name": "Gull Bylgjan FM 90.9",
+    "url": "https://ice-11.spilarinn.is/xruv2",
+    "genre": "Music",
+    "city": "Reykjavík",
+    "country": "Iceland",
+    "lat": 64.145981,
+    "lng": -21.9422367
+  },
+  {
+    "id": "iceland-jahta-radio-live",
+    "name": "Jahta Radio Live",
+    "url": "https://usa7.fastcast4u.com/proxy/mdjscwwh?mp=/1",
+    "genre": "Music",
+    "city": "Reykjavík",
+    "country": "Iceland",
+    "lat": 64.145981,
+    "lng": -21.9422367
+  },
+  {
+    "id": "iceland-radio-wester-ross-1060",
+    "name": "Radio Wester Ross 106.0",
+    "url": "https://n14.rcs.revma.com/96z3d1qs5bcwv?rj-ttl=5&rj-tok=AAABm_mlGOkAkvUAKvU2E-qBAA",
+    "genre": "Music",
+    "city": "Seydisfjordur",
+    "country": "Iceland",
+    "lat": 65.2598475,
+    "lng": -14.0049009
+  },
+  {
+    "id": "iceland-uplift-radio",
+    "name": "Uplift Radio",
+    "url": "https://ice31.securenetsystems.net/UPLIFTFM",
+    "genre": "Music",
+    "city": "Reykjavík",
+    "country": "Iceland",
+    "lat": 64.145981,
+    "lng": -21.9422367
+  },
+  {
+    "id": "iceland-80s-bylgjan",
+    "name": "80s Bylgjan",
+    "url": "https://ice-11.spilarinn.is/z80s",
+    "genre": "Music",
+    "city": "Reykjavík",
+    "country": "Iceland",
+    "lat": 64.145981,
+    "lng": -21.9422367
+  },
+  {
+    "id": "iceland-flashback-fm-919",
+    "name": "FlashBack FM 91.9",
+    "url": "https://ice-11.spilarinn.is/flashback",
+    "genre": "Music",
+    "city": "Reykjavík",
+    "country": "Iceland",
+    "lat": 64.145981,
+    "lng": -21.9422367
+  },
+  {
+    "id": "iceland-apparatið",
+    "name": "Apparatið",
+    "url": "https://ice-11.spilarinn.is/zapparatid",
+    "genre": "Music",
+    "city": "Reykjavík",
+    "country": "Iceland",
+    "lat": 64.145981,
+    "lng": -21.9422367
+  }
+]

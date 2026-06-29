@@ -1,0 +1,492 @@
+[
+  {
+    "id": "finland-ida-radio",
+    "name": "IDA Radio",
+    "url": "https://broadcast.idaidaida.net:8030/stream",
+    "genre": "Music",
+    "city": "Helsinki",
+    "country": "Finland",
+    "lat": 60.1666204,
+    "lng": 24.9435408
+  },
+  {
+    "id": "finland-radio-kaakko",
+    "name": "Radio Kaakko",
+    "url": "https://wr2.downtime.fi/kaakko.aac",
+    "genre": "Music",
+    "city": "Helsinki",
+    "country": "Finland",
+    "lat": 60.1666204,
+    "lng": 24.9435408
+  },
+  {
+    "id": "finland-kaupunki-kanava-fm-1074",
+    "name": "Kaupunki Kanava FM 107.4",
+    "url": "https://kaupunkiradio.radiotaajuus.fi:9013/radio",
+    "genre": "Music",
+    "city": "Helsinki",
+    "country": "Finland",
+    "lat": 60.1666204,
+    "lng": 24.9435408
+  },
+  {
+    "id": "finland-radio-sandels",
+    "name": "Radio Sandels",
+    "url": "https://radiosandels.radiotaajuus.fi:9050/radio",
+    "genre": "Music",
+    "city": "Helsinki",
+    "country": "Finland",
+    "lat": 60.1666204,
+    "lng": 24.9435408
+  },
+  {
+    "id": "finland-kaaosradio-247",
+    "name": "Kaaosradio 24/7",
+    "url": "https://kaaosradio.fi:8001/stream2",
+    "genre": "Music",
+    "city": "Helsinki",
+    "country": "Finland",
+    "lat": 60.1666204,
+    "lng": 24.9435408
+  },
+  {
+    "id": "finland-võmba-fm",
+    "name": "Võmba FM",
+    "url": "https://c4.radioboss.fm:18123/live",
+    "genre": "Music",
+    "city": "Helsinki",
+    "country": "Finland",
+    "lat": 60.1666204,
+    "lng": 24.9435408
+  },
+  {
+    "id": "finland-radio-queen-loviisa",
+    "name": "Radio Queen Loviisa",
+    "url": "https://a8.asurahosting.com:8140/radio.mp3",
+    "genre": "Music",
+    "city": "Helsinki",
+    "country": "Finland",
+    "lat": 60.1666204,
+    "lng": 24.9435408
+  },
+  {
+    "id": "finland-kaaosradio-chiptune",
+    "name": "Kaaosradio Chiptune",
+    "url": "https://kaaosradio.fi:8001/chip",
+    "genre": "Music",
+    "city": "Helsinki",
+    "country": "Finland",
+    "lat": 60.1666204,
+    "lng": 24.9435408
+  },
+  {
+    "id": "finland-radio-sun",
+    "name": "Radio SUN",
+    "url": "https://st.downtime.fi/sun.mp3",
+    "genre": "Music",
+    "city": "Helsinki",
+    "country": "Finland",
+    "lat": 60.1666204,
+    "lng": 24.9435408
+  },
+  {
+    "id": "finland-radio-keskisuomalainen-fm-959",
+    "name": "Radio Keskisuomalainen FM 95.9",
+    "url": "https://cast.radiokeskisuomalainen.fi/radiokeskisuomalainen",
+    "genre": "Music",
+    "city": "Helsinki",
+    "country": "Finland",
+    "lat": 60.1666204,
+    "lng": 24.9435408
+  },
+  {
+    "id": "finland-radio-voima",
+    "name": "Radio Voima",
+    "url": "https://cast2.radiovoima.fi/voima.mp3",
+    "genre": "Music",
+    "city": "Helsinki",
+    "country": "Finland",
+    "lat": 60.1666204,
+    "lng": 24.9435408
+  },
+  {
+    "id": "finland-radio-helsinki-fm-897",
+    "name": "Radio Helsinki FM 89.7",
+    "url": "https://stream.radiohelsinki.fi/index.html?sid=1",
+    "genre": "Music",
+    "city": "Helsinki",
+    "country": "Finland",
+    "lat": 60.1666204,
+    "lng": 24.9435408
+  },
+  {
+    "id": "finland-klara-meditatsioon",
+    "name": "KlaRa Meditatsioon",
+    "url": "https://icecast.err.ee/klarameditatsioon.mp3",
+    "genre": "Music",
+    "city": "Helsinki",
+    "country": "Finland",
+    "lat": 60.1666204,
+    "lng": 24.9435408
+  },
+  {
+    "id": "finland-rondo-classic-klasu",
+    "name": "Rondo Classic Klasu",
+    "url": "https://iradio.fi/klasu-hi.mp3",
+    "genre": "Music",
+    "city": "Helsinki",
+    "country": "Finland",
+    "lat": 60.1666204,
+    "lng": 24.9435408
+  },
+  {
+    "id": "finland-popfm",
+    "name": "POPfm",
+    "url": "https://stream.madmenmedia.se/popfm",
+    "genre": "Music",
+    "city": "Helsinki",
+    "country": "Finland",
+    "lat": 60.1666204,
+    "lng": 24.9435408
+  },
+  {
+    "id": "finland-radio-patmos",
+    "name": "Radio Patmos",
+    "url": "https://s3.yesstreaming.net:7011/radio",
+    "genre": "Music",
+    "city": "Helsinki",
+    "country": "Finland",
+    "lat": 60.1666204,
+    "lng": 24.9435408
+  },
+  {
+    "id": "finland-radio-dei-lahti",
+    "name": "Radio Dei Lahti",
+    "url": "http://isojako.radiodei.fi:8000/lahti",
+    "genre": "Music",
+    "city": "Tampere",
+    "country": "Finland",
+    "lat": 61.4977929,
+    "lng": 23.7616372
+  },
+  {
+    "id": "finland-jaerviradio",
+    "name": "Jaerviradio",
+    "url": "https://jarviradio.radiotaajuus.fi:9000/jr",
+    "genre": "Music",
+    "city": "Helsinki",
+    "country": "Finland",
+    "lat": 60.1666204,
+    "lng": 24.9435408
+  },
+  {
+    "id": "finland-yle-radio-suomi-helsinki",
+    "name": "YLE Radio Suomi Helsinki",
+    "url": "https://icecast.live.yle.fi/radio/YleRS/icecast.audio",
+    "genre": "Music",
+    "city": "Helsinki",
+    "country": "Finland",
+    "lat": 60.1666204,
+    "lng": 24.9435408
+  },
+  {
+    "id": "finland-ylex",
+    "name": "YleX",
+    "url": "https://icecast.live.yle.fi/radio/YleX/icecast.audio",
+    "genre": "Music",
+    "city": "Helsinki",
+    "country": "Finland",
+    "lat": 60.1666204,
+    "lng": 24.9435408
+  },
+  {
+    "id": "finland-helsinki-open-waves-how",
+    "name": "Helsinki Open Waves (HOW)",
+    "url": "https://n02.radiojar.com/huf9r94x3tzuv.mp3?rj-ttl=5&rj-tok=AAABm_mY3_YA1Z5bA7I33yRUFA",
+    "genre": "Music",
+    "city": "Helsinki",
+    "country": "Finland",
+    "lat": 60.1666204,
+    "lng": 24.9435408
+  },
+  {
+    "id": "finland-tampereen-kiakkoradio:-tappara",
+    "name": "Tampereen Kiakkoradio: Tappara",
+    "url": "https://st.downtime.fi/kiakko-tappara.aac",
+    "genre": "Music",
+    "city": "Tampere",
+    "country": "Finland",
+    "lat": 61.4977929,
+    "lng": 23.7616372
+  },
+  {
+    "id": "finland-radio-dei-pohjanmaa",
+    "name": "Radio Dei Pohjanmaa",
+    "url": "http://isojako.radiodei.fi:8000/lapua",
+    "genre": "Music",
+    "city": "Tampere",
+    "country": "Finland",
+    "lat": 61.4977929,
+    "lng": 23.7616372
+  },
+  {
+    "id": "finland-radio-dei-kristiinankaupunki",
+    "name": "Radio Dei Kristiinankaupunki",
+    "url": "http://isojako.radiodei.fi:8000/kristiinankaupunki",
+    "genre": "Music",
+    "city": "Turku",
+    "country": "Finland",
+    "lat": 60.4515942,
+    "lng": 22.2669988
+  },
+  {
+    "id": "finland-radio-dei-turku-ja-satakunta",
+    "name": "Radio Dei Turku ja Satakunta",
+    "url": "https://stream.dei.fi:8443/radioplayer/yleisohjelma",
+    "genre": "Music",
+    "city": "Tampere",
+    "country": "Finland",
+    "lat": 61.4977929,
+    "lng": 23.7616372
+  },
+  {
+    "id": "finland-radio-dei-kajaani",
+    "name": "Radio Dei Kajaani",
+    "url": "http://isojako.radiodei.fi:8000/kajaani",
+    "genre": "Music",
+    "city": "Kuopio",
+    "country": "Finland",
+    "lat": 62.8924641,
+    "lng": 27.6783597
+  },
+  {
+    "id": "finland-radio-musa",
+    "name": "Radio Musa",
+    "url": "https://n0d.radiojar.com/n6yg5q0z8vzuv.mp3?rj-ttl=5&rj-tok=AAABm_mY5esAVpvWkspa_pDg4w",
+    "genre": "Music",
+    "city": "Tampere",
+    "country": "Finland",
+    "lat": 61.4977929,
+    "lng": 23.7616372
+  },
+  {
+    "id": "finland-baltic-beach",
+    "name": "Baltic Beach",
+    "url": "http://91.203.171.138:8080/",
+    "genre": "Music",
+    "city": "Kuopio",
+    "country": "Finland",
+    "lat": 62.8924641,
+    "lng": 27.6783597
+  },
+  {
+    "id": "finland-radio-dei-kemi",
+    "name": "Radio Dei Kemi",
+    "url": "http://isojako.radiodei.fi:8000/tornio",
+    "genre": "Music",
+    "city": "Oulu",
+    "country": "Finland",
+    "lat": 65.0117869,
+    "lng": 25.4701983
+  },
+  {
+    "id": "finland-soho-radio",
+    "name": "Soho Radio",
+    "url": "https://sohostream.djonline.fi:8008/radio",
+    "genre": "Music",
+    "city": "Tampere",
+    "country": "Finland",
+    "lat": 61.4977929,
+    "lng": 23.7616372
+  },
+  {
+    "id": "finland-radio-gramofoni",
+    "name": "Radio Gramofoni",
+    "url": "https://solid9.streamupsolutions.com/proxy/kookmuod?mp=/live",
+    "genre": "Music",
+    "city": "Turku",
+    "country": "Finland",
+    "lat": 60.4515942,
+    "lng": 22.2669988
+  },
+  {
+    "id": "finland-radio-dei-kokkola",
+    "name": "Radio Dei Kokkola",
+    "url": "http://isojako.radiodei.fi:8000/kruunupyy",
+    "genre": "Music",
+    "city": "Oulu",
+    "country": "Finland",
+    "lat": 65.0117869,
+    "lng": 25.4701983
+  },
+  {
+    "id": "finland-ålands-radio-fm-913",
+    "name": "Ålands Radio FM 91.3",
+    "url": "https://stream.alandsradio.ax/stream.ogg",
+    "genre": "Music",
+    "city": "Turku",
+    "country": "Finland",
+    "lat": 60.4515942,
+    "lng": 22.2669988
+  },
+  {
+    "id": "finland-yle-radio-1",
+    "name": "YLE Radio 1",
+    "url": "https://icecast.live.yle.fi/radio/YleRadio1/icecast.audio",
+    "genre": "Music",
+    "city": "Tampere",
+    "country": "Finland",
+    "lat": 61.4977929,
+    "lng": 23.7616372
+  },
+  {
+    "id": "finland-radio-dei-rovaniemi",
+    "name": "Radio Dei Rovaniemi",
+    "url": "http://isojako.radiodei.fi:8000/rovaniemi",
+    "genre": "Music",
+    "city": "Rovaniemi",
+    "country": "Finland",
+    "lat": 66.5025537,
+    "lng": 25.7303912
+  },
+  {
+    "id": "finland-savon-aallot-fm-1020",
+    "name": "Savon Aallot FM 102.0",
+    "url": "https://cast.savonaallot.fi/savonaallot",
+    "genre": "Music",
+    "city": "Kuopio",
+    "country": "Finland",
+    "lat": 62.8924641,
+    "lng": 27.6783597
+  },
+  {
+    "id": "finland-radio-ramona",
+    "name": "Radio Ramona",
+    "url": "https://stream.protonbroadcast.com:8443/ramona.mp3",
+    "genre": "Music",
+    "city": "Tampere",
+    "country": "Finland",
+    "lat": 61.4977929,
+    "lng": 23.7616372
+  },
+  {
+    "id": "finland-raadio-kadi-fm-905",
+    "name": "Raadio Kadi FM 90.5",
+    "url": "https://edge06.cdn.bitflip.ee:8888/kadi",
+    "genre": "Music",
+    "city": "Turku",
+    "country": "Finland",
+    "lat": 60.4515942,
+    "lng": 22.2669988
+  },
+  {
+    "id": "finland-sea-fm-888",
+    "name": "Sea FM 88.8",
+    "url": "https://s3.myradiostream.com/:4976/index.html?sid=1",
+    "genre": "Music",
+    "city": "Oulu",
+    "country": "Finland",
+    "lat": 65.0117869,
+    "lng": 25.4701983
+  },
+  {
+    "id": "finland-yle-klassinen",
+    "name": "YLE Klassinen",
+    "url": "https://icecast.live.yle.fi/radio/YleKlassinen/icecast.audio",
+    "genre": "Music",
+    "city": "Turku",
+    "country": "Finland",
+    "lat": 60.4515942,
+    "lng": 22.2669988
+  },
+  {
+    "id": "finland-radio-dei-helsinki",
+    "name": "Radio Dei Helsinki",
+    "url": "http://isojako.radiodei.fi:8000/helsinki",
+    "genre": "Music",
+    "city": "Helsinki",
+    "country": "Finland",
+    "lat": 60.2030254,
+    "lng": 24.9229701
+  },
+  {
+    "id": "finland-radio-vaasa",
+    "name": "Radio Vaasa",
+    "url": "https://stream.protonbroadcast.com:8443/radiovaasa.mp3",
+    "genre": "Music",
+    "city": "Vaasa",
+    "country": "Finland",
+    "lat": 63.0957722,
+    "lng": 21.6159187
+  },
+  {
+    "id": "finland-radio-rymd",
+    "name": "Radio Rymd",
+    "url": "https://stream.radiorymd.com/radiorymd",
+    "genre": "Music",
+    "city": "Loviisa",
+    "country": "Finland",
+    "lat": 60.4570123,
+    "lng": 26.2256448
+  },
+  {
+    "id": "finland-radio-hear",
+    "name": "Radio Hear",
+    "url": "http://hear.fi:8000/hear.mp3",
+    "genre": "Music",
+    "city": "Helsinki",
+    "country": "Finland",
+    "lat": 60.2030254,
+    "lng": 24.9229701
+  },
+  {
+    "id": "finland-radio-santa-claus",
+    "name": "Radio Santa Claus",
+    "url": "https://streaming.radiostreamlive.com/radiosantaclaus_devices",
+    "genre": "Music",
+    "city": "Oulu",
+    "country": "Finland",
+    "lat": 65.0117869,
+    "lng": 25.4701983
+  },
+  {
+    "id": "finland-mökkiradio",
+    "name": "Mökkiradio",
+    "url": "https://stream.mokkiradio.fi:18008/mokkiradio",
+    "genre": "Music",
+    "city": "Mäntyharju",
+    "country": "Finland",
+    "lat": 61.4168779,
+    "lng": 26.8803565
+  },
+  {
+    "id": "finland-ehhf-raadio",
+    "name": "EHHF Raadio",
+    "url": "https://edge01.cdn.bitflip.ee:8888/Festival?_i=128f2696",
+    "genre": "Music",
+    "city": "Lahti",
+    "country": "Finland",
+    "lat": 60.982628,
+    "lng": 25.6613418
+  },
+  {
+    "id": "finland-guovdageainnu-lagasradio",
+    "name": "Guovdageainnu Lagasradio",
+    "url": "https://streaming.radio.co/s5b773f8d3/listen",
+    "genre": "Music",
+    "city": "Rovaniemi",
+    "country": "Finland",
+    "lat": 66.5025537,
+    "lng": 25.7303912
+  },
+  {
+    "id": "finland-finest-radio",
+    "name": "Finest Radio",
+    "url": "https://s2.radio.co/sadb37cbdb/listen",
+    "genre": "Music",
+    "city": "Helsinki",
+    "country": "Finland",
+    "lat": 60.2030254,
+    "lng": 24.9229701
+  }
+]

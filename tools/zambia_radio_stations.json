@@ -1,0 +1,284 @@
+[
+    {
+        "name": "Rock FM 96.5",
+        "city": "Lusaka",
+        "country": "Zambia",
+        "url": "http://209.133.221.250:8702/stream"
+    },
+    {
+        "name": "5FM 89.9",
+        "city": "Lusaka",
+        "country": "Zambia",
+        "url": "http://ca9.rcast.net:8014/stream/"
+    },
+    {
+        "name": "Faith Radio 92.1 FM",
+        "city": "Kitwe",
+        "country": "Zambia",
+        "url": "http://108.59.9.147:8647/index.html/"
+    },
+    {
+        "name": "Hot FM 87.7",
+        "city": "Lusaka",
+        "country": "Zambia",
+        "url": "http://s2.yesstreaming.net:7091/stream"
+    },
+    {
+        "name": "Spice FM 91.1",
+        "city": "Lusaka",
+        "country": "Zambia",
+        "url": "http://live.rcast.net:8768/;stream.mp3"
+    },
+    {
+        "name": "Komboni Radio 94.9 FM",
+        "city": "Lusaka",
+        "country": "Zambia",
+        "url": "http://165.56.11.238:4590/Komboni"
+    },
+    {
+        "name": "Roan FM 106.5",
+        "city": "Lusaka",
+        "country": "Zambia",
+        "url": "https://ec4.yesstreaming.net:1265/stream"
+    },
+    {
+        "name": "I AM Catholic Zambia",
+        "city": "Lusaka",
+        "country": "Zambia",
+        "url": "https://ec4.yesstreaming.net:2015/stream"
+    },
+    {
+        "name": "Culture Radio 105.7FM",
+        "city": "Kitwe",
+        "country": "Zambia",
+        "url": "https://ec4.yesstreaming.net:1555/stream"
+    },
+    {
+        "name": "ZNBC - Radio 1",
+        "city": "Lusaka",
+        "country": "Zambia",
+        "url": "https://eu6.fastcast4u.com/proxy/radio1?mp=/1"
+    },
+    {
+        "name": "ZNBC - Radio 4",
+        "city": "Lusaka",
+        "country": "Zambia",
+        "url": "https://eu6.fastcast4u.com/proxy/radio4?mp=/1"
+    },
+    {
+        "name": "ZNBC - Radio 2",
+        "city": "Lusaka",
+        "country": "Zambia",
+        "url": "https://eu6.fastcast4u.com/proxy/radio2?mp=/1"
+    },
+    {
+        "name": "Byta FM Radio 90.3",
+        "city": "Lusaka",
+        "country": "Zambia",
+        "url": "https://s13.myradiostream.com/:38946/listen.mp3/"
+    },
+    {
+        "name": "Iwave FM 90.1",
+        "city": "Lusaka",
+        "country": "Zambia",
+        "url": "https://s47.myradiostream.com/:9934/listen.mp3/"
+    },
+    {
+        "name": "One Love Radio FM 104.1",
+        "city": "Lusaka",
+        "country": "Zambia",
+        "url": "https://usa11.fastcast4u.com/proxy/thidhzuy?mp=/1"
+    },
+    {
+        "name": "Kwithu FM 93.3",
+        "city": "Lusaka",
+        "country": "Zambia",
+        "url": "https://s9.yesstreaming.net:9078/stream"
+    },
+    {
+        "name": "Sun FM Zambia",
+        "city": "Ndola",
+        "country": "Zambia",
+        "url": "http://11233.cloudrad.io:9102/live"
+    },
+    {
+        "name": "Hype FM 107.3 FM",
+        "city": "Lusaka",
+        "country": "Zambia",
+        "url": "https://stream-166.zeno.fm/dupvt1fgcewvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJkdXB2dDFmZ2Nld3Z2IiwiaG9zdCI6InN0cmVhbS0xNjYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiRTZTOHVDUTBSVW14VkVTQk9XdFZ4dyIsImlhdCI6MTc2OTQyNDQ3MiwiZXhwIjoxNzY5NDI0NTMyfQ.2aDD_Skod3jswU_HXWxsrsa95cYJnAd1ubXKESq-Czc"
+    },
+    {
+        "name": "JazzySoulRadio",
+        "city": "Choma",
+        "country": "Zambia",
+        "url": "https://az13.yesstreaming.net:8360/radio.mp3"
+    },
+    {
+        "name": "Radio Phoenix FM 89.5",
+        "city": "Lusaka",
+        "country": "Zambia",
+        "url": "https://22733.live.streamtheworld.com:443/RADIO_PHOENIXAAC.aac"
+    },
+    {
+        "name": "Rooster FM 91.3",
+        "city": "Ndola",
+        "country": "Zambia",
+        "url": "https://ec4.yesstreaming.net:2525/stream"
+    },
+    {
+        "name": "Hone FM Radio 94.1",
+        "city": "Lusaka",
+        "country": "Zambia",
+        "url": "https://s5.radio.co/sd5df7c98b/listen"
+    },
+    {
+        "name": "Radio Icengelo 88.9 FM",
+        "city": "Kitwe",
+        "country": "Zambia",
+        "url": "https://us5new.listen2myradio.com:2199/live.mp3?typeportmount=s2_8440_stream_320185714/;"
+    },
+    {
+        "name": "YAR FM 89.7",
+        "city": "Kitwe",
+        "country": "Zambia",
+        "url": "https://stream-161.zeno.fm/r2bpxyfsejatv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJyMmJweHlmc2VqYXR2IiwiaG9zdCI6InN0cmVhbS0xNjEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiVlkyNmFaWGFTSzZYaXEzMzJyeEFGdyIsImlhdCI6MTc2OTQyNDQ3NCwiZXhwIjoxNzY5NDI0NTM0fQ.zj_tGp4AYvOvcWyMSs_v29xPByRNRW41A2qJGolrxOA"
+    },
+    {
+        "name": "Choma Maano Radio 95.1 FM",
+        "city": "Choma",
+        "country": "Zambia",
+        "url": "https://s26.myradiostream.com:22860/listen.mp3"
+    },
+    {
+        "name": "Radio Chimwemwe 91.7 FM",
+        "city": "Ndola",
+        "country": "Zambia",
+        "url": "https://s19.myradiostream.com:18688/listen.mp3?nocache=1769424474"
+    },
+    {
+        "name": "Radio RNS",
+        "city": "Kitwe",
+        "country": "Zambia",
+        "url": "https://listen.radioking.com/radio/314909/stream/362240"
+    },
+    {
+        "name": "Nkhotakota Radio",
+        "city": "Chipata",
+        "country": "Zambia",
+        "url": "https://radio.exclusivemw.cloud/listen/nkhotako_radio/radio.mp3"
+    },
+    {
+        "name": "Chikuni Radio FM 91.9",
+        "city": "Choma",
+        "country": "Zambia",
+        "url": "https://chikunir.radioca.st/live"
+    },
+    {
+        "name": "Chisomo Radio Station FM 97.0",
+        "city": "Chipata",
+        "country": "Zambia",
+        "url": "https://radio.exclusivemw.cloud/listen/chisomo_radio_station/radio.mp3"
+    },
+    {
+        "name": "Mudziwathu Radio",
+        "city": "Chipata",
+        "country": "Zambia",
+        "url": "https://radio.exclusivemw.cloud/listen/mudziwathu_fm/radio.mp3"
+    },
+    {
+        "name": "Zamcom Radio 100.1 FM",
+        "city": "Choma",
+        "country": "Zambia",
+        "url": "https://stream-178.zeno.fm/boxjrzkyo6jvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJib3hqcnpreW82anZ2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiTmdSbHNxdVNRV2E1Z202V19IX0U5ZyIsImlhdCI6MTc2OTQyNDQ3NCwiZXhwIjoxNzY5NDI0NTM0fQ.cDKLesGYaEMd09HVJquDdcI7Nbwq0Ms0xOa73id55Vg"
+    },
+    {
+        "name": "Radio Bembeke FM",
+        "city": "Chipata",
+        "country": "Zambia",
+        "url": "https://radio.exclusivemw.cloud/listen/radio_bembeke_fm/radio.mp3"
+    },
+    {
+        "name": "Platinum Radio 99.7 FM",
+        "city": "Ndola",
+        "country": "Zambia",
+        "url": "https://stream-164.zeno.fm/bjltduumvpouv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJiamx0ZHV1bXZwb3V2IiwiaG9zdCI6InN0cmVhbS0xNjQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiVU5GWVNHaFhSeGFsTGhoSS1QMjhQdyIsImlhdCI6MTc2OTQyNDQ3NCwiZXhwIjoxNzY5NDI0NTM0fQ.slydCnSR2ydDBXBkdsSkEsm8yHT1V7R93XnO3lka02E"
+    },
+    {
+        "name": "Laka Radio 103.3 FM",
+        "city": "Livingstone",
+        "country": "Zambia",
+        "url": "https://stream-161.zeno.fm/zgvj3sab3hztv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ6Z3ZqM3NhYjNoenR2IiwiaG9zdCI6InN0cmVhbS0xNjEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiblYtY0ZBNlVUMWlMUllqeE00bjdvUSIsImlhdCI6MTc2OTQyNDQ3NCwiZXhwIjoxNzY5NDI0NTM0fQ.1B-USDeTncyOW9XECMO59tcZpWSqU6P07bJsuzNmxvg"
+    },
+    {
+        "name": "Umunthu FM",
+        "city": "Chinsali",
+        "country": "Zambia",
+        "url": "https://host2.streamafrica.net/listen/umunthu/radio.mp3"
+    },
+    {
+        "name": "Beyond FM",
+        "city": "Chinsali",
+        "country": "Zambia",
+        "url": "https://radio.exclusivemw.cloud/listen/rukuru_live/radio.mp3"
+    },
+    {
+        "name": "One Love Radio 89.1 FM",
+        "city": "Mansa",
+        "country": "Zambia",
+        "url": "https://eu8.fastcast4u.com/proxy/onelovemansa?mp=/1"
+    },
+    {
+        "name": "Live Radio 97.3 FM",
+        "city": "Luanshya",
+        "country": "Zambia",
+        "url": "https://stream-177.zeno.fm/0w833z1xd5zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwdzgzM3oxeGQ1enV2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiWk1QVXJscC1SUzZCQ2NTUl9jUkFQdyIsImlhdCI6MTc2OTQyNDQ3NSwiZXhwIjoxNzY5NDI0NTM1fQ.arz811KKq4hJO25Hh98mCxl_C07Bs6qJ51VyY3Y-Wt8"
+    },
+    {
+        "name": "Mphangwe FM Radio 88.9",
+        "city": "Katete",
+        "country": "Zambia",
+        "url": "https://ec4.yesstreaming.net:1925/stream"
+    },
+    {
+        "name": "Radio Delight Kwitonta 89.7 FM",
+        "city": "Mansa",
+        "country": "Zambia",
+        "url": "https://s43.myradiostream.com:23820/listen.mp3"
+    },
+    {
+        "name": "Radio Maria Zambia",
+        "city": "ZNBC - Radio 1",
+        "country": "Lusaka, Zambia",
+        "url": "https://dreamsiteradiocp5.com/proxy/zambialusaka?mp=/stream"
+    },
+    {
+        "name": "Kanele 97.7 FM",
+        "city": "Lundazi",
+        "country": "Zambia",
+        "url": "https://stream-161.zeno.fm/zn26dkfnvvytv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ6bjI2ZGtmbnZ2eXR2IiwiaG9zdCI6InN0cmVhbS0xNjEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiTmF4LUFmZ1VUcFN0WXRkamp5ck1sQSIsImlhdCI6MTc2OTQyNDQ3NywiZXhwIjoxNzY5NDI0NTM3fQ.52Q5XBbmXlLIcfjtgvytSLarY7iuOD48t0p4YZc1WIc"
+    },
+    {
+        "name": "Geant Radio 90.5 FM",
+        "city": "Kitwe",
+        "country": "Zambia",
+        "url": "https://servidor37.brlogic.com:7080/live"
+    },
+    {
+        "name": "KBC Radio 98.8 FM",
+        "city": "Kapiri Mposhi",
+        "country": "Zambia",
+        "url": "https://stream-166.zeno.fm/z7qxtby928mtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ6N3F4dGJ5OTI4bXR2IiwiaG9zdCI6InN0cmVhbS0xNjYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiTWJ2a0tCZ0NTV0NsN0o3WWU3V0JXZyIsImlhdCI6MTc2OTQyNDQ3NywiZXhwIjoxNzY5NDI0NTM3fQ.SiaP0MKoW9HX1foR27o6Omd5DUxEGDRZnDQ5Tn7eCgU"
+    },
+    {
+        "name": "Chejeji FM",
+        "city": "Ikelenge",
+        "country": "Zambia",
+        "url": "https://chejejifm.out.airtime.pro/chejejifm_a"
+    },
+    {
+        "name": "Uwala FM",
+        "city": "Chipata",
+        "country": "Zambia",
+        "url": "https://servidor22.brlogic.com:7078/live"
+    }
+]

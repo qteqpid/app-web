@@ -1,0 +1,1526 @@
+[
+    {
+        "name": "FM Cordoba",
+        "city": "Córdoba",
+        "country": "Argentina",
+        "url": "https://liveradio.mediainbox.net/fmcordoba.mp3"
+    },
+    {
+        "name": "Rock Nacional - La Radio Te Escucha",
+        "city": "Buenos Aires",
+        "country": "Argentina",
+        "url": "https://radios.streamingdha.com.ar/8042/;/stream"
+    },
+    {
+        "name": "Desfachatados",
+        "city": "Córdoba",
+        "country": "Argentina",
+        "url": "https://tus.radios.ar/8016/stream"
+    },
+    {
+        "name": "La Colectiva Radio FM 102.5",
+        "city": "Buenos Aires",
+        "country": "Argentina",
+        "url": "https://radios.solumedia.com/6198/stream"
+    },
+    {
+        "name": "Radio Uno FM 88.5",
+        "city": "Buenos Aires",
+        "country": "Argentina",
+        "url": "https://az03.streaminghd.net.ar/8002/stream"
+    },
+    {
+        "name": "Tanguera Radio",
+        "city": "Buenos Aires",
+        "country": "Argentina",
+        "url": "https://onair7.xdevel.com/proxy/xautocloud_w5z9_2029?mp=/;stream/;"
+    },
+    {
+        "name": "Comucosas",
+        "city": "Buenos Aires",
+        "country": "Argentina",
+        "url": "https://comucosas.argencloud.com.ar/listen/comucosas/stream"
+    },
+    {
+        "name": "Radio UNLa 92.1 FM",
+        "city": "Buenos Aires",
+        "country": "Argentina",
+        "url": "https://hgz0abgb026.sn.mynetname.net/listen/radio_unla/radio.mp3"
+    },
+    {
+        "name": "WClassic Radio",
+        "city": "Buenos Aires",
+        "country": "Argentina",
+        "url": "https://ohradio.cc/9604/stream"
+    },
+    {
+        "name": "Ahijuna FM 94.7",
+        "city": "Buenos Aires",
+        "country": "Argentina",
+        "url": "https://stream.ahijuna.fm/aire.mp3"
+    },
+    {
+        "name": "Tango Radio CAFF",
+        "city": "Buenos Aires",
+        "country": "Argentina",
+        "url": "https://streams.radio.co/s6b80bc417/listen"
+    },
+    {
+        "name": "Radio Fabro",
+        "city": "Córdoba",
+        "country": "Argentina",
+        "url": "https://server4.hostradios.com/8144/stream"
+    },
+    {
+        "name": "Radio Disney FM 94.3",
+        "city": "Buenos Aires",
+        "country": "Argentina",
+        "url": "https://27223.live.streamtheworld.com:443/DISNEY_ARG_BA.mp3"
+    },
+    {
+        "name": "PlayFM 95.9",
+        "city": "Córdoba",
+        "country": "Argentina",
+        "url": "https://ohradio.cc/9672/stream?ver=310504"
+    },
+    {
+        "name": "Cadena 3 AM 700",
+        "city": "Córdoba",
+        "country": "Argentina",
+        "url": "https://liveradio.mediainbox.net/radio3.mp3"
+    },
+    {
+        "name": "Radio Rivadavia 630 AM",
+        "city": "Buenos Aires",
+        "country": "Argentina",
+        "url": "https://24283.live.streamtheworld.com:443/RIVADAVIAAAC.aac"
+    },
+    {
+        "name": "Radio Mitre AM 790",
+        "city": "Buenos Aires",
+        "country": "Argentina",
+        "url": "https://18183.live.streamtheworld.com:443/AM790_56AAC.aac"
+    },
+    {
+        "name": "la Popu FM 92.3",
+        "city": "Córdoba",
+        "country": "Argentina",
+        "url": "https://liveradio.mediainbox.net/popular.mp3"
+    },
+    {
+        "name": "Radio La Red AM 910",
+        "city": "Buenos Aires",
+        "country": "Argentina",
+        "url": "https://27363.live.streamtheworld.com:443/LA_RED_AM910AAC.aac"
+    },
+    {
+        "name": "La 100 FM 99.9",
+        "city": "Buenos Aires",
+        "country": "Argentina",
+        "url": "https://26573.live.streamtheworld.com:443/FM999_56.mp3"
+    },
+    {
+        "name": "Blue FM 100.7",
+        "city": "Buenos Aires",
+        "country": "Argentina",
+        "url": "https://27363.live.streamtheworld.com:443/BLUE_FM_100_7AAC.aac"
+    },
+    {
+        "name": "FM Aspen 102.3",
+        "city": "Buenos Aires",
+        "country": "Argentina",
+        "url": "https://27343.live.streamtheworld.com:443/ASPEN.mp3"
+    },
+    {
+        "name": "Planeta Cuarteto",
+        "city": "Córdoba",
+        "country": "Argentina",
+        "url": "https://streaming.radiosenlinea.com.ar/8470/stream"
+    },
+    {
+        "name": "Radio Shopping 96.1",
+        "city": "Córdoba",
+        "country": "Argentina",
+        "url": "https://stream4.suenas.net/shoppingclassics2"
+    },
+    {
+        "name": "Aqui Cosquin Radio 93.7 FM",
+        "city": "Córdoba",
+        "country": "Argentina",
+        "url": "https://edge05.radiohdvivo.com/aquicosquin"
+    },
+    {
+        "name": "Radio Pueblo Estación FM 88.3",
+        "city": "Córdoba",
+        "country": "Argentina",
+        "url": "https://stm2.livecastradio.com:26881/stream/"
+    },
+    {
+        "name": "RadioPhonic",
+        "city": "La Plata",
+        "country": "Argentina",
+        "url": "http://radiophonic.com.ar:8000/radiophonic.mp3"
+    },
+    {
+        "name": "Radio 2 FM 107.1 AuBasa",
+        "city": "La Plata",
+        "country": "Argentina",
+        "url": "https://cdn.instream.audio/:9056/stream"
+    },
+    {
+        "name": "Radio de Folklore 96.7 FM",
+        "city": "Córdoba",
+        "country": "Argentina",
+        "url": "https://stm17.xcast.com.br:7296/stream"
+    },
+    {
+        "name": "Radio Voces FM 100.7",
+        "city": "La Plata",
+        "country": "Argentina",
+        "url": "https://streaming01.shockmedia.com.ar/8664/"
+    },
+    {
+        "name": "Nuevos Aires FM 99.7",
+        "city": "La Plata",
+        "country": "Argentina",
+        "url": "https://server.radiostreaming.com.ar/8718/stream"
+    },
+    {
+        "name": "El Buen Samaritano 101.7 FM",
+        "city": "La Plata",
+        "country": "Argentina",
+        "url": "https://radios.solumedia.com:10903/stream"
+    },
+    {
+        "name": "Oasis 95.5",
+        "city": "La Plata",
+        "country": "Argentina",
+        "url": "https://edge04.radiohdvivo.com/oasisradio"
+    },
+    {
+        "name": "Radio Mitre Córdoba AM 810",
+        "city": "Córdoba",
+        "country": "Argentina",
+        "url": "https://19213.live.streamtheworld.com:443/AM810_56AAC.aac"
+    },
+    {
+        "name": "Radio Bar 96.9 FM",
+        "city": "Córdoba",
+        "country": "Argentina",
+        "url": "https://streaming2.locucionar.com/proxy/radiobar?mp=/stream"
+    },
+    {
+        "name": "Red 92",
+        "city": "La Plata",
+        "country": "Argentina",
+        "url": "https://radios.solumedia.com/6426/stream"
+    },
+    {
+        "name": "Radio Revolución 98.9",
+        "city": "La Plata",
+        "country": "Argentina",
+        "url": "https://streaming01.shockmedia.com.ar/9878/stream"
+    },
+    {
+        "name": "Gravity Radio 105.3 FM",
+        "city": "La Plata",
+        "country": "Argentina",
+        "url": "https://01.solumedia.com.ar/stream/fmblue"
+    },
+    {
+        "name": "Cadena Heat 91.9 FM",
+        "city": "Córdoba",
+        "country": "Argentina",
+        "url": "https://26503.live.streamtheworld.com:443/CADENAHEAT_SC"
+    },
+    {
+        "name": "Sólo Temazos 96.5 FM",
+        "city": "La Plata",
+        "country": "Argentina",
+        "url": "https://radios.solumedia.com/6466/stream"
+    },
+    {
+        "name": "Radio G",
+        "city": "La Plata",
+        "country": "Argentina",
+        "url": "https://streaming.radiosenlinea.com.ar:10795/index.html?sid=1"
+    },
+    {
+        "name": "Positiva FM 105.9",
+        "city": "Córdoba",
+        "country": "Argentina",
+        "url": "https://01.solumedia.com.ar:8512/stream"
+    },
+    {
+        "name": "FM La Redonda 100.3",
+        "city": "La Plata",
+        "country": "Argentina",
+        "url": "https://01.solumedia.com.ar:8290/stream"
+    },
+    {
+        "name": "La Rocka 70",
+        "city": "Mendoza",
+        "country": "Argentina",
+        "url": "https://audiopanel.com.ar:8020/radio.aac"
+    },
+    {
+        "name": "PowerPlay Radio",
+        "city": "Mendoza",
+        "country": "Argentina",
+        "url": "https://audiopanel.com.ar:8040/radio.aac"
+    },
+    {
+        "name": "Radio Vox FM 102.9",
+        "city": "La Plata",
+        "country": "Argentina",
+        "url": "https://streaming01.shockmedia.com.ar:10636/stream"
+    },
+    {
+        "name": "Aurora 91.3 Argentina",
+        "city": "Mendoza",
+        "country": "Argentina",
+        "url": "https://radio13.servidorderadio.net/9512/stream"
+    },
+    {
+        "name": "Radio Cantilo FM 101.9",
+        "city": "La Plata",
+        "country": "Argentina",
+        "url": "https://01.solumedia.com.ar:7231/stream"
+    },
+    {
+        "name": "Radio Empresaria 92.5",
+        "city": "La Plata",
+        "country": "Argentina",
+        "url": "https://ohradio.cc/8310/stream"
+    },
+    {
+        "name": "LVDiez FM 104.1",
+        "city": "Mendoza",
+        "country": "Argentina",
+        "url": "https://streamserver-2.xyz:8000/radio.aac"
+    },
+    {
+        "name": "Estacion del Sol FM 100.9",
+        "city": "Mendoza",
+        "country": "Argentina",
+        "url": "https://estaciondelsolonline.com.ar:8000/radio.aac"
+    },
+    {
+        "name": "Cordillera FM 103.7",
+        "city": "Mendoza",
+        "country": "Argentina",
+        "url": "https://sslstream.online/8140/stream"
+    },
+    {
+        "name": "Radio Nacional Libertador AM 780",
+        "city": "Mendoza",
+        "country": "Argentina",
+        "url": "https://sa.mp3.icecast.magma.edge-access.net/sc_rad48"
+    },
+    {
+        "name": "FM Ayer",
+        "city": "Mendoza",
+        "country": "Argentina",
+        "url": "https://icecast.unomedios.com.ar/ayer"
+    },
+    {
+        "name": "Estacion Cero 96.5 FM",
+        "city": "Mendoza",
+        "country": "Argentina",
+        "url": "http://streaming01.shockmedia.com.ar:8148/index.html?sid=1"
+    },
+    {
+        "name": "Radio Cuyum 89.3 FM",
+        "city": "Mendoza",
+        "country": "Argentina",
+        "url": "https://radios.liberaturadio.org/Cuyum"
+    },
+    {
+        "name": "Farco",
+        "city": "Rosario",
+        "country": "Argentina",
+        "url": "http://streaming.radiosenlinea.com.ar:8408/stream/"
+    },
+    {
+        "name": "Metropolitana 95.3",
+        "city": "Mendoza",
+        "country": "Argentina",
+        "url": "https://masservidor.net:7176/index.html?sid=1"
+    },
+    {
+        "name": "AM Libertad 1090",
+        "city": "Rosario",
+        "country": "Argentina",
+        "url": "http://streaming2.locucionar.com:8669/stream"
+    },
+    {
+        "name": "Antena Uno Radio FM 100.1",
+        "city": "Mendoza",
+        "country": "Argentina",
+        "url": "https://streaming.escuchanosonline.com/8268/stream"
+    },
+    {
+        "name": "Radio 2 AM 1230",
+        "city": "Rosario",
+        "country": "Argentina",
+        "url": "http://radio2.radio.rosario3.com:8000/prueba2"
+    },
+    {
+        "name": "Plus 93.1",
+        "city": "Rosario",
+        "country": "Argentina",
+        "url": "http://fmplus.radio.rosario3.com:8006/fmplus"
+    },
+    {
+        "name": "LV6 Radio Nihuil AM 680",
+        "city": "Mendoza",
+        "country": "Argentina",
+        "url": "https://27393.live.streamtheworld.com:443/NIHUIL_AM680.mp3"
+    },
+    {
+        "name": "Del Siglo FM 99.5",
+        "city": "Rosario",
+        "country": "Argentina",
+        "url": "http://stream.lt8.com.ar:8080/delsiglo995.mp3"
+    },
+    {
+        "name": "Metropolitana FM 103.7",
+        "city": "Rosario",
+        "country": "Argentina",
+        "url": "https://https.nvradios.com/radio/9432/radio.mp3"
+    },
+    {
+        "name": "LRA 5 AM 1300",
+        "city": "Rosario",
+        "country": "Argentina",
+        "url": "https://sa.mp3.icecast.magma.edge-access.net/sc_rad5"
+    },
+    {
+        "name": "La Mosquitera FM 88.1",
+        "city": "Mendoza",
+        "country": "Argentina",
+        "url": "https://stream.codigosur.org/mosquitera.mp3"
+    },
+    {
+        "name": "FM Vida 97.9",
+        "city": "Rosario",
+        "country": "Argentina",
+        "url": "https://streaming450tb.locucionar.com/proxy/fmvida979?mp=/stream"
+    },
+    {
+        "name": "MDZ Radio 105.5",
+        "city": "Mendoza",
+        "country": "Argentina",
+        "url": "https://streaming6.locucionar.com:24110/stream"
+    },
+    {
+        "name": "La Boing FM 97.3",
+        "city": "Rosario",
+        "country": "Argentina",
+        "url": "https://streaming.redboing.com/radio/8000/radio.aac"
+    },
+    {
+        "name": "FM Brava 94.9",
+        "city": "Mendoza",
+        "country": "Argentina",
+        "url": "https://26563.live.streamtheworld.com:443/BRAVA_FM949.mp3"
+    },
+    {
+        "name": "Fahrenheit FM 88.7",
+        "city": "Rosario",
+        "country": "Argentina",
+        "url": "https://streaming.redboing.com/radio/8010/radio.aac"
+    },
+    {
+        "name": "FM City 103.5",
+        "city": "Rosario",
+        "country": "Argentina",
+        "url": "http://s1.radiosnethosting.com:9796/;stream.mp3"
+    },
+    {
+        "name": "CNN Radio San Juan FM 94.1",
+        "city": "San Juan",
+        "country": "Argentina",
+        "url": "https://streaming.radiosenlinea.com.ar:10796/index.html?sid=1"
+    },
+    {
+        "name": "Diez FM 93.9",
+        "city": "Rosario",
+        "country": "Argentina",
+        "url": "https://server3.livecastradio.com:7168/stream"
+    },
+    {
+        "name": "Extremo FM 106.9",
+        "city": "Rosario",
+        "country": "Argentina",
+        "url": "https://streaming.escuchanosonline.com:7103/stream"
+    },
+    {
+        "name": "Radiofónica FM 100.7",
+        "city": "Rosario",
+        "country": "Argentina",
+        "url": "https://radio02.ferozo.com/proxy/ra02000290?mp=/stream"
+    },
+    {
+        "name": "Cristal 100.3",
+        "city": "San Juan",
+        "country": "Argentina",
+        "url": "https://streaming01.shockmedia.com.ar:10158/stream"
+    },
+    {
+        "name": "Amanecer FM 102.9",
+        "city": "San Juan",
+        "country": "Argentina",
+        "url": "https://streaming1.locucionar.com/proxy/amanecerradio?mp=/stream"
+    },
+    {
+        "name": "Premium FM 105.9",
+        "city": "San Juan",
+        "country": "Argentina",
+        "url": "https://streaming3.locucionar.com/proxy/premiumradio?mp=/stream"
+    },
+    {
+        "name": "FM 107.7",
+        "city": "San Juan",
+        "country": "Argentina",
+        "url": "http://streaming1.locucionar.com:14835/index.html?sid=1"
+    },
+    {
+        "name": "Radio Digital San Juan",
+        "city": "San Juan",
+        "country": "Argentina",
+        "url": "https://01.solumedia.com.ar:7762/stream/1/"
+    },
+    {
+        "name": "FM Santa Lucía 99.7",
+        "city": "San Juan",
+        "country": "Argentina",
+        "url": "https://streaming.radiosenlinea.com.ar/8516/stream"
+    },
+    {
+        "name": "Del Sol FM 91.9",
+        "city": "San Juan",
+        "country": "Argentina",
+        "url": "https://streaming3.locucionar.com/proxy/diariodelsol?mp=/stream"
+    },
+    {
+        "name": "LIFE",
+        "city": "San Carlos de Bariloche",
+        "country": "Argentina",
+        "url": "https://streaming01.shockmedia.com.ar/9224/"
+    },
+    {
+        "name": "Radio Norte FM 96.5",
+        "city": "San Juan",
+        "country": "Argentina",
+        "url": "https://streaming01.shockmedia.com.ar/8574/stream"
+    },
+    {
+        "name": "Flashpoint Radio",
+        "city": "San Carlos de Bariloche",
+        "country": "Argentina",
+        "url": "https://streaming2.locucionar.com/proxy/flashpoint?mp=/stream"
+    },
+    {
+        "name": "Estación Claridad FM 97.1",
+        "city": "San Juan",
+        "country": "Argentina",
+        "url": "https://solid9.streamupsolutions.com/proxy/liijwyyg?mp=/stream"
+    },
+    {
+        "name": "LV 1 Radio Colon AM560 FM106.3",
+        "city": "San Juan",
+        "country": "Argentina",
+        "url": "https://host.serviceinfinito.com.ar:7004/index.html?sid=1"
+    },
+    {
+        "name": "Radio La Voz FM 100.5",
+        "city": "San Juan",
+        "country": "Argentina",
+        "url": "https://host.serviceinfinito.com.ar:7003/index.html?sid=1"
+    },
+    {
+        "name": "FM del Barrio 98.1",
+        "city": "San Carlos de Bariloche",
+        "country": "Argentina",
+        "url": "https://streaming.escuchanosonline.com:7026/stream/"
+    },
+    {
+        "name": "Radio Seis Bariloche",
+        "city": "San Carlos de Bariloche",
+        "country": "Argentina",
+        "url": "http://janus.shoutca.st:9149/stream"
+    },
+    {
+        "name": "Radio Madre de Dios FM 87.9",
+        "city": "San Juan",
+        "country": "Argentina",
+        "url": "https://01.solumedia.com.ar:8134/stream"
+    },
+    {
+        "name": "Puertas y Puentes FM 88.9",
+        "city": "San Carlos de Bariloche",
+        "country": "Argentina",
+        "url": "https://streaming01.radiosenlinea.com.ar/8236/stream"
+    },
+    {
+        "name": "Radio Con Vos 89.5 FM",
+        "city": "San Carlos de Bariloche",
+        "country": "Argentina",
+        "url": "https://streaming2.locucionar.com/proxy/radioconvospatagonia?mp=/stream"
+    },
+    {
+        "name": "FM Renacer 107.7",
+        "city": "San Carlos de Bariloche",
+        "country": "Argentina",
+        "url": "https://genexservicios.com:2000/stream/renacerbariloche/stream/"
+    },
+    {
+        "name": "Tano Bertolini",
+        "city": "Mar del Plata",
+        "country": "Argentina",
+        "url": "http://streaming.escuchanosonline.com:8008/live/"
+    },
+    {
+        "name": "FM Bariloche 89.1",
+        "city": "San Carlos de Bariloche",
+        "country": "Argentina",
+        "url": "https://streaming1.locucionar.com/proxy/colgados?mp=/stream"
+    },
+    {
+        "name": "FM QSL (MdP)",
+        "city": "Mar del Plata",
+        "country": "Argentina",
+        "url": "https://streaming01.shockmedia.com.ar/8872/stream"
+    },
+    {
+        "name": "FM Latidos 93.5",
+        "city": "San Carlos de Bariloche",
+        "country": "Argentina",
+        "url": "https://streaming.evolucionstreaming.com:10942/stream"
+    },
+    {
+        "name": "RN LRA 57 Bolson",
+        "city": "San Carlos de Bariloche",
+        "country": "Argentina",
+        "url": "https://sa.mp3.icecast.magma.edge-access.net/sc_rad57"
+    },
+    {
+        "name": "FM Impacto 100.3",
+        "city": "San Carlos de Bariloche",
+        "country": "Argentina",
+        "url": "https://streaming01.shockmedia.com.ar/7120/stream"
+    },
+    {
+        "name": "FM La 97",
+        "city": "Mar del Plata",
+        "country": "Argentina",
+        "url": "https://streaming01.shockmedia.com.ar:10586/stream"
+    },
+    {
+        "name": "Radio Rivadavia FM 90.1",
+        "city": "Mar del Plata",
+        "country": "Argentina",
+        "url": "https://strcdn.klm99.com:10989/rivadaviamdp"
+    },
+    {
+        "name": "Music Bazaar",
+        "city": "Mar del Plata",
+        "country": "Argentina",
+        "url": "https://streaming01.shockmedia.com.ar:10580/index.html?sid=1"
+    },
+    {
+        "name": "Radio Bosque",
+        "city": "Mar del Plata",
+        "country": "Argentina",
+        "url": "https://streaming01.shockmedia.com.ar/8738/stream"
+    },
+    {
+        "name": "Rex Radio",
+        "city": "San Carlos de Bariloche",
+        "country": "Argentina",
+        "url": "https://stream-168.zeno.fm/qu31uftsqfxuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxdTMxdWZ0c3FmeHV2IiwiaG9zdCI6InN0cmVhbS0xNjguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiNjRjTmk3dHVUWUsyLU5LZDVUdWthUSIsImlhdCI6MTc2OTQxNjMxOSwiZXhwIjoxNzY5NDE2Mzc5fQ.SahMxXJLpi-33xm8HfdHqC0hmW1EEiX9NiVNSi1h57s"
+    },
+    {
+        "name": "La Rock-A 90.9",
+        "city": "San Carlos de Bariloche",
+        "country": "Argentina",
+        "url": "https://s3.conectarmedia.com:8052/stream"
+    },
+    {
+        "name": "FM Del Bosque FM 104.1",
+        "city": "San Carlos de Bariloche",
+        "country": "Argentina",
+        "url": "https://radio01.ferozo.com/proxy/ra01000983?mp=/stream"
+    },
+    {
+        "name": "LU6 Radio Atlántica",
+        "city": "Mar del Plata",
+        "country": "Argentina",
+        "url": "https://streaming.escuchanosonline.com:7056/stream"
+    },
+    {
+        "name": "Magic Box FM 107.3",
+        "city": "Mar del Plata",
+        "country": "Argentina",
+        "url": "https://radios.streamingdha.com.ar/8032/"
+    },
+    {
+        "name": "Acqua Pop Life",
+        "city": "Mar del Plata",
+        "country": "Argentina",
+        "url": "https://strcdn.klm99.com:10990/acquamdp"
+    },
+    {
+        "name": "Planet Music FM 101.1",
+        "city": "Mar del Plata",
+        "country": "Argentina",
+        "url": "https://strcdn.klm99.com:10991/planetmdp"
+    },
+    {
+        "name": "Acqua FM 96.5",
+        "city": "Mar del Plata",
+        "country": "Argentina",
+        "url": "https://strcdn.klm99.com:10983/acquapinamar"
+    },
+    {
+        "name": "Sunrise FM 98.5",
+        "city": "Mar del Plata",
+        "country": "Argentina",
+        "url": "https://strcdn.klm99.com:10982/sunrisecarilo"
+    },
+    {
+        "name": "Radio Ayacucho FM 95.3",
+        "city": "Mar del Plata",
+        "country": "Argentina",
+        "url": "https://sonic.cloudstreaming.eu:10989/"
+    },
+    {
+        "name": "Mega Mar Del Plata 101.7",
+        "city": "Mar del Plata",
+        "country": "Argentina",
+        "url": "https://01.solumedia.com.ar:8476/stream"
+    },
+    {
+        "name": "Inminente Radio",
+        "city": "Neuquén",
+        "country": "Argentina",
+        "url": "https://miestacion.turadioonline.com.ar:7064/stream"
+    },
+    {
+        "name": "Sky FM 95.5",
+        "city": "Neuquén",
+        "country": "Argentina",
+        "url": "https://miestacion.turadioonline.com.ar/8064/stream"
+    },
+    {
+        "name": "LU5AM600",
+        "city": "Neuquén",
+        "country": "Argentina",
+        "url": "https://live.lu5am.com:8443/LU5"
+    },
+    {
+        "name": "Radio Puerto Argentino",
+        "city": "Neuquén",
+        "country": "Argentina",
+        "url": "https://server4.hostradios.com/8222/stream"
+    },
+    {
+        "name": "AM Cumbre 1400",
+        "city": "Neuquén",
+        "country": "Argentina",
+        "url": "https://cdn.instream.audio/:9366/stream/"
+    },
+    {
+        "name": "Platinum 97.7",
+        "city": "Neuquén",
+        "country": "Argentina",
+        "url": "https://streaming5.locucionar.com/proxy/platinum?mp=/stream"
+    },
+    {
+        "name": "La Propaladora FM 106.5",
+        "city": "Neuquén",
+        "country": "Argentina",
+        "url": "https://radiosar.com/8004/stream"
+    },
+    {
+        "name": "Radio Latina FM 93.7",
+        "city": "Neuquén",
+        "country": "Argentina",
+        "url": "https://emisora.zonasinergia.com/8558/stream"
+    },
+    {
+        "name": "AM550 La Primera",
+        "city": "Neuquén",
+        "country": "Argentina",
+        "url": "https://sonic.host-live.com:10851/stream"
+    },
+    {
+        "name": "Laser FM 107.9",
+        "city": "Neuquén",
+        "country": "Argentina",
+        "url": "https://edge04.radiohdvivo.com/laserfm1079"
+    },
+    {
+        "name": "Radio Universo",
+        "city": "Neuquén",
+        "country": "Argentina",
+        "url": "https://streaming01.shockmedia.com.ar:10936/index.html?sid=1"
+    },
+    {
+        "name": "Binaural Rock Radio",
+        "city": "Neuquén",
+        "country": "Argentina",
+        "url": "https://01.solumedia.com.ar:7870/stream"
+    },
+    {
+        "name": "FM Kaos 99.7",
+        "city": "Neuquén",
+        "country": "Argentina",
+        "url": "http://streaming2.locucionar.com:8407/stream"
+    },
+    {
+        "name": "Radio El Signo FM 106.5",
+        "city": "Santa Fe",
+        "country": "Argentina",
+        "url": "https://streaming01.shockmedia.com.ar:10605/stream?icy=http"
+    },
+    {
+        "name": "LRA 14 Radio Nacional AM 540",
+        "city": "Santa Fe",
+        "country": "Argentina",
+        "url": "https://sa.mp3.icecast.magma.edge-access.net/sc_rad14"
+    },
+    {
+        "name": "LOOP X3M",
+        "city": "Santa Fe",
+        "country": "Argentina",
+        "url": "https://streaming.lantalks.com/radio/8010/loop"
+    },
+    {
+        "name": "LT 9 AM 1150",
+        "city": "Santa Fe",
+        "country": "Argentina",
+        "url": "https://streaming1.locucionar.com/proxy/lt9?mp=/stream?"
+    },
+    {
+        "name": "FM Condor 104.1",
+        "city": "Santa Fe",
+        "country": "Argentina",
+        "url": "http://streaming3.locucionar.com:16318/;stream/1"
+    },
+    {
+        "name": "Radio Natural - 24 HORAS Radio",
+        "city": "Santa Fe",
+        "country": "Argentina",
+        "url": "https://streaming5.locucionar.com/proxy/24horasradio?mp=/stream"
+    },
+    {
+        "name": "Aire de Santa Fe FM 91.1",
+        "city": "Santa Fe",
+        "country": "Argentina",
+        "url": "https://ssl.xcast.com.br:8248/index.html?sid=1"
+    },
+    {
+        "name": "Cadena Oh! 87.9",
+        "city": "Santa Fe",
+        "country": "Argentina",
+        "url": "https://radio.arcast.cloud:1340/stream"
+    },
+    {
+        "name": "FM Libertad 90.5",
+        "city": "Santa Fe",
+        "country": "Argentina",
+        "url": "https://radio01.ferozo.com/proxy/ra01000977?mp=/stream"
+    },
+    {
+        "name": "Onda Horizonte FM 94.1",
+        "city": "Santa Fe",
+        "country": "Argentina",
+        "url": "https://ssl.radiosnethosting.com/index.php?port=9816;"
+    },
+    {
+        "name": "LT10 Radio UNL",
+        "city": "Santa Fe",
+        "country": "Argentina",
+        "url": "https://radio.arcast.net:1060/stream"
+    },
+    {
+        "name": "FM San Carlos 107.7",
+        "city": "Santa Fe",
+        "country": "Argentina",
+        "url": "https://01.solumedia.com.ar:8854/stream"
+    },
+    {
+        "name": "FM Me Gusta 98.3",
+        "city": "Bahía Blanca",
+        "country": "Argentina",
+        "url": "https://srv1.streamingradio.ar:7135/live"
+    },
+    {
+        "name": "Altos FM 97.9",
+        "city": "Bahía Blanca",
+        "country": "Argentina",
+        "url": "https://masservidor.net:7185/index.html?sid=1"
+    },
+    {
+        "name": "FM Corazón 104.1",
+        "city": "Santa Fe",
+        "country": "Argentina",
+        "url": "https://radio01.ferozo.com/proxy/ra01000944?mp=/stream"
+    },
+    {
+        "name": "UTN FM 93.5",
+        "city": "Bahía Blanca",
+        "country": "Argentina",
+        "url": "https://sonic.cloudstreaming.eu:10986/index.html?sid=1"
+    },
+    {
+        "name": "El Espejo iRadio",
+        "city": "Bahía Blanca",
+        "country": "Argentina",
+        "url": "https://repetidoras.elespejo.com.ar:8000/radio"
+    },
+    {
+        "name": "Planet Music FM 105.1",
+        "city": "Bahía Blanca",
+        "country": "Argentina",
+        "url": "https://strcdn.klm99.com:10991/planetbb"
+    },
+    {
+        "name": "Radio Reino de Gloria FM 87.5",
+        "city": "Bahía Blanca",
+        "country": "Argentina",
+        "url": "https://radio.plandos.com/8006/stream"
+    },
+    {
+        "name": "Bahia Radio Hits",
+        "city": "Bahía Blanca",
+        "country": "Argentina",
+        "url": "http://miestacion.turadioonline.com.ar:8158/stream/"
+    },
+    {
+        "name": "La Brújula 24",
+        "city": "Bahía Blanca",
+        "country": "Argentina",
+        "url": "https://icecast.hostingbahia.com.ar:8020/live"
+    },
+    {
+        "name": "Radio Norte 105.5 FM",
+        "city": "Bahía Blanca",
+        "country": "Argentina",
+        "url": "https://icecast.hostingbahia.com.ar:8002/live"
+    },
+    {
+        "name": "LU 26 Ladorrego AM 1470",
+        "city": "Bahía Blanca",
+        "country": "Argentina",
+        "url": "https://masservidor.net/8394/stream"
+    },
+    {
+        "name": "Radio Fiesta",
+        "city": "Bahía Blanca",
+        "country": "Argentina",
+        "url": "https://streaming.evolucionstreaming.com:10826/stream/"
+    },
+    {
+        "name": "Antena Uno",
+        "city": "Posadas",
+        "country": "Argentina",
+        "url": "https://radios.solumedia.com:10818/stream"
+    },
+    {
+        "name": "FM Ciudad 89.5 LRV 336",
+        "city": "Bahía Blanca",
+        "country": "Argentina",
+        "url": "https://streaming2.locucionar.com/proxy/ciudadpringles?mp=/stream"
+    },
+    {
+        "name": "Radio Libertad FM 93.7",
+        "city": "Posadas",
+        "country": "Argentina",
+        "url": "https://streamall.alsolnet.com/fmradiol"
+    },
+    {
+        "name": "NQP Radio",
+        "city": "Bahía Blanca",
+        "country": "Argentina",
+        "url": "https://cdn.instream.audio:8111/stream"
+    },
+    {
+        "name": "FM Street 101.5",
+        "city": "Posadas",
+        "country": "Argentina",
+        "url": "https://ipanel.instream.audio:7006/stream"
+    },
+    {
+        "name": "Radio Más FM 100.7",
+        "city": "Bahía Blanca",
+        "country": "Argentina",
+        "url": "https://01.solumedia.com.ar:8496/stream"
+    },
+    {
+        "name": "FM Universidad 98.7",
+        "city": "Posadas",
+        "country": "Argentina",
+        "url": "https://fm.unam.edu.ar/fm"
+    },
+    {
+        "name": "Classic FM 91.3",
+        "city": "Posadas",
+        "country": "Argentina",
+        "url": "https://radiohd.net/7028/stream"
+    },
+    {
+        "name": "Cadena Express FM",
+        "city": "Posadas",
+        "country": "Argentina",
+        "url": "https://streamall.alsolnet.com/cadenaexpress"
+    },
+    {
+        "name": "LU2 AM 840",
+        "city": "Bahía Blanca",
+        "country": "Argentina",
+        "url": "https://streaming6.locucionar.com:24228/stream"
+    },
+    {
+        "name": "Radio República FM 99.9",
+        "city": "Posadas",
+        "country": "Argentina",
+        "url": "https://streamlky.alsolnet.com/republica99?type=.flv&var=1571038438974R61"
+    },
+    {
+        "name": "Radio Encarnación 95.7 FM",
+        "city": "Posadas",
+        "country": "Argentina",
+        "url": "http://37.59.41.148:6646/;;"
+    },
+    {
+        "name": "Play FM 103.3",
+        "city": "Posadas",
+        "country": "Argentina",
+        "url": "https://cdn.instream.audio:9170/stream"
+    },
+    {
+        "name": "FM 98.1 El Show de los impactos",
+        "city": "Posadas",
+        "country": "Argentina",
+        "url": "https://streamlky.alsolnet.com/fmshow"
+    },
+    {
+        "name": "Radio Ciudad FM 94.7",
+        "city": "Bahía Blanca",
+        "country": "Argentina",
+        "url": "https://streaming6.locucionar.com:24028/stream"
+    },
+    {
+        "name": "La Radio Publica del Oeste FM 89.3",
+        "city": "Posadas",
+        "country": "Argentina",
+        "url": "https://01.solumedia.com.ar:8308/stream"
+    },
+    {
+        "name": "DJ Delivery",
+        "city": "Posadas",
+        "country": "Argentina",
+        "url": "https://radiohd.net/8014/stream"
+    },
+    {
+        "name": "Radio Odisea 89.9 FM",
+        "city": "Posadas",
+        "country": "Argentina",
+        "url": "https://radios.tecnosoul.com.ar:8001/odisea"
+    },
+    {
+        "name": "Los 40 101.7 FM",
+        "city": "Villa María",
+        "country": "Argentina",
+        "url": "https://sonicpanel.hostradios.com/8796/stream"
+    },
+    {
+        "name": "Metropolis FM 100.9",
+        "city": "Villa María",
+        "country": "Argentina",
+        "url": "https://sonicpanel.hostradios.com:10977/index.html?sid=1"
+    },
+    {
+        "name": "D Sports 105.3 FM",
+        "city": "Villa María",
+        "country": "Argentina",
+        "url": "http://sonicpanel.hostradios.com:8754/stream"
+    },
+    {
+        "name": "Radio Activa 103.3 FM",
+        "city": "Villa María",
+        "country": "Argentina",
+        "url": "https://edge01.radiohdvivo.com/fmra1033"
+    },
+    {
+        "name": "Olimpo FM 92.1",
+        "city": "Villa María",
+        "country": "Argentina",
+        "url": "https://stream.desatec.net:7211/index.html?sid=1"
+    },
+    {
+        "name": "Radio Rivadavia 102.1 FM",
+        "city": "Villa María",
+        "country": "Argentina",
+        "url": "https://sonicpanel.hostradios.com/8794/stream"
+    },
+    {
+        "name": "Romance FM 91.3",
+        "city": "Villa María",
+        "country": "Argentina",
+        "url": "https://sonicpanel.hostradios.com/8756/stream"
+    },
+    {
+        "name": "Radio Portal 5900",
+        "city": "Villa María",
+        "country": "Argentina",
+        "url": "https://stream.desatec.net/8054/stream"
+    },
+    {
+        "name": "Radio Show 106.5 FM",
+        "city": "Villa María",
+        "country": "Argentina",
+        "url": "https://sonicpanel.hostradios.com/8704/stream"
+    },
+    {
+        "name": "FM Compartir 93.1",
+        "city": "Villa María",
+        "country": "Argentina",
+        "url": "https://sonicpanel.hostradios.com/8730/"
+    },
+    {
+        "name": "Rockandrolla FM 104.1",
+        "city": "Villa María",
+        "country": "Argentina",
+        "url": "https://rock.urbanacordoba.com.ar/index.html?sid=1"
+    },
+    {
+        "name": "FM La Plaza 94.9",
+        "city": "Salta",
+        "country": "Argentina",
+        "url": "http://streaming01.shockmedia.com.ar:7196/stream"
+    },
+    {
+        "name": "FM Express 96.5",
+        "city": "Villa María",
+        "country": "Argentina",
+        "url": "https://streaming.escuchanosonline.com:7381/stream"
+    },
+    {
+        "name": "FM 95.1 de la MEDIALUNA",
+        "city": "Villa María",
+        "country": "Argentina",
+        "url": "http://server12.veemesoft.com.ar:19460/index.html?sid=1"
+    },
+    {
+        "name": "Radio FM Cumbiambera 88.9",
+        "city": "Salta",
+        "country": "Argentina",
+        "url": "http://streaming1.locucionar.com:12150/stream/"
+    },
+    {
+        "name": "Dínamo FM 100.9",
+        "city": "Salta",
+        "country": "Argentina",
+        "url": "https://01.solumedia.com.ar:8144/stream"
+    },
+    {
+        "name": "En El Borde Radio 89.9 FM",
+        "city": "Salta",
+        "country": "Argentina",
+        "url": "https://streaming.evolucionstreaming.com/8542/stream"
+    },
+    {
+        "name": "FM VIP 89.9",
+        "city": "Villa María",
+        "country": "Argentina",
+        "url": "https://stream5.305stream.com:6060/stream"
+    },
+    {
+        "name": "La Cacharpaya",
+        "city": "Salta",
+        "country": "Argentina",
+        "url": "https://streaming01.shockmedia.com.ar/9360/"
+    },
+    {
+        "name": "FM 106.9 Universidad",
+        "city": "Villa María",
+        "country": "Argentina",
+        "url": "https://01.solumedia.com.ar:8870/stream"
+    },
+    {
+        "name": "FM Noticias 88.1",
+        "city": "Salta",
+        "country": "Argentina",
+        "url": "https://stream.radioinfo.ar/p/8062/stream/"
+    },
+    {
+        "name": "Radio Nacional AM 690",
+        "city": "Salta",
+        "country": "Argentina",
+        "url": "https://sa.mp3.icecast.magma.edge-access.net/sc_rad4"
+    },
+    {
+        "name": "Glam FM",
+        "city": "Salta",
+        "country": "Argentina",
+        "url": "https://streaming2.locucionar.com/proxy/glam963?mp=/stream"
+    },
+    {
+        "name": "Radio Sophia 99.5",
+        "city": "Salta",
+        "country": "Argentina",
+        "url": "https://cdn.instream.audio/:9136/stream"
+    },
+    {
+        "name": "FM UCASAL 99.1",
+        "city": "Salta",
+        "country": "Argentina",
+        "url": "https://radios.solumedia.com/6352/stream"
+    },
+    {
+        "name": "Omega FM 102.1",
+        "city": "Salta",
+        "country": "Argentina",
+        "url": "https://radios.solumedia.com:10812/stream?icy=http/;"
+    },
+    {
+        "name": "DJ's Club",
+        "city": "Salta",
+        "country": "Argentina",
+        "url": "https://radios.tecnosoul.com.ar:8001/djsclubradio"
+    },
+    {
+        "name": "FM Anta 96.1",
+        "city": "Salta",
+        "country": "Argentina",
+        "url": "https://stream.radioinfo.ar/p/8092/stream/"
+    },
+    {
+        "name": "FM Concierto 90.5",
+        "city": "Corrientes",
+        "country": "Argentina",
+        "url": "https://srv10.streamingradio.ar/8060/stream"
+    },
+    {
+        "name": "Hit FM 107.5",
+        "city": "Corrientes",
+        "country": "Argentina",
+        "url": "https://cdn.instream.audio/stream/9670"
+    },
+    {
+        "name": "Radio Salta",
+        "city": "Salta",
+        "country": "Argentina",
+        "url": "https://01.solumedia.com.ar:8348/stream"
+    },
+    {
+        "name": "Guemes 106.3 FM",
+        "city": "Salta",
+        "country": "Argentina",
+        "url": "https://server.radiostreaming.com.ar/8564/stream"
+    },
+    {
+        "name": "La Estación FM 107.9",
+        "city": "Salta",
+        "country": "Argentina",
+        "url": "https://01.solumedia.com.ar:8462/stream"
+    },
+    {
+        "name": "Radio Sudamericana FM 100.5",
+        "city": "Corrientes",
+        "country": "Argentina",
+        "url": "http://turadioenvivo.com:8530/stream"
+    },
+    {
+        "name": "Xpress FM 107.5",
+        "city": "Corrientes",
+        "country": "Argentina",
+        "url": "http://turadioenvivo.com:8700/stream"
+    },
+    {
+        "name": "Sonora 96 LRN 767",
+        "city": "Salta",
+        "country": "Argentina",
+        "url": "https://radio02.ferozo.com/proxy/ra02001423?mp=/;"
+    },
+    {
+        "name": "Radio Café Corrientes",
+        "city": "Corrientes",
+        "country": "Argentina",
+        "url": "https://tolkien.republicahosting.net:2463/live"
+    },
+    {
+        "name": "FM Capital 95.3",
+        "city": "Corrientes",
+        "country": "Argentina",
+        "url": "https://turadioenvivo.com/proxy/fmcapital953/stream"
+    },
+    {
+        "name": "FM La Red 92.9",
+        "city": "Corrientes",
+        "country": "Argentina",
+        "url": "http://turadioenvivo.com:11015/stream"
+    },
+    {
+        "name": "FM Pasión 98.7",
+        "city": "Corrientes",
+        "country": "Argentina",
+        "url": "https://cdn.instream.audio/stream/9790/stream"
+    },
+    {
+        "name": "Dorado FM 98.3",
+        "city": "Corrientes",
+        "country": "Argentina",
+        "url": "http://streamingraddios.online:10354/index.html?sid=1"
+    },
+    {
+        "name": "Feeling FM 91.7",
+        "city": "Corrientes",
+        "country": "Argentina",
+        "url": "https://turadioenvivo.com/proxy/feelings/stream"
+    },
+    {
+        "name": "Aura Radio",
+        "city": "Corrientes",
+        "country": "Argentina",
+        "url": "https://cp9.serverse.com/proxy/auraradio?mp=/stream"
+    },
+    {
+        "name": "Radio Bitacora FM 98.9",
+        "city": "Corrientes",
+        "country": "Argentina",
+        "url": "https://streaming.radiosenlinea.com.ar/8726/stream"
+    },
+    {
+        "name": "Radio LT7 AM 900",
+        "city": "Corrientes",
+        "country": "Argentina",
+        "url": "https://turadioenvivo.com/proxy/radiolt7/stream"
+    },
+    {
+        "name": "Radio Dos FM 99.3",
+        "city": "Corrientes",
+        "country": "Argentina",
+        "url": "https://radios.solumedia.com/6396/stream"
+    },
+    {
+        "name": "Radio Lv12",
+        "city": "San Miguel de Tucumán",
+        "country": "Argentina",
+        "url": "http://s1.radiosnethosting.com:8032/stream"
+    },
+    {
+        "name": "Zona Oculta Radio Digital",
+        "city": "San Miguel de Tucumán",
+        "country": "Argentina",
+        "url": "http://server-uk1.radioseninternet.net:8016/;stream/1"
+    },
+    {
+        "name": "Estudio 21",
+        "city": "Santa Rosa",
+        "country": "Argentina",
+        "url": "https://cdn.instream.audio/:9301/stream/"
+    },
+    {
+        "name": "Radio La Compañera FM 107.1",
+        "city": "San Miguel de Tucumán",
+        "country": "Argentina",
+        "url": "https://tolkien.republicahosting.net:2361/live"
+    },
+    {
+        "name": "FMi 99.1",
+        "city": "San Miguel de Tucumán",
+        "country": "Argentina",
+        "url": "https://ssl.radiosnethosting.com/index.php?port=9808"
+    },
+    {
+        "name": "Cadena X5",
+        "city": "Corrientes",
+        "country": "Argentina",
+        "url": "https://cdn.instream.audio:9101/stream"
+    },
+    {
+        "name": "Rck FM 107.3",
+        "city": "Corrientes",
+        "country": "Argentina",
+        "url": "https://cdn.instream.audio:8137/stream"
+    },
+    {
+        "name": "LTO Radio Las Tejas Online",
+        "city": "San Miguel de Tucumán",
+        "country": "Argentina",
+        "url": "https://stream-178.zeno.fm/yzb4tysszk0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5emI0dHlzc3prMHV2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiSWt6OGhPSWRRdE90ZnN0SmYxeGYxUSIsImlhdCI6MTc2OTQxNjM1MSwiZXhwIjoxNzY5NDE2NDExfQ.QMEpKnKSIx2-hNDu4UaiqhO9SY7b-HEkpUBpZm6D5jo"
+    },
+    {
+        "name": "FM Sensaciones 95.1",
+        "city": "San Miguel de Tucumán",
+        "country": "Argentina",
+        "url": "https://chino.republicahosting.com:2318/live"
+    },
+    {
+        "name": "Radio 3 FM Santa Rosa 93.7",
+        "city": "Santa Rosa",
+        "country": "Argentina",
+        "url": "https://server8.emitironline.com:18677/radio"
+    },
+    {
+        "name": "FM Sonidos 100.7",
+        "city": "Santa Rosa",
+        "country": "Argentina",
+        "url": "https://ssl.radiosnethosting.com/index.php?port=9844"
+    },
+    {
+        "name": "Radio Noticias 99.5 FM",
+        "city": "Santa Rosa",
+        "country": "Argentina",
+        "url": "https://radio02.ferozo.com/proxy/ra02001611?mp=/stream"
+    },
+    {
+        "name": "Radio Universo",
+        "city": "Santa Rosa",
+        "country": "Argentina",
+        "url": "http://45.178.84.150:8000/universo.mp3"
+    },
+    {
+        "name": "FM Radio Municipal 94.7",
+        "city": "Santa Rosa",
+        "country": "Argentina",
+        "url": "https://01.solumedia.com.ar:7702/stream"
+    },
+    {
+        "name": "Radio Fun 100.1 Mhz",
+        "city": "San Martín de los Andes",
+        "country": "Argentina",
+        "url": "http://streaming2.locucionar.com:8183/stream"
+    },
+    {
+        "name": "FM Pocahullo 91.1",
+        "city": "San Martín de los Andes",
+        "country": "Argentina",
+        "url": "https://server.radiostreaming.com.ar/8454/stream"
+    },
+    {
+        "name": "Siento Rock FM",
+        "city": "Santa Rosa",
+        "country": "Argentina",
+        "url": "https://argentina.republicahosting.com:2022/live"
+    },
+    {
+        "name": "LRA 53 Radio Nacional",
+        "city": "San Martín de los Andes",
+        "country": "Argentina",
+        "url": "https://sa.mp3.icecast.magma.edge-access.net/sc_rad53"
+    },
+    {
+        "name": "Blend 104.7 FM",
+        "city": "Santa Rosa",
+        "country": "Argentina",
+        "url": "https://radio01.ferozo.com/proxy/ra01001118?mp=/stream"
+    },
+    {
+        "name": "FM Club Patagonia 88.9",
+        "city": "San Martín de los Andes",
+        "country": "Argentina",
+        "url": "https://radio01.ferozo.com/proxy/ra01000872?mp=/stream"
+    },
+    {
+        "name": "FM Nova 98.9",
+        "city": "San Martín de los Andes",
+        "country": "Argentina",
+        "url": "https://01.solumedia.com.ar:8208/stream"
+    },
+    {
+        "name": "Radio Atractiva FM 101.3",
+        "city": "San Martín de los Andes",
+        "country": "Argentina",
+        "url": "https://sonicstream-puntual.grupozgh.cl/8126/"
+    },
+    {
+        "name": "FM Melodía 97.7",
+        "city": "San Martín de los Andes",
+        "country": "Argentina",
+        "url": "https://stream-175.zeno.fm/1831itr1f72uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIxODMxaXRyMWY3MnV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiRGFmWk5NRW9UQ2FBTDdTajBKUU53ZyIsImlhdCI6MTc2OTQxNjM1NSwiZXhwIjoxNzY5NDE2NDE1fQ.t_QW08JeeTUVS9YbxCuHjsaOAmULGTpE_RUVwr6dff4"
+    },
+    {
+        "name": "Radio Max FM 101.1",
+        "city": "Catamarca",
+        "country": "Argentina",
+        "url": "http://centova1.veemesoft.com.ar:8089/live"
+    },
+    {
+        "name": "Nostalgia FM 94.5",
+        "city": "Catamarca",
+        "country": "Argentina",
+        "url": "http://centova1.veemesoft.com.ar:8148/live"
+    },
+    {
+        "name": "FUN Radio",
+        "city": "Catamarca",
+        "country": "Argentina",
+        "url": "https://radio13.servidorderadio.net/9624/stream"
+    },
+    {
+        "name": "Radio Portal Catamarca",
+        "city": "Catamarca",
+        "country": "Argentina",
+        "url": "https://streaming.evolucionstreaming.com:10912/stream"
+    },
+    {
+        "name": "FM del Lago 102.5",
+        "city": "San Martín de los Andes",
+        "country": "Argentina",
+        "url": "https://stream.radiofmdellago.com.ar/stream"
+    },
+    {
+        "name": "Radio Valle Viejo 104.1 FM",
+        "city": "Catamarca",
+        "country": "Argentina",
+        "url": "https://stm2.livecastradio.com:9379/stream"
+    },
+    {
+        "name": "Radio BRC FM 102.1",
+        "city": "San Martín de los Andes",
+        "country": "Argentina",
+        "url": "https://01.solumedia.com.ar:9074/stream"
+    },
+    {
+        "name": "Radio Nacional - LRA27 AM 730",
+        "city": "Catamarca",
+        "country": "Argentina",
+        "url": "https://sa.mp3.icecast.magma.edge-access.net/sc_rad27"
+    },
+    {
+        "name": "La Isla FM 107.9",
+        "city": "Catamarca",
+        "country": "Argentina",
+        "url": "https://streaming5.locucionar.com/proxy/laislafm?mp=/stream"
+    },
+    {
+        "name": "FM Lagos Del Sur",
+        "city": "San Martín de los Andes",
+        "country": "Argentina",
+        "url": "https://sonic.portalfoxmix.club/8330/stream"
+    },
+    {
+        "name": "Tiempo de Radio",
+        "city": "Catamarca",
+        "country": "Argentina",
+        "url": "https://stm2.livecastradio.com:9365/stream"
+    },
+    {
+        "name": "Radio Total",
+        "city": "Catamarca",
+        "country": "Argentina",
+        "url": "https://sc.host-live.com/8040/stream"
+    },
+    {
+        "name": "Radio Ancasti 98.5",
+        "city": "Catamarca",
+        "country": "Argentina",
+        "url": "https://streaming.gostreaming.com.ar:10957/;/;type=mp3"
+    }
+]

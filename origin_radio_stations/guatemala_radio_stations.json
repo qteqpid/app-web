@@ -1,0 +1,882 @@
+[
+  {
+    "id": "guatemala-la-sabrosona-fm-945",
+    "name": "La Sabrosona FM 94.5",
+    "url": "http://54.39.106.215:9318/",
+    "genre": "Music",
+    "city": "Guatemala City",
+    "country": "Guatemala",
+    "lat": 14.6416142,
+    "lng": -90.5132836
+  },
+  {
+    "id": "guatemala-radio-peniel",
+    "name": "Radio Peniel",
+    "url": "https://kathy.torontocast.com:1600/stream",
+    "genre": "Music",
+    "city": "Guatemala City",
+    "country": "Guatemala",
+    "lat": 14.6416142,
+    "lng": -90.5132836
+  },
+  {
+    "id": "guatemala-la-jefa-occidente-971-fm",
+    "name": "La Jefa Occidente 97.1 FM",
+    "url": "https://play10.tikast.com/proxy/lajefaxela971?mp=/stream",
+    "genre": "Music",
+    "city": "Quetzaltenango",
+    "country": "Guatemala",
+    "lat": 14.8464612,
+    "lng": -91.5194208
+  },
+  {
+    "id": "guatemala-metropolis-fm-1053",
+    "name": "Metropolis FM 105.3",
+    "url": "https://polaris.hostingnica.net/8058/stream",
+    "genre": "Music",
+    "city": "Guatemala City",
+    "country": "Guatemala",
+    "lat": 14.6416142,
+    "lng": -90.5132836
+  },
+  {
+    "id": "guatemala-panamericana-internacional-online-radio",
+    "name": "Panamericana Internacional Online Radio",
+    "url": "https://radiosfuentesred.site/listen/radio_panamericana/radio.mp3",
+    "genre": "Music",
+    "city": "Guatemala City",
+    "country": "Guatemala",
+    "lat": 14.6416142,
+    "lng": -90.5132836
+  },
+  {
+    "id": "guatemala-caliente-fm-1029",
+    "name": "Caliente FM 102.9",
+    "url": "https://s4.voscast.com:8961/Caliente_Capital",
+    "genre": "Music",
+    "city": "Guatemala City",
+    "country": "Guatemala",
+    "lat": 14.6416142,
+    "lng": -90.5132836
+  },
+  {
+    "id": "guatemala-radio-cultural-tgn",
+    "name": "Radio Cultural TGN",
+    "url": "https://my.apptunner.com/8014/stream",
+    "genre": "Music",
+    "city": "Guatemala City",
+    "country": "Guatemala",
+    "lat": 14.6416142,
+    "lng": -90.5132836
+  },
+  {
+    "id": "guatemala-maxima-gt",
+    "name": "Màxima GT",
+    "url": "https://streaming.dainusradio.com/9984/stream",
+    "genre": "Music",
+    "city": "Guatemala City",
+    "country": "Guatemala",
+    "lat": 14.6416142,
+    "lng": -90.5132836
+  },
+  {
+    "id": "guatemala-radio-interface-903-fm",
+    "name": "Radio Interface 90.3 FM",
+    "url": "https://usa3.lhdserver.es:8129/stream",
+    "genre": "Music",
+    "city": "Guatemala City",
+    "country": "Guatemala",
+    "lat": 14.6416142,
+    "lng": -90.5132836
+  },
+  {
+    "id": "guatemala-católicos-al-día",
+    "name": "Católicos al Día",
+    "url": "https://cloudstream2032.conectarhosting.com/8074/stream/",
+    "genre": "Music",
+    "city": "Guatemala City",
+    "country": "Guatemala",
+    "lat": 14.6416142,
+    "lng": -90.5132836
+  },
+  {
+    "id": "guatemala-stereo-mana-del-cielo",
+    "name": "Stereo Mana del Cielo",
+    "url": "https://cloudstream2032.conectarhosting.com/8166/stream",
+    "genre": "Music",
+    "city": "Guatemala City",
+    "country": "Guatemala",
+    "lat": 14.6416142,
+    "lng": -90.5132836
+  },
+  {
+    "id": "guatemala-radio-cumbre",
+    "name": "Radio Cumbre",
+    "url": "https://cloudstream2032.conectarhosting.com/8130/stream",
+    "genre": "Music",
+    "city": "Guatemala City",
+    "country": "Guatemala",
+    "lat": 14.6416142,
+    "lng": -90.5132836
+  },
+  {
+    "id": "guatemala-tgw-fm-1073",
+    "name": "TGW FM 107.3",
+    "url": "https://stream.radiotgw.gob.gt/8002/stream",
+    "genre": "Music",
+    "city": "Guatemala City",
+    "country": "Guatemala",
+    "lat": 14.6416142,
+    "lng": -90.5132836
+  },
+  {
+    "id": "guatemala-emisoras-unidas-fm",
+    "name": "Emisoras Unidas FM",
+    "url": "https://stream-171.zeno.fm/x73b8q55puquv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ4NzNiOHE1NXB1cXV2IiwiaG9zdCI6InN0cmVhbS0xNzEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiNVNqd2VXRHVTeHFyUWFaaXBzRDU2USIsImlhdCI6MTc2OTQxOTAwNywiZXhwIjoxNzY5NDE5MDY3fQ.3MsnBDVGoFw2LWirPgMgHBgoCQv5Q5lgEHPF5I6w1Fw",
+    "genre": "Music",
+    "city": "Guatemala City",
+    "country": "Guatemala",
+    "lat": 14.6416142,
+    "lng": -90.5132836
+  },
+  {
+    "id": "guatemala-presencia-radio-fm-1023",
+    "name": "Presencia Radio FM 102.3",
+    "url": "https://ss.redradios.net:8051/stream",
+    "genre": "Music",
+    "city": "Quetzaltenango",
+    "country": "Guatemala",
+    "lat": 14.8464612,
+    "lng": -91.5194208
+  },
+  {
+    "id": "guatemala-radio-mágica-fm",
+    "name": "Radio Mágica FM",
+    "url": "https://azuracast.laysquad.com/listen/radiomagicafm/radio.mp3",
+    "genre": "Music",
+    "city": "Quetzaltenango",
+    "country": "Guatemala",
+    "lat": 14.8464612,
+    "lng": -91.5194208
+  },
+  {
+    "id": "guatemala-radio-vea-1570-am",
+    "name": "Radio Vea 1570 AM",
+    "url": "https://ss.redradios.net:8052/stream",
+    "genre": "Music",
+    "city": "Guatemala City",
+    "country": "Guatemala",
+    "lat": 14.6416142,
+    "lng": -90.5132836
+  },
+  {
+    "id": "guatemala-los-40-gt",
+    "name": "Los 40 GT",
+    "url": "https://16603.live.streamtheworld.com:443/LOS40_GUATEMALAAAC.aac",
+    "genre": "Music",
+    "city": "Guatemala City",
+    "country": "Guatemala",
+    "lat": 14.6416142,
+    "lng": -90.5132836
+  },
+  {
+    "id": "guatemala-vibra-1019-fm",
+    "name": "Vibra 101.9 FM",
+    "url": "https://server.radiogs.net:7193/index.html?sid=1",
+    "genre": "Music",
+    "city": "Quetzaltenango",
+    "country": "Guatemala",
+    "lat": 14.8464612,
+    "lng": -91.5194208
+  },
+  {
+    "id": "guatemala-la-patrona-1051-fm",
+    "name": "La Patrona 105.1 FM",
+    "url": "https://play10.tikast.com/proxy/lajefacoatepeque?mp=/stream",
+    "genre": "Music",
+    "city": "Quetzaltenango",
+    "country": "Guatemala",
+    "lat": 14.8464612,
+    "lng": -91.5194208
+  },
+  {
+    "id": "guatemala-globo-centro-fm-989",
+    "name": "Globo Centro FM 98.9",
+    "url": "https://18073.live.streamtheworld.com:443/GLOBO_989AAC.aac",
+    "genre": "Music",
+    "city": "Guatemala City",
+    "country": "Guatemala",
+    "lat": 14.6416142,
+    "lng": -90.5132836
+  },
+  {
+    "id": "guatemala-radio-la-nueva-fm-1077",
+    "name": "Radio La Nueva FM 107.7",
+    "url": "https://server.radiogs.net:7008/index.html?sid=1",
+    "genre": "Music",
+    "city": "Quetzaltenango",
+    "country": "Guatemala",
+    "lat": 14.8464612,
+    "lng": -91.5194208
+  },
+  {
+    "id": "guatemala-la-campesina-989-fm",
+    "name": "La Campesina 98.9 FM",
+    "url": "https://radiozone.org/8054/stream",
+    "genre": "Music",
+    "city": "Quetzaltenango",
+    "country": "Guatemala",
+    "lat": 14.8464612,
+    "lng": -91.5194208
+  },
+  {
+    "id": "guatemala-el-comandante-fm-1013",
+    "name": "El Comandante FM 101.3",
+    "url": "http://108.62.0.141:7038/stream",
+    "genre": "Music",
+    "city": "Tacaná",
+    "country": "Guatemala",
+    "lat": 15.1324794,
+    "lng": -92.1084225
+  },
+  {
+    "id": "guatemala-balam-fm-1051",
+    "name": "Balam FM 105.1",
+    "url": "https://cloudstream2032.conectarhosting.com/9996/stream",
+    "genre": "Music",
+    "city": "Quetzaltenango",
+    "country": "Guatemala",
+    "lat": 14.8464612,
+    "lng": -91.5194208
+  },
+  {
+    "id": "guatemala-radio-asuncion-fm-923",
+    "name": "Radio Asuncion FM 92.3",
+    "url": "https://sechin.grupocentroserver.com/listen/radio_asuncion/radio.mp3",
+    "genre": "Music",
+    "city": "Tacaná",
+    "country": "Guatemala",
+    "lat": 15.1324794,
+    "lng": -92.1084225
+  },
+  {
+    "id": "guatemala-la-red-1061",
+    "name": "La Red 106.1",
+    "url": "https://26253.live.streamtheworld.com:443/LA_REDAAC.aac?dist=garden",
+    "genre": "Music",
+    "city": "Guatemala City",
+    "country": "Guatemala",
+    "lat": 14.6416142,
+    "lng": -90.5132836
+  },
+  {
+    "id": "guatemala-radio-la-voz-del-cuarto-angel",
+    "name": "Radio La Voz del Cuarto Angel",
+    "url": "https://cloudstream2032.conectarhosting.com/8022/stream",
+    "genre": "Music",
+    "city": "Tacaná",
+    "country": "Guatemala",
+    "lat": 15.1324794,
+    "lng": -92.1084225
+  },
+  {
+    "id": "guatemala-radio-nueva-vida-ixmujil-1019-fm",
+    "name": "Radio Nueva Vida Ixmujil 101.9 FM",
+    "url": "https://ssl.xcast.com.br:10380/stream/1/",
+    "genre": "Music",
+    "city": "Tacaná",
+    "country": "Guatemala",
+    "lat": 15.1324794,
+    "lng": -92.1084225
+  },
+  {
+    "id": "guatemala-stereo-100",
+    "name": "Stereo 100",
+    "url": "https://sh1.radioonlinehd.com:8056/stream",
+    "genre": "Music",
+    "city": "Quetzaltenango",
+    "country": "Guatemala",
+    "lat": 14.8464612,
+    "lng": -91.5194208
+  },
+  {
+    "id": "guatemala-radio-voz-catolica",
+    "name": "Radio Voz Catolica",
+    "url": "https://cloudstream2032.conectarhosting.com/8178/stream/",
+    "genre": "Music",
+    "city": "Tacaná",
+    "country": "Guatemala",
+    "lat": 15.1324794,
+    "lng": -92.1084225
+  },
+  {
+    "id": "guatemala-stereo-grandeza",
+    "name": "Stereo Grandeza",
+    "url": "https://cloudstream2032.conectarhosting.com/8318/stream",
+    "genre": "Music",
+    "city": "Tacaná",
+    "country": "Guatemala",
+    "lat": 15.1324794,
+    "lng": -92.1084225
+  },
+  {
+    "id": "guatemala-stereo-shaddai-1035-fm",
+    "name": "Stereo Shaddai 103.5 FM",
+    "url": "https://ss.redradios.net:8028/stream",
+    "genre": "Music",
+    "city": "Tacaná",
+    "country": "Guatemala",
+    "lat": 15.1324794,
+    "lng": -92.1084225
+  },
+  {
+    "id": "guatemala-radio-guateritmo",
+    "name": "Radio Guateritmo",
+    "url": "https://host1.audioestandarhd.com/guateritmo/stream",
+    "genre": "Music",
+    "city": "Tacaná",
+    "country": "Guatemala",
+    "lat": 15.1324794,
+    "lng": -92.1084225
+  },
+  {
+    "id": "guatemala-sulimata-poptun-901-fm",
+    "name": "Sulimata Poptun 90.1 FM",
+    "url": "https://player.newvoxlive.net/proxy/7274",
+    "genre": "Music",
+    "city": "Puerto Barrios",
+    "country": "Guatemala",
+    "lat": 15.7275154,
+    "lng": -88.5952506
+  },
+  {
+    "id": "guatemala-evolución-fm-955",
+    "name": "Evolución FM 95.5",
+    "url": "https://sh1.radioonlinehd.com:8057/stream",
+    "genre": "Music",
+    "city": "Guatemala City",
+    "country": "Guatemala",
+    "lat": 14.6416142,
+    "lng": -90.5132836
+  },
+  {
+    "id": "guatemala-radio-megamax-905-fm",
+    "name": "Radio Megamax 90.5 FM",
+    "url": "https://stream-176.zeno.fm/2hp85hx40a0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIyaHA4NWh4NDBhMHV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiTDFSOVJBMHRSZENPSlJGdlhwOVpxZyIsImlhdCI6MTc2OTQxOTAxMiwiZXhwIjoxNzY5NDE5MDcyfQ.0_4Vjc2pCDcO6Hyx4pEe8x-lW1Fv98wt-lxpL9PV_F8",
+    "genre": "Music",
+    "city": "Tacaná",
+    "country": "Guatemala",
+    "lat": 15.1324794,
+    "lng": -92.1084225
+  },
+  {
+    "id": "guatemala-radio-activa-881-fm",
+    "name": "Radio Activa 88.1 FM",
+    "url": "https://stream-155.zeno.fm/awtfwd0643duv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJhd3Rmd2QwNjQzZHV2IiwiaG9zdCI6InN0cmVhbS0xNTUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiazFXUWR4WXFSem0yNndUenVzd1RVdyIsImlhdCI6MTc2OTQxOTAxMiwiZXhwIjoxNzY5NDE5MDcyfQ.F_mshWslIYooC2TJ4X4d2km4WfhQFaGKrPthyYc-wuM",
+    "genre": "Music",
+    "city": "Tacaná",
+    "country": "Guatemala",
+    "lat": 15.1324794,
+    "lng": -92.1084225
+  },
+  {
+    "id": "guatemala-radio-felove",
+    "name": "Radio FeLove",
+    "url": "https://felove-radiofelove.radioca.st/rfl",
+    "genre": "Music",
+    "city": "Puerto Barrios",
+    "country": "Guatemala",
+    "lat": 15.7275154,
+    "lng": -88.5952506
+  },
+  {
+    "id": "guatemala-radio-proezas-969-fm",
+    "name": "Radio Proezas 96.9 FM",
+    "url": "https://radio015.gt.gt/radio/8310/radio.mp3",
+    "genre": "Music",
+    "city": "San Cristóbal Totonicapán",
+    "country": "Guatemala",
+    "lat": 14.9253723,
+    "lng": -91.4514286
+  },
+  {
+    "id": "guatemala-la-cariñosa-fm-907",
+    "name": "La Cariñosa FM 90.7",
+    "url": "https://radio015.gt.gt/radio/8320/radio.mp3",
+    "genre": "Music",
+    "city": "San Cristóbal Totonicapán",
+    "country": "Guatemala",
+    "lat": 14.9253723,
+    "lng": -91.4514286
+  },
+  {
+    "id": "guatemala-la-poderosa-905-fm",
+    "name": "La Poderosa 90.5 FM",
+    "url": "https://dj91.hostingnuclear.com/8038/stream",
+    "genre": "Music",
+    "city": "San Cristóbal Totonicapán",
+    "country": "Guatemala",
+    "lat": 14.9253723,
+    "lng": -91.4514286
+  },
+  {
+    "id": "guatemala-orion-stereo-fm-1027",
+    "name": "Orion Stereo FM 102.7",
+    "url": "https://ss.redradios.net:8046/stream",
+    "genre": "Music",
+    "city": "San Cristóbal Totonicapán",
+    "country": "Guatemala",
+    "lat": 14.9253723,
+    "lng": -91.4514286
+  },
+  {
+    "id": "guatemala-play-fm-1067",
+    "name": "Play FM 106.7",
+    "url": "https://stream-179.zeno.fm/ccsp26x251zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjY3NwMjZ4MjUxenV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoib3VjYUFOSVVRNzJ2N0hoSXVUbVNfdyIsImlhdCI6MTc2OTQxOTAxNCwiZXhwIjoxNzY5NDE5MDc0fQ.bIeQvYzpmv99em0gVgybT0rg4_ke8c70p-xR2Xh90X0",
+    "genre": "Music",
+    "city": "Puerto Barrios",
+    "country": "Guatemala",
+    "lat": 15.7275154,
+    "lng": -88.5952506
+  },
+  {
+    "id": "guatemala-stereo-mam-961-fm",
+    "name": "Stereo Mam 96.1 FM",
+    "url": "https://streaming0103.sonicpanelradio.com/8108/stream",
+    "genre": "Music",
+    "city": "Huehuetenango",
+    "country": "Guatemala",
+    "lat": 15.606418,
+    "lng": -91.6442217
+  },
+  {
+    "id": "guatemala-rama-radio-fm-953",
+    "name": "Rama Radio FM 95.3",
+    "url": "https://stream-175.zeno.fm/bake7wvg0mruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJiYWtlN3d2ZzBtcnV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiWElpRkE5U0FTenVzUHl2eWc4U2xBZyIsImlhdCI6MTc2OTQxOTAxNCwiZXhwIjoxNzY5NDE5MDc0fQ.jGC3ffxOF9katitNqV8sAJbYMLNUqlPslGMMNck_D8Q",
+    "genre": "Music",
+    "city": "Puerto Barrios",
+    "country": "Guatemala",
+    "lat": 15.7275154,
+    "lng": -88.5952506
+  },
+  {
+    "id": "guatemala-estereo-nueva-jerusalem-guatemala-867fm",
+    "name": "Estereo Nueva Jerusalem Guatemala 86.7FM",
+    "url": "https://stream-175.zeno.fm/cr0n9s36vhruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjcjBuOXMzNnZocnV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiaVJEWlpDR0dRdld4X0M5c1kyTHg3QSIsImlhdCI6MTc2OTQxOTAxNSwiZXhwIjoxNzY5NDE5MDc1fQ.-HXwGHV2XRfVf3eX8gljfZqQl_AlsjKRaSZocSF-llI",
+    "genre": "Music",
+    "city": "San Cristóbal Totonicapán",
+    "country": "Guatemala",
+    "lat": 14.9253723,
+    "lng": -91.4514286
+  },
+  {
+    "id": "guatemala-perla-fm-huehue",
+    "name": "Perla FM Huehue",
+    "url": "https://host1.audioestandarhd.com/perlafm/stream",
+    "genre": "Music",
+    "city": "Huehuetenango",
+    "country": "Guatemala",
+    "lat": 15.606418,
+    "lng": -91.6442217
+  },
+  {
+    "id": "guatemala-radio-esquipulas",
+    "name": "Radio Esquipulas",
+    "url": "https://stream-178.zeno.fm/3fqwpe6bmbruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIzZnF3cGU2Ym1icnV2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoieXI0d0pMX3RTRU9MNFowN0t5dzY5USIsImlhdCI6MTc2OTQxOTAxNiwiZXhwIjoxNzY5NDE5MDc2fQ.BXf-W3tdTN-JDLmweAv984VS1rXuqF87iaBxy744LQQ",
+    "genre": "Music",
+    "city": "Huehuetenango",
+    "country": "Guatemala",
+    "lat": 15.606418,
+    "lng": -91.6442217
+  },
+  {
+    "id": "guatemala-estereo-gerardi-fm-1079",
+    "name": "Estéreo Gerardi FM 107.9",
+    "url": "https://aler.org:8445/gerardi.mp3",
+    "genre": "Music",
+    "city": "Cobán",
+    "country": "Guatemala",
+    "lat": 15.4702001,
+    "lng": -90.3735065
+  },
+  {
+    "id": "guatemala-radio-top-1027-fm",
+    "name": "Radio Top 102.7 FM",
+    "url": "https://stream9.mexiserver.com/8156/stream",
+    "genre": "Music",
+    "city": "Huehuetenango",
+    "country": "Guatemala",
+    "lat": 15.606418,
+    "lng": -91.6442217
+  },
+  {
+    "id": "guatemala-shock",
+    "name": "Shock",
+    "url": "https://streaming2.shock.fm:8040/normal",
+    "genre": "Music",
+    "city": "Cobán",
+    "country": "Guatemala",
+    "lat": 15.4702001,
+    "lng": -90.3735065
+  },
+  {
+    "id": "guatemala-estereo-clásica-fm-999",
+    "name": "Estéreo Clásica FM 99.9",
+    "url": "https://streaming.radio.co/s0c06b7076/low",
+    "genre": "Music",
+    "city": "Puerto Barrios",
+    "country": "Guatemala",
+    "lat": 15.7275154,
+    "lng": -88.5952506
+  },
+  {
+    "id": "guatemala-stereo-verde-939-fm",
+    "name": "Stereo Verde 93.9 FM",
+    "url": "https://masservidor.net/8096/stream",
+    "genre": "Music",
+    "city": "Cobán",
+    "country": "Guatemala",
+    "lat": 15.4702001,
+    "lng": -90.3735065
+  },
+  {
+    "id": "guatemala-tezulutlán-fm-1039",
+    "name": "Tezulutlán FM 103.9",
+    "url": "https://aler.org:8445/tezulutlan.aac",
+    "genre": "Music",
+    "city": "Cobán",
+    "country": "Guatemala",
+    "lat": 15.4702001,
+    "lng": -90.3735065
+  },
+  {
+    "id": "guatemala-pegajosa-fm-927",
+    "name": "Pegajosa FM 92.7",
+    "url": "https://sh4.radioonlinehd.com:8549/stream",
+    "genre": "Music",
+    "city": "Puerto Barrios",
+    "country": "Guatemala",
+    "lat": 15.7275154,
+    "lng": -88.5952506
+  },
+  {
+    "id": "guatemala-caribean-fm-1051",
+    "name": "Caribean FM 105.1",
+    "url": "https://sh4.radioonlinehd.com:8547/stream",
+    "genre": "Music",
+    "city": "Puerto Barrios",
+    "country": "Guatemala",
+    "lat": 15.7275154,
+    "lng": -88.5952506
+  },
+  {
+    "id": "guatemala-banana-fm-927",
+    "name": "Banana FM 92.7",
+    "url": "https://sh4.radioonlinehd.com:8542/stream",
+    "genre": "Music",
+    "city": "Puerto Barrios",
+    "country": "Guatemala",
+    "lat": 15.7275154,
+    "lng": -88.5952506
+  },
+  {
+    "id": "guatemala-bahia-fm-1079",
+    "name": "Bahia FM 107.9",
+    "url": "https://sh4.radioonlinehd.com:8541/stream",
+    "genre": "Music",
+    "city": "Puerto Barrios",
+    "country": "Guatemala",
+    "lat": 15.7275154,
+    "lng": -88.5952506
+  },
+  {
+    "id": "guatemala-stereo-impacto-1015-fm",
+    "name": "Stereo Impacto 101.5 FM",
+    "url": "https://sh4.radioonlinehd.com:8503/stream",
+    "genre": "Music",
+    "city": "Puerto Barrios",
+    "country": "Guatemala",
+    "lat": 15.7275154,
+    "lng": -88.5952506
+  },
+  {
+    "id": "guatemala-radio-estereo-dios-de-pacto",
+    "name": "Radio Estereo Dios de Pacto",
+    "url": "https://cloudstream2032.conectarhosting.com/8272/stream",
+    "genre": "Music",
+    "city": "Cobán",
+    "country": "Guatemala",
+    "lat": 15.4702001,
+    "lng": -90.3735065
+  },
+  {
+    "id": "guatemala-radio-la-puesta-es-cristo",
+    "name": "Radio la Puesta es Cristo",
+    "url": "https://cloudstream2032.conectarhosting.com/8288/stream",
+    "genre": "Music",
+    "city": "Cobán",
+    "country": "Guatemala",
+    "lat": 15.4702001,
+    "lng": -90.3735065
+  },
+  {
+    "id": "guatemala-estereo-solar-895-fm",
+    "name": "Estéreo Solar 89.5 FM",
+    "url": "https://radiostreamingaac.com:8560/solarchiquimula",
+    "genre": "Music",
+    "city": "Chiquimula",
+    "country": "Guatemala",
+    "lat": 14.6891037,
+    "lng": -89.3960023
+  },
+  {
+    "id": "guatemala-la-jefa-1071",
+    "name": "La Jefa 107.1",
+    "url": "https://play10.tikast.com/proxy/lajefachiquimula?mp=/stream",
+    "genre": "Music",
+    "city": "Chiquimula",
+    "country": "Guatemala",
+    "lat": 14.6891037,
+    "lng": -89.3960023
+  },
+  {
+    "id": "guatemala-1067-fm-radio-cultura-amigos-chiquimula",
+    "name": "106.7 FM Radio Cultura Amigos Chiquimula",
+    "url": "https://ss.redradios.net:8006/stream?type=.mp3/;",
+    "genre": "Music",
+    "city": "Chiquimula",
+    "country": "Guatemala",
+    "lat": 14.6891037,
+    "lng": -89.3960023
+  },
+  {
+    "id": "guatemala-radio-interface-903-fm",
+    "name": "Radio Interface 90.3 FM",
+    "url": "https://usa3.lhdserver.es:8299/stream",
+    "genre": "Music",
+    "city": "Chiquimula",
+    "country": "Guatemala",
+    "lat": 14.6891037,
+    "lng": -89.3960023
+  },
+  {
+    "id": "guatemala-estereo-azúcar-999-fm",
+    "name": "Estéreo Azúcar 99.9 FM",
+    "url": "https://radiostreamingaac.com:8570/azucarjutiapa",
+    "genre": "Music",
+    "city": "Chiquimula",
+    "country": "Guatemala",
+    "lat": 14.6891037,
+    "lng": -89.3960023
+  },
+  {
+    "id": "guatemala-estereo-solar-983-fm",
+    "name": "Estéreo Solar 98.3 FM",
+    "url": "https://radiostreamingaac.com:8562/solarjutiapa",
+    "genre": "Music",
+    "city": "Chiquimula",
+    "country": "Guatemala",
+    "lat": 14.6891037,
+    "lng": -89.3960023
+  },
+  {
+    "id": "guatemala-radio-uncion-887-fm",
+    "name": "Radio Uncion 88.7 FM",
+    "url": "https://cloudstream2032.conectarhosting.com/8268/stream",
+    "genre": "Music",
+    "city": "Chiquimula",
+    "country": "Guatemala",
+    "lat": 14.6891037,
+    "lng": -89.3960023
+  },
+  {
+    "id": "guatemala-yh70-una-voz-que-clama",
+    "name": "YH70 Una voz que clama",
+    "url": "https://radio.yh70.org:8010/radio.mp3",
+    "genre": "Music",
+    "city": "Antigua Guatemala",
+    "country": "Guatemala",
+    "lat": 14.5567814,
+    "lng": -90.7337346
+  },
+  {
+    "id": "guatemala-recuerdo-stereo-1019-fm",
+    "name": "Recuerdo Stereo 101.9 FM",
+    "url": "https://cloudstream2032.conectarhosting.com/8300/stream",
+    "genre": "Music",
+    "city": "San Marcos",
+    "country": "Guatemala",
+    "lat": 14.9533135,
+    "lng": -91.9120444
+  },
+  {
+    "id": "guatemala-rhema-presencia-949-fm",
+    "name": "Rhema Presencia 94.9 FM",
+    "url": "https://dj91.hostingnuclear.com/8024/stream",
+    "genre": "Music",
+    "city": "Barillas",
+    "country": "Guatemala",
+    "lat": 15.8622687,
+    "lng": -91.2449086
+  },
+  {
+    "id": "guatemala-radio-marimba",
+    "name": "Radio Marimba",
+    "url": "https://jm8n.net:8066/stream.mp3",
+    "genre": "Music",
+    "city": "Barillas",
+    "country": "Guatemala",
+    "lat": 15.8622687,
+    "lng": -91.2449086
+  },
+  {
+    "id": "guatemala-nv-radio",
+    "name": "NV Radio",
+    "url": "https://stream-162.zeno.fm/6uq0xzzkx4zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2dXEweHp6a3g0enV2IiwiaG9zdCI6InN0cmVhbS0xNjIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiWGF1MUZrOEhSS2lseXpGMzU1V3plQSIsImlhdCI6MTc2OTQxOTAyMCwiZXhwIjoxNzY5NDE5MDgwfQ.4zpx-mVasRpsm3AUHRzAUR1xLI_G03uUwSyuwBc42GM",
+    "genre": "Music",
+    "city": "Chiquimula",
+    "country": "Guatemala",
+    "lat": 14.6891037,
+    "lng": -89.3960023
+  },
+  {
+    "id": "guatemala-radio-católica-magnificat",
+    "name": "Radio Católica Magnificat",
+    "url": "https://dj91.hostingnuclear.com/8134/stream",
+    "genre": "Music",
+    "city": "Antigua Guatemala",
+    "country": "Guatemala",
+    "lat": 14.5567814,
+    "lng": -90.7337346
+  },
+  {
+    "id": "guatemala-maximum-radio-1041-fm",
+    "name": "Maximum Radio 104.1 FM",
+    "url": "http://159.65.32.199:8026/stream",
+    "genre": "Music",
+    "city": "Flores",
+    "country": "Guatemala",
+    "lat": 16.9298524,
+    "lng": -89.8914817
+  },
+  {
+    "id": "guatemala-radio-la-super-grande-993-fm",
+    "name": "Radio La Super Grande 99.3 FM",
+    "url": "https://stream-179.zeno.fm/61cwgt0r89duv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2MWN3Z3Qwcjg5ZHV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiclhfdkRtYTdRVG1GYnYyM214alZKQSIsImlhdCI6MTc2OTQxOTAyMSwiZXhwIjoxNzY5NDE5MDgxfQ.tYACS6uqH4AOpb_PWk0IE3o2uhSSoQzBQT9RDKQaR8M",
+    "genre": "Music",
+    "city": "Barillas",
+    "country": "Guatemala",
+    "lat": 15.8622687,
+    "lng": -91.2449086
+  },
+  {
+    "id": "guatemala-radio-peten-fm-885",
+    "name": "Radio Petén FM 88.5",
+    "url": "https://cloudstream2032.conectarhosting.com/9978/stream",
+    "genre": "Music",
+    "city": "Flores",
+    "country": "Guatemala",
+    "lat": 16.9298524,
+    "lng": -89.8914817
+  },
+  {
+    "id": "guatemala-radio-santa-cruz-barillas-fm-1065",
+    "name": "Radio Santa Cruz Barillas FM 106.5",
+    "url": "https://stream-177.zeno.fm/yw5v13zew6duv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5dzV2MTN6ZXc2ZHV2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiZWZmeklKM1dTUUdlbWVONkFPYXdIdyIsImlhdCI6MTc2OTQxOTAyMSwiZXhwIjoxNzY5NDE5MDgxfQ.WJZ-aoZqkciaHKM84s4fXLZsEOjunVXPirF3BLgb0Xw",
+    "genre": "Music",
+    "city": "Barillas",
+    "country": "Guatemala",
+    "lat": 15.8622687,
+    "lng": -91.2449086
+  },
+  {
+    "id": "guatemala-estereo-solar-1049-fm",
+    "name": "Estéreo Solar 104.9 FM",
+    "url": "https://radiostreamingaac.com:8566/solarpeten",
+    "genre": "Music",
+    "city": "Flores",
+    "country": "Guatemala",
+    "lat": 16.9298524,
+    "lng": -89.8914817
+  },
+  {
+    "id": "guatemala-top-fm-1053",
+    "name": "Top' FM 105.3",
+    "url": "https://stream.intervalohost.com/8016/stream",
+    "genre": "Music",
+    "city": "Flores",
+    "country": "Guatemala",
+    "lat": 16.9298524,
+    "lng": -89.8914817
+  },
+  {
+    "id": "guatemala-fm-maya-993",
+    "name": "FM Maya 99.3",
+    "url": "https://cloudstream2032.conectarhosting.com/9998/stream",
+    "genre": "Music",
+    "city": "San Benito",
+    "country": "Guatemala",
+    "lat": 16.9227699,
+    "lng": -89.9173338
+  },
+  {
+    "id": "guatemala-la-peligrosa-991-fm",
+    "name": "La Peligrosa 99.1 FM",
+    "url": "https://dj91.hostingnuclear.com/8022/stream",
+    "genre": "Music",
+    "city": "Escuintla",
+    "country": "Guatemala",
+    "lat": 14.1921288,
+    "lng": -91.0263791
+  },
+  {
+    "id": "guatemala-radio-sol-de-justicia-guatemala",
+    "name": "Radio Sol De Justicia Guatemala",
+    "url": "https://server.radiogs.net/8338/stream",
+    "genre": "Music",
+    "city": "Santa Lucía Cotzumalguapa",
+    "country": "Guatemala",
+    "lat": 14.3001911,
+    "lng": -91.077711
+  },
+  {
+    "id": "guatemala-radio-mass-989-fm",
+    "name": "Radio Mass 98.9 FM",
+    "url": "https://sh1.radioonlinehd.com:8026/stream",
+    "genre": "Music",
+    "city": "Antigua Guatemala",
+    "country": "Guatemala",
+    "lat": 14.5567814,
+    "lng": -90.7337346
+  },
+  {
+    "id": "guatemala-radio-tremenda-913-fm",
+    "name": "Radio Tremenda 91.3 FM",
+    "url": "https://stream-179.zeno.fm/7hf6t6fufzzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI3aGY2dDZmdWZ6enV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiUjgweWNtcVlUX1d0XzhmbVh3ekFzUSIsImlhdCI6MTc2OTQxOTAyMywiZXhwIjoxNzY5NDE5MDgzfQ.0xL0ssEMWV5RffBRjpZikjueFg0K5WEMr1hmb6Jt5mI",
+    "genre": "Music",
+    "city": "San Antonio Huista",
+    "country": "Guatemala",
+    "lat": 15.6501683,
+    "lng": -91.7716989
+  },
+  {
+    "id": "guatemala-vision-radio-1079-fm",
+    "name": "Vision Radio 107.9 FM",
+    "url": "https://stream-176.zeno.fm/ni8py7ly8inuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJuaThweTdseThpbnV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiQzRDbDZ6TGhTcTJVcGtpeXpNWGdqZyIsImlhdCI6MTc2OTQxOTAyMywiZXhwIjoxNzY5NDE5MDgzfQ.uIOVQLXIEoPmgW-jYQ9l1s98W4s3VkHQQ-oZtCcxBBE",
+    "genre": "Music",
+    "city": "San Antonio Huista",
+    "country": "Guatemala",
+    "lat": 15.6501683,
+    "lng": -91.7716989
+  },
+  {
+    "id": "guatemala-pura-candela-983-fm",
+    "name": "Pura Candela 98.3 FM",
+    "url": "https://sh4.radioonlinehd.com:8573/stream",
+    "genre": "Music",
+    "city": "La Democracia",
+    "country": "Guatemala",
+    "lat": 15.625477,
+    "lng": -91.886868
+  }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "name": "RAFA FM 103.5",
+        "city": "Radio Comunidade Comoro FM 94.1",
+        "country": "Díli, Timor-Leste",
+        "url": "http://radios.justweb.pt:8026/stream"
+    },
+    {
+        "name": "Max 96.9 FM",
+        "city": "Radio Comunidade Comoro FM 94.1",
+        "country": "Díli, Timor-Leste",
+        "url": "https://pu.klikhost.com/proxy/maxfmwaingapu/stream"
+    },
+    {
+        "name": "Gobers Radio",
+        "city": "Radio Comunidade Comoro FM 94.1",
+        "country": "Díli, Timor-Leste",
+        "url": "https://sx.alhasmedia.com/radio/8140/radio"
+    },
+    {
+        "name": "Radio Domoni Inter",
+        "city": "Mutsamudu",
+        "country": "Comoros",
+        "url": "http://domoni-inter.org:8000/live"
+    },
+    {
+        "name": "RF Mayotte",
+        "city": "Mutsamudu",
+        "country": "Comoros",
+        "url": "https://radio.mayotte-streaming.com:10998/index.html"
+    },
+    {
+        "name": "Radio Mauloko FM 89.7",
+        "city": "Radio Comunidade Comoro FM 94.1",
+        "country": "Díli, Timor-Leste",
+        "url": "https://streaming.kalohan.net/proxy/mauloko?mp=/stream"
+    },
+    {
+        "name": "Rádio Liberdade 95.8 FM",
+        "city": "Radio Comunidade Comoro FM 94.1",
+        "country": "Díli, Timor-Leste",
+        "url": "https://streaming.kalohan.net/proxy/raliber?mp=/stream"
+    },
+    {
+        "name": "Rádio Rakambia FM 99.5",
+        "city": "Radio Comunidade Comoro FM 94.1",
+        "country": "Díli, Timor-Leste",
+        "url": "https://streaming.kalohan.net/proxy/rakambia?mp=/stream"
+    },
+    {
+        "name": "RRI Pro 4 Ambon FM 90.1",
+        "city": "Radio Comunidade Comoro FM 94.1",
+        "country": "Díli, Timor-Leste",
+        "url": "https://stream-node2.rri.co.id/streaming/15/9315/rriambonpro4.mp3"
+    },
+    {
+        "name": "Radio Comunidade Comoro FM 94.1",
+        "city": "Radio Comunidade Comoro FM 94.1",
+        "country": "Díli, Timor-Leste",
+        "url": "https://streaming.kalohan.net/proxy/comoro?mp=/stream"
+    },
+    {
+        "name": "RRI Pro 1 Kupang FM 94.4",
+        "city": "Radio Comunidade Comoro FM 94.1",
+        "country": "Díli, Timor-Leste",
+        "url": "https://stream-node2.rri.co.id/streaming/13/9213/rrikupangpro1.mp3"
+    },
+    {
+        "name": "SUN FM Mayotte",
+        "city": "Mutsamudu",
+        "country": "Comoros",
+        "url": "https://listen.radioking.com/radio/669814/stream/733864"
+    },
+    {
+        "name": "RRI Pro 1 FM 97.8",
+        "city": "Radio Comunidade Comoro FM 94.1",
+        "country": "Díli, Timor-Leste",
+        "url": "https://stream-node1.rri.co.id/streaming/37/9137/web-rribaubaupro1.mp3"
+    },
+    {
+        "name": "M Radio Mutsamudu",
+        "city": "Mutsamudu",
+        "country": "Comoros",
+        "url": "https://stream-179.zeno.fm/b0y3da8zxqzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJiMHkzZGE4enhxenV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoidmJtWXE2RXdUX21fOGpVa3NVNWRXQSIsImlhdCI6MTc2OTQxNzgyMywiZXhwIjoxNzY5NDE3ODgzfQ.8lSOznofz8zQIzl0CYzRVLdBY-mX-2ysUUApOc8xHgc"
+    },
+    {
+        "name": "Radio Dracktrar Patsy FM 98.0",
+        "city": "Mutsamudu",
+        "country": "Comoros",
+        "url": "https://stream-177.zeno.fm/gv2x4k52es8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJndjJ4NGs1MmVzOHV2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiaXZienhwUzFUN1dFX21jeTNzWXp1QSIsImlhdCI6MTc2OTQxNzgyNCwiZXhwIjoxNzY5NDE3ODg0fQ.fSEbKY4qWPE9oUflKctNVdPxWo4-k30Ah6HZJRxybBk"
+    },
+    {
+        "name": "RMV FM 102.5 Radio Miréréni Village",
+        "city": "Mutsamudu",
+        "country": "Comoros",
+        "url": "https://live.myradio.yt:1100/stream"
+    }
+]

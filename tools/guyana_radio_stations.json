@@ -1,0 +1,560 @@
+[
+    {
+        "name": "HJ Boom FM 94.1",
+        "city": "Georgetown",
+        "country": "Guyana",
+        "url": "http://192.99.8.192:3630/stream"
+    },
+    {
+        "name": "Mix FM 90.1",
+        "city": "Georgetown",
+        "country": "Guyana",
+        "url": "https://audio-edge-jfbmv.sin.d.radiomast.io/aa758625-6c37-4a31-8262-b2bf84bbe17f"
+    },
+    {
+        "name": "Ishara Radio 100.7 FM",
+        "city": "Georgetown",
+        "country": "Guyana",
+        "url": "https://a8.asurahosting.com:7030/radio.mp3"
+    },
+    {
+        "name": "Radio Guyana International",
+        "city": "Radio Guyana International",
+        "country": "London, United Kingdom",
+        "url": "https://a6.asurahosting.com:7940/radio.mp3"
+    },
+    {
+        "name": "Guyana Lite FM 104.1",
+        "city": "Georgetown",
+        "country": "Guyana",
+        "url": "http://n0b.radiojar.com/nh42m158d4duv?rj-ttl=5&rj-tok=AAABm_miVsAAlK5Zchtf4jC9GQ"
+    },
+    {
+        "name": "Select Radio 94.4 FM",
+        "city": "Radio Guyana International",
+        "country": "London, United Kingdom",
+        "url": "http://149.255.60.194:8027/stream"
+    },
+    {
+        "name": "Voice of Guyana FM 102.5",
+        "city": "Georgetown",
+        "country": "Guyana",
+        "url": "https://cast4.asurahosting.com/proxy/ncn1025/stream"
+    },
+    {
+        "name": "Vybz 100.1 FM",
+        "city": "Vybz 100.1 FM",
+        "country": "Georgetown, Guyana",
+        "url": "https://cast4.asurahosting.com/proxy/ncn1001/stream"
+    },
+    {
+        "name": "Hot FM 98.1",
+        "city": "Georgetown",
+        "country": "Guyana",
+        "url": "https://cast4.asurahosting.com/proxy/ncn981/stream"
+    },
+    {
+        "name": "Edu FM",
+        "city": "Maad FM 97.5",
+        "country": "Georgetown, Guyana",
+        "url": "http://n07.radiojar.com/xpgemc39cxhvv?rj-ttl=5&rj-tok=AAABm_miVr8AJBC8RKmLvnCsuw"
+    },
+    {
+        "name": "TRK Radio",
+        "city": "Georgetown",
+        "country": "Guyana",
+        "url": "https://streamingned.com:7230/stream/"
+    },
+    {
+        "name": "Monte Roraima FM 107.9",
+        "city": "Georgetown",
+        "country": "Guyana",
+        "url": "https://whd1.webradios.com.br:18556/8556"
+    },
+    {
+        "name": "NTN Radio FM 89.1",
+        "city": "Georgetown",
+        "country": "Guyana",
+        "url": "https://auds1.intacs.com/ntnradio"
+    },
+    {
+        "name": "WACK Radio 90.1 FM",
+        "city": "Georgetown",
+        "country": "Guyana",
+        "url": "https://stream-141.zeno.fm/4h2xb1zme3vtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0aDJ4YjF6bWUzdnR2IiwiaG9zdCI6InN0cmVhbS0xNDEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiV091WTVVdVBSUHFMVkU4RElOYU5HdyIsImlhdCI6MTc2OTQxOTEyNCwiZXhwIjoxNzY5NDE5MTg0fQ.-mSR50FKjk59EsU_5fHg2f_9i71gMtrJxGoeP1hAoos"
+    },
+    {
+        "name": "LBC London",
+        "city": "Radio Guyana International",
+        "country": "London, United Kingdom",
+        "url": "https://media-the.musicradio.com/LBCLondon"
+    },
+    {
+        "name": "Capital Xtra",
+        "city": "Radio Guyana International",
+        "country": "London, United Kingdom",
+        "url": "https://media-ice.musicradio.com/CapitalXTRANationalMP3?.mp3"
+    },
+    {
+        "name": "Heart 80s Radio",
+        "city": "Radio Guyana International",
+        "country": "London, United Kingdom",
+        "url": "https://media-ssl.musicradio.com/Heart80s"
+    },
+    {
+        "name": "LBC UK",
+        "city": "Radio Guyana International",
+        "country": "London, United Kingdom",
+        "url": "https://media-ice.musicradio.com/LBCUKMP3Low"
+    },
+    {
+        "name": "Classic FM",
+        "city": "Radio Guyana International",
+        "country": "London, United Kingdom",
+        "url": "https://media-ice.musicradio.com/ClassicFMMP3"
+    },
+    {
+        "name": "Surrey Hills Radio",
+        "city": "Radio Guyana International",
+        "country": "London, United Kingdom",
+        "url": "http://philae.shoutca.st:9035/stream"
+    },
+    {
+        "name": "Radio Guyana FM 89.5",
+        "city": "Georgetown",
+        "country": "Guyana",
+        "url": "https://stream.radio.co/s9668e2ab5/listen"
+    },
+    {
+        "name": "Maad FM 97.5",
+        "city": "Georgetown",
+        "country": "Guyana",
+        "url": "https://streaming.broadcastradio.com:8870/maad975fm"
+    },
+    {
+        "name": "Panjab Radio AM 558",
+        "city": "Radio Guyana International",
+        "country": "London, United Kingdom",
+        "url": "https://lunar.citrus3.com:8016/stream"
+    },
+    {
+        "name": "Boogaloo Radio",
+        "city": "Radio Guyana International",
+        "country": "London, United Kingdom",
+        "url": "https://streams.radio.co/sb88c742f0/listen"
+    },
+    {
+        "name": "WilSAF Radio",
+        "city": "Radio Guyana International",
+        "country": "London, United Kingdom",
+        "url": "https://radio.djwilsaf.com/listen/wilsaf_radio/radio.mp3"
+    },
+    {
+        "name": "Forest One",
+        "city": "Radio Guyana International",
+        "country": "London, United Kingdom",
+        "url": "https://c2.prostream365.com:8010/live"
+    },
+    {
+        "name": "Birdsong Radio",
+        "city": "Radio Guyana International",
+        "country": "London, United Kingdom",
+        "url": "https://a1.radio.co/s5c5da6a36/listen"
+    },
+    {
+        "name": "Reinforced Radio",
+        "city": "Radio Guyana International",
+        "country": "London, United Kingdom",
+        "url": "https://broadcast.shoutstream.co.uk:8012/stream"
+    },
+    {
+        "name": "Moon Phase Radio",
+        "city": "Radio Guyana International",
+        "country": "London, United Kingdom",
+        "url": "https://cp12.serverse.com/proxy/moonphase/stream"
+    },
+    {
+        "name": "BBC World Service",
+        "city": "Radio Guyana International",
+        "country": "London, United Kingdom",
+        "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service"
+    },
+    {
+        "name": "Bandera FM 105.7",
+        "city": "Guayana City",
+        "country": "Venezuela",
+        "url": "https://streamingned.com:7148/stream"
+    },
+    {
+        "name": "Funradio Guyane FM 102.9",
+        "city": "Cayenne",
+        "country": "French Guiana",
+        "url": "http://manager2.streaming-ingenierie.fr:8050/stream/"
+    },
+    {
+        "name": "We Get Lifted Radio",
+        "city": "Radio Guyana International",
+        "country": "London, United Kingdom",
+        "url": "https://s3.radio.co/sa80d22794/listen"
+    },
+    {
+        "name": "Rumba 98.1 FM",
+        "city": "Guayana City",
+        "country": "Venezuela",
+        "url": "https://cast20.plugstreaming.com:2020/stream/r981/"
+    },
+    {
+        "name": "Guasacaca Radio",
+        "city": "Guayana City",
+        "country": "Venezuela",
+        "url": "https://sp4.colombiatelecom.com.co/8096/stream"
+    },
+    {
+        "name": "Turistica FM 92.7",
+        "city": "Guayana City",
+        "country": "Venezuela",
+        "url": "https://streamingned.com:7128/stream//stream"
+    },
+    {
+        "name": "Fe y Alegria Anaco 103.9 FM",
+        "city": "Guayana City",
+        "country": "Venezuela",
+        "url": "https://tx.feyalegrianoticias.com/listen/anaco-fm/radio.mp3"
+    },
+    {
+        "name": "Bhajans Radio Guyana",
+        "city": "Georgetown",
+        "country": "Guyana",
+        "url": "https://s5.citrus3.com:8148/stream"
+    },
+    {
+        "name": "Bblack Radio 96.9 FM",
+        "city": "Cayenne",
+        "country": "French Guiana",
+        "url": "https://stunnel1.cyber-streaming.com:9162/stream/"
+    },
+    {
+        "name": "Electrik 97.7",
+        "city": "Guayana City",
+        "country": "Venezuela",
+        "url": "https://streamingned.com:7046/stream"
+    },
+    {
+        "name": "La FM Mundial 93.7",
+        "city": "Guayana City",
+        "country": "Venezuela",
+        "url": "https://streamingned.com:7074/stream"
+    },
+    {
+        "name": "La Salsera FM",
+        "city": "Guayana City",
+        "country": "Venezuela",
+        "url": "https://stream-152.zeno.fm/4qbzbrvdmy8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0cWJ6YnJ2ZG15OHV2IiwiaG9zdCI6InN0cmVhbS0xNTIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiSU1oWHFDUlhSWi1Tb1FBNHM5bjZGZyIsImlhdCI6MTc2OTQxOTEyOSwiZXhwIjoxNzY5NDE5MTg5fQ.T25oXO2b8H2DBK1DvJZWlFr2vEb9FHWW9GI-gCvHZpI"
+    },
+    {
+        "name": "Festiva 99.9 FM",
+        "city": "Guayana City",
+        "country": "Venezuela",
+        "url": "https://acp2.lorini.net:28018/stream"
+    },
+    {
+        "name": "Fiesta Latina FM 106.1",
+        "city": "Guayana City",
+        "country": "Venezuela",
+        "url": "https://stream-140.zeno.fm/e2kzfpr34d0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJlMmt6ZnByMzRkMHV2IiwiaG9zdCI6InN0cmVhbS0xNDAuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiRDVSSXhRdUpSMTJWaW96MEI4cy11ZyIsImlhdCI6MTc2OTQxOTEzMCwiZXhwIjoxNzY5NDE5MTkwfQ.9TZucONhSEPj_fjmijq_kxPt5D1JwBzNKGbpWojeGeE"
+    },
+    {
+        "name": "KFM Guyane 91.6 FM",
+        "city": "Cayenne",
+        "country": "French Guiana",
+        "url": "http://10191.go2stream.fr:8000/stream"
+    },
+    {
+        "name": "News 105.5 FM",
+        "city": "Guayana City",
+        "country": "Venezuela",
+        "url": "https://server6.globalhostla.com:9350/stream"
+    },
+    {
+        "name": "Ainda há Esperança",
+        "city": "Cayenne",
+        "country": "French Guiana",
+        "url": "http://stm3.srvstm.com:7380/index.html"
+    },
+    {
+        "name": "Ritmo 96.9 FM",
+        "city": "Guayana City",
+        "country": "Venezuela",
+        "url": "https://server6.globalhostla.com:8032/stream"
+    },
+    {
+        "name": "Exitos FM 99.9",
+        "city": "Guayana City",
+        "country": "Venezuela",
+        "url": "https://acp4.lorini.net:2070/stream"
+    },
+    {
+        "name": "Chwitiweb",
+        "city": "Cayenne",
+        "country": "French Guiana",
+        "url": "https://listen.radioking.com/radio/190309/stream/232540"
+    },
+    {
+        "name": "Onda La Superestación 107.3 FM",
+        "city": "Guayana City",
+        "country": "Venezuela",
+        "url": "https://acp4.lorini.net:2060/stream"
+    },
+    {
+        "name": "Radio Péyi",
+        "city": "Cayenne",
+        "country": "French Guiana",
+        "url": "https://radiopeyiguyane.ice.infomaniak.ch/radiopeyiguyane-64.aac"
+    },
+    {
+        "name": "Rádio Cultura de Guanambi Ltda",
+        "city": "Guanambi BA",
+        "country": "Brazil",
+        "url": "https://stm14.xcast.com.br:10388/stream/"
+    },
+    {
+        "name": "Rádio Star FM 105.9",
+        "city": "Guanambi BA",
+        "country": "Brazil",
+        "url": "http://streaming.star105fm.com.br:8000/stream"
+    },
+    {
+        "name": "Radio Immanuël FM 95.9",
+        "city": "Cayenne",
+        "country": "French Guiana",
+        "url": "https://surilive.com:8030/index.html?sid=1"
+    },
+    {
+        "name": "106 FM",
+        "city": "Guanambi BA",
+        "country": "Brazil",
+        "url": "https://r13.ciclano.io/proxy/rdiofm12/stream"
+    },
+    {
+        "name": "Guanambi FM 96.3",
+        "city": "Guanambi BA",
+        "country": "Brazil",
+        "url": "https://radio.webfrequencia.com.br/listen/guanambi/guanambi"
+    },
+    {
+        "name": "RFO Guyane 1ère FM 92.0",
+        "city": "Cayenne",
+        "country": "French Guiana",
+        "url": "https://guyane.ice.infomaniak.ch/guyane-128.mp3"
+    },
+    {
+        "name": "Radio 105 FM",
+        "city": "Guanambi BA",
+        "country": "Brazil",
+        "url": "http://str.hdsolucoes.com:8220/stream"
+    },
+    {
+        "name": "Pontal FM 91.5",
+        "city": "Guanambi BA",
+        "country": "Brazil",
+        "url": "https://on.sucesso.fm/pontal"
+    },
+    {
+        "name": "Zeta 93 FM",
+        "city": "Guaynabo",
+        "country": "Puerto Rico",
+        "url": "https://liveaudio.lamusica.com/PR_WZNT_icy"
+    },
+    {
+        "name": "La Nueva 94FM - WODA",
+        "city": "Guaynabo",
+        "country": "Puerto Rico",
+        "url": "https://liveaudio.lamusica.com/PR_WODA_icy"
+    },
+    {
+        "name": "Radio Metis FM",
+        "city": "Cayenne",
+        "country": "French Guiana",
+        "url": "https://str0.creacast.com/metisfm"
+    },
+    {
+        "name": "Rádio Web Jovem Garcia",
+        "city": "Guanambi BA",
+        "country": "Brazil",
+        "url": "https://ssl.xcast.com.br:9342/index.html?sid=1"
+    },
+    {
+        "name": "Noti Uno 630",
+        "city": "Guaynabo",
+        "country": "Puerto Rico",
+        "url": "http://68.235.35.243:9027/;stream.mp3"
+    },
+    {
+        "name": "Victoria 840",
+        "city": "Guaynabo",
+        "country": "Puerto Rico",
+        "url": "http://server10.servistreaming.com:9039/;stream.mp3"
+    },
+    {
+        "name": "Rádio Itatiaia",
+        "city": "Guanambi BA",
+        "country": "Brazil",
+        "url": "https://8903.brasilstream.com.br/stream"
+    },
+    {
+        "name": "Rádio Portal Sudoeste 104.3 FM",
+        "city": "Guanambi BA",
+        "country": "Brazil",
+        "url": "https://srv1.relampagoweb.com.br:8020/radio.mp3"
+    },
+    {
+        "name": "Antena 1",
+        "city": "Guanambi BA",
+        "country": "Brazil",
+        "url": "https://antenaone.crossradio.com.br/stream"
+    },
+    {
+        "name": "Magic FM 97.3",
+        "city": "Guaynabo",
+        "country": "Puerto Rico",
+        "url": "https://a4.asurahosting.com:6760/radio.mp3"
+    },
+    {
+        "name": "Inspira 88.1 FM - WCRP",
+        "city": "Guaynabo",
+        "country": "Puerto Rico",
+        "url": "https://stream-14.aiir.com/rublzaim1cyvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJydWJsemFpbTFjeXZ2IiwiaG9zdCI6InN0cmVhbS0xNC5haWlyLmNvbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiWjJpZmxqSndUVS1JMkZ1T1U2SHFrUSIsImlhdCI6MTc2OTQxOTEzNiwiZXhwIjoxNzY5NDE5MTk2fQ.rp2ffMEEiWrkWrw-2cSRMYX3pdtp8PdTUPOE-PAT4Jw"
+    },
+    {
+        "name": "Radio Eternity 91",
+        "city": "Guaynabo",
+        "country": "Puerto Rico",
+        "url": "https://stream-178.zeno.fm/s3dnm5ntn8quv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzM2RubTVudG44cXV2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiMDF3enFvWWRSMTY3UC1VV0RHOTVkUSIsImlhdCI6MTc2OTQxOTEzNiwiZXhwIjoxNzY5NDE5MTk2fQ.bxWhbbVJK6n4JNDncnEgYi87HPIwzWy1jxoUNnZIEh0"
+    },
+    {
+        "name": "Cumbre 1470 AM - WKUM",
+        "city": "Guaynabo",
+        "country": "Puerto Rico",
+        "url": "https://sp.unoredcdn.net/8158/stream"
+    },
+    {
+        "name": "Radio Tecnológico de Celaya FM 89.9",
+        "city": "Guanajuato",
+        "country": "Mexico",
+        "url": "http://51.81.185.143:8282/"
+    },
+    {
+        "name": "Radio Santa Fe 90.7 FM",
+        "city": "Guanajuato",
+        "country": "Mexico",
+        "url": "http://www.icecasthd.net:8274/xhfl"
+    },
+    {
+        "name": "Alpha FM 101.7",
+        "city": "Guanambi BA",
+        "country": "Brazil",
+        "url": "https://27693.live.streamtheworld.com:443/RADIO_ALPHAFMAAC.aac"
+    },
+    {
+        "name": "Radio Universidad de Guanajuato 100.7 FM",
+        "city": "Guanajuato",
+        "country": "Mexico",
+        "url": "https://streamingcwsradio30.com/8290/stream"
+    },
+    {
+        "name": "Cloud Radio 102",
+        "city": "Guaynabo",
+        "country": "Puerto Rico",
+        "url": "https://audio.livecastnet.com:1205/stream"
+    },
+    {
+        "name": "Rádio JB FM 99,9",
+        "city": "Guanambi BA",
+        "country": "Brazil",
+        "url": "https://26683.live.streamtheworld.com:443/JBFMAAC.aac"
+    },
+    {
+        "name": "Salsa Pal Mundo",
+        "city": "Guaynabo",
+        "country": "Puerto Rico",
+        "url": "https://usa18.fastcast4u.com/proxy/hrodri02?mp=/1"
+    },
+    {
+        "name": "Salmantina XEEMM AM810",
+        "city": "Guanajuato",
+        "country": "Mexico",
+        "url": "https://stream9.mexiserver.com/8422/stream"
+    },
+    {
+        "name": "Radio Alegria 95.7 FM",
+        "city": "Guanajuato",
+        "country": "Mexico",
+        "url": "https://cento02.mipanelradio.com/proxy/moroleon?mp=/stream"
+    },
+    {
+        "name": "Sacra FM",
+        "city": "Guaynabo",
+        "country": "Puerto Rico",
+        "url": "https://stream.eleden.com:8110/rsacrab.aac"
+    },
+    {
+        "name": "Easy Rock PR",
+        "city": "Guaynabo",
+        "country": "Puerto Rico",
+        "url": "https://audio.livecastnet.com:1475/stream"
+    },
+    {
+        "name": "Arroba FM 99.3 FM",
+        "city": "Guanajuato",
+        "country": "Mexico",
+        "url": "https://stream-152.zeno.fm/883nc8g9d78uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI4ODNuYzhnOWQ3OHV2IiwiaG9zdCI6InN0cmVhbS0xNTIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoicW56X1NmRTRTM0tNcWQ4ZGhtblBqZyIsImlhdCI6MTc2OTQxOTEzOCwiZXhwIjoxNzY5NDE5MTk4fQ.9xoKVaTsQNG6hWVNIqEHD3MB3aED1tCbTXRB9fEYjGM"
+    },
+    {
+        "name": "Cascabel Radio Social 92.1 FM",
+        "city": "Guanajuato",
+        "country": "Mexico",
+        "url": "https://stream-178.zeno.fm/7dpomkzwcpytv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI3ZHBvbWt6d2NweXR2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoia0x1LUg5Z1dRVVNHa3liYk8zNkxHZyIsImlhdCI6MTc2OTQxOTEzOCwiZXhwIjoxNzY5NDE5MTk4fQ.rgVsZjO-zZbefc1qvltHd9lO8UT5FXfmoxJ7VCMRwUY"
+    },
+    {
+        "name": "Cafe Romantico Radio",
+        "city": "Guanajuato",
+        "country": "Mexico",
+        "url": "https://panel.retrolandigital.com/radio/8110/listen"
+    },
+    {
+        "name": "Love FM 101.5",
+        "city": "Guanajuato",
+        "country": "Mexico",
+        "url": "https://ss1.audiorama.com.mx:6632/stream/"
+    },
+    {
+        "name": "Agave Radio",
+        "city": "Guanajuato",
+        "country": "Mexico",
+        "url": "https://stream-159.zeno.fm/ylcqezjoswftv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5bGNxZXpqb3N3ZnR2IiwiaG9zdCI6InN0cmVhbS0xNTkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiaTRVWTF2QmdTSHlRWUN0Z3hBT1A0QSIsImlhdCI6MTc2OTQxOTEzOSwiZXhwIjoxNzY5NDE5MTk5fQ.2mwMIMZWkT8z0rwxld5yzRXCO265xnboTSvWY6jrc30"
+    },
+    {
+        "name": "Radio Centro El Fonografo AM 690",
+        "city": "Guanajuato",
+        "country": "Mexico",
+        "url": "https://26143.live.streamtheworld.com:443/XEN_AMAAC.aac"
+    },
+    {
+        "name": "Universal 88.1",
+        "city": "Guanajuato",
+        "country": "Mexico",
+        "url": "https://18863.live.streamtheworld.com:443/XHRED_FMAAC.aac"
+    },
+    {
+        "name": "W Radio FM 96.9",
+        "city": "Guanajuato",
+        "country": "Mexico",
+        "url": "https://22063.live.streamtheworld.com:443/W_RADIOAAC.aac"
+    },
+    {
+        "name": "Stereorey",
+        "city": "Guanajuato",
+        "country": "Mexico",
+        "url": "https://26183.live.streamtheworld.com:443/STEREOREYAAC.aac"
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Radio Tatina 106.3 FM",
+        "city": "Radio Tatina 106.3 FM",
+        "country": "Kara Balta, Kyrgyzstan",
+        "url": "http://82.146.46.229:8000/radio.mp3"
+    },
+    {
+        "name": "DFM 105.5",
+        "city": "Bishkek",
+        "country": "Kyrgyzstan",
+        "url": "https://c16.radioboss.fm:18234/stream"
+    },
+    {
+        "name": "IRadio FM 92.0",
+        "city": "Bishkek",
+        "country": "Kyrgyzstan",
+        "url": "http://212.112.123.200:8000/stream.ogg"
+    },
+    {
+        "name": "OK Radio FM 100.5",
+        "city": "Bishkek",
+        "country": "Kyrgyzstan",
+        "url": "https://stream.teos.media/stream"
+    },
+    {
+        "name": "Новое Радио (Жаңа FM)",
+        "city": "Bishkek",
+        "country": "Kyrgyzstan",
+        "url": "https://live.zhanafm.kz:8443/zhanafm_onair"
+    },
+    {
+        "name": "радио Тироз",
+        "city": "Bishkek",
+        "country": "Kyrgyzstan",
+        "url": "https://eu1.fastcast4u.com/proxy/khusrav/stream"
+    },
+    {
+        "name": "Classic FM",
+        "city": "Osh",
+        "country": "Kyrgyzstan",
+        "url": "https://radio-streams.kaztrk.kz/classic/classic/icecast.audio"
+    },
+    {
+        "name": "Tumar FM",
+        "city": "Bishkek",
+        "country": "Kyrgyzstan",
+        "url": "https://radio.tumar.fm:8005/stream"
+    },
+    {
+        "name": "Asia Plus Radio FM 107.0",
+        "city": "Bishkek",
+        "country": "Kyrgyzstan",
+        "url": "https://eu.asiaplusradio.tj:8443/ap"
+    },
+    {
+        "name": "Valley FM 103",
+        "city": "Osh",
+        "country": "Kyrgyzstan",
+        "url": "https://stream-178.zeno.fm/s96ccqggr2zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzOTZjY3FnZ3IyenV2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoid1hkT2J1Q19UWkMwUkpRRWJQWUNVUSIsImlhdCI6MTc2OTQxOTk4NCwiZXhwIjoxNzY5NDIwMDQ0fQ.Un426kVXlcGK9l1K9h7ZDOTLScjkOstiTm0rQ0KNNow"
+    },
+    {
+        "name": "Hit FM Kyrgyzstan",
+        "city": "Bishkek",
+        "country": "Kyrgyzstan",
+        "url": "https://cdn.radioplayer.kg:8443/hitfm64"
+    },
+    {
+        "name": "Aura FM",
+        "city": "Osh",
+        "country": "Kyrgyzstan",
+        "url": "https://cdn.radioplayer.kg:8443/new64"
+    },
+    {
+        "name": "Avtoradio Bishkek FM 107.8",
+        "city": "Bishkek",
+        "country": "Kyrgyzstan",
+        "url": "https://cast.avtoradio.kg/0/avtoradio"
+    },
+    {
+        "name": "Kyrgyzstan Obondoru",
+        "city": "Bishkek",
+        "country": "Kyrgyzstan",
+        "url": "https://cdn.radioplayer.kg:8443/obondoru64"
+    },
+    {
+        "name": "Business FM",
+        "city": "Bishkek",
+        "country": "Kyrgyzstan",
+        "url": "https://bfmreg.hostingradio.ru/kz.bfm128.mp3"
+    },
+    {
+        "name": "Радио Европа Плюс Ош 103.8",
+        "city": "Bishkek",
+        "country": "Kyrgyzstan",
+        "url": "https://europaplus.hostingradio.ru:8014/europaplus320.mp3"
+    }
+]

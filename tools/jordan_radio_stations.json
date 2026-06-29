@@ -1,0 +1,158 @@
+[
+    {
+        "name": "Rotana Radio FM 99.9",
+        "city": "Amman",
+        "country": "Jordan",
+        "url": "http://45.63.116.205:8000/stream"
+    },
+    {
+        "name": "Melody FM 91.1",
+        "city": "Husna FM 93.4",
+        "country": "Amman, Jordan",
+        "url": "http://s3.voscast.com:9966/;stream.mp3"
+    },
+    {
+        "name": "FABULOUSXM",
+        "city": "Amman",
+        "country": "Jordan",
+        "url": "http://s3.voscast.com:9830/;stream.mp3"
+    },
+    {
+        "name": "Radio Kol Rega",
+        "city": "Amman",
+        "country": "Jordan",
+        "url": "https://radio.streamgates.net/stream/KOLREGA"
+    },
+    {
+        "name": "Radio Orient FM 98.7",
+        "city": "Amman",
+        "country": "Jordan",
+        "url": "http://streamer.mada.ps:8034/orient"
+    },
+    {
+        "name": "Jordan University FM 94.9",
+        "city": "Amman",
+        "country": "Jordan",
+        "url": "http://jufmstreaming.ju.edu.jo/?type=http&nocache=32"
+    },
+    {
+        "name": "HR",
+        "city": "Amman",
+        "country": "Jordan",
+        "url": "https://hr.ps/stream"
+    },
+    {
+        "name": "Beat FM 102.5",
+        "city": "Husna FM 93.4",
+        "country": "Amman, Jordan",
+        "url": "https://securestreams2.autopo.st:1242/live"
+    },
+    {
+        "name": "Mood FM",
+        "city": "Hayat FM 104.7",
+        "country": "Amman, Jordan",
+        "url": "https://securestreams2.autopo.st:1241/live"
+    },
+    {
+        "name": "Drdchati Radio",
+        "city": "Amman",
+        "country": "Jordan",
+        "url": "https://radio.gorlk.net/drdchati"
+    },
+    {
+        "name": "Torah-Box Radio",
+        "city": "Amman",
+        "country": "Jordan",
+        "url": "https://radio.torah-box.com:8443/_a"
+    },
+    {
+        "name": "Radio Hala",
+        "city": "Amman",
+        "country": "Jordan",
+        "url": "https://hala-alrayamedia.radioca.st/index.html?sid=1"
+    },
+    {
+        "name": "Bliss FM 104.3",
+        "city": "Amman",
+        "country": "Jordan",
+        "url": "https://bliss1-alrayamedia.radioca.st/index.html?sid=1"
+    },
+    {
+        "name": "Ain FM 98.3",
+        "city": "Amman",
+        "country": "Jordan",
+        "url": "https://radio.ainfm.site/ainfm"
+    },
+    {
+        "name": "Hayat FM 104.7",
+        "city": "Amman",
+        "country": "Jordan",
+        "url": "https://dc1.serverse.com/proxy/kjxwtpdt/stream"
+    },
+    {
+        "name": "Radio Fann FM 104.2",
+        "city": "Hayat FM 104.7",
+        "country": "Amman, Jordan",
+        "url": "http://45.63.116.205:8000/stream2"
+    },
+    {
+        "name": "Play 99.5",
+        "city": "Amman",
+        "country": "Jordan",
+        "url": "https://play995.radioca.st//stream"
+    },
+    {
+        "name": "Hawa Dijlah FM 100.5",
+        "city": "Amman",
+        "country": "Jordan",
+        "url": "https://listen.radioking.com/radio/96766/stream/136027"
+    },
+    {
+        "name": "Nai FM 101.5",
+        "city": "Hayat FM 104.7",
+        "country": "Amman, Jordan",
+        "url": "https://naifm.radioca.st/index.html?sid=1"
+    },
+    {
+        "name": "Kan Reshet Bet",
+        "city": "Amman",
+        "country": "Jordan",
+        "url": "https://29073.live.streamtheworld.com:443/KAN_BET.mp3"
+    },
+    {
+        "name": "Jordanian Academy of Arabic Language Radio 102.9",
+        "city": "Radio Hala",
+        "country": "Amman, Jordan",
+        "url": "https://eu9.fastcast4u.com/proxy/arabicla?mp=/1"
+    },
+    {
+        "name": "وتر ف.م",
+        "city": "Hayat FM 104.7",
+        "country": "Amman, Jordan",
+        "url": "https://securestreams2.autopo.st:1243/live"
+    },
+    {
+        "name": "Noon 103.1 FM",
+        "city": "Ain FM 98.3",
+        "country": "Amman, Jordan",
+        "url": "https://radionoon.radioca.st/index.html?sid=1"
+    },
+    {
+        "name": "Jeish FM 107.9",
+        "city": "وتر ف.م",
+        "country": "Amman, Jordan",
+        "url": "https://jeishfm-alrayamedia.radioca.st/index.html?sid=1"
+    },
+    {
+        "name": "Mazaj FM 95.3",
+        "city": "Amman",
+        "country": "Jordan",
+        "url": "https://mazajfm.ice.infomaniak.ch/mazajfm-192.mp3"
+    },
+    {
+        "name": "Radio Dahab",
+        "city": "Ain FM 98.3",
+        "country": "Amman, Jordan",
+        "url": "https://dahab.ice.infomaniak.ch/dahab-192.mp3"
+    }
+]

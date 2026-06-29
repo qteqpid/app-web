@@ -1,0 +1,612 @@
+[
+  {
+    "id": "marshall-ktxk-fm-915",
+    "name": "KTXK FM 91.5",
+    "url": "http://ktxkweb.texarkanacollege.edu:8000/",
+    "genre": "Music",
+    "city": "Marshall TX",
+    "country": "United States",
+    "lat": 32.5444841,
+    "lng": -94.3670406
+  },
+  {
+    "id": "marshall-kprg-fm-893",
+    "name": "KPRG-FM 89.3",
+    "url": "http://peridot.streamguys.com:5090/live",
+    "genre": "Music",
+    "city": "Delap-Uliga-Djarrit",
+    "country": "Marshall Islands",
+    "lat": 7.0527841,
+    "lng": 171.3718406
+  },
+  {
+    "id": "marshall-abn-old-time-radio-am-1610",
+    "name": "ABN Old-Time Radio AM 1610",
+    "url": "https://s6.yesstreaming.net:18000/listen",
+    "genre": "Music",
+    "city": "Marshall TX",
+    "country": "United States",
+    "lat": 32.5444841,
+    "lng": -94.3670406
+  },
+  {
+    "id": "marshall-kbrw-am-680",
+    "name": "KBRW-AM 680",
+    "url": "https://tektite.streamguys1.com:5345/live",
+    "genre": "Music",
+    "city": "Marshall TX",
+    "country": "United States",
+    "lat": 32.5444841,
+    "lng": -94.3670406
+  },
+  {
+    "id": "marshall-koko-lp-radio-963-fm",
+    "name": "KOKO LP Radio 96.3 FM",
+    "url": "https://s2.yesstreaming.net:7031/stream",
+    "genre": "Music",
+    "city": "Marshall TX",
+    "country": "United States",
+    "lat": 32.5444841,
+    "lng": -94.3670406
+  },
+  {
+    "id": "marshall-smooth-jazz-247",
+    "name": "Smooth Jazz 24/7",
+    "url": "https://ais-edge89-dal02.cdnstream.com/2124_128.mp3",
+    "genre": "Music",
+    "city": "Marshall TX",
+    "country": "United States",
+    "lat": 32.5444841,
+    "lng": -94.3670406
+  },
+  {
+    "id": "marshall-harvest-family-radio-fm-881",
+    "name": "Harvest Family Radio FM 88.1",
+    "url": "https://das-edge13-live365-dal02.cdnstream.com/a11295",
+    "genre": "Music",
+    "city": "Delap-Uliga-Djarrit",
+    "country": "Marshall Islands",
+    "lat": 7.0527841,
+    "lng": 171.3718406
+  },
+  {
+    "id": "marshall-power-1035",
+    "name": "Power 103.5",
+    "url": "https://audio-edge-fvq45.ams.d.radiomast.io/3140677b-be2c-4223-afef-2d4a624af123",
+    "genre": "Music",
+    "city": "Delap-Uliga-Djarrit",
+    "country": "Marshall Islands",
+    "lat": 7.0527841,
+    "lng": 171.3718406
+  },
+  {
+    "id": "marshall-ksdj-new-rock-907",
+    "name": "KSDJ New Rock 90.7",
+    "url": "https://ksdj.stream.creek.fm/stream",
+    "genre": "Music",
+    "city": "Marshall MN",
+    "country": "United States",
+    "lat": 44.4488382,
+    "lng": -95.7888573
+  },
+  {
+    "id": "marshall-radio-kiritimati-899-fm",
+    "name": "Radio Kiritimati 89.9 FM",
+    "url": "https://streamer5.rightclickitservices.com:19780/stream",
+    "genre": "Music",
+    "city": "Delap-Uliga-Djarrit",
+    "country": "Marshall Islands",
+    "lat": 7.0527841,
+    "lng": 171.3718406
+  },
+  {
+    "id": "marshall-life-fm-fiji",
+    "name": "Life FM Fiji",
+    "url": "https://stream4.rcast.net/65809",
+    "genre": "Music",
+    "city": "Delap-Uliga-Djarrit",
+    "country": "Marshall Islands",
+    "lat": 7.0527841,
+    "lng": 171.3718406
+  },
+  {
+    "id": "marshall-923-fm-the-depot",
+    "name": "92.3 FM The Depot",
+    "url": "https://das-edge17-live365-dal02.cdnstream.com/a35192",
+    "genre": "Music",
+    "city": "Marshall TX",
+    "country": "United States",
+    "lat": 32.5444841,
+    "lng": -94.3670406
+  },
+  {
+    "id": "marshall-kumm-fm-897",
+    "name": "KUMM FM 89.7",
+    "url": "http://146.57.36.230:8256/listen",
+    "genre": "Music",
+    "city": "Marshall MN",
+    "country": "United States",
+    "lat": 44.4488382,
+    "lng": -95.7888573
+  },
+  {
+    "id": "marshall-kxlg-991-fm--kxlg",
+    "name": "KXLG 99.1 FM - KXLG",
+    "url": "https://crystalout.surfernetwork.com:8001/KXLG-FM_MP3",
+    "genre": "Music",
+    "city": "Marshall MN",
+    "country": "United States",
+    "lat": 44.4488382,
+    "lng": -95.7888573
+  },
+  {
+    "id": "marshall-fox-news-radio",
+    "name": "Fox News Radio",
+    "url": "https://prod-3-222-117-14.amperwave.net/foxnewsradio-foxnewsradioaac-imc?session-id=47de6e847ee001180935833812066a3a",
+    "genre": "Music",
+    "city": "Marshall TX",
+    "country": "United States",
+    "lat": 32.5444841,
+    "lng": -94.3670406
+  },
+  {
+    "id": "marshall-kbia-hd3-xponential-radio",
+    "name": "KBIA-HD3 XPoNential Radio",
+    "url": "https://das-sa43.cdnstream1.com/6064_256k.aac",
+    "genre": "Music",
+    "city": "Marshall MO",
+    "country": "United States",
+    "lat": 39.1224184,
+    "lng": -93.1976258
+  },
+  {
+    "id": "marshall-classic-hits-cool-1027--kqul",
+    "name": "Classic Hits-Cool 102.7 - KQUL",
+    "url": "http://n09.radiojar.com/q68rwgwwpv8uv?rj-ttl=5&rj-tok=AAABm_m4ZgEAO9abMO6Hb9j6OA",
+    "genre": "Music",
+    "city": "Marshall MO",
+    "country": "United States",
+    "lat": 39.1224184,
+    "lng": -93.1976258
+  },
+  {
+    "id": "marshall-kdma-939-fm",
+    "name": "KDMA 93.9 FM",
+    "url": "https://streams2.streamkast.co/ingstadmedia/kdmaam/icecast.audio",
+    "genre": "Music",
+    "city": "Marshall MN",
+    "country": "United States",
+    "lat": 44.4488382,
+    "lng": -95.7888573
+  },
+  {
+    "id": "marshall-997-kmjj--kmjj-fm",
+    "name": "99.7 KMJJ - KMJJ-FM",
+    "url": "https://17813.live.streamtheworld.com:443/KMJJFMAAC.aac",
+    "genre": "Music",
+    "city": "Marshall TX",
+    "country": "United States",
+    "lat": 32.5444841,
+    "lng": -94.3670406
+  },
+  {
+    "id": "marshall-eastern-missouri-public-safety",
+    "name": "Eastern Missouri Public Safety",
+    "url": "https://broadcastify.cdnstream1.com/2120",
+    "genre": "Music",
+    "city": "Marshall MO",
+    "country": "United States",
+    "lat": 39.1224184,
+    "lng": -93.1976258
+  },
+  {
+    "id": "marshall-v6-bbc-baptist-radio-chuuk-885-fm",
+    "name": "V6 BBC Baptist Radio Chuuk 88.5 FM",
+    "url": "https://streaming.radio.co/s25a6afba9/listen",
+    "genre": "Music",
+    "city": "Delap-Uliga-Djarrit",
+    "country": "Marshall Islands",
+    "lat": 7.0527841,
+    "lng": 171.3718406
+  },
+  {
+    "id": "marshall-fun-radio-927-fm",
+    "name": "Fun Radio 92.7 FM",
+    "url": "https://stream1.rcast.net/68107",
+    "genre": "Music",
+    "city": "Arab AL",
+    "country": "United States",
+    "lat": 34.3181497,
+    "lng": -86.4958219
+  },
+  {
+    "id": "marshall-wjuv-883-fm",
+    "name": "WJUV 88.3 FM",
+    "url": "http://grn-stream-01.miriamtech.net:8000/secal.mp3",
+    "genre": "Music",
+    "city": "Arab AL",
+    "country": "United States",
+    "lat": 34.3181497,
+    "lng": -86.4958219
+  },
+  {
+    "id": "marshall-kapw-mega-993-fm",
+    "name": "KAPW Mega 99.3 FM",
+    "url": "https://ice5.securenetsystems.net/KAPW",
+    "genre": "Music",
+    "city": "Marshall TX",
+    "country": "United States",
+    "lat": 32.5444841,
+    "lng": -94.3670406
+  },
+  {
+    "id": "marshall-kscr-935-fm",
+    "name": "KSCR 93.5 FM",
+    "url": "https://ice10.securenetsystems.net/KSCR",
+    "genre": "Music",
+    "city": "Marshall MN",
+    "country": "United States",
+    "lat": 44.4488382,
+    "lng": -95.7888573
+  },
+  {
+    "id": "marshall-wart-lp-fm-955",
+    "name": "wART-LP FM 95.5",
+    "url": "http://s10.voscast.com:9760/;stream1616828701296/1",
+    "genre": "Music",
+    "city": "Marshall NC",
+    "country": "United States",
+    "lat": 35.7967501,
+    "lng": -82.6825519
+  },
+  {
+    "id": "marshall-wilkins-radio--kiou-am-1480",
+    "name": "Wilkins Radio - KIOU AM 1480",
+    "url": "https://ice41.securenetsystems.net/KIOU",
+    "genre": "Music",
+    "city": "Marshall TX",
+    "country": "United States",
+    "lat": 32.5444841,
+    "lng": -94.3670406
+  },
+  {
+    "id": "marshall-marshall-county-police",
+    "name": "Marshall County Police",
+    "url": "https://stream3.rcast.net/68107",
+    "genre": "Music",
+    "city": "Arab AL",
+    "country": "United States",
+    "lat": 34.3181497,
+    "lng": -86.4958219
+  },
+  {
+    "id": "marshall-key-radio-keyk-893",
+    "name": "Key Radio KEYK 89.3",
+    "url": "https://s3.radio.co/s8062c8ff1/listen",
+    "genre": "Music",
+    "city": "Marshall MO",
+    "country": "United States",
+    "lat": 39.1224184,
+    "lng": -93.1976258
+  },
+  {
+    "id": "marshall-kmmo-1029-fm",
+    "name": "KMMO 102.9 FM",
+    "url": "https://26413.live.streamtheworld.com:443/KMMOFMAAC.aac",
+    "genre": "Music",
+    "city": "Marshall MO",
+    "country": "United States",
+    "lat": 39.1224184,
+    "lng": -93.1976258
+  },
+  {
+    "id": "marshall-karz-fm-997",
+    "name": "KARZ FM 99.7",
+    "url": "https://ice24.securenetsystems.net/997FM",
+    "genre": "Music",
+    "city": "Marshall MN",
+    "country": "United States",
+    "lat": 44.4488382,
+    "lng": -95.7888573
+  },
+  {
+    "id": "marshall-decatur-csx-norfolk-southern-rail",
+    "name": "Decatur CSX & Norfolk Southern Rail",
+    "url": "https://broadcastify.cdnstream1.com/6752",
+    "genre": "Music",
+    "city": "Arab AL",
+    "country": "United States",
+    "lat": 34.3181497,
+    "lng": -86.4958219
+  },
+  {
+    "id": "marshall-ashville-fm-1033",
+    "name": "Ashville FM 103.3",
+    "url": "https://listen.ashevillefm.org/stream",
+    "genre": "Music",
+    "city": "Marshall NC",
+    "country": "United States",
+    "lat": 35.7967501,
+    "lng": -82.6825519
+  },
+  {
+    "id": "marshall-fun-radio-1049-fm",
+    "name": "Fun Radio 104.9 FM",
+    "url": "https://stream3.rcast.net/69135",
+    "genre": "Music",
+    "city": "Arab AL",
+    "country": "United States",
+    "lat": 34.3181497,
+    "lng": -86.4958219
+  },
+  {
+    "id": "marshall-pro-star-radio",
+    "name": "Pro Star Radio",
+    "url": "https://stream3.rcast.net/63444",
+    "genre": "Music",
+    "city": "Arab AL",
+    "country": "United States",
+    "lat": 34.3181497,
+    "lng": -86.4958219
+  },
+  {
+    "id": "marshall-kaso-am-1240",
+    "name": "KASO AM 1240",
+    "url": "https://ice3.securenetsystems.net/KASO",
+    "genre": "Music",
+    "city": "Marshall TX",
+    "country": "United States",
+    "lat": 32.5444841,
+    "lng": -94.3670406
+  },
+  {
+    "id": "marshall-wrab-radio-1071-fm",
+    "name": "WRAB Radio 107.1 FM",
+    "url": "https://stream3.rcast.net/63489",
+    "genre": "Music",
+    "city": "Arab AL",
+    "country": "United States",
+    "lat": 34.3181497,
+    "lng": -86.4958219
+  },
+  {
+    "id": "marshall-lratvakan-fm-1065",
+    "name": "Lratvakan FM 106.5",
+    "url": "http://212.34.233.78:8000/live",
+    "genre": "Music",
+    "city": "Yerevan",
+    "country": "Armenia",
+    "lat": 40.1777112,
+    "lng": 44.5126233
+  },
+  {
+    "id": "marshall-radio-marshall-fm-1035",
+    "name": "Radio Marshall FM 103.5",
+    "url": "http://eu.stream4cast.com:8030/;stream.mp3",
+    "genre": "Music",
+    "city": "Yerevan",
+    "country": "Armenia",
+    "lat": 40.1777112,
+    "lng": 44.5126233
+  },
+  {
+    "id": "marshall-radio-aurora-fm-1007",
+    "name": "Radio Aurora FM 100.7",
+    "url": "http://am.radioaurora.am:8010/al.mp3",
+    "genre": "Music",
+    "city": "Yerevan",
+    "country": "Armenia",
+    "lat": 40.1777112,
+    "lng": 44.5126233
+  },
+  {
+    "id": "marshall-whkp-radio-1450-am",
+    "name": "WHKP Radio 1450 AM",
+    "url": "https://us2.maindigitalstream.com/ssl/WHKP",
+    "genre": "Music",
+    "city": "Marshall NC",
+    "country": "United States",
+    "lat": 35.7967501,
+    "lng": -82.6825519
+  },
+  {
+    "id": "marshall-radio-xfm",
+    "name": "Radio XFM",
+    "url": "http://eu.stream4cast.com:8050/stream",
+    "genre": "Music",
+    "city": "Yerevan",
+    "country": "Armenia",
+    "lat": 40.1777112,
+    "lng": 44.5126233
+  },
+  {
+    "id": "marshall-livewire-1039-fm",
+    "name": "LiveWire 103.9 FM",
+    "url": "https://cast4.servcast.net/proxy/wxis/stream",
+    "genre": "Music",
+    "city": "Marshall NC",
+    "country": "United States",
+    "lat": 35.7967501,
+    "lng": -82.6825519
+  },
+  {
+    "id": "marshall-radio-energy",
+    "name": "Radio Energy",
+    "url": "https://eu.stream4cast.com/proxy/energyfm/stream",
+    "genre": "Music",
+    "city": "Yerevan",
+    "country": "Armenia",
+    "lat": 40.1777112,
+    "lng": 44.5126233
+  },
+  {
+    "id": "marshall-mfm-music-radio",
+    "name": "MFM Music Radio",
+    "url": "https://eu.stream4cast.com/proxy/mfmradio/stream",
+    "genre": "Music",
+    "city": "Yerevan",
+    "country": "Armenia",
+    "lat": 40.1777112,
+    "lng": 44.5126233
+  },
+  {
+    "id": "marshall-radio-vem",
+    "name": "Radio Vem",
+    "url": "https://eu1.stream4cast.com/proxy/vemradio/stream",
+    "genre": "Music",
+    "city": "Yerevan",
+    "country": "Armenia",
+    "lat": 40.1777112,
+    "lng": 44.5126233
+  },
+  {
+    "id": "marshall-lav-radio-mix",
+    "name": "Lav Radio Mix",
+    "url": "https://eu.stream4cast.com/proxy/lavradiomix/stream",
+    "genre": "Music",
+    "city": "Yerevan",
+    "country": "Armenia",
+    "lat": 40.1777112,
+    "lng": 44.5126233
+  },
+  {
+    "id": "marshall-kepez-fm",
+    "name": "Kepez FM",
+    "url": "http://85.132.78.122:3344/now",
+    "genre": "Music",
+    "city": "Yerevan",
+    "country": "Armenia",
+    "lat": 40.1777112,
+    "lng": 44.5126233
+  },
+  {
+    "id": "marshall-lav-radio",
+    "name": "Lav Radio",
+    "url": "https://eu.stream4cast.com/proxy/lavradio/stream",
+    "genre": "Music",
+    "city": "Yerevan",
+    "country": "Armenia",
+    "lat": 40.1777112,
+    "lng": 44.5126233
+  },
+  {
+    "id": "marshall-naxçıvan-radio-fm-1041",
+    "name": "Naxçıvan Radio FM 104.1",
+    "url": "http://37.59.40.90:12782/;stream.mp3",
+    "genre": "Music",
+    "city": "Yerevan",
+    "country": "Armenia",
+    "lat": 40.1777112,
+    "lng": 44.5126233
+  },
+  {
+    "id": "marshall-wtzq-1600-am",
+    "name": "WTZQ 1600 AM",
+    "url": "https://ais-sa1.streamon.fm/7070_24k.aac",
+    "genre": "Music",
+    "city": "Marshall NC",
+    "country": "United States",
+    "lat": 35.7967501,
+    "lng": -82.6825519
+  },
+  {
+    "id": "marshall-radio-marneuli-fm-969",
+    "name": "Radio Marneuli FM 96.9",
+    "url": "http://stream.it-solutions.ge:8000/mp3-radiomarneulifm",
+    "genre": "Music",
+    "city": "Yerevan",
+    "country": "Armenia",
+    "lat": 40.1777112,
+    "lng": 44.5126233
+  },
+  {
+    "id": "marshall-public-radio-of-armenia",
+    "name": "Public Radio of Armenia",
+    "url": "https://eu1.stream4cast.com/proxy/publicra/stream",
+    "genre": "Music",
+    "city": "Yerevan",
+    "country": "Armenia",
+    "lat": 40.1777112,
+    "lng": 44.5126233
+  },
+  {
+    "id": "marshall-radio-sanda",
+    "name": "Radio SANDA",
+    "url": "http://212.72.151.218:8800/live",
+    "genre": "Music",
+    "city": "Yerevan",
+    "country": "Armenia",
+    "lat": 40.1777112,
+    "lng": 44.5126233
+  },
+  {
+    "id": "marshall-105-wqsb--wqsb",
+    "name": "105 WQSB - WQSB",
+    "url": "https://ice7.securenetsystems.net/WQSB",
+    "genre": "Music",
+    "city": "Arab AL",
+    "country": "United States",
+    "lat": 34.3181497,
+    "lng": -86.4958219
+  },
+  {
+    "id": "marshall-radio-mariam",
+    "name": "Radio Mariam",
+    "url": "https://live.radiomariam.am/RadioMariam",
+    "genre": "Music",
+    "city": "Yerevan",
+    "country": "Armenia",
+    "lat": 40.1777112,
+    "lng": 44.5126233
+  },
+  {
+    "id": "marshall-mix-1029--wkxx",
+    "name": "Mix 102.9 - WKXX",
+    "url": "https://ice41.securenetsystems.net/MIX1029",
+    "genre": "Music",
+    "city": "Arab AL",
+    "country": "United States",
+    "lat": 34.3181497,
+    "lng": -86.4958219
+  },
+  {
+    "id": "marshall-news-radio-1019-fm-big-waax",
+    "name": "News Radio 101.9 FM Big WAAX",
+    "url": "https://cloud.revma.ihrhls.com/zc5225:alt?rj-org=n26b-e2&rj-ttl=5&rj-tok=AAABm_m4gDgAVrscY9Lpygnb2Q",
+    "genre": "Music",
+    "city": "Arab AL",
+    "country": "United States",
+    "lat": 34.3181497,
+    "lng": -86.4958219
+  },
+  {
+    "id": "marshall-armgospelradio",
+    "name": "Armgospelradio",
+    "url": "https://s8.myradiostream.com:15554/listen.mp3?nocache=1769420576",
+    "genre": "Music",
+    "city": "Yerevan",
+    "country": "Armenia",
+    "lat": 40.1777112,
+    "lng": 44.5126233
+  },
+  {
+    "id": "marshall-trialeti-fm-1049",
+    "name": "Trialeti FM 104.9",
+    "url": "https://s39.myradiostream.com/:10898/;listen.mp3",
+    "genre": "Music",
+    "city": "Yerevan",
+    "country": "Armenia",
+    "lat": 40.1777112,
+    "lng": 44.5126233
+  },
+  {
+    "id": "marshall-kiss-fm-883",
+    "name": "Kiss FM 88.3",
+    "url": "https://am.radioaurora.am/kiss",
+    "genre": "Music",
+    "city": "Yerevan",
+    "country": "Armenia",
+    "lat": 40.1777112,
+    "lng": 44.5126233
+  }
+]

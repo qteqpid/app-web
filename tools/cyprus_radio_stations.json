@@ -1,0 +1,212 @@
+[
+    {
+        "name": "Politeia FM 106.7",
+        "city": "Nicosia",
+        "country": "Cyprus",
+        "url": "http://23.29.119.99:8157/stream"
+    },
+    {
+        "name": "Radio Sfera 96.8",
+        "city": "Nicosia",
+        "country": "Cyprus",
+        "url": "https://securestreams3.autopo.st:1417/sfera"
+    },
+    {
+        "name": "Ιερά Μητρόπολις Λεμεσού",
+        "city": "Limassol",
+        "country": "Cyprus",
+        "url": "http://93.109.209.123:9080/stream.mp3"
+    },
+    {
+        "name": "Kiss FM 89.0",
+        "city": "Nicosia",
+        "country": "Cyprus",
+        "url": "https://securestreams3.autopo.st:1417/89FM"
+    },
+    {
+        "name": "Cool Radio 91.6 FM",
+        "city": "Nicosia",
+        "country": "Cyprus",
+        "url": "https://live3.istoikona.net/proxy/cooleradio/stream"
+    },
+    {
+        "name": "Si̇m Radyo 98.6 FM",
+        "city": "Nicosia",
+        "country": "Cyprus",
+        "url": "https://play.simradyo.com/Sim"
+    },
+    {
+        "name": "Radio Sama",
+        "city": "Nicosia",
+        "country": "Cyprus",
+        "url": "https://radio.radiosama.org/sama_64"
+    },
+    {
+        "name": "Radio Joie",
+        "city": "Nicosia",
+        "country": "Cyprus",
+        "url": "https://charbyone.radioca.st/index.html?sid=1"
+    },
+    {
+        "name": "Zenith 96.4 FM",
+        "city": "Nicosia",
+        "country": "Cyprus",
+        "url": "https://live3.istoikona.net:9836/stream"
+    },
+    {
+        "name": "Ράδιο Παντοκράτωρ",
+        "city": "Nicosia",
+        "country": "Cyprus",
+        "url": "https://a11.asurahosting.com:7720/radio.mp3?refresh=1750236322516"
+    },
+    {
+        "name": "Rock FM Cyprus",
+        "city": "Limassol",
+        "country": "Cyprus",
+        "url": "https://live3.istoikona.net/proxy/rockfm/stream"
+    },
+    {
+        "name": "Russian Wave FM 105.7",
+        "city": "Limassol",
+        "country": "Cyprus",
+        "url": "https://stream.veblot.net/proxy/russianradio/stream/"
+    },
+    {
+        "name": "Kanali 6 Jazz & Soul",
+        "city": "Limassol",
+        "country": "Cyprus",
+        "url": "http://n01.radiojar.com/gddd94mshkhvv?rj-ttl=5&rj-tok=AAABm_mR5_sAD585y0urpgK8zg"
+    },
+    {
+        "name": "Feelgood.FM",
+        "city": "Limassol",
+        "country": "Cyprus",
+        "url": "https://radio.feelgood.fm/aac"
+    },
+    {
+        "name": "Ruskaye Radio Kypro 99 FM",
+        "city": "Limassol",
+        "country": "Cyprus",
+        "url": "https://stream.veblot.net/proxy/russianradio/stream/"
+    },
+    {
+        "name": "Viva FM",
+        "city": "Limassol",
+        "country": "Cyprus",
+        "url": "https://stream1.themediasite.co.uk/8060/stream"
+    },
+    {
+        "name": "Kanali 7 FM 98.4",
+        "city": "CyBC Radio 3",
+        "country": "Nicosia, Cyprus",
+        "url": "http://live.kanali7.com:4012/;stream.mp3"
+    },
+    {
+        "name": "Enerji 93.1 FM",
+        "city": "Paphos",
+        "country": "Cyprus",
+        "url": "https://live.enerjiplay.com/stream/enerji"
+    },
+    {
+        "name": "LBI Radio Hits",
+        "city": "Limassol",
+        "country": "Cyprus",
+        "url": "https://lbihits-lbnet2.radioca.st/stream"
+    },
+    {
+        "name": "Radio Cosmos FM 95.2",
+        "city": "Paphos",
+        "country": "Cyprus",
+        "url": "https://sonic.streamhost.gr/8018/stream"
+    },
+    {
+        "name": "Libano Հայազգի ձայն",
+        "city": "Paralimni",
+        "country": "Cyprus",
+        "url": "https://c7.radioboss.fm:8299/stream"
+    },
+    {
+        "name": "Radyo Juke FM 90.9",
+        "city": "Akrotiri",
+        "country": "Cyprus",
+        "url": "https://stream.netradyom.com/listen/radyojuke/radio.mp3"
+    },
+    {
+        "name": "Bayrak International",
+        "city": "Kiss FM 89.0",
+        "country": "Nicosia, Cyprus",
+        "url": "http://sc.brtk.net:8004/;*.mp3"
+    },
+    {
+        "name": "Olay FM 93.5",
+        "city": "Paphos",
+        "country": "Cyprus",
+        "url": "https://netyayin.jsproduksiyon.com:9010/olayfm"
+    },
+    {
+        "name": "Radyo Vatan Nihavent 100.4",
+        "city": "Zenith 96.4 FM",
+        "country": "Nicosia, Cyprus",
+        "url": "http://95.0.173.195:9001/nihavent"
+    },
+    {
+        "name": "Ruwave 94FM Alanya",
+        "city": "Paphos",
+        "country": "Cyprus",
+        "url": "https://listen4.myradio24.com/ruwave"
+    },
+    {
+        "name": "Capital Radio 93.8 Cyprus",
+        "city": "CyBC Radio 3",
+        "country": "Nicosia, Cyprus",
+        "url": "https://radyo1.radyo-dinle.tc/8256/stream"
+    },
+    {
+        "name": "Njoy",
+        "city": "Kiss FM 89.0",
+        "country": "Nicosia, Cyprus",
+        "url": "http://n09.radiojar.com/mg7kftnzka3vv?rj-ttl=5&rj-tok=AAABm_mR9UYAPzwtJzSibKGlcA"
+    },
+    {
+        "name": "Active 107.4",
+        "city": "RIK Radio 4 88.2 Λευκωσία",
+        "country": "Nicosia, Cyprus",
+        "url": "http://phileradio.com:8193/active"
+    },
+    {
+        "name": "Old Town Radio",
+        "city": "Kiss FM 89.0",
+        "country": "Nicosia, Cyprus",
+        "url": "http://n06.radiojar.com/3emwf2xgam8uv?rj-ttl=5&rj-tok=AAABm_mR9iIAq8_luWqOgniEww"
+    },
+    {
+        "name": "Voice of Hope Radio",
+        "city": "CyBC Radio 3",
+        "country": "Nicosia, Cyprus",
+        "url": "https://voh.radio.anharnet.org/voh_128"
+    },
+    {
+        "name": "BFBS Cyprus",
+        "city": "Akrotiri",
+        "country": "Cyprus",
+        "url": "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs8.mp3?platform=radiogarden"
+    },
+    {
+        "name": "Capital Turk 107.1 FM",
+        "city": "Radio Sfera 96.8",
+        "country": "Nicosia, Cyprus",
+        "url": "https://radyo1.radyo-dinle.tc/8210/stream"
+    },
+    {
+        "name": "Astra FM 92.8",
+        "city": "Radio Sfera 96.8",
+        "country": "Nicosia, Cyprus",
+        "url": "https://securestreams2.autopo.st:1106/stream"
+    },
+    {
+        "name": "UCY Voice 95.2",
+        "city": "Super Sport FM",
+        "country": "Nicosia, Cyprus",
+        "url": "https://n0a.radiojar.com/sz94h2ykwhcwv?rj-ttl=5&rj-tok=AAABm_mR-WEATaA8fOT27tMpgQ"
+    }
+]

@@ -1,0 +1,762 @@
+[
+  {
+    "id": "slovenia-radio-hit-si",
+    "name": "Radio Hit si",
+    "url": "http://stream03.exit.si:8000/radiohit?.mp3",
+    "genre": "Music",
+    "city": "Ljubljana",
+    "country": "Slovenia",
+    "lat": 46.0500268,
+    "lng": 14.5069289
+  },
+  {
+    "id": "slovenia-radio-bob-876-fm",
+    "name": "Radio Bob 87.6 FM",
+    "url": "http://live.radiobob.si/Europa05",
+    "genre": "Music",
+    "city": "Ljubljana",
+    "country": "Slovenia",
+    "lat": 46.0500268,
+    "lng": 14.5069289
+  },
+  {
+    "id": "slovenia-radio-mars",
+    "name": "Radio Mars",
+    "url": "http://frekvenca.eu:8000/radiomars.mp3",
+    "genre": "Music",
+    "city": "Maribor",
+    "country": "Slovenia",
+    "lat": 46.5576439,
+    "lng": 15.6455854
+  },
+  {
+    "id": "slovenia-radio-1-litija",
+    "name": "Radio 1 Litija",
+    "url": "http://live3.infonetmedia.si/Radio1LI?.mp3",
+    "genre": "Music",
+    "city": "Ljubljana",
+    "country": "Slovenia",
+    "lat": 46.0500268,
+    "lng": 14.5069289
+  },
+  {
+    "id": "slovenia-radio-aktual",
+    "name": "Radio Aktual",
+    "url": "http://stream.radioaktual.si/Aktual",
+    "genre": "Music",
+    "city": "Maribor",
+    "country": "Slovenia",
+    "lat": 46.5576439,
+    "lng": 15.6455854
+  },
+  {
+    "id": "slovenia-radio-terminal",
+    "name": "Radio Terminal",
+    "url": "https://air.radioterminal.si/",
+    "genre": "Music",
+    "city": "Ljubljana",
+    "country": "Slovenia",
+    "lat": 46.0500268,
+    "lng": 14.5069289
+  },
+  {
+    "id": "slovenia-radio-študent-fm893",
+    "name": "Radio Študent FM89.3",
+    "url": "https://kruljo.radiostudent.si:8001/hiq",
+    "genre": "Music",
+    "city": "Ljubljana",
+    "country": "Slovenia",
+    "lat": 46.0500268,
+    "lng": 14.5069289
+  },
+  {
+    "id": "slovenia-moj-radio",
+    "name": "MOJ Radio",
+    "url": "https://eu4.fastcast4u.com/proxy/svidakov?mp=/1",
+    "genre": "Music",
+    "city": "Ljubljana",
+    "country": "Slovenia",
+    "lat": 46.0500268,
+    "lng": 14.5069289
+  },
+  {
+    "id": "slovenia-radio-frajer",
+    "name": "Radio Frajer",
+    "url": "https://stream.nextmedia.si/proxy/frajer_1?mp=/frajer",
+    "genre": "Music",
+    "city": "Ljubljana",
+    "country": "Slovenia",
+    "lat": 46.0500268,
+    "lng": 14.5069289
+  },
+  {
+    "id": "slovenia-rock-radio",
+    "name": "Rock Radio",
+    "url": "https://stream.nextmedia.si/proxy/rockr1_1?mp=/rock",
+    "genre": "Music",
+    "city": "Ljubljana",
+    "country": "Slovenia",
+    "lat": 46.0500268,
+    "lng": 14.5069289
+  },
+  {
+    "id": "slovenia-rock-radio-hard-heavy",
+    "name": "Rock Radio Hard & Heavy",
+    "url": "https://stream.nextmedia.si/proxy/rocks_2?mp=/stream",
+    "genre": "Music",
+    "city": "Ljubljana",
+    "country": "Slovenia",
+    "lat": 46.0500268,
+    "lng": 14.5069289
+  },
+  {
+    "id": "slovenia-hitradio-center",
+    "name": "Hitradio Center",
+    "url": "https://stream.nextmedia.si/proxy/center4?mp=/center",
+    "genre": "Music",
+    "city": "Ljubljana",
+    "country": "Slovenia",
+    "lat": 46.0500268,
+    "lng": 14.5069289
+  },
+  {
+    "id": "slovenia-val-202",
+    "name": "VAL 202",
+    "url": "https://mp3.rtvslo.si/val202",
+    "genre": "Music",
+    "city": "Ljubljana",
+    "country": "Slovenia",
+    "lat": 46.0500268,
+    "lng": 14.5069289
+  },
+  {
+    "id": "slovenia-radio-1-80s",
+    "name": "Radio 1 80s",
+    "url": "https://live.radio.si/Radio80",
+    "genre": "Music",
+    "city": "Ljubljana",
+    "country": "Slovenia",
+    "lat": 46.0500268,
+    "lng": 14.5069289
+  },
+  {
+    "id": "slovenia-radio-kranj-973-fm",
+    "name": "Radio Kranj 97.3 FM",
+    "url": "https://live.radio.si/Kranj",
+    "genre": "Music",
+    "city": "Ljubljana",
+    "country": "Slovenia",
+    "lat": 46.0500268,
+    "lng": 14.5069289
+  },
+  {
+    "id": "slovenia-best-fm-1016",
+    "name": "best FM 101.6",
+    "url": "https://live.radio.si/BestFM",
+    "genre": "Music",
+    "city": "Ljubljana",
+    "country": "Slovenia",
+    "lat": 46.0500268,
+    "lng": 14.5069289
+  },
+  {
+    "id": "slovenia-radio-1",
+    "name": "Radio 1",
+    "url": "https://live.radio1.si/Radio1",
+    "genre": "Music",
+    "city": "Ljubljana",
+    "country": "Slovenia",
+    "lat": 46.0500268,
+    "lng": 14.5069289
+  },
+  {
+    "id": "slovenia-radio-zeleni-val",
+    "name": "Radio Zeleni val",
+    "url": "https://jurepeterka.radioca.st/stream/1/",
+    "genre": "Music",
+    "city": "Ljubljana",
+    "country": "Slovenia",
+    "lat": 46.0500268,
+    "lng": 14.5069289
+  },
+  {
+    "id": "slovenia-radio-aktual",
+    "name": "Radio Aktual",
+    "url": "https://live.radio.si/Aktual",
+    "genre": "Music",
+    "city": "Ljubljana",
+    "country": "Slovenia",
+    "lat": 46.0500268,
+    "lng": 14.5069289
+  },
+  {
+    "id": "slovenia-radio-city-1006",
+    "name": "Radio City 100.6",
+    "url": "https://stream1.radiocity.si/CityMp3128.mp3",
+    "genre": "Music",
+    "city": "Maribor",
+    "country": "Slovenia",
+    "lat": 46.5576439,
+    "lng": 15.6455854
+  },
+  {
+    "id": "slovenia-radio-nula-organic",
+    "name": "Radio Nula Organic",
+    "url": "https://strm.radionula.com/channel2",
+    "genre": "Music",
+    "city": "Maribor",
+    "country": "Slovenia",
+    "lat": 46.5576439,
+    "lng": 15.6455854
+  },
+  {
+    "id": "slovenia-radio-net-fm-1002",
+    "name": "Radio Net FM 100.2",
+    "url": "http://reflector.radionet.si:8000/stream.ogg",
+    "genre": "Music",
+    "city": "Maribor",
+    "country": "Slovenia",
+    "lat": 46.5576439,
+    "lng": 15.6455854
+  },
+  {
+    "id": "slovenia-njoy-radio-fm-882",
+    "name": "Njoy Radio FM 88.2",
+    "url": "https://live.njoyradio.at/njoy",
+    "genre": "Music",
+    "city": "Maribor",
+    "country": "Slovenia",
+    "lat": 46.5576439,
+    "lng": 15.6455854
+  },
+  {
+    "id": "slovenia-toti-radio-maribor-1068",
+    "name": "Toti Radio Maribor 106.8",
+    "url": "https://live.radio.si/Toti",
+    "genre": "Music",
+    "city": "Maribor",
+    "country": "Slovenia",
+    "lat": 46.5576439,
+    "lng": 15.6455854
+  },
+  {
+    "id": "slovenia-radio-ognijsce",
+    "name": "Radio Ognijsce",
+    "url": "http://real.ognjisce.si:8000/ognjisce.mp3",
+    "genre": "Music",
+    "city": "Koper",
+    "country": "Slovenia",
+    "lat": 45.5479864,
+    "lng": 13.7304781
+  },
+  {
+    "id": "slovenia-noradio",
+    "name": "NORadio",
+    "url": "http://tigr.no-ip.org:8000/noradio.mp3/",
+    "genre": "Music",
+    "city": "Koper",
+    "country": "Slovenia",
+    "lat": 45.5479864,
+    "lng": 13.7304781
+  },
+  {
+    "id": "slovenia-radio-slovenske-gorice-fm-964",
+    "name": "Radio Slovenske Gorice FM 96.4",
+    "url": "https://stream.iradio.pro/proxy/radioslovenskegoric?mp=/stream",
+    "genre": "Music",
+    "city": "Maribor",
+    "country": "Slovenia",
+    "lat": 46.5576439,
+    "lng": 15.6455854
+  },
+  {
+    "id": "slovenia-radio-capris-poletje",
+    "name": "Radio Capris Poletje",
+    "url": "http://stream02.exit.si:8000/POLETJE",
+    "genre": "Music",
+    "city": "Koper",
+    "country": "Slovenia",
+    "lat": 45.5479864,
+    "lng": 13.7304781
+  },
+  {
+    "id": "slovenia-radio-1-celje",
+    "name": "Radio 1 Celje",
+    "url": "http://live3.infonetmedia.si:8000/Radio1CE",
+    "genre": "Music",
+    "city": "Celje",
+    "country": "Slovenia",
+    "lat": 46.2293889,
+    "lng": 15.2616828
+  },
+  {
+    "id": "slovenia-radio-capris-cafe",
+    "name": "Radio Capris Cafe",
+    "url": "https://stream.exit.si/CAFE",
+    "genre": "Music",
+    "city": "Koper",
+    "country": "Slovenia",
+    "lat": 45.5479864,
+    "lng": 13.7304781
+  },
+  {
+    "id": "slovenia-radio-eurostar",
+    "name": "Radio Eurostar",
+    "url": "http://mcp1.mydataknox.com:8012/stream",
+    "genre": "Music",
+    "city": "Koper",
+    "country": "Slovenia",
+    "lat": 45.5479864,
+    "lng": 13.7304781
+  },
+  {
+    "id": "slovenia-radio-istra",
+    "name": "Radio Istra",
+    "url": "https://uk1.streamingpulse.com/ssl/RadioIstra",
+    "genre": "Music",
+    "city": "Koper",
+    "country": "Slovenia",
+    "lat": 45.5479864,
+    "lng": 13.7304781
+  },
+  {
+    "id": "slovenia-radio-ptuj",
+    "name": "Radio Ptuj",
+    "url": "https://live.radio.si/Ptuj",
+    "genre": "Music",
+    "city": "Maribor",
+    "country": "Slovenia",
+    "lat": 46.5576439,
+    "lng": 15.6455854
+  },
+  {
+    "id": "slovenia-radio-murski-val-946-fm",
+    "name": "Radio Murski val 94.6 FM",
+    "url": "https://stream.murskival.si/",
+    "genre": "Music",
+    "city": "Maribor",
+    "country": "Slovenia",
+    "lat": 46.5576439,
+    "lng": 15.6455854
+  },
+  {
+    "id": "slovenia-radio-capodistria",
+    "name": "Radio Capodistria",
+    "url": "https://mp3.rtvslo.si/capo",
+    "genre": "Music",
+    "city": "Koper",
+    "country": "Slovenia",
+    "lat": 45.5479864,
+    "lng": 13.7304781
+  },
+  {
+    "id": "slovenia-rtv-slo-radio-koper",
+    "name": "RTV SLO Radio Koper",
+    "url": "https://mp3.rtvslo.si/rakp",
+    "genre": "Music",
+    "city": "Koper",
+    "country": "Slovenia",
+    "lat": 45.5479864,
+    "lng": 13.7304781
+  },
+  {
+    "id": "slovenia-radio-nula-beatz",
+    "name": "Radio Nula Beatz",
+    "url": "https://strm.radionula.com/lounge",
+    "genre": "Music",
+    "city": "Celje",
+    "country": "Slovenia",
+    "lat": 46.2293889,
+    "lng": 15.2616828
+  },
+  {
+    "id": "slovenia-radio-fantasy",
+    "name": "Radio Fantasy",
+    "url": "https://live.radio.si/Fantasy",
+    "genre": "Music",
+    "city": "Celje",
+    "country": "Slovenia",
+    "lat": 46.2293889,
+    "lng": 15.2616828
+  },
+  {
+    "id": "slovenia-radio-celje",
+    "name": "Radio Celje",
+    "url": "https://live.radio.si/Celje",
+    "genre": "Music",
+    "city": "Celje",
+    "country": "Slovenia",
+    "lat": 46.2293889,
+    "lng": 15.2616828
+  },
+  {
+    "id": "slovenia-radio-labin-fm-910",
+    "name": "Radio Labin FM 91.0",
+    "url": "https://c2.hostingcentar.com/streams/radiolabin/",
+    "genre": "Music",
+    "city": "Koper",
+    "country": "Slovenia",
+    "lat": 45.5479864,
+    "lng": 13.7304781
+  },
+  {
+    "id": "slovenia-radio-krka",
+    "name": "Radio Krka",
+    "url": "https://live.radio.si/Krka",
+    "genre": "Music",
+    "city": "Celje",
+    "country": "Slovenia",
+    "lat": 46.2293889,
+    "lng": 15.2616828
+  },
+  {
+    "id": "slovenia-radio-brezice-eu",
+    "name": "Radio Brezice Eu",
+    "url": "https://n09.radiojar.com/a62vxp5uvueuv?rj-ttl=5&rj-tok=AAABm_nc4nEAkWS9eTqFh4GRpw",
+    "genre": "Music",
+    "city": "Celje",
+    "country": "Slovenia",
+    "lat": 46.2293889,
+    "lng": 15.2616828
+  },
+  {
+    "id": "slovenia-radijo-sraka-946-fm",
+    "name": "Radijo Sraka 94.6 FM",
+    "url": "https://sraka.siradiostream.net/",
+    "genre": "Music",
+    "city": "Novo Mesto",
+    "country": "Slovenia",
+    "lat": 45.8040475,
+    "lng": 15.1696684
+  },
+  {
+    "id": "slovenia-radio-triglav",
+    "name": "Radio Triglav",
+    "url": "https://live.radio.si/Triglav",
+    "genre": "Music",
+    "city": "Kranj",
+    "country": "Slovenia",
+    "lat": 46.2432913,
+    "lng": 14.3549353
+  },
+  {
+    "id": "slovenia-sjeverni-fm-928",
+    "name": "Sjeverni FM 92.8",
+    "url": "https://live.sjeverni.fm/radio/8000/radio.mp3",
+    "genre": "Music",
+    "city": "Ptuj",
+    "country": "Slovenia",
+    "lat": 46.4198096,
+    "lng": 15.8717378
+  },
+  {
+    "id": "slovenia-radio-1-novo-mesto",
+    "name": "Radio 1 Novo Mesto",
+    "url": "https://live.radio1.si/Radio1NM",
+    "genre": "Music",
+    "city": "Novo Mesto",
+    "country": "Slovenia",
+    "lat": 45.8040475,
+    "lng": 15.1696684
+  },
+  {
+    "id": "slovenia-radio-velenje-1078-fm",
+    "name": "Radio Velenje 107.8 FM",
+    "url": "https://live.radio.si/Velenje",
+    "genre": "Music",
+    "city": "Velenje",
+    "country": "Slovenia",
+    "lat": 46.3592869,
+    "lng": 15.1150301
+  },
+  {
+    "id": "slovenia-radio-univox",
+    "name": "Radio Univox",
+    "url": "https://solid33.streamupsolutions.com/proxy/vtmpasiq?mp=/stream",
+    "genre": "Music",
+    "city": "Novo Mesto",
+    "country": "Slovenia",
+    "lat": 45.8040475,
+    "lng": 15.1696684
+  },
+  {
+    "id": "slovenia-primorski-val",
+    "name": "Primorski val",
+    "url": "https://altair.streamerr.co/stream/primorskival",
+    "genre": "Music",
+    "city": "Kranj",
+    "country": "Slovenia",
+    "lat": 46.2432913,
+    "lng": 14.3549353
+  },
+  {
+    "id": "slovenia-zagorski-radio-fm-878",
+    "name": "Zagorski Radio FM 87.8",
+    "url": "https://s8.iqstreaming.com:2020/stream/zagorski/stream",
+    "genre": "Music",
+    "city": "Ptuj",
+    "country": "Slovenia",
+    "lat": 46.4198096,
+    "lng": 15.8717378
+  },
+  {
+    "id": "slovenia-radio-max-fm-993",
+    "name": "Radio Max FM 99.3",
+    "url": "https://azuracast.novi-net.net/radio/8010/radiomax.aac",
+    "genre": "Music",
+    "city": "Ptuj",
+    "country": "Slovenia",
+    "lat": 46.4198096,
+    "lng": 15.8717378
+  },
+  {
+    "id": "slovenia-radio-maxi",
+    "name": "Radio Maxi",
+    "url": "https://live.radio.si/Maxi",
+    "genre": "Music",
+    "city": "Ptuj",
+    "country": "Slovenia",
+    "lat": 46.4198096,
+    "lng": 15.8717378
+  },
+  {
+    "id": "slovenia-radio-agora",
+    "name": "Radio Agora",
+    "url": "https://livestream.agora.at/agora",
+    "genre": "Music",
+    "city": "Jesenice",
+    "country": "Slovenia",
+    "lat": 46.4323705,
+    "lng": 14.0623942
+  },
+  {
+    "id": "slovenia-radio-carducci-dante",
+    "name": "Radio Carducci Dante",
+    "url": "https://nr14.newradio.it:8619/stream?ext=.mp3/;",
+    "genre": "Music",
+    "city": "Nova Gorica",
+    "country": "Slovenia",
+    "lat": 45.9581509,
+    "lng": 13.6474998
+  },
+  {
+    "id": "slovenia-radio-robin",
+    "name": "Radio Robin",
+    "url": "https://live.radio.si/Robin",
+    "genre": "Music",
+    "city": "Nova Gorica",
+    "country": "Slovenia",
+    "lat": 45.9581509,
+    "lng": 13.6474998
+  },
+  {
+    "id": "slovenia-antenne-kärnten",
+    "name": "Antenne Kärnten",
+    "url": "https://live.antenne.at/ak",
+    "genre": "Music",
+    "city": "Kranj",
+    "country": "Slovenia",
+    "lat": 46.2432913,
+    "lng": 14.3549353
+  },
+  {
+    "id": "slovenia-pomorski-radio",
+    "name": "Pomorski Radio",
+    "url": "http://85.17.172.242:8010/live.mp3",
+    "genre": "Music",
+    "city": "Kočevje",
+    "country": "Slovenia",
+    "lat": 45.6430266,
+    "lng": 14.8552701
+  },
+  {
+    "id": "slovenia-rdt-radio-station",
+    "name": "RDT Radio Station",
+    "url": "https://sr11.inmystream.it:8026/stream",
+    "genre": "Music",
+    "city": "Koper",
+    "country": "Slovenia",
+    "lat": 45.5479864,
+    "lng": 13.7304781
+  },
+  {
+    "id": "slovenia-radio-gorski-kotar-fm-95",
+    "name": "Radio Gorski Kotar FM 95",
+    "url": "http://144.76.39.214:9500/stream.mp3",
+    "genre": "Music",
+    "city": "Kočevje",
+    "country": "Slovenia",
+    "lat": 45.6430266,
+    "lng": 14.8552701
+  },
+  {
+    "id": "slovenia-radio-centar",
+    "name": "Radio Centar",
+    "url": "https://radiocentar.hr:8282/mp3",
+    "genre": "Music",
+    "city": "Koper",
+    "country": "Slovenia",
+    "lat": 45.5479864,
+    "lng": 13.7304781
+  },
+  {
+    "id": "slovenia-radio-sjeverozapad-fm-952",
+    "name": "Radio Sjeverozapad FM 95.2",
+    "url": "https://a4.asurahosting.com:7840/radio.mp3",
+    "genre": "Music",
+    "city": "Murska Sobota",
+    "country": "Slovenia",
+    "lat": 46.6624644,
+    "lng": 16.1655256
+  },
+  {
+    "id": "slovenia-radio-1-fm-1056",
+    "name": "Radio 1 FM 105.6",
+    "url": "https://azuracast.novi-net.net/radio/8020/radio1.aac",
+    "genre": "Music",
+    "city": "Murska Sobota",
+    "country": "Slovenia",
+    "lat": 46.6624644,
+    "lng": 16.1655256
+  },
+  {
+    "id": "slovenia-radio-jaska-938-fm",
+    "name": "Radio Jaska 93.8 FM",
+    "url": "https://uk1.streamingpulse.com/ssl/RadioJaska",
+    "genre": "Music",
+    "city": "Brežice",
+    "country": "Slovenia",
+    "lat": 45.9038696,
+    "lng": 15.5930859
+  },
+  {
+    "id": "slovenia-radio-105-selnica",
+    "name": "Radio 105 Selnica",
+    "url": "https://azuracast.novi-net.net/radio/8050/radio105.aac",
+    "genre": "Music",
+    "city": "Murska Sobota",
+    "country": "Slovenia",
+    "lat": 46.6624644,
+    "lng": 16.1655256
+  },
+  {
+    "id": "slovenia-radio-samobor-fm-930",
+    "name": "Radio Samobor FM 93.0",
+    "url": "http://185.150.235.162/index.html?sid=1",
+    "genre": "Music",
+    "city": "Brežice",
+    "country": "Slovenia",
+    "lat": 45.9038696,
+    "lng": 15.5930859
+  },
+  {
+    "id": "slovenia-radio-1-vrhnika",
+    "name": "Radio 1 Vrhnika",
+    "url": "https://live.radio1.si/Radio1VR",
+    "genre": "Music",
+    "city": "Vrhnika",
+    "country": "Slovenia",
+    "lat": 45.9663388,
+    "lng": 14.2980698
+  },
+  {
+    "id": "slovenia-koroški-radio-972-fm",
+    "name": "Koroški Radio 97.2 FM",
+    "url": "https://live.radio.si/Koroski",
+    "genre": "Music",
+    "city": "Slovenj Gradec",
+    "country": "Slovenia",
+    "lat": 46.509144,
+    "lng": 15.0790677
+  },
+  {
+    "id": "slovenia-radio-megaton-fm-1049",
+    "name": "Radio Megaton FM 104.9",
+    "url": "https://chopin.bizmusic.net/radio/8030/radio.mp3",
+    "genre": "Music",
+    "city": "Murska Sobota",
+    "country": "Slovenia",
+    "lat": 46.6624644,
+    "lng": 16.1655256
+  },
+  {
+    "id": "slovenia-radio-1-primorska",
+    "name": "Radio 1 Primorska",
+    "url": "https://live.radio.si/Radio1",
+    "genre": "Music",
+    "city": "Sežana",
+    "country": "Slovenia",
+    "lat": 45.7091799,
+    "lng": 13.8730989
+  },
+  {
+    "id": "slovenia-radio-stubica",
+    "name": "Radio Stubica",
+    "url": "http://radiostubica.hc.hr:7010/index.html?sid=1",
+    "genre": "Music",
+    "city": "Brežice",
+    "country": "Slovenia",
+    "lat": 45.9038696,
+    "lng": 15.5930859
+  },
+  {
+    "id": "slovenia-radio-štajerski-val-fm-937",
+    "name": "Radio Štajerski val FM 93.7",
+    "url": "https://stream.stajerskival.si:8443/live",
+    "genre": "Music",
+    "city": "Šentjur",
+    "country": "Slovenia",
+    "lat": 46.2168375,
+    "lng": 15.3937905
+  },
+  {
+    "id": "slovenia-radio-helsinki-926",
+    "name": "Radio Helsinki 92.6",
+    "url": "https://live.helsinki.at:8088/live128.mp3",
+    "genre": "Music",
+    "city": "Slovenj Gradec",
+    "country": "Slovenia",
+    "lat": 46.509144,
+    "lng": 15.0790677
+  },
+  {
+    "id": "slovenia-radioftt-trieste",
+    "name": "RadioFTT Trieste",
+    "url": "https://live.radioftt.org/stream",
+    "genre": "Music",
+    "city": "Sežana",
+    "country": "Slovenia",
+    "lat": 45.7091799,
+    "lng": 13.8730989
+  },
+  {
+    "id": "slovenia-radio-himmelberg",
+    "name": "Radio Himmelberg",
+    "url": "https://radio-himmelberg.stream.laut.fm/radio-himmelberg",
+    "genre": "Music",
+    "city": "Jesenice",
+    "country": "Slovenia",
+    "lat": 46.4323705,
+    "lng": 14.0623942
+  },
+  {
+    "id": "slovenia-wel-1055",
+    "name": "WEL 105.5",
+    "url": "https://wel105point5.stream.laut.fm/wel105point5",
+    "genre": "Music",
+    "city": "Jesenice",
+    "country": "Slovenia",
+    "lat": 46.4323705,
+    "lng": 14.0623942
+  },
+  {
+    "id": "slovenia-radio-sveta-nedelja-977-fm",
+    "name": "Radio Sveta Nedelja 97.7 FM",
+    "url": "https://ec2s.crolive.com.hr:2205/stream",
+    "genre": "Music",
+    "city": "Brežice",
+    "country": "Slovenia",
+    "lat": 45.9038696,
+    "lng": 15.5930859
+  }
+]

@@ -1,0 +1,792 @@
+[
+  {
+    "id": "dominica-dbs-radio-895-fm",
+    "name": "DBS Radio 89.5 FM",
+    "url": "https://stream.dbcradio.net:8005/live",
+    "genre": "Music",
+    "city": "Roseau",
+    "country": "Dominica",
+    "lat": 15.2991923,
+    "lng": -61.3872868
+  },
+  {
+    "id": "dominica-cherie-fm-guadeloupe-1043-fm",
+    "name": "Chérie FM Guadeloupe 104.3 FM",
+    "url": "https://go.2stream.net/cheriefmgp",
+    "genre": "Music",
+    "city": "Roseau",
+    "country": "Dominica",
+    "lat": 15.2991923,
+    "lng": -61.3872868
+  },
+  {
+    "id": "dominica-imperiosalserocom",
+    "name": "Imperiosalsero.com",
+    "url": "https://radio.dominiserver.com/proxy/imperiosalsero/stream",
+    "genre": "Music",
+    "city": "Santo Domingo",
+    "country": "Dominican Republic",
+    "lat": 18.4713858,
+    "lng": -69.8918436
+  },
+  {
+    "id": "dominica-kingdom-life-radio",
+    "name": "Kingdom Life Radio",
+    "url": "https://radio.vousstream.com/8026/stream",
+    "genre": "Music",
+    "city": "Roseau",
+    "country": "Dominica",
+    "lat": 15.2991923,
+    "lng": -61.3872868
+  },
+  {
+    "id": "dominica-tdn-radio",
+    "name": "TDN Radio",
+    "url": "https://sonic01.instainternet.com/8308/stream",
+    "genre": "Music",
+    "city": "Roseau",
+    "country": "Dominica",
+    "lat": 15.2991923,
+    "lng": -61.3872868
+  },
+  {
+    "id": "dominica-dominicana-fm-989",
+    "name": "Dominicana FM 98.9",
+    "url": "https://protvradiostream.com:8610/stream/",
+    "genre": "Music",
+    "city": "Santo Domingo",
+    "country": "Dominican Republic",
+    "lat": 18.4713858,
+    "lng": -69.8918436
+  },
+  {
+    "id": "dominica-gtm-radio",
+    "name": "GTM Radio",
+    "url": "https://sonic01.instainternet.com/8314/stream",
+    "genre": "Music",
+    "city": "Mahaut",
+    "country": "Dominica",
+    "lat": 15.3633066,
+    "lng": -61.3974541
+  },
+  {
+    "id": "dominica-radio-en-ba-mango",
+    "name": "Radio En Ba Mango",
+    "url": "https://s10.myradiostream.com/:4212/listen.mp3?nocache=1769418123",
+    "genre": "Music",
+    "city": "Roseau",
+    "country": "Dominica",
+    "lat": 15.2991923,
+    "lng": -61.3872868
+  },
+  {
+    "id": "dominica-q95fm",
+    "name": "Q95FM",
+    "url": "https://vousstream.com/8306/stream",
+    "genre": "Music",
+    "city": "Roseau",
+    "country": "Dominica",
+    "lat": 15.2991923,
+    "lng": -61.3872868
+  },
+  {
+    "id": "dominica-kiss-949-fm",
+    "name": "Kiss 94.9 FM",
+    "url": "http://72.29.87.97:8015/stream.mp3/",
+    "genre": "Music",
+    "city": "Santo Domingo",
+    "country": "Dominican Republic",
+    "lat": 18.4713858,
+    "lng": -69.8918436
+  },
+  {
+    "id": "dominica-camino-al-sol-radio",
+    "name": "Camino al Sol Radio",
+    "url": "https://stream3.rcast.net/67686",
+    "genre": "Music",
+    "city": "Santo Domingo",
+    "country": "Dominican Republic",
+    "lat": 18.4713858,
+    "lng": -69.8918436
+  },
+  {
+    "id": "dominica-zoukla-retro",
+    "name": "Zoukla Rétro",
+    "url": "https://radio10.pro-fhi.net/flux-tycmljkb/stream",
+    "genre": "Music",
+    "city": "Roseau",
+    "country": "Dominica",
+    "lat": 15.2991923,
+    "lng": -61.3872868
+  },
+  {
+    "id": "dominica-acoustic-worship-radio",
+    "name": "Acoustic Worship Radio",
+    "url": "https://stream-162.zeno.fm/8zju2lrepndvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI4emp1MmxyZXBuZHZ2IiwiaG9zdCI6InN0cmVhbS0xNjIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoicHpJOGhzdndSLTJYNHk1M200MkVwQSIsImlhdCI6MTc2OTQxODEyMywiZXhwIjoxNzY5NDE4MTgzfQ.tVWMeIcxE1e2Zd1BlzRkDMTrMQsMLORweZZxbKwi5Ss",
+    "genre": "Music",
+    "city": "Loubiere",
+    "country": "Dominica",
+    "lat": 15.275216,
+    "lng": -61.373425
+  },
+  {
+    "id": "dominica-kairi-fm-931",
+    "name": "Kairi FM 93.1",
+    "url": "https://stream-151.zeno.fm/ych5ixtx51ktv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5Y2g1aXh0eDUxa3R2IiwiaG9zdCI6InN0cmVhbS0xNTEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiZU9jbXg5WnRRUnVEbVBNcmplOThIdyIsImlhdCI6MTc2OTQxODEyMywiZXhwIjoxNzY5NDE4MTgzfQ.7hMPKMZZ7KAot12V-p_yf0ub6fKuZ_OLMWd-Ia7U81o",
+    "genre": "Music",
+    "city": "Roseau",
+    "country": "Dominica",
+    "lat": 15.2991923,
+    "lng": -61.3872868
+  },
+  {
+    "id": "dominica-identite-radio",
+    "name": "Identité Radio",
+    "url": "https://listen.radioking.com/radio/26860/stream/59584",
+    "genre": "Music",
+    "city": "Loubiere",
+    "country": "Dominica",
+    "lat": 15.275216,
+    "lng": -61.373425
+  },
+  {
+    "id": "dominica-vibes-radio-995-fm",
+    "name": "Vibes Radio 99.5 FM",
+    "url": "https://vibesradio.dm/stream",
+    "genre": "Music",
+    "city": "Roseau",
+    "country": "Dominica",
+    "lat": 15.2991923,
+    "lng": -61.3872868
+  },
+  {
+    "id": "dominica-radio-espacial",
+    "name": "Radio Espacial",
+    "url": "https://listen.usuarios.space/radioespacial/",
+    "genre": "Music",
+    "city": "Santo Domingo",
+    "country": "Dominican Republic",
+    "lat": 18.4713858,
+    "lng": -69.8918436
+  },
+  {
+    "id": "dominica-trace-fm",
+    "name": "Trace FM",
+    "url": "https://n12.rcs.revma.com/5k3fce0q54zuv?rj-ttl=5&rj-tok=AAABm_mTEp8ArnN9ubnKSNCQew",
+    "genre": "Music",
+    "city": "Roseau",
+    "country": "Dominica",
+    "lat": 15.2991923,
+    "lng": -61.3872868
+  },
+  {
+    "id": "dominica-rci-zouk",
+    "name": "RCI Zouk",
+    "url": "https://n10.rcs.revma.com/wkf0thzctwzuv?rj-ttl=5&rj-tok=AAABm_mTEsUAOdc_gvG12GmRsg",
+    "genre": "Music",
+    "city": "Loubiere",
+    "country": "Dominica",
+    "lat": 15.275216,
+    "lng": -61.373425
+  },
+  {
+    "id": "dominica-rci-dancehall",
+    "name": "RCI Dancehall",
+    "url": "https://n16.rcs.revma.com/5stt0yrtpwzuv?rj-ttl=5&rj-tok=AAABm_mTEqgAYEpoTzAwRPNTFQ",
+    "genre": "Music",
+    "city": "Roseau",
+    "country": "Dominica",
+    "lat": 15.2991923,
+    "lng": -61.3872868
+  },
+  {
+    "id": "dominica-my-worship-fm-1033",
+    "name": "My Worship FM 103.3",
+    "url": "https://14223.live.streamtheworld.com:443/SP_R2796427_SC",
+    "genre": "Music",
+    "city": "Roseau",
+    "country": "Dominica",
+    "lat": 15.2991923,
+    "lng": -61.3872868
+  },
+  {
+    "id": "dominica-radio-eternidad",
+    "name": "Radio Eternidad",
+    "url": "https://cast5.my-control-panel.com/proxy/radioete/stream",
+    "genre": "Music",
+    "city": "Santo Domingo",
+    "country": "Dominican Republic",
+    "lat": 18.4713858,
+    "lng": -69.8918436
+  },
+  {
+    "id": "dominica-ultra-fm-1067",
+    "name": "Ultra FM 106.7",
+    "url": "http://72.29.87.97:8042/stream.mp3/",
+    "genre": "Music",
+    "city": "Santo Domingo",
+    "country": "Dominican Republic",
+    "lat": 18.4713858,
+    "lng": -69.8918436
+  },
+  {
+    "id": "dominica-trespatines-radio",
+    "name": "Trespatines Radio",
+    "url": "https://app0102.sonicpanelradio.com/trespatines/stream",
+    "genre": "Music",
+    "city": "Santo Domingo",
+    "country": "Dominican Republic",
+    "lat": 18.4713858,
+    "lng": -69.8918436
+  },
+  {
+    "id": "dominica-radio-cima-1005-fm",
+    "name": "Radio Cima 100.5 FM",
+    "url": "https://sonicpanel.streaming10.net/8146/stream",
+    "genre": "Music",
+    "city": "Santo Domingo",
+    "country": "Dominican Republic",
+    "lat": 18.4713858,
+    "lng": -69.8918436
+  },
+  {
+    "id": "dominica-rht-guadeloupe",
+    "name": "RHT Guadeloupe",
+    "url": "https://haute-tension.ice.infomaniak.ch/haute-tension-high.mp3",
+    "genre": "Music",
+    "city": "Mahaut",
+    "country": "Dominica",
+    "lat": 15.3633066,
+    "lng": -61.3974541
+  },
+  {
+    "id": "dominica-la-brava-809",
+    "name": "La Brava 809",
+    "url": "https://sp.totalstreaming.net/8158/stream",
+    "genre": "Music",
+    "city": "Santo Domingo",
+    "country": "Dominican Republic",
+    "lat": 18.4713858,
+    "lng": -69.8918436
+  },
+  {
+    "id": "dominica-z-101-fm",
+    "name": "Z 101 FM",
+    "url": "https://streaming.z101digital.com/z101",
+    "genre": "Music",
+    "city": "Santo Domingo",
+    "country": "Dominican Republic",
+    "lat": 18.4713858,
+    "lng": -69.8918436
+  },
+  {
+    "id": "dominica-zol-1065-fm",
+    "name": "Zol 106.5 FM",
+    "url": "https://stream-167.zeno.fm/w6x7q7dtpy5tv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ3Nng3cTdkdHB5NXR2IiwiaG9zdCI6InN0cmVhbS0xNjcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiSWZzN3IyUTJTNTZBSVZFVG0zV0JuQSIsImlhdCI6MTc2OTQxODEyNiwiZXhwIjoxNzY5NDE4MTg2fQ.MaOPP4UW6Vn28a7mapltm85mkbKq4CpUPRZODNfHWYo",
+    "genre": "Music",
+    "city": "Santo Domingo",
+    "country": "Dominican Republic",
+    "lat": 18.4713858,
+    "lng": -69.8918436
+  },
+  {
+    "id": "dominica-radio-caracol-1200-am",
+    "name": "Radio Caracol 1200 AM",
+    "url": "https://radiordomi.com:8640/stream",
+    "genre": "Music",
+    "city": "Santo Domingo",
+    "country": "Dominican Republic",
+    "lat": 18.4713858,
+    "lng": -69.8918436
+  },
+  {
+    "id": "dominica-la-91-fm",
+    "name": "La 91 FM",
+    "url": "https://stream-162.zeno.fm/859cd7buqg8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI4NTljZDdidXFnOHV2IiwiaG9zdCI6InN0cmVhbS0xNjIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiS0dTOGRiNy1SdS1DYW9oekFQckNZZyIsImlhdCI6MTc2OTQxODEyNiwiZXhwIjoxNzY5NDE4MTg2fQ.jMdjMDvz2chzyBL4j1rVZOf7g3BL8TkaQuf6ZwCf8yI",
+    "genre": "Music",
+    "city": "Santo Domingo",
+    "country": "Dominican Republic",
+    "lat": 18.4713858,
+    "lng": -69.8918436
+  },
+  {
+    "id": "dominica-ritmo-965-fm",
+    "name": "Ritmo 96.5 FM",
+    "url": "https://stream-144.zeno.fm/y0br5ck4ququv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5MGJyNWNrNHF1cXV2IiwiaG9zdCI6InN0cmVhbS0xNDQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiUFl5Y2xIUWxUUldzNkVobWRnVU9udyIsImlhdCI6MTc2OTQxODEyNiwiZXhwIjoxNzY5NDE4MTg2fQ.hIPgN0mQIVyJvpr8qfT2CQ-EKAGxshRs4oHlo89YwzQ",
+    "genre": "Music",
+    "city": "Santo Domingo",
+    "country": "Dominican Republic",
+    "lat": 18.4713858,
+    "lng": -69.8918436
+  },
+  {
+    "id": "dominica-espiritu-santo-radio",
+    "name": "Espiritu Santo Radio",
+    "url": "https://radio2.grupointernet.com/8065/stream",
+    "genre": "Music",
+    "city": "Santiago De Los Caballeros",
+    "country": "Dominican Republic",
+    "lat": 19.4503932,
+    "lng": -70.6909047
+  },
+  {
+    "id": "dominica-enamorada-fm-1071",
+    "name": "Enamorada FM 107.1",
+    "url": "https://radiordomi.com/8644/stream",
+    "genre": "Music",
+    "city": "Santo Domingo",
+    "country": "Dominican Republic",
+    "lat": 18.4713858,
+    "lng": -69.8918436
+  },
+  {
+    "id": "dominica-tu-106-fm-1060",
+    "name": "Tu 106 FM 106.0",
+    "url": "https://radios.radiostreaminglive.net/8076//stream",
+    "genre": "Music",
+    "city": "Santiago De Los Caballeros",
+    "country": "Dominican Republic",
+    "lat": 19.4503932,
+    "lng": -70.6909047
+  },
+  {
+    "id": "dominica-la-sabrosa-rd",
+    "name": "La Sabrosa RD",
+    "url": "https://stream-165.zeno.fm/7w1kym9ahhruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI3dzFreW05YWhocnV2IiwiaG9zdCI6InN0cmVhbS0xNjUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiUG1rVWlQX05TNGVvdHZJZlVUOWR1ZyIsImlhdCI6MTc2OTQxODEyNywiZXhwIjoxNzY5NDE4MTg3fQ.VvB9i4hHfzoJyX30Xvq4wpdAzDKnz54rb41xumSx_Is",
+    "genre": "Music",
+    "city": "Santo Domingo",
+    "country": "Dominican Republic",
+    "lat": 18.4713858,
+    "lng": -69.8918436
+  },
+  {
+    "id": "dominica-azucar-891-fm",
+    "name": "Azucar 89.1 FM",
+    "url": "https://visual.shoutca.st:8068/stream",
+    "genre": "Music",
+    "city": "Santo Domingo",
+    "country": "Dominican Republic",
+    "lat": 18.4713858,
+    "lng": -69.8918436
+  },
+  {
+    "id": "dominica-eclipse-969",
+    "name": "Eclipse 96.9",
+    "url": "http://72.29.87.97:8038/stream.mp3/",
+    "genre": "Music",
+    "city": "Santiago De Los Caballeros",
+    "country": "Dominican Republic",
+    "lat": 19.4503932,
+    "lng": -70.6909047
+  },
+  {
+    "id": "dominica-super-103",
+    "name": "Super 103",
+    "url": "https://radio.mystreamrd.com/8008/stream",
+    "genre": "Music",
+    "city": "Santiago De Los Caballeros",
+    "country": "Dominican Republic",
+    "lat": 19.4503932,
+    "lng": -70.6909047
+  },
+  {
+    "id": "dominica-monumental-fm-1003",
+    "name": "Monumental FM 100.3",
+    "url": "https://radio2.grupointernet.com/8103/stream",
+    "genre": "Music",
+    "city": "Santiago De Los Caballeros",
+    "country": "Dominican Republic",
+    "lat": 19.4503932,
+    "lng": -70.6909047
+  },
+  {
+    "id": "dominica-super-regional-fm-1039",
+    "name": "Super Regional FM 103.9",
+    "url": "https://lanueva106.radioca.st/stream",
+    "genre": "Music",
+    "city": "Santiago De Los Caballeros",
+    "country": "Dominican Republic",
+    "lat": 19.4503932,
+    "lng": -70.6909047
+  },
+  {
+    "id": "dominica-full-941-fm",
+    "name": "Full 94.1 FM",
+    "url": "https://visual.shoutca.st:8146/stream",
+    "genre": "Music",
+    "city": "Santiago De Los Caballeros",
+    "country": "Dominican Republic",
+    "lat": 19.4503932,
+    "lng": -70.6909047
+  },
+  {
+    "id": "dominica-oye-la-radio",
+    "name": "Oye La Radio",
+    "url": "https://cast4.asurahosting.com/proxy/tony1238/stream",
+    "genre": "Music",
+    "city": "Santiago De Los Caballeros",
+    "country": "Dominican Republic",
+    "lat": 19.4503932,
+    "lng": -70.6909047
+  },
+  {
+    "id": "dominica-disco-89",
+    "name": "Disco 89",
+    "url": "http://radio2.rgradio.net:9020/disco89",
+    "genre": "Music",
+    "city": "Santiago De Los Caballeros",
+    "country": "Dominican Republic",
+    "lat": 19.4503932,
+    "lng": -70.6909047
+  },
+  {
+    "id": "dominica-radio-ideal-995-fm",
+    "name": "Radio Ideal 99.5 FM",
+    "url": "http://rgradio.net:8030/radioideal.mp3",
+    "genre": "Music",
+    "city": "Santiago De Los Caballeros",
+    "country": "Dominican Republic",
+    "lat": 19.4503932,
+    "lng": -70.6909047
+  },
+  {
+    "id": "dominica-turbo-98-fm",
+    "name": "Turbo 98 FM",
+    "url": "https://stream-144.zeno.fm/vf867714pa0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2Zjg2NzcxNHBhMHV2IiwiaG9zdCI6InN0cmVhbS0xNDQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoicU5hR1VBa2pRY2l1alFKTlVfd3VoZyIsImlhdCI6MTc2OTQxODEyOSwiZXhwIjoxNzY5NDE4MTg5fQ.AHx9O2yiJehPRaysRzxpdsMsuMJh70t_9BLyr0MG4eQ",
+    "genre": "Music",
+    "city": "Santiago De Los Caballeros",
+    "country": "Dominican Republic",
+    "lat": 19.4503932,
+    "lng": -70.6909047
+  },
+  {
+    "id": "dominica-fieramix",
+    "name": "Fieramix",
+    "url": "https://c11.radioboss.fm:18269/stream",
+    "genre": "Music",
+    "city": "Higüey",
+    "country": "Dominican Republic",
+    "lat": 18.6131313,
+    "lng": -68.7114484
+  },
+  {
+    "id": "dominica-rayo-fm-santiago",
+    "name": "Rayo FM Santiago",
+    "url": "https://radio.hostlagarto.com/8042/stream",
+    "genre": "Music",
+    "city": "Santiago De Los Caballeros",
+    "country": "Dominican Republic",
+    "lat": 19.4503932,
+    "lng": -70.6909047
+  },
+  {
+    "id": "dominica-discosuave",
+    "name": "Discosuave",
+    "url": "https://discosuave.radioca.st/index.html?sid=1",
+    "genre": "Music",
+    "city": "Santiago De Los Caballeros",
+    "country": "Dominican Republic",
+    "lat": 19.4503932,
+    "lng": -70.6909047
+  },
+  {
+    "id": "dominica-radio-real-1310-am",
+    "name": "Radio Real 1310 AM",
+    "url": "https://mars.streamerr.co/8104/stream",
+    "genre": "Music",
+    "city": "Santiago De Los Caballeros",
+    "country": "Dominican Republic",
+    "lat": 19.4503932,
+    "lng": -70.6909047
+  },
+  {
+    "id": "dominica-fieramix-la-americana",
+    "name": "Fieramix La Americana",
+    "url": "https://c13.radioboss.fm:18188/stream",
+    "genre": "Music",
+    "city": "Higüey",
+    "country": "Dominican Republic",
+    "lat": 18.6131313,
+    "lng": -68.7114484
+  },
+  {
+    "id": "dominica-fieramix-la-urbana",
+    "name": "Fieramix La Urbana",
+    "url": "https://c13.radioboss.fm:18182/stream",
+    "genre": "Music",
+    "city": "Higüey",
+    "country": "Dominican Republic",
+    "lat": 18.6131313,
+    "lng": -68.7114484
+  },
+  {
+    "id": "dominica-makaoradio-895-fm",
+    "name": "MakaoRadio 89.5 FM",
+    "url": "https://c13.radioboss.fm:8194/stream",
+    "genre": "Music",
+    "city": "Higüey",
+    "country": "Dominican Republic",
+    "lat": 18.6131313,
+    "lng": -68.7114484
+  },
+  {
+    "id": "dominica-magia-fm",
+    "name": "Magia FM",
+    "url": "https://c13.radioboss.fm:18195/stream",
+    "genre": "Music",
+    "city": "Higüey",
+    "country": "Dominican Republic",
+    "lat": 18.6131313,
+    "lng": -68.7114484
+  },
+  {
+    "id": "dominica-radio-cayacoa",
+    "name": "Radio Cayacoa",
+    "url": "https://as100.globalhost1.com/8080/",
+    "genre": "Music",
+    "city": "Higüey",
+    "country": "Dominican Republic",
+    "lat": 18.6131313,
+    "lng": -68.7114484
+  },
+  {
+    "id": "dominica-fieramix-la-salsera",
+    "name": "Fieramix La Salsera",
+    "url": "https://c15.radioboss.fm:18230/stream",
+    "genre": "Music",
+    "city": "Higüey",
+    "country": "Dominican Republic",
+    "lat": 18.6131313,
+    "lng": -68.7114484
+  },
+  {
+    "id": "dominica-fieramix-la-cristiana",
+    "name": "Fieramix La Cristiana",
+    "url": "https://c11.radioboss.fm:18211/stream",
+    "genre": "Music",
+    "city": "Higüey",
+    "country": "Dominican Republic",
+    "lat": 18.6131313,
+    "lng": -68.7114484
+  },
+  {
+    "id": "dominica-estrella-fm-923",
+    "name": "Estrella FM 92.3",
+    "url": "https://c13.radioboss.fm:18187/live",
+    "genre": "Music",
+    "city": "Higüey",
+    "country": "Dominican Republic",
+    "lat": 18.6131313,
+    "lng": -68.7114484
+  },
+  {
+    "id": "dominica-fieramix-la-romántica",
+    "name": "Fieramix La Romántica",
+    "url": "https://c15.radioboss.fm:18222/stream",
+    "genre": "Music",
+    "city": "Higüey",
+    "country": "Dominican Republic",
+    "lat": 18.6131313,
+    "lng": -68.7114484
+  },
+  {
+    "id": "dominica-tropicalisima-104",
+    "name": "Tropicalisima 104",
+    "url": "https://stream-148.zeno.fm/96896vu8na0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI5Njg5NnZ1OG5hMHV2IiwiaG9zdCI6InN0cmVhbS0xNDguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiWl9yY1hoOTdSYnVaLTI1T09RNU1QQSIsImlhdCI6MTc2OTQxODEzMCwiZXhwIjoxNzY5NDE4MTkwfQ.-6ti7gsI9EFcXoH3WyVR-Fx4qj_JjlMib6ea5KcOZeg",
+    "genre": "Music",
+    "city": "Santiago De Los Caballeros",
+    "country": "Dominican Republic",
+    "lat": 19.4503932,
+    "lng": -70.6909047
+  },
+  {
+    "id": "dominica-utopía",
+    "name": "Utopía",
+    "url": "https://c13.radioboss.fm:18183/stream",
+    "genre": "Music",
+    "city": "Higüey",
+    "country": "Dominican Republic",
+    "lat": 18.6131313,
+    "lng": -68.7114484
+  },
+  {
+    "id": "dominica-melody-fm-917",
+    "name": "Melody FM 91.7",
+    "url": "https://stream-157.zeno.fm/vq3499tqd0hvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2cTM0OTl0cWQwaHZ2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiUDllWmxVSEtSYWE5Z0FYUlZJcGZydyIsImlhdCI6MTc2OTQxODEzMSwiZXhwIjoxNzY5NDE4MTkxfQ.hGeltfEM0UFTYABvqZCxhKU2KP8NUQFti3o6s8proCQ",
+    "genre": "Music",
+    "city": "Santiago De Los Caballeros",
+    "country": "Dominican Republic",
+    "lat": 19.4503932,
+    "lng": -70.6909047
+  },
+  {
+    "id": "dominica-fieramix-la-merenguera",
+    "name": "Fieramix La Merenguera",
+    "url": "https://c15.radioboss.fm:18223/stream",
+    "genre": "Music",
+    "city": "Higüey",
+    "country": "Dominican Republic",
+    "lat": 18.6131313,
+    "lng": -68.7114484
+  },
+  {
+    "id": "dominica-tierra-de-milagros-radio",
+    "name": "Tierra de Milagros Radio",
+    "url": "https://radiosonline.one:8000/radio.mp3",
+    "genre": "Music",
+    "city": "Higüey",
+    "country": "Dominican Republic",
+    "lat": 18.6131313,
+    "lng": -68.7114484
+  },
+  {
+    "id": "dominica-radio-kool-1069-fm",
+    "name": "Radio Kool 106.9 FM",
+    "url": "http://s3.voscast.com:9798/index.html?sid=1",
+    "genre": "Music",
+    "city": "Higüey",
+    "country": "Dominican Republic",
+    "lat": 18.6131313,
+    "lng": -68.7114484
+  },
+  {
+    "id": "dominica-nitida-fm-1063",
+    "name": "Nitida FM 106.3",
+    "url": "https://stream-179.zeno.fm/dnfezxfilaevv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJkbmZlenhmaWxhZXZ2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiZjJRenVLeUZRdG15aV9kVUROS2NIZyIsImlhdCI6MTc2OTQxODEzMiwiZXhwIjoxNzY5NDE4MTkyfQ.1xmuryWoglkpuxYuKzz7z89opkq2TeOON2sibyCt7vA",
+    "genre": "Music",
+    "city": "Higüey",
+    "country": "Dominican Republic",
+    "lat": 18.6131313,
+    "lng": -68.7114484
+  },
+  {
+    "id": "dominica-cosmos-fm-991",
+    "name": "Cosmos FM 99.1",
+    "url": "https://radiordomi.com/8626/stream",
+    "genre": "Music",
+    "city": "Barahona",
+    "country": "Dominican Republic",
+    "lat": 18.1893495,
+    "lng": -71.2286019
+  },
+  {
+    "id": "dominica-novel-fm-939",
+    "name": "Novel FM 93.9",
+    "url": "https://saudio.westus3.cloudapp.azure.com/novel/;stream.mp3",
+    "genre": "Music",
+    "city": "Barahona",
+    "country": "Dominican Republic",
+    "lat": 18.1893495,
+    "lng": -71.2286019
+  },
+  {
+    "id": "dominica-la-104-fm-1047",
+    "name": "La 104 FM 104.7",
+    "url": "https://cast10.plugstreaming.com/stream/la104",
+    "genre": "Music",
+    "city": "Barahona",
+    "country": "Dominican Republic",
+    "lat": 18.1893495,
+    "lng": -71.2286019
+  },
+  {
+    "id": "dominica-locos-por-el-jazz-radio",
+    "name": "Locos Por El Jazz Radio",
+    "url": "https://stream2.305stream.com/proxy/client041?mp=/stream",
+    "genre": "Music",
+    "city": "Puerto Plata",
+    "country": "Dominican Republic",
+    "lat": 19.7891616,
+    "lng": -70.6926181
+  },
+  {
+    "id": "dominica-escala-fm-106",
+    "name": "Escala FM 106",
+    "url": "https://radiordomi.com/8204/stream",
+    "genre": "Music",
+    "city": "Barahona",
+    "country": "Dominican Republic",
+    "lat": 18.1893495,
+    "lng": -71.2286019
+  },
+  {
+    "id": "dominica-pesa-923-fm",
+    "name": "Pesa 92.3 FM",
+    "url": "https://radiordomi.com/8632/stream",
+    "genre": "Music",
+    "city": "Barahona",
+    "country": "Dominican Republic",
+    "lat": 18.1893495,
+    "lng": -71.2286019
+  },
+  {
+    "id": "dominica-radio-barahona-1470-am",
+    "name": "Radio Barahona 1470 AM",
+    "url": "https://radiordomi.com/8020/stream/",
+    "genre": "Music",
+    "city": "Barahona",
+    "country": "Dominican Republic",
+    "lat": 18.1893495,
+    "lng": -71.2286019
+  },
+  {
+    "id": "dominica-urbana-96",
+    "name": "Urbana 96",
+    "url": "https://sp.sintonizapp.com:7012/stream",
+    "genre": "Music",
+    "city": "Barahona",
+    "country": "Dominican Republic",
+    "lat": 18.1893495,
+    "lng": -71.2286019
+  },
+  {
+    "id": "dominica-trebol-99",
+    "name": "Trebol 99",
+    "url": "https://stream-148.zeno.fm/3bc8r1u8na0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIzYmM4cjF1OG5hMHV2IiwiaG9zdCI6InN0cmVhbS0xNDguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoicVlobUN2bEtTbmU2TUJnMXRkRUhnQSIsImlhdCI6MTc2OTQxODEzMywiZXhwIjoxNzY5NDE4MTkzfQ.M1Mi_N8Btra8Ig0AYNKbdY0i9Xo5i_nLSd5Klbx1cr8",
+    "genre": "Music",
+    "city": "Higüey",
+    "country": "Dominican Republic",
+    "lat": 18.6131313,
+    "lng": -68.7114484
+  },
+  {
+    "id": "dominica-arca-de-salvacion-radio-953-fm",
+    "name": "Arca de Salvacion Radio 95.3 FM",
+    "url": "https://stream5.305stream.com/6206/stream",
+    "genre": "Music",
+    "city": "Puerto Plata",
+    "country": "Dominican Republic",
+    "lat": 19.7891616,
+    "lng": -70.6926181
+  },
+  {
+    "id": "dominica-mayimba-895-fm",
+    "name": "Mayimba 89.5 FM",
+    "url": "https://stream-179.zeno.fm/s8wax82parzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzOHdheDgycGFyenV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiZGQ1em1FMGFSSHU3UDVKRkg0OTdRdyIsImlhdCI6MTc2OTQxODEzNSwiZXhwIjoxNzY5NDE4MTk1fQ.rct6tt2qBEs_B9lCfqZShFZ2UzI3eiFi8rXb77GgGrQ",
+    "genre": "Music",
+    "city": "Puerto Plata",
+    "country": "Dominican Republic",
+    "lat": 19.7891616,
+    "lng": -70.6926181
+  },
+  {
+    "id": "dominica-canal-1051-fm",
+    "name": "Canal 105.1 FM",
+    "url": "https://stream-144.zeno.fm/b94afcu8na0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJiOTRhZmN1OG5hMHV2IiwiaG9zdCI6InN0cmVhbS0xNDQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiTDVXLV9TU2dUS3FFQWloMHd5anVuQSIsImlhdCI6MTc2OTQxODEzNCwiZXhwIjoxNzY5NDE4MTk0fQ.4JSLY8UmknbGNimgmrcu05tlOOTv9l42kcav_FMhXMQ",
+    "genre": "Music",
+    "city": "Puerto Plata",
+    "country": "Dominican Republic",
+    "lat": 19.7891616,
+    "lng": -70.6926181
+  },
+  {
+    "id": "dominica-blu-radio-digital",
+    "name": "Blu Radio Digital",
+    "url": "https://stream3.305stream.com/proxy/client02/stream",
+    "genre": "Music",
+    "city": "Puerto Plata",
+    "country": "Dominican Republic",
+    "lat": 19.7891616,
+    "lng": -70.6926181
+  }
+]

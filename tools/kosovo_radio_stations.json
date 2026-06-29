@@ -1,0 +1,146 @@
+[
+    {
+        "name": "Radio Gračanica 90.7 FM",
+        "city": "Prishtina",
+        "country": "Kosovo",
+        "url": "http://188.40.95.74:8012/wp-content/uploads/my-music/mysong.mp3?_=1"
+    },
+    {
+        "name": "Radio Kiss 92.2 FM",
+        "city": "Prishtina",
+        "country": "Kosovo",
+        "url": "http://cast.oblak.in:9515/;*.mp3"
+    },
+    {
+        "name": "Radio Gora FM 106.3",
+        "city": "Prishtina",
+        "country": "Kosovo",
+        "url": "http://uzivo.radiogora.org:8117/stream.mp3"
+    },
+    {
+        "name": "Glam Radio",
+        "city": "Prishtina",
+        "country": "Kosovo",
+        "url": "https://stream.glamradio.fm:8443/glamradio"
+    },
+    {
+        "name": "Radio Maria Kosove",
+        "city": "Prishtina",
+        "country": "Kosovo",
+        "url": "https://dreamsiteradiocp2.com/proxy/rmkosovo2?mp=/stream"
+    },
+    {
+        "name": "Radio Alba FM 91.2",
+        "city": "Prishtina",
+        "country": "Kosovo",
+        "url": "http://server.radioalba.eu:8000/stream/"
+    },
+    {
+        "name": "Radio Drenasi",
+        "city": "Prishtina",
+        "country": "Kosovo",
+        "url": "http://213.163.109.13:8010/index.html?sid=1"
+    },
+    {
+        "name": "Club FM Kosove",
+        "city": "Prishtina",
+        "country": "Kosovo",
+        "url": "https://cp1.sednastream.com/proxy/clubfmkosova?mp=/stream"
+    },
+    {
+        "name": "Radio Plus 102.2 FM",
+        "city": "Prishtina",
+        "country": "Kosovo",
+        "url": "https://cast2.my-control-panel.com/proxy/radiopl1/stream"
+    },
+    {
+        "name": "Radio Kosova e Lirë 94.2 FM",
+        "city": "Prishtina",
+        "country": "Kosovo",
+        "url": "https://radiokos.radioca.st/index.html?sid=1"
+    },
+    {
+        "name": "Radio 1 98.0 FM",
+        "city": "Prishtina",
+        "country": "Kosovo",
+        "url": "https://ec6.yesstreaming.net:3430/stream"
+    },
+    {
+        "name": "Radio Star 96.4 FM",
+        "city": "Prishtina",
+        "country": "Kosovo",
+        "url": "https://radio.1dhe1.com:9400/stream"
+    },
+    {
+        "name": "Radio Zeri i Shtimes FM 89.6",
+        "city": "Prishtina",
+        "country": "Kosovo",
+        "url": "https://radio.1dhe1.com:8090/stream"
+    },
+    {
+        "name": "Radio Vala Rinore 94.7 FM",
+        "city": "Prishtina",
+        "country": "Kosovo",
+        "url": "https://stream4.rcast.net/61253"
+    },
+    {
+        "name": "Radio Vala FM 98.3",
+        "city": "Pejë",
+        "country": "Kosovo",
+        "url": "http://185.82.109.71:8080/"
+    },
+    {
+        "name": "Radio Helix",
+        "city": "Prizren",
+        "country": "Kosovo",
+        "url": "https://radyo1.radyo-dinle.tc/8276/stream"
+    },
+    {
+        "name": "Kolektiv Radio",
+        "city": "Prizren",
+        "country": "Kosovo",
+        "url": "https://kolektivstudio.com/listen/kolektiv_radio/radio.mp3"
+    },
+    {
+        "name": "Urban FM 103.5",
+        "city": "Prishtina",
+        "country": "Kosovo",
+        "url": "https://radio.itprishtina.com/urbanfm.ogg"
+    },
+    {
+        "name": "Radio Romano Avazo 107.3 FM",
+        "city": "Prizren",
+        "country": "Kosovo",
+        "url": "https://a13.asurahosting.com/listen/radio_romano_avazo/radio.mp3"
+    },
+    {
+        "name": "Prishtina FM 89.8",
+        "city": "Prishtina",
+        "country": "Kosovo",
+        "url": "https://stream.radio.co/sbe73908d2/listen"
+    },
+    {
+        "name": "Oxygen Radio",
+        "city": "Prishtina",
+        "country": "Kosovo",
+        "url": "https://stream.radio.co/s6bb9533cb/listen"
+    },
+    {
+        "name": "Paper Radio FM 91.1",
+        "city": "Radio Dukagjini FM 99.7",
+        "country": "Prishtina, Kosovo",
+        "url": "https://business.playfm.al:8040/paperplayprishtina"
+    },
+    {
+        "name": "Positive Gold Radio FM 101.7",
+        "city": "Prishtina",
+        "country": "Kosovo",
+        "url": "https://positivealtradio.streamguys1.com/positivegold"
+    },
+    {
+        "name": "Laki Radio FM 91.4",
+        "city": "Pejë",
+        "country": "Kosovo",
+        "url": "https://radiostream.cyou:8020/laki"
+    }
+]

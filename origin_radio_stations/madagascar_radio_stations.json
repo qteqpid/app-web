@@ -1,0 +1,262 @@
+[
+  {
+    "id": "madagascar-radio-don-bosco-fm-934",
+    "name": "Radio Don Bosco FM 93.4",
+    "url": "http://onair15.xdevel.com:9248/;stream.mp3",
+    "genre": "Music",
+    "city": "Antananarivo",
+    "country": "Madagascar",
+    "lat": -18.9100122,
+    "lng": 47.5255809
+  },
+  {
+    "id": "madagascar-radio-rna",
+    "name": "Radio RNA",
+    "url": "http://drs-live-rna.gasy-internet.info:9001/stream/",
+    "genre": "Music",
+    "city": "Antananarivo",
+    "country": "Madagascar",
+    "lat": -18.9100122,
+    "lng": 47.5255809
+  },
+  {
+    "id": "madagascar-soa-i-madagasikara",
+    "name": "Soa i Madagasikara",
+    "url": "http://planner.soaimadagasikara.org:8080/streaming",
+    "genre": "Music",
+    "city": "Antananarivo",
+    "country": "Madagascar",
+    "lat": -18.9100122,
+    "lng": 47.5255809
+  },
+  {
+    "id": "madagascar-radio-domoni-inter",
+    "name": "Radio Domoni Inter",
+    "url": "http://domoni-inter.org:8000/live",
+    "genre": "Music",
+    "city": "Majunga",
+    "country": "Madagascar",
+    "lat": -15.7181492,
+    "lng": 46.3172577
+  },
+  {
+    "id": "madagascar-rdj-fm-966",
+    "name": "RDJ FM 96.6",
+    "url": "http://rdj966.net:8000/rdj966.mp3",
+    "genre": "Music",
+    "city": "Antananarivo",
+    "country": "Madagascar",
+    "lat": -18.9100122,
+    "lng": 47.5255809
+  },
+  {
+    "id": "madagascar-radio-maria-madagascar",
+    "name": "Radio Maria Madagascar",
+    "url": "https://dreamsiteradiocp4.com/proxy/rmmadagascar?mp=/stream",
+    "genre": "Music",
+    "city": "Toamasina",
+    "country": "Madagascar",
+    "lat": -18.1553985,
+    "lng": 49.4098352
+  },
+  {
+    "id": "madagascar-rtv-soafia-103-fm",
+    "name": "RTV Soafia 103 FM",
+    "url": "http://102.16.44.51:8000/radiosoafia",
+    "genre": "Music",
+    "city": "Antananarivo",
+    "country": "Madagascar",
+    "lat": -18.9100122,
+    "lng": 47.5255809
+  },
+  {
+    "id": "madagascar-joy-radio-africa",
+    "name": "Joy Radio Africa",
+    "url": "https://audio-joyradioafricacom.bisericilive.com/joyradioafricacom.mp3",
+    "genre": "Music",
+    "city": "Antananarivo",
+    "country": "Madagascar",
+    "lat": -18.9100122,
+    "lng": 47.5255809
+  },
+  {
+    "id": "madagascar-sioka-fm-106",
+    "name": "Sioka FM 106",
+    "url": "https://securestreams.autopo.st:2584/",
+    "genre": "Music",
+    "city": "Antananarivo",
+    "country": "Madagascar",
+    "lat": -18.9100122,
+    "lng": 47.5255809
+  },
+  {
+    "id": "madagascar-radio-rock-madagascar",
+    "name": "Radio Rock Madagascar",
+    "url": "https://tanjona.radioca.st/stream",
+    "genre": "Music",
+    "city": "Antananarivo",
+    "country": "Madagascar",
+    "lat": -18.9100122,
+    "lng": 47.5255809
+  },
+  {
+    "id": "madagascar-sun-fm-mayotte",
+    "name": "SUN FM Mayotte",
+    "url": "https://listen.radioking.com/radio/669814/stream/733864",
+    "genre": "Music",
+    "city": "Antananarivo",
+    "country": "Madagascar",
+    "lat": -18.9100122,
+    "lng": 47.5255809
+  },
+  {
+    "id": "madagascar-radio-dracktrar-patsy-fm-980",
+    "name": "Radio Dracktrar Patsy FM 98.0",
+    "url": "https://stream-177.zeno.fm/gv2x4k52es8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJndjJ4NGs1MmVzOHV2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiWFI5S3prczBScy1IYjZWUUIyaGl1USIsImlhdCI6MTc2OTQyMDM5MiwiZXhwIjoxNzY5NDIwNDUyfQ.VtqoVIZb9cwazXFwwmPB4yeLlqe9F0mJ0xumNwVcsuk",
+    "genre": "Music",
+    "city": "Majunga",
+    "country": "Madagascar",
+    "lat": -15.7181492,
+    "lng": 46.3172577
+  },
+  {
+    "id": "madagascar-mayotte-1-fm-910",
+    "name": "Mayotte 1 FM 91.0",
+    "url": "https://mayotte.ice.infomaniak.ch/mayotte-128.mp3",
+    "genre": "Music",
+    "city": "Antananarivo",
+    "country": "Madagascar",
+    "lat": -18.9100122,
+    "lng": 47.5255809
+  },
+  {
+    "id": "madagascar-rs-mayotte",
+    "name": "RS-Mayotte",
+    "url": "https://radio.mayotte-streaming.com/8008/stream",
+    "genre": "Music",
+    "city": "Antsiranana",
+    "country": "Madagascar",
+    "lat": -12.2779632,
+    "lng": 49.2913743
+  },
+  {
+    "id": "madagascar-radiovazogasy",
+    "name": "RadioVazoGasy",
+    "url": "https://stream.radiovazogasy.com/stream",
+    "genre": "Music",
+    "city": "Antananarivo",
+    "country": "Madagascar",
+    "lat": -18.9100122,
+    "lng": 47.5255809
+  },
+  {
+    "id": "madagascar-hifi-radio",
+    "name": "Hi&Fi Radio",
+    "url": "https://listen.radioking.com/radio/52108/stream/89122",
+    "genre": "Music",
+    "city": "Antananarivo",
+    "country": "Madagascar",
+    "lat": -18.9100122,
+    "lng": 47.5255809
+  },
+  {
+    "id": "madagascar-radio-des-makes",
+    "name": "Radio Des Makes",
+    "url": "https://ecmanager2.pro-fhi.net/radiodesmakes",
+    "genre": "Music",
+    "city": "Fianarantsoa",
+    "country": "Madagascar",
+    "lat": -21.456444,
+    "lng": 47.085149
+  },
+  {
+    "id": "madagascar-radio-fmfoi-1074mhz",
+    "name": "Radio FMFOI 107.4MHz",
+    "url": "https://stream-167.zeno.fm/tc6qiq23sz2uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0YzZxaXEyM3N6MnV2IiwiaG9zdCI6InN0cmVhbS0xNjcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiZkZKQ3h6T3JUbVNzUUoyaWlXV0N1dyIsImlhdCI6MTc2OTQyMDM5NCwiZXhwIjoxNzY5NDIwNDU0fQ.1avxz28kWnMjxw-dGO0Z0MCS7ZTFTM-aV0sKmVvckeg",
+    "genre": "Music",
+    "city": "Majunga",
+    "country": "Madagascar",
+    "lat": -15.7181492,
+    "lng": 46.3172577
+  },
+  {
+    "id": "madagascar-rf-mayotte",
+    "name": "RF Mayotte",
+    "url": "https://radio.mayotte-streaming.com:10998/index.html",
+    "genre": "Music",
+    "city": "Antalaha",
+    "country": "Madagascar",
+    "lat": -14.9012302,
+    "lng": 50.2810433
+  },
+  {
+    "id": "madagascar-mbs-radio-954-fm",
+    "name": "MBS Radio 95.4 FM",
+    "url": "https://stream-178.zeno.fm/vrwc8iesy7fuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2cndjOGllc3k3ZnV2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoidkZCMnNJMzNUMU9XV1BZMzBDZTVfUSIsImlhdCI6MTc2OTQyMDM5NSwiZXhwIjoxNzY5NDIwNDU1fQ.t_acTVWFYMfYkViFfNC_DXumL50T9QvjsS3zLchBmvA",
+    "genre": "Music",
+    "city": "Antananarivo",
+    "country": "Madagascar",
+    "lat": -18.9100122,
+    "lng": 47.5255809
+  },
+  {
+    "id": "madagascar-alefamusic",
+    "name": "Alefamusic",
+    "url": "https://listen.radioking.com/radio/20/stream/70388",
+    "genre": "Music",
+    "city": "Antsiranana",
+    "country": "Madagascar",
+    "lat": -12.2779632,
+    "lng": 49.2913743
+  },
+  {
+    "id": "madagascar-radio-plus-mada-1002-fm",
+    "name": "Radio Plus Mada 100.2 FM",
+    "url": "https://stream-176.zeno.fm/t7m92zmhdc9uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0N205MnptaGRjOXV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiMDI5QXJvN2lSQWU5SnVRNjBHWTQ0ZyIsImlhdCI6MTc2OTQyMDM5NSwiZXhwIjoxNzY5NDIwNDU1fQ.dw9Qr5u-Qk20Hkr68FNb6vEqazw2Rzh-Ib66pvkWrpo",
+    "genre": "Music",
+    "city": "Antananarivo",
+    "country": "Madagascar",
+    "lat": -18.9100122,
+    "lng": 47.5255809
+  },
+  {
+    "id": "madagascar-rmv-fm-1025-radio-mirereni-village",
+    "name": "RMV FM 102.5 Radio Miréréni Village",
+    "url": "https://live.myradio.yt:1100/stream",
+    "genre": "Music",
+    "city": "Antananarivo",
+    "country": "Madagascar",
+    "lat": -18.9100122,
+    "lng": 47.5255809
+  },
+  {
+    "id": "madagascar-radio-emia-fm-880",
+    "name": "Radio Emia FM 88.0",
+    "url": "https://emiaradio.ice.infomaniak.ch/emiaradio-48.aac",
+    "genre": "Music",
+    "city": "Antananarivo",
+    "country": "Madagascar",
+    "lat": -18.9100122,
+    "lng": 47.5255809
+  },
+  {
+    "id": "madagascar-radio-pikan-fm-89",
+    "name": "Radio Pikan FM 89",
+    "url": "https://stream4.vestaradio.com/RADIOPIKAN",
+    "genre": "Music",
+    "city": "Toamasina",
+    "country": "Madagascar",
+    "lat": -18.1553985,
+    "lng": 49.4098352
+  },
+  {
+    "id": "madagascar-kwezi-fm",
+    "name": "Kwezi FM",
+    "url": "https://kwezifm.ice.infomaniak.ch/kwezifm-128.mp3",
+    "genre": "Music",
+    "city": "Ambositra",
+    "country": "Madagascar",
+    "lat": -20.5611344,
+    "lng": 47.3709571
+  }
+]

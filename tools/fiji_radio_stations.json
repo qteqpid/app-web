@@ -1,0 +1,302 @@
+[
+    {
+        "name": "Radio Fiji GOLD FM 100.4",
+        "city": "Suva",
+        "country": "Fiji",
+        "url": "http://peridot.streamguys.com:7150/Gold"
+    },
+    {
+        "name": "Radio 2Day FM",
+        "city": "Suva",
+        "country": "Fiji",
+        "url": "http://peridot.streamguys.com:7150/2Day"
+    },
+    {
+        "name": "Radio Fiji Two",
+        "city": "Suva",
+        "country": "Fiji",
+        "url": "http://peridot.streamguys.com:7150/RFTwo"
+    },
+    {
+        "name": "Bula FM 102.0",
+        "city": "Suva",
+        "country": "Fiji",
+        "url": "http://peridot.streamguys.com:7150/Bula"
+    },
+    {
+        "name": "Radio Fiji ONE FM 107.4",
+        "city": "Suva",
+        "country": "Fiji",
+        "url": "http://peridot.streamguys.com:7150/RFOne"
+    },
+    {
+        "name": "Island Base FM",
+        "city": "Nasinu",
+        "country": "Fiji",
+        "url": "https://streams.islandbasefm.com:8443/stream"
+    },
+    {
+        "name": "NIA Radio - Europe",
+        "city": "Suva",
+        "country": "Fiji",
+        "url": "https://radio.nia.nc/radio/8010/europe-hq-stream.aac"
+    },
+    {
+        "name": "NIA Radio - LoFi",
+        "city": "Nasinu",
+        "country": "Fiji",
+        "url": "https://radio.nia.nc/radio/8020/lofi-hq-stream.aac"
+    },
+    {
+        "name": "Awa Whanui Big River FM",
+        "city": "Suva",
+        "country": "Fiji",
+        "url": "http://bigriver.broadcast.co.nz/bigriverfm"
+    },
+    {
+        "name": "Life FM Fiji",
+        "city": "Suva",
+        "country": "Fiji",
+        "url": "https://stream1.rcast.net/65809"
+    },
+    {
+        "name": "Caribeña 97.9 FM",
+        "city": "Punto Fijo",
+        "country": "Venezuela",
+        "url": "https://stream-179.zeno.fm/ym8zpzaxav8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5bTh6cHpheGF2OHV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiU1dCZG5tNjBSUGUtemFJRTY5ZHNTQSIsImlhdCI6MTc2OTQxODQ2MywiZXhwIjoxNzY5NDE4NTIzfQ.QOfxddXtlNyIW1jdRBo3deyLOItLS4yG6oZqDqP-sjc"
+    },
+    {
+        "name": "The Wireless 90.4FM",
+        "city": "Nasinu",
+        "country": "Fiji",
+        "url": "https://thewireless.radioca.st/stream"
+    },
+    {
+        "name": "RADIO Sargam",
+        "city": "Suva",
+        "country": "Fiji",
+        "url": "https://n02.rcs.revma.com/8a38ru8a303vv?rj-ttl=5&rj-tok=AAABm_mYPbgAweSkzyAjzPL9xg"
+    },
+    {
+        "name": "FM96",
+        "city": "Suva",
+        "country": "Fiji",
+        "url": "https://n02.rcs.revma.com/q8txpfyyay3vv?rj-ttl=5&rj-tok=AAABm_mYPaYAPHK9jFxm0mXdhg"
+    },
+    {
+        "name": "Navtarang",
+        "city": "Suva",
+        "country": "Fiji",
+        "url": "https://n15.rcs.revma.com/5f56gd8a303vv?rj-ttl=5&rj-tok=AAABm_mYPbwAynwZI0KouYCXFA"
+    },
+    {
+        "name": "Legend FM",
+        "city": "Suva",
+        "country": "Fiji",
+        "url": "https://n02.rcs.revma.com/7wnnz47a303vv?rj-ttl=5&rj-tok=AAABm_mYPaoALIY72SA7zmVFSw"
+    },
+    {
+        "name": "VITI FM",
+        "city": "Suva",
+        "country": "Fiji",
+        "url": "https://n02.rcs.revma.com/3c11kc9a303vv?rj-ttl=5&rj-tok=AAABm_mYPa8A1VQtvYI7rJYXDQ"
+    },
+    {
+        "name": "Mambo 94.9 FM",
+        "city": "Punto Fijo",
+        "country": "Venezuela",
+        "url": "https://streamingned.com:7170/stream"
+    },
+    {
+        "name": "La FM Mundial 93.7",
+        "city": "Punto Fijo",
+        "country": "Venezuela",
+        "url": "https://streamingned.com:7074/stream"
+    },
+    {
+        "name": "Fresh FM 104.3",
+        "city": "Punto Fijo",
+        "country": "Venezuela",
+        "url": "http://fresharuba.com:8006/stream"
+    },
+    {
+        "name": "Xtrema 98.9 FM",
+        "city": "Punto Fijo",
+        "country": "Venezuela",
+        "url": "https://app0102.sonicpanelradio.com/8782/stream"
+    },
+    {
+        "name": "Kayros 106.3 FM",
+        "city": "Punto Fijo",
+        "country": "Venezuela",
+        "url": "https://vps-1925b156.vps.ovh.ca/kayros"
+    },
+    {
+        "name": "Besser 97.5 FM",
+        "city": "Punto Fijo",
+        "country": "Venezuela",
+        "url": "https://audio.besser975fm.com/"
+    },
+    {
+        "name": "Radio A",
+        "city": "Fivizzano",
+        "country": "Italy",
+        "url": "https://nr14.newradio.it/proxy/associa8/stream"
+    },
+    {
+        "name": "Radio LN",
+        "city": "Fivizzano",
+        "country": "Italy",
+        "url": "https://s42.radiolize.com/radio/8050/radio.mp3"
+    },
+    {
+        "name": "RDS FM 103.0",
+        "city": "Fivizzano",
+        "country": "Italy",
+        "url": "https://icstream.rds.radio/rds"
+    },
+    {
+        "name": "RLV",
+        "city": "Fivizzano",
+        "country": "Italy",
+        "url": "https://onair15.xdevel.com/proxy/radiolevantovaldivara?mp=/;stream"
+    },
+    {
+        "name": "La Salsera FM",
+        "city": "Punto Fijo",
+        "country": "Venezuela",
+        "url": "https://stream-151.zeno.fm/4qbzbrvdmy8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0cWJ6YnJ2ZG15OHV2IiwiaG9zdCI6InN0cmVhbS0xNTEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiOHhPTDNVTGxRbGVIRTZoNWdaZ2ZRQSIsImlhdCI6MTc2OTQxODQ2NSwiZXhwIjoxNzY5NDE4NTI1fQ.6oRKliRRJaGJxZfUM44cFK942s2pXo0CF4nDvqjzn7U"
+    },
+    {
+        "name": "Radionova FM 94.3",
+        "city": "Fivizzano",
+        "country": "Italy",
+        "url": "https://s4.shoutitaly.com/listen/radionova/radio.mp3"
+    },
+    {
+        "name": "Radio Sangeet Masti",
+        "city": "Nasinu",
+        "country": "Fiji",
+        "url": "https://servidor19.brlogic.com:7304/live"
+    },
+    {
+        "name": "ZuidWest FM",
+        "city": "Fijnaart",
+        "country": "Netherlands",
+        "url": "https://icecast.zuidwestfm.nl/zuidwest.aac"
+    },
+    {
+        "name": "Mirchi FM Fiji",
+        "city": "Suva",
+        "country": "Fiji",
+        "url": "https://peridot.streamguys1.com:7155/MirchiFiji"
+    },
+    {
+        "name": "Radio Elle",
+        "city": "Fivizzano",
+        "country": "Italy",
+        "url": "https://mmediassl.rtvweb.com:9100/radioelle"
+    },
+    {
+        "name": "94.1 La FM",
+        "city": "Punto Fijo",
+        "country": "Venezuela",
+        "url": "https://acp2.lorini.net:27080/stream"
+    },
+    {
+        "name": "Fiesta Latina FM 106.1",
+        "city": "Punto Fijo",
+        "country": "Venezuela",
+        "url": "https://stream-141.zeno.fm/e2kzfpr34d0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJlMmt6ZnByMzRkMHV2IiwiaG9zdCI6InN0cmVhbS0xNDEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiRGFIaTRKLV9TQ0tjVkxVZFRwNjlnZyIsImlhdCI6MTc2OTQxODQ2NiwiZXhwIjoxNzY5NDE4NTI2fQ.ckmA4G1MCX038vysh6musRQ88hvV3yyoYrwl1b9eWgQ"
+    },
+    {
+        "name": "Rai Radio 2",
+        "city": "Fivizzano",
+        "country": "Italy",
+        "url": "https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S35942484/yp5F67151K92/icecast"
+    },
+    {
+        "name": "Rai Radio 3",
+        "city": "Fivizzano",
+        "country": "Italy",
+        "url": "https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S56630579/yEbkcBtIoSwd/icecast"
+    },
+    {
+        "name": "Exitos FM 99.9",
+        "city": "Punto Fijo",
+        "country": "Venezuela",
+        "url": "https://acp4.lorini.net:2070/stream"
+    },
+    {
+        "name": "Radio Suc6",
+        "city": "Fijnaart",
+        "country": "Netherlands",
+        "url": "https://stream.radiosuc6.nl/radiosuc6"
+    },
+    {
+        "name": "Onda La Superestación 107.3 FM",
+        "city": "Punto Fijo",
+        "country": "Venezuela",
+        "url": "https://acp4.lorini.net:2060/stream"
+    },
+    {
+        "name": "Radio Rucphen 106.4 FM",
+        "city": "Fijnaart",
+        "country": "Netherlands",
+        "url": "https://stream.rucphenrtv.nl/radiorucphen.mp3"
+    },
+    {
+        "name": "Rai Radio 1",
+        "city": "Fivizzano",
+        "country": "Italy",
+        "url": "https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S16355530/Q4zh3NTu28Rx/icecast"
+    },
+    {
+        "name": "Radio Hoeksche Waard",
+        "city": "Fijnaart",
+        "country": "Netherlands",
+        "url": "https://cloud-faro.beheerstream.com/proxy/omroephw?mp=/live"
+    },
+    {
+        "name": "NPO Radio 1",
+        "city": "Fijnaart",
+        "country": "Netherlands",
+        "url": "https://icecast.omroep.nl/radio1-sb-mp3"
+    },
+    {
+        "name": "NPO Radio 2",
+        "city": "Fijnaart",
+        "country": "Netherlands",
+        "url": "https://icecast.omroep.nl/radio2-bb-mp3"
+    },
+    {
+        "name": "4EVER49 Radio",
+        "city": "Fijnaart",
+        "country": "Netherlands",
+        "url": "https://22193.live.streamtheworld.com:443/4EVER49.mp3?dist=portals"
+    },
+    {
+        "name": "Radio 538",
+        "city": "Fijnaart",
+        "country": "Netherlands",
+        "url": "https://28513.live.streamtheworld.com:443/RADIO538.mp3?dist=radiogarden"
+    },
+    {
+        "name": "BNR Nieuwsradio",
+        "city": "Fijnaart",
+        "country": "Netherlands",
+        "url": "https://28993.live.streamtheworld.com:443/BNR_NIEUWSRADIO.mp3"
+    },
+    {
+        "name": "JOE",
+        "city": "Fijnaart",
+        "country": "Netherlands",
+        "url": "https://icecast-qmusicnl-cdp.triple-it.nl/Joe_nl.mp3"
+    },
+    {
+        "name": "RTV Albrandswaard",
+        "city": "Fijnaart",
+        "country": "Netherlands",
+        "url": "https://streamer.hosting078.nl:1855/stream"
+    }
+]

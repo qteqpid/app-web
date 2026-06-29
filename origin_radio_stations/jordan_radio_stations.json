@@ -1,0 +1,262 @@
+[
+  {
+    "id": "jordan-rotana-radio-fm-999",
+    "name": "Rotana Radio FM 99.9",
+    "url": "http://45.63.116.205:8000/stream",
+    "genre": "Music",
+    "city": "Amman",
+    "country": "Jordan",
+    "lat": 31.9515694,
+    "lng": 35.9239625
+  },
+  {
+    "id": "jordan-melody-fm-911",
+    "name": "Melody FM 91.1",
+    "url": "http://s3.voscast.com:9966/;stream.mp3",
+    "genre": "Music",
+    "city": "Amman",
+    "country": "Jordan",
+    "lat": 31.9515694,
+    "lng": 35.9239625
+  },
+  {
+    "id": "jordan-fabulousxm",
+    "name": "FABULOUSXM",
+    "url": "http://s3.voscast.com:9830/;stream.mp3",
+    "genre": "Music",
+    "city": "Amman",
+    "country": "Jordan",
+    "lat": 31.9515694,
+    "lng": 35.9239625
+  },
+  {
+    "id": "jordan-radio-kol-rega",
+    "name": "Radio Kol Rega",
+    "url": "https://radio.streamgates.net/stream/KOLREGA",
+    "genre": "Music",
+    "city": "Amman",
+    "country": "Jordan",
+    "lat": 31.9515694,
+    "lng": 35.9239625
+  },
+  {
+    "id": "jordan-radio-orient-fm-987",
+    "name": "Radio Orient FM 98.7",
+    "url": "http://streamer.mada.ps:8034/orient",
+    "genre": "Music",
+    "city": "Amman",
+    "country": "Jordan",
+    "lat": 31.9515694,
+    "lng": 35.9239625
+  },
+  {
+    "id": "jordan-jordan-university-fm-949",
+    "name": "Jordan University FM 94.9",
+    "url": "http://jufmstreaming.ju.edu.jo/?type=http&nocache=32",
+    "genre": "Music",
+    "city": "Amman",
+    "country": "Jordan",
+    "lat": 31.9515694,
+    "lng": 35.9239625
+  },
+  {
+    "id": "jordan-hr",
+    "name": "HR",
+    "url": "https://hr.ps/stream",
+    "genre": "Music",
+    "city": "Amman",
+    "country": "Jordan",
+    "lat": 31.9515694,
+    "lng": 35.9239625
+  },
+  {
+    "id": "jordan-beat-fm-1025",
+    "name": "Beat FM 102.5",
+    "url": "https://securestreams2.autopo.st:1242/live",
+    "genre": "Music",
+    "city": "Amman",
+    "country": "Jordan",
+    "lat": 31.9515694,
+    "lng": 35.9239625
+  },
+  {
+    "id": "jordan-mood-fm",
+    "name": "Mood FM",
+    "url": "https://securestreams2.autopo.st:1241/live",
+    "genre": "Music",
+    "city": "Amman",
+    "country": "Jordan",
+    "lat": 31.9515694,
+    "lng": 35.9239625
+  },
+  {
+    "id": "jordan-drdchati-radio",
+    "name": "Drdchati Radio",
+    "url": "https://radio.gorlk.net/drdchati",
+    "genre": "Music",
+    "city": "Amman",
+    "country": "Jordan",
+    "lat": 31.9515694,
+    "lng": 35.9239625
+  },
+  {
+    "id": "jordan-torah-box-radio",
+    "name": "Torah-Box Radio",
+    "url": "https://radio.torah-box.com:8443/_a",
+    "genre": "Music",
+    "city": "Amman",
+    "country": "Jordan",
+    "lat": 31.9515694,
+    "lng": 35.9239625
+  },
+  {
+    "id": "jordan-radio-hala",
+    "name": "Radio Hala",
+    "url": "https://hala-alrayamedia.radioca.st/index.html?sid=1",
+    "genre": "Music",
+    "city": "Amman",
+    "country": "Jordan",
+    "lat": 31.9515694,
+    "lng": 35.9239625
+  },
+  {
+    "id": "jordan-bliss-fm-1043",
+    "name": "Bliss FM 104.3",
+    "url": "https://bliss1-alrayamedia.radioca.st/index.html?sid=1",
+    "genre": "Music",
+    "city": "Amman",
+    "country": "Jordan",
+    "lat": 31.9515694,
+    "lng": 35.9239625
+  },
+  {
+    "id": "jordan-ain-fm-983",
+    "name": "Ain FM 98.3",
+    "url": "https://radio.ainfm.site/ainfm",
+    "genre": "Music",
+    "city": "Amman",
+    "country": "Jordan",
+    "lat": 31.9515694,
+    "lng": 35.9239625
+  },
+  {
+    "id": "jordan-hayat-fm-1047",
+    "name": "Hayat FM 104.7",
+    "url": "https://dc1.serverse.com/proxy/kjxwtpdt/stream",
+    "genre": "Music",
+    "city": "Amman",
+    "country": "Jordan",
+    "lat": 31.9515694,
+    "lng": 35.9239625
+  },
+  {
+    "id": "jordan-radio-fann-fm-1042",
+    "name": "Radio Fann FM 104.2",
+    "url": "http://45.63.116.205:8000/stream2",
+    "genre": "Music",
+    "city": "Amman",
+    "country": "Jordan",
+    "lat": 31.9515694,
+    "lng": 35.9239625
+  },
+  {
+    "id": "jordan-play-995",
+    "name": "Play 99.5",
+    "url": "https://play995.radioca.st//stream",
+    "genre": "Music",
+    "city": "Amman",
+    "country": "Jordan",
+    "lat": 31.9515694,
+    "lng": 35.9239625
+  },
+  {
+    "id": "jordan-hawa-dijlah-fm-1005",
+    "name": "Hawa Dijlah FM 100.5",
+    "url": "https://listen.radioking.com/radio/96766/stream/136027",
+    "genre": "Music",
+    "city": "Amman",
+    "country": "Jordan",
+    "lat": 31.9515694,
+    "lng": 35.9239625
+  },
+  {
+    "id": "jordan-nai-fm-1015",
+    "name": "Nai FM 101.5",
+    "url": "https://naifm.radioca.st/index.html?sid=1",
+    "genre": "Music",
+    "city": "Amman",
+    "country": "Jordan",
+    "lat": 31.9515694,
+    "lng": 35.9239625
+  },
+  {
+    "id": "jordan-kan-reshet-bet",
+    "name": "Kan Reshet Bet",
+    "url": "https://29073.live.streamtheworld.com:443/KAN_BET.mp3",
+    "genre": "Music",
+    "city": "Amman",
+    "country": "Jordan",
+    "lat": 31.9515694,
+    "lng": 35.9239625
+  },
+  {
+    "id": "jordan-jordanian-academy-of-arabic-language-radio-1029",
+    "name": "Jordanian Academy of Arabic Language Radio 102.9",
+    "url": "https://eu9.fastcast4u.com/proxy/arabicla?mp=/1",
+    "genre": "Music",
+    "city": "Amman",
+    "country": "Jordan",
+    "lat": 31.9515694,
+    "lng": 35.9239625
+  },
+  {
+    "id": "jordan-وتر-فم",
+    "name": "وتر ف.م",
+    "url": "https://securestreams2.autopo.st:1243/live",
+    "genre": "Music",
+    "city": "Amman",
+    "country": "Jordan",
+    "lat": 31.9515694,
+    "lng": 35.9239625
+  },
+  {
+    "id": "jordan-noon-1031-fm",
+    "name": "Noon 103.1 FM",
+    "url": "https://radionoon.radioca.st/index.html?sid=1",
+    "genre": "Music",
+    "city": "Amman",
+    "country": "Jordan",
+    "lat": 31.9515694,
+    "lng": 35.9239625
+  },
+  {
+    "id": "jordan-jeish-fm-1079",
+    "name": "Jeish FM 107.9",
+    "url": "https://jeishfm-alrayamedia.radioca.st/index.html?sid=1",
+    "genre": "Music",
+    "city": "Amman",
+    "country": "Jordan",
+    "lat": 31.9515694,
+    "lng": 35.9239625
+  },
+  {
+    "id": "jordan-mazaj-fm-953",
+    "name": "Mazaj FM 95.3",
+    "url": "https://mazajfm.ice.infomaniak.ch/mazajfm-192.mp3",
+    "genre": "Music",
+    "city": "Amman",
+    "country": "Jordan",
+    "lat": 31.9515694,
+    "lng": 35.9239625
+  },
+  {
+    "id": "jordan-radio-dahab",
+    "name": "Radio Dahab",
+    "url": "https://dahab.ice.infomaniak.ch/dahab-192.mp3",
+    "genre": "Music",
+    "city": "Amman",
+    "country": "Jordan",
+    "lat": 31.9515694,
+    "lng": 35.9239625
+  }
+]

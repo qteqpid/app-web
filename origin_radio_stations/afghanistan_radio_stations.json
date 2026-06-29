@@ -1,0 +1,232 @@
+[
+  {
+    "id": "afghanistan-lbc-london",
+    "name": "LBC London",
+    "url": "https://media-the.musicradio.com/LBCLondon",
+    "genre": "Music",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.5074456,
+    "lng": -0.1277653
+  },
+  {
+    "id": "afghanistan-lbc-uk",
+    "name": "LBC UK",
+    "url": "https://media-ice.musicradio.com/LBCUKMP3Low",
+    "genre": "Music",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.5074456,
+    "lng": -0.1277653
+  },
+  {
+    "id": "afghanistan-classic-fm",
+    "name": "Classic FM",
+    "url": "https://media-ice.musicradio.com/ClassicFMMP3",
+    "genre": "Music",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.5074456,
+    "lng": -0.1277653
+  },
+  {
+    "id": "afghanistan-fm-101-mianwali",
+    "name": "FM 101 Mianwali",
+    "url": "https://whmsonic.radio.gov.pk:8028/relay/",
+    "genre": "Music",
+    "city": "Kabul",
+    "country": "Afghanistan",
+    "lat": 34.5269503,
+    "lng": 69.1850584
+  },
+  {
+    "id": "afghanistan-fm-101",
+    "name": "FM-101",
+    "url": "https://whmsonic.radio.gov.pk:8024/relay/",
+    "genre": "Music",
+    "city": "Kabul",
+    "country": "Afghanistan",
+    "lat": 34.5269503,
+    "lng": 69.1850584
+  },
+  {
+    "id": "afghanistan-fm-101-multan",
+    "name": "FM-101 Multan",
+    "url": "https://whmsonic.radio.gov.pk:7014/stream/",
+    "genre": "Music",
+    "city": "Kabul",
+    "country": "Afghanistan",
+    "lat": 34.5269503,
+    "lng": 69.1850584
+  },
+  {
+    "id": "afghanistan-aaja-channel-2",
+    "name": "Aaja Channel 2",
+    "url": "https://aaja-2.radiocult.fm/stream",
+    "genre": "Music",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.5074456,
+    "lng": -0.1277653
+  },
+  {
+    "id": "afghanistan-ncac-news-and-current-affairs-channel",
+    "name": "NCAC News and Current affairs channel",
+    "url": "https://whmsonic.radio.gov.pk:7004/stream/",
+    "genre": "Music",
+    "city": "Kabul",
+    "country": "Afghanistan",
+    "lat": 34.5269503,
+    "lng": 69.1850584
+  },
+  {
+    "id": "afghanistan-bol-fm-88",
+    "name": "Bol FM 88",
+    "url": "https://stream.reinflux.com/radio/8050/radio.mp3",
+    "genre": "Music",
+    "city": "Kabul",
+    "country": "Afghanistan",
+    "lat": 34.5269503,
+    "lng": 69.1850584
+  },
+  {
+    "id": "afghanistan-futuredrumz",
+    "name": "FutureDrumz",
+    "url": "https://futuredr.radioca.st/index.html?sid=1",
+    "genre": "Music",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.5074456,
+    "lng": -0.1277653
+  },
+  {
+    "id": "afghanistan-سلام-وطندار-radio-salam-watandar-fm-989",
+    "name": "سلام وطندار Radio Salam Watandar FM 98.9",
+    "url": "https://s10.myradiostream.com/:12238/index.html?sid=1",
+    "genre": "Music",
+    "city": "Kabul",
+    "country": "Afghanistan",
+    "lat": 34.5269503,
+    "lng": 69.1850584
+  },
+  {
+    "id": "afghanistan-surrey-hills-radio",
+    "name": "Surrey Hills Radio",
+    "url": "http://philae.shoutca.st:9035/stream",
+    "genre": "Music",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.5074456,
+    "lng": -0.1277653
+  },
+  {
+    "id": "afghanistan-capital-xtra",
+    "name": "Capital Xtra",
+    "url": "https://media-ice.musicradio.com/CapitalXTRANationalMP3?.mp3",
+    "genre": "Music",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.5074456,
+    "lng": -0.1277653
+  },
+  {
+    "id": "afghanistan-forest-one",
+    "name": "Forest One",
+    "url": "https://c2.prostream365.com:8010/live",
+    "genre": "Music",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.5074456,
+    "lng": -0.1277653
+  },
+  {
+    "id": "afghanistan-heart-80s-radio",
+    "name": "Heart 80s Radio",
+    "url": "https://media-ssl.musicradio.com/Heart80s",
+    "genre": "Music",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.5074456,
+    "lng": -0.1277653
+  },
+  {
+    "id": "afghanistan-london-soul-radio",
+    "name": "London Soul Radio",
+    "url": "https://londonsoulradio.out.airtime.pro/londonsoulradio_a",
+    "genre": "Music",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.5074456,
+    "lng": -0.1277653
+  },
+  {
+    "id": "afghanistan-bbc-world-service",
+    "name": "BBC World Service",
+    "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
+    "genre": "Music",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.5074456,
+    "lng": -0.1277653
+  },
+  {
+    "id": "afghanistan-reinforced-radio",
+    "name": "Reinforced Radio",
+    "url": "https://broadcast.shoutstream.co.uk:8012/stream",
+    "genre": "Music",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.5074456,
+    "lng": -0.1277653
+  },
+  {
+    "id": "afghanistan-moon-phase-radio",
+    "name": "Moon Phase Radio",
+    "url": "https://cp12.serverse.com/proxy/moonphase/stream",
+    "genre": "Music",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.5074456,
+    "lng": -0.1277653
+  },
+  {
+    "id": "afghanistan-afghanistan-international-801-am",
+    "name": "Afghanistan International 801 AM",
+    "url": "https://n0d.radiojar.com/vemf3w2rv38uv?rj-ttl=5&rj-tok=AAABm_lz3P4AXORfN0nbtvcuOQ",
+    "genre": "Music",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.5074456,
+    "lng": -0.1277653
+  },
+  {
+    "id": "afghanistan-polskie-radio-londyn",
+    "name": "Polskie Radio Londyn",
+    "url": "https://n08.rcs.revma.com/prfmwmwy768uv?rj-ttl=5&rj-tok=AAABm_lz2gYAG9Y_11EHtnFs_Q",
+    "genre": "Music",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.5074456,
+    "lng": -0.1277653
+  },
+  {
+    "id": "afghanistan-radio-biafra",
+    "name": "radio biafra",
+    "url": "https://17653.live.streamtheworld.com:443/SP_R3546957_SC",
+    "genre": "Music",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.5074456,
+    "lng": -0.1277653
+  },
+  {
+    "id": "afghanistan-thames-fm-london",
+    "name": "Thames FM London",
+    "url": "https://streamer.radio.co/s7379f3184/listen",
+    "genre": "Music",
+    "city": "London",
+    "country": "United Kingdom",
+    "lat": 51.5074456,
+    "lng": -0.1277653
+  }
+]

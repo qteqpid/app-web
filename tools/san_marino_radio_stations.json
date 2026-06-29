@@ -1,0 +1,1070 @@
+[
+    {
+        "name": "Radio Milano Marittima",
+        "city": "Città di San Marino",
+        "country": "San Marino",
+        "url": "http://nr6.newradio.it:9120/"
+    },
+    {
+        "name": "RDS FM 103.0",
+        "city": "Cazzago San Martino",
+        "country": "Italy",
+        "url": "https://icstream.rds.radio/rds"
+    },
+    {
+        "name": "Radio Talpa",
+        "city": "Città di San Marino",
+        "country": "San Marino",
+        "url": "http://radiotalpa.it:8000/live_192"
+    },
+    {
+        "name": "Radio Raffaella Uno FM 87.5",
+        "city": "San Martino Valle Caudina",
+        "country": "Italy",
+        "url": "http://sr2.webradionetwork.eu:8123/stream/"
+    },
+    {
+        "name": "Radio ECZ ...inBlu",
+        "city": "Cazzago San Martino",
+        "country": "Italy",
+        "url": "http://nr2.newradio.it:8016/xstream"
+    },
+    {
+        "name": "Radio Valle Camonica",
+        "city": "Cazzago San Martino",
+        "country": "Italy",
+        "url": "https://onair20.xdevel.com/proxy/vallecamonica?mp=/;stream/;"
+    },
+    {
+        "name": "Radio Bresciasette",
+        "city": "Cazzago San Martino",
+        "country": "Italy",
+        "url": "https://nmcdn-3177cee185284d2990021eccc8b06ae6.msvdn.net/icecastRelay/S40405633/awErq1X8tY5P/icecast"
+    },
+    {
+        "name": "ADMR Web Rock Radio",
+        "city": "Cazzago San Martino",
+        "country": "Italy",
+        "url": "https://nr8.newradio.it/proxy/studioar?mp=/stream"
+    },
+    {
+        "name": "Radio Città Caudina",
+        "city": "San Martino Valle Caudina",
+        "country": "Italy",
+        "url": "https://nr14.newradio.it:8579/stream"
+    },
+    {
+        "name": "Radio Brusa",
+        "city": "Cazzago San Martino",
+        "country": "Italy",
+        "url": "https://stream10.xdevel.com/audio0s977540-2090/stream/icecast.audio"
+    },
+    {
+        "name": "Radio Base",
+        "city": "San Martino Valle Caudina",
+        "country": "Italy",
+        "url": "https://rorina.azotosolutions.com:8000/radio.mp3"
+    },
+    {
+        "name": "Radio Company Compania",
+        "city": "San Martino Valle Caudina",
+        "country": "Italy",
+        "url": "https://ice02.fluidstream.net/cradio.aac"
+    },
+    {
+        "name": "Radio Medua FM 88.7",
+        "city": "San Martino di Taurianova",
+        "country": "Italy",
+        "url": "http://5.135.39.189:8030/stream"
+    },
+    {
+        "name": "Radio Gamma",
+        "city": "Città di San Marino",
+        "country": "San Marino",
+        "url": "https://stream10.xdevel.com/audio0s977468-2028/stream/icecast.audio"
+    },
+    {
+        "name": "Rai Radio 3",
+        "city": "Cazzago San Martino",
+        "country": "Italy",
+        "url": "https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S56630579/yEbkcBtIoSwd/icecast"
+    },
+    {
+        "name": "Rai Radio 2",
+        "city": "Cazzago San Martino",
+        "country": "Italy",
+        "url": "https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S35942484/yp5F67151K92/icecast"
+    },
+    {
+        "name": "Radio Bornato",
+        "city": "Cazzago San Martino",
+        "country": "Italy",
+        "url": "https://nrf1.newradio.it:9772/stream"
+    },
+    {
+        "name": "Radio Citta' Sottile",
+        "city": "San Martino di Taurianova",
+        "country": "Italy",
+        "url": "https://ec5.yesstreaming.net:1515/stream"
+    },
+    {
+        "name": "USMARADIO",
+        "city": "Città di San Marino",
+        "country": "San Marino",
+        "url": "https://usmaradio.out.airtime.pro:8000/usmaradio_a"
+    },
+    {
+        "name": "Radio Venere",
+        "city": "San Martino di Taurianova",
+        "country": "Italy",
+        "url": "http://51.254.76.66:8014/index.html?sid=1"
+    },
+    {
+        "name": "Radio Studio 54 Network FM 101.8",
+        "city": "San Martino di Taurianova",
+        "country": "Italy",
+        "url": "https://onair22.xdevel.com/proxy/studio54mp3?mp=/;stream"
+    },
+    {
+        "name": "Rai Radio 1",
+        "city": "Cazzago San Martino",
+        "country": "Italy",
+        "url": "https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S16355530/Q4zh3NTu28Rx/icecast"
+    },
+    {
+        "name": "Cosmic Fringe Radio",
+        "city": "Città di San Marino",
+        "country": "San Marino",
+        "url": "https://19003.live.streamtheworld.com:443/SAM10AAC202_SC"
+    },
+    {
+        "name": "Radio Punto Zero",
+        "city": "San Martino Valle Caudina",
+        "country": "Italy",
+        "url": "https://stream9.xdevel.com/audio0s976836-1615/stream/icecast.audio"
+    },
+    {
+        "name": "Radio Centrale Cesena",
+        "city": "Città di San Marino",
+        "country": "San Marino",
+        "url": "https://ice03.fluidstream.net/fluid03_9090.aac"
+    },
+    {
+        "name": "Palabre FM 92.2",
+        "city": "San",
+        "country": "Mali",
+        "url": "https://stream-178.zeno.fm/581q2b6cay8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI1ODFxMmI2Y2F5OHV2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiV3VZdGx2MjFSRjJyZ1FUM0MtU3NGdyIsImlhdCI6MTc2OTQyMjU0MSwiZXhwIjoxNzY5NDIyNjAxfQ.HC9RTnFAeqI6fLWK_4vxXOD-csKn3GrC_YUOSvAz560"
+    },
+    {
+        "name": "Info Radio 91.1 FM",
+        "city": "San",
+        "country": "Mali",
+        "url": "https://stream-176.zeno.fm/ey34mac27vzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJleTM0bWFjMjd2enV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiRENVZmFaVUlRVXlhVGFnVTBqT2pqQSIsImlhdCI6MTc2OTQyMjU0MiwiZXhwIjoxNzY5NDIyNjAyfQ.Y62jX600dw5q53PbzVl_FAmLXeDW8X8fszWEU0KFHRo"
+    },
+    {
+        "name": "KVVN",
+        "city": "San Francisco CA",
+        "country": "United States",
+        "url": "https://us2.maindigitalstream.com/ssl/KVVN"
+    },
+    {
+        "name": "Soma FM The Dark Zone",
+        "city": "San Francisco CA",
+        "country": "United States",
+        "url": "https://ice6.somafm.com/darkzone-128-mp3"
+    },
+    {
+        "name": "Radio Iqra 96.1 FM",
+        "city": "San",
+        "country": "Mali",
+        "url": "https://stream-179.zeno.fm/ghjewb6oraitv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJnaGpld2I2b3JhaXR2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoib1JTOGlJdVdTbWFwQkR0Mk1JME5nZyIsImlhdCI6MTc2OTQyMjU0MSwiZXhwIjoxNzY5NDIyNjAxfQ.SpdKzk7u6cHOnKXrQ89hFHsOwB1Lhoh28pvuaKQOqVA"
+    },
+    {
+        "name": "BFF.FM",
+        "city": "San Francisco CA",
+        "country": "United States",
+        "url": "https://ais-sa2.cdnstream1.com/2053_128.mp3?cache=75e7c7867470ea93"
+    },
+    {
+        "name": "Pognere FM 100.2",
+        "city": "San",
+        "country": "Mali",
+        "url": "https://stream-178.zeno.fm/74514wb9yy8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI3NDUxNHdiOXl5OHV2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiMERTd2JlVS1Rak8xTEkwRndrWEg4ZyIsImlhdCI6MTc2OTQyMjU0MSwiZXhwIjoxNzY5NDIyNjAxfQ.2e7cL9E2IfgWpDIXMLkNYvkLtj5lCisT02XjRP2eZhw"
+    },
+    {
+        "name": "Radio Paysan San",
+        "city": "San",
+        "country": "Mali",
+        "url": "https://listen.radioking.com/radio/592033/stream/652837"
+    },
+    {
+        "name": "Radio Kassara Barikama",
+        "city": "San",
+        "country": "Mali",
+        "url": "https://stream-157.zeno.fm/u5u4gvaxh4duv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1NXU0Z3ZheGg0ZHV2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoicDFVY21sQkJTQlNSaGtIYkpRNFNCQSIsImlhdCI6MTc2OTQyMjU0MiwiZXhwIjoxNzY5NDIyNjAyfQ.06bncALQaKOELaFo7UaMrUI6j5kLxUNxFHF-Gugolac"
+    },
+    {
+        "name": "SF70s",
+        "city": "San Francisco CA",
+        "country": "United States",
+        "url": "https://stream4.rcast.net/72991/"
+    },
+    {
+        "name": "Radio Kledu",
+        "city": "San",
+        "country": "Mali",
+        "url": "https://stream-143.zeno.fm/yerp85sughwtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5ZXJwODVzdWdod3R2IiwiaG9zdCI6InN0cmVhbS0xNDMuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoidHlUR0lkYV9SRy1nazUwa3ZUTmxGQSIsImlhdCI6MTc2OTQyMjU0MiwiZXhwIjoxNzY5NDIyNjAyfQ.6Nfap1ZpiOsjKx-DLwSGF6PldpxD6np8PKwt5k5CD0s"
+    },
+    {
+        "name": "Joliba FM 105.0",
+        "city": "San",
+        "country": "Mali",
+        "url": "https://stream-177.zeno.fm/bux0vqx79zquv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJidXgwdnF4Nzl6cXV2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiejY2M1hoRXRUeHVHWURBdnJvTkRGUSIsImlhdCI6MTc2OTQyMjU0MiwiZXhwIjoxNzY5NDIyNjAyfQ.wlfmz0VZgaxXK14Y3DZjOR3Lr26z5QZDqgo2dHJ6sZU"
+    },
+    {
+        "name": "Radio Madjoura FM 94.0",
+        "city": "San",
+        "country": "Mali",
+        "url": "https://stream-151.zeno.fm/445tct5avewtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0NDV0Y3Q1YXZld3R2IiwiaG9zdCI6InN0cmVhbS0xNTEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiUk9Jc0hHZnBTVjZWNWtEX0R2dlZVdyIsImlhdCI6MTc2OTQyMjU0MiwiZXhwIjoxNzY5NDIyNjAyfQ.81_O3hbviq-IGUl_-VsQzxJmE2B-G4TG1yuVyprZ_YQ"
+    },
+    {
+        "name": "Soma FM Underground 80s",
+        "city": "San Francisco CA",
+        "country": "United States",
+        "url": "https://ice1.somafm.com/u80s-256-mp3"
+    },
+    {
+        "name": "South of Gilman St.",
+        "city": "San Francisco CA",
+        "country": "United States",
+        "url": "http://stream.southofgilman.org:8000/"
+    },
+    {
+        "name": "Radio Nieta",
+        "city": "San",
+        "country": "Mali",
+        "url": "https://stream-154.zeno.fm/u0dd022mb?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1MGRkMDIybWIiLCJob3N0Ijoic3RyZWFtLTE1NC56ZW5vLmZtIiwidG0iOmZhbHNlLCJydHRsIjo1LCJqdGkiOiI3UHFtaXZrVVFOcXR0ZjMxampleVB3IiwiaWF0IjoxNzY5NDIyNTQzLCJleHAiOjE3Njk0MjI2MDN9.dvGkh523BvAjqleFhBDQJWWqTbpt8xmlGylKdsMQ3Go"
+    },
+    {
+        "name": "Wild 94.9",
+        "city": "San Francisco CA",
+        "country": "United States",
+        "url": "https://cloud.revma.ihrhls.com/zc305?rj-org=n22b-e2&rj-ttl=5&rj-tok=AAABm_nWgwgAP5c5X3UytuYCfg"
+    },
+    {
+        "name": "sfSoundRadio",
+        "city": "San Francisco CA",
+        "country": "United States",
+        "url": "http://sfsound.org:8000/index.html?sid=1"
+    },
+    {
+        "name": "ABN Old-Time Radio AM 1610",
+        "city": "San Francisco CA",
+        "country": "United States",
+        "url": "https://s6.yesstreaming.net:18000/listen"
+    },
+    {
+        "name": "KQED FM 88.5",
+        "city": "San Francisco CA",
+        "country": "United States",
+        "url": "https://streams.kqed.org/"
+    },
+    {
+        "name": "KSAN-FM 107.7",
+        "city": "San Francisco CA",
+        "country": "United States",
+        "url": "https://14103.live.streamtheworld.com:443/KSANFMAAC.aac"
+    },
+    {
+        "name": "PacifikLive",
+        "city": "San Francisco CA",
+        "country": "United States",
+        "url": "https://pacifiklive.streamguys1.com/live"
+    },
+    {
+        "name": "KBRW-AM 680",
+        "city": "San Francisco CA",
+        "country": "United States",
+        "url": "https://tektite.streamguys1.com:5345/live"
+    },
+    {
+        "name": "KOKO LP Radio 96.3 FM",
+        "city": "San Francisco CA",
+        "country": "United States",
+        "url": "https://s2.yesstreaming.net:7031/stream"
+    },
+    {
+        "name": "Smooth Jazz 24/7",
+        "city": "San Francisco CA",
+        "country": "United States",
+        "url": "https://ais-edge89-dal02.cdnstream.com/2124_128.mp3"
+    },
+    {
+        "name": "Noches de Rock en tu Idioma",
+        "city": "San Salvador",
+        "country": "El Salvador",
+        "url": "https://host.azuracastnet.com/listen/noches_de_rock_en_tu_idioma/radio.mp3"
+    },
+    {
+        "name": "Classical KDFC 104.9 FM",
+        "city": "San Francisco CA",
+        "country": "United States",
+        "url": "https://27263.live.streamtheworld.com:443/KDFCFMAAC.aac"
+    },
+    {
+        "name": "Pulsar Mix",
+        "city": "San Salvador",
+        "country": "El Salvador",
+        "url": "https://radio.pulsarelsalvador.com/listen/pulsar_mix_fm_el_salvador/Pulsar%20Mix%20FM%20El%20Salvador"
+    },
+    {
+        "name": "KNBR 680 - KNBR",
+        "city": "San Francisco CA",
+        "country": "United States",
+        "url": "https://17793.live.streamtheworld.com:443/KNBRAM_SC"
+    },
+    {
+        "name": "Vox FM 94.5",
+        "city": "San Salvador",
+        "country": "El Salvador",
+        "url": "https://cast3.asurahosting.com/proxy/gabriel/stream"
+    },
+    {
+        "name": "Radio El Mundo",
+        "city": "San Salvador",
+        "country": "El Salvador",
+        "url": "https://streaming.mundoclasicaupa.com:8001/radioelmundo"
+    },
+    {
+        "name": "Fox News Radio",
+        "city": "San Francisco CA",
+        "country": "United States",
+        "url": "https://prod-54-162-2-81.amperwave.net/foxnewsradio-foxnewsradioaac-imc?session-id=7104c228d21e3073f07393d80d6ee55b"
+    },
+    {
+        "name": "Laser Ingles FM 92.9",
+        "city": "San Salvador",
+        "country": "El Salvador",
+        "url": "https://sp4.colombiatelecom.com.co/8032/stream"
+    },
+    {
+        "name": "Radio Que Buena 88.9 FM",
+        "city": "San Salvador",
+        "country": "El Salvador",
+        "url": "https://cast3.my-control-panel.com/proxy/gabriel4/stream"
+    },
+    {
+        "name": "Fiesta 104.9 FM",
+        "city": "San Salvador",
+        "country": "El Salvador",
+        "url": "https://sp4.colombiatelecom.com.co/8026/stream"
+    },
+    {
+        "name": "Radio Cadena YSKL",
+        "city": "San Salvador",
+        "country": "El Salvador",
+        "url": "https://media.dominiocreativo.com:8000/radioyskl"
+    },
+    {
+        "name": "ABC 100.1 FM",
+        "city": "San Salvador",
+        "country": "El Salvador",
+        "url": "https://streaming.rcs.com.sv/proxy/abc/stream"
+    },
+    {
+        "name": "Cadena Central FM 103.7",
+        "city": "San Salvador",
+        "country": "El Salvador",
+        "url": "https://radio.videct.com/8176/stream"
+    },
+    {
+        "name": "CNN Radio San Juan FM 94.1",
+        "city": "San Juan",
+        "country": "Argentina",
+        "url": "https://streaming.radiosenlinea.com.ar:10796/index.html?sid=1"
+    },
+    {
+        "name": "KCSM Jazz 91",
+        "city": "San Francisco CA",
+        "country": "United States",
+        "url": "https://ice5.securenetsystems.net/KCSM"
+    },
+    {
+        "name": "Radio Supra 90.5 FM",
+        "city": "San Salvador",
+        "country": "El Salvador",
+        "url": "https://stream-178.zeno.fm/cpoqmejvb7ftv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjcG9xbWVqdmI3ZnR2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiQlRmMVlPMm1SQ1dYbzlTdWdNVmJZdyIsImlhdCI6MTc2OTQyMjU0OCwiZXhwIjoxNzY5NDIyNjA4fQ.ImxLprXgU3futkIh7bkdp5J4hWVMh0SRnCvGNQhwxLc"
+    },
+    {
+        "name": "La Pregonera SV",
+        "city": "San Salvador",
+        "country": "El Salvador",
+        "url": "https://as100.globalhost1.com/8122/stream"
+    },
+    {
+        "name": "Cristal 100.3",
+        "city": "San Juan",
+        "country": "Argentina",
+        "url": "https://streaming01.shockmedia.com.ar:10158/stream"
+    },
+    {
+        "name": "Noticias Izalco 94.5 FM",
+        "city": "San Salvador",
+        "country": "El Salvador",
+        "url": "https://stream-141.zeno.fm/w1aqrh7bqkhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ3MWFxcmg3YnFraHZ2IiwiaG9zdCI6InN0cmVhbS0xNDEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiSm1sd2U5NkFUSHU3N3VXS1BROWVTdyIsImlhdCI6MTc2OTQyMjU0OSwiZXhwIjoxNzY5NDIyNjA5fQ.yM__POliWRm_w8GEAN96WHv2CsUuSYsYIcpvyrxzYt4"
+    },
+    {
+        "name": "Amanecer FM 102.9",
+        "city": "San Juan",
+        "country": "Argentina",
+        "url": "https://streaming1.locucionar.com/proxy/amanecerradio?mp=/stream"
+    },
+    {
+        "name": "Radio Digital San Juan",
+        "city": "San Juan",
+        "country": "Argentina",
+        "url": "https://01.solumedia.com.ar:7762/stream/1/"
+    },
+    {
+        "name": "La Jefa Radio",
+        "city": "San Salvador",
+        "country": "El Salvador",
+        "url": "https://stream-159.zeno.fm/b264csn0sy8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJiMjY0Y3NuMHN5OHV2IiwiaG9zdCI6InN0cmVhbS0xNTkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiSTByek16STNRZ0dUWjlFbGlBM3ZxUSIsImlhdCI6MTc2OTQyMjU0OSwiZXhwIjoxNzY5NDIyNjA5fQ.LMJ-1gLrbY-b7O02mfCsVMjDxAXRG43unEYGbfiUpyA"
+    },
+    {
+        "name": "La Tribu FM",
+        "city": "San Salvador",
+        "country": "El Salvador",
+        "url": "https://streamer.radio.co/s3a3c12873/listen"
+    },
+    {
+        "name": "Estación Claridad FM 97.1",
+        "city": "San Juan",
+        "country": "Argentina",
+        "url": "https://solid9.streamupsolutions.com/proxy/liijwyyg?mp=/stream"
+    },
+    {
+        "name": "FM Santa Lucía 99.7",
+        "city": "San Juan",
+        "country": "Argentina",
+        "url": "https://streaming.radiosenlinea.com.ar/8516/stream"
+    },
+    {
+        "name": "Premium FM 105.9",
+        "city": "San Juan",
+        "country": "Argentina",
+        "url": "https://streaming3.locucionar.com/proxy/premiumradio?mp=/stream"
+    },
+    {
+        "name": "LV 1 Radio Colon AM560 FM106.3",
+        "city": "San Juan",
+        "country": "Argentina",
+        "url": "https://host.serviceinfinito.com.ar:7004/index.html?sid=1"
+    },
+    {
+        "name": "Radio La Voz FM 100.5",
+        "city": "San Juan",
+        "country": "Argentina",
+        "url": "https://host.serviceinfinito.com.ar:7003/index.html?sid=1"
+    },
+    {
+        "name": "Del Sol FM 91.9",
+        "city": "San Juan",
+        "country": "Argentina",
+        "url": "https://streaming3.locucionar.com/proxy/diariodelsol?mp=/stream"
+    },
+    {
+        "name": "Antena Uno Radio FM 100.1",
+        "city": "San Juan",
+        "country": "Argentina",
+        "url": "https://streaming.escuchanosonline.com/8268/stream"
+    },
+    {
+        "name": "Radio Madre de Dios FM 87.9",
+        "city": "San Juan",
+        "country": "Argentina",
+        "url": "https://01.solumedia.com.ar:8134/stream"
+    },
+    {
+        "name": "Radio Norte FM 96.5",
+        "city": "San Juan",
+        "country": "Argentina",
+        "url": "https://streaming01.shockmedia.com.ar/8574/stream"
+    },
+    {
+        "name": "Plano Informativo Online",
+        "city": "San Luis Potosi",
+        "country": "Mexico",
+        "url": "https://stream11.mexiserver.com:9028/live"
+    },
+    {
+        "name": "FM La Roca",
+        "city": "San Juan",
+        "country": "Argentina",
+        "url": "https://streaming2.locucionar.com/proxy/fmlaroca?mp=/stream"
+    },
+    {
+        "name": "MAS FM 99.3",
+        "city": "San Luis Potosi",
+        "country": "Mexico",
+        "url": "https://playradio.mx/proxy/masfm?mp=/stream"
+    },
+    {
+        "name": "Vox FM 96.9",
+        "city": "San Luis Potosi",
+        "country": "Mexico",
+        "url": "https://playradio.mx/proxy/vox?mp=/stream"
+    },
+    {
+        "name": "La Mosquitera FM 88.1",
+        "city": "San Juan",
+        "country": "Argentina",
+        "url": "https://stream.codigosur.org/mosquitera.mp3"
+    },
+    {
+        "name": "Espectacular FM 91.7",
+        "city": "San Luis Potosi",
+        "country": "Mexico",
+        "url": "http://hd.digitalradio.mx:5980/;stream/1"
+    },
+    {
+        "name": "Imagen Radio 105.9 FM",
+        "city": "San Luis Potosi",
+        "country": "Mexico",
+        "url": "http://radio.alphamx.net:8130/;stream.mp3"
+    },
+    {
+        "name": "La 100 FM 99.9",
+        "city": "San Juan",
+        "country": "Argentina",
+        "url": "https://24483.live.streamtheworld.com:443/FM999_56.mp3"
+    },
+    {
+        "name": "Radio Mitre AM 790",
+        "city": "San Juan",
+        "country": "Argentina",
+        "url": "https://27393.live.streamtheworld.com:443/AM790_56AAC.aac"
+    },
+    {
+        "name": "Radio La Red AM 910",
+        "city": "San Juan",
+        "country": "Argentina",
+        "url": "https://26503.live.streamtheworld.com:443/LA_RED_AM910AAC.aac"
+    },
+    {
+        "name": "FM Aspen 102.3",
+        "city": "San Juan",
+        "country": "Argentina",
+        "url": "https://24273.live.streamtheworld.com:443/ASPEN.mp3"
+    },
+    {
+        "name": "Exa FM 102.1",
+        "city": "San Luis Potosi",
+        "country": "Mexico",
+        "url": "https://22073.live.streamtheworld.com:443/XHESL.mp3"
+    },
+    {
+        "name": "Radio Rivadavia 630 AM",
+        "city": "San Juan",
+        "country": "Argentina",
+        "url": "https://26483.live.streamtheworld.com:443/RIVADAVIAAAC.aac"
+    },
+    {
+        "name": "La Caja Radio",
+        "city": "San Luis Potosi",
+        "country": "Mexico",
+        "url": "https://504streaming.com/8060/stream"
+    },
+    {
+        "name": "La Lupe 104.9 FM San Luis Potosí",
+        "city": "San Luis Potosi",
+        "country": "Mexico",
+        "url": "https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/6737a424ecba1df74a06e49e?aid=579bd29dc99290cf08362c3b&property=radio-garden&pid=pOk7VX927ix34cXz04b6RzNGKG7pgNt2&sid=WfLq8Lc1Z6L8Ecb5CzX6Pj5CJJINJCcD&uid=A1BbLVBck5u5PsD48w2gzS6xA1XTNoDA&es=us-b4-p-e-pb13-audio.cdn.mdstrm.com&ote=1769508953585&ot=Wu_XFYWxePYQRL-Rf1beRQ&proto=https&pz=us&cP=128000&awCollectionId=579bd29dc99290cf08362c3b&aw_0_1st.playerId=radio-garden&liveId=6737a424ecba1df74a06e49e&referer=https%3A%2F%2Fradio.garden%2F&propertyName=radio-garden&propertyType=rss-app&listenerId=A1BbLVBck5u5PsD48w2gzS6xA1XTNoDA"
+    },
+    {
+        "name": "Radio Alegria 95.7 FM",
+        "city": "San Luis Potosi",
+        "country": "Mexico",
+        "url": "https://cento02.mipanelradio.com/proxy/moroleon?mp=/stream"
+    },
+    {
+        "name": "Amor FM 95.3",
+        "city": "San Luis Potosi",
+        "country": "Mexico",
+        "url": "https://27283.live.streamtheworld.com:443/XHNBFMAAC.aac"
+    },
+    {
+        "name": "Radio 52 Online",
+        "city": "San Luis Potosi",
+        "country": "Mexico",
+        "url": "https://dulzee.mi-radio.stream:5013/index.html"
+    },
+    {
+        "name": "La Caliente 97.7 FM San Luis Potosí",
+        "city": "San Luis Potosi",
+        "country": "Mexico",
+        "url": "https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/6737a51ea7a64ff86b13a68d?aid=579bd29dc99290cf08362c3b&property=radio-garden&pid=CPb2romb1iZdCauMy2boWPHFYLlaU82t&sid=vMTwYUEAf83mtgOtwaJFLZLeUu45Jtq1&uid=lSVY41S46L2f9sil2DoYpTzVAzRXKAv9&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1769508953967&ot=PauYWsOuPkRCpFpGBQNevA&proto=https&pz=us&cP=128000&awCollectionId=579bd29dc99290cf08362c3b&aw_0_1st.playerId=radio-garden&liveId=6737a51ea7a64ff86b13a68d&referer=https%3A%2F%2Fradio.garden%2F&propertyName=radio-garden&propertyType=rss-app&listenerId=lSVY41S46L2f9sil2DoYpTzVAzRXKAv9"
+    },
+    {
+        "name": "Ultra FM 98.3",
+        "city": "San Luis Potosi",
+        "country": "Mexico",
+        "url": "https://stream-146.zeno.fm/pbe651t0ra0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwYmU2NTF0MHJhMHV2IiwiaG9zdCI6InN0cmVhbS0xNDYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiX0tJa0VaaGpTcHVGUFRRLWtwTzlqUSIsImlhdCI6MTc2OTQyMjU1NiwiZXhwIjoxNzY5NDIyNjE2fQ.ewYrEMIIkL-VaUT_k-9UPHvEFfgPScTX44ny0AHOeXc"
+    },
+    {
+        "name": "Radio Mayor",
+        "city": "San Luis Potosi",
+        "country": "Mexico",
+        "url": "https://15113.live.streamtheworld.com:443/SAM03AAC219_SC"
+    },
+    {
+        "name": "Cafe Romantico Radio",
+        "city": "San Luis Potosi",
+        "country": "Mexico",
+        "url": "https://panel.retrolandigital.com/radio/8110/listen"
+    },
+    {
+        "name": "Mix FM 98.5",
+        "city": "San Luis Potosi",
+        "country": "Mexico",
+        "url": "https://14943.live.streamtheworld.com:443/XHQKFMAAC.aac"
+    },
+    {
+        "name": "LIFE",
+        "city": "San Carlos de Bariloche",
+        "country": "Argentina",
+        "url": "https://streaming01.shockmedia.com.ar/9224/"
+    },
+    {
+        "name": "Flashpoint Radio",
+        "city": "San Carlos de Bariloche",
+        "country": "Argentina",
+        "url": "https://streaming2.locucionar.com/proxy/flashpoint?mp=/stream"
+    },
+    {
+        "name": "Radio Seis Bariloche",
+        "city": "San Carlos de Bariloche",
+        "country": "Argentina",
+        "url": "http://janus.shoutca.st:9149/stream"
+    },
+    {
+        "name": "FM del Barrio 98.1",
+        "city": "San Carlos de Bariloche",
+        "country": "Argentina",
+        "url": "https://streaming.escuchanosonline.com:7026/stream/"
+    },
+    {
+        "name": "FM Renacer 107.7",
+        "city": "San Carlos de Bariloche",
+        "country": "Argentina",
+        "url": "https://genexservicios.com:2000/stream/renacerbariloche/stream/"
+    },
+    {
+        "name": "Puertas y Puentes FM 88.9",
+        "city": "San Carlos de Bariloche",
+        "country": "Argentina",
+        "url": "https://streaming01.radiosenlinea.com.ar/8236/stream"
+    },
+    {
+        "name": "Radio Con Vos 89.5 FM",
+        "city": "San Carlos de Bariloche",
+        "country": "Argentina",
+        "url": "https://streaming2.locucionar.com/proxy/radioconvospatagonia?mp=/stream"
+    },
+    {
+        "name": "Radio Centro El Fonografo AM 690",
+        "city": "San Luis Potosi",
+        "country": "Mexico",
+        "url": "https://26223.live.streamtheworld.com:443/XEN_AMAAC.aac"
+    },
+    {
+        "name": "FM Bariloche 89.1",
+        "city": "San Carlos de Bariloche",
+        "country": "Argentina",
+        "url": "https://streaming1.locucionar.com/proxy/colgados?mp=/stream"
+    },
+    {
+        "name": "FM Latidos 93.5",
+        "city": "San Carlos de Bariloche",
+        "country": "Argentina",
+        "url": "https://streaming.evolucionstreaming.com:10942/stream"
+    },
+    {
+        "name": "Universal 88.1",
+        "city": "San Luis Potosi",
+        "country": "Mexico",
+        "url": "https://14123.live.streamtheworld.com:443/XHRED_FMAAC.aac"
+    },
+    {
+        "name": "W Radio FM 96.9",
+        "city": "San Luis Potosi",
+        "country": "Mexico",
+        "url": "https://26433.live.streamtheworld.com:443/W_RADIOAAC.aac"
+    },
+    {
+        "name": "RN LRA 57 Bolson",
+        "city": "San Carlos de Bariloche",
+        "country": "Argentina",
+        "url": "https://sa.mp3.icecast.magma.edge-access.net/sc_rad57"
+    },
+    {
+        "name": "Kayfa Radio",
+        "city": "San José",
+        "country": "Costa Rica",
+        "url": "https://stream20.usastreams.com/8060/stream"
+    },
+    {
+        "name": "FM Impacto 100.3",
+        "city": "San Carlos de Bariloche",
+        "country": "Argentina",
+        "url": "https://streaming01.shockmedia.com.ar/7120/stream"
+    },
+    {
+        "name": "Radio Hit 104.7",
+        "city": "San José",
+        "country": "Costa Rica",
+        "url": "https://live.turadio.stream:7004/stream"
+    },
+    {
+        "name": "Dabar Radio",
+        "city": "San José",
+        "country": "Costa Rica",
+        "url": "https://a1.asurahosting.com/listen/dabarrad/radio.mp3"
+    },
+    {
+        "name": "Stereorey",
+        "city": "San Luis Potosi",
+        "country": "Mexico",
+        "url": "https://14153.live.streamtheworld.com:443/STEREOREYAAC.aac"
+    },
+    {
+        "name": "Radio Rhema AM 640",
+        "city": "San José",
+        "country": "Costa Rica",
+        "url": "https://rr5100.globalhost1.com/8004/stream"
+    },
+    {
+        "name": "Radio La Gigante 800 am",
+        "city": "San José",
+        "country": "Costa Rica",
+        "url": "https://radiolatina.info:10989/stream/"
+    },
+    {
+        "name": "Radio Musical 97.5 FM",
+        "city": "San José",
+        "country": "Costa Rica",
+        "url": "https://live.turadio.stream:7005/stream"
+    },
+    {
+        "name": "Radio Omega 105.1 FM",
+        "city": "San José",
+        "country": "Costa Rica",
+        "url": "http://rtvhd.net:9932/;*.nsv"
+    },
+    {
+        "name": "Rex Radio",
+        "city": "San Carlos de Bariloche",
+        "country": "Argentina",
+        "url": "https://stream-168.zeno.fm/qu31uftsqfxuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxdTMxdWZ0c3FmeHV2IiwiaG9zdCI6InN0cmVhbS0xNjguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoicWVfQzRTX0tSNmVHRzVmbmNTUUdEUSIsImlhdCI6MTc2OTQyMjU2MCwiZXhwIjoxNzY5NDIyNjIwfQ.u3ejpkbd8vlJQCmM24OpuUDegy5kEWwE0nbw_Zic4XA"
+    },
+    {
+        "name": "FM Del Bosque FM 104.1",
+        "city": "San Carlos de Bariloche",
+        "country": "Argentina",
+        "url": "https://radio01.ferozo.com/proxy/ra01000983?mp=/stream"
+    },
+    {
+        "name": "La Rock-A 90.9",
+        "city": "San Carlos de Bariloche",
+        "country": "Argentina",
+        "url": "https://s3.conectarmedia.com:8052/stream"
+    },
+    {
+        "name": "Radio Zona Latina",
+        "city": "San José",
+        "country": "Costa Rica",
+        "url": "https://guri.tepuyserver.net/8068/stream"
+    },
+    {
+        "name": "Stereo Vision Internacional FM 98.3",
+        "city": "San José",
+        "country": "Costa Rica",
+        "url": "https://live.turadio.stream:7009/index.html?sid=1"
+    },
+    {
+        "name": "Armagedon HN Radio",
+        "city": "San Pedro Sula",
+        "country": "Honduras",
+        "url": "https://radio.armagedonhn.com/radio/8020/radio.mp3"
+    },
+    {
+        "name": "Radio Spectro",
+        "city": "San José",
+        "country": "Costa Rica",
+        "url": "https://stream20.usastreams.com/8090/stream"
+    },
+    {
+        "name": "Radio Sinfonola 90.3 FM",
+        "city": "San José",
+        "country": "Costa Rica",
+        "url": "https://live.turadio.stream:7006/index.html?sid=1"
+    },
+    {
+        "name": "Radio Nostalgias",
+        "city": "San José",
+        "country": "Costa Rica",
+        "url": "https://guri.tepuyserver.net/8084/stream/"
+    },
+    {
+        "name": "HIT La Radio",
+        "city": "San José",
+        "country": "Costa Rica",
+        "url": "https://radio.hitmedios.com/listen/hit_la_radio/radio.mp3"
+    },
+    {
+        "name": "Radio 2",
+        "city": "San José",
+        "country": "Costa Rica",
+        "url": "https://s5.radio.co/sd515b7b34/listen"
+    },
+    {
+        "name": "Columbia FM 98.7",
+        "city": "San José",
+        "country": "Costa Rica",
+        "url": "https://s2.radio.co/s83b86382e/listen"
+    },
+    {
+        "name": "Tatas Radio",
+        "city": "San José",
+        "country": "Costa Rica",
+        "url": "https://stream-178.zeno.fm/qenu6fkdwzzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxZW51NmZrZHd6enV2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiY3NMTHV6N3lTcUcwTnJ2U0VfRENlQSIsImlhdCI6MTc2OTQyMjU2MywiZXhwIjoxNzY5NDIyNjIzfQ.o4br1p9LXtjhRRukoS9HaWWwJWUHN4X8iP3nUYW89Zw"
+    },
+    {
+        "name": "Freedom 96.1",
+        "city": "San Pedro Sula",
+        "country": "Honduras",
+        "url": "https://sonicpanel.us/8142/stream"
+    },
+    {
+        "name": "La Caliente 90.7 FM",
+        "city": "San José",
+        "country": "Costa Rica",
+        "url": "https://us-b4-p-e-jn18-audio.cdn.mdstrm.com/live-audio-aw/672d00c08cff752b2de2dc1f?aid=579bd29dc99290cf08362c3b&property=radio-garden&pid=RvnDZwHRkKhDmSTP5JUI4hdJWEgk6ArJ&sid=UM56W5ifiZpP3AgrA12u1S9vgPVz3vWR&uid=0btSpCmA8cpltENcLG0cCN9hIDvjAUUY&es=us-b4-p-e-jn18-audio.cdn.mdstrm.com&ote=1769508962499&ot=s_Ba07kPDS-tA4Hc3AfBeA&proto=https&pz=us&cP=128000&awCollectionId=579bd29dc99290cf08362c3b&aw_0_1st.playerId=radio-garden&liveId=672d00c08cff752b2de2dc1f&referer=https%3A%2F%2Fradio.garden%2F&propertyName=radio-garden&propertyType=rss-app&listenerId=0btSpCmA8cpltENcLG0cCN9hIDvjAUUY"
+    },
+    {
+        "name": "Radio Estereo Vida",
+        "city": "San Pedro Sula",
+        "country": "Honduras",
+        "url": "https://player.voxhd.com.br/proxy/7986"
+    },
+    {
+        "name": "Radio Luz",
+        "city": "San Pedro Sula",
+        "country": "Honduras",
+        "url": "https://s1.amixfm.live:8012/stream"
+    },
+    {
+        "name": "Logos FM 104.9",
+        "city": "San Pedro Sula",
+        "country": "Honduras",
+        "url": "https://stream.playerlive.info:8023/stream"
+    },
+    {
+        "name": "Columbia Estereo 92.7 FM",
+        "city": "San José",
+        "country": "Costa Rica",
+        "url": "https://s5.radio.co/sca838cc60/listen"
+    },
+    {
+        "name": "Power FM",
+        "city": "San Pedro Sula",
+        "country": "Honduras",
+        "url": "https://stream-142.zeno.fm/yt3ynemyd5zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5dDN5bmVteWQ1enV2IiwiaG9zdCI6InN0cmVhbS0xNDIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiN29HTmlqQzdSczYzeXJDbzBoV1FudyIsImlhdCI6MTc2OTQyMjU2NSwiZXhwIjoxNzY5NDIyNjI1fQ.GwSQTk4uBXbyLbysct2Bi9FJbX3IoyYUnlhr0DvWau4"
+    },
+    {
+        "name": "Musiquera",
+        "city": "San Pedro Sula",
+        "country": "Honduras",
+        "url": "https://stream-142.zeno.fm/whzs08tqsceuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ3aHpzMDh0cXNjZXV2IiwiaG9zdCI6InN0cmVhbS0xNDIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoicDQxUHJicnhUU3lYYVV3VVh1aDJLQSIsImlhdCI6MTc2OTQyMjU2NSwiZXhwIjoxNzY5NDIyNjI1fQ.q61F9k7SHoSr9OO4Q2KWt1gLgUpg_Jz13ilbyO0PzRI"
+    },
+    {
+        "name": "Radio El Mundo 90.5 FM",
+        "city": "San Pedro Sula",
+        "country": "Honduras",
+        "url": "https://sonicpanel.us/8028/stream"
+    },
+    {
+        "name": "Radio W105.3",
+        "city": "San Pedro Sula",
+        "country": "Honduras",
+        "url": "https://sonicpanel.us/8140/stream"
+    },
+    {
+        "name": "EXA Honduras 89.3",
+        "city": "San Pedro Sula",
+        "country": "Honduras",
+        "url": "https://stream-140.zeno.fm/7k8bpzmyd5zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI3azhicHpteWQ1enV2IiwiaG9zdCI6InN0cmVhbS0xNDAuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiY0ZKTHAwQWxSVDJ2VEhyZTZYcmp0USIsImlhdCI6MTc2OTQyMjU2NSwiZXhwIjoxNzY5NDIyNjI1fQ.45jexAv7kNVy0S2ZVMEdHxlI6lbr2K5_0EqTRTVlMkw"
+    },
+    {
+        "name": "Urbana Radio 96.1 FM",
+        "city": "San Pedro Sula",
+        "country": "Honduras",
+        "url": "https://london-ssd.myautodj.com:6260/stream?qcpfe8czbhka"
+    },
+    {
+        "name": "Radioactiva 99.7 FM",
+        "city": "San Pedro Sula",
+        "country": "Honduras",
+        "url": "https://stream-141.zeno.fm/6n7fp9t2pceuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2bjdmcDl0MnBjZXV2IiwiaG9zdCI6InN0cmVhbS0xNDEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiLXZzMkp2QkRRcUtTWDQzNk5MbVUxdyIsImlhdCI6MTc2OTQyMjU2NiwiZXhwIjoxNzY5NDIyNjI2fQ.GnRVCuGDfyE9icFyBqcij30m5gsn_ehYGqZFg0DwRRY"
+    },
+    {
+        "name": "Radio Progreso",
+        "city": "San Pedro Sula",
+        "country": "Honduras",
+        "url": "https://streamingcwsradio30.com:7045/stream/"
+    },
+    {
+        "name": "Redentor 104.1 FM",
+        "city": "San Juan",
+        "country": "Puerto Rico",
+        "url": "http://livestreamcdn.net:8008/stream"
+    },
+    {
+        "name": "Radio Juan Calvino",
+        "city": "San Juan",
+        "country": "Puerto Rico",
+        "url": "http://n0d.radiojar.com/usdyrun8zccwv?rj-ttl=5&rj-tok=AAABm_nW4yEAXeADPr7ECW3Zhg"
+    },
+    {
+        "name": "Noti Uno 630",
+        "city": "San Juan",
+        "country": "Puerto Rico",
+        "url": "http://68.235.35.243:9027/;stream.mp3"
+    },
+    {
+        "name": "Rj Radio",
+        "city": "San José",
+        "country": "Costa Rica",
+        "url": "https://servidor36.brlogic.com:7486/live"
+    },
+    {
+        "name": "Magic FM 97.3",
+        "city": "San Juan",
+        "country": "Puerto Rico",
+        "url": "https://a4.asurahosting.com:6760/radio.mp3"
+    },
+    {
+        "name": "Radio Isla AM 1320",
+        "city": "San Juan",
+        "country": "Puerto Rico",
+        "url": "http://server7.servistreaming.com:10070/stream"
+    },
+    {
+        "name": "Deja Vu Radio",
+        "city": "San Juan",
+        "country": "Puerto Rico",
+        "url": "https://dejavu2.radioca.st/stream"
+    },
+    {
+        "name": "La Mega 106.9 WMEG",
+        "city": "San Juan",
+        "country": "Puerto Rico",
+        "url": "https://liveaudio.lamusica.com/PR_WMEG_icy"
+    },
+    {
+        "name": "Mega Estación 106.9 HD-2",
+        "city": "San Juan",
+        "country": "Puerto Rico",
+        "url": "https://liveaudio.lamusica.com/PR_WMEGHD2_icy"
+    },
+    {
+        "name": "Triunfo 96.9 FM",
+        "city": "San Juan",
+        "country": "Puerto Rico",
+        "url": "https://sp.unoredcdn.net/8140/stream"
+    },
+    {
+        "name": "Musiquera",
+        "city": "San Pedro Sula",
+        "country": "Honduras",
+        "url": "https://stream-143.zeno.fm/83h238tqsceuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI4M2gyMzh0cXNjZXV2IiwiaG9zdCI6InN0cmVhbS0xNDMuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiQlo4UnFxbmdUb3k1X1YxNzl4Q0k4ZyIsImlhdCI6MTc2OTQyMjU2OCwiZXhwIjoxNzY5NDIyNjI4fQ.YNysPRweAbg1w7RGxQg9ynO2kViQmdQ-fq3KKYfMSeo"
+    },
+    {
+        "name": "La Nueva 94FM - WODA",
+        "city": "San Juan",
+        "country": "Puerto Rico",
+        "url": "https://liveaudio.lamusica.com/PR_WODA_icy"
+    },
+    {
+        "name": "WIAC 740 AM ",
+        "city": "San Juan",
+        "country": "Puerto Rico",
+        "url": "https://sp.unoredcdn.net/8044/stream"
+    },
+    {
+        "name": "Radio América",
+        "city": "San Pedro Sula",
+        "country": "Honduras",
+        "url": "https://19213.live.streamtheworld.com:443/AMERICAAAC.aac"
+    },
+    {
+        "name": "Rocka",
+        "city": "San Juan",
+        "country": "Puerto Rico",
+        "url": "https://sp.unoredcdn.net/8064/stream"
+    },
+    {
+        "name": "Radio Eternity 91",
+        "city": "San Juan",
+        "country": "Puerto Rico",
+        "url": "https://stream-178.zeno.fm/s3dnm5ntn8quv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzM2RubTVudG44cXV2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoieXNMU053UF9SV3VLOFpNZzlMZmNadyIsImlhdCI6MTc2OTQyMjU3MCwiZXhwIjoxNzY5NDIyNjMwfQ.DCbgTsGcV_q96cMe83LbQHVwswHmZrv79Fy0Atrkfdc"
+    },
+    {
+        "name": "Radio Joe FM 106.1",
+        "city": "San Juan",
+        "country": "Puerto Rico",
+        "url": "https://s8.myradiostream.com/:7808/;livestream.mp3"
+    },
+    {
+        "name": "Joaquin Opio Radio",
+        "city": "San Juan",
+        "country": "Puerto Rico",
+        "url": "https://radio.fuzedclubradio.com/listen/joaquin_opio_radio/stream"
+    },
+    {
+        "name": "Stereo Impacto 101.5 FM",
+        "city": "San Pedro Sula",
+        "country": "Honduras",
+        "url": "https://sh4.radioonlinehd.com:8503/stream"
+    },
+    {
+        "name": "Salsa Pal Mundo",
+        "city": "San Juan",
+        "country": "Puerto Rico",
+        "url": "https://usa18.fastcast4u.com/proxy/hrodri02?mp=/1"
+    },
+    {
+        "name": "Radio HRN",
+        "city": "San Pedro Sula",
+        "country": "Honduras",
+        "url": "https://ice42.securenetsystems.net/HRN"
+    },
+    {
+        "name": "Banana FM 92.7",
+        "city": "San Pedro Sula",
+        "country": "Honduras",
+        "url": "https://sh4.radioonlinehd.com:8542/stream"
+    },
+    {
+        "name": "Pura Gracia",
+        "city": "San Juan",
+        "country": "Puerto Rico",
+        "url": "https://15113.live.streamtheworld.com:443/SAM05AAC459.mp3"
+    },
+    {
+        "name": "Easy Rock PR",
+        "city": "San Juan",
+        "country": "Puerto Rico",
+        "url": "https://audio.livecastnet.com:1475/stream"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Radio Mauritanie",
+        "city": "Nouakchott",
+        "country": "Mauritania",
+        "url": "https://ec6.yesstreaming.net:2760/stream"
+    },
+    {
+        "name": "Difusora FM 101.7",
+        "city": "Maurilândia GO",
+        "country": "Brazil",
+        "url": "https://azura4.cmaudioevideo.com:8210/radio.mp3"
+    },
+    {
+        "name": "S.M. Mbaye Sam Webradio",
+        "city": "Nouakchott",
+        "country": "Mauritania",
+        "url": "https://betelgeuse.dribbcast.com/proxy/moustapha?mp=/stream"
+    },
+    {
+        "name": "Radio Marconi FM 101.9",
+        "city": "Maurilândia do Tocantins TO",
+        "country": "Brazil",
+        "url": "https://cast.hoost.com.br:8787/stream"
+    },
+    {
+        "name": "Rádio Interativa 104.9 FM",
+        "city": "Maurilândia do Tocantins TO",
+        "country": "Brazil",
+        "url": "https://stma1.svrstream.com.br:8104/stream"
+    },
+    {
+        "name": "Houda FM",
+        "city": "Nouakchott",
+        "country": "Mauritania",
+        "url": "https://radio4.pro-fhi.net:19050/stream"
+    },
+    {
+        "name": "Integração News FM 94.5",
+        "city": "Maurilândia GO",
+        "country": "Brazil",
+        "url": "https://8714.brasilstream.com.br/stream"
+    },
+    {
+        "name": "Rádio Sempre FM 102.5",
+        "city": "Maurilândia GO",
+        "country": "Brazil",
+        "url": "https://server3.webradios.com.br:19308/9308"
+    },
+    {
+        "name": "Rádio Morada dos Sonhos FM 87.9",
+        "city": "Maurilândia GO",
+        "country": "Brazil",
+        "url": "https://server2.webradios.com.br:19110/9110"
+    },
+    {
+        "name": "Rádio Itatiaia",
+        "city": "Maurilândia GO",
+        "country": "Brazil",
+        "url": "https://8903.brasilstream.com.br/stream"
+    },
+    {
+        "name": "Salam Radio Dakar",
+        "city": "Nouakchott",
+        "country": "Mauritania",
+        "url": "https://stream-168.zeno.fm/br25q9xqg48uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJicjI1cTl4cWc0OHV2IiwiaG9zdCI6InN0cmVhbS0xNjguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiNEF3cHNCZTJRbE9Fejl5SEwyLUNmZyIsImlhdCI6MTc2OTQyMDU5MywiZXhwIjoxNzY5NDIwNjUzfQ.tlv9adQh5h-Qr6xeKMh51LDboJ_wGT4umERnmQRQCRY"
+    },
+    {
+        "name": "Renascer FM 106.3",
+        "city": "Maurilândia do Tocantins TO",
+        "country": "Brazil",
+        "url": "http://streaming12.maxcast.com.br:8034/live"
+    },
+    {
+        "name": "RTS Diourbel 96.0 FM",
+        "city": "Nouakchott",
+        "country": "Mauritania",
+        "url": "https://stream-147.zeno.fm/4g1b35sts1duv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0ZzFiMzVzdHMxZHV2IiwiaG9zdCI6InN0cmVhbS0xNDcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiRXN4V1NZdzBURy1NeklReXJtakJFUSIsImlhdCI6MTc2OTQyMDU5MywiZXhwIjoxNzY5NDIwNjUzfQ.hIC_LFwhAi5KiQumJftKp-EIXQ3tYiVWupirWikTPM0"
+    },
+    {
+        "name": "Rádio AM 570 Cidade Esperança",
+        "city": "Maurilândia do Tocantins TO",
+        "country": "Brazil",
+        "url": "http://148.72.158.239:8111/live"
+    },
+    {
+        "name": "Radio Keur Massar",
+        "city": "Nouakchott",
+        "country": "Mauritania",
+        "url": "https://stream.keurmassar.info/"
+    },
+    {
+        "name": "Antena 1",
+        "city": "Maurilândia GO",
+        "country": "Brazil",
+        "url": "https://antenaone.crossradio.com.br/stream"
+    },
+    {
+        "name": "Sucesso FM 104.9",
+        "city": "Maurilândia do Tocantins TO",
+        "country": "Brazil",
+        "url": "https://sonicpanel.oficialserver.com:7113/index.html?sid=1"
+    },
+    {
+        "name": "Tocantins FM 97.7",
+        "city": "Maurilândia do Tocantins TO",
+        "country": "Brazil",
+        "url": "https://s22.maxcast.com.br:8210/live"
+    },
+    {
+        "name": "Rádio JB FM 99,9",
+        "city": "Maurilândia GO",
+        "country": "Brazil",
+        "url": "https://26523.live.streamtheworld.com:443/JBFMAAC.aac"
+    },
+    {
+        "name": "Alpha FM 101.7",
+        "city": "Maurilândia GO",
+        "country": "Brazil",
+        "url": "https://26483.live.streamtheworld.com:443/RADIO_ALPHAFMAAC.aac"
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Seongnam FM 90.7",
+        "city": "Seoul",
+        "country": "South Korea",
+        "url": "http://115.85.182.39/seongnamfm"
+    },
+    {
+        "name": "Seongseo Community 89.1 FM",
+        "city": "Daegu",
+        "country": "South Korea",
+        "url": "http://115.85.182.39/scnfm"
+    },
+    {
+        "name": "Mapo FM 100.7",
+        "city": "Seoul",
+        "country": "South Korea",
+        "url": "http://onair.mapofm.net/mapofm"
+    },
+    {
+        "name": "WBS FM 89.7",
+        "city": "Seoul",
+        "country": "South Korea",
+        "url": "https://wbsradio.kr/wbs-seoul"
+    },
+    {
+        "name": "WBS 대구원음방송 98.3",
+        "city": "Daegu",
+        "country": "South Korea",
+        "url": "https://wbsradio2.kr/wbs-d"
+    },
+    {
+        "name": "WBS 광주원음방송 107.9",
+        "city": "Seoul",
+        "country": "South Korea",
+        "url": "https://wbsradio2.kr/wbs-g"
+    },
+    {
+        "name": "WBS 부산원음방송 104.9",
+        "city": "Seoul",
+        "country": "South Korea",
+        "url": "https://wbsradio2.kr/wbs-b"
+    },
+    {
+        "name": "エフエムつやま78.0 MHz",
+        "city": "Busan",
+        "country": "South Korea",
+        "url": "http://onair.fm-tsuyama.jp:1080/fmtsuyama_live.ogg"
+    },
+    {
+        "name": "RadiCro",
+        "city": "Busan",
+        "country": "South Korea",
+        "url": "https://radicrojapan.out.airtime.pro/radicrojapan_a"
+    },
+    {
+        "name": "My Hangul Cafe Online Radio",
+        "city": "Seoul",
+        "country": "South Korea",
+        "url": "https://stream-176.zeno.fm/4zhg2xz4138uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0emhnMnh6NDEzOHV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoieTJ3b2xvLS1TWXlOYkplTlV4RlBQQSIsImlhdCI6MTc2OTQyMzA3NiwiZXhwIjoxNzY5NDIzMTM2fQ.NSy18InOi65-OehT5U4b1xzTDudQOFMSvFogd6-mNkU"
+    },
+    {
+        "name": "AFN Sasebo FM 93.1",
+        "city": "Seoul",
+        "country": "South Korea",
+        "url": "https://25603.live.streamtheworld.com:443/AFNP_SBO.mp3"
+    },
+    {
+        "name": "Pyongyang FM 105.2",
+        "city": "Seoul",
+        "country": "South Korea",
+        "url": "https://listen7.myradio24.com/69366"
+    },
+    {
+        "name": "AFN Iwakuni 1575 AM",
+        "city": "Gwangju",
+        "country": "South Korea",
+        "url": "https://17803.live.streamtheworld.com:443/AFNP_IWAAAC.aac"
+    },
+    {
+        "name": "Yahweh Radio",
+        "city": "Seoul",
+        "country": "South Korea",
+        "url": "https://s3.radio.co/s22189b87c/listen"
+    },
+    {
+        "name": "Arirang Radio FM 91.4",
+        "city": "Seoul",
+        "country": "South Korea",
+        "url": "https://lhttp.qingting.fm/live/5022144/64k.mp3"
+    }
+]

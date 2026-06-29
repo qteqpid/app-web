@@ -1,0 +1,242 @@
+[
+  {
+    "id": "kosovo-radio-gračanica-907-fm",
+    "name": "Radio Gračanica 90.7 FM",
+    "url": "http://188.40.95.74:8012/wp-content/uploads/my-music/mysong.mp3?_=1",
+    "genre": "Music",
+    "city": "Prishtina",
+    "country": "Kosovo",
+    "lat": 42.6638771,
+    "lng": 21.1640849
+  },
+  {
+    "id": "kosovo-radio-kiss-922-fm",
+    "name": "Radio Kiss 92.2 FM",
+    "url": "http://cast.oblak.in:9515/;*.mp3",
+    "genre": "Music",
+    "city": "Prishtina",
+    "country": "Kosovo",
+    "lat": 42.6638771,
+    "lng": 21.1640849
+  },
+  {
+    "id": "kosovo-radio-gora-fm-1063",
+    "name": "Radio Gora FM 106.3",
+    "url": "http://uzivo.radiogora.org:8117/stream.mp3",
+    "genre": "Music",
+    "city": "Prishtina",
+    "country": "Kosovo",
+    "lat": 42.6638771,
+    "lng": 21.1640849
+  },
+  {
+    "id": "kosovo-glam-radio",
+    "name": "Glam Radio",
+    "url": "https://stream.glamradio.fm:8443/glamradio",
+    "genre": "Music",
+    "city": "Prishtina",
+    "country": "Kosovo",
+    "lat": 42.6638771,
+    "lng": 21.1640849
+  },
+  {
+    "id": "kosovo-radio-maria-kosove",
+    "name": "Radio Maria Kosove",
+    "url": "https://dreamsiteradiocp2.com/proxy/rmkosovo2?mp=/stream",
+    "genre": "Music",
+    "city": "Prishtina",
+    "country": "Kosovo",
+    "lat": 42.6638771,
+    "lng": 21.1640849
+  },
+  {
+    "id": "kosovo-radio-alba-fm-912",
+    "name": "Radio Alba FM 91.2",
+    "url": "http://server.radioalba.eu:8000/stream/",
+    "genre": "Music",
+    "city": "Prishtina",
+    "country": "Kosovo",
+    "lat": 42.6638771,
+    "lng": 21.1640849
+  },
+  {
+    "id": "kosovo-radio-drenasi",
+    "name": "Radio Drenasi",
+    "url": "http://213.163.109.13:8010/index.html?sid=1",
+    "genre": "Music",
+    "city": "Prishtina",
+    "country": "Kosovo",
+    "lat": 42.6638771,
+    "lng": 21.1640849
+  },
+  {
+    "id": "kosovo-club-fm-kosove",
+    "name": "Club FM Kosove",
+    "url": "https://cp1.sednastream.com/proxy/clubfmkosova?mp=/stream",
+    "genre": "Music",
+    "city": "Prishtina",
+    "country": "Kosovo",
+    "lat": 42.6638771,
+    "lng": 21.1640849
+  },
+  {
+    "id": "kosovo-radio-plus-1022-fm",
+    "name": "Radio Plus 102.2 FM",
+    "url": "https://cast2.my-control-panel.com/proxy/radiopl1/stream",
+    "genre": "Music",
+    "city": "Prishtina",
+    "country": "Kosovo",
+    "lat": 42.6638771,
+    "lng": 21.1640849
+  },
+  {
+    "id": "kosovo-radio-kosova-e-lirë-942-fm",
+    "name": "Radio Kosova e Lirë 94.2 FM",
+    "url": "https://radiokos.radioca.st/index.html?sid=1",
+    "genre": "Music",
+    "city": "Prishtina",
+    "country": "Kosovo",
+    "lat": 42.6638771,
+    "lng": 21.1640849
+  },
+  {
+    "id": "kosovo-radio-1-980-fm",
+    "name": "Radio 1 98.0 FM",
+    "url": "https://ec6.yesstreaming.net:3430/stream",
+    "genre": "Music",
+    "city": "Prishtina",
+    "country": "Kosovo",
+    "lat": 42.6638771,
+    "lng": 21.1640849
+  },
+  {
+    "id": "kosovo-radio-star-964-fm",
+    "name": "Radio Star 96.4 FM",
+    "url": "https://radio.1dhe1.com:9400/stream",
+    "genre": "Music",
+    "city": "Prishtina",
+    "country": "Kosovo",
+    "lat": 42.6638771,
+    "lng": 21.1640849
+  },
+  {
+    "id": "kosovo-radio-zeri-i-shtimes-fm-896",
+    "name": "Radio Zeri i Shtimes FM 89.6",
+    "url": "https://radio.1dhe1.com:8090/stream",
+    "genre": "Music",
+    "city": "Prishtina",
+    "country": "Kosovo",
+    "lat": 42.6638771,
+    "lng": 21.1640849
+  },
+  {
+    "id": "kosovo-radio-vala-rinore-947-fm",
+    "name": "Radio Vala Rinore 94.7 FM",
+    "url": "https://stream4.rcast.net/61253",
+    "genre": "Music",
+    "city": "Prishtina",
+    "country": "Kosovo",
+    "lat": 42.6638771,
+    "lng": 21.1640849
+  },
+  {
+    "id": "kosovo-radio-vala-fm-983",
+    "name": "Radio Vala FM 98.3",
+    "url": "http://185.82.109.71:8080/",
+    "genre": "Music",
+    "city": "Pejë",
+    "country": "Kosovo",
+    "lat": 42.6593986,
+    "lng": 20.2885757
+  },
+  {
+    "id": "kosovo-radio-helix",
+    "name": "Radio Helix",
+    "url": "https://radyo1.radyo-dinle.tc/8276/stream",
+    "genre": "Music",
+    "city": "Prizren",
+    "country": "Kosovo",
+    "lat": 42.2130151,
+    "lng": 20.7363339
+  },
+  {
+    "id": "kosovo-kolektiv-radio",
+    "name": "Kolektiv Radio",
+    "url": "https://kolektivstudio.com/listen/kolektiv_radio/radio.mp3",
+    "genre": "Music",
+    "city": "Prizren",
+    "country": "Kosovo",
+    "lat": 42.2130151,
+    "lng": 20.7363339
+  },
+  {
+    "id": "kosovo-urban-fm-1035",
+    "name": "Urban FM 103.5",
+    "url": "https://radio.itprishtina.com/urbanfm.ogg",
+    "genre": "Music",
+    "city": "Prishtina",
+    "country": "Kosovo",
+    "lat": 42.6638771,
+    "lng": 21.1640849
+  },
+  {
+    "id": "kosovo-radio-romano-avazo-1073-fm",
+    "name": "Radio Romano Avazo 107.3 FM",
+    "url": "https://a13.asurahosting.com/listen/radio_romano_avazo/radio.mp3",
+    "genre": "Music",
+    "city": "Prizren",
+    "country": "Kosovo",
+    "lat": 42.2130151,
+    "lng": 20.7363339
+  },
+  {
+    "id": "kosovo-prishtina-fm-898",
+    "name": "Prishtina FM 89.8",
+    "url": "https://stream.radio.co/sbe73908d2/listen",
+    "genre": "Music",
+    "city": "Prishtina",
+    "country": "Kosovo",
+    "lat": 42.6638771,
+    "lng": 21.1640849
+  },
+  {
+    "id": "kosovo-oxygen-radio",
+    "name": "Oxygen Radio",
+    "url": "https://stream.radio.co/s6bb9533cb/listen",
+    "genre": "Music",
+    "city": "Prishtina",
+    "country": "Kosovo",
+    "lat": 42.6638771,
+    "lng": 21.1640849
+  },
+  {
+    "id": "kosovo-paper-radio-fm-911",
+    "name": "Paper Radio FM 91.1",
+    "url": "https://business.playfm.al:8040/paperplayprishtina",
+    "genre": "Music",
+    "city": "Prishtina",
+    "country": "Kosovo",
+    "lat": 42.6638771,
+    "lng": 21.1640849
+  },
+  {
+    "id": "kosovo-positive-gold-radio-fm-1017",
+    "name": "Positive Gold Radio FM 101.7",
+    "url": "https://positivealtradio.streamguys1.com/positivegold",
+    "genre": "Music",
+    "city": "Prishtina",
+    "country": "Kosovo",
+    "lat": 42.6638771,
+    "lng": 21.1640849
+  },
+  {
+    "id": "kosovo-laki-radio-fm-914",
+    "name": "Laki Radio FM 91.4",
+    "url": "https://radiostream.cyou:8020/laki",
+    "genre": "Music",
+    "city": "Pejë",
+    "country": "Kosovo",
+    "lat": 42.6593986,
+    "lng": 20.2885757
+  }
+]

@@ -1,0 +1,382 @@
+[
+  {
+    "id": "palestine-radio-101",
+    "name": "Radio 101",
+    "url": "http://streamer.mada.ps:8027/onefm",
+    "genre": "Music",
+    "city": "Ramallah",
+    "country": "Palestine",
+    "lat": 31.9119639,
+    "lng": 35.2063474
+  },
+  {
+    "id": "palestine-radio-orient-fm-987",
+    "name": "Radio Orient FM 98.7",
+    "url": "http://streamer.mada.ps:8034/orient",
+    "genre": "Music",
+    "city": "Ramallah",
+    "country": "Palestine",
+    "lat": 31.9119639,
+    "lng": 35.2063474
+  },
+  {
+    "id": "palestine-radio-kol-hasfela",
+    "name": "Radio Kol Hasfela",
+    "url": "https://radio.streamgates.net/stream/1036kh",
+    "genre": "Music",
+    "city": "Ramallah",
+    "country": "Palestine",
+    "lat": 31.9119639,
+    "lng": 35.2063474
+  },
+  {
+    "id": "palestine-rabea-fm-887",
+    "name": "Rabea FM 88.7",
+    "url": "https://radio.r4fm.ps/;stream.mp3",
+    "genre": "Music",
+    "city": "Ramallah",
+    "country": "Palestine",
+    "lat": 31.9119639,
+    "lng": 35.2063474
+  },
+  {
+    "id": "palestine-basma-fm-1012",
+    "name": "Basma FM 101.2",
+    "url": "https://mars.streamerr.co/8342/stream",
+    "genre": "Music",
+    "city": "Ramallah",
+    "country": "Palestine",
+    "lat": 31.9119639,
+    "lng": 35.2063474
+  },
+  {
+    "id": "palestine-breslav-radio--kolhanachal",
+    "name": "Breslav Radio - KolHaNachal",
+    "url": "https://cast.ereznet.co.il/radio/8070/radio.mp3",
+    "genre": "Music",
+    "city": "Ramallah",
+    "country": "Palestine",
+    "lat": 31.9119639,
+    "lng": 35.2063474
+  },
+  {
+    "id": "palestine-100fm-world",
+    "name": "100fm World",
+    "url": "https://gb25.streamgates.net/radios-audio/100World/icecast.audio",
+    "genre": "Music",
+    "city": "Ramallah",
+    "country": "Palestine",
+    "lat": 31.9119639,
+    "lng": 35.2063474
+  },
+  {
+    "id": "palestine-radio-nissa",
+    "name": "Radio Nissa",
+    "url": "https://rstream.hadara.ps/proxy/nisaa/stream",
+    "genre": "Music",
+    "city": "Ramallah",
+    "country": "Palestine",
+    "lat": 31.9119639,
+    "lng": 35.2063474
+  },
+  {
+    "id": "palestine-radio-fix-2525",
+    "name": "Radio Fix 2525",
+    "url": "https://stream3.rcast.net/72648",
+    "genre": "Music",
+    "city": "Nablus",
+    "country": "Palestine",
+    "lat": 32.2280665,
+    "lng": 35.2370416
+  },
+  {
+    "id": "palestine-panorama-fm-1032",
+    "name": "Panorama FM 103.2",
+    "url": "https://a7.asurahosting.com:8090/radio.mp3",
+    "genre": "Music",
+    "city": "Nablus",
+    "country": "Palestine",
+    "lat": 32.2280665,
+    "lng": 35.2370416
+  },
+  {
+    "id": "palestine-kan-reshet-bet",
+    "name": "Kan Reshet Bet",
+    "url": "https://27943.live.streamtheworld.com:443/KAN_BET.mp3",
+    "genre": "Music",
+    "city": "Ramallah",
+    "country": "Palestine",
+    "lat": 31.9119639,
+    "lng": 35.2063474
+  },
+  {
+    "id": "palestine-radio-falastini",
+    "name": "Radio Falastini",
+    "url": "https://palradio.radioca.st/index.html?sid=1",
+    "genre": "Music",
+    "city": "Ramallah",
+    "country": "Palestine",
+    "lat": 31.9119639,
+    "lng": 35.2063474
+  },
+  {
+    "id": "palestine-hr",
+    "name": "HR",
+    "url": "https://hr.ps/stream",
+    "genre": "Music",
+    "city": "Ramallah",
+    "country": "Palestine",
+    "lat": 31.9119639,
+    "lng": 35.2063474
+  },
+  {
+    "id": "palestine-eco99fm",
+    "name": "Eco99fm",
+    "url": "https://eco01.livecdn.biz/ecolive/99fm_aac/icecast.audio",
+    "genre": "Music",
+    "city": "Nablus",
+    "country": "Palestine",
+    "lat": 32.2280665,
+    "lng": 35.2370416
+  },
+  {
+    "id": "palestine-ajyal",
+    "name": "Ajyal",
+    "url": "https://streamer.mada.ps:8208/ajyal",
+    "genre": "Music",
+    "city": "Ramallah",
+    "country": "Palestine",
+    "lat": 31.9119639,
+    "lng": 35.2063474
+  },
+  {
+    "id": "palestine-radio-al-hara",
+    "name": "Radio al-Hara",
+    "url": "http://n0d.radiojar.com/78cxy6wkxtzuv.mp3?rj-ttl=5&rj-tok=AAABm_nJ3w8AY-6WNTZ9xIehag",
+    "genre": "Music",
+    "city": "Bethlehem",
+    "country": "Palestine",
+    "lat": 31.7059708,
+    "lng": 35.1877002
+  },
+  {
+    "id": "palestine-shabab-fm-1014",
+    "name": "Shabab FM 101.4",
+    "url": "https://streaming.zaytonatube.com/test2.aac",
+    "genre": "Music",
+    "city": "Nablus",
+    "country": "Palestine",
+    "lat": 32.2280665,
+    "lng": 35.2370416
+  },
+  {
+    "id": "palestine-רדיו-עסקים",
+    "name": "רדיו עסקים",
+    "url": "https://icecast.live/ivr",
+    "genre": "Music",
+    "city": "Nablus",
+    "country": "Palestine",
+    "lat": 32.2280665,
+    "lng": 35.2370416
+  },
+  {
+    "id": "palestine-radio-hayat-fm-1008",
+    "name": "Radio Hayat FM 100.8",
+    "url": "https://rstream.hadara.ps/proxy/hayat/stream.mp3",
+    "genre": "Music",
+    "city": "Nablus",
+    "country": "Palestine",
+    "lat": 32.2280665,
+    "lng": 35.2370416
+  },
+  {
+    "id": "palestine-raya-fm-964",
+    "name": "Raya FM 96.4",
+    "url": "https://rstream.hadara.ps/proxy/raya/stream",
+    "genre": "Music",
+    "city": "Nablus",
+    "country": "Palestine",
+    "lat": 32.2280665,
+    "lng": 35.2370416
+  },
+  {
+    "id": "palestine-eshel-fm-106",
+    "name": "Eshel FM 106",
+    "url": "http://stream.eshelnet.com/xstream",
+    "genre": "Music",
+    "city": "Hebron",
+    "country": "Palestine",
+    "lat": 31.5336282,
+    "lng": 35.0979762
+  },
+  {
+    "id": "palestine-angham-radio",
+    "name": "Angham Radio",
+    "url": "https://streamer.mada.ps:8207/ANGHAM",
+    "genre": "Music",
+    "city": "Ramallah",
+    "country": "Palestine",
+    "lat": 31.9119639,
+    "lng": 35.2063474
+  },
+  {
+    "id": "palestine-radio-bethlehem-2000راديو-بيت-لحم-fm-896",
+    "name": "Radio Bethlehem 2000راديو بيت لحم  FM 89.6",
+    "url": "https://rstream.hadara.ps/proxy/radiobethlehem2000/stream",
+    "genre": "Music",
+    "city": "Bethlehem",
+    "country": "Palestine",
+    "lat": 31.7059708,
+    "lng": 35.1877002
+  },
+  {
+    "id": "palestine-radio-plus",
+    "name": "Radio Plus",
+    "url": "https://s3.yesstreaming.net:7049/stream",
+    "genre": "Music",
+    "city": "Bethlehem",
+    "country": "Palestine",
+    "lat": 31.7059708,
+    "lng": 35.1877002
+  },
+  {
+    "id": "palestine-channel-2000",
+    "name": "Channel 2000",
+    "url": "https://radio.streamgates.net/stream/radio2000",
+    "genre": "Music",
+    "city": "Tulkarm",
+    "country": "Palestine",
+    "lat": 32.3091259,
+    "lng": 35.026538
+  },
+  {
+    "id": "palestine-tariq-al-mahabbeh-fm-977",
+    "name": "Tariq Al Mahabbeh FM 97.7",
+    "url": "https://stream-166.zeno.fm/3v8uzd2dph7tv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIzdjh1emQyZHBoN3R2IiwiaG9zdCI6InN0cmVhbS0xNjYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiQ0xQMWRfMUNURTZaWjE3SElrNUNQZyIsImlhdCI6MTc2OTQyMTcxNCwiZXhwIjoxNzY5NDIxNzc0fQ.Ai7NyZt1q-JaWiSw6gjHpqyIwsqMWX9W5mNyCsOTdhQ",
+    "genre": "Music",
+    "city": "Nablus",
+    "country": "Palestine",
+    "lat": 32.2280665,
+    "lng": 35.2370416
+  },
+  {
+    "id": "palestine-radio-mawwal-fm-1017",
+    "name": "Radio Mawwal FM 101.7",
+    "url": "https://rstream.hadara.ps/proxy/mawwal/stream.mp3",
+    "genre": "Music",
+    "city": "Bethlehem",
+    "country": "Palestine",
+    "lat": 31.7059708,
+    "lng": 35.1877002
+  },
+  {
+    "id": "palestine-radio-lev-hamedina-91-fm",
+    "name": "Radio Lev Hamedina 91 FM",
+    "url": "https://cdn.cybercdn.live/Lev_Hamedina/Audio/icecast.audio",
+    "genre": "Music",
+    "city": "Bethlehem",
+    "country": "Palestine",
+    "lat": 31.7059708,
+    "lng": 35.1877002
+  },
+  {
+    "id": "palestine-torah-box-radio",
+    "name": "Torah-Box Radio",
+    "url": "https://radio.torah-box.com:8443/_a",
+    "genre": "Music",
+    "city": "Hebron",
+    "country": "Palestine",
+    "lat": 31.5336282,
+    "lng": 35.0979762
+  },
+  {
+    "id": "palestine-radio-103-fm",
+    "name": "Radio 103 FM",
+    "url": "https://cdn.cybercdn.live/103FM/Live/icecast.audio",
+    "genre": "Music",
+    "city": "Tulkarm",
+    "country": "Palestine",
+    "lat": 32.3091259,
+    "lng": 35.026538
+  },
+  {
+    "id": "palestine-fajer-fm",
+    "name": "Fajer FM",
+    "url": "https://rstream.hadara.ps/proxy/fajerfm/stream",
+    "genre": "Music",
+    "city": "Tulkarm",
+    "country": "Palestine",
+    "lat": 32.3091259,
+    "lng": 35.026538
+  },
+  {
+    "id": "palestine-kol-hail-fm-928",
+    "name": "Kol Hail FM 92.8",
+    "url": "https://live.kcm.fm/live-new",
+    "genre": "Music",
+    "city": "Qalqilyah",
+    "country": "Palestine",
+    "lat": 32.1960259,
+    "lng": 34.981538
+  },
+  {
+    "id": "palestine-111fmonline",
+    "name": "111fm.online",
+    "url": "https://stream-178.zeno.fm/a49vayexcg0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJhNDl2YXlleGNnMHV2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiemVhZzJvWlNRb0c3aXlvU0ppZVhWZyIsImlhdCI6MTc2OTQyMTcxNiwiZXhwIjoxNzY5NDIxNzc2fQ.kVTcwqhbn17M88vkKxdBsGlBP_4TF2Fs6dYQRTo5ZAs",
+    "genre": "Music",
+    "city": "Hebron",
+    "country": "Palestine",
+    "lat": 31.5336282,
+    "lng": 35.0979762
+  },
+  {
+    "id": "palestine-jerusalem-24-fm-1061",
+    "name": "Jerusalem 24 FM 106.1",
+    "url": "https://icecast.mada.ps:8404/24fmen",
+    "genre": "Music",
+    "city": "Bethlehem",
+    "country": "Palestine",
+    "lat": 31.7059708,
+    "lng": 35.1877002
+  },
+  {
+    "id": "palestine-100fm-gamer",
+    "name": "100fm Gamer",
+    "url": "https://gb25.streamgates.net/radios-audio/100Gamer/icecast.audio",
+    "genre": "Music",
+    "city": "Jenin",
+    "country": "Palestine",
+    "lat": 32.4673321,
+    "lng": 35.2933789
+  },
+  {
+    "id": "palestine-the-voice-of-the-university",
+    "name": "The Voice of the University",
+    "url": "https://1062onair.runi.ac.il/idc123.mp3",
+    "genre": "Music",
+    "city": "Qalqilyah",
+    "country": "Palestine",
+    "lat": 32.1960259,
+    "lng": 34.981538
+  },
+  {
+    "id": "palestine-university-radio-971-fm--aaup",
+    "name": "University Radio 97.1 FM - AAUP",
+    "url": "https://securestreams6.autopo.st:2155/aaup",
+    "genre": "Music",
+    "city": "Jenin",
+    "country": "Palestine",
+    "lat": 32.4673321,
+    "lng": 35.2933789
+  },
+  {
+    "id": "palestine-radio-alhuda-fm-101",
+    "name": "Radio Alhuda FM 101",
+    "url": "https://streamer.mada.ps:8224/stream.ogg",
+    "genre": "Music",
+    "city": "Qalqilyah",
+    "country": "Palestine",
+    "lat": 32.1960259,
+    "lng": 34.981538
+  }
+]

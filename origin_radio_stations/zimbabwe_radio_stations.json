@@ -1,0 +1,302 @@
+[
+  {
+    "id": "zimbabwe-choice-fm-1011",
+    "name": "Choice FM 101.1",
+    "url": "http://sv6.famcast.co.za:8000/choicelive",
+    "genre": "Music",
+    "city": "Bulawayo",
+    "country": "Zimbabwe",
+    "lat": -20.1560599,
+    "lng": 28.5887063
+  },
+  {
+    "id": "zimbabwe-jazzysoulradio",
+    "name": "JazzySoulRadio",
+    "url": "https://az13.yesstreaming.net:8360/radio.mp3",
+    "genre": "Music",
+    "city": "Bulawayo",
+    "country": "Zimbabwe",
+    "lat": -20.1560599,
+    "lng": 28.5887063
+  },
+  {
+    "id": "zimbabwe-star-fm-897",
+    "name": "Star FM 89.7",
+    "url": "https://edge.iono.fm/xice/159_medium.aac",
+    "genre": "Music",
+    "city": "Harare",
+    "country": "Zimbabwe",
+    "lat": -17.8567035,
+    "lng": 31.0601584
+  },
+  {
+    "id": "zimbabwe-diamond-fm-1038",
+    "name": "Diamond FM 103.8",
+    "url": "https://edge.iono.fm/xice/160_medium.aac",
+    "genre": "Music",
+    "city": "Harare",
+    "country": "Zimbabwe",
+    "lat": -17.8567035,
+    "lng": 31.0601584
+  },
+  {
+    "id": "zimbabwe-capitalk-fm-1004",
+    "name": "Capitalk FM 100.4",
+    "url": "https://edge.iono.fm/xice/162_medium.aac",
+    "genre": "Music",
+    "city": "Harare",
+    "country": "Zimbabwe",
+    "lat": -17.8567035,
+    "lng": 31.0601584
+  },
+  {
+    "id": "zimbabwe-byta-fm-radio-903",
+    "name": "Byta FM Radio 90.3",
+    "url": "https://s13.myradiostream.com/:38946/listen.mp3/",
+    "genre": "Music",
+    "city": "Bulawayo",
+    "country": "Zimbabwe",
+    "lat": -20.1560599,
+    "lng": 28.5887063
+  },
+  {
+    "id": "zimbabwe-jouradio-fm-910",
+    "name": "JouRadio FM 91.0",
+    "url": "https://audio-edge-jfbmv.sin.d.radiomast.io/a425e29b-a485-4b55-9e77-a501be8d1ee7",
+    "genre": "Music",
+    "city": "Bulawayo",
+    "country": "Zimbabwe",
+    "lat": -20.1560599,
+    "lng": 28.5887063
+  },
+  {
+    "id": "zimbabwe-national-fm",
+    "name": "National FM",
+    "url": "http://154.120.239.26:8020/national.mp3",
+    "genre": "Music",
+    "city": "Harare",
+    "country": "Zimbabwe",
+    "lat": -17.8567035,
+    "lng": 31.0601584
+  },
+  {
+    "id": "zimbabwe-radio-zimbabwe-fm-960",
+    "name": "Radio Zimbabwe FM 96.0",
+    "url": "http://154.120.239.26:8040/nhepfenuro.mp3",
+    "genre": "Music",
+    "city": "Harare",
+    "country": "Zimbabwe",
+    "lat": -17.8567035,
+    "lng": 31.0601584
+  },
+  {
+    "id": "zimbabwe-zi-fm-stereo-1064",
+    "name": "Zi FM Stereo 106.4",
+    "url": "https://edge.iono.fm/xice/134_medium.aac",
+    "genre": "Music",
+    "city": "Harare",
+    "country": "Zimbabwe",
+    "lat": -17.8567035,
+    "lng": 31.0601584
+  },
+  {
+    "id": "zimbabwe-radio-54-african-panorama",
+    "name": "Radio 54 African Panorama",
+    "url": "https://stream.shoutcastservices.com/proxy/radio54/stream.mp3",
+    "genre": "Music",
+    "city": "Harare",
+    "country": "Zimbabwe",
+    "lat": -17.8567035,
+    "lng": 31.0601584
+  },
+  {
+    "id": "zimbabwe-zim-net-radio-gospel-channel",
+    "name": "zim NET radio Gospel Channel",
+    "url": "https://zimnetradio.net/gcstream/radio.mp3/;stream.mp3",
+    "genre": "Music",
+    "city": "Harare",
+    "country": "Zimbabwe",
+    "lat": -17.8567035,
+    "lng": 31.0601584
+  },
+  {
+    "id": "zimbabwe-hevoifm-1002",
+    "name": "HevoiFM 100.2",
+    "url": "https://s27.myradiostream.com:17754/listen.m4a",
+    "genre": "Music",
+    "city": "Harare",
+    "country": "Zimbabwe",
+    "lat": -17.8567035,
+    "lng": 31.0601584
+  },
+  {
+    "id": "zimbabwe-chikuni-radio-fm-919",
+    "name": "Chikuni Radio FM 91.9",
+    "url": "https://chikunir.radioca.st/live",
+    "genre": "Music",
+    "city": "Harare",
+    "country": "Zimbabwe",
+    "lat": -17.8567035,
+    "lng": 31.0601584
+  },
+  {
+    "id": "zimbabwe-khulumani-fm-950",
+    "name": "Khulumani FM 95.0",
+    "url": "https://khulumanistream.zbc.co.zw:8000/radio.mp3",
+    "genre": "Music",
+    "city": "Bulawayo",
+    "country": "Zimbabwe",
+    "lat": -20.1560599,
+    "lng": 28.5887063
+  },
+  {
+    "id": "zimbabwe-classic-263-928",
+    "name": "Classic 263 92.8",
+    "url": "https://mainradiostreaming.zbc.co.zw:8030/radio.mp3",
+    "genre": "Music",
+    "city": "Harare",
+    "country": "Zimbabwe",
+    "lat": -17.8567035,
+    "lng": 31.0601584
+  },
+  {
+    "id": "zimbabwe-spice-fm-911",
+    "name": "Spice FM 91.1",
+    "url": "http://live.rcast.net:8768/;stream.mp3",
+    "genre": "Music",
+    "city": "Victoria Falls",
+    "country": "Zimbabwe",
+    "lat": -17.922895,
+    "lng": 25.8476849
+  },
+  {
+    "id": "zimbabwe-zamcom-radio-1001-fm",
+    "name": "Zamcom Radio 100.1 FM",
+    "url": "https://stream-178.zeno.fm/boxjrzkyo6jvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJib3hqcnpreW82anZ2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiMEo0WWt3cmtSaENTRkoteDZBSEkxZyIsImlhdCI6MTc2OTQyNDUxMSwiZXhwIjoxNzY5NDI0NTcxfQ.3VxrdQEg7FmFdIQ6uJgdfSfbWWupJGDobP7udmbl0r8",
+    "genre": "Music",
+    "city": "Harare",
+    "country": "Zimbabwe",
+    "lat": -17.8567035,
+    "lng": 31.0601584
+  },
+  {
+    "id": "zimbabwe-skyz-metro-fm",
+    "name": "Skyz Metro FM",
+    "url": "https://stream-157.zeno.fm/2634b6n4qy8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIyNjM0YjZuNHF5OHV2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiODZWVG9BT0ZTdUNBOFRQc0FRcGhqZyIsImlhdCI6MTc2OTQyNDUxMSwiZXhwIjoxNzY5NDI0NTcxfQ.mILX6GekriMeaR_12Uejcgx3oyKlSjfbMDssbVSdPQM",
+    "genre": "Music",
+    "city": "Bulawayo",
+    "country": "Zimbabwe",
+    "lat": -20.1560599,
+    "lng": 28.5887063
+  },
+  {
+    "id": "zimbabwe-nust-fm-1011",
+    "name": "Nust FM 101.1",
+    "url": "https://stream-175.zeno.fm/zz40oe1wtfwtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ6ejQwb2Uxd3Rmd3R2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiOV9qVGtCMnhTVXU0b3k3TVdUbm9MUSIsImlhdCI6MTc2OTQyNDUxMSwiZXhwIjoxNzY5NDI0NTcxfQ.rs-y08JiT1guwtKZ24WozLcltXxtayVffMLVB4t4j64",
+    "genre": "Music",
+    "city": "Harare",
+    "country": "Zimbabwe",
+    "lat": -17.8567035,
+    "lng": 31.0601584
+  },
+  {
+    "id": "zimbabwe-gzu-campus-radio",
+    "name": "GZU Campus Radio",
+    "url": "http://41.174.189.194:88/broadwave.mp3?src=1&rate=1/;",
+    "genre": "Music",
+    "city": "Mutare",
+    "country": "Zimbabwe",
+    "lat": -18.974656,
+    "lng": 32.670473
+  },
+  {
+    "id": "zimbabwe-nyangani-fm",
+    "name": "Nyangani FM",
+    "url": "https://a13.asurahosting.com/listen/nyangani_fm/radio.mp3",
+    "genre": "Music",
+    "city": "Nyanga",
+    "country": "Zimbabwe",
+    "lat": -17.9176328,
+    "lng": 32.7898145
+  },
+  {
+    "id": "zimbabwe-nehanda-radio",
+    "name": "Nehanda Radio",
+    "url": "https://eu4.fastcast4u.com/proxy/lancguma?mp=/1",
+    "genre": "Music",
+    "city": "Harare",
+    "country": "Zimbabwe",
+    "lat": -17.8567035,
+    "lng": 31.0601584
+  },
+  {
+    "id": "zimbabwe-vision-fm",
+    "name": "Vision FM",
+    "url": "https://n03.radiojar.com/nvxp6xm0uz4tv?rj-ttl=5&rj-tok=AAABm_n0ky8AbnapNXgjFLQWeg",
+    "genre": "Music",
+    "city": "Masvingo",
+    "country": "Zimbabwe",
+    "lat": -20.7453957,
+    "lng": 31.334138
+  },
+  {
+    "id": "zimbabwe-breeze-fm-912",
+    "name": "Breeze FM 91.2",
+    "url": "https://stream-158.zeno.fm/n7qepsfem98uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJuN3FlcHNmZW05OHV2IiwiaG9zdCI6InN0cmVhbS0xNTguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiZzdNdXNodGJSR2FDMkNaX1RYcjBfUSIsImlhdCI6MTc2OTQyNDUxMywiZXhwIjoxNzY5NDI0NTczfQ.B_ScTSh6Zrv6nzf6SiOK-Q2j7kmUXJ_eE9ILgWkY9YQ",
+    "genre": "Music",
+    "city": "Victoria Falls",
+    "country": "Zimbabwe",
+    "lat": -17.922895,
+    "lng": 25.8476849
+  },
+  {
+    "id": "zimbabwe-laka-radio-1033-fm",
+    "name": "Laka Radio 103.3 FM",
+    "url": "https://stream-161.zeno.fm/zgvj3sab3hztv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ6Z3ZqM3NhYjNoenR2IiwiaG9zdCI6InN0cmVhbS0xNjEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoidGJ3UEFqY2pSRWUzUzdkRFhYR3FMdyIsImlhdCI6MTc2OTQyNDUxMywiZXhwIjoxNzY5NDI0NTczfQ.lFlTrKS52W5ZUN2fhYrh_XkozoaEUhwgV2mShsIaEhQ",
+    "genre": "Music",
+    "city": "Victoria Falls",
+    "country": "Zimbabwe",
+    "lat": -17.922895,
+    "lng": 25.8476849
+  },
+  {
+    "id": "zimbabwe-live-radio-973-fm",
+    "name": "Live Radio 97.3 FM",
+    "url": "https://stream-177.zeno.fm/0w833z1xd5zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwdzgzM3oxeGQ1enV2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiYjA3Vk9yNk5Sd0dNN1AtanZXQmdtdyIsImlhdCI6MTc2OTQyNDUxMywiZXhwIjoxNzY5NDI0NTczfQ.rWAOj3Fb_RPdV5AT00aQ3m1r8IdCDXw0dgjZlIjE5as",
+    "genre": "Music",
+    "city": "Lupane",
+    "country": "Zimbabwe",
+    "lat": -18.9346723,
+    "lng": 27.7728319
+  },
+  {
+    "id": "zimbabwe-power-fm-zimbabwe",
+    "name": "Power FM Zimbabwe",
+    "url": "https://backupradiostreaming.zbc.co.zw:8000/radio.mp3",
+    "genre": "Music",
+    "city": "Harare",
+    "country": "Zimbabwe",
+    "lat": -17.8567035,
+    "lng": 31.0601584
+  },
+  {
+    "id": "zimbabwe-lupane-state-university-978-fm-campus-radio",
+    "name": "Lupane State University 97.8 FM Campus Radio",
+    "url": "https://stream-166.zeno.fm/n2wxhjrnqkuuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJuMnd4aGpybnFrdXV2IiwiaG9zdCI6InN0cmVhbS0xNjYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiVW1BdFVoOXJSS0c0VHlUUFd6dnpsQSIsImlhdCI6MTc2OTQyNDUxMywiZXhwIjoxNzY5NDI0NTczfQ.ipAcL-mrJCTxV-bk4kZUmiBzffXgtZXEKnmTik5uuZs",
+    "genre": "Music",
+    "city": "Lupane",
+    "country": "Zimbabwe",
+    "lat": -18.9346723,
+    "lng": 27.7728319
+  },
+  {
+    "id": "zimbabwe-rádio-mega-fm-1047",
+    "name": "Rádio Mega FM 104.7",
+    "url": "https://servidor24.brlogic.com:7066/live",
+    "genre": "Music",
+    "city": "Mutare",
+    "country": "Zimbabwe",
+    "lat": -18.974656,
+    "lng": 32.670473
+  }
+]

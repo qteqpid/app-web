@@ -1,0 +1,102 @@
+[
+  {
+    "id": "bahrain-best-on-top-radio",
+    "name": "Best On Top Radio",
+    "url": "http://198.7.62.157:10008/stream",
+    "genre": "Music",
+    "city": "Manama",
+    "country": "Bahrain",
+    "lat": 26.2235041,
+    "lng": 50.5822436
+  },
+  {
+    "id": "bahrain-shabakat-nur-1031-fm",
+    "name": "Shabakat Nur 103.1 FM",
+    "url": "https://albahrani.org/listen/shabakat_nur/SDradio.mp3",
+    "genre": "Music",
+    "city": "Manama",
+    "country": "Bahrain",
+    "lat": 26.2235041,
+    "lng": 50.5822436
+  },
+  {
+    "id": "bahrain-radio-suno-876-fm",
+    "name": "Radio Suno 87.6 FM",
+    "url": "https://a1.asurahosting.com/listen/radio_suno_87.6fm/radio.mp3",
+    "genre": "Music",
+    "city": "Manama",
+    "country": "Bahrain",
+    "lat": 26.2235041,
+    "lng": 50.5822436
+  },
+  {
+    "id": "bahrain-plus-fm-892",
+    "name": "Plus FM 89.2",
+    "url": "https://l3.itworkscdn.net/itwaudio/9026/stream.mp3",
+    "genre": "Music",
+    "city": "Manama",
+    "country": "Bahrain",
+    "lat": 26.2235041,
+    "lng": 50.5822436
+  },
+  {
+    "id": "bahrain-miraath-al-anbiyya",
+    "name": "Miraath Al Anbiyya",
+    "url": "https://radio.al7eah.net/8010/stream",
+    "genre": "Music",
+    "city": "Manama",
+    "country": "Bahrain",
+    "lat": 26.2235041,
+    "lng": 50.5822436
+  },
+  {
+    "id": "bahrain-voice-of-ummah",
+    "name": "Voice of Ummah",
+    "url": "https://mediati.me/radio/8010/radio.mp3",
+    "genre": "Music",
+    "city": "Manama",
+    "country": "Bahrain",
+    "lat": 26.2235041,
+    "lng": 50.5822436
+  },
+  {
+    "id": "bahrain-radio-bahrain-965-fm",
+    "name": "Radio Bahrain 96.5 FM",
+    "url": "https://stream-14.aiir.com/uejfkn0dchcuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1ZWpma24wZGNoY3V2IiwiaG9zdCI6InN0cmVhbS0xNC5haWlyLmNvbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiZUFQUTF6V0lRN1NPdnBydF90bTFEQSIsImlhdCI6MTc2OTQxNjYyMiwiZXhwIjoxNzY5NDE2NjgyfQ.GcUdJ8Darh0lXzJtw9_SV7HQloutqVw8BqkikgenBLA",
+    "genre": "Music",
+    "city": "Manama",
+    "country": "Bahrain",
+    "lat": 26.2235041,
+    "lng": 50.5822436
+  },
+  {
+    "id": "bahrain-live-fm-1072",
+    "name": "Live FM 107.2",
+    "url": "https://stream-15.aiir.com/dbv0rxpwp6ytv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJkYnYwcnhwd3A2eXR2IiwiaG9zdCI6InN0cmVhbS0xNS5haWlyLmNvbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoib2hYaEVqNl9UY3FyVGNJY1ppVUVGQSIsImlhdCI6MTc2OTQxNjYyMiwiZXhwIjoxNzY5NDE2NjgyfQ.JaheJShJNfkqGGYv-cpouqZFdvu8c0PjP5OIIf-ioUs",
+    "genre": "Music",
+    "city": "Manama",
+    "country": "Bahrain",
+    "lat": 26.2235041,
+    "lng": 50.5822436
+  },
+  {
+    "id": "bahrain-uthamiyae-fm-radio",
+    "name": "Uthamiyae FM Radio",
+    "url": "https://ssl.aloncast.com:1595/",
+    "genre": "Music",
+    "city": "Manama",
+    "country": "Bahrain",
+    "lat": 26.2235041,
+    "lng": 50.5822436
+  },
+  {
+    "id": "bahrain-bfbs-bahrain",
+    "name": "BFBS Bahrain",
+    "url": "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs9.mp3",
+    "genre": "Music",
+    "city": "Manama",
+    "country": "Bahrain",
+    "lat": 26.2235041,
+    "lng": 50.5822436
+  }
+]

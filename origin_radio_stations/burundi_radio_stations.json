@@ -1,0 +1,382 @@
+[
+  {
+    "id": "burundi-radio-maria-burundi",
+    "name": "Radio Maria Burundi",
+    "url": "https://dreamsiteradiocp2.com/proxy/rmburundi2?mp=/stream",
+    "genre": "Music",
+    "city": "Bujumbura",
+    "country": "Burundi",
+    "lat": -3.3638125,
+    "lng": 29.3675028
+  },
+  {
+    "id": "burundi-kabalega-fm-1069",
+    "name": "Kabalega FM 106.9",
+    "url": "https://stream.hydeinnovations.com:2020/stream/kabalega-fm/stream/",
+    "genre": "Music",
+    "city": "Hoima",
+    "country": "Uganda",
+    "lat": 1.5661927,
+    "lng": 31.1480968
+  },
+  {
+    "id": "burundi-kazi-njema-radio",
+    "name": "Kazi Njema Radio",
+    "url": "https://cast3.asurahosting.com/proxy/habincon/stream",
+    "genre": "Music",
+    "city": "Hoima",
+    "country": "Uganda",
+    "lat": 1.5661927,
+    "lng": 31.1480968
+  },
+  {
+    "id": "burundi-radio-hoima-886-fm",
+    "name": "Radio Hoima 88.6 FM",
+    "url": "https://r1.comcities.com/proxy/ytswyfvh/stream",
+    "genre": "Music",
+    "city": "Hoima",
+    "country": "Uganda",
+    "lat": 1.5661927,
+    "lng": 31.1480968
+  },
+  {
+    "id": "burundi-kico-rhythm-radio",
+    "name": "Kico Rhythm Radio",
+    "url": "https://r1.comcities.com/proxy/vwbsmpkb/stream",
+    "genre": "Music",
+    "city": "Hoima",
+    "country": "Uganda",
+    "lat": 1.5661927,
+    "lng": 31.1480968
+  },
+  {
+    "id": "burundi-burungi-bwansi-radio",
+    "name": "Burungi Bwansi Radio",
+    "url": "https://r1.comcities.com/proxy/klschniv/stream",
+    "genre": "Music",
+    "city": "Hoima",
+    "country": "Uganda",
+    "lat": 1.5661927,
+    "lng": 31.1480968
+  },
+  {
+    "id": "burundi-radio-agakiza",
+    "name": "Radio Agakiza",
+    "url": "https://cast6.my-control-panel.com/proxy/radioaga/stream",
+    "genre": "Music",
+    "city": "Bujumbura",
+    "country": "Burundi",
+    "lat": -3.3638125,
+    "lng": 29.3675028
+  },
+  {
+    "id": "burundi-rtnb-chaine-2",
+    "name": "RTNB Chaine 2",
+    "url": "http://41.79.226.196:8000/rtnb2",
+    "genre": "Music",
+    "city": "Bujumbura",
+    "country": "Burundi",
+    "lat": -3.3638125,
+    "lng": 29.3675028
+  },
+  {
+    "id": "burundi-rtnb-chaine-1",
+    "name": "RTNB Chaine 1",
+    "url": "http://41.79.226.195:8000/rtnb1",
+    "genre": "Music",
+    "city": "Bujumbura",
+    "country": "Burundi",
+    "lat": -3.3638125,
+    "lng": 29.3675028
+  },
+  {
+    "id": "burundi-radio-cdn-la-voie-de-cibitoke",
+    "name": "Radio CDN la voie de Cibitoke",
+    "url": "https://s48.myradiostream.com/:11844/listen.mp3",
+    "genre": "Music",
+    "city": "Cibitoke",
+    "country": "Burundi",
+    "lat": -2.8477341,
+    "lng": 29.261662
+  },
+  {
+    "id": "burundi-radio-maendeleo-888-fm",
+    "name": "Radio Maendeleo 88.8 FM",
+    "url": "https://cast.az-streamingserver.com/proxy/sazobvdl/stream",
+    "genre": "Music",
+    "city": "Bujumbura",
+    "country": "Burundi",
+    "lat": -3.3638125,
+    "lng": 29.3675028
+  },
+  {
+    "id": "burundi-radio-isanganiro",
+    "name": "Radio Isanganiro",
+    "url": "https://isanganiro.ice.infomaniak.ch/isanganiro-64.mp3?_=1",
+    "genre": "Music",
+    "city": "Bujumbura",
+    "country": "Burundi",
+    "lat": -3.3638125,
+    "lng": 29.3675028
+  },
+  {
+    "id": "burundi-royal-fm-943",
+    "name": "Royal FM 94.3",
+    "url": "https://stream3.rcast.net/73260",
+    "genre": "Music",
+    "city": "Bujumbura",
+    "country": "Burundi",
+    "lat": -3.3638125,
+    "lng": 29.3675028
+  },
+  {
+    "id": "burundi-radio-kwizera-fm-979",
+    "name": "Radio Kwizera FM 97.9",
+    "url": "https://uk4-vn.mixstream.net/:8052/;listen.mp3",
+    "genre": "Music",
+    "city": "Bujumbura",
+    "country": "Burundi",
+    "lat": -3.3638125,
+    "lng": 29.3675028
+  },
+  {
+    "id": "burundi-sda-radio-station",
+    "name": "SDA Radio station",
+    "url": "https://stream-177.zeno.fm/cu7nmvnp4ehvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjdTdubXZucDRlaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiQlNfOXh6ZjVTRUNCckV4bHpvSVRidyIsImlhdCI6MTc2OTQxNzI0NywiZXhwIjoxNzY5NDE3MzA3fQ.LS_Og-fGOJukxKeV-_CaZGGdfJ-xyjy6Oekac_hEi2Y",
+    "genre": "Music",
+    "city": "Cibitoke",
+    "country": "Burundi",
+    "lat": -2.8477341,
+    "lng": 29.261662
+  },
+  {
+    "id": "burundi-goma-webradio",
+    "name": "Goma Webradio",
+    "url": "https://stream-176.zeno.fm/4d61wprrp7zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0ZDYxd3BycnA3enV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiTXliVVBqZVlScUNRdzZIVVNpNW9EZyIsImlhdCI6MTc2OTQxNzI0NywiZXhwIjoxNzY5NDE3MzA3fQ.1zG9OFVFcSEwfqYLSiOCPj6MzDCsTJjPy4kmkFPqSVg",
+    "genre": "Music",
+    "city": "Cibitoke",
+    "country": "Burundi",
+    "lat": -2.8477341,
+    "lng": 29.261662
+  },
+  {
+    "id": "burundi-radio-voix-despoir-fm-943",
+    "name": "Radio Voix d'Espoir FM 94.3",
+    "url": "https://stream1.rcast.net/65372",
+    "genre": "Music",
+    "city": "Bujumbura",
+    "country": "Burundi",
+    "lat": -3.3638125,
+    "lng": 29.3675028
+  },
+  {
+    "id": "burundi-rete-uno-network",
+    "name": "Rete Uno Network",
+    "url": "http://dreamsiteradiocp3.com:8042/stream",
+    "genre": "Music",
+    "city": "Brindisi",
+    "country": "Italy",
+    "lat": 40.6358599,
+    "lng": 17.6884975
+  },
+  {
+    "id": "burundi-radio-frate-sole",
+    "name": "Radio Frate Sole",
+    "url": "http://94.23.66.155:9216/stream/",
+    "genre": "Music",
+    "city": "Brindisi",
+    "country": "Italy",
+    "lat": 40.6358599,
+    "lng": 17.6884975
+  },
+  {
+    "id": "burundi-kkcr-fm-917",
+    "name": "KKCR FM 91.7",
+    "url": "https://kkcradio.urdt.net:8000/radio.mp3",
+    "genre": "Music",
+    "city": "Hoima",
+    "country": "Uganda",
+    "lat": 1.5661927,
+    "lng": 31.1480968
+  },
+  {
+    "id": "burundi-discobox-–-ciccio-riccio-2-964-fm",
+    "name": "Discobox – Ciccio Riccio 2 96.4 FM",
+    "url": "http://stream1.xdevel.com/audio1s975942-759/stream/icecast.audio",
+    "genre": "Music",
+    "city": "Brindisi",
+    "country": "Italy",
+    "lat": 40.6358599,
+    "lng": 17.6884975
+  },
+  {
+    "id": "burundi-idea-radio",
+    "name": "Idea Radio",
+    "url": "http://nr7.newradio.it:9361/stream",
+    "genre": "Music",
+    "city": "Brindisi",
+    "country": "Italy",
+    "lat": 40.6358599,
+    "lng": 17.6884975
+  },
+  {
+    "id": "burundi-kdr-1003-fm",
+    "name": "KDR 100.3 FM",
+    "url": "https://radiocomnetu.org/kdrfm-stream",
+    "genre": "Music",
+    "city": "Hoima",
+    "country": "Uganda",
+    "lat": 1.5661927,
+    "lng": 31.1480968
+  },
+  {
+    "id": "burundi-biiso-fm-978",
+    "name": "Biiso FM 97.8",
+    "url": "https://eu10.fastcast4u.com/biisofm",
+    "genre": "Music",
+    "city": "Hoima",
+    "country": "Uganda",
+    "lat": 1.5661927,
+    "lng": 31.1480968
+  },
+  {
+    "id": "burundi-radio-wa-fm-898",
+    "name": "Radio Wa FM 89.8",
+    "url": "https://nr8.newradio.it/proxy/radiowa?mp=/stream/",
+    "genre": "Music",
+    "city": "Hoima",
+    "country": "Uganda",
+    "lat": 1.5661927,
+    "lng": 31.1480968
+  },
+  {
+    "id": "burundi-point-fm-1051",
+    "name": "Point FM 105.1",
+    "url": "https://stream-15.aiir.com/tr8i96wjtcptv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0cjhpOTZ3anRjcHR2IiwiaG9zdCI6InN0cmVhbS0xNS5haWlyLmNvbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiT2lXSW5BZ1pRTkNHWHJ4Vlc4cE4tZyIsImlhdCI6MTc2OTQxNzI0OSwiZXhwIjoxNzY5NDE3MzA5fQ.7slC_FQC5HyBWlNMIlX6-s3_Gb5HILHCRjzrFM9NKak",
+    "genre": "Music",
+    "city": "Hoima",
+    "country": "Uganda",
+    "lat": 1.5661927,
+    "lng": 31.1480968
+  },
+  {
+    "id": "burundi-capital-fm-913",
+    "name": "Capital FM 91.3",
+    "url": "https://capitalfm.cloudrad.io/index.html?sid=1",
+    "genre": "Music",
+    "city": "Hoima",
+    "country": "Uganda",
+    "lat": 1.5661927,
+    "lng": 31.1480968
+  },
+  {
+    "id": "burundi-ciccio-riccio",
+    "name": "Ciccio Riccio",
+    "url": "https://stream5.xdevel.com/audio0s975942-758/stream/icecast.audio",
+    "genre": "Music",
+    "city": "Brindisi",
+    "country": "Italy",
+    "lat": 40.6358599,
+    "lng": 17.6884975
+  },
+  {
+    "id": "burundi-radio-enjoy-puglia",
+    "name": "Radio Enjoy Puglia",
+    "url": "https://s1.forstream.it:8030/enjoyHQ",
+    "genre": "Music",
+    "city": "Brindisi",
+    "country": "Italy",
+    "lat": 40.6358599,
+    "lng": 17.6884975
+  },
+  {
+    "id": "burundi-radio-paidha-fm-878",
+    "name": "Radio Paidha FM 87.8",
+    "url": "https://stream-163.zeno.fm/cxhyxmawdzsvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjeGh5eG1hd2R6c3Z2IiwiaG9zdCI6InN0cmVhbS0xNjMuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiNWJYUndtejVRVW1tWUk2bUItNFNlZyIsImlhdCI6MTc2OTQxNzI1MCwiZXhwIjoxNzY5NDE3MzEwfQ.8wondlOraENC3RRjLaH6-HHRoAYMfKC3lje7oHS53vY",
+    "genre": "Music",
+    "city": "Hoima",
+    "country": "Uganda",
+    "lat": 1.5661927,
+    "lng": 31.1480968
+  },
+  {
+    "id": "burundi-radio-unity-fm-977",
+    "name": "Radio Unity FM 97.7",
+    "url": "https://stream-153.zeno.fm/e4ru9m1x768uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJlNHJ1OW0xeDc2OHV2IiwiaG9zdCI6InN0cmVhbS0xNTMuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiQjE1QnAzVXlRS3VaMUxCeFp1c1R4USIsImlhdCI6MTc2OTQxNzI1MCwiZXhwIjoxNzY5NDE3MzEwfQ.k25UQMAoBLfniuzbXVq2fwiXh63Zqd3XckYtYT2Wdmw",
+    "genre": "Music",
+    "city": "Hoima",
+    "country": "Uganda",
+    "lat": 1.5661927,
+    "lng": 31.1480968
+  },
+  {
+    "id": "burundi-voice-of-lango-880-fm",
+    "name": "Voice of Lango 88.0 FM",
+    "url": "https://stream-163.zeno.fm/gbp29ctt6rhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJnYnAyOWN0dDZyaHZ2IiwiaG9zdCI6InN0cmVhbS0xNjMuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoieXh2cTNCWk9Sb3kwR0hjQ2VYODFzUSIsImlhdCI6MTc2OTQxNzI1MCwiZXhwIjoxNzY5NDE3MzEwfQ.K58NIwBMdwehpzDSV5vZQDQ8pBdbIfejRJbbshn8KJk",
+    "genre": "Music",
+    "city": "Hoima",
+    "country": "Uganda",
+    "lat": 1.5661927,
+    "lng": 31.1480968
+  },
+  {
+    "id": "burundi-rds-fm-1030",
+    "name": "RDS FM 103.0",
+    "url": "https://icstream.rds.radio/rds",
+    "genre": "Music",
+    "city": "Brindisi",
+    "country": "Italy",
+    "lat": 40.6358599,
+    "lng": 17.6884975
+  },
+  {
+    "id": "burundi-radio-antenna-sud",
+    "name": "Radio Antenna Sud",
+    "url": "https://stream10.xdevel.com/audio0s977364-1903/stream/icecast.audio",
+    "genre": "Music",
+    "city": "Brindisi",
+    "country": "Italy",
+    "lat": 40.6358599,
+    "lng": 17.6884975
+  },
+  {
+    "id": "burundi-rai-radio-2",
+    "name": "Rai Radio 2",
+    "url": "https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S35942484/yp5F67151K92/icecast",
+    "genre": "Music",
+    "city": "Brindisi",
+    "country": "Italy",
+    "lat": 40.6358599,
+    "lng": 17.6884975
+  },
+  {
+    "id": "burundi-rai-radio-3",
+    "name": "Rai Radio 3",
+    "url": "https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S56630579/yEbkcBtIoSwd/icecast",
+    "genre": "Music",
+    "city": "Brindisi",
+    "country": "Italy",
+    "lat": 40.6358599,
+    "lng": 17.6884975
+  },
+  {
+    "id": "burundi-rai-radio-1",
+    "name": "Rai Radio 1",
+    "url": "https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S16355530/Q4zh3NTu28Rx/icecast",
+    "genre": "Music",
+    "city": "Brindisi",
+    "country": "Italy",
+    "lat": 40.6358599,
+    "lng": 17.6884975
+  },
+  {
+    "id": "burundi-radio-qfm-943",
+    "name": "Radio QFM 94.3",
+    "url": "https://host.atenimedia.com/listen/radio_qfm_lira/radio.mp3",
+    "genre": "Music",
+    "city": "Hoima",
+    "country": "Uganda",
+    "lat": 1.5661927,
+    "lng": 31.1480968
+  }
+]

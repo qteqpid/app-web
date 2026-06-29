@@ -1,0 +1,162 @@
+[
+  {
+    "id": "kyrgyzstan-radio-tatina-1063-fm",
+    "name": "Radio Tatina 106.3 FM",
+    "url": "http://82.146.46.229:8000/radio.mp3",
+    "genre": "Music",
+    "city": "Kara Balta",
+    "country": "Kyrgyzstan",
+    "lat": 42.801143,
+    "lng": 73.8523018
+  },
+  {
+    "id": "kyrgyzstan-dfm-1055",
+    "name": "DFM 105.5",
+    "url": "https://c16.radioboss.fm:18234/stream",
+    "genre": "Music",
+    "city": "Bishkek",
+    "country": "Kyrgyzstan",
+    "lat": 42.8761424,
+    "lng": 74.6036724
+  },
+  {
+    "id": "kyrgyzstan-iradio-fm-920",
+    "name": "IRadio FM 92.0",
+    "url": "http://212.112.123.200:8000/stream.ogg",
+    "genre": "Music",
+    "city": "Bishkek",
+    "country": "Kyrgyzstan",
+    "lat": 42.8761424,
+    "lng": 74.6036724
+  },
+  {
+    "id": "kyrgyzstan-ok-radio-fm-1005",
+    "name": "OK Radio FM 100.5",
+    "url": "https://stream.teos.media/stream",
+    "genre": "Music",
+    "city": "Bishkek",
+    "country": "Kyrgyzstan",
+    "lat": 42.8761424,
+    "lng": 74.6036724
+  },
+  {
+    "id": "kyrgyzstan-новое-радио-жаңа-fm",
+    "name": "Новое Радио (Жаңа FM)",
+    "url": "https://live.zhanafm.kz:8443/zhanafm_onair",
+    "genre": "Music",
+    "city": "Bishkek",
+    "country": "Kyrgyzstan",
+    "lat": 42.8761424,
+    "lng": 74.6036724
+  },
+  {
+    "id": "kyrgyzstan-радио-тироз",
+    "name": "радио Тироз",
+    "url": "https://eu1.fastcast4u.com/proxy/khusrav/stream",
+    "genre": "Music",
+    "city": "Bishkek",
+    "country": "Kyrgyzstan",
+    "lat": 42.8761424,
+    "lng": 74.6036724
+  },
+  {
+    "id": "kyrgyzstan-classic-fm",
+    "name": "Classic FM",
+    "url": "https://radio-streams.kaztrk.kz/classic/classic/icecast.audio",
+    "genre": "Music",
+    "city": "Osh",
+    "country": "Kyrgyzstan",
+    "lat": 40.1082848,
+    "lng": 73.1931447
+  },
+  {
+    "id": "kyrgyzstan-tumar-fm",
+    "name": "Tumar FM",
+    "url": "https://radio.tumar.fm:8005/stream",
+    "genre": "Music",
+    "city": "Bishkek",
+    "country": "Kyrgyzstan",
+    "lat": 42.8761424,
+    "lng": 74.6036724
+  },
+  {
+    "id": "kyrgyzstan-asia-plus-radio-fm-1070",
+    "name": "Asia Plus Radio FM 107.0",
+    "url": "https://eu.asiaplusradio.tj:8443/ap",
+    "genre": "Music",
+    "city": "Bishkek",
+    "country": "Kyrgyzstan",
+    "lat": 42.8761424,
+    "lng": 74.6036724
+  },
+  {
+    "id": "kyrgyzstan-valley-fm-103",
+    "name": "Valley FM 103",
+    "url": "https://stream-178.zeno.fm/s96ccqggr2zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzOTZjY3FnZ3IyenV2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoid1hkT2J1Q19UWkMwUkpRRWJQWUNVUSIsImlhdCI6MTc2OTQxOTk4NCwiZXhwIjoxNzY5NDIwMDQ0fQ.Un426kVXlcGK9l1K9h7ZDOTLScjkOstiTm0rQ0KNNow",
+    "genre": "Music",
+    "city": "Osh",
+    "country": "Kyrgyzstan",
+    "lat": 40.1082848,
+    "lng": 73.1931447
+  },
+  {
+    "id": "kyrgyzstan-hit-fm-kyrgyzstan",
+    "name": "Hit FM Kyrgyzstan",
+    "url": "https://cdn.radioplayer.kg:8443/hitfm64",
+    "genre": "Music",
+    "city": "Bishkek",
+    "country": "Kyrgyzstan",
+    "lat": 42.8761424,
+    "lng": 74.6036724
+  },
+  {
+    "id": "kyrgyzstan-aura-fm",
+    "name": "Aura FM",
+    "url": "https://cdn.radioplayer.kg:8443/new64",
+    "genre": "Music",
+    "city": "Osh",
+    "country": "Kyrgyzstan",
+    "lat": 40.1082848,
+    "lng": 73.1931447
+  },
+  {
+    "id": "kyrgyzstan-avtoradio-bishkek-fm-1078",
+    "name": "Avtoradio Bishkek FM 107.8",
+    "url": "https://cast.avtoradio.kg/0/avtoradio",
+    "genre": "Music",
+    "city": "Bishkek",
+    "country": "Kyrgyzstan",
+    "lat": 42.8761424,
+    "lng": 74.6036724
+  },
+  {
+    "id": "kyrgyzstan-kyrgyzstan-obondoru",
+    "name": "Kyrgyzstan Obondoru",
+    "url": "https://cdn.radioplayer.kg:8443/obondoru64",
+    "genre": "Music",
+    "city": "Bishkek",
+    "country": "Kyrgyzstan",
+    "lat": 42.8761424,
+    "lng": 74.6036724
+  },
+  {
+    "id": "kyrgyzstan-business-fm",
+    "name": "Business FM",
+    "url": "https://bfmreg.hostingradio.ru/kz.bfm128.mp3",
+    "genre": "Music",
+    "city": "Bishkek",
+    "country": "Kyrgyzstan",
+    "lat": 42.8761424,
+    "lng": 74.6036724
+  },
+  {
+    "id": "kyrgyzstan-радио-европа-плюс-ош-1038",
+    "name": "Радио Европа Плюс Ош 103.8",
+    "url": "https://europaplus.hostingradio.ru:8014/europaplus320.mp3",
+    "genre": "Music",
+    "city": "Bishkek",
+    "country": "Kyrgyzstan",
+    "lat": 42.8761424,
+    "lng": 74.6036724
+  }
+]

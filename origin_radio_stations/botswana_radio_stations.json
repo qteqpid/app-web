@@ -1,0 +1,202 @@
+[
+  {
+    "id": "botswana-jazzysoulradio",
+    "name": "JazzySoulRadio",
+    "url": "https://az13.yesstreaming.net:8360/radio.mp3",
+    "genre": "Music",
+    "city": "Francistown",
+    "country": "Botswana",
+    "lat": -21.16636,
+    "lng": 27.502515
+  },
+  {
+    "id": "botswana-mahikeng-fm-967",
+    "name": "Mahikeng FM 96.7",
+    "url": "https://edge.iono.fm/xice/178_medium.aac",
+    "genre": "Music",
+    "city": "Gaborone",
+    "country": "Botswana",
+    "lat": -24.6581357,
+    "lng": 25.9088474
+  },
+  {
+    "id": "botswana-otji-fm-1076",
+    "name": "Otji FM 107.6",
+    "url": "https://carina.streamerr.co/stream/otjifm/stream",
+    "genre": "Music",
+    "city": "Ghanzi",
+    "country": "Botswana",
+    "lat": -22.145794,
+    "lng": 22.7610828
+  },
+  {
+    "id": "botswana-choice-fm-1011",
+    "name": "Choice FM 101.1",
+    "url": "http://sv6.famcast.co.za:8000/choicelive",
+    "genre": "Music",
+    "city": "Francistown",
+    "country": "Botswana",
+    "lat": -21.16636,
+    "lng": 27.502515
+  },
+  {
+    "id": "botswana-byta-fm-radio-903",
+    "name": "Byta FM Radio 90.3",
+    "url": "https://s13.myradiostream.com/:38946/listen.mp3/",
+    "genre": "Music",
+    "city": "Nata",
+    "country": "Botswana",
+    "lat": -20.2106673,
+    "lng": 26.1804804
+  },
+  {
+    "id": "botswana-duma-fm-930",
+    "name": "Duma FM 93.0",
+    "url": "http://s3.voscast.com:10076/index.html?sid=1",
+    "genre": "Music",
+    "city": "Gaborone",
+    "country": "Botswana",
+    "lat": -24.6581357,
+    "lng": 25.9088474
+  },
+  {
+    "id": "botswana-madibeng-fm-1053",
+    "name": "Madibeng FM 105.3",
+    "url": "https://cast3.my-control-panel.com/proxy/madibengfm/stream",
+    "genre": "Music",
+    "city": "Gaborone",
+    "country": "Botswana",
+    "lat": -24.6581357,
+    "lng": 25.9088474
+  },
+  {
+    "id": "botswana-pukfm-936",
+    "name": "PUKfm 93.6",
+    "url": "https://cast3.my-control-panel.com/proxy/pukfm/stream",
+    "genre": "Music",
+    "city": "Gaborone",
+    "country": "Botswana",
+    "lat": -24.6581357,
+    "lng": 25.9088474
+  },
+  {
+    "id": "botswana-overvaal-stereo",
+    "name": "Overvaal Stereo",
+    "url": "https://cast3.my-control-panel.com/proxy/overvaalstereo/stream",
+    "genre": "Music",
+    "city": "Gaborone",
+    "country": "Botswana",
+    "lat": -24.6581357,
+    "lng": 25.9088474
+  },
+  {
+    "id": "botswana-mambokadzi-dreamradio",
+    "name": "Mambokadzi DreamRadio",
+    "url": "https://cast3.asurahosting.com/proxy/dreamradio/stream.mp3",
+    "genre": "Music",
+    "city": "Francistown",
+    "country": "Botswana",
+    "lat": -21.16636,
+    "lng": 27.502515
+  },
+  {
+    "id": "botswana-the-cross-fm",
+    "name": "The Cross FM",
+    "url": "http://n08.radiojar.com/pwd30v5rv98uv?rj-ttl=5&rj-tok=AAABm_mCWBoAwWuZBWoo-Y4WqA",
+    "genre": "Music",
+    "city": "Gaborone",
+    "country": "Botswana",
+    "lat": -24.6581357,
+    "lng": 25.9088474
+  },
+  {
+    "id": "botswana-waterberg-stereo-fm-1049",
+    "name": "Waterberg Stereo FM 104.9",
+    "url": "https://fm1.cvdrbroadcastsolutions.com:8443/waterberg_stereo.aac",
+    "genre": "Music",
+    "city": "Francistown",
+    "country": "Botswana",
+    "lat": -21.16636,
+    "lng": 27.502515
+  },
+  {
+    "id": "botswana-gabz-fm",
+    "name": "Gabz FM",
+    "url": "https://stream-152.zeno.fm/y4fgv9tfy4zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5NGZndjl0Znk0enV2IiwiaG9zdCI6InN0cmVhbS0xNTIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiaDhLODdIX25RVHVaYlBicG5tb29tQSIsImlhdCI6MTc2OTQxNzAyNywiZXhwIjoxNzY5NDE3MDg3fQ.uMg0qAKOANOZfFHlKOZfsBzo7pg-LAO_rV8ihq8qlkA",
+    "genre": "Music",
+    "city": "Gaborone",
+    "country": "Botswana",
+    "lat": -24.6581357,
+    "lng": 25.9088474
+  },
+  {
+    "id": "botswana-chikuni-radio-fm-919",
+    "name": "Chikuni Radio FM 91.9",
+    "url": "https://chikunir.radioca.st/live",
+    "genre": "Music",
+    "city": "Nata",
+    "country": "Botswana",
+    "lat": -20.2106673,
+    "lng": 26.1804804
+  },
+  {
+    "id": "botswana-munghana-lonene-fm",
+    "name": "Munghana Lonene FM",
+    "url": "https://28503.live.streamtheworld.com:443/MUNGANALONENEAAC.aac",
+    "genre": "Music",
+    "city": "Francistown",
+    "country": "Botswana",
+    "lat": -21.16636,
+    "lng": 27.502515
+  },
+  {
+    "id": "botswana-ub-radio",
+    "name": "UB Radio",
+    "url": "https://n14.rcs.revma.com/63tt2c7su8hvv?rj-ttl=5&rj-tok=AAABm_mCV7wATpf7Ek7rylxDOw",
+    "genre": "Music",
+    "city": "Gaborone",
+    "country": "Botswana",
+    "lat": -24.6581357,
+    "lng": 25.9088474
+  },
+  {
+    "id": "botswana-harties-fm",
+    "name": "Harties FM",
+    "url": "https://s5.radio.co/s68c6f4028/listen",
+    "genre": "Music",
+    "city": "Gaborone",
+    "country": "Botswana",
+    "lat": -24.6581357,
+    "lng": 25.9088474
+  },
+  {
+    "id": "botswana-afrika-boom",
+    "name": "Afrika-Boom",
+    "url": "https://stream.radio.co/se53fee01d/listen",
+    "genre": "Music",
+    "city": "Ghanzi",
+    "country": "Botswana",
+    "lat": -22.145794,
+    "lng": 22.7610828
+  },
+  {
+    "id": "botswana-kalahari-radio",
+    "name": "Kalahari Radio",
+    "url": "https://s2.radio.co/s26e32fe8f/listen",
+    "genre": "Music",
+    "city": "Ghanzi",
+    "country": "Botswana",
+    "lat": -22.145794,
+    "lng": 22.7610828
+  },
+  {
+    "id": "botswana-skyz-metro-fm",
+    "name": "Skyz Metro FM",
+    "url": "https://stream-157.zeno.fm/2634b6n4qy8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIyNjM0YjZuNHF5OHV2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiQ0dodThFM2RSbE9LSmhlWHBGYkltZyIsImlhdCI6MTc2OTQxNzAyOSwiZXhwIjoxNzY5NDE3MDg5fQ.TmdFK1JOQwzFH60Jz939HH2FadL6h9oDHDKP-6QKnII",
+    "genre": "Music",
+    "city": "Nata",
+    "country": "Botswana",
+    "lat": -20.2106673,
+    "lng": 26.1804804
+  }
+]

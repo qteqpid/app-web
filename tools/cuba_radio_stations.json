@@ -1,0 +1,56 @@
+[
+    {
+        "name": "RadioA1A",
+        "city": "Havana",
+        "country": "Cuba",
+        "url": "https://usa11.fastcast4u.com/proxy/radioa1a?mp=/stream"
+    },
+    {
+        "name": "SQCS Riviera FM 98.1",
+        "city": "Pinar del Río",
+        "country": "Cuba",
+        "url": "https://sp2.servidorrprivado.com/8030/stream"
+    },
+    {
+        "name": "La Brise FM 104.9",
+        "city": "Guantanamo",
+        "country": "Cuba",
+        "url": "http://cast5.my-control-panel.com:8036/stream"
+    },
+    {
+        "name": "Habana Radio",
+        "city": "Havana",
+        "country": "Cuba",
+        "url": "https://media.ohc.cu/habanaradio"
+    },
+    {
+        "name": "Fit FM 96.7",
+        "city": "Santiago de Cuba",
+        "country": "Cuba",
+        "url": "https://listen.radioking.com/radio/691724/stream/756497"
+    },
+    {
+        "name": "Radio SFM 102.7",
+        "city": "Guantanamo",
+        "country": "Cuba",
+        "url": "https://stream-177.zeno.fm/wr93m2z7rfeuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ3cjkzbTJ6N3JmZXV2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiME1Kakd3cDFRR0dzQzhZdGZacHU4QSIsImlhdCI6MTc2OTQxODAwOSwiZXhwIjoxNzY5NDE4MDY5fQ.xlDvS8hFxE5sAzk3_GHq7dl3_dXkPhJv4kwgajmsE6I"
+    },
+    {
+        "name": "Radio on Go 106 FM",
+        "city": "Santiago de Cuba",
+        "country": "Cuba",
+        "url": "https://stream-147.zeno.fm/63qk6h62p6duv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2M3FrNmg2MnA2ZHV2IiwiaG9zdCI6InN0cmVhbS0xNDcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiR1JXdE9ZSVdUenFlUmRUVGs3NVd6QSIsImlhdCI6MTc2OTQxODAwOSwiZXhwIjoxNzY5NDE4MDY5fQ.1Dxdzkak5befUaEOlu6jRg1IcxoxDl6R4TYpFJlgCfg"
+    },
+    {
+        "name": "CubanDjsPro Radio",
+        "city": "Havana",
+        "country": "Cuba",
+        "url": "https://servidor21.brlogic.com:7114/live"
+    },
+    {
+        "name": "Kiss FM 106.1",
+        "city": "Nueva Gerona",
+        "country": "Cuba",
+        "url": "https://ice24.securenetsystems.net/1061KISSFM"
+    }
+]

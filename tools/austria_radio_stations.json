@@ -1,0 +1,572 @@
+[
+    {
+        "name": "ARBÖ-Verkehrsradio",
+        "city": "Vienna",
+        "country": "Austria",
+        "url": "http://live.datamatix.at:8022/;stream/1"
+    },
+    {
+        "name": "Radio FM4",
+        "city": "Vienna",
+        "country": "Austria",
+        "url": "https://orf-live.ors-shoutcast.at/fm4-q1a"
+    },
+    {
+        "name": "ORF Hitradio Ö3",
+        "city": "Vienna",
+        "country": "Austria",
+        "url": "https://orf-live.ors-shoutcast.at/oe3-q1a"
+    },
+    {
+        "name": "ORF Ö1",
+        "city": "Vienna",
+        "country": "Austria",
+        "url": "https://orf-live.ors-shoutcast.at/oe1-q2a?player=radiothek_v1&referer=oe1.orf.at&userid=c6cc7616-6095-4088-a1da-a00d704f66a2"
+    },
+    {
+        "name": "Radio Ypsilon 94.5 FM",
+        "city": "Vienna",
+        "country": "Austria",
+        "url": "http://mp3.radioypsilon.at:8000/mp3-160"
+    },
+    {
+        "name": "OE3 99.1",
+        "city": "Vienna",
+        "country": "Austria",
+        "url": "https://orf-live.ors-shoutcast.at/oe3-q2a"
+    },
+    {
+        "name": "ORF Radio Burgenland",
+        "city": "Vienna",
+        "country": "Austria",
+        "url": "https://orf-live.ors-shoutcast.at/bgl-q1a"
+    },
+    {
+        "name": "ORF Radio Wien FM 89.9",
+        "city": "Vienna",
+        "country": "Austria",
+        "url": "https://orf-live.ors-shoutcast.at/wie-q2a"
+    },
+    {
+        "name": "Radio Rudina",
+        "city": "Vienna",
+        "country": "Austria",
+        "url": "https://azuracast.datea.services:8000/radio.mp3"
+    },
+    {
+        "name": "Musikwelle FM 103.1",
+        "city": "Vienna",
+        "country": "Austria",
+        "url": "https://stream.stadtradio.at:8000/live"
+    },
+    {
+        "name": "METAL Radio",
+        "city": "Vienna",
+        "country": "Austria",
+        "url": "https://stream.radiotechnikum.at/METALRadio"
+    },
+    {
+        "name": "Radio ONE",
+        "city": "Vienna",
+        "country": "Austria",
+        "url": "https://stream.radiotechnikum.at/TECHONE"
+    },
+    {
+        "name": "Campus Radio FM 94.4",
+        "city": "Vienna",
+        "country": "Austria",
+        "url": "https://cr944.at:50443/cr944.mp3"
+    },
+    {
+        "name": "Viyana FM",
+        "city": "Vienna",
+        "country": "Austria",
+        "url": "https://radyo.viyanafm.at/1453/stream"
+    },
+    {
+        "name": "Kronehit FM 105.8",
+        "city": "Vienna",
+        "country": "Austria",
+        "url": "https://secureonair.krone.at/kronehit1058.mp3"
+    },
+    {
+        "name": "Antenne Vorarlberg Rock Radio",
+        "city": "Schwarzach",
+        "country": "Austria",
+        "url": "https://edge80.radio.antennevorarlberg.at/av-rock?aggregator=radio.garden"
+    },
+    {
+        "name": "Antenne Vorarlberg 90er Hits",
+        "city": "Schwarzach",
+        "country": "Austria",
+        "url": "https://edge80.radio.antennevorarlberg.at/av-90er?aggregator=radio.garden"
+    },
+    {
+        "name": "Antenne Vorarlberg Oldies but Goldies",
+        "city": "Schwarzach",
+        "country": "Austria",
+        "url": "https://edge80.radio.antennevorarlberg.at/av-oldies?aggregator=radio.garden"
+    },
+    {
+        "name": "Antenne Vorarlberg Classic Rock",
+        "city": "Schwarzach",
+        "country": "Austria",
+        "url": "https://edge80.radio.antennevorarlberg.at/av-classicrock?aggregator=radio.garden"
+    },
+    {
+        "name": "Radio Proton 104.3 FM",
+        "city": "Schwarzach",
+        "country": "Austria",
+        "url": "http://radioproton.at:8000/protonquality.ogg"
+    },
+    {
+        "name": "Radio MORA",
+        "city": "Vienna",
+        "country": "Austria",
+        "url": "https://server4.streamserver24.com:26250/stream"
+    },
+    {
+        "name": "Antenne Vorarlberg Coffee Hits",
+        "city": "Schwarzach",
+        "country": "Austria",
+        "url": "https://edge80.radio.antennevorarlberg.at/av-coffee?aggregator=radio.garden"
+    },
+    {
+        "name": "60er70er MEGAMIX",
+        "city": "Schwarzach",
+        "country": "Austria",
+        "url": "https://edge80.radio.antennevorarlberg.at/mm-60er70ermegamix?aggregator=radio.garden"
+    },
+    {
+        "name": "Antenne Vorarlberg Love Songs",
+        "city": "Schwarzach",
+        "country": "Austria",
+        "url": "https://edge80.radio.antennevorarlberg.at/av-lovesongs?aggregator=radio.garden"
+    },
+    {
+        "name": "Energy 99,9",
+        "city": "Innsbruck",
+        "country": "Austria",
+        "url": "http://stream1.energy.at:8000/ibk"
+    },
+    {
+        "name": "Antenne Vorarlberg 80er Hits",
+        "city": "Schwarzach",
+        "country": "Austria",
+        "url": "https://edge68.radio.antennevorarlberg.at/av-80er?aggregator=radio.garden"
+    },
+    {
+        "name": "Antenne Vorarlberg",
+        "city": "Schwarzach",
+        "country": "Austria",
+        "url": "https://edge68.radio.antennevorarlberg.at/av-live?aggregator=radio.garden"
+    },
+    {
+        "name": "80er90er MEGAMIX",
+        "city": "Schwarzach",
+        "country": "Austria",
+        "url": "https://edge68.radio.antennevorarlberg.at/mm-80er90ermegamix?aggregator=radio.garden"
+    },
+    {
+        "name": "Antenne Vorarlberg Partymix",
+        "city": "Schwarzach",
+        "country": "Austria",
+        "url": "https://edge68.radio.antennevorarlberg.at/av-partymix?aggregator=radio.garden"
+    },
+    {
+        "name": "Antenne Vorarlberg Nonstop",
+        "city": "Schwarzach",
+        "country": "Austria",
+        "url": "https://edge68.radio.antennevorarlberg.at/av-nonstop?aggregator=radio.garden"
+    },
+    {
+        "name": "JazzNet247 Radio Europe",
+        "city": "Schwarzach",
+        "country": "Austria",
+        "url": "https://das-edge16-live365-dal02.cdnstream.com/a42831"
+    },
+    {
+        "name": "ORF Radio Tirol",
+        "city": "Innsbruck",
+        "country": "Austria",
+        "url": "https://orf-live.ors-shoutcast.at/tir-q2a"
+    },
+    {
+        "name": "Antenne Tirol",
+        "city": "Innsbruck",
+        "country": "Austria",
+        "url": "https://edge65.streamonkey.net/anttirol-live"
+    },
+    {
+        "name": "Life Radio Tirol Golden Oldies",
+        "city": "Innsbruck",
+        "country": "Austria",
+        "url": "https://liferadio-tirol.streamabc.net/43-goldenoldies-mp3-192-9108968"
+    },
+    {
+        "name": "Fake Plastic Radio",
+        "city": "Innsbruck",
+        "country": "Austria",
+        "url": "https://s58.radiolize.com/radio/8010/radio.mp3"
+    },
+    {
+        "name": "ORF Radio Steiermark",
+        "city": "Graz",
+        "country": "Austria",
+        "url": "https://orf-live.ors-shoutcast.at/stm-q1a"
+    },
+    {
+        "name": "Freirad FM 105.9 - Freies Radio Innsbruck",
+        "city": "Innsbruck",
+        "country": "Austria",
+        "url": "https://stream.freirad.at/live.mp3"
+    },
+    {
+        "name": "Radio 1 Celje",
+        "city": "Graz",
+        "country": "Austria",
+        "url": "http://live3.infonetmedia.si:8000/Radio1CE"
+    },
+    {
+        "name": "Njoy Radio FM 88.2",
+        "city": "Graz",
+        "country": "Austria",
+        "url": "https://live.njoyradio.at/njoy"
+    },
+    {
+        "name": "Radio Nula Beatz",
+        "city": "Graz",
+        "country": "Austria",
+        "url": "https://strm.radionula.com/lounge"
+    },
+    {
+        "name": "ORF Radio Oberösterreich",
+        "city": "Linz",
+        "country": "Austria",
+        "url": "https://orf-live.ors-shoutcast.at/ooe-q2a"
+    },
+    {
+        "name": "Radio VM1",
+        "city": "Innsbruck",
+        "country": "Austria",
+        "url": "https://radiovm1.fluidstream.eu/radiovm1.mp3"
+    },
+    {
+        "name": "Radio Alpenwelle",
+        "city": "Innsbruck",
+        "country": "Austria",
+        "url": "https://live.alpenwelle.de/alpenwelle128.mp3"
+    },
+    {
+        "name": "Radio Flamingo",
+        "city": "Graz",
+        "country": "Austria",
+        "url": "https://live.antenne.at/rf"
+    },
+    {
+        "name": "Austrian Rock Radio",
+        "city": "Graz",
+        "country": "Austria",
+        "url": "https://live.antenne.at/arr"
+    },
+    {
+        "name": "Antenne Steiermark",
+        "city": "Graz",
+        "country": "Austria",
+        "url": "https://live.antenne.at/as?.mp3"
+    },
+    {
+        "name": "Radio Gruen Weiss",
+        "city": "Graz",
+        "country": "Austria",
+        "url": "https://ice12.fluidstream.net/rgw.aac"
+    },
+    {
+        "name": "Radio Soundportal",
+        "city": "Graz",
+        "country": "Austria",
+        "url": "https://rs8.stream24.net/stream?.mp3"
+    },
+    {
+        "name": "Radio Slovenske Gorice FM 96.4",
+        "city": "Graz",
+        "country": "Austria",
+        "url": "https://stream.iradio.pro/proxy/radioslovenskegoric?mp=/stream"
+    },
+    {
+        "name": "Styrialounge",
+        "city": "Graz",
+        "country": "Austria",
+        "url": "https://styrialounge.out.airtime.pro/styrialounge_a"
+    },
+    {
+        "name": "Radius 106,6",
+        "city": "Linz",
+        "country": "Austria",
+        "url": "http://develop.servus.at:8000/radius"
+    },
+    {
+        "name": "Welle 1 Linz FM 91.8",
+        "city": "Linz",
+        "country": "Austria",
+        "url": "https://live.welle1.at:17128/stream"
+    },
+    {
+        "name": "ORF Radio Salzburg",
+        "city": "Salzburg",
+        "country": "Austria",
+        "url": "https://orf-live.ors-shoutcast.at/sbg-q1a"
+    },
+    {
+        "name": "MadTimes Radio",
+        "city": "Schwarzach",
+        "country": "Austria",
+        "url": "https://madtimesradio.stream.laut.fm/madtimesradio"
+    },
+    {
+        "name": "Radio Arabella Oberösterreich",
+        "city": "Linz",
+        "country": "Austria",
+        "url": "https://edge08.streams.arabella.at/arabella-oberoesterreich"
+    },
+    {
+        "name": "Douala-Radio",
+        "city": "Schwarzach",
+        "country": "Austria",
+        "url": "https://doualaradio.stream.laut.fm/doualaradio"
+    },
+    {
+        "name": "Radio Oberland FM 106.2",
+        "city": "Innsbruck",
+        "country": "Austria",
+        "url": "https://radiooberland.stream11.radiohost.de/radiooberland-live_mp3-192?addradio&upd-meta&upd-scheme=https&_art=dD0xNzY5NDE2ODE3JmQ9ZDEyNWI2NWJmMTBlMDdjZDE3Yjc"
+    },
+    {
+        "name": "Freies Radio B138",
+        "city": "Linz",
+        "country": "Austria",
+        "url": "https://73713.streamerr.co:8443/main"
+    },
+    {
+        "name": "Radio Freequenns FM 100.8",
+        "city": "Linz",
+        "country": "Austria",
+        "url": "https://www.freequenns.at/live"
+    },
+    {
+        "name": "Radio U1 Tirol",
+        "city": "Innsbruck",
+        "country": "Austria",
+        "url": "https://u1-tirol.stream28.radiohost.de/u1-tirol-live_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzY5NDE2ODE3JmQ9MzFkYmUwNGExMDgyMDY4NzQ2OGY"
+    },
+    {
+        "name": "Freies Radio Salzkammergut",
+        "city": "Linz",
+        "country": "Austria",
+        "url": "https://streaming.xaok.org/frs.mp3"
+    },
+    {
+        "name": "Antenne Salzburg",
+        "city": "Salzburg",
+        "country": "Austria",
+        "url": "https://edge63.streamonkey.net/antsalzburg-live"
+    },
+    {
+        "name": "Radio FRO 105.0",
+        "city": "Linz",
+        "country": "Austria",
+        "url": "https://stream.fro.at/fro320.mp3"
+    },
+    {
+        "name": "Radiofabrik 107.5",
+        "city": "Salzburg",
+        "country": "Austria",
+        "url": "https://stream.radiofabrik.at/rf_low.mp3?.mp3"
+    },
+    {
+        "name": "ORF Radio Kärnten FM 97.8",
+        "city": "Klagenfurt",
+        "country": "Austria",
+        "url": "https://orf-live.ors-shoutcast.at/ktn-q2a"
+    },
+    {
+        "name": "Museumsradio 1476",
+        "city": "Salzburg",
+        "country": "Austria",
+        "url": "https://museum.streamserver24.com:8080/stream"
+    },
+    {
+        "name": "Balkan Radio Salzburg",
+        "city": "Salzburg",
+        "country": "Austria",
+        "url": "https://cast.balkanradiosalzburg.com/sc/balkanradiosalzburg/stream/;type=mp3"
+    },
+    {
+        "name": "Welle 1 Salzburg",
+        "city": "Salzburg",
+        "country": "Austria",
+        "url": "https://live.welle1.at:18128/live"
+    },
+    {
+        "name": "Radio Inn-Salzach-Welle (ISW)",
+        "city": "Salzburg",
+        "country": "Austria",
+        "url": "https://radioisw.icecaststream.de/stream/radioisw"
+    },
+    {
+        "name": "Radio Hit si",
+        "city": "Klagenfurt",
+        "country": "Austria",
+        "url": "http://stream03.exit.si:8000/radiohit?.mp3"
+    },
+    {
+        "name": "Energy Salzburg",
+        "city": "Salzburg",
+        "country": "Austria",
+        "url": "https://streaming.nrjaudio.fm/ou62c3xp336f"
+    },
+    {
+        "name": "Radio Agora",
+        "city": "Klagenfurt",
+        "country": "Austria",
+        "url": "https://livestream.agora.at/agora"
+    },
+    {
+        "name": "Antenne Kärnten",
+        "city": "Klagenfurt",
+        "country": "Austria",
+        "url": "https://live.antenne.at/ak"
+    },
+    {
+        "name": "ORF Radio Niederösterreich",
+        "city": "Saint Pölten",
+        "country": "Austria",
+        "url": "https://orf-live.ors-shoutcast.at/noe-q1a"
+    },
+    {
+        "name": "Radio Jodlerwirt der Volksmusiksender",
+        "city": "Innsbruck",
+        "country": "Austria",
+        "url": "https://radio-jodlerwirt.stream.laut.fm/radio-jodlerwirt?t302=2026-01-26_08-35-13&uuid=c7b52761-7d63-4102-88f7-19262913a94f"
+    },
+    {
+        "name": "Life Radio",
+        "city": "Linz",
+        "country": "Austria",
+        "url": "https://liferadio.streamabc.net/lfr-lr-mp3-192-7172638?sABC=69772748%230%23nqoro4np7ns3rrpo06s1o0rn3s261pss%23fgernz.yvsrenqvb.ng&aw_0_1st.playerid=stream.liferadio.at&amsparams=playerid:stream.liferadio.at;skey:1769416520"
+    },
+    {
+        "name": "Radio Triglav",
+        "city": "Klagenfurt",
+        "country": "Austria",
+        "url": "https://live.radio.si/Triglav"
+    },
+    {
+        "name": "Radio Arabella Niederösterreich",
+        "city": "Saint Pölten",
+        "country": "Austria",
+        "url": "https://edge08.streams.arabella.at/arabella-niederoesterreich"
+    },
+    {
+        "name": "Primorski val",
+        "city": "Klagenfurt",
+        "country": "Austria",
+        "url": "https://altair.streamerr.co/stream/primorskival"
+    },
+    {
+        "name": "Ö2 Radio Vorarlberg",
+        "city": "Bregenz",
+        "country": "Austria",
+        "url": "https://orf-live.ors-shoutcast.at/vbg-q1a"
+    },
+    {
+        "name": "Radio Tausia",
+        "city": "Villach",
+        "country": "Austria",
+        "url": "https://sr11.inmystream.it/proxy/radiotausia?mp=/stream"
+    },
+    {
+        "name": "Stadtradio Krems 106.7 FM",
+        "city": "Krems an der Donau",
+        "country": "Austria",
+        "url": "https://stream.musikwelle.com:8000/live"
+    },
+    {
+        "name": "Radio Uno Kärnten",
+        "city": "Klagenfurt",
+        "country": "Austria",
+        "url": "https://radiouno.stream24.net/live.mp3"
+    },
+    {
+        "name": "Life Radio Tirol Rock",
+        "city": "Wörgl",
+        "country": "Austria",
+        "url": "https://liferadio-tirol.streamabc.net/43-rock-mp3-192-9650140"
+    },
+    {
+        "name": "Radio Alpina",
+        "city": "Salzburg",
+        "country": "Austria",
+        "url": "https://vjr.fluidstream.eu/vjr.aac"
+    },
+    {
+        "name": "RTV Unirea",
+        "city": "Wiener Neustadt",
+        "country": "Austria",
+        "url": "https://s1.bcmsol.ro/8002/stream"
+    },
+    {
+        "name": "Antenne Vorarlberg Christkindl Radio",
+        "city": "Bregenz",
+        "country": "Austria",
+        "url": "https://edge82.radio.antennevorarlberg.at/av-christkindl?aggregator=radio.garden"
+    },
+    {
+        "name": "AlpinFM",
+        "city": "Wörgl",
+        "country": "Austria",
+        "url": "https://s16.myradiostream.com:6390/stream/3/listen.mp3"
+    },
+    {
+        "name": "Radio Himmelberg",
+        "city": "Klagenfurt",
+        "country": "Austria",
+        "url": "https://radio-himmelberg.stream.laut.fm/radio-himmelberg"
+    },
+    {
+        "name": "woergl.FM",
+        "city": "Wörgl",
+        "country": "Austria",
+        "url": "https://s5.radio.co/s7f3fe408d/listen"
+    },
+    {
+        "name": "KärntenLive",
+        "city": "Klagenfurt",
+        "country": "Austria",
+        "url": "https://r-west.stream.laut.fm/r-west"
+    },
+    {
+        "name": "WEL 105.5",
+        "city": "Villach",
+        "country": "Austria",
+        "url": "https://wel105point5.stream.laut.fm/wel105point5"
+    },
+    {
+        "name": "Anechoic Chamber Music",
+        "city": "Bad Ischl",
+        "country": "Austria",
+        "url": "https://anechoicchambermusic.stream.laut.fm/anechoic_chamber_music"
+    },
+    {
+        "name": "Alpenradio",
+        "city": "Saalfelden",
+        "country": "Austria",
+        "url": "https://alpenradio-volksmusik.stream.laut.fm/alpenradio-volksmusik"
+    },
+    {
+        "name": "4400.ironcity",
+        "city": "Steyr",
+        "country": "Austria",
+        "url": "https://4400-ironcity.stream.laut.fm/4400-ironcity?t302=2026-01-26_08-35-22&uuid=6052232f-4f11-4e95-9529-6f94e3ae1c8e"
+    }
+]

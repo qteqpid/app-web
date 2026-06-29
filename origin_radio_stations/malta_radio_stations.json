@@ -1,0 +1,172 @@
+[
+  {
+    "id": "malta-jm-online-radio",
+    "name": "J&M Online Radio",
+    "url": "http://65.109.81.143:8000/OnlineRadio",
+    "genre": "Music",
+    "city": "Pieta",
+    "country": "Malta",
+    "lat": 35.892353,
+    "lng": 14.4934881
+  },
+  {
+    "id": "malta-radju-marija-1023-fm",
+    "name": "Radju Marija 102.3 FM",
+    "url": "https://dreamsiteradiocp2.com/proxy/rmmalta2?mp=/stream",
+    "genre": "Music",
+    "city": "Rabat",
+    "country": "Malta",
+    "lat": 35.8818906,
+    "lng": 14.3988213
+  },
+  {
+    "id": "malta-radju-leħen-il-belt-victoria",
+    "name": "Radju Leħen il-Belt Victoria",
+    "url": "https://az.wannastream.com/radio/8010/radjulehenil-beltvictoria",
+    "genre": "Music",
+    "city": "Victoria",
+    "country": "Malta",
+    "lat": 36.0428907,
+    "lng": 14.2398479
+  },
+  {
+    "id": "malta-pure-radio",
+    "name": "Pure Radio",
+    "url": "https://sp1.19cloudsnetwork.gr/8010/stream",
+    "genre": "Music",
+    "city": "Saint Julian's",
+    "country": "Malta",
+    "lat": 35.9199225,
+    "lng": 14.4877119
+  },
+  {
+    "id": "malta-bay-pride",
+    "name": "Bay Pride",
+    "url": "https://stream.v3.network/proxy/baypride/stream.mp3",
+    "genre": "Music",
+    "city": "Saint Julian's",
+    "country": "Malta",
+    "lat": 35.9199225,
+    "lng": 14.4877119
+  },
+  {
+    "id": "malta-bay-throwbacks",
+    "name": "Bay Throwbacks",
+    "url": "https://stream.v3.network/proxy/retro/stream.mp3",
+    "genre": "Music",
+    "city": "Saint Julian's",
+    "country": "Malta",
+    "lat": 35.9199225,
+    "lng": 14.4877119
+  },
+  {
+    "id": "malta-bay-897-fm",
+    "name": "Bay 89.7 FM",
+    "url": "https://stream.v3.network/proxy/897bay/stream.mp3",
+    "genre": "Music",
+    "city": "Saint Julian's",
+    "country": "Malta",
+    "lat": 35.9199225,
+    "lng": 14.4877119
+  },
+  {
+    "id": "malta-campus-fm-1037",
+    "name": "Campus FM 103.7",
+    "url": "https://campusfm.radioca.st/campusfm_live",
+    "genre": "Music",
+    "city": "Pieta",
+    "country": "Malta",
+    "lat": 35.892353,
+    "lng": 14.4934881
+  },
+  {
+    "id": "malta-lehen-il-belt-giorgiana",
+    "name": "Lehen il-Belt Giorgiana",
+    "url": "https://s37.myradiostream.com/:9088/listen.mp3/",
+    "genre": "Music",
+    "city": "Qormi",
+    "country": "Malta",
+    "lat": 35.877464,
+    "lng": 14.4739598
+  },
+  {
+    "id": "malta-bay-easy",
+    "name": "Bay Easy",
+    "url": "https://stream.v3.network/proxy/easy/stream.mp3",
+    "genre": "Music",
+    "city": "Saint Julian's",
+    "country": "Malta",
+    "lat": 35.9199225,
+    "lng": 14.4877119
+  },
+  {
+    "id": "malta-radju-malta-2",
+    "name": "Radju Malta 2",
+    "url": "https://s11.myradiostream.com/:4954/index.html?sid=1",
+    "genre": "Music",
+    "city": "Saint Julian's",
+    "country": "Malta",
+    "lat": 35.9199225,
+    "lng": 14.4877119
+  },
+  {
+    "id": "malta-radju-luminaria",
+    "name": "Radju Luminaria",
+    "url": "https://az.wannastream.com/radio/8000/radjuluminaria",
+    "genre": "Music",
+    "city": "Victoria",
+    "country": "Malta",
+    "lat": 36.0428907,
+    "lng": 14.2398479
+  },
+  {
+    "id": "malta-radio-bambina-983fm",
+    "name": "Radio Bambina 98.3FM",
+    "url": "https://az.wannastream.com/radio/8050/radjubambina",
+    "genre": "Music",
+    "city": "Xaghra",
+    "country": "Malta",
+    "lat": 36.0502996,
+    "lng": 14.2648446
+  },
+  {
+    "id": "malta-magic-malta-fm-917",
+    "name": "Magic Malta FM 91.7",
+    "url": "https://s46.myradiostream.com/:6076/listen.mp3/",
+    "genre": "Music",
+    "city": "Pieta",
+    "country": "Malta",
+    "lat": 35.892353,
+    "lng": 14.4934881
+  },
+  {
+    "id": "malta-rtk103",
+    "name": "RTK103",
+    "url": "https://s2.radio.co/s955b1ced9/listen",
+    "genre": "Music",
+    "city": "Saint Julian's",
+    "country": "Malta",
+    "lat": 35.9199225,
+    "lng": 14.4877119
+  },
+  {
+    "id": "malta-calypso-radio-fm-1018",
+    "name": "Calypso Radio FM 101.8",
+    "url": "https://s4.radio.co/sf3aa4c25a/listen",
+    "genre": "Music",
+    "city": "Saint Julian's",
+    "country": "Malta",
+    "lat": 35.9199225,
+    "lng": 14.4877119
+  },
+  {
+    "id": "malta-vibe-fm-887",
+    "name": "Vibe FM 88.7",
+    "url": "https://vibefm.radioca.st/vibe_live",
+    "genre": "Music",
+    "city": "Santa Venera",
+    "country": "Malta",
+    "lat": 35.8897878,
+    "lng": 14.4802386
+  }
+]

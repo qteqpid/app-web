@@ -1,0 +1,272 @@
+[
+  {
+    "id": "luxembourg-luxembourg-global-radio",
+    "name": "Luxembourg Global Radio",
+    "url": "https://radio.globalradio.lu:8000/radio.mp3",
+    "genre": "Music",
+    "city": "Luxembourg City",
+    "country": "Luxembourg",
+    "lat": 49.5999681,
+    "lng": 6.1342493
+  },
+  {
+    "id": "luxembourg-lessentiel-radio",
+    "name": "L'essentiel Radio",
+    "url": "https://lessentielradio.ice.infomaniak.ch/lessentielradio-128.mp3",
+    "genre": "Music",
+    "city": "Luxembourg City",
+    "country": "Luxembourg",
+    "lat": 49.5999681,
+    "lng": 6.1342493
+  },
+  {
+    "id": "luxembourg-radio-puls-luxembourg",
+    "name": "Radio Puls Luxembourg",
+    "url": "https://cmr-hosting.com/8312/stream",
+    "genre": "Music",
+    "city": "Luxembourg City",
+    "country": "Luxembourg",
+    "lat": 49.5999681,
+    "lng": 6.1342493
+  },
+  {
+    "id": "luxembourg-bulldogs-radio",
+    "name": "Bulldogs-Radio",
+    "url": "https://bulldogsradio.radioca.st/stream",
+    "genre": "Music",
+    "city": "Luxembourg City",
+    "country": "Luxembourg",
+    "lat": 49.5999681,
+    "lng": 6.1342493
+  },
+  {
+    "id": "luxembourg-radio-diddeleng-asbl",
+    "name": "Radio Diddeleng asbl",
+    "url": "https://radiodudelange.ice.infomaniak.ch/radiodudelange-128.mp3",
+    "genre": "Music",
+    "city": "Luxembourg City",
+    "country": "Luxembourg",
+    "lat": 49.5999681,
+    "lng": 6.1342493
+  },
+  {
+    "id": "luxembourg-rtl-radio-lëtzebuerg",
+    "name": "RTL Radio Lëtzebuerg",
+    "url": "http://sc.rtl.lu/rtl",
+    "genre": "Music",
+    "city": "Luxembourg City",
+    "country": "Luxembourg",
+    "lat": 49.5999681,
+    "lng": 6.1342493
+  },
+  {
+    "id": "luxembourg-rádio-larochete",
+    "name": "Rádio Larochete",
+    "url": "https://stream-177.zeno.fm/4gcku833wwzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0Z2NrdTgzM3d3enV2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiMVE0SGh5X3pRczZ6ZENOUFdCajk5dyIsImlhdCI6MTc2OTQyMDM1MywiZXhwIjoxNzY5NDIwNDEzfQ.0XiyMGg5_GmKaObYgkXb-_NV3ivAnDwX9TPkESu-qMo",
+    "genre": "Music",
+    "city": "Luxembourg City",
+    "country": "Luxembourg",
+    "lat": 49.5999681,
+    "lng": 6.1342493
+  },
+  {
+    "id": "luxembourg-rtl-lx",
+    "name": "RTL LX",
+    "url": "https://sc.rtl.lu/rtllx",
+    "genre": "Music",
+    "city": "Luxembourg City",
+    "country": "Luxembourg",
+    "lat": 49.5999681,
+    "lng": 6.1342493
+  },
+  {
+    "id": "luxembourg-free-radio-luxembourg",
+    "name": "Free Radio Luxembourg",
+    "url": "https://listen.radioking.com/radio/66160/stream/137599",
+    "genre": "Music",
+    "city": "Luxembourg City",
+    "country": "Luxembourg",
+    "lat": 49.5999681,
+    "lng": 6.1342493
+  },
+  {
+    "id": "luxembourg-rtl-today-radio",
+    "name": "RTL Today Radio",
+    "url": "https://sc.rtl.lu/rtltoday",
+    "genre": "Music",
+    "city": "Luxembourg City",
+    "country": "Luxembourg",
+    "lat": 49.5999681,
+    "lng": 6.1342493
+  },
+  {
+    "id": "luxembourg-rtl-gold",
+    "name": "RTL Gold",
+    "url": "https://sc.rtl.lu/rtlgold",
+    "genre": "Music",
+    "city": "Luxembourg City",
+    "country": "Luxembourg",
+    "lat": 49.5999681,
+    "lng": 6.1342493
+  },
+  {
+    "id": "luxembourg-radio-jeans-generation",
+    "name": "Radio Jeans Generation",
+    "url": "https://listen.radioking.com/radio/301645/stream/348328",
+    "genre": "Music",
+    "city": "Luxembourg City",
+    "country": "Luxembourg",
+    "lat": 49.5999681,
+    "lng": 6.1342493
+  },
+  {
+    "id": "luxembourg-eldoradio-fm-1008",
+    "name": "EldoRadio FM 100.8",
+    "url": "http://sc.bce.lu/eldo",
+    "genre": "Music",
+    "city": "Luxembourg City",
+    "country": "Luxembourg",
+    "lat": 49.5999681,
+    "lng": 6.1342493
+  },
+  {
+    "id": "luxembourg-generation-dance",
+    "name": "Generation Dance",
+    "url": "https://radio.gen.dance/radio/8030/hd",
+    "genre": "Music",
+    "city": "Luxembourg City",
+    "country": "Luxembourg",
+    "lat": 49.5999681,
+    "lng": 6.1342493
+  },
+  {
+    "id": "luxembourg-fce-continuo",
+    "name": "FCE Continuo",
+    "url": "https://listen.radioking.com/radio/551009/stream/610262",
+    "genre": "Music",
+    "city": "Luxembourg City",
+    "country": "Luxembourg",
+    "lat": 49.5999681,
+    "lng": 6.1342493
+  },
+  {
+    "id": "luxembourg-radio-100,7",
+    "name": "Radio 100,7",
+    "url": "https://100komma7.stream42.radiohost.de/100komma7-100komma7_mp3-320?ref=radio-garden&agend=true&upd-meta&upd-scheme=https&_art=dD0xNzY5NDIwNjU0JmQ9NThhODEzMTg1OTc3MTYwNWQ3N2Q",
+    "genre": "Music",
+    "city": "Luxembourg City",
+    "country": "Luxembourg",
+    "lat": 49.5999681,
+    "lng": 6.1342493
+  },
+  {
+    "id": "luxembourg-nuts-radio",
+    "name": "Nuts Radio",
+    "url": "https://manager8.streamradio.fr:1485/stream",
+    "genre": "Music",
+    "city": "Clervaux",
+    "country": "Luxembourg",
+    "lat": 50.0547912,
+    "lng": 6.0275511
+  },
+  {
+    "id": "luxembourg-radio-gutt-laun",
+    "name": "Radio Gutt Laun",
+    "url": "https://streams.radio.co/sa631ff66a/listen",
+    "genre": "Music",
+    "city": "Luxembourg City",
+    "country": "Luxembourg",
+    "lat": 49.5999681,
+    "lng": 6.1342493
+  },
+  {
+    "id": "luxembourg-rtbf-vivacite-luxembourg",
+    "name": "RTBF Vivacité Luxembourg",
+    "url": "https://redbeemedia.streamabc.net/redbm-vivalux-mp3-160-3065937?sABC=69773644%230%2375p922pr1rq3nr63r4683s5131rr6q39%23et&aw_0_1st.playerid=rg&amsparams=playerid:rg;skey:1769420356",
+    "genre": "Music",
+    "city": "Clervaux",
+    "country": "Luxembourg",
+    "lat": 50.0547912,
+    "lng": 6.0275511
+  },
+  {
+    "id": "luxembourg-lorfm",
+    "name": "LORFM",
+    "url": "https://lorfm.ice.infomaniak.ch/lorfm-128.mp3",
+    "genre": "Music",
+    "city": "Luxembourg City",
+    "country": "Luxembourg",
+    "lat": 49.5999681,
+    "lng": 6.1342493
+  },
+  {
+    "id": "luxembourg-poa-peitengonair-fm-1022",
+    "name": "P.o.A PéitengonAir FM 102.2",
+    "url": "http://stream.petangeonair.lu:9000/live",
+    "genre": "Music",
+    "city": "Dudelange",
+    "country": "Luxembourg",
+    "lat": 49.4786477,
+    "lng": 6.0847792
+  },
+  {
+    "id": "luxembourg-peps-radio-962-fm",
+    "name": "Pep's Radio 96.2 FM",
+    "url": "https://behofm.ice.infomaniak.ch/behofm.aac",
+    "genre": "Music",
+    "city": "Clervaux",
+    "country": "Luxembourg",
+    "lat": 50.0547912,
+    "lng": 6.0275511
+  },
+  {
+    "id": "luxembourg-radio-c-luxembourg",
+    "name": "Radio C Luxembourg",
+    "url": "https://edge19.streamonkey.net/radioc-live/stream/aacp",
+    "genre": "Music",
+    "city": "Kehlen",
+    "country": "Luxembourg",
+    "lat": 49.6675477,
+    "lng": 6.0357089
+  },
+  {
+    "id": "luxembourg-antenne-trier",
+    "name": "Antenne Trier",
+    "url": "https://radiogroup.stream31.radiohost.de/antenne-trier_mp3-192?ref=radiogarden&upd-meta&upd-scheme=https&_art=dD0xNzY5NDIwNjU4JmQ9MzlkYWU3MjNlYTAyMjJmOGE4ZGE",
+    "genre": "Music",
+    "city": "Echternach",
+    "country": "Luxembourg",
+    "lat": 49.8120961,
+    "lng": 6.4214859
+  },
+  {
+    "id": "luxembourg-espressivo",
+    "name": "Espressivo",
+    "url": "https://espressivo.stream.laut.fm/espressivo?t302=2026-01-26_09-39-13&uuid=dbb4520c-ae43-49bf-a4ca-591505ffaedd",
+    "genre": "Music",
+    "city": "Clervaux",
+    "country": "Luxembourg",
+    "lat": 50.0547912,
+    "lng": 6.0275511
+  },
+  {
+    "id": "luxembourg-impact-fm",
+    "name": "Impact FM",
+    "url": "https://impactfm2.ice.infomaniak.ch/impactfmbe-64.aac",
+    "genre": "Music",
+    "city": "Clervaux",
+    "country": "Luxembourg",
+    "lat": 50.0547912,
+    "lng": 6.0275511
+  },
+  {
+    "id": "luxembourg-panachee",
+    "name": "Panachee",
+    "url": "https://panachee.stream.laut.fm/panachee?t302=2026-01-26_09-39-14&uuid=b460e5f8-fec4-49a2-8448-3829d5422a7a",
+    "genre": "Music",
+    "city": "Clervaux",
+    "country": "Luxembourg",
+    "lat": 50.0547912,
+    "lng": 6.0275511
+  }
+]

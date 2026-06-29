@@ -1,0 +1,2822 @@
+[
+  {
+    "id": "mexico-radio-chicoloapan",
+    "name": "Radio Chicoloapan",
+    "url": "http://198.7.62.157:8135/stream/",
+    "genre": "Music",
+    "city": "Mexico City",
+    "country": "Mexico",
+    "lat": 19.3207722,
+    "lng": -99.1514678
+  },
+  {
+    "id": "mexico-salsamexicocom--canal-de-salsa",
+    "name": "SalsaMexico.com - Canal de Salsa",
+    "url": "https://a8.asurahosting.com/listen/salsamexico/radio.mp3",
+    "genre": "Music",
+    "city": "Mexico City",
+    "country": "Mexico",
+    "lat": 19.3207722,
+    "lng": -99.1514678
+  },
+  {
+    "id": "mexico-rock-stock-bar",
+    "name": "Rock Stock Bar",
+    "url": "https://cast.rockstockbar.com.mx:8001/stream",
+    "genre": "Music",
+    "city": "Mexico City",
+    "country": "Mexico",
+    "lat": 19.3207722,
+    "lng": -99.1514678
+  },
+  {
+    "id": "mexico-mexiquense-radio-1080-am",
+    "name": "Mexiquense Radio 1080 AM",
+    "url": "https://streamingcwsradio30.com:7050/index.html?sid=1",
+    "genre": "Music",
+    "city": "Mexico City",
+    "country": "Mexico",
+    "lat": 19.3207722,
+    "lng": -99.1514678
+  },
+  {
+    "id": "mexico-miled-radio-guadalajara-1510-am",
+    "name": "Miled Radio Guadalajara 1510 AM",
+    "url": "https://miledgdl-cybertec.radioca.st/stream",
+    "genre": "Music",
+    "city": "Guadalajara",
+    "country": "Mexico",
+    "lat": 20.6720375,
+    "lng": -103.338396
+  },
+  {
+    "id": "mexico-cafe-romantico-radio",
+    "name": "Cafe Romantico Radio",
+    "url": "https://panel.retrolandigital.com/radio/8110/listen",
+    "genre": "Music",
+    "city": "Mexico City",
+    "country": "Mexico",
+    "lat": 19.3207722,
+    "lng": -99.1514678
+  },
+  {
+    "id": "mexico-rocafm",
+    "name": "RocaFM",
+    "url": "https://xxdelgado.radioca.st/stream?type=http&nocache=250290",
+    "genre": "Music",
+    "city": "Mexico City",
+    "country": "Mexico",
+    "lat": 19.3207722,
+    "lng": -99.1514678
+  },
+  {
+    "id": "mexico-mediatica-fm",
+    "name": "Mediatica FM",
+    "url": "https://earwaxme.radioca.st/stream",
+    "genre": "Music",
+    "city": "Mexico City",
+    "country": "Mexico",
+    "lat": 19.3207722,
+    "lng": -99.1514678
+  },
+  {
+    "id": "mexico-mg-radio-misionera",
+    "name": "MG Radio Misionera",
+    "url": "https://sp5.servidorrprivado.com/6394/stream",
+    "genre": "Music",
+    "city": "Mexico City",
+    "country": "Mexico",
+    "lat": 19.3207722,
+    "lng": -99.1514678
+  },
+  {
+    "id": "mexico-la-sanfe-radio",
+    "name": "La SanFe Radio",
+    "url": "https://stream9.mexiserver.com/8402/stream",
+    "genre": "Music",
+    "city": "Mexico City",
+    "country": "Mexico",
+    "lat": 19.3207722,
+    "lng": -99.1514678
+  },
+  {
+    "id": "mexico-el-rocanrosaurio",
+    "name": "El Rocanrosaurio",
+    "url": "https://rocanrosaurio-mayeutica.radioca.st/index.html?sid=1",
+    "genre": "Music",
+    "city": "Mexico City",
+    "country": "Mexico",
+    "lat": 19.3207722,
+    "lng": -99.1514678
+  },
+  {
+    "id": "mexico-radio-mezcalito",
+    "name": "Radio Mezcalito",
+    "url": "https://stream-153.zeno.fm/7g52z86342quv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI3ZzUyejg2MzQycXV2IiwiaG9zdCI6InN0cmVhbS0xNTMuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiWnc0R0dHZUlUd21NS25NZjVwNEVwZyIsImlhdCI6MTc2OTQyMDY2MiwiZXhwIjoxNzY5NDIwNzIyfQ.jeMqbbmJA4_L-BKJ5AjMGeVacfTHZ_ychZGNbGaIb44",
+    "genre": "Music",
+    "city": "Mexico City",
+    "country": "Mexico",
+    "lat": 19.3207722,
+    "lng": -99.1514678
+  },
+  {
+    "id": "mexico-stereorey",
+    "name": "Stereorey",
+    "url": "https://18323.live.streamtheworld.com:443/STEREOREYAAC.aac",
+    "genre": "Music",
+    "city": "Mexico City",
+    "country": "Mexico",
+    "lat": 19.3207722,
+    "lng": -99.1514678
+  },
+  {
+    "id": "mexico-xhfaj-alfa-913-fm",
+    "name": "XHFAJ Alfa 91.3 FM",
+    "url": "https://19263.live.streamtheworld.com:443/XHFAJ_FMAAC.aac",
+    "genre": "Music",
+    "city": "Mexico City",
+    "country": "Mexico",
+    "lat": 19.3207722,
+    "lng": -99.1514678
+  },
+  {
+    "id": "mexico-radio-centro-el-fonografo-am-690",
+    "name": "Radio Centro El Fonografo AM 690",
+    "url": "https://19263.live.streamtheworld.com:443/XEN_AMAAC.aac",
+    "genre": "Music",
+    "city": "Mexico City",
+    "country": "Mexico",
+    "lat": 19.3207722,
+    "lng": -99.1514678
+  },
+  {
+    "id": "mexico-somos-mas-radio",
+    "name": "Somos Mas Radio",
+    "url": "https://streaming.servicioswebmx.com/8036/stream",
+    "genre": "Music",
+    "city": "Guadalajara",
+    "country": "Mexico",
+    "lat": 20.6720375,
+    "lng": -103.338396
+  },
+  {
+    "id": "mexico-889-noticias",
+    "name": "88.9 Noticias",
+    "url": "https://14613.live.streamtheworld.com:443/XHMFM.mp3",
+    "genre": "Music",
+    "city": "Mexico City",
+    "country": "Mexico",
+    "lat": 19.3207722,
+    "lng": -99.1514678
+  },
+  {
+    "id": "mexico-universal-881",
+    "name": "Universal 88.1",
+    "url": "https://29223.live.streamtheworld.com:443/XHRED_FMAAC.aac",
+    "genre": "Music",
+    "city": "Mexico City",
+    "country": "Mexico",
+    "lat": 19.3207722,
+    "lng": -99.1514678
+  },
+  {
+    "id": "mexico-radio-chilango-1053-fm",
+    "name": "Radio Chilango 105.3 FM",
+    "url": "https://stream.radio.co/s938b68214/listen",
+    "genre": "Music",
+    "city": "Mexico City",
+    "country": "Mexico",
+    "lat": 19.3207722,
+    "lng": -99.1514678
+  },
+  {
+    "id": "mexico-w-radio-fm-969",
+    "name": "W Radio FM 96.9",
+    "url": "https://26383.live.streamtheworld.com:443/W_RADIOAAC.aac",
+    "genre": "Music",
+    "city": "Mexico City",
+    "country": "Mexico",
+    "lat": 19.3207722,
+    "lng": -99.1514678
+  },
+  {
+    "id": "mexico-radio-real",
+    "name": "Radio Real",
+    "url": "https://c17.radioboss.fm/stream/42",
+    "genre": "Music",
+    "city": "Guadalajara",
+    "country": "Mexico",
+    "lat": 20.6720375,
+    "lng": -103.338396
+  },
+  {
+    "id": "mexico-imagen-radio-939-fm",
+    "name": "Imagen Radio 93.9 FM",
+    "url": "http://radio.wnsol.com:8240/;stream.mp3",
+    "genre": "Music",
+    "city": "Guadalajara",
+    "country": "Mexico",
+    "lat": 20.6720375,
+    "lng": -103.338396
+  },
+  {
+    "id": "mexico-fórmula-melódica--xetia",
+    "name": "Fórmula Melódica - XETIA",
+    "url": "https://s2.yesstreaming.net:9085/stream",
+    "genre": "Music",
+    "city": "Guadalajara",
+    "country": "Mexico",
+    "lat": 20.6720375,
+    "lng": -103.338396
+  },
+  {
+    "id": "mexico-zeppelin-radio",
+    "name": "Zeppelin Radio",
+    "url": "https://eu10.fastcast4u.com:8440/?type=http&nocache=1723151475",
+    "genre": "Music",
+    "city": "Guadalajara",
+    "country": "Mexico",
+    "lat": 20.6720375,
+    "lng": -103.338396
+  },
+  {
+    "id": "mexico-vibe-1075-fm",
+    "name": "Vibe 107.5 FM",
+    "url": "https://ss1.audiorama.com.mx:6574/;stream",
+    "genre": "Music",
+    "city": "Guadalajara",
+    "country": "Mexico",
+    "lat": 20.6720375,
+    "lng": -103.338396
+  },
+  {
+    "id": "mexico-la-buena-onda",
+    "name": "La Buena Onda",
+    "url": "https://s2.yesstreaming.net:9094/stream",
+    "genre": "Music",
+    "city": "Guadalajara",
+    "country": "Mexico",
+    "lat": 20.6720375,
+    "lng": -103.338396
+  },
+  {
+    "id": "mexico-radio-metrópoli-am-1150",
+    "name": "Radio Metrópoli AM 1150",
+    "url": "https://s2.yesstreaming.net:9088/stream",
+    "genre": "Music",
+    "city": "Guadalajara",
+    "country": "Mexico",
+    "lat": 20.6720375,
+    "lng": -103.338396
+  },
+  {
+    "id": "mexico-w-radio-1015-fm",
+    "name": "W Radio 101.5 FM",
+    "url": "https://19263.live.streamtheworld.com:443/WRADIO_GDLAAC.aac",
+    "genre": "Music",
+    "city": "Guadalajara",
+    "country": "Mexico",
+    "lat": 20.6720375,
+    "lng": -103.338396
+  },
+  {
+    "id": "mexico-los-40-guadalajara",
+    "name": "Los 40 Guadalajara",
+    "url": "https://18303.live.streamtheworld.com:443/LOS40_GDLAAC.aac",
+    "genre": "Music",
+    "city": "Guadalajara",
+    "country": "Mexico",
+    "lat": 20.6720375,
+    "lng": -103.338396
+  },
+  {
+    "id": "mexico-xhuga-1055-radio-udeg",
+    "name": "XHUGA 105.5 Radio UdeG",
+    "url": "https://stream-151.zeno.fm/cu717gz92hhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjdTcxN2d6OTJoaHZ2IiwiaG9zdCI6InN0cmVhbS0xNTEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiYWo3TVpDeUJRUm1ndDh1TjFnSE9NUSIsImlhdCI6MTc2OTQyMDY2NiwiZXhwIjoxNzY5NDIwNzI2fQ.OkiB5AgpKzTkNQXcL_ljHqNrGY4pz2IB_ovusPdcO_A",
+    "genre": "Music",
+    "city": "Guadalajara",
+    "country": "Mexico",
+    "lat": 20.6720375,
+    "lng": -103.338396
+  },
+  {
+    "id": "mexico-radio-udem-905-fm",
+    "name": "Radio UDEM 90.5 FM",
+    "url": "https://c3.radioboss.fm:18161/stream",
+    "genre": "Music",
+    "city": "Monterrey",
+    "country": "Mexico",
+    "lat": 25.6802019,
+    "lng": -100.315258
+  },
+  {
+    "id": "mexico-genesis-981-fm--xhrl",
+    "name": "Genesis 98.1 FM - XHRL",
+    "url": "https://streamingcwsradio30.com/8238/stream",
+    "genre": "Music",
+    "city": "Monterrey",
+    "country": "Mexico",
+    "lat": 25.6802019,
+    "lng": -100.315258
+  },
+  {
+    "id": "mexico-la-z-fm-1055",
+    "name": "La Z FM 105.5",
+    "url": "https://stream-151.zeno.fm/0q28d4beczctv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwcTI4ZDRiZWN6Y3R2IiwiaG9zdCI6InN0cmVhbS0xNTEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoib05Vbk1YbzBRU2U3cmN3VC04US1rZyIsImlhdCI6MTc2OTQyMDY2NiwiZXhwIjoxNzY5NDIwNzI2fQ.izbtXfYlZh9yDFrySuiMUkfHTkQ8jfYHJLepz_598sQ",
+    "genre": "Music",
+    "city": "Guadalajara",
+    "country": "Mexico",
+    "lat": 20.6720375,
+    "lng": -103.338396
+  },
+  {
+    "id": "mexico-radio-nuages--nuance",
+    "name": "RADIO nuages - Nuance",
+    "url": "https://pureplay.cdnstream1.com/6016_64.aac",
+    "genre": "Music",
+    "city": "Monterrey",
+    "country": "Mexico",
+    "lat": 25.6802019,
+    "lng": -100.315258
+  },
+  {
+    "id": "mexico-cumbias-inmortales-radio",
+    "name": "Cumbias Inmortales Radio",
+    "url": "https://panel.retrolandigital.com/radio/8120/listen",
+    "genre": "Music",
+    "city": "Monterrey",
+    "country": "Mexico",
+    "lat": 25.6802019,
+    "lng": -100.315258
+  },
+  {
+    "id": "mexico-la-ranchera-de-monterrey-1050-am",
+    "name": "La Ranchera de Monterrey 1050 AM",
+    "url": "https://streamingcwsradio30.com/8242/stream",
+    "genre": "Music",
+    "city": "Monterrey",
+    "country": "Mexico",
+    "lat": 25.6802019,
+    "lng": -100.315258
+  },
+  {
+    "id": "mexico-optima-radio-975-fm",
+    "name": "Optima Radio 97.5 FM",
+    "url": "https://casthd.net/8008/stream",
+    "genre": "Music",
+    "city": "Guadalajara",
+    "country": "Mexico",
+    "lat": 20.6720375,
+    "lng": -103.338396
+  },
+  {
+    "id": "mexico-la-tremenda-1031-fm",
+    "name": "La Tremenda 103.1 FM",
+    "url": "https://live.zuperdns.net/4006/stream/;stream.mp3",
+    "genre": "Music",
+    "city": "Guadalajara",
+    "country": "Mexico",
+    "lat": 20.6720375,
+    "lng": -103.338396
+  },
+  {
+    "id": "mexico-fara-fara-radio",
+    "name": "Fara Fara Radio",
+    "url": "https://panel.retrolandigital.com/radio/8190/listen",
+    "genre": "Music",
+    "city": "Monterrey",
+    "country": "Mexico",
+    "lat": 25.6802019,
+    "lng": -100.315258
+  },
+  {
+    "id": "mexico-radio-uanl-897-fm",
+    "name": "Radio UANL 89.7 FM",
+    "url": "https://cast1.asurahosting.com/proxy/univers6/stream",
+    "genre": "Music",
+    "city": "Monterrey",
+    "country": "Mexico",
+    "lat": 25.6802019,
+    "lng": -100.315258
+  },
+  {
+    "id": "mexico-super-fm-995--xhms",
+    "name": "Super FM 99.5 - XHMS",
+    "url": "https://stream11.mexiserver.com/proxy/josejosb/stream",
+    "genre": "Music",
+    "city": "Monterrey",
+    "country": "Mexico",
+    "lat": 25.6802019,
+    "lng": -100.315258
+  },
+  {
+    "id": "mexico-globo-monterrey-881-fm",
+    "name": "Globo Monterrey 88.1 FM",
+    "url": "https://14223.live.streamtheworld.com:443/XHJMFM.mp3",
+    "genre": "Music",
+    "city": "Monterrey",
+    "country": "Mexico",
+    "lat": 25.6802019,
+    "lng": -100.315258
+  },
+  {
+    "id": "mexico-esperanza-radio",
+    "name": "Esperanza Radio",
+    "url": "https://cloudstream2036.conectarhosting.com/8048/stream",
+    "genre": "Music",
+    "city": "Monterrey",
+    "country": "Mexico",
+    "lat": 25.6802019,
+    "lng": -100.315258
+  },
+  {
+    "id": "mexico-exa-973-fm",
+    "name": "Exa 97.3 FM",
+    "url": "https://19003.live.streamtheworld.com:443/XHRSMTYFM.mp3",
+    "genre": "Music",
+    "city": "Monterrey",
+    "country": "Mexico",
+    "lat": 25.6802019,
+    "lng": -100.315258
+  },
+  {
+    "id": "mexico-banda-933",
+    "name": "Banda 93.3",
+    "url": "https://27063.live.streamtheworld.com:443/XHQQ_FMAAC.aac",
+    "genre": "Music",
+    "city": "Monterrey",
+    "country": "Mexico",
+    "lat": 25.6802019,
+    "lng": -100.315258
+  },
+  {
+    "id": "mexico-la-lupe-1053-fm",
+    "name": "La Lupe 105.3 FM",
+    "url": "https://us-b4-p-e-ja16-audio.cdn.mdstrm.com/live-audio-aw/6737993c9422ca09f9b9ea70?aid=579bd29dc99290cf08362c3b&property=radio-garden&pid=NgtyuPH3ry4gMZroJtZtlFdqs469L2Bh&sid=hNvbesKpEqGceCZrkWBQvy74sqxJrotP&uid=7e7GHzOQTHLhwdT9ORgKIHlj4dYd5mRA&es=us-b4-p-e-ja16-audio.cdn.mdstrm.com&ote=1769507068585&ot=QvJwLa7tWuwowV6p5ZAQFQ&proto=https&pz=us&cP=128000&awCollectionId=579bd29dc99290cf08362c3b&aw_0_1st.playerId=radio-garden&liveId=6737993c9422ca09f9b9ea70&referer=https%3A%2F%2Fradio.garden%2F&propertyName=radio-garden&propertyType=rss-app&listenerId=7e7GHzOQTHLhwdT9ORgKIHlj4dYd5mRA",
+    "genre": "Music",
+    "city": "Monterrey",
+    "country": "Mexico",
+    "lat": 25.6802019,
+    "lng": -100.315258
+  },
+  {
+    "id": "mexico-xhnk-los40-993-fm",
+    "name": "XHNK Los40 99.3 FM",
+    "url": "https://stream-151.zeno.fm/wqt0f667zk3uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ3cXQwZjY2N3prM3V2IiwiaG9zdCI6InN0cmVhbS0xNTEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiUTBkTGdhNGNURnk5TElmQVRzcUN6QSIsImlhdCI6MTc2OTQyMDY3MCwiZXhwIjoxNzY5NDIwNzMwfQ.-05jDeX1_mm0haljM224pgwH5oDkfKaz2RPMr7FGiE0",
+    "genre": "Music",
+    "city": "Monterrey",
+    "country": "Mexico",
+    "lat": 25.6802019,
+    "lng": -100.315258
+  },
+  {
+    "id": "mexico-radio-mundo-893-fm",
+    "name": "Radio Mundo 89.3 FM",
+    "url": "https://cento02.mipanelradio.com/proxy/radiomu5?mp=/stream",
+    "genre": "Music",
+    "city": "Merida",
+    "country": "Mexico",
+    "lat": 20.9670759,
+    "lng": -89.6237402
+  },
+  {
+    "id": "mexico-amor-1001-fm",
+    "name": "Amor 100.1 FM",
+    "url": "https://webprod.sipse.com.mx:8080/amor/",
+    "genre": "Music",
+    "city": "Merida",
+    "country": "Mexico",
+    "lat": 20.9670759,
+    "lng": -89.6237402
+  },
+  {
+    "id": "mexico-la-caliente-1057-fm",
+    "name": "La Caliente 105.7 FM",
+    "url": "https://us-b4-p-e-nq15-audio.cdn.mdstrm.com/live-audio-aw/672cfa60673e8a2bb4c73fca?aid=579bd29dc99290cf08362c3b&property=radio-garden&pid=S3hRHiCzcTE2SCO6gECTr0ZYSCrimFBJ&sid=mVC9uygnVjIJXRAFvs6X7zFNgebpgsa9&uid=Rc8Bi53qTzBKDNXjV3AviL0kbAmP8FWG&es=us-b4-p-e-nq15-audio.cdn.mdstrm.com&ote=1769507068826&ot=DVY05AEFICHewGLNeG1rvw&proto=https&pz=us&cP=128000&awCollectionId=579bd29dc99290cf08362c3b&aw_0_1st.playerId=radio-garden&liveId=672cfa60673e8a2bb4c73fca&referer=https%3A%2F%2Fradio.garden%2F&propertyName=radio-garden&propertyType=rss-app&listenerId=Rc8Bi53qTzBKDNXjV3AviL0kbAmP8FWG",
+    "genre": "Music",
+    "city": "Monterrey",
+    "country": "Mexico",
+    "lat": 25.6802019,
+    "lng": -100.315258
+  },
+  {
+    "id": "mexico-exa-fm-993-merida",
+    "name": "EXA FM 99.3 Mérida",
+    "url": "https://14223.live.streamtheworld.com:443/XHMRA_SC",
+    "genre": "Music",
+    "city": "Merida",
+    "country": "Mexico",
+    "lat": 20.9670759,
+    "lng": -89.6237402
+  },
+  {
+    "id": "mexico-la-primera-889-fm",
+    "name": "La Primera 889 FM",
+    "url": "https://18863.live.streamtheworld.com:443/XEAJAMAAC.aac",
+    "genre": "Music",
+    "city": "Monterrey",
+    "country": "Mexico",
+    "lat": 25.6802019,
+    "lng": -100.315258
+  },
+  {
+    "id": "mexico-radio-fórmula-945-fm",
+    "name": "Radio Fórmula 94.5 FM",
+    "url": "https://n01.radiojar.com/pp6pmybp3p8uv?rj-ttl=5&rj-tok=AAABm_m582AAKE7Ma3ObWSg7-Q",
+    "genre": "Music",
+    "city": "Merida",
+    "country": "Mexico",
+    "lat": 20.9670759,
+    "lng": -89.6237402
+  },
+  {
+    "id": "mexico-downtown-tulum-radio",
+    "name": "Downtown Tulum Radio",
+    "url": "https://stream5.mexiserver.com:1089/stream",
+    "genre": "Music",
+    "city": "Merida",
+    "country": "Mexico",
+    "lat": 20.9670759,
+    "lng": -89.6237402
+  },
+  {
+    "id": "mexico-la-comadre-985-fm--xhymt",
+    "name": "La Comadre 98.5 FM - XHYMT",
+    "url": "https://webprod.sipse.com.mx:8080/lacomadre/",
+    "genre": "Music",
+    "city": "Merida",
+    "country": "Mexico",
+    "lat": 20.9670759,
+    "lng": -89.6237402
+  },
+  {
+    "id": "mexico-la-mejor-merida",
+    "name": "La Mejor Mérida",
+    "url": "https://18323.live.streamtheworld.com:443/XERCFM_SC",
+    "genre": "Music",
+    "city": "Merida",
+    "country": "Mexico",
+    "lat": 20.9670759,
+    "lng": -89.6237402
+  },
+  {
+    "id": "mexico-azul-radio-merida",
+    "name": "Azul Radio Mérida",
+    "url": "https://miradiost.com/listen/azulradio/radio.mp3",
+    "genre": "Music",
+    "city": "Merida",
+    "country": "Mexico",
+    "lat": 20.9670759,
+    "lng": -89.6237402
+  },
+  {
+    "id": "mexico-plano-informativo-online",
+    "name": "Plano Informativo Online",
+    "url": "https://stream11.mexiserver.com:9028/live",
+    "genre": "Music",
+    "city": "San Luis Potosi",
+    "country": "Mexico",
+    "lat": 22.5000001,
+    "lng": -100.4949145
+  },
+  {
+    "id": "mexico-romanticalk",
+    "name": "Romanticalk",
+    "url": "https://stream-156.zeno.fm/et3bcd3b7a0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJldDNiY2QzYjdhMHV2IiwiaG9zdCI6InN0cmVhbS0xNTYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoidmNXVHU5SUJSczItR3lHdzNhRzl1QSIsImlhdCI6MTc2OTQyMDY3MiwiZXhwIjoxNzY5NDIwNzMyfQ.9ELD2V-oX2Gk1mNDtWoA9G4gTp4kcm2ecNvek6-Cpyo",
+    "genre": "Music",
+    "city": "Merida",
+    "country": "Mexico",
+    "lat": 20.9670759,
+    "lng": -89.6237402
+  },
+  {
+    "id": "mexico-candela-tizimin-963-fm--xhup",
+    "name": "Candela Tizimin 96.3 FM - XHUP",
+    "url": "https://stream-155.zeno.fm/kg0w97kc4p8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJrZzB3OTdrYzRwOHV2IiwiaG9zdCI6InN0cmVhbS0xNTUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiSU8yX0hCNU9UYjZ2bHMtb013RW4ydyIsImlhdCI6MTc2OTQyMDY3MiwiZXhwIjoxNzY5NDIwNzMyfQ.m5ucQBNiW4y0o18xq1yIdYvdmbZ5cLvf7YT88K8VzcM",
+    "genre": "Music",
+    "city": "Merida",
+    "country": "Mexico",
+    "lat": 20.9670759,
+    "lng": -89.6237402
+  },
+  {
+    "id": "mexico-mas-fm-993",
+    "name": "MAS FM 99.3",
+    "url": "https://playradio.mx/proxy/masfm?mp=/stream",
+    "genre": "Music",
+    "city": "San Luis Potosi",
+    "country": "Mexico",
+    "lat": 22.5000001,
+    "lng": -100.4949145
+  },
+  {
+    "id": "mexico-espectacular-fm-917",
+    "name": "Espectacular FM 91.7",
+    "url": "http://hd.digitalradio.mx:5980/;stream/1",
+    "genre": "Music",
+    "city": "San Luis Potosi",
+    "country": "Mexico",
+    "lat": 22.5000001,
+    "lng": -100.4949145
+  },
+  {
+    "id": "mexico-vox-fm-969",
+    "name": "Vox FM 96.9",
+    "url": "https://playradio.mx/proxy/vox?mp=/stream",
+    "genre": "Music",
+    "city": "San Luis Potosi",
+    "country": "Mexico",
+    "lat": 22.5000001,
+    "lng": -100.4949145
+  },
+  {
+    "id": "mexico-imagen-radio-1059-fm",
+    "name": "Imagen Radio 105.9 FM",
+    "url": "http://radio.alphamx.net:8130/;stream.mp3",
+    "genre": "Music",
+    "city": "San Luis Potosi",
+    "country": "Mexico",
+    "lat": 22.5000001,
+    "lng": -100.4949145
+  },
+  {
+    "id": "mexico-pármenas-radio",
+    "name": "Pármenas Radio",
+    "url": "http://198.251.70.64:8000/stream",
+    "genre": "Music",
+    "city": "Puebla",
+    "country": "Mexico",
+    "lat": 18.833333,
+    "lng": -98.0
+  },
+  {
+    "id": "mexico-exa-fm-1021",
+    "name": "Exa FM 102.1",
+    "url": "https://18363.live.streamtheworld.com:443/XHESL.mp3",
+    "genre": "Music",
+    "city": "San Luis Potosi",
+    "country": "Mexico",
+    "lat": 22.5000001,
+    "lng": -100.4949145
+  },
+  {
+    "id": "mexico-ke-buena-897-fm",
+    "name": "Ke Buena 89.7 FM",
+    "url": "http://kebuena1010.com.mx:8001/live",
+    "genre": "Music",
+    "city": "Puebla",
+    "country": "Mexico",
+    "lat": 18.833333,
+    "lng": -98.0
+  },
+  {
+    "id": "mexico-radio-52-online",
+    "name": "Radio 52 Online",
+    "url": "https://dulzee.mi-radio.stream:5013/index.html",
+    "genre": "Music",
+    "city": "San Luis Potosi",
+    "country": "Mexico",
+    "lat": 22.5000001,
+    "lng": -100.4949145
+  },
+  {
+    "id": "mexico-radio-alegria-957-fm",
+    "name": "Radio Alegria 95.7 FM",
+    "url": "https://cento02.mipanelradio.com/proxy/moroleon?mp=/stream",
+    "genre": "Music",
+    "city": "San Luis Potosi",
+    "country": "Mexico",
+    "lat": 22.5000001,
+    "lng": -100.4949145
+  },
+  {
+    "id": "mexico-radio-infinito-1316",
+    "name": "Radio Infinito 1316",
+    "url": "https://radiosonline.radiolidermexico.com:8036/index.html?sid=1",
+    "genre": "Music",
+    "city": "San Luis Potosi",
+    "country": "Mexico",
+    "lat": 22.5000001,
+    "lng": -100.4949145
+  },
+  {
+    "id": "mexico-amor-fm-953",
+    "name": "Amor FM 95.3",
+    "url": "https://16603.live.streamtheworld.com:443/XHNBFMAAC.aac",
+    "genre": "Music",
+    "city": "San Luis Potosi",
+    "country": "Mexico",
+    "lat": 22.5000001,
+    "lng": -100.4949145
+  },
+  {
+    "id": "mexico-ultra-fm-983",
+    "name": "Ultra FM 98.3",
+    "url": "https://stream-148.zeno.fm/pbe651t0ra0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwYmU2NTF0MHJhMHV2IiwiaG9zdCI6InN0cmVhbS0xNDguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiVFZxTzNETU9SYUdocGhlLWRqS2lFZyIsImlhdCI6MTc2OTQyMDY3NiwiZXhwIjoxNzY5NDIwNzM2fQ.PF0OGQHYyE8z4TKZxijjiRGwL7N24mRrPCgRzn5QRkw",
+    "genre": "Music",
+    "city": "San Luis Potosi",
+    "country": "Mexico",
+    "lat": 22.5000001,
+    "lng": -100.4949145
+  },
+  {
+    "id": "mexico-mix-fm-985",
+    "name": "Mix FM 98.5",
+    "url": "https://18253.live.streamtheworld.com:443/XHQKFMAAC.aac",
+    "genre": "Music",
+    "city": "San Luis Potosi",
+    "country": "Mexico",
+    "lat": 22.5000001,
+    "lng": -100.4949145
+  },
+  {
+    "id": "mexico-la-caja-radio",
+    "name": "La Caja Radio",
+    "url": "https://504streaming.com/8060/stream",
+    "genre": "Music",
+    "city": "San Luis Potosi",
+    "country": "Mexico",
+    "lat": 22.5000001,
+    "lng": -100.4949145
+  },
+  {
+    "id": "mexico-superstereo97",
+    "name": "Superstereo97",
+    "url": "https://cento02.mipanelradio.com/proxy/joselucerva?mp=/stream",
+    "genre": "Music",
+    "city": "Puebla",
+    "country": "Mexico",
+    "lat": 18.833333,
+    "lng": -98.0
+  },
+  {
+    "id": "mexico-radio-mayor",
+    "name": "Radio Mayor",
+    "url": "https://15113.live.streamtheworld.com:443/SAM03AAC219_SC",
+    "genre": "Music",
+    "city": "San Luis Potosi",
+    "country": "Mexico",
+    "lat": 22.5000001,
+    "lng": -100.4949145
+  },
+  {
+    "id": "mexico-la-caliente-977-fm-san-luis-potosí",
+    "name": "La Caliente 97.7 FM San Luis Potosí",
+    "url": "https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/6737a51ea7a64ff86b13a68d?aid=579bd29dc99290cf08362c3b&property=radio-garden&pid=L1fizq4HXqGghz7iBBwZbIpkGWlM6cQK&sid=guL7h4u20KR6M89OgscdX2pK7als40PO&uid=rOatGqnJKlkGlJr5MxK4bXxTpXh7Gjo8&es=us-b4-p-e-qg12-audio.cdn.mdstrm.com&ote=1769507075125&ot=1Km86va-X7DtKwjKbmDAvw&proto=https&pz=us&cP=128000&awCollectionId=579bd29dc99290cf08362c3b&aw_0_1st.playerId=radio-garden&liveId=6737a51ea7a64ff86b13a68d&referer=https%3A%2F%2Fradio.garden%2F&propertyName=radio-garden&propertyType=rss-app&listenerId=rOatGqnJKlkGlJr5MxK4bXxTpXh7Gjo8",
+    "genre": "Music",
+    "city": "San Luis Potosi",
+    "country": "Mexico",
+    "lat": 22.5000001,
+    "lng": -100.4949145
+  },
+  {
+    "id": "mexico-la-lupe-1049-fm-san-luis-potosí",
+    "name": "La Lupe 104.9 FM San Luis Potosí",
+    "url": "https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/6737a424ecba1df74a06e49e?aid=579bd29dc99290cf08362c3b&property=radio-garden&pid=rTwGZgNND6dp4WDxsGYRBwHKAqonNWDI&sid=UQX8XbRDaf6pMgvV6BbFro7Z4DMYGLcs&uid=f99CiKr3nEg7Om1eR265gPzgrfMlGGvO&es=us-b4-p-e-zs14-audio.cdn.mdstrm.com&ote=1769507075042&ot=ZVermDpQf6_vNgXzRnanpQ&proto=https&pz=us&cP=128000&awCollectionId=579bd29dc99290cf08362c3b&aw_0_1st.playerId=radio-garden&liveId=6737a424ecba1df74a06e49e&referer=https%3A%2F%2Fradio.garden%2F&propertyName=radio-garden&propertyType=rss-app&listenerId=f99CiKr3nEg7Om1eR265gPzgrfMlGGvO",
+    "genre": "Music",
+    "city": "San Luis Potosi",
+    "country": "Mexico",
+    "lat": 22.5000001,
+    "lng": -100.4949145
+  },
+  {
+    "id": "mexico-pasión-fm-1043",
+    "name": "Pasión FM 104.3",
+    "url": "https://sg.centrocibernetico.com/pasion1043",
+    "genre": "Music",
+    "city": "Puebla",
+    "country": "Mexico",
+    "lat": 18.833333,
+    "lng": -98.0
+  },
+  {
+    "id": "mexico-w-radio-921-fm",
+    "name": "W Radio 92.1 FM",
+    "url": "https://streaming.servicioswebmx.com//8212//stream",
+    "genre": "Music",
+    "city": "Puebla",
+    "country": "Mexico",
+    "lat": 18.833333,
+    "lng": -98.0
+  },
+  {
+    "id": "mexico-la-grupera-893-fm",
+    "name": "La Grupera 89.3 FM",
+    "url": "https://sg.centrocibernetico.com/grupera893",
+    "genre": "Music",
+    "city": "Puebla",
+    "country": "Mexico",
+    "lat": 18.833333,
+    "lng": -98.0
+  },
+  {
+    "id": "mexico-akumal-fm-1055",
+    "name": "Akumal FM 105.5",
+    "url": "https://servidor39.brlogic.com:7064/live",
+    "genre": "Music",
+    "city": "Merida",
+    "country": "Mexico",
+    "lat": 20.9670759,
+    "lng": -89.6237402
+  },
+  {
+    "id": "mexico-radio-universidad-1075-fm--xhush",
+    "name": "Radio Universidad 107.5 FM - XHUSH",
+    "url": "http://148.225.54.10/broadwave.mp3",
+    "genre": "Music",
+    "city": "Hermosillo",
+    "country": "Mexico",
+    "lat": 29.0948207,
+    "lng": -110.9692202
+  },
+  {
+    "id": "mexico-cholollan-radio-1071-fm",
+    "name": "Cholollan Radio 107.1 FM",
+    "url": "https://radios.liberaturadio.org/fmcholollan",
+    "genre": "Music",
+    "city": "Puebla",
+    "country": "Mexico",
+    "lat": 18.833333,
+    "lng": -98.0
+  },
+  {
+    "id": "mexico-usagi-fm-1029",
+    "name": "Usagi FM 102.9",
+    "url": "https://stream-152.zeno.fm/ooznpnqqqtouv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJvb3pucG5xcXF0b3V2IiwiaG9zdCI6InN0cmVhbS0xNTIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiSWF3MWxfUFRRX0NXZ1p0bW0zM3RBZyIsImlhdCI6MTc2OTQyMDY3OCwiZXhwIjoxNzY5NDIwNzM4fQ.S7vWjwWMIPBDvsmzvEKJ7Ck_uy4QMZDmZ6KjFPE1N8E",
+    "genre": "Music",
+    "city": "Puebla",
+    "country": "Mexico",
+    "lat": 18.833333,
+    "lng": -98.0
+  },
+  {
+    "id": "mexico-toño-889",
+    "name": "Toño 88.9",
+    "url": "http://5.79.86.158:8116/;stream.mp3",
+    "genre": "Music",
+    "city": "Hermosillo",
+    "country": "Mexico",
+    "lat": 29.0948207,
+    "lng": -110.9692202
+  },
+  {
+    "id": "mexico-oro-949-fm",
+    "name": "Oro 94.9 FM",
+    "url": "https://stream-141.zeno.fm/25wezs83gd0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIyNXdlenM4M2dkMHV2IiwiaG9zdCI6InN0cmVhbS0xNDEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiMzhFY2VEMzlUeWlKcFZybVNfbG42USIsImlhdCI6MTc2OTQyMDY3OSwiZXhwIjoxNzY5NDIwNzM5fQ.ahvA929H6p37Dp1MUj1WquN6Hrbq_j1cgxLe8n-yYFY",
+    "genre": "Music",
+    "city": "Puebla",
+    "country": "Mexico",
+    "lat": 18.833333,
+    "lng": -98.0
+  },
+  {
+    "id": "mexico-amor-1033-fm",
+    "name": "Amor 103.3 FM",
+    "url": "https://14093.live.streamtheworld.com:443/XHRHFMAAC.aac",
+    "genre": "Music",
+    "city": "Puebla",
+    "country": "Mexico",
+    "lat": 18.833333,
+    "lng": -98.0
+  },
+  {
+    "id": "mexico-mix-917-fm",
+    "name": "Mix 91.7 FM",
+    "url": "https://18423.live.streamtheworld.com:443/XHRCFMAAC.aac",
+    "genre": "Music",
+    "city": "Puebla",
+    "country": "Mexico",
+    "lat": 18.833333,
+    "lng": -98.0
+  },
+  {
+    "id": "mexico-la-revolucionaria-fm-889",
+    "name": "La Revolucionaria FM 88.9",
+    "url": "https://s34.myradiostream.com:15940/listen.mp3",
+    "genre": "Music",
+    "city": "Puebla",
+    "country": "Mexico",
+    "lat": 18.833333,
+    "lng": -98.0
+  },
+  {
+    "id": "mexico-fm-centro-1003",
+    "name": "FM Centro 100.3",
+    "url": "https://radioenhd.com/8212/stream",
+    "genre": "Music",
+    "city": "Puebla",
+    "country": "Mexico",
+    "lat": 18.833333,
+    "lng": -98.0
+  },
+  {
+    "id": "mexico-comunidad-de-fe",
+    "name": "Comunidad de Fe",
+    "url": "https://usa1.fastcast4u.com/proxy/comudefe?mp=/1",
+    "genre": "Music",
+    "city": "Hermosillo",
+    "country": "Mexico",
+    "lat": 29.0948207,
+    "lng": -110.9692202
+  },
+  {
+    "id": "mexico-sol-fm-1013--xhvp",
+    "name": "Sol FM 101.3  - XHVP",
+    "url": "https://sg.centrocibernetico.com/solfm1013",
+    "genre": "Music",
+    "city": "Puebla",
+    "country": "Mexico",
+    "lat": 18.833333,
+    "lng": -98.0
+  },
+  {
+    "id": "mexico-manzana-radio-1007-fm--xhscmf",
+    "name": "Manzana Radio 100.7 FM - XHSCMF",
+    "url": "https://stream.livesummer.com.mx/listen/manzana_radio_100.7/manzana.mp3",
+    "genre": "Music",
+    "city": "Hermosillo",
+    "country": "Mexico",
+    "lat": 29.0948207,
+    "lng": -110.9692202
+  },
+  {
+    "id": "mexico-stereo-fm-1003--xhsd",
+    "name": "Stereo FM 100.3 - XHSD",
+    "url": "https://streamingcwsradio30.com:7026/stream",
+    "genre": "Music",
+    "city": "Hermosillo",
+    "country": "Mexico",
+    "lat": 29.0948207,
+    "lng": -110.9692202
+  },
+  {
+    "id": "mexico-match-901-fm",
+    "name": "Match 90.1 FM",
+    "url": "https://16643.live.streamtheworld.com:443/XHRSFMAAC.aac",
+    "genre": "Music",
+    "city": "Puebla",
+    "country": "Mexico",
+    "lat": 18.833333,
+    "lng": -98.0
+  },
+  {
+    "id": "mexico-estación-rock",
+    "name": "Estación Rock",
+    "url": "https://estacionrockson.radioca.st/index.html?sid=1",
+    "genre": "Music",
+    "city": "Hermosillo",
+    "country": "Mexico",
+    "lat": 29.0948207,
+    "lng": -110.9692202
+  },
+  {
+    "id": "mexico-los-40-889-fm--xheson",
+    "name": "Los 40 88.9 FM - XHESON",
+    "url": "https://sonic.globalstream.pro:10971/stream.mp3",
+    "genre": "Music",
+    "city": "Hermosillo",
+    "country": "Mexico",
+    "lat": 29.0948207,
+    "lng": -110.9692202
+  },
+  {
+    "id": "mexico-poderosa-889-fm",
+    "name": "Poderosa 88.9 FM",
+    "url": "https://stream.freepi.io/8404/live",
+    "genre": "Music",
+    "city": "Hermosillo",
+    "country": "Mexico",
+    "lat": 29.0948207,
+    "lng": -110.9692202
+  },
+  {
+    "id": "mexico-ky-907-fm",
+    "name": "KY 90.7 FM",
+    "url": "https://ss1.audiorama.com.mx:6620/;stream",
+    "genre": "Music",
+    "city": "Hermosillo",
+    "country": "Mexico",
+    "lat": 29.0948207,
+    "lng": -110.9692202
+  },
+  {
+    "id": "mexico-ky-903-fm",
+    "name": "KY 90.3 FM",
+    "url": "https://ss1.audiorama.com.mx:6586/;stream",
+    "genre": "Music",
+    "city": "Hermosillo",
+    "country": "Mexico",
+    "lat": 29.0948207,
+    "lng": -110.9692202
+  },
+  {
+    "id": "mexico-sonora-classic-rock--hard",
+    "name": "Sonora Classic Rock - Hard",
+    "url": "https://s18.myradiostream.com/:6664/index.html?sid=1",
+    "genre": "Music",
+    "city": "Hermosillo",
+    "country": "Mexico",
+    "lat": 29.0948207,
+    "lng": -110.9692202
+  },
+  {
+    "id": "mexico-nostalgia-y-vainillas",
+    "name": "Nostalgia y Vainillas",
+    "url": "https://sonic01.instainternet.com/8130/stream",
+    "genre": "Music",
+    "city": "Hermosillo",
+    "country": "Mexico",
+    "lat": 29.0948207,
+    "lng": -110.9692202
+  },
+  {
+    "id": "mexico-radio-formula-915-fm",
+    "name": "Radio Formula 91.5 FM",
+    "url": "https://n13.radiojar.com/damv7e1g4p8uv?rj-ttl=5&rj-tok=AAABm_m6HDwAddisIT9Dv9WeOw",
+    "genre": "Music",
+    "city": "Hermosillo",
+    "country": "Mexico",
+    "lat": 29.0948207,
+    "lng": -110.9692202
+  },
+  {
+    "id": "mexico-poderosa-1047-fm",
+    "name": "Poderosa 104.7 FM",
+    "url": "https://stream.freepi.io/8400/live",
+    "genre": "Music",
+    "city": "Hermosillo",
+    "country": "Mexico",
+    "lat": 29.0948207,
+    "lng": -110.9692202
+  },
+  {
+    "id": "mexico-la-bestia-grupera-1045-fm",
+    "name": "La Bestia Grupera 104.5 FM",
+    "url": "https://ss1.audiorama.com.mx:6624/;stream",
+    "genre": "Music",
+    "city": "Cuernavaca",
+    "country": "Mexico",
+    "lat": 18.9331321,
+    "lng": -99.2599579
+  },
+  {
+    "id": "mexico-la-kaliente-907-fm",
+    "name": "La Kaliente 90.7 FM",
+    "url": "https://15693.live.streamtheworld.com:443/XHHLLAAC.aac",
+    "genre": "Music",
+    "city": "Hermosillo",
+    "country": "Mexico",
+    "lat": 29.0948207,
+    "lng": -110.9692202
+  },
+  {
+    "id": "mexico-radial-314",
+    "name": "Radial 3.14",
+    "url": "https://stream9.mexiserver.com:8392/stream",
+    "genre": "Music",
+    "city": "Cuernavaca",
+    "country": "Mexico",
+    "lat": 18.9331321,
+    "lng": -99.2599579
+  },
+  {
+    "id": "mexico-radio-fórmula-morelos-1069-fm",
+    "name": "Radio Fórmula Morelos 106.9 FM",
+    "url": "https://n13.radiojar.com/5pu7b5yp2p8uv?rj-ttl=5&rj-tok=AAABm_m6JpYAFEufd1X8MSKsOw",
+    "genre": "Music",
+    "city": "Cuernavaca",
+    "country": "Mexico",
+    "lat": 18.9331321,
+    "lng": -99.2599579
+  },
+  {
+    "id": "mexico-blu-fm-923-fm-xhoi-fm",
+    "name": "Blu FM 92.3 FM XHOI-FM",
+    "url": "https://strcdn.klm99.com:8066/stream",
+    "genre": "Music",
+    "city": "León",
+    "country": "Mexico",
+    "lat": 21.121965,
+    "lng": -101.6829766
+  },
+  {
+    "id": "mexico-w-radio-fm-1001",
+    "name": "W Radio FM 100.1",
+    "url": "https://stream9.mexiserver.com/8342/stream",
+    "genre": "Music",
+    "city": "Cuernavaca",
+    "country": "Mexico",
+    "lat": 18.9331321,
+    "lng": -99.2599579
+  },
+  {
+    "id": "mexico-radio-mejorando-cuernavaca",
+    "name": "Radio Mejorando Cuernavaca",
+    "url": "https://panelautodj.innovatestream.pe/8172/stream",
+    "genre": "Music",
+    "city": "Cuernavaca",
+    "country": "Mexico",
+    "lat": 18.9331321,
+    "lng": -99.2599579
+  },
+  {
+    "id": "mexico-la-99-fm-cuernavaca",
+    "name": "La 99 FM Cuernavaca",
+    "url": "https://cdn4.onstream.audio/proxy/la991/stream",
+    "genre": "Music",
+    "city": "Cuernavaca",
+    "country": "Mexico",
+    "lat": 18.9331321,
+    "lng": -99.2599579
+  },
+  {
+    "id": "mexico-la-mejor-973-fm-cuernavaca",
+    "name": "La Mejor 97.3 FM Cuernavaca",
+    "url": "https://18213.live.streamtheworld.com:443/XHVZ_SC",
+    "genre": "Music",
+    "city": "Cuernavaca",
+    "country": "Mexico",
+    "lat": 18.9331321,
+    "lng": -99.2599579
+  },
+  {
+    "id": "mexico-la-voladora-radio-973-fm",
+    "name": "La Voladora Radio 97.3 FM",
+    "url": "http://lv.linkpc.net:8000/",
+    "genre": "Music",
+    "city": "Cuernavaca",
+    "country": "Mexico",
+    "lat": 18.9331321,
+    "lng": -99.2599579
+  },
+  {
+    "id": "mexico-rock-connection-77",
+    "name": "Rock Connection 77",
+    "url": "https://s43.myradiostream.com:22226/listen.mp3?nocache=1769420685",
+    "genre": "Music",
+    "city": "Cuernavaca",
+    "country": "Mexico",
+    "lat": 18.9331321,
+    "lng": -99.2599579
+  },
+  {
+    "id": "mexico-los-40-león-931-fm",
+    "name": "Los 40 León 93.1 FM",
+    "url": "https://cdn1.onstream.audio/proxy/xherz/Stream",
+    "genre": "Music",
+    "city": "León",
+    "country": "Mexico",
+    "lat": 21.121965,
+    "lng": -101.6829766
+  },
+  {
+    "id": "mexico-exa-fm-957-cuernavaca",
+    "name": "Exa FM 95.7 Cuernavaca",
+    "url": "https://19303.live.streamtheworld.com:443/XHCT_SC",
+    "genre": "Music",
+    "city": "Cuernavaca",
+    "country": "Mexico",
+    "lat": 18.9331321,
+    "lng": -99.2599579
+  },
+  {
+    "id": "mexico-oriente-capital",
+    "name": "Oriente Capital",
+    "url": "https://stream-168.zeno.fm/fvszk566uc9uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJmdnN6azU2NnVjOXV2IiwiaG9zdCI6InN0cmVhbS0xNjguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiSEdEOHdsTkdTYnkyMXA4Y1B2RE9EUSIsImlhdCI6MTc2OTQyMDY4NSwiZXhwIjoxNzY5NDIwNzQ1fQ.CXeHqZ93CwMyFDSGBfRSM9jDqfNYPyOdv_0BvBELUmo",
+    "genre": "Music",
+    "city": "Cuernavaca",
+    "country": "Mexico",
+    "lat": 18.9331321,
+    "lng": -99.2599579
+  },
+  {
+    "id": "mexico-crystal-1049-fm",
+    "name": "Crystal 104.9 FM",
+    "url": "https://14223.live.streamtheworld.com:443/XHMLOFMAAC.aac?dist=radiogarden",
+    "genre": "Music",
+    "city": "Cuernavaca",
+    "country": "Mexico",
+    "lat": 18.9331321,
+    "lng": -99.2599579
+  },
+  {
+    "id": "mexico-radar-fm-889",
+    "name": "Radar FM 88.9",
+    "url": "https://radios.radiohd.com.mx/8382/stream",
+    "genre": "Music",
+    "city": "León",
+    "country": "Mexico",
+    "lat": 21.121965,
+    "lng": -101.6829766
+  },
+  {
+    "id": "mexico-lokura-fm-995",
+    "name": "Lokura FM 99.5",
+    "url": "https://14993.live.streamtheworld.com:443/XHXIAAC.aac",
+    "genre": "Music",
+    "city": "Cuernavaca",
+    "country": "Mexico",
+    "lat": 18.9331321,
+    "lng": -99.2599579
+  },
+  {
+    "id": "mexico-exa-fm-1041-xhmd",
+    "name": "EXA FM 104.1 XHMD",
+    "url": "https://18213.live.streamtheworld.com:443/XHMDFM_SC",
+    "genre": "Music",
+    "city": "León",
+    "country": "Mexico",
+    "lat": 21.121965,
+    "lng": -101.6829766
+  },
+  {
+    "id": "mexico-sintonía-digital",
+    "name": "Sintonía Digital",
+    "url": "https://stream.openstream.fm/stream/ja7czrga",
+    "genre": "Music",
+    "city": "León",
+    "country": "Mexico",
+    "lat": 21.121965,
+    "lng": -101.6829766
+  },
+  {
+    "id": "mexico-la-poderosa-939-fm",
+    "name": "La Poderosa 93.9 FM",
+    "url": "https://streaming.servicioswebmx.com/8130/stream",
+    "genre": "Music",
+    "city": "León",
+    "country": "Mexico",
+    "lat": 21.121965,
+    "lng": -101.6829766
+  },
+  {
+    "id": "mexico-radio-santa-fe-907-fm",
+    "name": "Radio Santa Fe 90.7 FM",
+    "url": "http://www.icecasthd.net:8274/xhfl",
+    "genre": "Music",
+    "city": "León",
+    "country": "Mexico",
+    "lat": 21.121965,
+    "lng": -101.6829766
+  },
+  {
+    "id": "mexico-trión-1071-fm",
+    "name": "Trión 107.1 FM",
+    "url": "https://n0f.radiojar.com/9f04hpdn3p8uv?rj-ttl=5&rj-tok=AAABm_m6NFwAfnn0ZP9BXQRxsg",
+    "genre": "Music",
+    "city": "León",
+    "country": "Mexico",
+    "lat": 21.121965,
+    "lng": -101.6829766
+  },
+  {
+    "id": "mexico-xhml-fm-903-fm-la-bestia-grupera",
+    "name": "XHML-FM 90.3 FM La Bestia Grupera",
+    "url": "https://ss1.audiorama.com.mx:6636/;stream",
+    "genre": "Music",
+    "city": "León",
+    "country": "Mexico",
+    "lat": 21.121965,
+    "lng": -101.6829766
+  },
+  {
+    "id": "mexico-salmantina-xeemm-am810",
+    "name": "Salmantina XEEMM AM810",
+    "url": "https://stream9.mexiserver.com/8422/stream",
+    "genre": "Music",
+    "city": "León",
+    "country": "Mexico",
+    "lat": 21.121965,
+    "lng": -101.6829766
+  },
+  {
+    "id": "mexico-fiesta-mexicana-1023",
+    "name": "Fiesta Mexicana 102.3",
+    "url": "https://stream-159.zeno.fm/wghs2vb6dkhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ3Z2hzMnZiNmRraHZ2IiwiaG9zdCI6InN0cmVhbS0xNTkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiN00tOTNUMGtSSGl3WFNGSDF1SU5IUSIsImlhdCI6MTc2OTQyMDY4OCwiZXhwIjoxNzY5NDIwNzQ4fQ.L_wdyYiWkrbl-hu9BxfT_HX3XtZ-hErWMiN40UlmgWQ",
+    "genre": "Music",
+    "city": "León",
+    "country": "Mexico",
+    "lat": 21.121965,
+    "lng": -101.6829766
+  },
+  {
+    "id": "mexico-euforia-radio",
+    "name": "Euforia Radio",
+    "url": "https://servidor38.brlogic.com:7004/live",
+    "genre": "Music",
+    "city": "Cuernavaca",
+    "country": "Mexico",
+    "lat": 18.9331321,
+    "lng": -99.2599579
+  },
+  {
+    "id": "mexico-lg-la-grande-fm-955",
+    "name": "LG La Grande FM 95.5",
+    "url": "https://stream-144.zeno.fm/9ty3tty0ra0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI5dHkzdHR5MHJhMHV2IiwiaG9zdCI6InN0cmVhbS0xNDQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiTlZjaF9OazJRM0tnUDJSRUxmMmNCZyIsImlhdCI6MTc2OTQyMDY4OCwiZXhwIjoxNzY5NDIwNzQ4fQ.zQmmXxrh4pM0HSotpOXHoObT2JpFerCgU1iIvrJy4YQ",
+    "genre": "Music",
+    "city": "León",
+    "country": "Mexico",
+    "lat": 21.121965,
+    "lng": -101.6829766
+  },
+  {
+    "id": "mexico-match-león-975-fm",
+    "name": "Match León 97.5 FM",
+    "url": "https://27163.live.streamtheworld.com:443/XHPQFM_SC?dist=onlineradiobox",
+    "genre": "Music",
+    "city": "León",
+    "country": "Mexico",
+    "lat": 21.121965,
+    "lng": -101.6829766
+  },
+  {
+    "id": "mexico-rrr-fm-895",
+    "name": "RRR FM 89.5",
+    "url": "https://live.zuperdns.net/8950/stream/;stream.mp3",
+    "genre": "Music",
+    "city": "León",
+    "country": "Mexico",
+    "lat": 21.121965,
+    "lng": -101.6829766
+  },
+  {
+    "id": "mexico-los-40-cuernavaca-965-fm",
+    "name": "Los 40 Cuernavaca 96.5 FM",
+    "url": "https://tv.radiohosting.online:8556/stream",
+    "genre": "Music",
+    "city": "Cuernavaca",
+    "country": "Mexico",
+    "lat": 18.9331321,
+    "lng": -99.2599579
+  },
+  {
+    "id": "mexico-azul-radio-veracruz",
+    "name": "Azul Radio Veracruz",
+    "url": "https://miradiost.com/listen/azulradioveracruz/radio.mp3",
+    "genre": "Music",
+    "city": "Heroica Veracruz",
+    "country": "Mexico",
+    "lat": 20.7061109,
+    "lng": -97.3068299
+  },
+  {
+    "id": "mexico-la-lupe-967-fm-león",
+    "name": "La Lupe 96.7 FM León",
+    "url": "https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/67379fd2438a16f805e794bd?aid=579bd29dc99290cf08362c3b&property=radio-garden&pid=iJPWfSysujGJrcGpjpXtzGI1zreQGMbP&sid=Lu05fNTSLA7KaNXL31hISnsWFh3tmqjH&uid=MjlTQhLXPuhS2I2qjgWhM2kE5JYekUy5&es=us-b4-p-e-pb13-audio.cdn.mdstrm.com&ote=1769507088253&ot=daTXjro0UeQGOYpFIxfQLA&proto=https&pz=us&cP=128000&awCollectionId=579bd29dc99290cf08362c3b&aw_0_1st.playerId=radio-garden&liveId=67379fd2438a16f805e794bd&referer=https%3A%2F%2Fradio.garden%2F&propertyName=radio-garden&propertyType=rss-app&listenerId=MjlTQhLXPuhS2I2qjgWhM2kE5JYekUy5",
+    "genre": "Music",
+    "city": "León",
+    "country": "Mexico",
+    "lat": 21.121965,
+    "lng": -101.6829766
+  },
+  {
+    "id": "mexico-jk-radio",
+    "name": "JK Radio",
+    "url": "https://jkradio-zikoxstream.radioca.st/stream",
+    "genre": "Music",
+    "city": "Heroica Veracruz",
+    "country": "Mexico",
+    "lat": 20.7061109,
+    "lng": -97.3068299
+  },
+  {
+    "id": "mexico-mas-latina-fm-965",
+    "name": "Mas Latina FM 96.5",
+    "url": "https://cast3.my-control-panel.com/proxy/maslatina/stream",
+    "genre": "Music",
+    "city": "Heroica Veracruz",
+    "country": "Mexico",
+    "lat": 20.7061109,
+    "lng": -97.3068299
+  },
+  {
+    "id": "mexico-agave-radio",
+    "name": "Agave Radio",
+    "url": "https://stream-159.zeno.fm/ylcqezjoswftv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5bGNxZXpqb3N3ZnR2IiwiaG9zdCI6InN0cmVhbS0xNTkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoib0dKSzJ3QWpSbC1EYW5mbWo0cDc3QSIsImlhdCI6MTc2OTQyMDY5MCwiZXhwIjoxNzY5NDIwNzUwfQ.iyP9Spant9JxOoKE783LZ2JMt4Ce_04k2DVJl0ZsT-Q",
+    "genre": "Music",
+    "city": "León",
+    "country": "Mexico",
+    "lat": 21.121965,
+    "lng": -101.6829766
+  },
+  {
+    "id": "mexico-imagen-radio-veracruz",
+    "name": "Imagen Radio Veracruz",
+    "url": "http://veracruz.radio.wnsol.com:8310/;stream.mp3",
+    "genre": "Music",
+    "city": "Heroica Veracruz",
+    "country": "Mexico",
+    "lat": 20.7061109,
+    "lng": -97.3068299
+  },
+  {
+    "id": "mexico-trion-fm-1061",
+    "name": "Trion FM 106.1",
+    "url": "https://n04.radiojar.com/u9zvqwen3p8uv?rj-ttl=5&rj-tok=AAABm_m6QX8AJnj9pljA-sK68Q",
+    "genre": "Music",
+    "city": "Heroica Veracruz",
+    "country": "Mexico",
+    "lat": 20.7061109,
+    "lng": -97.3068299
+  },
+  {
+    "id": "mexico-la-jarocha-fm",
+    "name": "La Jarocha FM",
+    "url": "https://streaming.servicioswebmx.com/8124/stream",
+    "genre": "Music",
+    "city": "Heroica Veracruz",
+    "country": "Mexico",
+    "lat": 20.7061109,
+    "lng": -97.3068299
+  },
+  {
+    "id": "mexico-la-garra-del-tigrin",
+    "name": "La Garra del Tigrin",
+    "url": "https://sonic.sistemahost.es:7041/index.html?sid=1",
+    "genre": "Music",
+    "city": "Heroica Veracruz",
+    "country": "Mexico",
+    "lat": 20.7061109,
+    "lng": -97.3068299
+  },
+  {
+    "id": "mexico-ya-fm-1029",
+    "name": "Ya! FM 102.9",
+    "url": "https://sg.centrocibernetico.com/yafmveracruz",
+    "genre": "Music",
+    "city": "Heroica Veracruz",
+    "country": "Mexico",
+    "lat": 20.7061109,
+    "lng": -97.3068299
+  },
+  {
+    "id": "mexico-fusión-901-fm",
+    "name": "Fusión 90.1 FM",
+    "url": "https://sg.centrocibernetico.com/fusion",
+    "genre": "Music",
+    "city": "Heroica Veracruz",
+    "country": "Mexico",
+    "lat": 20.7061109,
+    "lng": -97.3068299
+  },
+  {
+    "id": "mexico-xetq-romántica-1013-fm",
+    "name": "XETQ Romántica 101.3 FM",
+    "url": "https://sp04.servidorrprivado.com/8040/stream",
+    "genre": "Music",
+    "city": "Heroica Veracruz",
+    "country": "Mexico",
+    "lat": 20.7061109,
+    "lng": -97.3068299
+  },
+  {
+    "id": "mexico-la-#1-fm1049",
+    "name": "La #1 FM104.9",
+    "url": "http://13806.cloudrad.io:9260/live/",
+    "genre": "Music",
+    "city": "Tijuana",
+    "country": "Mexico",
+    "lat": 32.5317397,
+    "lng": -117.019529
+  },
+  {
+    "id": "mexico-xeu-noticias",
+    "name": "XEU Noticias",
+    "url": "https://xeu.centrocibernetico.com/",
+    "genre": "Music",
+    "city": "Heroica Veracruz",
+    "country": "Mexico",
+    "lat": 20.7061109,
+    "lng": -97.3068299
+  },
+  {
+    "id": "mexico-la-primerísima-fm-927",
+    "name": "La Primerísima FM 92.7",
+    "url": "https://s1.reliastream.com/proxy/emalpi00?mp=/stream",
+    "genre": "Music",
+    "city": "Heroica Veracruz",
+    "country": "Mexico",
+    "lat": 20.7061109,
+    "lng": -97.3068299
+  },
+  {
+    "id": "mexico-la-lupe-963-fm",
+    "name": "La Lupe 96.3 FM",
+    "url": "https://us-b4-p-e-nq15-audio.cdn.mdstrm.com/live-audio-aw/67378a1158fddafa2d92caf9?aid=579bd29dc99290cf08362c3b&property=radio-garden&pid=oaA3GbcVYrqbKN6jpWAscwYB72UQ09P2&sid=F1IPQnQ88Io4DVHSHaxMI6hSVg2GhjP6&uid=fJgas1YtLk0gXiXcxSPHoxrEEF8qgIy9&es=us-b4-p-e-nq15-audio.cdn.mdstrm.com&ote=1769507091792&ot=z3qETeEBli9yAP8fAoAShA&proto=https&pz=us&cP=128000&awCollectionId=579bd29dc99290cf08362c3b&aw_0_1st.playerId=radio-garden&liveId=67378a1158fddafa2d92caf9&referer=https%3A%2F%2Fradio.garden%2F&propertyName=radio-garden&propertyType=rss-app&listenerId=fJgas1YtLk0gXiXcxSPHoxrEEF8qgIy9",
+    "genre": "Music",
+    "city": "Heroica Veracruz",
+    "country": "Mexico",
+    "lat": 20.7061109,
+    "lng": -97.3068299
+  },
+  {
+    "id": "mexico-la-invasora-fm-997",
+    "name": "La Invasora FM 99.7",
+    "url": "https://streamingcwsradio30.com:7022/stream/",
+    "genre": "Music",
+    "city": "Tijuana",
+    "country": "Mexico",
+    "lat": 32.5317397,
+    "lng": -117.019529
+  },
+  {
+    "id": "mexico-la-fiera-941-fm",
+    "name": "La Fiera 94.1 FM",
+    "url": "https://sg.centrocibernetico.com/lafiera",
+    "genre": "Music",
+    "city": "Heroica Veracruz",
+    "country": "Mexico",
+    "lat": 20.7061109,
+    "lng": -97.3068299
+  },
+  {
+    "id": "mexico-la-mejor-1005-fm",
+    "name": "La Mejor 100.5 FM",
+    "url": "https://15693.live.streamtheworld.com:443/XHVEFMAAC.aac",
+    "genre": "Music",
+    "city": "Heroica Veracruz",
+    "country": "Mexico",
+    "lat": 20.7061109,
+    "lng": -97.3068299
+  },
+  {
+    "id": "mexico-la-poderosa-am-860--xemo",
+    "name": "La Poderosa AM 860 - XEMO",
+    "url": "https://streamingcwsradio30.com:7024/stream",
+    "genre": "Music",
+    "city": "Tijuana",
+    "country": "Mexico",
+    "lat": 32.5317397,
+    "lng": -117.019529
+  },
+  {
+    "id": "mexico-nettnettradio",
+    "name": "nettnettradio",
+    "url": "https://radio.mensajito.mx/nettnettradio",
+    "genre": "Music",
+    "city": "Tijuana",
+    "country": "Mexico",
+    "lat": 32.5317397,
+    "lng": -117.019529
+  },
+  {
+    "id": "mexico-afrojarocha-radio-915-fm",
+    "name": "Afrojarocha Radio 91.5 FM",
+    "url": "https://stream-176.zeno.fm/thuz28fkpchvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0aHV6Mjhma3BjaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoicndtNkhyZ0ZSbW11bHFoaWRodVp5USIsImlhdCI6MTc2OTQyMDY5MywiZXhwIjoxNzY5NDIwNzUzfQ.yr-zpdlbdoHtdSpeI_B4iVIdlc875dPrz2dJjzabX7M",
+    "genre": "Music",
+    "city": "Heroica Veracruz",
+    "country": "Mexico",
+    "lat": 20.7061109,
+    "lng": -97.3068299
+  },
+  {
+    "id": "mexico-exponente-radio",
+    "name": "Exponente Radio",
+    "url": "https://exponente.radioca.st/live",
+    "genre": "Music",
+    "city": "Tijuana",
+    "country": "Mexico",
+    "lat": 32.5317397,
+    "lng": -117.019529
+  },
+  {
+    "id": "mexico-more-fm-989",
+    "name": "More FM 98.9",
+    "url": "https://radio.cadenanoticias.com/proxy/morefm989?mp=/morefm989",
+    "genre": "Music",
+    "city": "Tijuana",
+    "country": "Mexico",
+    "lat": 32.5317397,
+    "lng": -117.019529
+  },
+  {
+    "id": "mexico-la-invasora-fm-945",
+    "name": "La Invasora FM 94.5",
+    "url": "https://streamingcwsradio30.com:7023/stream/",
+    "genre": "Music",
+    "city": "Tijuana",
+    "country": "Mexico",
+    "lat": 32.5317397,
+    "lng": -117.019529
+  },
+  {
+    "id": "mexico-radio-fórmula-am-950",
+    "name": "Radio Fórmula AM 950",
+    "url": "https://n08.radiojar.com/nce1peen3p8uv?rj-ttl=5&rj-tok=AAABm_m6UpMA8pMeCdz0fijKEg",
+    "genre": "Music",
+    "city": "Tijuana",
+    "country": "Mexico",
+    "lat": 32.5317397,
+    "lng": -117.019529
+  },
+  {
+    "id": "mexico-ryta-radio-fm-927",
+    "name": "RyTA Radio FM 92.7",
+    "url": "http://www.streamingcwsradio30.com:8018/stream",
+    "genre": "Music",
+    "city": "Aguascalientes",
+    "country": "Mexico",
+    "lat": 21.880487,
+    "lng": -102.2967195
+  },
+  {
+    "id": "mexico-amor-es-1045-fm",
+    "name": "Amor es 104.5 FM",
+    "url": "https://cast.zuperdns.net/8026/stream/;stream.mp3",
+    "genre": "Music",
+    "city": "Aguascalientes",
+    "country": "Mexico",
+    "lat": 21.880487,
+    "lng": -102.2967195
+  },
+  {
+    "id": "mexico-st-john-paul-ii-radio",
+    "name": "St. John Paul II Radio",
+    "url": "https://ssl-2.stream.miriamtech.net/jp2radio/san-diego",
+    "genre": "Music",
+    "city": "Tijuana",
+    "country": "Mexico",
+    "lat": 32.5317397,
+    "lng": -117.019529
+  },
+  {
+    "id": "mexico-hasta-que-el-cuerpo-aguante-1037-fm",
+    "name": "Hasta que el Cuerpo Aguante 103.7 FM",
+    "url": "https://mediastreamm.com/8206/stream",
+    "genre": "Music",
+    "city": "Aguascalientes",
+    "country": "Mexico",
+    "lat": 21.880487,
+    "lng": -102.2967195
+  },
+  {
+    "id": "mexico-radio-uaa-fm-945",
+    "name": "Radio UAA FM 94.5",
+    "url": "https://streamingcwsradio30.com/8148/stream",
+    "genre": "Music",
+    "city": "Aguascalientes",
+    "country": "Mexico",
+    "lat": 21.880487,
+    "lng": -102.2967195
+  },
+  {
+    "id": "mexico-la-lupe-953-fm-tijuana",
+    "name": "La Lupe 95.3 FM Tijuana",
+    "url": "https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/6737c55f827a7efae201a949?aid=579bd29dc99290cf08362c3b&property=radio-garden&pid=r0Iq733PDAL2uz3k7xo9UNIcjFTPHPtN&sid=dwoowK9k3UC5bnaj2iOfXxvRwQy3GnkD&uid=z400XmRt8OlLWMZblsqjg0DLtg5mhJqg&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1769507095488&ot=wOekUeOBIQXsFB0hS_3tuA&proto=https&pz=us&cP=128000&awCollectionId=579bd29dc99290cf08362c3b&aw_0_1st.playerId=radio-garden&liveId=6737c55f827a7efae201a949&referer=https%3A%2F%2Fradio.garden%2F&propertyName=radio-garden&propertyType=rss-app&listenerId=z400XmRt8OlLWMZblsqjg0DLtg5mhJqg",
+    "genre": "Music",
+    "city": "Tijuana",
+    "country": "Mexico",
+    "lat": 32.5317397,
+    "lng": -117.019529
+  },
+  {
+    "id": "mexico-la-mejor-907-fm",
+    "name": "La Mejor 90.7 FM",
+    "url": "https://19003.live.streamtheworld.com:443/XHTIM_SC",
+    "genre": "Music",
+    "city": "Tijuana",
+    "country": "Mexico",
+    "lat": 32.5317397,
+    "lng": -117.019529
+  },
+  {
+    "id": "mexico-la-poderosa-fm-1077",
+    "name": "La Poderosa FM 107.7",
+    "url": "http://201.159.48.105:2871/",
+    "genre": "Music",
+    "city": "Aguascalientes",
+    "country": "Mexico",
+    "lat": 21.880487,
+    "lng": -102.2967195
+  },
+  {
+    "id": "mexico-magia-fm-1017",
+    "name": "Magia FM 101.7",
+    "url": "https://magia101.streaming.radiogrupo.com/",
+    "genre": "Music",
+    "city": "Aguascalientes",
+    "country": "Mexico",
+    "lat": 21.880487,
+    "lng": -102.2967195
+  },
+  {
+    "id": "mexico-la-ranchera-1061-fm",
+    "name": "La Ranchera 106.1 FM",
+    "url": "https://cast.zuperdns.net/8022/stream/;stream.mp3",
+    "genre": "Music",
+    "city": "Aguascalientes",
+    "country": "Mexico",
+    "lat": 21.880487,
+    "lng": -102.2967195
+  },
+  {
+    "id": "mexico-exa-fm-973",
+    "name": "Exa FM 97.3",
+    "url": "https://19473.live.streamtheworld.com:443/XHAGC.mp3",
+    "genre": "Music",
+    "city": "Aguascalientes",
+    "country": "Mexico",
+    "lat": 21.880487,
+    "lng": -102.2967195
+  },
+  {
+    "id": "mexico-uva-fm-905",
+    "name": "Uva FM 90.5",
+    "url": "https://uva.streaming.radiogrupo.com/",
+    "genre": "Music",
+    "city": "Aguascalientes",
+    "country": "Mexico",
+    "lat": 21.880487,
+    "lng": -102.2967195
+  },
+  {
+    "id": "mexico-radio-bi",
+    "name": "Radio BI",
+    "url": "https://radiobi.streaming.radiogrupo.com/",
+    "genre": "Music",
+    "city": "Aguascalientes",
+    "country": "Mexico",
+    "lat": 21.880487,
+    "lng": -102.2967195
+  },
+  {
+    "id": "mexico-amor-993--xhzaz",
+    "name": "Amor 99.3 - XHZAZ",
+    "url": "https://cast.zuperdns.net/8002/stream/;stream.mp3",
+    "genre": "Music",
+    "city": "Aguascalientes",
+    "country": "Mexico",
+    "lat": 21.880487,
+    "lng": -102.2967195
+  },
+  {
+    "id": "mexico-hd2-vintage-fm-941",
+    "name": "HD2 Vintage FM 94.1",
+    "url": "https://audiostreaming.luz.network/stream/8/",
+    "genre": "Music",
+    "city": "Culiacán",
+    "country": "Mexico",
+    "lat": 24.7978965,
+    "lng": -107.393395
+  },
+  {
+    "id": "mexico-hd4-siempre-fm-941",
+    "name": "HD4 Siempre FM 94.1",
+    "url": "https://audiostreaming.luz.network/stream/10/",
+    "genre": "Music",
+    "city": "Culiacán",
+    "country": "Mexico",
+    "lat": 24.7978965,
+    "lng": -107.393395
+  },
+  {
+    "id": "mexico-hd1-stereouno-fm-941",
+    "name": "HD1 StereoUno FM 94.1",
+    "url": "https://audiostreaming.luz.network/stream/7/",
+    "genre": "Music",
+    "city": "Culiacán",
+    "country": "Mexico",
+    "lat": 24.7978965,
+    "lng": -107.393395
+  },
+  {
+    "id": "mexico-radio-sinaloa-fm-945",
+    "name": "Radio Sinaloa FM 94.5",
+    "url": "https://stream20.usastreams.com/8156/stream",
+    "genre": "Music",
+    "city": "Culiacán",
+    "country": "Mexico",
+    "lat": 24.7978965,
+    "lng": -107.393395
+  },
+  {
+    "id": "mexico-la-mejor-1041-fm",
+    "name": "La Mejor 104.1 FM",
+    "url": "http://audioout.gvstream.net/gpm-cq.aac",
+    "genre": "Music",
+    "city": "Culiacán",
+    "country": "Mexico",
+    "lat": 24.7978965,
+    "lng": -107.393395
+  },
+  {
+    "id": "mexico-stereorey-1009-fm",
+    "name": "Stereorey 100.9 FM",
+    "url": "https://20603.live.streamtheworld.com:443/XHCAA.mp3",
+    "genre": "Music",
+    "city": "Aguascalientes",
+    "country": "Mexico",
+    "lat": 21.880487,
+    "lng": -102.2967195
+  },
+  {
+    "id": "mexico-la-mexicana-923-fm--xhcccb",
+    "name": "La Mexicana 92.3 FM - XHCCCB",
+    "url": "https://a6.asurahosting.com:7900/radio.mp3",
+    "genre": "Music",
+    "city": "Culiacán",
+    "country": "Mexico",
+    "lat": 24.7978965,
+    "lng": -107.393395
+  },
+  {
+    "id": "mexico-radio-uas-961-fm",
+    "name": "Radio UAS 96.1 FM",
+    "url": "https://stream9.mexiserver.com/8410/stream?ver=782729",
+    "genre": "Music",
+    "city": "Culiacán",
+    "country": "Mexico",
+    "lat": 24.7978965,
+    "lng": -107.393395
+  },
+  {
+    "id": "mexico-radio-udg-1047-fm",
+    "name": "Radio UDG 104.7 FM",
+    "url": "https://stream-158.zeno.fm/qyhstvz92hhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxeWhzdHZ6OTJoaHZ2IiwiaG9zdCI6InN0cmVhbS0xNTguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiUlNCazVEV0ZRUHlPU0VEak1ZdUVSdyIsImlhdCI6MTc2OTQyMDcwMSwiZXhwIjoxNzY5NDIwNzYxfQ.wWVmopP6TALRteEDo7-yQ7Mo8VV7Ko1aa6bRsa4aBtc",
+    "genre": "Music",
+    "city": "Aguascalientes",
+    "country": "Mexico",
+    "lat": 21.880487,
+    "lng": -102.2967195
+  },
+  {
+    "id": "mexico-calvillo-fm-1013",
+    "name": "Calvillo FM 101.3",
+    "url": "https://stream3.rcast.net/68877",
+    "genre": "Music",
+    "city": "Aguascalientes",
+    "country": "Mexico",
+    "lat": 21.880487,
+    "lng": -102.2967195
+  },
+  {
+    "id": "mexico-radio-upes",
+    "name": "Radio UPES",
+    "url": "https://dj.upes.edu.mx/radio/8030/radio.mp3",
+    "genre": "Music",
+    "city": "Culiacán",
+    "country": "Mexico",
+    "lat": 24.7978965,
+    "lng": -107.393395
+  },
+  {
+    "id": "mexico-locall-radio",
+    "name": "Locall Radio",
+    "url": "https://servidor19-3.brlogic.com:7168/live",
+    "genre": "Music",
+    "city": "Tijuana",
+    "country": "Mexico",
+    "lat": 32.5317397,
+    "lng": -117.019529
+  },
+  {
+    "id": "mexico-vibra-radio-fm-969",
+    "name": "Vibra Radio FM 96.9",
+    "url": "https://sp2.servidorrprivado.com:10859/stream/",
+    "genre": "Music",
+    "city": "Culiacán",
+    "country": "Mexico",
+    "lat": 24.7978965,
+    "lng": -107.393395
+  },
+  {
+    "id": "mexico-fm-digital-969--xhtz",
+    "name": "FM Digital 96.9 - XHTZ",
+    "url": "http://65.108.124.70:9702/stream/",
+    "genre": "Music",
+    "city": "Xalapa",
+    "country": "Mexico",
+    "lat": 19.5408338,
+    "lng": -96.9146374
+  },
+  {
+    "id": "mexico-radio-udeo",
+    "name": "Radio Udeo",
+    "url": "https://xhudo-megacaster.radioca.st/stream",
+    "genre": "Music",
+    "city": "Culiacán",
+    "country": "Mexico",
+    "lat": 24.7978965,
+    "lng": -107.393395
+  },
+  {
+    "id": "mexico-radiante-fm-891",
+    "name": "Radiante FM 89.1",
+    "url": "https://streamingcwsradio30.com:7036/stream",
+    "genre": "Music",
+    "city": "Culiacán",
+    "country": "Mexico",
+    "lat": 24.7978965,
+    "lng": -107.393395
+  },
+  {
+    "id": "mexico-la-neta-fm-1025--xeja",
+    "name": "La Neta  FM 102.5 - XEJA",
+    "url": "http://65.108.124.70:9101/stream?/;",
+    "genre": "Music",
+    "city": "Xalapa",
+    "country": "Mexico",
+    "lat": 19.5408338,
+    "lng": -96.9146374
+  },
+  {
+    "id": "mexico-vibra-radio-fm-995",
+    "name": "Vibra Radio FM 99.5",
+    "url": "https://sp3.servidorrprivado.com:10827/index.html?sid=1",
+    "genre": "Music",
+    "city": "Culiacán",
+    "country": "Mexico",
+    "lat": 24.7978965,
+    "lng": -107.393395
+  },
+  {
+    "id": "mexico-la-lupe-culiacán-907-fm",
+    "name": "La Lupe Culiacán 90.7 FM",
+    "url": "https://us-b4-p-e-ml19-audio.cdn.mdstrm.com/live-audio-aw/6737870cf12274fb020c287a?aid=579bd29dc99290cf08362c3b&property=radio-garden&pid=yV0OJEM2kCMXZKARiPkD5VaZWE94HYlT&sid=uKuIWQot775z016HxMjoW71MvYSvjNMB&uid=LAKdG0dL52ftoi0wX9JHD4IMmolgqkRi&es=us-b4-p-e-ml19-audio.cdn.mdstrm.com&ote=1769507101789&ot=ANs2moXDuvlqe4tKGZPSlA&proto=https&pz=us&cP=128000&awCollectionId=579bd29dc99290cf08362c3b&aw_0_1st.playerId=radio-garden&liveId=6737870cf12274fb020c287a&referer=https%3A%2F%2Fradio.garden%2F&propertyName=radio-garden&propertyType=rss-app&listenerId=LAKdG0dL52ftoi0wX9JHD4IMmolgqkRi",
+    "genre": "Music",
+    "city": "Culiacán",
+    "country": "Mexico",
+    "lat": 24.7978965,
+    "lng": -107.393395
+  },
+  {
+    "id": "mexico-fm-magia-937--xhkl",
+    "name": "FM Magia 93.7 - XHKL",
+    "url": "http://65.108.124.70:9176/stream",
+    "genre": "Music",
+    "city": "Xalapa",
+    "country": "Mexico",
+    "lat": 19.5408338,
+    "lng": -96.9146374
+  },
+  {
+    "id": "mexico-amor-917-fm-xalapa",
+    "name": "Amor 91.7 FM Xalapa",
+    "url": "https://streaming.servicioswebmx.com/8126/stream",
+    "genre": "Music",
+    "city": "Xalapa",
+    "country": "Mexico",
+    "lat": 19.5408338,
+    "lng": -96.9146374
+  },
+  {
+    "id": "mexico-vida-romantica-1045-fm--xhdrd",
+    "name": "Vida Romantica 104.5 FM - XHDRD",
+    "url": "https://stream-159.zeno.fm/g1c3rka6dkhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJnMWMzcmthNmRraHZ2IiwiaG9zdCI6InN0cmVhbS0xNTkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoid2ZxMU9DdHpSb3V5Z2tRX2tjUUItZyIsImlhdCI6MTc2OTQyMDcwNCwiZXhwIjoxNzY5NDIwNzY0fQ.n2ZiJPdMs9oys2AD4w-IftWq_QgdupG6ZlhhLAsF1HM",
+    "genre": "Music",
+    "city": "Culiacán",
+    "country": "Mexico",
+    "lat": 24.7978965,
+    "lng": -107.393395
+  },
+  {
+    "id": "mexico-exa-1017-fm--xhesa",
+    "name": "EXA 101.7 FM - XHESA",
+    "url": "https://15053.live.streamtheworld.com:443/XHESA.mp3",
+    "genre": "Music",
+    "city": "Culiacán",
+    "country": "Mexico",
+    "lat": 24.7978965,
+    "lng": -107.393395
+  },
+  {
+    "id": "mexico-los-40-899-fm",
+    "name": "Los 40 89.9 FM",
+    "url": "http://144.217.67.108:2381/stream",
+    "genre": "Music",
+    "city": "Xalapa",
+    "country": "Mexico",
+    "lat": 19.5408338,
+    "lng": -96.9146374
+  },
+  {
+    "id": "mexico-selecta-radio",
+    "name": "Selecta Radio",
+    "url": "https://mjwsdmsa.radioca.st/index.html?sid=1",
+    "genre": "Music",
+    "city": "Xalapa",
+    "country": "Mexico",
+    "lat": 19.5408338,
+    "lng": -96.9146374
+  },
+  {
+    "id": "mexico-la-maquina-fm-977",
+    "name": "La Maquina FM 97.7",
+    "url": "https://cast3.my-control-panel.com/proxy/xhot?mp=/stream",
+    "genre": "Music",
+    "city": "Xalapa",
+    "country": "Mexico",
+    "lat": 19.5408338,
+    "lng": -96.9146374
+  },
+  {
+    "id": "mexico-retro-905-hd",
+    "name": "Retro 90.5 HD",
+    "url": "https://streaming01.radiosenlinea.com.ar:9440/;stream.nsv",
+    "genre": "Music",
+    "city": "Xalapa",
+    "country": "Mexico",
+    "lat": 19.5408338,
+    "lng": -96.9146374
+  },
+  {
+    "id": "mexico-hits-1017--xhhpr",
+    "name": "Hits 101.7 - XHHPR",
+    "url": "https://us-b4-p-e-ml19-audio.cdn.mdstrm.com/live-audio-aw/67378dda08ad80fb27a9bebc?aid=579bd29dc99290cf08362c3b&property=mmradio&pid=t9IZnuH1RfgYpMB4pXIQSMVEVVdX3J9r&sid=CrEx04OKUECcIGRFEw4UHZ7ilvPVsrts&uid=r91ic4vl2OV0KazzE6gCBZFkDj6zWNm3&es=us-b4-p-e-ml19-audio.cdn.mdstrm.com&ote=1769507103880&ot=VRdIXbZXMdHGC45AyfXTWQ&proto=https&pz=us&cP=128000&awCollectionId=579bd29dc99290cf08362c3b&aw_0_1st.playerId=mmradio&liveId=67378dda08ad80fb27a9bebc&referer=https%3A%2F%2Fradio.garden%2F&propertyName=mmradio&propertyType=rss-app&listenerId=r91ic4vl2OV0KazzE6gCBZFkDj6zWNm3",
+    "genre": "Music",
+    "city": "Culiacán",
+    "country": "Mexico",
+    "lat": 24.7978965,
+    "lng": -107.393395
+  },
+  {
+    "id": "mexico-lokura-fm-1033",
+    "name": "Lokura FM 103.3",
+    "url": "https://14093.live.streamtheworld.com:443/XHZLAAC.aac",
+    "genre": "Music",
+    "city": "Xalapa",
+    "country": "Mexico",
+    "lat": 19.5408338,
+    "lng": -96.9146374
+  },
+  {
+    "id": "mexico-es-amor-1045-hd",
+    "name": "Es Amor 104.5 HD",
+    "url": "https://streaming01.radiosenlinea.com.ar:9344/;stream.nsv",
+    "genre": "Music",
+    "city": "Xalapa",
+    "country": "Mexico",
+    "lat": 19.5408338,
+    "lng": -96.9146374
+  },
+  {
+    "id": "mexico-la-lupe-1009-fm-xalapa",
+    "name": "La Lupe 100.9 FM Xalapa",
+    "url": "https://us-b4-p-e-jn18-audio.cdn.mdstrm.com/live-audio-aw/672cf91376b5a6eeae594b58?aid=579bd29dc99290cf08362c3b&property=radio-garden&pid=5g4OdokKtWsYfoaJqg93D2jgHR94NTKV&sid=GBInt1tqicBrWW8GG9eZ1pFcx6THAfdc&uid=vQZIW80M16coXwIOAjgacYzpEbHLA3jZ&es=us-b4-p-e-jn18-audio.cdn.mdstrm.com&ote=1769507104521&ot=eGPCX655YrLmgbt6nTSHjA&proto=https&pz=us&cP=128000&awCollectionId=579bd29dc99290cf08362c3b&aw_0_1st.playerId=radio-garden&liveId=672cf91376b5a6eeae594b58&referer=https%3A%2F%2Fradio.garden%2F&propertyName=radio-garden&propertyType=rss-app&listenerId=vQZIW80M16coXwIOAjgacYzpEbHLA3jZ",
+    "genre": "Music",
+    "city": "Xalapa",
+    "country": "Mexico",
+    "lat": 19.5408338,
+    "lng": -96.9146374
+  },
+  {
+    "id": "mexico-radio-manantial-chignautla",
+    "name": "Radio Manantial Chignautla",
+    "url": "https://fpsnew2.listen2myradio.com:2199/listen.php?ip=212.84.160.3&port=8523&type=s1",
+    "genre": "Music",
+    "city": "Xalapa",
+    "country": "Mexico",
+    "lat": 19.5408338,
+    "lng": -96.9146374
+  },
+  {
+    "id": "mexico-la-inolvidable-fm-1011",
+    "name": "La Inolvidable FM 101.1",
+    "url": "https://streaming.servicioswebmx.com/8078/stream",
+    "genre": "Music",
+    "city": "Xalapa",
+    "country": "Mexico",
+    "lat": 19.5408338,
+    "lng": -96.9146374
+  },
+  {
+    "id": "mexico-sensación-fm-955--xhtp",
+    "name": "Sensación FM 95.5 - XHTP",
+    "url": "https://securestream.mxradio.xyz/sss/",
+    "genre": "Music",
+    "city": "Xalapa",
+    "country": "Mexico",
+    "lat": 19.5408338,
+    "lng": -96.9146374
+  },
+  {
+    "id": "mexico-la-1003-comadre",
+    "name": "La 100.3 Comadre",
+    "url": "https://stream-155.zeno.fm/bqner9z3gd0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJicW5lcjl6M2dkMHV2IiwiaG9zdCI6InN0cmVhbS0xNTUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiNC1YY0huTDVST3FsbHdhYnN1bk94dyIsImlhdCI6MTc2OTQyMDcwNywiZXhwIjoxNzY5NDIwNzY3fQ.n0imwEyPJjb5XOb2r9YfjvRnzdBT3zCfrA7qKs8YNOU",
+    "genre": "Music",
+    "city": "Xalapa",
+    "country": "Mexico",
+    "lat": 19.5408338,
+    "lng": -96.9146374
+  },
+  {
+    "id": "mexico-el-patron-fm-1049",
+    "name": "El Patron FM 104.9",
+    "url": "https://securestream.mxradio.xyz/ssc/",
+    "genre": "Music",
+    "city": "Xalapa",
+    "country": "Mexico",
+    "lat": 19.5408338,
+    "lng": -96.9146374
+  },
+  {
+    "id": "mexico-ah-world-music",
+    "name": "Ah! World Music",
+    "url": "https://usa1.fastcast4u.com/proxy/lzayxsqp?mp=/1",
+    "genre": "Music",
+    "city": "Santiago de Querétaro",
+    "country": "Mexico",
+    "lat": 20.5922997,
+    "lng": -100.3917424
+  },
+  {
+    "id": "mexico-bamos-radio",
+    "name": "Bamos Radio",
+    "url": "https://play8.tikast.com/proxy/bamosradio?mp=/stream",
+    "genre": "Music",
+    "city": "Santiago de Querétaro",
+    "country": "Mexico",
+    "lat": 20.5922997,
+    "lng": -100.3917424
+  },
+  {
+    "id": "mexico-abc-radio--xhqg-1079-fm",
+    "name": "ABC Radio - XHQG 107.9 FM",
+    "url": "https://streaming.servicioswebmx.com/8282/stream",
+    "genre": "Music",
+    "city": "Santiago de Querétaro",
+    "country": "Mexico",
+    "lat": 20.5922997,
+    "lng": -100.3917424
+  },
+  {
+    "id": "mexico-la-jefa-987-fm",
+    "name": "La Jefa 98.7 FM",
+    "url": "https://secure.radiorama.mx:2228/",
+    "genre": "Music",
+    "city": "Santiago de Querétaro",
+    "country": "Mexico",
+    "lat": 20.5922997,
+    "lng": -100.3917424
+  },
+  {
+    "id": "mexico-grupera-radio-1035-fm",
+    "name": "Grupera Radio 103.5 FM",
+    "url": "https://streaming.servicioswebmx.com/8134/stream",
+    "genre": "Music",
+    "city": "Santiago de Querétaro",
+    "country": "Mexico",
+    "lat": 20.5922997,
+    "lng": -100.3917424
+  },
+  {
+    "id": "mexico-imagen-radio-947-fm",
+    "name": "Imagen Radio 94.7 FM",
+    "url": "http://radio.wnsol.com:8070/;stream.mp3",
+    "genre": "Music",
+    "city": "Santiago de Querétaro",
+    "country": "Mexico",
+    "lat": 20.5922997,
+    "lng": -100.3917424
+  },
+  {
+    "id": "mexico-w-radio-1310-am",
+    "name": "W Radio 1310 AM",
+    "url": "https://playradio.mx/proxy/wqueretaro?mp=/stream",
+    "genre": "Music",
+    "city": "Santiago de Querétaro",
+    "country": "Mexico",
+    "lat": 20.5922997,
+    "lng": -100.3917424
+  },
+  {
+    "id": "mexico-top-music",
+    "name": "Top Music",
+    "url": "https://secure.radiorama.mx:2125/",
+    "genre": "Music",
+    "city": "Santiago de Querétaro",
+    "country": "Mexico",
+    "lat": 20.5922997,
+    "lng": -100.3917424
+  },
+  {
+    "id": "mexico-radio-universidad-895-fm",
+    "name": "Radio Universidad 89.5 FM",
+    "url": "https://estaciones.uaq.mx:8000/radio.mp3/",
+    "genre": "Music",
+    "city": "Santiago de Querétaro",
+    "country": "Mexico",
+    "lat": 20.5922997,
+    "lng": -100.3917424
+  },
+  {
+    "id": "mexico-globo-1021-fm",
+    "name": "Globo 102.1 FM",
+    "url": "https://19473.live.streamtheworld.com:443/XHAG.mp3",
+    "genre": "Music",
+    "city": "Xalapa",
+    "country": "Mexico",
+    "lat": 19.5408338,
+    "lng": -96.9146374
+  },
+  {
+    "id": "mexico-cristal-1011-fm",
+    "name": "Cristal 101.1 FM",
+    "url": "https://radios.radiohd.com.mx:7138/index.html?sid=1",
+    "genre": "Music",
+    "city": "Santiago de Querétaro",
+    "country": "Mexico",
+    "lat": 20.5922997,
+    "lng": -100.3917424
+  },
+  {
+    "id": "mexico-91-dat-909-fm",
+    "name": "91 DAT 90.9 FM",
+    "url": "https://secure.radiorama.mx:2122/",
+    "genre": "Music",
+    "city": "Santiago de Querétaro",
+    "country": "Mexico",
+    "lat": 20.5922997,
+    "lng": -100.3917424
+  },
+  {
+    "id": "mexico-exa-fm-1045-fm",
+    "name": "Exa FM 104.5 FM",
+    "url": "http://144.217.67.108:9148/index.html?sid=1",
+    "genre": "Music",
+    "city": "Santiago de Querétaro",
+    "country": "Mexico",
+    "lat": 20.5922997,
+    "lng": -100.3917424
+  },
+  {
+    "id": "mexico-adictivo-radio-fm-903",
+    "name": "Adictivo Radio FM 90.3",
+    "url": "https://s22.myradiostream.com/:9504/stream/",
+    "genre": "Music",
+    "city": "Torreón",
+    "country": "Mexico",
+    "lat": 25.542698,
+    "lng": -103.410512
+  },
+  {
+    "id": "mexico-el-heraldo-la-laguna-1043-fm",
+    "name": "El Heraldo La Laguna 104.3 FM",
+    "url": "http://n08.radiojar.com/d3s793ybubkvv?rj-ttl=5&rj-tok=AAABm_m6jnYAKfDPYGMtvUVaPQ",
+    "genre": "Music",
+    "city": "Torreón",
+    "country": "Mexico",
+    "lat": 25.542698,
+    "lng": -103.410512
+  },
+  {
+    "id": "mexico-coahuila-hoy-975-fm-xhcsbb",
+    "name": "Coahuila Hoy 97.5 FM XHCSBB",
+    "url": "https://cast1.my-control-panel.com/proxy/coahuilahoy/stream",
+    "genre": "Music",
+    "city": "Torreón",
+    "country": "Mexico",
+    "lat": 25.542698,
+    "lng": -103.410512
+  },
+  {
+    "id": "mexico-uaq-radio-semidesierto",
+    "name": "UAQ Radio Semidesierto",
+    "url": "https://radio15.servidorderadio.net:8040/stream",
+    "genre": "Music",
+    "city": "Santiago de Querétaro",
+    "country": "Mexico",
+    "lat": 20.5922997,
+    "lng": -100.3917424
+  },
+  {
+    "id": "mexico-fiesta-mexicana-929-fm",
+    "name": "Fiesta Mexicana 92.9 FM",
+    "url": "https://stream-157.zeno.fm/ys3uakk6dkhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5czN1YWtrNmRraHZ2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiYU9MN3VPMEdTZ21ud19kR1E2WDc2USIsImlhdCI6MTc2OTQyMDcxMSwiZXhwIjoxNzY5NDIwNzcxfQ.ZV8UxiLDaeVcC7TlPSL97cUaHKdcPRge3U2tZoUiTMY",
+    "genre": "Music",
+    "city": "Santiago de Querétaro",
+    "country": "Mexico",
+    "lat": 20.5922997,
+    "lng": -100.3917424
+  },
+  {
+    "id": "mexico-radio-torreón",
+    "name": "Radio Torreón",
+    "url": "https://s42.myradiostream.com/:34112/index.html?sid=1",
+    "genre": "Music",
+    "city": "Torreón",
+    "country": "Mexico",
+    "lat": 25.542698,
+    "lng": -103.410512
+  },
+  {
+    "id": "mexico-cascabel-radio-social-921-fm",
+    "name": "Cascabel Radio Social 92.1 FM",
+    "url": "https://stream-178.zeno.fm/7dpomkzwcpytv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI3ZHBvbWt6d2NweXR2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoicl9YVFBjdkxUSXVoY1ZsU05pSEhSZyIsImlhdCI6MTc2OTQyMDcxMSwiZXhwIjoxNzY5NDIwNzcxfQ.5-Jn86jSqowNTKZjDIhTLO1ng56QiMQYKc49jdFWLF0",
+    "genre": "Music",
+    "city": "Santiago de Querétaro",
+    "country": "Mexico",
+    "lat": 20.5922997,
+    "lng": -100.3917424
+  },
+  {
+    "id": "mexico-la-mejor-fm-971",
+    "name": "La Mejor FM 97.1",
+    "url": "https://streamingcwsradio30.com/8256/stream",
+    "genre": "Music",
+    "city": "Torreón",
+    "country": "Mexico",
+    "lat": 25.542698,
+    "lng": -103.410512
+  },
+  {
+    "id": "mexico-globo-911-torreon",
+    "name": "Globo 91.1 Torreon",
+    "url": "https://streamingcwsradio30.com/8232/stream",
+    "genre": "Music",
+    "city": "Torreón",
+    "country": "Mexico",
+    "lat": 25.542698,
+    "lng": -103.410512
+  },
+  {
+    "id": "mexico-exa-fm-955",
+    "name": "Exa FM 95.5",
+    "url": "https://15123.live.streamtheworld.com:443/XHMP_SC",
+    "genre": "Music",
+    "city": "Torreón",
+    "country": "Mexico",
+    "lat": 25.542698,
+    "lng": -103.410512
+  },
+  {
+    "id": "mexico-coahuila-hoy-931-fm-xhcsba",
+    "name": "Coahuila Hoy 93.1 FM XHCSBA",
+    "url": "https://cast1.my-control-panel.com/proxy/coahuilahoy2/stream",
+    "genre": "Music",
+    "city": "Torreón",
+    "country": "Mexico",
+    "lat": 25.542698,
+    "lng": -103.410512
+  },
+  {
+    "id": "mexico-radio-cristianos-fm",
+    "name": "Radio Cristianos FM",
+    "url": "https://radio19.servidorderadio.net:8146//stream",
+    "genre": "Music",
+    "city": "Torreón",
+    "country": "Mexico",
+    "lat": 25.542698,
+    "lng": -103.410512
+  },
+  {
+    "id": "mexico-ke-buena-1027-fm-torreón",
+    "name": "Ke Buena 102.7 FM Torreón",
+    "url": "https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/672ceb62f46bb8ed9e6d02ad?aid=579bd29dc99290cf08362c3b&property=radio-garden&pid=45jf3YtNyTlOOznnmSoGumjqWavITkJH&sid=brw131iS9HW4bKZMnukmiWeoRBniWmO9&uid=QytFtmptEF1D43EGPxhYtAP1N8XkEuNr&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1769507111751&ot=tphtouZysKnTzE9I_a11lg&proto=https&pz=us&cP=128000&awCollectionId=579bd29dc99290cf08362c3b&aw_0_1st.playerId=radio-garden&liveId=672ceb62f46bb8ed9e6d02ad&referer=https%3A%2F%2Fradio.garden%2F&propertyName=radio-garden&propertyType=rss-app&listenerId=QytFtmptEF1D43EGPxhYtAP1N8XkEuNr",
+    "genre": "Music",
+    "city": "Torreón",
+    "country": "Mexico",
+    "lat": 25.542698,
+    "lng": -103.410512
+  },
+  {
+    "id": "mexico-halcón-stereo-1043-fm",
+    "name": "Halcón Stereo 104.3 FM",
+    "url": "https://radioenhd.com:7026/index.html",
+    "genre": "Music",
+    "city": "Torreón",
+    "country": "Mexico",
+    "lat": 25.542698,
+    "lng": -103.410512
+  },
+  {
+    "id": "mexico-la-lupe-999-fm-torreón",
+    "name": "La Lupe 99.9 FM Torreón",
+    "url": "https://us-b4-p-e-mg17-audio.cdn.mdstrm.com/live-audio-aw/672cf292e81d90ed336e1e86?aid=579bd29dc99290cf08362c3b&property=radio-garden&pid=LoLsCO3UrF8kV4aYk4ll397iJbl56SoW&sid=UsWaurACOvnSQnOUa5VvLg5LiwfO0r4j&uid=ZrGEQ3lLriW66Q3GhOjstgxKWH7sa9FK&es=us-b4-p-e-mg17-audio.cdn.mdstrm.com&ote=1769507112092&ot=1FY8G_1QE2XM7c8YGo7oFA&proto=https&pz=us&cP=128000&awCollectionId=579bd29dc99290cf08362c3b&aw_0_1st.playerId=radio-garden&liveId=672cf292e81d90ed336e1e86&referer=https%3A%2F%2Fradio.garden%2F&propertyName=radio-garden&propertyType=rss-app&listenerId=ZrGEQ3lLriW66Q3GhOjstgxKWH7sa9FK",
+    "genre": "Music",
+    "city": "Torreón",
+    "country": "Mexico",
+    "lat": 25.542698,
+    "lng": -103.410512
+  },
+  {
+    "id": "mexico-exa-945-fm--xhbj",
+    "name": "Exa 94.5 FM - XHBJ",
+    "url": "https://cast1.my-control-panel.com/proxy/exavictoria/stream",
+    "genre": "Music",
+    "city": "Ciudad Victoria",
+    "country": "Mexico",
+    "lat": 23.7389846,
+    "lng": -99.1441352
+  },
+  {
+    "id": "mexico-la-mas-prendida-975-fm--xhhp",
+    "name": "La Mas Prendida 97.5 FM - XHHP",
+    "url": "https://cast1.my-control-panel.com/proxy/lamasprendida/stream/;stream.mp3",
+    "genre": "Music",
+    "city": "Ciudad Victoria",
+    "country": "Mexico",
+    "lat": 23.7389846,
+    "lng": -99.1441352
+  },
+  {
+    "id": "mexico-la-radio-grande-fm-971",
+    "name": "La Radio Grande FM 97.1",
+    "url": "https://radioforte.com/8004/stream",
+    "genre": "Music",
+    "city": "Torreón",
+    "country": "Mexico",
+    "lat": 25.542698,
+    "lng": -103.410512
+  },
+  {
+    "id": "mexico-hits-931-fm-torreón",
+    "name": "Hits 93.1 FM Torreón",
+    "url": "https://us-b4-p-e-jn18-audio.cdn.mdstrm.com/live-audio-aw/673781389cbec50af5c6cef9?aid=579bd29dc99290cf08362c3b&property=radio-garden&pid=OKqbXhJuX3cCZOinx3oH3qhlw8fOuUtE&sid=gBHAJYmat19fH47x4YD8pPnqr2oCPi6T&uid=QtuoErTVdu7lih9iQhknKVjIJwYNRPMk&es=us-b4-p-e-jn18-audio.cdn.mdstrm.com&ote=1769507112613&ot=xfZWRQcLgA6qu3aIYq4qIg&proto=https&pz=us&cP=128000&awCollectionId=579bd29dc99290cf08362c3b&aw_0_1st.playerId=radio-garden&liveId=673781389cbec50af5c6cef9&referer=https%3A%2F%2Fradio.garden%2F&propertyName=radio-garden&propertyType=rss-app&listenerId=QtuoErTVdu7lih9iQhknKVjIJwYNRPMk",
+    "genre": "Music",
+    "city": "Torreón",
+    "country": "Mexico",
+    "lat": 25.542698,
+    "lng": -103.410512
+  },
+  {
+    "id": "mexico-la-caliente-923-fm-torreón",
+    "name": "La Caliente 92.3 FM Torreón",
+    "url": "https://us-b4-p-e-ml19-audio.cdn.mdstrm.com/live-audio-aw/673782709422ca09f9b7bd3c?aid=579bd29dc99290cf08362c3b&property=radio-garden&pid=7fKk157xpQ4tHhQUwRC4igyD213nOrrr&sid=IJhxi897Q8crqUU4f97vDYJBMSMZjHdu&uid=2zxORyYkOCa5AlDjB00TO7CBcVUOEE4A&es=us-b4-p-e-ml19-audio.cdn.mdstrm.com&ote=1769507112090&ot=VzWAY9SN_2pJB9FWuQNQkw&proto=https&pz=us&cP=128000&awCollectionId=579bd29dc99290cf08362c3b&aw_0_1st.playerId=radio-garden&liveId=673782709422ca09f9b7bd3c&referer=https%3A%2F%2Fradio.garden%2F&propertyName=radio-garden&propertyType=rss-app&listenerId=2zxORyYkOCa5AlDjB00TO7CBcVUOEE4A",
+    "genre": "Music",
+    "city": "Torreón",
+    "country": "Mexico",
+    "lat": 25.542698,
+    "lng": -103.410512
+  },
+  {
+    "id": "mexico-radio-uat-fm-1025",
+    "name": "Radio UAT FM 102.5",
+    "url": "https://streaming.servicioswebmx.com/8026/stream",
+    "genre": "Music",
+    "city": "Ciudad Victoria",
+    "country": "Mexico",
+    "lat": 23.7389846,
+    "lng": -99.1441352
+  },
+  {
+    "id": "mexico-radio-fórmula-993-fm--xhgw",
+    "name": "Radio Fórmula 99.3 FM - XHGW",
+    "url": "https://cast1.my-control-panel.com/proxy/radioformula/stream/;stream.mp3",
+    "genre": "Music",
+    "city": "Ciudad Victoria",
+    "country": "Mexico",
+    "lat": 23.7389846,
+    "lng": -99.1441352
+  },
+  {
+    "id": "mexico-exa-fm-991",
+    "name": "Exa FM 99.1",
+    "url": "https://tv.radiohosting.online:8352/stream",
+    "genre": "Music",
+    "city": "Santiago de Querétaro",
+    "country": "Mexico",
+    "lat": 20.5922997,
+    "lng": -100.3917424
+  },
+  {
+    "id": "mexico-la-cotorra-1017-fm--xhvir",
+    "name": "La Cotorra 101.7 FM - XHVIR",
+    "url": "https://cast1.my-control-panel.com/proxy/cotorra/stream",
+    "genre": "Music",
+    "city": "Ciudad Victoria",
+    "country": "Mexico",
+    "lat": 23.7389846,
+    "lng": -99.1441352
+  },
+  {
+    "id": "mexico-la-sabrosita-925-fm",
+    "name": "La Sabrosita 92.5 FM",
+    "url": "https://pedro.spressweb.com:8000/radio.mp3",
+    "genre": "Music",
+    "city": "Ciudad Victoria",
+    "country": "Mexico",
+    "lat": 23.7389846,
+    "lng": -99.1441352
+  },
+  {
+    "id": "mexico-la-súper-buena-957-fm--xhxo",
+    "name": "La Súper Buena 95.7 FM - XHXO",
+    "url": "https://cast1.my-control-panel.com/proxy/lsb/stream",
+    "genre": "Music",
+    "city": "Ciudad Victoria",
+    "country": "Mexico",
+    "lat": 23.7389846,
+    "lng": -99.1441352
+  },
+  {
+    "id": "mexico-sugoi-stereo",
+    "name": "Sugoi Stereo",
+    "url": "https://mazapandev-listen.webredirect.org/listen/sugoi-radio/stream",
+    "genre": "Music",
+    "city": "Ciudad Victoria",
+    "country": "Mexico",
+    "lat": 23.7389846,
+    "lng": -99.1441352
+  },
+  {
+    "id": "mexico-radio-tamaulipas-1079-fm",
+    "name": "Radio Tamaulipas 107.9 FM",
+    "url": "https://streaming.servicioswebmx.com:8100/stream.mp3",
+    "genre": "Music",
+    "city": "Ciudad Victoria",
+    "country": "Mexico",
+    "lat": 23.7389846,
+    "lng": -99.1441352
+  },
+  {
+    "id": "mexico-mas-pop-fm-957",
+    "name": "Mas Pop FM 95.7",
+    "url": "https://stream9.mexiserver.com/8250/stream",
+    "genre": "Music",
+    "city": "Durango",
+    "country": "Mexico",
+    "lat": 24.833333,
+    "lng": -104.833333
+  },
+  {
+    "id": "mexico-la-poderosa-981-fm--xhrtp",
+    "name": "La Poderosa 98.1 FM - XHRTP",
+    "url": "https://stream-160.zeno.fm/tp1p7qxx5rhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0cDFwN3F4eDVyaHZ2IiwiaG9zdCI6InN0cmVhbS0xNjAuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiNzkzNTVpaElRUTYzRjZmanFFcVdpdyIsImlhdCI6MTc2OTQyMDcxNywiZXhwIjoxNzY5NDIwNzc3fQ.FMCqV9LcPyDnqmgBkGHQJHdkMfEkmJo2GVcKYx2W194",
+    "genre": "Music",
+    "city": "Durango",
+    "country": "Mexico",
+    "lat": 24.833333,
+    "lng": -104.833333
+  },
+  {
+    "id": "mexico-lobos-fm-941--xhuad",
+    "name": "Lobos FM 94.1 - XHUAD",
+    "url": "http://streamingcwsradio10.com:9300/;stream.mp3",
+    "genre": "Music",
+    "city": "Durango",
+    "country": "Mexico",
+    "lat": 24.833333,
+    "lng": -104.833333
+  },
+  {
+    "id": "mexico-la-kandente",
+    "name": "La Kandente",
+    "url": "https://usa20.fastcast4u.com:4210/?type=http&nocache=1768347155",
+    "genre": "Music",
+    "city": "Ciudad Victoria",
+    "country": "Mexico",
+    "lat": 23.7389846,
+    "lng": -99.1441352
+  },
+  {
+    "id": "mexico-la-ke-buena-901-fm",
+    "name": "La Ke Buena 90.1 FM",
+    "url": "https://stream-159.zeno.fm/alrz7sj87litv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJhbHJ6N3NqODdsaXR2IiwiaG9zdCI6InN0cmVhbS0xNTkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiX054LTV3WHdRNy1HaWxwRDRYNDVhdyIsImlhdCI6MTc2OTQyMDcxNywiZXhwIjoxNzY5NDIwNzc3fQ.9VX-rjiUduqZgx-8mcAASeEOcSFcdPZR0iWIiYPcy1s",
+    "genre": "Music",
+    "city": "Ciudad Victoria",
+    "country": "Mexico",
+    "lat": 23.7389846,
+    "lng": -99.1441352
+  },
+  {
+    "id": "mexico-abriendo-los-cielos-883-fm",
+    "name": "Abriendo los Cielos 88.3 FM",
+    "url": "https://www.abriendoloscielos.org/radio/",
+    "genre": "Music",
+    "city": "Torreón",
+    "country": "Mexico",
+    "lat": 25.542698,
+    "lng": -103.410512
+  },
+  {
+    "id": "mexico-unión-radio-durango-913-fm",
+    "name": "Unión Radio Durango 91.3 FM",
+    "url": "https://stream9.mexiserver.com:8088/stream",
+    "genre": "Music",
+    "city": "Durango",
+    "country": "Mexico",
+    "lat": 24.833333,
+    "lng": -104.833333
+  },
+  {
+    "id": "mexico-la-lupe-953-fm-cd-victoria",
+    "name": "La Lupe 95.3 FM Cd Victoria",
+    "url": "https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/67379e3e9cbec50af5c979ac?aid=579bd29dc99290cf08362c3b&property=radio-garden&pid=tJUSQadwHJNk1paJlM1g1w9ELwSygBJm&sid=k5mGhRP1hihKG0fdtENd3VRaE6zLWCbf&uid=cM4IZ0BBPr4NsMhrJmeUsl5Zvc7wUwN3&es=us-b4-p-e-zs14-audio.cdn.mdstrm.com&ote=1769507116611&ot=xcFTT46Bjw8ZKPTNBulSJA&proto=https&pz=us&cP=128000&awCollectionId=579bd29dc99290cf08362c3b&aw_0_1st.playerId=radio-garden&liveId=67379e3e9cbec50af5c979ac&referer=https%3A%2F%2Fradio.garden%2F&propertyName=radio-garden&propertyType=rss-app&listenerId=cM4IZ0BBPr4NsMhrJmeUsl5Zvc7wUwN3",
+    "genre": "Music",
+    "city": "Ciudad Victoria",
+    "country": "Mexico",
+    "lat": 23.7389846,
+    "lng": -99.1441352
+  },
+  {
+    "id": "mexico-la-clásica-de-durango-1025",
+    "name": "La Clásica de Durango 102.5",
+    "url": "https://stream9.mexiserver.com:8232/index.html?sid=1",
+    "genre": "Music",
+    "city": "Durango",
+    "country": "Mexico",
+    "lat": 24.833333,
+    "lng": -104.833333
+  },
+  {
+    "id": "mexico-radio-fórmula-1053-fm",
+    "name": "Radio Fórmula 105.3 FM",
+    "url": "https://n02.radiojar.com/z6tstbtg4p8uv?rj-ttl=5&rj-tok=AAABm_m6q54A41UTJtW9Z_zdzA",
+    "genre": "Music",
+    "city": "Durango",
+    "country": "Mexico",
+    "lat": 24.833333,
+    "lng": -104.833333
+  },
+  {
+    "id": "mexico-xhpees-la-raza-893-fm",
+    "name": "XHPEES La Raza 89.3 FM",
+    "url": "https://ice41.securenetsystems.net/LARAZA893",
+    "genre": "Music",
+    "city": "Ciudad Victoria",
+    "country": "Mexico",
+    "lat": 23.7389846,
+    "lng": -99.1441352
+  },
+  {
+    "id": "mexico-tremenda-durango-965",
+    "name": "Tremenda Durango 96.5",
+    "url": "https://radio.latremenda.com.mx/Durango",
+    "genre": "Music",
+    "city": "Durango",
+    "country": "Mexico",
+    "lat": 24.833333,
+    "lng": -104.833333
+  },
+  {
+    "id": "mexico-hd1-stereo-uno-1013-fm",
+    "name": "HD1 Stereo Uno 101.3 FM",
+    "url": "https://audiostreaming.luz.network/?type=http&nocache=1165",
+    "genre": "Music",
+    "city": "Los Mochis",
+    "country": "Mexico",
+    "lat": 25.7928058,
+    "lng": -108.990188
+  },
+  {
+    "id": "mexico-quiere-987-fm",
+    "name": "Quiére 98.7 FM",
+    "url": "https://streaming.servicioswebmx.com/8276/stream",
+    "genre": "Music",
+    "city": "Durango",
+    "country": "Mexico",
+    "lat": 24.833333,
+    "lng": -104.833333
+  },
+  {
+    "id": "mexico-hd4-siempre-1013-fm",
+    "name": "HD4 Siempre 101.3 FM",
+    "url": "https://audiostreaming.luz.network/stream/4/",
+    "genre": "Music",
+    "city": "Los Mochis",
+    "country": "Mexico",
+    "lat": 25.7928058,
+    "lng": -108.990188
+  },
+  {
+    "id": "mexico-\u0016hd3-neo-1013-fm",
+    "name": "\u0016HD3 Neo 101.3 FM",
+    "url": "https://audiostreaming.luz.network/stream/3/",
+    "genre": "Music",
+    "city": "Los Mochis",
+    "country": "Mexico",
+    "lat": 25.7928058,
+    "lng": -108.990188
+  },
+  {
+    "id": "mexico-la-mejor-909-fm--xhhs",
+    "name": "La Mejor 90.9 FM - XHHS",
+    "url": "https://a6.asurahosting.com:7920/radio.mp3",
+    "genre": "Music",
+    "city": "Los Mochis",
+    "country": "Mexico",
+    "lat": 25.7928058,
+    "lng": -108.990188
+  },
+  {
+    "id": "mexico-la-morrita-961-fm",
+    "name": "La Morrita 96.1 FM",
+    "url": "https://audiostreaming.luz.network/stream/19/",
+    "genre": "Music",
+    "city": "Los Mochis",
+    "country": "Mexico",
+    "lat": 25.7928058,
+    "lng": -108.990188
+  },
+  {
+    "id": "mexico-la-mexicana-933-fm--xhcf",
+    "name": "La Mexicana 93.3 FM - XHCF",
+    "url": "https://a6.asurahosting.com:7910/radio.mp3",
+    "genre": "Music",
+    "city": "Los Mochis",
+    "country": "Mexico",
+    "lat": 25.7928058,
+    "lng": -108.990188
+  },
+  {
+    "id": "mexico-radio-uas-1029-fm",
+    "name": "Radio UAS 102.9 FM",
+    "url": "https://stream9.mexiserver.com/8410/stream",
+    "genre": "Music",
+    "city": "Los Mochis",
+    "country": "Mexico",
+    "lat": 25.7928058,
+    "lng": -108.990188
+  },
+  {
+    "id": "mexico-hd2-vintage-1013-fm",
+    "name": "HD2 Vintage 101.3 FM",
+    "url": "https://audiostreaming.luz.network/stream/2/",
+    "genre": "Music",
+    "city": "Los Mochis",
+    "country": "Mexico",
+    "lat": 25.7928058,
+    "lng": -108.990188
+  },
+  {
+    "id": "mexico-la-lupe-1029-fm",
+    "name": "La Lupe 102.9 FM",
+    "url": "https://us-b4-p-e-mg17-audio.cdn.mdstrm.com/live-audio-aw/673bb80deced65f9ebf4372d?aid=579bd29dc99290cf08362c3b&property=radio-garden&pid=DWE4md0inw7jBNJQJ4FapUsnM3g6naZV&sid=bFcdLaVbUUk6Ttg3jxZhoXmSu98KOHgM&uid=qblMmktjd5ENpHb0fyRdwSRtBC6P2Y88&es=us-b4-p-e-mg17-audio.cdn.mdstrm.com&ote=1769507119298&ot=WtgXH7NOyqMU55a35XAPXg&proto=https&pz=us&cP=128000&awCollectionId=579bd29dc99290cf08362c3b&aw_0_1st.playerId=radio-garden&liveId=673bb80deced65f9ebf4372d&referer=https%3A%2F%2Fradio.garden%2F&propertyName=radio-garden&propertyType=rss-app&listenerId=qblMmktjd5ENpHb0fyRdwSRtBC6P2Y88",
+    "genre": "Music",
+    "city": "Durango",
+    "country": "Mexico",
+    "lat": 24.833333,
+    "lng": -104.833333
+  },
+  {
+    "id": "mexico-la-giganta-xhlbc-957-fm",
+    "name": "La Giganta XHLBC 95.7 FM",
+    "url": "http://www.radiolagiganta.com:8080/radiolagiganta",
+    "genre": "Music",
+    "city": "Los Mochis",
+    "country": "Mexico",
+    "lat": 25.7928058,
+    "lng": -108.990188
+  },
+  {
+    "id": "mexico-la-tramenda-fm-893-xesrd",
+    "name": "La Tramenda FM 89.3 XESRD",
+    "url": "https://radio.latremenda.com.mx/Santiago",
+    "genre": "Music",
+    "city": "Durango",
+    "country": "Mexico",
+    "lat": 24.833333,
+    "lng": -104.833333
+  },
+  {
+    "id": "mexico-los-40-1049-fm--xheso",
+    "name": "Los 40 104.9 FM - XHESO",
+    "url": "https://sonic.globalstream.pro:10965/stream.mp3",
+    "genre": "Music",
+    "city": "Los Mochis",
+    "country": "Mexico",
+    "lat": 25.7928058,
+    "lng": -108.990188
+  },
+  {
+    "id": "mexico-miled-radio-la-paz-951-fm",
+    "name": "Miled Radio La Paz 95.1 FM",
+    "url": "https://miledlapaz-cybertec.radioca.st/stream",
+    "genre": "Music",
+    "city": "Los Mochis",
+    "country": "Mexico",
+    "lat": 25.7928058,
+    "lng": -108.990188
+  },
+  {
+    "id": "mexico-xhpnav-897-fm",
+    "name": "XHPNAV 89.7 FM",
+    "url": "https://www.sonoragrupera.mx/envivo",
+    "genre": "Music",
+    "city": "Los Mochis",
+    "country": "Mexico",
+    "lat": 25.7928058,
+    "lng": -108.990188
+  },
+  {
+    "id": "mexico-la-plakosa-953-fm-xhin",
+    "name": "La Plakosa 95.3 FM XHIN",
+    "url": "https://stream-151.zeno.fm/202c8kg9d78uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIyMDJjOGtnOWQ3OHV2IiwiaG9zdCI6InN0cmVhbS0xNTEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiNlpnWG1pMlBSUXVieVk1LWxGUEMtZyIsImlhdCI6MTc2OTQyMDcyMywiZXhwIjoxNzY5NDIwNzgzfQ.fWjsHAnZNeWM80II7_V4mW5WO9VbabPkUabud1bNhVM",
+    "genre": "Music",
+    "city": "Los Mochis",
+    "country": "Mexico",
+    "lat": 25.7928058,
+    "lng": -108.990188
+  },
+  {
+    "id": "mexico-exa-989-fm--xhmpm",
+    "name": "EXA 98.9 FM - XHMPM",
+    "url": "https://22073.live.streamtheworld.com:443/XHMPM.mp3",
+    "genre": "Music",
+    "city": "Los Mochis",
+    "country": "Mexico",
+    "lat": 25.7928058,
+    "lng": -108.990188
+  },
+  {
+    "id": "mexico-españa-fm-929--xhunes",
+    "name": "España FM 92.9 - XHUNES",
+    "url": "https://sh4.radioonlinehd.com:8526/stream",
+    "genre": "Music",
+    "city": "Durango",
+    "country": "Mexico",
+    "lat": 24.833333,
+    "lng": -104.833333
+  }
+]

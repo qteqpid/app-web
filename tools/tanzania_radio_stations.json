@@ -1,0 +1,434 @@
+[
+    {
+        "name": "Zilipendwa Channel",
+        "city": "Dar es Salaam",
+        "country": "Tanzania",
+        "url": "http://173.244.208.77:8000/zilipendwa.mp3"
+    },
+    {
+        "name": "AFM Radio 92.9",
+        "city": "Dodoma",
+        "country": "Tanzania",
+        "url": "http://198.7.62.157:10056/stream"
+    },
+    {
+        "name": "Nuru Naiangaze Radio",
+        "city": "Dar es Salaam",
+        "country": "Tanzania",
+        "url": "https://a2.asurahosting.com:6110/radio.mp3"
+    },
+    {
+        "name": "Crown FM 92.1",
+        "city": "Dar es Salaam",
+        "country": "Tanzania",
+        "url": "https://radio.crownmedia.co.tz:8443/crown"
+    },
+    {
+        "name": "Radio Maria Tanzania FM 89.1",
+        "city": "Dar es Salaam",
+        "country": "Tanzania",
+        "url": "https://dreamsiteradiocp2.com/proxy/rmtanzania2?mp=/stream"
+    },
+    {
+        "name": "Clouds FM 88.5",
+        "city": "Dar es Salaam",
+        "country": "Tanzania",
+        "url": "https://eu6.fastcast4u.com/proxy/cloudsfm?mp=/1"
+    },
+    {
+        "name": "ABM FM 91.2",
+        "city": "Dodoma",
+        "country": "Tanzania",
+        "url": "https://cast1.my-control-panel.com/proxy/abmfm/abm"
+    },
+    {
+        "name": "MorningStar Radio",
+        "city": "Dar es Salaam",
+        "country": "Tanzania",
+        "url": "http://n11.radiojar.com/qpgu3a299rmtv?rj-ttl=5&rj-tok=AAABm_nmNz8Ad7SCTt9tGRjClA"
+    },
+    {
+        "name": "Bethel Radio",
+        "city": "Dar es Salaam",
+        "country": "Tanzania",
+        "url": "https://a5.asurahosting.com:7290/radio.mp3/"
+    },
+    {
+        "name": "Bongo FM",
+        "city": "Dar es Salaam",
+        "country": "Tanzania",
+        "url": "https://a7.asurahosting.com:8660/radio.mp3"
+    },
+    {
+        "name": "East Africa Radio FM 88.1",
+        "city": "Dar es Salaam",
+        "country": "Tanzania",
+        "url": "https://eatv.radioca.st/stream"
+    },
+    {
+        "name": "Radio One Stereo FM 89.7",
+        "city": "Dar es Salaam",
+        "country": "Tanzania",
+        "url": "https://radioonetanzania.radioca.st/stream"
+    },
+    {
+        "name": "UFM 107.3",
+        "city": "Dar es Salaam",
+        "country": "Tanzania",
+        "url": "https://stream-167.zeno.fm/nzr36a3un0hvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJuenIzNmEzdW4waHZ2IiwiaG9zdCI6InN0cmVhbS0xNjcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoidDJ4Yk16cWlRa2lPUmlTN1p6d1hLZyIsImlhdCI6MTc2OTQyMzU3MiwiZXhwIjoxNzY5NDIzNjMyfQ.qUpjqVA8BYjCQigfk-uxVpWlaYV4sPaZh4IsHePMS9A"
+    },
+    {
+        "name": "Radio Kaya FM 91.3",
+        "city": "Dar es Salaam",
+        "country": "Tanzania",
+        "url": "https://usa9-vn.mixstream.net/:8084/listen.mp3"
+    },
+    {
+        "name": "Dodoma FM 98.4",
+        "city": "Dodoma",
+        "country": "Tanzania",
+        "url": "https://radiotadio.co.tz/dodoma-fm-stream"
+    },
+    {
+        "name": "Radio Tumaini 92.9 FM",
+        "city": "Dar es Salaam",
+        "country": "Tanzania",
+        "url": "https://stream-163.zeno.fm/nu9qfhxx9reuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJudTlxZmh4eDlyZXV2IiwiaG9zdCI6InN0cmVhbS0xNjMuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiQkRfQTFHenBUaGFqVkIyZ3V4UkJsdyIsImlhdCI6MTc2OTQyMzU3MiwiZXhwIjoxNzY5NDIzNjMyfQ.dVXvsmAU1xXxIkwQZDHGpaLx_T8ExNxv2PR3sQD9h70"
+    },
+    {
+        "name": "Pwani FM 103.1",
+        "city": "Dar es Salaam",
+        "country": "Tanzania",
+        "url": "https://stream-151.zeno.fm/smhmfr1a94zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzbWhtZnIxYTk0enV2IiwiaG9zdCI6InN0cmVhbS0xNTEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoieHZnT2JtMHRSN3VmbVlrejl5ZV9JdyIsImlhdCI6MTc2OTQyMzU3MiwiZXhwIjoxNzY5NDIzNjMyfQ.GNVfT6USP7u_hVihED--M_H1-UerWgSKeRHFDjkoay8"
+    },
+    {
+        "name": "Coco FM Radio 98.9",
+        "city": "Dar es Salaam",
+        "country": "Tanzania",
+        "url": "https://stream-146.zeno.fm/ki2jypviprwuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJraTJqeXB2aXByd3V2IiwiaG9zdCI6InN0cmVhbS0xNDYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiTUFXYnpGeHVSOUtJNjFJUHhzYjFhQSIsImlhdCI6MTc2OTQyMzU3MiwiZXhwIjoxNzY5NDIzNjMyfQ.rmlFxj7hF-gADCEr9HuGtVxkbKuMYgLYGjMxxb6dg0A"
+    },
+    {
+        "name": "ImbaNasi",
+        "city": "Dar es Salaam",
+        "country": "Tanzania",
+        "url": "https://stream-161.zeno.fm/dsfhivkawjiuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJkc2ZoaXZrYXdqaXV2IiwiaG9zdCI6InN0cmVhbS0xNjEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiZ2RpS0Z4RFFUeVM3SHAzdDJHTTRhZyIsImlhdCI6MTc2OTQyMzU3MiwiZXhwIjoxNzY5NDIzNjMyfQ.bcoSu5q01vZ57PAF0I5N8bbBQdgCpka68xclyL6B7uE"
+    },
+    {
+        "name": "Zabibu FM",
+        "city": "Dodoma",
+        "country": "Tanzania",
+        "url": "https://a8.asurahosting.com:8520/radio.mp3"
+    },
+    {
+        "name": "Mungu Kwanza Radio",
+        "city": "Dar es Salaam",
+        "country": "Tanzania",
+        "url": "https://mungukwanza.radioca.st/index.html?sid=1"
+    },
+    {
+        "name": "Radio Rumuli FM 98.5",
+        "city": "Mwanza",
+        "country": "Tanzania",
+        "url": "http://uk3-vn.mixstream.net:8098/listen.mp3"
+    },
+    {
+        "name": "Mazingira FM 91.7",
+        "city": "Mwanza",
+        "country": "Tanzania",
+        "url": "https://radiotadio.co.tz/mazingira-fm-stream"
+    },
+    {
+        "name": "Radio Free Africa FM 89.8",
+        "city": "Dar es Salaam",
+        "country": "Tanzania",
+        "url": "https://s3.radio.co/s8df0149e0/listen"
+    },
+    {
+        "name": "Storm FM 88.9",
+        "city": "Mwanza",
+        "country": "Tanzania",
+        "url": "http://199.115.115.71:10018/stream"
+    },
+    {
+        "name": "Afya Radio",
+        "city": "Mwanza",
+        "country": "Tanzania",
+        "url": "https://cast4.my-control-panel.com/proxy/afyaradi/stream"
+    },
+    {
+        "name": "Jembe FM 93.7",
+        "city": "Mwanza",
+        "country": "Tanzania",
+        "url": "https://cast3.asurahosting.com/proxy/jembemed/stream"
+    },
+    {
+        "name": "Shalom Radio FM 97.3",
+        "city": "Dodoma",
+        "country": "Tanzania",
+        "url": "https://uk3-vn.mixstream.net/:8144/listen.mp3"
+    },
+    {
+        "name": "Banana FM 98.7",
+        "city": "Dodoma",
+        "country": "Tanzania",
+        "url": "https://bananafm.radioca.st/stream"
+    },
+    {
+        "name": "Radio Mwangaza FM 90.8",
+        "city": "Dodoma",
+        "country": "Tanzania",
+        "url": "https://stream-161.zeno.fm/qgcx35clpmdvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxZ2N4MzVjbHBtZHZ2IiwiaG9zdCI6InN0cmVhbS0xNjEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiQllDYXBKMkZTTHU1VTF3Vnhub0lCdyIsImlhdCI6MTc2OTQyMzU3NCwiZXhwIjoxNzY5NDIzNjM0fQ.xus-8xXyafDFAYpwZC3pcB3gN2ytnVBgEPKkRqeK5_Q"
+    },
+    {
+        "name": "Point FM 96.5",
+        "city": "Dodoma",
+        "country": "Tanzania",
+        "url": "https://stream-178.zeno.fm/rmlh17iq1ibvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJybWxoMTdpcTFpYnZ2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiZzMxcGVkS2dTVi1OV2ZuMGtEeXVDUSIsImlhdCI6MTc2OTQyMzU3NCwiZXhwIjoxNzY5NDIzNjM0fQ.kDG7ifr2AtEtLYDsF_Lcb1aSGAtnU1u7y9-w1VcrGdo"
+    },
+    {
+        "name": "Radio Kicheko Live FM 91.1",
+        "city": "Arusha",
+        "country": "Tanzania",
+        "url": "https://a7.asurahosting.com:6810/stream"
+    },
+    {
+        "name": "Savvy FM 105.3",
+        "city": "Arusha",
+        "country": "Tanzania",
+        "url": "https://radiotadio.co.tz/savvyfm-stream"
+    },
+    {
+        "name": "Radio Habari Njema",
+        "city": "Dodoma",
+        "country": "Tanzania",
+        "url": "https://uk4-vn.mixstream.net/:8084/;listen.mp3"
+    },
+    {
+        "name": "Radio 5 FM",
+        "city": "Arusha",
+        "country": "Tanzania",
+        "url": "http://41.59.200.210:8000/stream"
+    },
+    {
+        "name": "Radio Uhai",
+        "city": "Dodoma",
+        "country": "Tanzania",
+        "url": "https://s2.citrus3.com:8050/stream"
+    },
+    {
+        "name": "County FM 90.3",
+        "city": "Moshi",
+        "country": "Tanzania",
+        "url": "http://196.202.194.147:8090/"
+    },
+    {
+        "name": "ELCT",
+        "city": "Moshi",
+        "country": "Tanzania",
+        "url": "http://212.227.150.101:6801/index.html?sid=1"
+    },
+    {
+        "name": "Mutongoi FM",
+        "city": "Arusha",
+        "country": "Tanzania",
+        "url": "https://stream-178.zeno.fm/u6wh2czf8e9uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1NndoMmN6ZjhlOXV2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoicUkza3FsLXZTdy15aEhLY0VjQnNKZyIsImlhdCI6MTc2OTQyMzU3NiwiZXhwIjoxNzY5NDIzNjM2fQ.yZAkaz_gpGPCEJTWRPymUM2VqIymPULrISbGVmuw9Vo"
+    },
+    {
+        "name": "Radio Uvinza FM 96.5",
+        "city": "Sumbawanga",
+        "country": "Tanzania",
+        "url": "http://usa1-vn.mixstream.net:8090/;listen.mp3"
+    },
+    {
+        "name": "Radio Kwizera FM 97.9",
+        "city": "Mwanza",
+        "country": "Tanzania",
+        "url": "https://uk4-vn.mixstream.net/:8052/;listen.mp3"
+    },
+    {
+        "name": "Sifa FM Voi 107.7",
+        "city": "Moshi",
+        "country": "Tanzania",
+        "url": "https://audio-edge-fvq45.ams.d.radiomast.io/55362b64-fae9-4901-af1f-2a5912e27073"
+    },
+    {
+        "name": "KGT Radio",
+        "city": "Mwanza",
+        "country": "Tanzania",
+        "url": "https://stream-179.zeno.fm/2ydchn6cyy8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIyeWRjaG42Y3l5OHV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiWXRET1RuVXlTQTZUR1pucVhkcThoUSIsImlhdCI6MTc2OTQyMzU3NiwiZXhwIjoxNzY5NDIzNjM2fQ.YHEXuLMhdDN1nCwq0zIFBx4LUvQ9HQuQEvtY-6nyGy4"
+    },
+    {
+        "name": "Radio Joy 90.5 FM",
+        "city": "Kigoma",
+        "country": "Tanzania",
+        "url": "https://radiotadio.co.tz/joy-fm-stream"
+    },
+    {
+        "name": "Wimwaro FM 93.0",
+        "city": "Moshi",
+        "country": "Tanzania",
+        "url": "http://wimwarofm.atunwadigital.streamguys1.com/wimwarofm"
+    },
+    {
+        "name": "Muuga FM 94.2 FM",
+        "city": "Arusha",
+        "country": "Tanzania",
+        "url": "https://muugafm-atunwadigital.streamguys1.com/muugafm"
+    },
+    {
+        "name": "Radio Delight Kwitonta 89.7 FM",
+        "city": "Sumbawanga",
+        "country": "Tanzania",
+        "url": "https://s43.myradiostream.com:23820/listen.mp3"
+    },
+    {
+        "name": "AM24 Radio 98.5 FM",
+        "city": "Zanzibar",
+        "country": "Tanzania",
+        "url": "https://cast1.my-control-panel.com/proxy/livefm/live"
+    },
+    {
+        "name": "Yobex FM 91.3",
+        "city": "Sumbawanga",
+        "country": "Tanzania",
+        "url": "https://stream-177.zeno.fm/ygmb6jlxjhftv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5Z21iNmpseGpoZnR2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoicW1laldnUFVTR2lQUHFjLXdJZ2VSUSIsImlhdCI6MTc2OTQyMzU3OCwiZXhwIjoxNzY5NDIzNjM4fQ.k84hEMKR-j16b0CKy9DCgdgYRQkijX0W2KwDrJubFGE"
+    },
+    {
+        "name": "Vos FM Radio 90.1",
+        "city": "Sumbawanga",
+        "country": "Tanzania",
+        "url": "https://stream-165.zeno.fm/1iyvqiofnrxtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIxaXl2cWlvZm5yeHR2IiwiaG9zdCI6InN0cmVhbS0xNjUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoia05MVGprYWdSRC1ZY0dubmVmVUJmUSIsImlhdCI6MTc2OTQyMzU3OCwiZXhwIjoxNzY5NDIzNjM4fQ.C5SNF81d3KHi5EyMl3IjBdUB2OWodaRCLI7zTIbd81E"
+    },
+    {
+        "name": "Nyaluo Radio",
+        "city": "Bunda",
+        "country": "Tanzania",
+        "url": "http://172.105.25.197/radio/8000/radio.mp3"
+    },
+    {
+        "name": "Jay FM",
+        "city": "Zanzibar",
+        "country": "Tanzania",
+        "url": "https://stream-176.zeno.fm/geapkb665rquv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJnZWFwa2I2NjVycXV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiQndJUWhmVDBRZEtwa2JBZGl4T0kxUSIsImlhdCI6MTc2OTQyMzU3OSwiZXhwIjoxNzY5NDIzNjM5fQ.tKifZsZVoHbra2o2YM7CBcn76xQBjn1O93K_bywsadA"
+    },
+    {
+        "name": "Kasibante FM 88.5",
+        "city": "Ukerewe",
+        "country": "Tanzania",
+        "url": "https://s26.myradiostream.com:20788/;listen.mp3"
+    },
+    {
+        "name": "Pambazuko FM 89.5",
+        "city": "Ifakara",
+        "country": "Tanzania",
+        "url": "https://radiotadio.co.tz/pambazuko-fm-radio-stream"
+    },
+    {
+        "name": "Jamii FM 90.5",
+        "city": "Ifakara",
+        "country": "Tanzania",
+        "url": "https://radiotadio.co.tz/jamii-fm-stream"
+    },
+    {
+        "name": "Jambo FM 92.7",
+        "city": "Shinyanga",
+        "country": "Tanzania",
+        "url": "https://cast3.asurahosting.com/proxy/jambocom/stream"
+    },
+    {
+        "name": "Boresha Radio",
+        "city": "Ifakara",
+        "country": "Tanzania",
+        "url": "https://halo.streamerr.co/listen/radio_boresha/radio.mp3"
+    },
+    {
+        "name": "Sauti Ya Quran FM",
+        "city": "Zanzibar",
+        "country": "Tanzania",
+        "url": "https://stream-177.zeno.fm/igtk1anecmcvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJpZ3RrMWFuZWNtY3Z2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiS21mNkRiY19RM0NPRmpaaEU4UzBidyIsImlhdCI6MTc2OTQyMzU3OSwiZXhwIjoxNzY5NDIzNjM5fQ.evAbaFnXgE01PXFGeaven3JYnRhZhXwricZdUfnspA8"
+    },
+    {
+        "name": "CONAFOHD Radio",
+        "city": "Kigoma",
+        "country": "Tanzania",
+        "url": "https://listen.radioking.com/radio/719807/stream/785618"
+    },
+    {
+        "name": "Sidai FM",
+        "city": "Mbulu",
+        "country": "Tanzania",
+        "url": "http://197.248.25.27:1234/"
+    },
+    {
+        "name": "Christ FM 91.6",
+        "city": "Ukerewe",
+        "country": "Tanzania",
+        "url": "https://s39.myradiostream.com:15664/listen.mp3/"
+    },
+    {
+        "name": "Nyanza FM 89.5",
+        "city": "Bariadi",
+        "country": "Tanzania",
+        "url": "https://stream1.rcast.net/70528"
+    },
+    {
+        "name": "Radio Injili FM 103.7",
+        "city": "Musoma",
+        "country": "Tanzania",
+        "url": "https://c44.radioboss.fm/stream/73"
+    },
+    {
+        "name": "Radio Agakiza",
+        "city": "Ngara",
+        "country": "Tanzania",
+        "url": "https://cast6.my-control-panel.com/proxy/radioaga/stream"
+    },
+    {
+        "name": "Radio Vuna 102.0 FM",
+        "city": "Bunda",
+        "country": "Tanzania",
+        "url": "https://securestreams4.autopo.st:1646/stream.mp3/"
+    },
+    {
+        "name": "Orkonerei FM 94.3",
+        "city": "Terrat",
+        "country": "Tanzania",
+        "url": "https://radiotadio.co.tz/orkonerei-fm-stream"
+    },
+    {
+        "name": "Abood FM 88.3",
+        "city": "Morogoro",
+        "country": "Tanzania",
+        "url": "https://cast4.my-control-panel.com/proxy/rafopgr1/stream"
+    },
+    {
+        "name": "Minto FM",
+        "city": "Bariadi",
+        "country": "Tanzania",
+        "url": "https://stream-153.zeno.fm/u3dw22zst5quv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1M2R3MjJ6c3Q1cXV2IiwiaG9zdCI6InN0cmVhbS0xNTMuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiNWdTRzFTZnhSaHlJQW41cjlNWmxpZyIsImlhdCI6MTc2OTQyMzU4MSwiZXhwIjoxNzY5NDIzNjQxfQ.Dhqttyhh1wLp6jZUFpxLIw11Dnfw2yNpqfmJUNxRBPo"
+    },
+    {
+        "name": "Radio 10 FM 87.6",
+        "city": "Ngara",
+        "country": "Tanzania",
+        "url": "https://radio10rwanda-atunwadigital.streamguys1.com/Radio10Rwanda"
+    },
+    {
+        "name": "Radio Ankole 99.3 FM",
+        "city": "Bukoba",
+        "country": "Tanzania",
+        "url": "https://stream-179.zeno.fm/tx3pbguupg8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0eDNwYmd1dXBnOHV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiOWQwS3NlV2dSS2FzN25qTGxmZkptZyIsImlhdCI6MTc2OTQyMzU4MiwiZXhwIjoxNzY5NDIzNjQyfQ.GiYvliuKKbJhbBqie1uCbp65B7Sn-L3ocnRzzFyxQno"
+    },
+    {
+        "name": "Revival Radio 93.2 FM",
+        "city": "Bukoba",
+        "country": "Tanzania",
+        "url": "https://stream-156.zeno.fm/4a64z8hqfg0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0YTY0ejhocWZnMHV2IiwiaG9zdCI6InN0cmVhbS0xNTYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoidnFjeHJVTWlUdG1WUVVCQ3A2LVhidyIsImlhdCI6MTc2OTQyMzU4MiwiZXhwIjoxNzY5NDIzNjQyfQ.M7VU9zE6zCOruLtqbahSaEk6lx7DDiPrNWg7wZNpDYI"
+    },
+    {
+        "name": "Blue Radio",
+        "city": "Morogoro",
+        "country": "Tanzania",
+        "url": "https://servidor24.brlogic.com:7630/live"
+    }
+]

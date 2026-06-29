@@ -1,0 +1,182 @@
+[
+  {
+    "id": "kiribati-life-fm-kiribati",
+    "name": "Life FM Kiribati",
+    "url": "https://streams3.vision.org.au/lifefm.aac",
+    "genre": "Music",
+    "city": "Tarawa",
+    "country": "Kiribati",
+    "lat": 1.4845542,
+    "lng": 172.9689648
+  },
+  {
+    "id": "kiribati-national-broadcasting-corporation",
+    "name": "National Broadcasting Corporation",
+    "url": "https://natradio.nbc.com.pg/listen/nbcnationalradio/nbc.mp3",
+    "genre": "Music",
+    "city": "Tarawa",
+    "country": "Kiribati",
+    "lat": 1.4845542,
+    "lng": 172.9689648
+  },
+  {
+    "id": "kiribati-nia-radio--europe",
+    "name": "NIA Radio - Europe",
+    "url": "https://radio.nia.nc/radio/8010/europe-hq-stream.aac",
+    "genre": "Music",
+    "city": "Tarawa",
+    "country": "Kiribati",
+    "lat": 1.4845542,
+    "lng": 172.9689648
+  },
+  {
+    "id": "kiribati-lakhanda",
+    "name": "Lakhanda",
+    "url": "https://cp12.serverse.com/proxy/itnfm?mp=/stream",
+    "genre": "Music",
+    "city": "Kiribathgoda",
+    "country": "Sri Lanka",
+    "lat": 6.9780598,
+    "lng": 79.9273908
+  },
+  {
+    "id": "kiribati-lak-fm-1062",
+    "name": "Lak FM 106.2",
+    "url": "https://r1.comcities.com/proxy/oxmycwll/stream",
+    "genre": "Music",
+    "city": "Kiribathgoda",
+    "country": "Sri Lanka",
+    "lat": 6.9780598,
+    "lng": 79.9273908
+  },
+  {
+    "id": "kiribati-radio-kiribati-am-1440",
+    "name": "Radio Kiribati AM 1440",
+    "url": "http://streamer5.rightclickitservices.com:9790/stream",
+    "genre": "Music",
+    "city": "Tarawa",
+    "country": "Kiribati",
+    "lat": 1.4845542,
+    "lng": 172.9689648
+  },
+  {
+    "id": "kiribati-radio-kiritimati-899-fm",
+    "name": "Radio Kiritimati 89.9 FM",
+    "url": "https://streamer5.rightclickitservices.com:19780/stream",
+    "genre": "Music",
+    "city": "Tarawa",
+    "country": "Kiribati",
+    "lat": 1.4845542,
+    "lng": 172.9689648
+  },
+  {
+    "id": "kiribati-siyatha-fm-982",
+    "name": "Siyatha FM 98.2",
+    "url": "https://srv01.onlineradio.voaplus.com/siyathafm",
+    "genre": "Music",
+    "city": "Kiribathgoda",
+    "country": "Sri Lanka",
+    "lat": 6.9780598,
+    "lng": 79.9273908
+  },
+  {
+    "id": "kiribati-v-fm",
+    "name": "V FM",
+    "url": "https://dc1.serverse.com/proxy/fmlanka/stream",
+    "genre": "Music",
+    "city": "Kiribathgoda",
+    "country": "Sri Lanka",
+    "lat": 6.9780598,
+    "lng": 79.9273908
+  },
+  {
+    "id": "kiribati-seth-fm-1031",
+    "name": "Seth FM 103.1",
+    "url": "https://listen.radioking.com/radio/384487/stream/435781",
+    "genre": "Music",
+    "city": "Kiribathgoda",
+    "country": "Sri Lanka",
+    "lat": 6.9780598,
+    "lng": 79.9273908
+  },
+  {
+    "id": "kiribati-shakthi-fm",
+    "name": "Shakthi FM",
+    "url": "https://mbc.thestreamtech.com:8086/index.html/stream",
+    "genre": "Music",
+    "city": "Kiribathgoda",
+    "country": "Sri Lanka",
+    "lat": 6.9780598,
+    "lng": 79.9273908
+  },
+  {
+    "id": "kiribati-hiru-fm-961",
+    "name": "Hiru FM 96.1",
+    "url": "https://radio.lotustechnologieslk.net:2020/stream/hirufmgarden/stream/",
+    "genre": "Music",
+    "city": "Kiribathgoda",
+    "country": "Sri Lanka",
+    "lat": 6.9780598,
+    "lng": 79.9273908
+  },
+  {
+    "id": "kiribati-shaa-fm-911",
+    "name": "Shaa FM 91.1",
+    "url": "https://radio.lotustechnologieslk.net:2020/stream/shaafmgarden/stream",
+    "genre": "Music",
+    "city": "Kiribathgoda",
+    "country": "Sri Lanka",
+    "lat": 6.9780598,
+    "lng": 79.9273908
+  },
+  {
+    "id": "kiribati-sooriyan-fm-1034",
+    "name": "Sooriyan FM 103.4",
+    "url": "https://radio.lotustechnologieslk.net:2020/stream/sooriyanfmgarden/",
+    "genre": "Music",
+    "city": "Kiribathgoda",
+    "country": "Sri Lanka",
+    "lat": 6.9780598,
+    "lng": 79.9273908
+  },
+  {
+    "id": "kiribati-life-fm-fiji",
+    "name": "Life FM Fiji",
+    "url": "https://stream4.rcast.net/65809",
+    "genre": "Music",
+    "city": "Tarawa",
+    "country": "Kiribati",
+    "lat": 1.4845542,
+    "lng": 172.9689648
+  },
+  {
+    "id": "kiribati-athavan-radio",
+    "name": "Athavan Radio",
+    "url": "https://stream-168.zeno.fm/fs1wi3tumfbvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJmczF3aTN0dW1mYnZ2IiwiaG9zdCI6InN0cmVhbS0xNjguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiWi1GTE43VU5SUlNsMlNuZDNrVzNwZyIsImlhdCI6MTc2OTQxOTg5NCwiZXhwIjoxNzY5NDE5OTU0fQ.nzYS84h6gpZuPz2Q3-R3-5xTZy9_12tc2uNBrkYSDRQ",
+    "genre": "Music",
+    "city": "Kiribathgoda",
+    "country": "Sri Lanka",
+    "lat": 6.9780598,
+    "lng": 79.9273908
+  },
+  {
+    "id": "kiribati-v6-bbc-baptist-radio-chuuk-885-fm",
+    "name": "V6 BBC Baptist Radio Chuuk 88.5 FM",
+    "url": "https://streaming.radio.co/s25a6afba9/listen",
+    "genre": "Music",
+    "city": "Tarawa",
+    "country": "Kiribati",
+    "lat": 1.4845542,
+    "lng": 172.9689648
+  },
+  {
+    "id": "kiribati-laksara",
+    "name": "Laksara",
+    "url": "https://dc2.serverse.com:8046/stream",
+    "genre": "Music",
+    "city": "Kiribathgoda",
+    "country": "Sri Lanka",
+    "lat": 6.9780598,
+    "lng": 79.9273908
+  }
+]

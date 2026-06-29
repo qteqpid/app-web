@@ -1,0 +1,552 @@
+[
+  {
+    "id": "sri-ran-fm-1005",
+    "name": "Ran FM 100.5",
+    "url": "http://207.148.74.192:7860/ran.mp3",
+    "genre": "Music",
+    "city": "Colombo",
+    "country": "Sri Lanka",
+    "lat": 6.9388614,
+    "lng": 79.8542005
+  },
+  {
+    "id": "sri-lakhanda",
+    "name": "Lakhanda",
+    "url": "https://cp12.serverse.com/proxy/itnfm?mp=/stream",
+    "genre": "Music",
+    "city": "Colombo",
+    "country": "Sri Lanka",
+    "lat": 6.9388614,
+    "lng": 79.8542005
+  },
+  {
+    "id": "sri-pita-rata-radio",
+    "name": "Pita Rata Radio",
+    "url": "https://cp11.serverse.com/proxy/pawura/stream",
+    "genre": "Music",
+    "city": "Boralesgamuwa",
+    "country": "Sri Lanka",
+    "lat": 6.8410598,
+    "lng": 79.9017028
+  },
+  {
+    "id": "sri-live-fm",
+    "name": "Live FM",
+    "url": "https://cp11.serverse.com/proxy/livefm?mp=/stream",
+    "genre": "Music",
+    "city": "Boralesgamuwa",
+    "country": "Sri Lanka",
+    "lat": 6.8410598,
+    "lng": 79.9017028
+  },
+  {
+    "id": "sri-classic-radio",
+    "name": "Classic Radio",
+    "url": "https://cp11.serverse.com/proxy/classic/stream",
+    "genre": "Music",
+    "city": "Boralesgamuwa",
+    "country": "Sri Lanka",
+    "lat": 6.8410598,
+    "lng": 79.9017028
+  },
+  {
+    "id": "sri-lak-fm-1062",
+    "name": "Lak FM 106.2",
+    "url": "https://r1.comcities.com/proxy/oxmycwll/stream",
+    "genre": "Music",
+    "city": "Colombo",
+    "country": "Sri Lanka",
+    "lat": 6.9388614,
+    "lng": 79.8542005
+  },
+  {
+    "id": "sri-seth-fm-1031",
+    "name": "Seth FM 103.1",
+    "url": "https://listen.radioking.com/radio/384487/stream/435781",
+    "genre": "Music",
+    "city": "Colombo",
+    "country": "Sri Lanka",
+    "lat": 6.9388614,
+    "lng": 79.8542005
+  },
+  {
+    "id": "sri-lakviru-radio-1052-fm",
+    "name": "Lakviru Radio 105.2 FM",
+    "url": "https://cp11.serverse.com/proxy/kqxjpewq?mp=/stream",
+    "genre": "Music",
+    "city": "Colombo",
+    "country": "Sri Lanka",
+    "lat": 6.9388614,
+    "lng": 79.8542005
+  },
+  {
+    "id": "sri-rhythm-fm-956",
+    "name": "Rhythm FM 95.6",
+    "url": "https://dc02.onlineradio.voaplus.com/rhythmfm",
+    "genre": "Music",
+    "city": "Colombo",
+    "country": "Sri Lanka",
+    "lat": 6.9388614,
+    "lng": 79.8542005
+  },
+  {
+    "id": "sri-siyatha-fm-982",
+    "name": "Siyatha FM 98.2",
+    "url": "https://srv01.onlineradio.voaplus.com/siyathafm",
+    "genre": "Music",
+    "city": "Colombo",
+    "country": "Sri Lanka",
+    "lat": 6.9388614,
+    "lng": 79.8542005
+  },
+  {
+    "id": "sri-v-fm",
+    "name": "V FM",
+    "url": "https://dc1.serverse.com/proxy/fmlanka/stream",
+    "genre": "Music",
+    "city": "Colombo",
+    "country": "Sri Lanka",
+    "lat": 6.9388614,
+    "lng": 79.8542005
+  },
+  {
+    "id": "sri-yes-fm-101",
+    "name": "Yes FM 101",
+    "url": "https://mbc.thestreamtech.com:7056/index.html/stream",
+    "genre": "Music",
+    "city": "Colombo",
+    "country": "Sri Lanka",
+    "lat": 6.9388614,
+    "lng": 79.8542005
+  },
+  {
+    "id": "sri-my-y-927-fm",
+    "name": "My Y 92.7 FM",
+    "url": "https://mbc.thestreamtech.com:7032/index.html",
+    "genre": "Music",
+    "city": "Colombo",
+    "country": "Sri Lanka",
+    "lat": 6.9388614,
+    "lng": 79.8542005
+  },
+  {
+    "id": "sri-shakthi-fm",
+    "name": "Shakthi FM",
+    "url": "https://mbc.thestreamtech.com:8086/index.html/stream",
+    "genre": "Music",
+    "city": "Colombo",
+    "country": "Sri Lanka",
+    "lat": 6.9388614,
+    "lng": 79.8542005
+  },
+  {
+    "id": "sri-radio-gold",
+    "name": "Radio Gold",
+    "url": "https://cp11.serverse.com/proxy/radiogold/stream",
+    "genre": "Music",
+    "city": "Boralesgamuwa",
+    "country": "Sri Lanka",
+    "lat": 6.8410598,
+    "lng": 79.9017028
+  },
+  {
+    "id": "sri-sooriyan-fm-1034",
+    "name": "Sooriyan FM 103.4",
+    "url": "https://radio.lotustechnologieslk.net:2020/stream/sooriyanfmgarden/",
+    "genre": "Music",
+    "city": "Colombo",
+    "country": "Sri Lanka",
+    "lat": 6.9388614,
+    "lng": 79.8542005
+  },
+  {
+    "id": "sri-shaa-fm-911",
+    "name": "Shaa FM 91.1",
+    "url": "https://radio.lotustechnologieslk.net:2020/stream/shaafmgarden/stream",
+    "genre": "Music",
+    "city": "Colombo",
+    "country": "Sri Lanka",
+    "lat": 6.9388614,
+    "lng": 79.8542005
+  },
+  {
+    "id": "sri-hiru-fm-961",
+    "name": "Hiru FM 96.1",
+    "url": "https://radio.lotustechnologieslk.net:2020/stream/hirufmgarden/stream/",
+    "genre": "Music",
+    "city": "Colombo",
+    "country": "Sri Lanka",
+    "lat": 6.9388614,
+    "lng": 79.8542005
+  },
+  {
+    "id": "sri-slbc-yaal-fm",
+    "name": "SLBC Yaal FM",
+    "url": "http://220.247.227.6:8000/Yaalstream",
+    "genre": "Music",
+    "city": "Boralesgamuwa",
+    "country": "Sri Lanka",
+    "lat": 6.8410598,
+    "lng": 79.9017028
+  },
+  {
+    "id": "sri-slbc-pirai-fm",
+    "name": "SLBC Pirai FM",
+    "url": "http://220.247.234.207:8000/piraistream",
+    "genre": "Music",
+    "city": "Kalmunai",
+    "country": "Sri Lanka",
+    "lat": 7.4131557,
+    "lng": 81.8269327
+  },
+  {
+    "id": "sri-sky-radio",
+    "name": "Sky Radio",
+    "url": "https://cp11.serverse.com/proxy/skyradio/stream",
+    "genre": "Music",
+    "city": "Boralesgamuwa",
+    "country": "Sri Lanka",
+    "lat": 6.8410598,
+    "lng": 79.9017028
+  },
+  {
+    "id": "sri-tamil-fm-995",
+    "name": "Tamil FM 99.5",
+    "url": "https://shaincast.caster.fm:47814/listen.mp3",
+    "genre": "Music",
+    "city": "Colombo",
+    "country": "Sri Lanka",
+    "lat": 6.9388614,
+    "lng": 79.8542005
+  },
+  {
+    "id": "sri-glorious-fm",
+    "name": "Glorious FM",
+    "url": "https://streaming.radio.co/se7aa43abd/listen",
+    "genre": "Music",
+    "city": "Colombo",
+    "country": "Sri Lanka",
+    "lat": 6.9388614,
+    "lng": 79.8542005
+  },
+  {
+    "id": "sri-wow-radio",
+    "name": "WoW Radio",
+    "url": "https://cp11.serverse.com/proxy/wowradio/stream",
+    "genre": "Music",
+    "city": "Boralesgamuwa",
+    "country": "Sri Lanka",
+    "lat": 6.8410598,
+    "lng": 79.9017028
+  },
+  {
+    "id": "sri-bathusha-radio",
+    "name": "Bathusha Radio",
+    "url": "https://eu10.fastcast4u.com:14550/stream",
+    "genre": "Music",
+    "city": "Kalmunai",
+    "country": "Sri Lanka",
+    "lat": 7.4131557,
+    "lng": 81.8269327
+  },
+  {
+    "id": "sri-krushi-radio",
+    "name": "Krushi Radio",
+    "url": "https://radioserver.krushiradio.lk:8000/radio.mp3",
+    "genre": "Music",
+    "city": "Kalmunai",
+    "country": "Sri Lanka",
+    "lat": 7.4131557,
+    "lng": 81.8269327
+  },
+  {
+    "id": "sri-laksara",
+    "name": "Laksara",
+    "url": "https://dc2.serverse.com:8046/stream",
+    "genre": "Music",
+    "city": "Colombo",
+    "country": "Sri Lanka",
+    "lat": 6.9388614,
+    "lng": 79.8542005
+  },
+  {
+    "id": "sri-radio-plus--hitz",
+    "name": "Radio Plus - Hitz",
+    "url": "https://altair.streamerr.co/stream/8054",
+    "genre": "Music",
+    "city": "Muttettugoda",
+    "country": "Sri Lanka",
+    "lat": 6.9042206,
+    "lng": 79.942747
+  },
+  {
+    "id": "sri-radio-plus--evergreen",
+    "name": "Radio Plus - Evergreen",
+    "url": "https://altair.streamerr.co/stream/8072",
+    "genre": "Music",
+    "city": "Muttettugoda",
+    "country": "Sri Lanka",
+    "lat": 6.9042206,
+    "lng": 79.942747
+  },
+  {
+    "id": "sri-radio-plus--sri-lanka",
+    "name": "Radio Plus - Sri Lanka",
+    "url": "https://altair.streamerr.co/stream/8036",
+    "genre": "Music",
+    "city": "Muttettugoda",
+    "country": "Sri Lanka",
+    "lat": 6.9042206,
+    "lng": 79.942747
+  },
+  {
+    "id": "sri-thadam-fm",
+    "name": "Thadam FM",
+    "url": "https://ec7.yesstreaming.net:1865/stream",
+    "genre": "Music",
+    "city": "Jaffna",
+    "country": "Sri Lanka",
+    "lat": 9.665093,
+    "lng": 80.0093029
+  },
+  {
+    "id": "sri-radio-tamizha-fm",
+    "name": "Radio Tamizha FM",
+    "url": "https://c22.radioboss.fm/stream/832",
+    "genre": "Music",
+    "city": "Jaffna",
+    "country": "Sri Lanka",
+    "lat": 9.665093,
+    "lng": 80.0093029
+  },
+  {
+    "id": "sri-rangiri-radio-1057-fm",
+    "name": "Rangiri Radio 105.7 FM",
+    "url": "https://rangiri.radioca.st/stream",
+    "genre": "Music",
+    "city": "Kalmunai",
+    "country": "Sri Lanka",
+    "lat": 7.4131557,
+    "lng": 81.8269327
+  },
+  {
+    "id": "sri-punnagai-radio",
+    "name": "Punnagai Radio",
+    "url": "https://sp.radiotamilonline.com/8146/stream",
+    "genre": "Music",
+    "city": "Kalmunai",
+    "country": "Sri Lanka",
+    "lat": 7.4131557,
+    "lng": 81.8269327
+  },
+  {
+    "id": "sri-punnagai-fm-ist",
+    "name": "Punnagai FM IST",
+    "url": "https://onair.punnagairadio.com/8146/stream",
+    "genre": "Music",
+    "city": "Kalmunai",
+    "country": "Sri Lanka",
+    "lat": 7.4131557,
+    "lng": 81.8269327
+  },
+  {
+    "id": "sri-slbc-kandurata-fm",
+    "name": "SLBC Kandurata FM",
+    "url": "http://220.247.227.20:8000/kandystream",
+    "genre": "Music",
+    "city": "Kandy",
+    "country": "Sri Lanka",
+    "lat": 7.2931208,
+    "lng": 80.6350358
+  },
+  {
+    "id": "sri-slbc-rajarata-fm-1073",
+    "name": "SLBC Rajarata FM 107.3",
+    "url": "http://220.247.227.20:8000/rajaratastream",
+    "genre": "Music",
+    "city": "Dambulla",
+    "country": "Sri Lanka",
+    "lat": 7.8742031,
+    "lng": 80.6510917
+  },
+  {
+    "id": "sri-batti-fm",
+    "name": "Batti FM",
+    "url": "https://radio.gcast.com.lk:8020/radio.mp3",
+    "genre": "Music",
+    "city": "Batticaloa",
+    "country": "Sri Lanka",
+    "lat": 7.8381021,
+    "lng": 81.5567533
+  },
+  {
+    "id": "sri-golden-maple-radio",
+    "name": "Golden Maple Radio",
+    "url": "https://s46.myradiostream.com/:11156/index.html?sid=1",
+    "genre": "Music",
+    "city": "Kalmunai",
+    "country": "Sri Lanka",
+    "lat": 7.4131557,
+    "lng": 81.8269327
+  },
+  {
+    "id": "sri-adirai-fm-904",
+    "name": "Adirai FM 90.4",
+    "url": "https://listen.radioking.com/radio/188161/stream/230320",
+    "genre": "Music",
+    "city": "Jaffna",
+    "country": "Sri Lanka",
+    "lat": 9.665093,
+    "lng": 80.0093029
+  },
+  {
+    "id": "sri-vibe-radiolk",
+    "name": "Vibe Radio.lk",
+    "url": "https://centova32.instainternet.com/proxy/viberadio1?mp=/1",
+    "genre": "Music",
+    "city": "Ratnapura",
+    "country": "Sri Lanka",
+    "lat": 6.5795685,
+    "lng": 80.588223
+  },
+  {
+    "id": "sri-mahima-radio",
+    "name": "Mahima Radio",
+    "url": "https://mahimaradio.radioca.st/stream",
+    "genre": "Music",
+    "city": "Battaramulla",
+    "country": "Sri Lanka",
+    "lat": 6.9021809,
+    "lng": 79.9195776
+  },
+  {
+    "id": "sri-apayy-radio-hitz",
+    "name": "Apayy Radio Hitz",
+    "url": "https://cp11.serverse.com/proxy/dinamina/stream",
+    "genre": "Music",
+    "city": "Walasmulla",
+    "country": "Sri Lanka",
+    "lat": 6.1558503,
+    "lng": 80.6979578
+  },
+  {
+    "id": "sri-sabaragamuwa-radio",
+    "name": "SabaraGamuwa Radio",
+    "url": "https://centova32.instainternet.com/proxy/ddtradio?mp=/stream",
+    "genre": "Music",
+    "city": "Kandy",
+    "country": "Sri Lanka",
+    "lat": 7.2931208,
+    "lng": 80.6350358
+  },
+  {
+    "id": "sri-tamilakaram-radio-தமிழகரம்-இணைய-வானொலி",
+    "name": "Tamilakaram Radio தமிழகரம் இணைய வானொலி",
+    "url": "https://str3.openstream.co/512?aw_0_1st.collectionid%3D7007%26stationId%3D7007%26publisherId%3D536%26k%3D1769423259",
+    "genre": "Music",
+    "city": "Kalmunai",
+    "country": "Sri Lanka",
+    "lat": 7.4131557,
+    "lng": 81.8269327
+  },
+  {
+    "id": "sri-மன்னை-வானொலி-mannai-fm",
+    "name": "மன்னை வானொலி Mannai FM",
+    "url": "https://stream-160.zeno.fm/8cyfy8vx34zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI4Y3lmeTh2eDM0enV2IiwiaG9zdCI6InN0cmVhbS0xNjAuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoibDR1bV9uVDBTVUtWTGJoeFlVWVdEZyIsImlhdCI6MTc2OTQyMzI2MSwiZXhwIjoxNzY5NDIzMzIxfQ.eYNojLC0bh9muBihmK171wtvPxdBx8GWUU-57sbQSZo",
+    "genre": "Music",
+    "city": "Jaffna",
+    "country": "Sri Lanka",
+    "lat": 9.665093,
+    "lng": 80.0093029
+  },
+  {
+    "id": "sri-mdn-radio",
+    "name": "MDN Radio",
+    "url": "https://eu2.fastcast4u.com/proxy/mapere00?mp=/1",
+    "genre": "Music",
+    "city": "Kiriella",
+    "country": "Sri Lanka",
+    "lat": 6.7379565,
+    "lng": 80.27308
+  },
+  {
+    "id": "sri-nagapattinam-nanbargal",
+    "name": "Nagapattinam Nanbargal",
+    "url": "https://stream-151.zeno.fm/xyw4mnd8ntzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ4eXc0bW5kOG50enV2IiwiaG9zdCI6InN0cmVhbS0xNTEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiRHRYQ243U0pSbXFkNU1qZWZHTnU5USIsImlhdCI6MTc2OTQyMzI2MSwiZXhwIjoxNzY5NDIzMzIxfQ.IQDiKO-DD3A6c-v2kv1nHFkyQz1INSFtpXC4g4ai9m0",
+    "genre": "Music",
+    "city": "Jaffna",
+    "country": "Sri Lanka",
+    "lat": 9.665093,
+    "lng": 80.0093029
+  },
+  {
+    "id": "sri-திருவாரூர்-வானொலி-thiruvarur-fm",
+    "name": "திருவாரூர் வானொலி Thiruvarur FM",
+    "url": "https://stream-156.zeno.fm/t4c8kx2r54zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0NGM4a3gycjU0enV2IiwiaG9zdCI6InN0cmVhbS0xNTYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoibVlLb0Mzb2ZTZHkwUlJWVXpfRGx6USIsImlhdCI6MTc2OTQyMzI2MSwiZXhwIjoxNzY5NDIzMzIxfQ.5MifyW_6IQ3703OpHX52MR1ExBAS5G-jyh3v7559Qv0",
+    "genre": "Music",
+    "city": "Jaffna",
+    "country": "Sri Lanka",
+    "lat": 9.665093,
+    "lng": 80.0093029
+  },
+  {
+    "id": "sri-lion-fm",
+    "name": "Lion FM",
+    "url": "https://stream-179.zeno.fm/zq6tn92g8yzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ6cTZ0bjkyZzh5enV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiUGxXNEZEakhRR0NDZXJ4X1N5bW1oUSIsImlhdCI6MTc2OTQyMzI2MSwiZXhwIjoxNzY5NDIzMzIxfQ.XqorIaaP2ANoVhykc3Ra_hFms5u3_DgONKAo4iPiIDs",
+    "genre": "Music",
+    "city": "Kandy",
+    "country": "Sri Lanka",
+    "lat": 7.2931208,
+    "lng": 80.6350358
+  },
+  {
+    "id": "sri-sanahas-live",
+    "name": "Sanahas Live",
+    "url": "https://stream-179.zeno.fm/upifdlfot6ltv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1cGlmZGxmb3Q2bHR2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoidzM0bGJLMjNSTGlyV0pPdll5T3FxZyIsImlhdCI6MTc2OTQyMzI2MiwiZXhwIjoxNzY5NDIzMzIyfQ.-862P5g3wnJ8Y2vbttffbae610AtTBKtXOAgyIJAX4U",
+    "genre": "Music",
+    "city": "Walasmulla",
+    "country": "Sri Lanka",
+    "lat": 6.1558503,
+    "lng": 80.6979578
+  },
+  {
+    "id": "sri-unik-radio",
+    "name": "Unik Radio",
+    "url": "https://unikradio.radioca.st/index.html?sid=1",
+    "genre": "Music",
+    "city": "Kelaniya",
+    "country": "Sri Lanka",
+    "lat": 6.9501246,
+    "lng": 79.9172715
+  },
+  {
+    "id": "sri-athavan-radio",
+    "name": "Athavan Radio",
+    "url": "https://stream-168.zeno.fm/fs1wi3tumfbvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJmczF3aTN0dW1mYnZ2IiwiaG9zdCI6InN0cmVhbS0xNjguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiMEdYeW1sMFVSLXl4bWtPSENNWnJvZyIsImlhdCI6MTc2OTQyMzI2MiwiZXhwIjoxNzY5NDIzMzIyfQ.MXd3gemvpt2r7HGZ1z7UThMcXk2kyp9FGFfekxE4jFc",
+    "genre": "Music",
+    "city": "Kadawatha",
+    "country": "Sri Lanka",
+    "lat": 7.0019661,
+    "lng": 79.9512673
+  },
+  {
+    "id": "sri-agaram-fm",
+    "name": "Agaram FM",
+    "url": "https://stream-157.zeno.fm/ynuoddjfosluv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5bnVvZGRqZm9zbHV2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiSUd6LXkxZTFTUzJiVld2NUdHX0RTdyIsImlhdCI6MTc2OTQyMzI2MywiZXhwIjoxNzY5NDIzMzIzfQ.nD362TFqY7apqcZJstE-XtLdE2spKJUOyBd0kG1OtiY",
+    "genre": "Music",
+    "city": "Trincomalee",
+    "country": "Sri Lanka",
+    "lat": 8.576425,
+    "lng": 81.2344952
+  },
+  {
+    "id": "sri-sirilaka-radio",
+    "name": "Sirilaka Radio",
+    "url": "https://servidor16.brlogic.com:7084/live",
+    "genre": "Music",
+    "city": "Polonnaruwa",
+    "country": "Sri Lanka",
+    "lat": 7.9962335,
+    "lng": 81.0491723
+  }
+]

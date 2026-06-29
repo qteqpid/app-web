@@ -1,0 +1,578 @@
+[
+    {
+        "name": "Radio Jaska 93.8 FM",
+        "city": "Zagreb",
+        "country": "Croatia",
+        "url": "https://uk1.streamingpulse.com/ssl/RadioJaska"
+    },
+    {
+        "name": "Radio Samobor FM 93.0",
+        "city": "Zagreb",
+        "country": "Croatia",
+        "url": "http://185.150.235.162/index.html?sid=1"
+    },
+    {
+        "name": "Yammat FM 102.5",
+        "city": "Zagreb",
+        "country": "Croatia",
+        "url": "https://stream.yammat.fm/radio/8000/yammat.mp3"
+    },
+    {
+        "name": "Radio Tvornica",
+        "city": "Zagreb",
+        "country": "Croatia",
+        "url": "https://c8.hostingcentar.com/proxy/tvornica/stream"
+    },
+    {
+        "name": "Top Radio",
+        "city": "Zagreb",
+        "country": "Croatia",
+        "url": "https://c5.hostingcentar.com/streams/topradio/"
+    },
+    {
+        "name": "Radio Banovina 96.8 FM",
+        "city": "Zagreb",
+        "country": "Croatia",
+        "url": "https://audio.radio-banovina.hr:9998/stream"
+    },
+    {
+        "name": "Bravo! 107.1 FM",
+        "city": "Zagreb",
+        "country": "Croatia",
+        "url": "https://relay1.social3.hr/radio/8310/radio.mp3"
+    },
+    {
+        "name": "KLFM",
+        "city": "Split",
+        "country": "Croatia",
+        "url": "https://klfmorgborg.radioca.st/index.html?sid=1"
+    },
+    {
+        "name": "Radio Dalmacija",
+        "city": "Zagreb",
+        "country": "Croatia",
+        "url": "http://shoutcast.pondi.hr:8000/index.html?sid=1"
+    },
+    {
+        "name": "Extra FM",
+        "city": "Zagreb",
+        "country": "Croatia",
+        "url": "https://audio.social3.hr/listen/extra_aac/stream"
+    },
+    {
+        "name": "Happy FM",
+        "city": "Zagreb",
+        "country": "Croatia",
+        "url": "https://audio.social3.hr/listen/happy_aac/stream"
+    },
+    {
+        "name": "Radio Mango 97.6 FM",
+        "city": "Split",
+        "country": "Croatia",
+        "url": "http://158.69.119.6:8780/stream"
+    },
+    {
+        "name": "Radio Stubica",
+        "city": "Zagreb",
+        "country": "Croatia",
+        "url": "http://radiostubica.hc.hr:7010/index.html?sid=1"
+    },
+    {
+        "name": "Radio Šibenik FM 88.6",
+        "city": "Split",
+        "country": "Croatia",
+        "url": "http://proxima.shoutca.st:8215/stream"
+    },
+    {
+        "name": "Laganini FM 87.6",
+        "city": "Rijeka",
+        "country": "Croatia",
+        "url": "http://194.145.208.251:8004/stream/"
+    },
+    {
+        "name": "HRT - HR2",
+        "city": "Zagreb",
+        "country": "Croatia",
+        "url": "https://25703.live.streamtheworld.com:443/PROGRAM2AAC.aac"
+    },
+    {
+        "name": "Radio Kampus FM 104",
+        "city": "Split",
+        "country": "Croatia",
+        "url": "https://audio.alter-media.hr/9128/stream"
+    },
+    {
+        "name": "Pomorski Radio",
+        "city": "Rijeka",
+        "country": "Croatia",
+        "url": "http://85.17.172.242:8010/live.mp3"
+    },
+    {
+        "name": "Radio Gorski Kotar FM 95",
+        "city": "Rijeka",
+        "country": "Croatia",
+        "url": "http://144.76.39.214:9500/stream.mp3"
+    },
+    {
+        "name": "Radio Split FM 101.0",
+        "city": "Split",
+        "country": "Croatia",
+        "url": "https://www.myipcast.com/radio/split"
+    },
+    {
+        "name": "Radio Kastav FM 90.3",
+        "city": "Rijeka",
+        "country": "Croatia",
+        "url": "http://proxima.shoutca.st:8559/stream"
+    },
+    {
+        "name": "FolkyTon",
+        "city": "Zagreb",
+        "country": "Croatia",
+        "url": "https://ec2s.crolive.com.hr:6035/stream"
+    },
+    {
+        "name": "Radio Korzo FM 98.4",
+        "city": "Rijeka",
+        "country": "Croatia",
+        "url": "https://c2.hostingcentar.com/streams/radiokorzo/stream"
+    },
+    {
+        "name": "Radio Sunce FM 90.9",
+        "city": "Split",
+        "country": "Croatia",
+        "url": "https://shoutcast.pondi.hr:8002/index.html?sid=1"
+    },
+    {
+        "name": "Radio Roža",
+        "city": "Rijeka",
+        "country": "Croatia",
+        "url": "https://stream.radio-roza.org/live.mp3"
+    },
+    {
+        "name": "Radio Sveta Nedelja 97.7 FM",
+        "city": "Zagreb",
+        "country": "Croatia",
+        "url": "https://ec2s.crolive.com.hr:2205/stream"
+    },
+    {
+        "name": "Novi Radio 89.3 FM",
+        "city": "Zadar",
+        "country": "Croatia",
+        "url": "https://s8.iqstreaming.com:2020/stream/novi_radio"
+    },
+    {
+        "name": "Radio Kaštel",
+        "city": "Rijeka",
+        "country": "Croatia",
+        "url": "https://kastel2020.radioca.st/stream"
+    },
+    {
+        "name": "Radio Labin FM 91.0",
+        "city": "Rijeka",
+        "country": "Croatia",
+        "url": "https://c2.hostingcentar.com/streams/radiolabin/"
+    },
+    {
+        "name": "Radio 057",
+        "city": "Zadar",
+        "country": "Croatia",
+        "url": "https://audio.alter-media.hr/9052/stream"
+    },
+    {
+        "name": "Novi Radio Bihać FM 101.6",
+        "city": "Zadar",
+        "country": "Croatia",
+        "url": "http://cast2.name.ba:8119/stream/"
+    },
+    {
+        "name": "HR Knin",
+        "city": "Split",
+        "country": "Croatia",
+        "url": "https://21633.live.streamtheworld.com:443/KNINAAC.aac"
+    },
+    {
+        "name": "Radio Rijeka",
+        "city": "Rijeka",
+        "country": "Croatia",
+        "url": "https://29043.live.streamtheworld.com:443/RIJEKA_ADP.aac"
+    },
+    {
+        "name": "Radio Gospić FM 97.1",
+        "city": "Zadar",
+        "country": "Croatia",
+        "url": "https://sonic.brzioblak.eu/8002/stream"
+    },
+    {
+        "name": "Medulin FM 95.0",
+        "city": "Pula",
+        "country": "Croatia",
+        "url": "https://de1.streamingpulse.com/ssl/MedulinFM"
+    },
+    {
+        "name": "Radio Istra",
+        "city": "Pula",
+        "country": "Croatia",
+        "url": "https://uk1.streamingpulse.com/ssl/RadioIstra"
+    },
+    {
+        "name": "Lucky Radio",
+        "city": "Đakovo",
+        "country": "Croatia",
+        "url": "http://cmr-hosting.com:8470/;stream.mp3"
+    },
+    {
+        "name": "Radio Drniš",
+        "city": "Split",
+        "country": "Croatia",
+        "url": "https://ec2s.crolive.com.hr:2410/stream"
+    },
+    {
+        "name": "Bijelo Plavi Radio",
+        "city": "Osijek",
+        "country": "Croatia",
+        "url": "http://s8.iqstreaming.com:8028/stream"
+    },
+    {
+        "name": "Tranzistor",
+        "city": "Đakovo",
+        "country": "Croatia",
+        "url": "https://ec2s.crolive.com.hr/tranzistor"
+    },
+    {
+        "name": "Radio Odžak 92.5 FM",
+        "city": "Đakovo",
+        "country": "Croatia",
+        "url": "https://stream1.rcast.net/70602"
+    },
+    {
+        "name": "Radio Baranja FM 88",
+        "city": "Đakovo",
+        "country": "Croatia",
+        "url": "https://s8.iqstreaming.com:2020/stream/radio_baranja/stream/"
+    },
+    {
+        "name": "Laganini FM 99.1",
+        "city": "Osijek",
+        "country": "Croatia",
+        "url": "http://194.145.208.251:8012/stream"
+    },
+    {
+        "name": "Radio Donji Miholjac FM 92.3",
+        "city": "Đakovo",
+        "country": "Croatia",
+        "url": "https://s8.iqstreaming.com:8032/stream"
+    },
+    {
+        "name": "Radio Našice FM 88.7",
+        "city": "Đakovo",
+        "country": "Croatia",
+        "url": "https://s8.iqstreaming.com:8038/stream"
+    },
+    {
+        "name": "HRT Radio Zadar FM 101.8",
+        "city": "Zadar",
+        "country": "Croatia",
+        "url": "https://27913.live.streamtheworld.com:443/ZADARAAC.aac"
+    },
+    {
+        "name": "Studentski Radio UNIOS 107.8",
+        "city": "Osijek",
+        "country": "Croatia",
+        "url": "http://31.147.207.137:8000/stream.mp3"
+    },
+    {
+        "name": "Radio Pula HRT",
+        "city": "Pula",
+        "country": "Croatia",
+        "url": "https://27913.live.streamtheworld.com:443/PULAAAC.aac"
+    },
+    {
+        "name": "Hrvatski Radio Vukovar",
+        "city": "Osijek",
+        "country": "Croatia",
+        "url": "http://live.hrv.hr:8000/hrv"
+    },
+    {
+        "name": "Radio ROJC 87.7 FM",
+        "city": "Pula",
+        "country": "Croatia",
+        "url": "https://cf.widecastcdn.live/Z07ww1NUNl/live.mp3"
+    },
+    {
+        "name": "Obiteljski Radio Ivanic",
+        "city": "Bjelovar",
+        "country": "Croatia",
+        "url": "http://s8.iqstreaming.com:8080/stream"
+    },
+    {
+        "name": "Studio M 98.8",
+        "city": "Bjelovar",
+        "country": "Croatia",
+        "url": "https://a4.asurahosting.com:7090/studiom.aac"
+    },
+    {
+        "name": "Radio Vinkovci",
+        "city": "Osijek",
+        "country": "Croatia",
+        "url": "https://radio.orbis.hr/8006/stream"
+    },
+    {
+        "name": "Radio Županja FM 94.5",
+        "city": "Osijek",
+        "country": "Croatia",
+        "url": "https://audio.alter-media.hr/8150/stream"
+    },
+    {
+        "name": "Radio Maestral FM 95.4",
+        "city": "Pula",
+        "country": "Croatia",
+        "url": "https://ec2s.crolive.com.hr:1635/stream"
+    },
+    {
+        "name": "Radio Slavonija",
+        "city": "Slavonski Brod",
+        "country": "Croatia",
+        "url": "http://s8.iqstreaming.com:8026/stream"
+    },
+    {
+        "name": "Radio Virovitica FM 92.9",
+        "city": "Virovitica",
+        "country": "Croatia",
+        "url": "https://streaming.icv.hr/8002/stream"
+    },
+    {
+        "name": "Podravski Radio FM 87.6",
+        "city": "Bjelovar",
+        "country": "Croatia",
+        "url": "https://streaming.podravskiradio.hr/live"
+    },
+    {
+        "name": "Radio Prkos FM 91",
+        "city": "Virovitica",
+        "country": "Croatia",
+        "url": "https://eu7.fastcast4u.com/proxy/radioprk?mp=/1"
+    },
+    {
+        "name": "Radio Drava FM 92.5",
+        "city": "Bjelovar",
+        "country": "Croatia",
+        "url": "https://streaming.radio-drava.hr/live"
+    },
+    {
+        "name": "The Room FM 97.0",
+        "city": "Virovitica",
+        "country": "Croatia",
+        "url": "https://cast6.my-control-panel.com/proxy/theroomfm/stream"
+    },
+    {
+        "name": "Novi Radio FM 99.5",
+        "city": "Đakovo",
+        "country": "Croatia",
+        "url": "https://ec2s.crolive.com.hr:2385/stream"
+    },
+    {
+        "name": "Radio Centar",
+        "city": "Pula",
+        "country": "Croatia",
+        "url": "https://radiocentar.hr:8282/mp3"
+    },
+    {
+        "name": "Radio Brod FM 101.3",
+        "city": "Slavonski Brod",
+        "country": "Croatia",
+        "url": "http://194.145.208.251:8010/stream"
+    },
+    {
+        "name": "Laganini FM 101.3",
+        "city": "Slavonski Brod",
+        "country": "Croatia",
+        "url": "http://194.145.208.251:8010/index.html?sid=1"
+    },
+    {
+        "name": "Radio Ðakovo",
+        "city": "Đakovo",
+        "country": "Croatia",
+        "url": "https://ec2s.crolive.com.hr:8305/stream"
+    },
+    {
+        "name": "Radio Sjeverozapad FM 95.2",
+        "city": "Varaždin",
+        "country": "Croatia",
+        "url": "https://a4.asurahosting.com:7840/radio.mp3"
+    },
+    {
+        "name": "Radio Sisak FM 89.4",
+        "city": "Sisak",
+        "country": "Croatia",
+        "url": "http://c5.hostingcentar.com:8092/stream"
+    },
+    {
+        "name": "Slavonski Radio FM 106.2",
+        "city": "Osijek",
+        "country": "Croatia",
+        "url": "https://ec2s.crolive.com.hr:8035/stream"
+    },
+    {
+        "name": "Antena Radio FM 88.7",
+        "city": "Slavonski Brod",
+        "country": "Croatia",
+        "url": "https://radio.tnt.ba:8020/live"
+    },
+    {
+        "name": "Sjeverni FM 92.8",
+        "city": "Varaždin",
+        "country": "Croatia",
+        "url": "https://live.sjeverni.fm/radio/8000/radio.mp3"
+    },
+    {
+        "name": "Radio92 FM",
+        "city": "Slavonski Brod",
+        "country": "Croatia",
+        "url": "https://stream.radio92.eu/"
+    },
+    {
+        "name": "Alfa Radio FM 100.1",
+        "city": "Bjelovar",
+        "country": "Croatia",
+        "url": "https://ec2s.crolive.com.hr:2535/stream"
+    },
+    {
+        "name": "Radio Sisačko Moslavački FM 91.7",
+        "city": "Sisak",
+        "country": "Croatia",
+        "url": "https://s8.iqstreaming.com:2020/stream/radio_quirinus/stream"
+    },
+    {
+        "name": "Radio Ludbreg",
+        "city": "Varaždin",
+        "country": "Croatia",
+        "url": "https://a1.asurahosting.com/listen/radioludbreg/radio.mp3"
+    },
+    {
+        "name": "Radio K3 FM",
+        "city": "Slavonski Brod",
+        "country": "Croatia",
+        "url": "https://s1.mojstream.eu:8164/stream"
+    },
+    {
+        "name": "Radio 1 FM 105.6",
+        "city": "Varaždin",
+        "country": "Croatia",
+        "url": "https://azuracast.novi-net.net/radio/8020/radio1.aac"
+    },
+    {
+        "name": "Radio 105 Selnica",
+        "city": "Varaždin",
+        "country": "Croatia",
+        "url": "https://azuracast.novi-net.net/radio/8050/radio105.aac"
+    },
+    {
+        "name": "Radio Max FM 99.3",
+        "city": "Varaždin",
+        "country": "Croatia",
+        "url": "https://azuracast.novi-net.net/radio/8010/radiomax.aac"
+    },
+    {
+        "name": "HIT Radio",
+        "city": "Vinkovci",
+        "country": "Croatia",
+        "url": "http://80.242.123.180:8080/radio/hit/icecast.audio"
+    },
+    {
+        "name": "Radio Moslavina 101.4 FM",
+        "city": "Sisak",
+        "country": "Croatia",
+        "url": "https://s8.iqstreaming.com:2020/stream/rmoslavina"
+    },
+    {
+        "name": "Radio Daruvar",
+        "city": "Bjelovar",
+        "country": "Croatia",
+        "url": "https://mcp1.mydataknox.com:8016/live.mp3"
+    },
+    {
+        "name": "Soundset Ragusa FM 107",
+        "city": "Dubrovnik",
+        "country": "Croatia",
+        "url": "http://178.218.163.171:8012/stream"
+    },
+    {
+        "name": "RTV Puls Brčko",
+        "city": "Vukovar",
+        "country": "Croatia",
+        "url": "https://a8.asurahosting.com:6730/radio.mp3"
+    },
+    {
+        "name": "Radiopostaja Čapljina FM 91.3",
+        "city": "Dubrovnik",
+        "country": "Croatia",
+        "url": "http://s8.iqstreaming.com:8016/stream"
+    },
+    {
+        "name": "Krajiški Radio Dubica",
+        "city": "Sisak",
+        "country": "Croatia",
+        "url": "https://stream1.srvnetplus.com:18039/radio/8020/radio.mp3"
+    },
+    {
+        "name": "UNIDU Radio",
+        "city": "Dubrovnik",
+        "country": "Croatia",
+        "url": "http://radio.unios.hr:8000/unidu"
+    },
+    {
+        "name": "Super Radio 89.0 FM",
+        "city": "Bjelovar",
+        "country": "Croatia",
+        "url": "https://mcp1.mydataknox.com:8010/stream"
+    },
+    {
+        "name": "Radio Ilok 101.3FM",
+        "city": "Vukovar",
+        "country": "Croatia",
+        "url": "https://eu8.fastcast4u.com/proxy/radioilok/stream"
+    },
+    {
+        "name": "Radio Ljubuški",
+        "city": "Dubrovnik",
+        "country": "Croatia",
+        "url": "https://s8.iqstreaming.com:8044/stream"
+    },
+    {
+        "name": "Radiopostaja Mir Međugorje",
+        "city": "Dubrovnik",
+        "country": "Croatia",
+        "url": "https://mirm.live/mir.mp3"
+    },
+    {
+        "name": "Radio More",
+        "city": "Šibenik",
+        "country": "Croatia",
+        "url": "https://s5.radio.co/s8cf5effc6/listen"
+    },
+    {
+        "name": "Radio Ritam FM 106.4",
+        "city": "Šibenik",
+        "country": "Croatia",
+        "url": "https://ec2s.crolive.com.hr:8455/stream"
+    },
+    {
+        "name": "Tamburaški radio",
+        "city": "Vukovar",
+        "country": "Croatia",
+        "url": "https://listen.radioking.com/radio/552965/stream/612287"
+    },
+    {
+        "name": "Radio Hercegovina",
+        "city": "Dubrovnik",
+        "country": "Croatia",
+        "url": "https://stream-166.zeno.fm/zbvhpce44hhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ6YnZocGNlNDRoaHZ2IiwiaG9zdCI6InN0cmVhbS0xNjYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiU3UzNXZsNGlTSzI2M25hbHpDczlOZyIsImlhdCI6MTc2OTQxNzk3MiwiZXhwIjoxNzY5NDE4MDMyfQ.oH52pLdKXO-uEgWCSWVtnPiceYXRZymoMlWjLmpQMZI"
+    },
+    {
+        "name": "HR Radio Dubrovnik",
+        "city": "Dubrovnik",
+        "country": "Croatia",
+        "url": "https://27753.live.streamtheworld.com:443/DUBROVNIKAAC.aac"
+    }
+]

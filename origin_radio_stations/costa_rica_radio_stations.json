@@ -1,0 +1,482 @@
+[
+  {
+    "id": "costa-radio-omega-1051-fm",
+    "name": "Radio Omega 105.1 FM",
+    "url": "http://rtvhd.net:9932/;*.nsv",
+    "genre": "Music",
+    "city": "San José",
+    "country": "Costa Rica",
+    "lat": 9.9327707,
+    "lng": -84.0796144
+  },
+  {
+    "id": "costa-kayfa-radio",
+    "name": "Kayfa Radio",
+    "url": "https://stream20.usastreams.com/8060/stream",
+    "genre": "Music",
+    "city": "San José",
+    "country": "Costa Rica",
+    "lat": 9.9327707,
+    "lng": -84.0796144
+  },
+  {
+    "id": "costa-radio-spectro",
+    "name": "Radio Spectro",
+    "url": "https://stream20.usastreams.com/8090/stream",
+    "genre": "Music",
+    "city": "San José",
+    "country": "Costa Rica",
+    "lat": 9.9327707,
+    "lng": -84.0796144
+  },
+  {
+    "id": "costa-radio-sinfonola-903-fm",
+    "name": "Radio Sinfonola 90.3 FM",
+    "url": "https://live.turadio.stream:7006/index.html?sid=1",
+    "genre": "Music",
+    "city": "San José",
+    "country": "Costa Rica",
+    "lat": 9.9327707,
+    "lng": -84.0796144
+  },
+  {
+    "id": "costa-stereo-vision-internacional-fm-983",
+    "name": "Stereo Vision Internacional FM 98.3",
+    "url": "https://live.turadio.stream:7009/index.html?sid=1",
+    "genre": "Music",
+    "city": "San José",
+    "country": "Costa Rica",
+    "lat": 9.9327707,
+    "lng": -84.0796144
+  },
+  {
+    "id": "costa-radio-hit-1047",
+    "name": "Radio Hit 104.7",
+    "url": "https://live.turadio.stream:7004/stream",
+    "genre": "Music",
+    "city": "San José",
+    "country": "Costa Rica",
+    "lat": 9.9327707,
+    "lng": -84.0796144
+  },
+  {
+    "id": "costa-radio-musical-975-fm",
+    "name": "Radio Musical 97.5 FM",
+    "url": "https://live.turadio.stream:7005/stream",
+    "genre": "Music",
+    "city": "San José",
+    "country": "Costa Rica",
+    "lat": 9.9327707,
+    "lng": -84.0796144
+  },
+  {
+    "id": "costa-dabar-radio",
+    "name": "Dabar Radio",
+    "url": "https://a1.asurahosting.com/listen/dabarrad/radio.mp3",
+    "genre": "Music",
+    "city": "San José",
+    "country": "Costa Rica",
+    "lat": 9.9327707,
+    "lng": -84.0796144
+  },
+  {
+    "id": "costa-radio-rhema-am-640",
+    "name": "Radio Rhema AM 640",
+    "url": "https://rr5100.globalhost1.com/8004/stream",
+    "genre": "Music",
+    "city": "San José",
+    "country": "Costa Rica",
+    "lat": 9.9327707,
+    "lng": -84.0796144
+  },
+  {
+    "id": "costa-radio-la-gigante-800-am",
+    "name": "Radio La Gigante 800 am",
+    "url": "https://radiolatina.info:10989/stream/",
+    "genre": "Music",
+    "city": "San José",
+    "country": "Costa Rica",
+    "lat": 9.9327707,
+    "lng": -84.0796144
+  },
+  {
+    "id": "costa-hit-la-radio",
+    "name": "HIT La Radio",
+    "url": "https://radio.hitmedios.com/listen/hit_la_radio/radio.mp3",
+    "genre": "Music",
+    "city": "San José",
+    "country": "Costa Rica",
+    "lat": 9.9327707,
+    "lng": -84.0796144
+  },
+  {
+    "id": "costa-radio-zona-latina",
+    "name": "Radio Zona Latina",
+    "url": "https://guri.tepuyserver.net/8068/stream",
+    "genre": "Music",
+    "city": "San José",
+    "country": "Costa Rica",
+    "lat": 9.9327707,
+    "lng": -84.0796144
+  },
+  {
+    "id": "costa-radio-nostalgias",
+    "name": "Radio Nostalgias",
+    "url": "https://guri.tepuyserver.net/8084/stream/",
+    "genre": "Music",
+    "city": "San José",
+    "country": "Costa Rica",
+    "lat": 9.9327707,
+    "lng": -84.0796144
+  },
+  {
+    "id": "costa-tatas-radio",
+    "name": "Tatas Radio",
+    "url": "https://stream-178.zeno.fm/qenu6fkdwzzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxZW51NmZrZHd6enV2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiT2dHTU9XOE9Rd1dDTHRLNEhnMmlfZyIsImlhdCI6MTc2OTQxNzg5OSwiZXhwIjoxNzY5NDE3OTU5fQ.Elav2jIlK3nuBqT8_xj1er7Jil73ZMMOLQ6WZf_Wk68",
+    "genre": "Music",
+    "city": "San José",
+    "country": "Costa Rica",
+    "lat": 9.9327707,
+    "lng": -84.0796144
+  },
+  {
+    "id": "costa-columbia-fm-987",
+    "name": "Columbia FM 98.7",
+    "url": "https://s2.radio.co/s83b86382e/listen",
+    "genre": "Music",
+    "city": "San José",
+    "country": "Costa Rica",
+    "lat": 9.9327707,
+    "lng": -84.0796144
+  },
+  {
+    "id": "costa-la-caliente-907-fm",
+    "name": "La Caliente 90.7 FM",
+    "url": "https://us-b4-p-e-ja16-audio.cdn.mdstrm.com/live-audio-aw/672d00c08cff752b2de2dc1f?aid=579bd29dc99290cf08362c3b&property=radio-garden&pid=suPFIEfIB3s7buXZdUHXIqgXru5AcG6j&sid=gO1o5h4JXPyNOSuDmnH8W4o9DOvmVUx9&uid=hFBeeBn2SDvIJzm9rH1evbD1VS8Wvtnf&es=us-b4-p-e-ja16-audio.cdn.mdstrm.com&ote=1769504299250&ot=GblifzKj_QE2vUDjyK1aRA&proto=https&pz=us&cP=128000&awCollectionId=579bd29dc99290cf08362c3b&aw_0_1st.playerId=radio-garden&liveId=672d00c08cff752b2de2dc1f&referer=https%3A%2F%2Fradio.garden%2F&propertyName=radio-garden&propertyType=rss-app&listenerId=hFBeeBn2SDvIJzm9rH1evbD1VS8Wvtnf",
+    "genre": "Music",
+    "city": "San José",
+    "country": "Costa Rica",
+    "lat": 9.9327707,
+    "lng": -84.0796144
+  },
+  {
+    "id": "costa-la-exitosa-1057-fm",
+    "name": "La Exitosa 105.7 FM",
+    "url": "https://stream9.mexiserver.com/8130/",
+    "genre": "Music",
+    "city": "Santa Cruz",
+    "country": "Costa Rica",
+    "lat": 10.2357588,
+    "lng": -85.6699632
+  },
+  {
+    "id": "costa-columbia-estereo-927-fm",
+    "name": "Columbia Estereo 92.7 FM",
+    "url": "https://s5.radio.co/sca838cc60/listen",
+    "genre": "Music",
+    "city": "San José",
+    "country": "Costa Rica",
+    "lat": 9.9327707,
+    "lng": -84.0796144
+  },
+  {
+    "id": "costa-radio-2",
+    "name": "Radio 2",
+    "url": "https://s5.radio.co/sd515b7b34/listen",
+    "genre": "Music",
+    "city": "San José",
+    "country": "Costa Rica",
+    "lat": 9.9327707,
+    "lng": -84.0796144
+  },
+  {
+    "id": "costa-onda-brava-1041-fm",
+    "name": "Onda Brava 104.1 FM",
+    "url": "https://cast4.my-control-panel.com/proxy/ondabra3/stream",
+    "genre": "Music",
+    "city": "Santa Cruz",
+    "country": "Costa Rica",
+    "lat": 10.2357588,
+    "lng": -85.6699632
+  },
+  {
+    "id": "costa-radio-nosara",
+    "name": "Radio Nosara",
+    "url": "https://sonicpanel.zonaradio.net/8038/stream",
+    "genre": "Music",
+    "city": "Santa Cruz",
+    "country": "Costa Rica",
+    "lat": 10.2357588,
+    "lng": -85.6699632
+  },
+  {
+    "id": "costa-radio-bahía-fm-1079",
+    "name": "Radio Bahía FM 107.9",
+    "url": "https://s40.myradiostream.com/:20178/index.html?sid=1",
+    "genre": "Music",
+    "city": "Santa Cruz",
+    "country": "Costa Rica",
+    "lat": 10.2357588,
+    "lng": -85.6699632
+  },
+  {
+    "id": "costa-radio-casino-983",
+    "name": "Radio Casino 98.3",
+    "url": "https://host.rowrigo.com/radio/8090/radiocasino",
+    "genre": "Music",
+    "city": "Puerto Limón",
+    "country": "Costa Rica",
+    "lat": 9.9899584,
+    "lng": -83.030337
+  },
+  {
+    "id": "costa-radio-diriá",
+    "name": "Radio Diriá",
+    "url": "https://stream-176.zeno.fm/c3st701wttzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjM3N0NzAxd3R0enV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiZFVNbkU1M3VScE81R2NRdHNjbmJ6dyIsImlhdCI6MTc2OTQxNzkwMSwiZXhwIjoxNzY5NDE3OTYxfQ.KrgcGGX5glKlNdIfMdtT9EBUPpm7tiWVhxdMziKirGw",
+    "genre": "Music",
+    "city": "Santa Cruz",
+    "country": "Costa Rica",
+    "lat": 10.2357588,
+    "lng": -85.6699632
+  },
+  {
+    "id": "costa-guanacaste-fm",
+    "name": "Guanacaste FM",
+    "url": "https://stream10.usastreams.com/8008/guanacastefm",
+    "genre": "Music",
+    "city": "Liberia",
+    "country": "Costa Rica",
+    "lat": 10.62967,
+    "lng": -85.4382519
+  },
+  {
+    "id": "costa-radio-andromeda",
+    "name": "Radio Andromeda",
+    "url": "https://c11.radioboss.fm:8071/stream",
+    "genre": "Music",
+    "city": "Santa Cruz",
+    "country": "Costa Rica",
+    "lat": 10.2357588,
+    "lng": -85.6699632
+  },
+  {
+    "id": "costa-radio-uno",
+    "name": "Radio Uno",
+    "url": "https://cloudstream2036.conectarhosting.com/8332/stream",
+    "genre": "Music",
+    "city": "Liberia",
+    "country": "Costa Rica",
+    "lat": 10.62967,
+    "lng": -85.4382519
+  },
+  {
+    "id": "costa-radio-ometepe",
+    "name": "Radio Ometepe",
+    "url": "https://rr5100.globalhost1.com/8240/stream",
+    "genre": "Music",
+    "city": "Liberia",
+    "country": "Costa Rica",
+    "lat": 10.62967,
+    "lng": -85.4382519
+  },
+  {
+    "id": "costa-radio-folklórica",
+    "name": "Radio Folklórica",
+    "url": "https://stream-179.zeno.fm/1vc70hy6u7zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIxdmM3MGh5NnU3enV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiRDlpMGd5RGRUbGlaVnh1eU94bkZnQSIsImlhdCI6MTc2OTQxNzkwMiwiZXhwIjoxNzY5NDE3OTYyfQ.4w3sYmFUht7QbONkSNhI4v9UEbfk6XXDKlSYsRBj9pA",
+    "genre": "Music",
+    "city": "Santa Cruz",
+    "country": "Costa Rica",
+    "lat": 10.2357588,
+    "lng": -85.6699632
+  },
+  {
+    "id": "costa-radio-cultural-fm-883",
+    "name": "Radio Cultural FM 88.3",
+    "url": "https://host.rowrigo.com:8150/radioculturalturrialba",
+    "genre": "Music",
+    "city": "Turrialba",
+    "country": "Costa Rica",
+    "lat": 9.7843604,
+    "lng": -83.4995932
+  },
+  {
+    "id": "costa-radio-online-batalents",
+    "name": "Radio Online Batalents",
+    "url": "https://stream-175.zeno.fm/419zyn1p6x8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0MTl6eW4xcDZ4OHV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiUmdibjh0SkJRQ3FWOXhWNktKV3d4USIsImlhdCI6MTc2OTQxNzkwMywiZXhwIjoxNzY5NDE3OTYzfQ.zdyEJ20gSfwSgDLZjdW0HiLZUy2t5ED7RDVTTbgfXqQ",
+    "genre": "Music",
+    "city": "Puerto Limón",
+    "country": "Costa Rica",
+    "lat": 9.9899584,
+    "lng": -83.030337
+  },
+  {
+    "id": "costa-rj-radio",
+    "name": "Rj Radio",
+    "url": "https://servidor36.brlogic.com:7486/live",
+    "genre": "Music",
+    "city": "San José",
+    "country": "Costa Rica",
+    "lat": 9.9327707,
+    "lng": -84.0796144
+  },
+  {
+    "id": "costa-radio-san-carlos-1430-am",
+    "name": "Radio San Carlos 1430 AM",
+    "url": "https://live.turadio.stream:7010/index.html?sid=1",
+    "genre": "Music",
+    "city": "Quesada",
+    "country": "Costa Rica",
+    "lat": 10.3256704,
+    "lng": -84.4300287
+  },
+  {
+    "id": "costa-88-stereo",
+    "name": "88 Stereo",
+    "url": "https://stream4.305stream.com:9146/stream",
+    "genre": "Music",
+    "city": "Puerto Limón",
+    "country": "Costa Rica",
+    "lat": 9.9899584,
+    "lng": -83.030337
+  },
+  {
+    "id": "costa-urbano-106-fm",
+    "name": "Urbano 106 FM",
+    "url": "https://usa18.fastcast4u.com/proxy/rmoohhrw?mp=/1",
+    "genre": "Music",
+    "city": "Curridabat",
+    "country": "Costa Rica",
+    "lat": 9.9161655,
+    "lng": -84.0308421
+  },
+  {
+    "id": "costa-radio-life-fm-895",
+    "name": "Radio Life FM 89.5",
+    "url": "https://radio.zarza.com/proxy/life?mp=/stream",
+    "genre": "Music",
+    "city": "Curridabat",
+    "country": "Costa Rica",
+    "lat": 9.9161655,
+    "lng": -84.0308421
+  },
+  {
+    "id": "costa-radio-ianjesus",
+    "name": "Radio ianJesus",
+    "url": "https://laradiossl.online:10170/stream",
+    "genre": "Music",
+    "city": "Quesada",
+    "country": "Costa Rica",
+    "lat": 10.3256704,
+    "lng": -84.4300287
+  },
+  {
+    "id": "costa-frontiers-radio",
+    "name": "Frontiers Radio",
+    "url": "https://sonicpanel.us:7054/stream",
+    "genre": "Music",
+    "city": "Puerto Limón",
+    "country": "Costa Rica",
+    "lat": 9.9899584,
+    "lng": -83.030337
+  },
+  {
+    "id": "costa-yamba-radio",
+    "name": "Yamba Radio",
+    "url": "https://stream-178.zeno.fm/00xrx5uv7hhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwMHhyeDV1djdoaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiZDdmS2lHUkpTRktGV1ZFWFZXbzZFZyIsImlhdCI6MTc2OTQxNzkwNSwiZXhwIjoxNzY5NDE3OTY1fQ.dLQWacmK2_KuaLmcPxho-jcS3N-McIafhAkts31mY04",
+    "genre": "Music",
+    "city": "Turrialba",
+    "country": "Costa Rica",
+    "lat": 9.7843604,
+    "lng": -83.4995932
+  },
+  {
+    "id": "costa-radio-tiquicia",
+    "name": "Radio Tiquicia",
+    "url": "https://radio.tiquiciatv.com/listen/radio_tiquicia/radio.mp3",
+    "genre": "Music",
+    "city": "Tarrazu",
+    "country": "Costa Rica",
+    "lat": 9.5828031,
+    "lng": -84.0659187
+  },
+  {
+    "id": "costa-radio-turrialba-1077-fm",
+    "name": "Radio Turrialba 107.7 FM",
+    "url": "https://stream-178.zeno.fm/4nmxaa0n9bhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0bm14YWEwbjliaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiaHZ1OWk5NVlUWC12N3l0bnJxcE5tdyIsImlhdCI6MTc2OTQxNzkwNSwiZXhwIjoxNzY5NDE3OTY1fQ.-w78d_4BnCmMPEhFg0AAJgJu4qQg9s_HuM9KRNGmiB8",
+    "genre": "Music",
+    "city": "Turrialba",
+    "country": "Costa Rica",
+    "lat": 9.7843604,
+    "lng": -83.4995932
+  },
+  {
+    "id": "costa-radio-cultural-los-santos-883-fm",
+    "name": "Radio Cultural Los Santos 88.3 FM",
+    "url": "https://radio.tiquiciatv.com/listen/radio_cultural_los_santos/radio.mp3",
+    "genre": "Music",
+    "city": "San Marcos",
+    "country": "Costa Rica",
+    "lat": 9.662784,
+    "lng": -84.020914
+  },
+  {
+    "id": "costa-radio-cultural-883-fm",
+    "name": "Radio Cultural 88.3 FM",
+    "url": "https://stream-160.zeno.fm/4he9aae3mv8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0aGU5YWFlM212OHV2IiwiaG9zdCI6InN0cmVhbS0xNjAuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiS0hRakJJY3dSM0t6YzVOOWNoZU9aUSIsImlhdCI6MTc2OTQxNzkwNiwiZXhwIjoxNzY5NDE3OTY2fQ.PvVIeQNN4okaQaN6dhvESD72ZWupa0BGwiuisWbajr8",
+    "genre": "Music",
+    "city": "Tilaran",
+    "country": "Costa Rica",
+    "lat": 10.4832237,
+    "lng": -84.9008743
+  },
+  {
+    "id": "costa-gravity-radio-cr",
+    "name": "Gravity Radio CR",
+    "url": "https://ssl.hostingtico.com:7006/stream/",
+    "genre": "Music",
+    "city": "Cartago",
+    "country": "Costa Rica",
+    "lat": 9.8157323,
+    "lng": -83.6943809
+  },
+  {
+    "id": "costa-open-radio-cr-875-fm",
+    "name": "Open Radio CR 87.5 FM",
+    "url": "https://stream-179.zeno.fm/0dqffefm21zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwZHFmZmVmbTIxenV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiQnJ2Qy1FTUVSRk9wQXN6UnVhc2FlQSIsImlhdCI6MTc2OTQxNzkwNiwiZXhwIjoxNzY5NDE3OTY2fQ.hrEPFpOrIVWPzPGH_pFfufwjx9Y0zjidaGNPHoDNpYw",
+    "genre": "Music",
+    "city": "Chacarita",
+    "country": "Costa Rica",
+    "lat": 9.9841883,
+    "lng": -84.7692344
+  },
+  {
+    "id": "costa-radio-cultural-1530-am",
+    "name": "Radio Cultural 1530 AM",
+    "url": "https://stream-177.zeno.fm/3hu6nbg7k5zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIzaHU2bmJnN2s1enV2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiMTVNczQyV01RSS0wZUJCRWMxYUttdyIsImlhdCI6MTc2OTQxNzkwNiwiZXhwIjoxNzY5NDE3OTY2fQ.3qfppk0D-QodmA9kRZCJ7Vc18jYZE1Di-im3plphRJw",
+    "genre": "Music",
+    "city": "Nicoya",
+    "country": "Costa Rica",
+    "lat": 10.103348,
+    "lng": -85.4152942
+  },
+  {
+    "id": "costa-fortuna-radio",
+    "name": "Fortuna Radio",
+    "url": "https://s1.raudiostream.com:8008/stream",
+    "genre": "Music",
+    "city": "San Carlos",
+    "country": "Costa Rica",
+    "lat": 10.6203663,
+    "lng": -84.425816
+  },
+  {
+    "id": "costa-frecuencia-cci",
+    "name": "Frecuencia CCI",
+    "url": "https://streaming.radio.co/s6729aeaac/listen",
+    "genre": "Music",
+    "city": "Quesada",
+    "country": "Costa Rica",
+    "lat": 10.3256704,
+    "lng": -84.4300287
+  }
+]

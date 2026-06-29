@@ -1,0 +1,152 @@
+[
+  {
+    "id": "south-seongnam-fm-907",
+    "name": "Seongnam FM 90.7",
+    "url": "http://115.85.182.39/seongnamfm",
+    "genre": "Music",
+    "city": "Seoul",
+    "country": "South Korea",
+    "lat": 37.5666791,
+    "lng": 126.9782914
+  },
+  {
+    "id": "south-seongseo-community-891-fm",
+    "name": "Seongseo Community 89.1 FM",
+    "url": "http://115.85.182.39/scnfm",
+    "genre": "Music",
+    "city": "Daegu",
+    "country": "South Korea",
+    "lat": 35.8713,
+    "lng": 128.6018
+  },
+  {
+    "id": "south-mapo-fm-1007",
+    "name": "Mapo FM 100.7",
+    "url": "http://onair.mapofm.net/mapofm",
+    "genre": "Music",
+    "city": "Seoul",
+    "country": "South Korea",
+    "lat": 37.5666791,
+    "lng": 126.9782914
+  },
+  {
+    "id": "south-wbs-fm-897",
+    "name": "WBS FM 89.7",
+    "url": "https://wbsradio.kr/wbs-seoul",
+    "genre": "Music",
+    "city": "Seoul",
+    "country": "South Korea",
+    "lat": 37.5666791,
+    "lng": 126.9782914
+  },
+  {
+    "id": "south-wbs-대구원음방송-983",
+    "name": "WBS 대구원음방송 98.3",
+    "url": "https://wbsradio2.kr/wbs-d",
+    "genre": "Music",
+    "city": "Daegu",
+    "country": "South Korea",
+    "lat": 35.8713,
+    "lng": 128.6018
+  },
+  {
+    "id": "south-wbs-광주원음방송-1079",
+    "name": "WBS 광주원음방송 107.9",
+    "url": "https://wbsradio2.kr/wbs-g",
+    "genre": "Music",
+    "city": "Seoul",
+    "country": "South Korea",
+    "lat": 37.5666791,
+    "lng": 126.9782914
+  },
+  {
+    "id": "south-wbs-부산원음방송-1049",
+    "name": "WBS 부산원음방송 104.9",
+    "url": "https://wbsradio2.kr/wbs-b",
+    "genre": "Music",
+    "city": "Seoul",
+    "country": "South Korea",
+    "lat": 37.5666791,
+    "lng": 126.9782914
+  },
+  {
+    "id": "south-エフエムつやま780-mhz",
+    "name": "エフエムつやま78.0 MHz",
+    "url": "http://onair.fm-tsuyama.jp:1080/fmtsuyama_live.ogg",
+    "genre": "Music",
+    "city": "Busan",
+    "country": "South Korea",
+    "lat": 35.1799528,
+    "lng": 129.0752365
+  },
+  {
+    "id": "south-radicro",
+    "name": "RadiCro",
+    "url": "https://radicrojapan.out.airtime.pro/radicrojapan_a",
+    "genre": "Music",
+    "city": "Busan",
+    "country": "South Korea",
+    "lat": 35.1799528,
+    "lng": 129.0752365
+  },
+  {
+    "id": "south-my-hangul-cafe-online-radio",
+    "name": "My Hangul Cafe Online Radio",
+    "url": "https://stream-176.zeno.fm/4zhg2xz4138uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0emhnMnh6NDEzOHV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoieTJ3b2xvLS1TWXlOYkplTlV4RlBQQSIsImlhdCI6MTc2OTQyMzA3NiwiZXhwIjoxNzY5NDIzMTM2fQ.NSy18InOi65-OehT5U4b1xzTDudQOFMSvFogd6-mNkU",
+    "genre": "Music",
+    "city": "Seoul",
+    "country": "South Korea",
+    "lat": 37.5666791,
+    "lng": 126.9782914
+  },
+  {
+    "id": "south-afn-sasebo-fm-931",
+    "name": "AFN Sasebo FM 93.1",
+    "url": "https://25603.live.streamtheworld.com:443/AFNP_SBO.mp3",
+    "genre": "Music",
+    "city": "Seoul",
+    "country": "South Korea",
+    "lat": 37.5666791,
+    "lng": 126.9782914
+  },
+  {
+    "id": "south-pyongyang-fm-1052",
+    "name": "Pyongyang FM 105.2",
+    "url": "https://listen7.myradio24.com/69366",
+    "genre": "Music",
+    "city": "Seoul",
+    "country": "South Korea",
+    "lat": 37.5666791,
+    "lng": 126.9782914
+  },
+  {
+    "id": "south-afn-iwakuni-1575-am",
+    "name": "AFN Iwakuni 1575 AM",
+    "url": "https://17803.live.streamtheworld.com:443/AFNP_IWAAAC.aac",
+    "genre": "Music",
+    "city": "Gwangju",
+    "country": "South Korea",
+    "lat": 35.1594647,
+    "lng": 126.8515034
+  },
+  {
+    "id": "south-yahweh-radio",
+    "name": "Yahweh Radio",
+    "url": "https://s3.radio.co/s22189b87c/listen",
+    "genre": "Music",
+    "city": "Seoul",
+    "country": "South Korea",
+    "lat": 37.5666791,
+    "lng": 126.9782914
+  },
+  {
+    "id": "south-arirang-radio-fm-914",
+    "name": "Arirang Radio FM 91.4",
+    "url": "https://lhttp.qingting.fm/live/5022144/64k.mp3",
+    "genre": "Music",
+    "city": "Seoul",
+    "country": "South Korea",
+    "lat": 37.5666791,
+    "lng": 126.9782914
+  }
+]

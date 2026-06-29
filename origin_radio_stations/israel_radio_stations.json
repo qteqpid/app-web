@@ -1,0 +1,762 @@
+[
+  {
+    "id": "israel-radio-kol-hasfela",
+    "name": "Radio Kol Hasfela",
+    "url": "https://radio.streamgates.net/stream/1036kh",
+    "genre": "Music",
+    "city": "Rosh Haayin",
+    "country": "Israel",
+    "lat": 32.0952929,
+    "lng": 34.9533225
+  },
+  {
+    "id": "israel-glz",
+    "name": "GLZ",
+    "url": "https://glzwizzlv.bynetcdn.com/glz_mp3",
+    "genre": "Music",
+    "city": "Rosh Haayin",
+    "country": "Israel",
+    "lat": 32.0952929,
+    "lng": 34.9533225
+  },
+  {
+    "id": "israel-kol-hail-fm-928",
+    "name": "Kol Hail FM 92.8",
+    "url": "https://live.kcm.fm/live-new",
+    "genre": "Music",
+    "city": "Rosh Haayin",
+    "country": "Israel",
+    "lat": 32.0952929,
+    "lng": 34.9533225
+  },
+  {
+    "id": "israel-100fm-100%-love",
+    "name": "100fm 100% Love",
+    "url": "https://gb25.streamgates.net/radios-audio/100Love/icecast.audio",
+    "genre": "Music",
+    "city": "Rosh Haayin",
+    "country": "Israel",
+    "lat": 32.0952929,
+    "lng": 34.9533225
+  },
+  {
+    "id": "israel-100fm-drivetime",
+    "name": "100fm Drivetime",
+    "url": "https://gb25.streamgates.net/radios-audio/100Drivetime/icecast.audio",
+    "genre": "Music",
+    "city": "Rosh Haayin",
+    "country": "Israel",
+    "lat": 32.0952929,
+    "lng": 34.9533225
+  },
+  {
+    "id": "israel-100fm-80s",
+    "name": "100fm 80's",
+    "url": "https://gb25.streamgates.net/radios-audio/10080s/icecast.audio",
+    "genre": "Music",
+    "city": "Rosh Haayin",
+    "country": "Israel",
+    "lat": 32.0952929,
+    "lng": 34.9533225
+  },
+  {
+    "id": "israel-galgalaz",
+    "name": "Galgalaz",
+    "url": "https://glzicylv01.bynetcdn.com/glglz_mp3",
+    "genre": "Music",
+    "city": "Rosh Haayin",
+    "country": "Israel",
+    "lat": 32.0952929,
+    "lng": 34.9533225
+  },
+  {
+    "id": "israel-100fm-live",
+    "name": "100fm Live",
+    "url": "https://gb25.streamgates.net/radios-audio/100Live/icecast.audio",
+    "genre": "Music",
+    "city": "Rosh Haayin",
+    "country": "Israel",
+    "lat": 32.0952929,
+    "lng": 34.9533225
+  },
+  {
+    "id": "israel-100fm-100%-hits",
+    "name": "100fm 100% Hits",
+    "url": "https://gb25.streamgates.net/radios-audio/100Hits/icecast.audio",
+    "genre": "Music",
+    "city": "Rosh Haayin",
+    "country": "Israel",
+    "lat": 32.0952929,
+    "lng": 34.9533225
+  },
+  {
+    "id": "israel-100fm-cafe",
+    "name": "100fm Cafe",
+    "url": "https://gb25.streamgates.net/radios-audio/100Cafe/icecast.audio",
+    "genre": "Music",
+    "city": "Rosh Haayin",
+    "country": "Israel",
+    "lat": 32.0952929,
+    "lng": 34.9533225
+  },
+  {
+    "id": "israel-100fm-trance",
+    "name": "100fm Trance",
+    "url": "https://gb25.streamgates.net/radios-audio/100Trance/icecast.audio",
+    "genre": "Music",
+    "city": "Rosh Haayin",
+    "country": "Israel",
+    "lat": 32.0952929,
+    "lng": 34.9533225
+  },
+  {
+    "id": "israel-100fm-100%-israeli",
+    "name": "100fm 100% Israeli",
+    "url": "https://gb25.streamgates.net/radios-audio/100Israeli/icecast.audio",
+    "genre": "Music",
+    "city": "Rosh Haayin",
+    "country": "Israel",
+    "lat": 32.0952929,
+    "lng": 34.9533225
+  },
+  {
+    "id": "israel-100fm-nostalgia",
+    "name": "100fm Nostalgia",
+    "url": "https://gb25.streamgates.net/radios-audio/100Nostalgia/icecast.audio",
+    "genre": "Music",
+    "city": "Rosh Haayin",
+    "country": "Israel",
+    "lat": 32.0952929,
+    "lng": 34.9533225
+  },
+  {
+    "id": "israel-100fm",
+    "name": "100fm",
+    "url": "https://cdn.cybercdn.live/Radios_100FM/Audio/icecast.audio",
+    "genre": "Music",
+    "city": "Rosh Haayin",
+    "country": "Israel",
+    "lat": 32.0952929,
+    "lng": 34.9533225
+  },
+  {
+    "id": "israel-100fm-100%-oldies",
+    "name": "100fm 100% Oldies",
+    "url": "https://gb25.streamgates.net/radios-audio/100Oldies/icecast.audio",
+    "genre": "Music",
+    "city": "Rosh Haayin",
+    "country": "Israel",
+    "lat": 32.0952929,
+    "lng": 34.9533225
+  },
+  {
+    "id": "israel-100fm-70s",
+    "name": "100fm 70's",
+    "url": "https://gb25.streamgates.net/radios-audio/10070s/icecast.audio",
+    "genre": "Music",
+    "city": "Rosh Haayin",
+    "country": "Israel",
+    "lat": 32.0952929,
+    "lng": 34.9533225
+  },
+  {
+    "id": "israel-radio-plus",
+    "name": "Radio Plus",
+    "url": "https://s3.yesstreaming.net:7049/stream",
+    "genre": "Music",
+    "city": "Rosh Haayin",
+    "country": "Israel",
+    "lat": 32.0952929,
+    "lng": 34.9533225
+  },
+  {
+    "id": "israel-radio-lev-hamedina-91-fm",
+    "name": "Radio Lev Hamedina 91 FM",
+    "url": "https://cdn.cybercdn.live/Lev_Hamedina/Audio/icecast.audio",
+    "genre": "Music",
+    "city": "Rosh Haayin",
+    "country": "Israel",
+    "lat": 32.0952929,
+    "lng": 34.9533225
+  },
+  {
+    "id": "israel-the-voice-of-the-university",
+    "name": "The Voice of the University",
+    "url": "https://1062onair.runi.ac.il/idc123.mp3",
+    "genre": "Music",
+    "city": "Rosh Haayin",
+    "country": "Israel",
+    "lat": 32.0952929,
+    "lng": 34.9533225
+  },
+  {
+    "id": "israel-kan-reshet-bet",
+    "name": "Kan Reshet Bet",
+    "url": "https://25653.live.streamtheworld.com:443/KAN_BET.mp3",
+    "genre": "Music",
+    "city": "Rosh Haayin",
+    "country": "Israel",
+    "lat": 32.0952929,
+    "lng": 34.9533225
+  },
+  {
+    "id": "israel-tederfm",
+    "name": "Teder.FM",
+    "url": "https://radio.streamgates.net/stream/teder",
+    "genre": "Music",
+    "city": "Tel Aviv-Yafo",
+    "country": "Israel",
+    "lat": 32.0852997,
+    "lng": 34.7818064
+  },
+  {
+    "id": "israel-radio-metsiot",
+    "name": "Radio Metsiot",
+    "url": "https://carina.streamerr.co/stream/metsiot1",
+    "genre": "Music",
+    "city": "Tel Aviv-Yafo",
+    "country": "Israel",
+    "lat": 32.0852997,
+    "lng": 34.7818064
+  },
+  {
+    "id": "israel-breslevforyou:-knowledge-rabenu",
+    "name": "BreslevForYou: Knowledge Rabenu",
+    "url": "https://cast.breslevforyou.co.il/listen/radiobreslev/radio.mp3",
+    "genre": "Music",
+    "city": "Jerusalem",
+    "country": "Israel",
+    "lat": 31.7788472,
+    "lng": 35.2257856
+  },
+  {
+    "id": "israel-רדיו-מזרחית-בנשמה",
+    "name": "רדיו מזרחית בנשמה",
+    "url": "https://live.ecast.co.il/stream/radioneto1",
+    "genre": "Music",
+    "city": "Tel Aviv-Yafo",
+    "country": "Israel",
+    "lat": 32.0852997,
+    "lng": 34.7818064
+  },
+  {
+    "id": "israel-eco99fm",
+    "name": "Eco99fm",
+    "url": "https://eco01.livecdn.biz/ecolive/99fm_aac/icecast.audio",
+    "genre": "Music",
+    "city": "Rosh Haayin",
+    "country": "Israel",
+    "lat": 32.0952929,
+    "lng": 34.9533225
+  },
+  {
+    "id": "israel-streetstune",
+    "name": "Streetstune",
+    "url": "https://live.ecast.co.il/stream/streetstune",
+    "genre": "Music",
+    "city": "Tel Aviv-Yafo",
+    "country": "Israel",
+    "lat": 32.0852997,
+    "lng": 34.7818064
+  },
+  {
+    "id": "israel-radio-hevrati",
+    "name": "Radio Hevrati",
+    "url": "https://live.ecast.co.il/stream/hevrati",
+    "genre": "Music",
+    "city": "Tel Aviv-Yafo",
+    "country": "Israel",
+    "lat": 32.0852997,
+    "lng": 34.7818064
+  },
+  {
+    "id": "israel-glz-918-fm",
+    "name": "GLZ 91.8 FM",
+    "url": "https://glzwizzlv.bynetcdn.com/glglz_mp3?awCollectionId=misc&awEpisodeId=glglz",
+    "genre": "Music",
+    "city": "Tel Aviv-Yafo",
+    "country": "Israel",
+    "lat": 32.0852997,
+    "lng": 34.7818064
+  },
+  {
+    "id": "israel-kol-rishonim-1062fm",
+    "name": "Kol Rishonim 106.2FM",
+    "url": "https://live.ecast.co.il:8018/stream0.1189752656337042",
+    "genre": "Music",
+    "city": "Tel Aviv-Yafo",
+    "country": "Israel",
+    "lat": 32.0852997,
+    "lng": 34.7818064
+  },
+  {
+    "id": "israel-breslev-radio-kol-neechal",
+    "name": "Breslev Radio Kol Neechal",
+    "url": "https://cast4.asurahosting.com/proxy/yaniv/stream",
+    "genre": "Music",
+    "city": "Jerusalem",
+    "country": "Israel",
+    "lat": 31.7788472,
+    "lng": 35.2257856
+  },
+  {
+    "id": "israel-radio-103-fm",
+    "name": "Radio 103 FM",
+    "url": "https://cdn.cybercdn.live/103FM/Live/icecast.audio",
+    "genre": "Music",
+    "city": "Rosh Haayin",
+    "country": "Israel",
+    "lat": 32.0952929,
+    "lng": 34.9533225
+  },
+  {
+    "id": "israel-radio-plus",
+    "name": "Radio Plus",
+    "url": "https://s3.yesstreaming.net:17049/stream/",
+    "genre": "Music",
+    "city": "Tel Aviv-Yafo",
+    "country": "Israel",
+    "lat": 32.0852997,
+    "lng": 34.7818064
+  },
+  {
+    "id": "israel-up2dance-radio",
+    "name": "Up2Dance Radio",
+    "url": "https://icecast.live/proxy/up2dance/up2dance",
+    "genre": "Music",
+    "city": "Tel Aviv-Yafo",
+    "country": "Israel",
+    "lat": 32.0852997,
+    "lng": 34.7818064
+  },
+  {
+    "id": "israel-breslav-radio--kolhanachal",
+    "name": "Breslav Radio - KolHaNachal",
+    "url": "https://cast.ereznet.co.il/radio/8070/radio.mp3",
+    "genre": "Music",
+    "city": "Jerusalem",
+    "country": "Israel",
+    "lat": 31.7788472,
+    "lng": 35.2257856
+  },
+  {
+    "id": "israel-radio-tel-aviv-102-fm",
+    "name": "Radio Tel Aviv 102 FM",
+    "url": "https://cdn88.mediacast.co.il/102fm-tlv/102fm_aac/icecast.audio",
+    "genre": "Music",
+    "city": "Tel Aviv-Yafo",
+    "country": "Israel",
+    "lat": 32.0852997,
+    "lng": 34.7818064
+  },
+  {
+    "id": "israel-radio-jerusalem",
+    "name": "Radio Jerusalem",
+    "url": "https://radio.streamgates.net/stream/101fm",
+    "genre": "Music",
+    "city": "Jerusalem",
+    "country": "Israel",
+    "lat": 31.7788472,
+    "lng": 35.2257856
+  },
+  {
+    "id": "israel-toker-fm",
+    "name": "Toker FM",
+    "url": "https://broadcast.adpronet.com/radio/6060/radio.mp3",
+    "genre": "Music",
+    "city": "Jerusalem",
+    "country": "Israel",
+    "lat": 31.7788472,
+    "lng": 35.2257856
+  },
+  {
+    "id": "israel-gly--israel-waves",
+    "name": "Gly - Israel Waves",
+    "url": "https://cdn.cybercdn.live/Galei_Israel/Live/icecast.audio",
+    "genre": "Music",
+    "city": "Jerusalem",
+    "country": "Israel",
+    "lat": 31.7788472,
+    "lng": 35.2257856
+  },
+  {
+    "id": "israel-joint-radio-beat",
+    "name": "Joint Radio Beat",
+    "url": "https://betelgeuse.nucast.co.uk/stream/jrn-beat",
+    "genre": "Music",
+    "city": "Tel Aviv-Yafo",
+    "country": "Israel",
+    "lat": 32.0852997,
+    "lng": 34.7818064
+  },
+  {
+    "id": "israel-glz-galley-zahal",
+    "name": "GLZ Galley Zahal",
+    "url": "https://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&awEpisodeId=glz",
+    "genre": "Music",
+    "city": "Tel Aviv-Yafo",
+    "country": "Israel",
+    "lat": 32.0852997,
+    "lng": 34.7818064
+  },
+  {
+    "id": "israel-torah-box-radio",
+    "name": "Torah-Box Radio",
+    "url": "https://radio.torah-box.com:8443/_a",
+    "genre": "Music",
+    "city": "Jerusalem",
+    "country": "Israel",
+    "lat": 31.7788472,
+    "lng": 35.2257856
+  },
+  {
+    "id": "israel-radio-fix-2525",
+    "name": "Radio Fix 2525",
+    "url": "https://stream3.rcast.net/72648",
+    "genre": "Music",
+    "city": "Haifa",
+    "country": "Israel",
+    "lat": 32.8191218,
+    "lng": 34.9983856
+  },
+  {
+    "id": "israel-kol-yizrael-106-fm",
+    "name": "Kol Yizrael 106 FM",
+    "url": "http://yezreel.cdnwz.net/yezreel",
+    "genre": "Music",
+    "city": "Haifa",
+    "country": "Israel",
+    "lat": 32.8191218,
+    "lng": 34.9983856
+  },
+  {
+    "id": "israel-רדיו-כחול-לבן--radio-kahol-lavan",
+    "name": "רדיו כחול לבן - Radio Kahol Lavan",
+    "url": "https://ams-pioneer02.dedicateware.com/appa",
+    "genre": "Music",
+    "city": "Jerusalem",
+    "country": "Israel",
+    "lat": 31.7788472,
+    "lng": 35.2257856
+  },
+  {
+    "id": "israel-radio-el-hi",
+    "name": "Radio EL-HI",
+    "url": "https://a2.asurahosting.com:6760/radio.mp3",
+    "genre": "Music",
+    "city": "Haifa",
+    "country": "Israel",
+    "lat": 32.8191218,
+    "lng": 34.9983856
+  },
+  {
+    "id": "israel-radio-kol-rega",
+    "name": "Radio Kol Rega",
+    "url": "https://radio.streamgates.net/stream/KOLREGA",
+    "genre": "Music",
+    "city": "Haifa",
+    "country": "Israel",
+    "lat": 32.8191218,
+    "lng": 34.9983856
+  },
+  {
+    "id": "israel-radio-haifa-1075-fm",
+    "name": "Radio Haifa 107.5 FM",
+    "url": "https://1075.livecdn.biz/radiohaifa",
+    "genre": "Music",
+    "city": "Haifa",
+    "country": "Israel",
+    "lat": 32.8191218,
+    "lng": 34.9983856
+  },
+  {
+    "id": "israel-radio-ham-esh",
+    "name": "Radio Ham Esh",
+    "url": "https://995.livecdn.biz/995fm",
+    "genre": "Music",
+    "city": "Haifa",
+    "country": "Israel",
+    "lat": 32.8191218,
+    "lng": 34.9983856
+  },
+  {
+    "id": "israel-kol-chai-music-israel",
+    "name": "Kol Chai Music Israel",
+    "url": "https://live.kcm.fm/livemusic",
+    "genre": "Music",
+    "city": "Jerusalem",
+    "country": "Israel",
+    "lat": 31.7788472,
+    "lng": 35.2257856
+  },
+  {
+    "id": "israel-lovely-greek-radio",
+    "name": "Lovely Greek Radio",
+    "url": "https://liveradio.co.il:9060/stream",
+    "genre": "Music",
+    "city": "Haifa",
+    "country": "Israel",
+    "lat": 32.8191218,
+    "lng": 34.9983856
+  },
+  {
+    "id": "israel-jerusalem-24-fm-1061",
+    "name": "Jerusalem 24 FM 106.1",
+    "url": "https://icecast.mada.ps:8404/24fmen",
+    "genre": "Music",
+    "city": "Jerusalem",
+    "country": "Israel",
+    "lat": 31.7788472,
+    "lng": 35.2257856
+  },
+  {
+    "id": "israel-kol-galim-fm-106",
+    "name": "Kol Galim FM 106",
+    "url": "https://live.ecast.co.il/stream/galimlive",
+    "genre": "Music",
+    "city": "Haifa",
+    "country": "Israel",
+    "lat": 32.8191218,
+    "lng": 34.9983856
+  },
+  {
+    "id": "israel-teenbuzz-radio",
+    "name": "TeenBuzz Radio",
+    "url": "https://uksoutha.streaming.broadcast.radio/teenbuzzradio",
+    "genre": "Music",
+    "city": "Haifa",
+    "country": "Israel",
+    "lat": 32.8191218,
+    "lng": 34.9983856
+  },
+  {
+    "id": "israel-hr",
+    "name": "HR",
+    "url": "https://hr.ps/stream",
+    "genre": "Music",
+    "city": "Jerusalem",
+    "country": "Israel",
+    "lat": 31.7788472,
+    "lng": 35.2257856
+  },
+  {
+    "id": "israel-רדיו-עסקים",
+    "name": "רדיו עסקים",
+    "url": "https://icecast.live/ivr",
+    "genre": "Music",
+    "city": "Haifa",
+    "country": "Israel",
+    "lat": 32.8191218,
+    "lng": 34.9983856
+  },
+  {
+    "id": "israel-radio-kol-barama-921-fm",
+    "name": "Radio Kol Barama 92.1 FM",
+    "url": "https://radio.streamgates.net/stream/kolbarama",
+    "genre": "Music",
+    "city": "Bnei Brak",
+    "country": "Israel",
+    "lat": 32.0873899,
+    "lng": 34.8324376
+  },
+  {
+    "id": "israel-eshel-fm-106",
+    "name": "Eshel FM 106",
+    "url": "http://stream.eshelnet.com/xstream",
+    "genre": "Music",
+    "city": "Eilat",
+    "country": "Israel",
+    "lat": 29.5569348,
+    "lng": 34.9497949
+  },
+  {
+    "id": "israel-channel-2000",
+    "name": "Channel 2000",
+    "url": "https://radio.streamgates.net/stream/radio2000",
+    "genre": "Music",
+    "city": "Bnei Brak",
+    "country": "Israel",
+    "lat": 32.0873899,
+    "lng": 34.8324376
+  },
+  {
+    "id": "israel-radio-mawwal-fm-1017",
+    "name": "Radio Mawwal FM 101.7",
+    "url": "https://rstream.hadara.ps/proxy/mawwal/stream.mp3",
+    "genre": "Music",
+    "city": "Jerusalem",
+    "country": "Israel",
+    "lat": 31.7788472,
+    "lng": 35.2257856
+  },
+  {
+    "id": "israel-pervoe-radio-891-fm",
+    "name": "Pervoe Radio 89.1 FM",
+    "url": "https://cdn.cybercdn.live/Pervoia/Audio/icecast.audio",
+    "genre": "Music",
+    "city": "Rishon LeTsiyon",
+    "country": "Israel",
+    "lat": 31.9635712,
+    "lng": 34.8101149
+  },
+  {
+    "id": "israel-radio-savta",
+    "name": "Radio Savta",
+    "url": "https://broadcast.radiosavta.com:8000/radio.mp3",
+    "genre": "Music",
+    "city": "Eilat",
+    "country": "Israel",
+    "lat": 29.5569348,
+    "lng": 34.9497949
+  },
+  {
+    "id": "israel-radio-mariam-nazareth-راديو-مريم-الناصرة",
+    "name": "Radio Mariam Nazareth راديو مريم الناصرة",
+    "url": "https://dreamsiteradiocp5.com/proxy/rmnazareth2?mp=/stream%22",
+    "genre": "Music",
+    "city": "Nazareth",
+    "country": "Israel",
+    "lat": 32.7046364,
+    "lng": 35.2971854
+  },
+  {
+    "id": "israel-100fm-gamer",
+    "name": "100fm Gamer",
+    "url": "https://gb25.streamgates.net/radios-audio/100Gamer/icecast.audio",
+    "genre": "Music",
+    "city": "Rishon LeTsiyon",
+    "country": "Israel",
+    "lat": 31.9635712,
+    "lng": 34.8101149
+  },
+  {
+    "id": "israel-radio-hof-eilat",
+    "name": "Radio Hof Eilat",
+    "url": "https://ec1.yesstreaming.net:3815/stream",
+    "genre": "Music",
+    "city": "Eilat",
+    "country": "Israel",
+    "lat": 29.5569348,
+    "lng": 34.9497949
+  },
+  {
+    "id": "israel-radio-nas-راديو-الناس",
+    "name": "Radio Nas راديو الناس",
+    "url": "https://cdna.streamgates.net/RadioNas/Live-Audio/icecast.audio",
+    "genre": "Music",
+    "city": "Nazareth",
+    "country": "Israel",
+    "lat": 32.7046364,
+    "lng": 35.2971854
+  },
+  {
+    "id": "israel-ashams",
+    "name": "Ashams",
+    "url": "https://cdna.streamgates.net/Ashams/Live/icecast.audio",
+    "genre": "Music",
+    "city": "Nazareth",
+    "country": "Israel",
+    "lat": 32.7046364,
+    "lng": 35.2971854
+  },
+  {
+    "id": "israel-fm-102",
+    "name": "FM 102",
+    "url": "https://cdn.cybercdn.live/Eilat_Radio/Live/icecast.audio",
+    "genre": "Music",
+    "city": "Eilat",
+    "country": "Israel",
+    "lat": 29.5569348,
+    "lng": 34.9497949
+  },
+  {
+    "id": "israel-radio-sahar",
+    "name": "Radio Sahar",
+    "url": "https://live.ecast.co.il/stream/sahar/stream",
+    "genre": "Music",
+    "city": "Eilat",
+    "country": "Israel",
+    "lat": 29.5569348,
+    "lng": 34.9497949
+  },
+  {
+    "id": "israel-ttu-station",
+    "name": "TTU Station",
+    "url": "http://fm.ttu.edu.jo:88/broadwavehigh.mp3",
+    "genre": "Music",
+    "city": "Eilat",
+    "country": "Israel",
+    "lat": 29.5569348,
+    "lng": 34.9497949
+  },
+  {
+    "id": "israel-radio-north-fm-1045",
+    "name": "Radio North FM 104.5",
+    "url": "https://radio.streamgates.net/stream/1045fm",
+    "genre": "Music",
+    "city": "Ma'alot-Tarshiha",
+    "country": "Israel",
+    "lat": 33.0145083,
+    "lng": 35.2848195
+  },
+  {
+    "id": "israel-kol-hagalil-haelion-fm-1053",
+    "name": "Kol Hagalil Haelion FM 105.3",
+    "url": "https://radio.streamgates.net/stream/galil",
+    "genre": "Music",
+    "city": "Ma'alot-Tarshiha",
+    "country": "Israel",
+    "lat": 33.0145083,
+    "lng": 35.2848195
+  },
+  {
+    "id": "israel-hatahana-fm-1015",
+    "name": "HaTahana FM 101.5",
+    "url": "https://cdn.cybercdn.live/Hatahana_1015/Live_Audio/icecast.audio",
+    "genre": "Music",
+    "city": "Ma'alot-Tarshiha",
+    "country": "Israel",
+    "lat": 33.0145083,
+    "lng": 35.2848195
+  },
+  {
+    "id": "israel-sahaba-radio-fm-996-إذاعة-الصحابة-",
+    "name": "Sahaba Radio FM 99.6 إذاعة الصحابة ",
+    "url": "http://s5.voscast.com:10130/index.html?sid=1",
+    "genre": "Music",
+    "city": "Ofakim",
+    "country": "Israel",
+    "lat": 31.3125831,
+    "lng": 34.6208537
+  },
+  {
+    "id": "israel-111fmonline",
+    "name": "111fm.online",
+    "url": "https://stream-178.zeno.fm/a49vayexcg0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJhNDl2YXlleGNnMHV2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiOEM3NXdqaENSd3F2dV9ienVYMnd6ZyIsImlhdCI6MTc2OTQxOTYxNCwiZXhwIjoxNzY5NDE5Njc0fQ.dOmGiHzzHeoVaSIwCxWk2LhmUml2dw9klUTl2ap0i84",
+    "genre": "Music",
+    "city": "Eilat",
+    "country": "Israel",
+    "lat": 29.5569348,
+    "lng": 34.9497949
+  },
+  {
+    "id": "israel-radio-darom-fm-970",
+    "name": "Radio Darom FM 97.0",
+    "url": "https://cdn.cybercdn.live/Darom_97FM/Live/icecast.audio",
+    "genre": "Music",
+    "city": "Be'er Sheva",
+    "country": "Israel",
+    "lat": 31.2457442,
+    "lng": 34.7925181
+  },
+  {
+    "id": "israel-bgu-radio",
+    "name": "BGU Radio",
+    "url": "https://bguradio.co/listen/bguradio/radio.mp3",
+    "genre": "Music",
+    "city": "Midreshet Ben-Gurion",
+    "country": "Israel",
+    "lat": 30.8515927,
+    "lng": 34.7825759
+  }
+]

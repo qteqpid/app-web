@@ -1,0 +1,602 @@
+[
+  {
+    "id": "lithuania-puko-radijas-fm-1073",
+    "name": "Puko Radijas FM 107.3",
+    "url": "http://212.95.45.82:8000/stream",
+    "genre": "Music",
+    "city": "Kaunas",
+    "country": "Lithuania",
+    "lat": 54.8982139,
+    "lng": 23.9044817
+  },
+  {
+    "id": "lithuania-pulsas",
+    "name": "Pulsas",
+    "url": "https://audio-edge-5bkfj.fra.h.radiomast.io/56f301cf-9788-4407-a0db-0bfea5d82b01",
+    "genre": "Music",
+    "city": "Vilnius",
+    "country": "Lithuania",
+    "lat": 54.6870458,
+    "lng": 25.2829111
+  },
+  {
+    "id": "lithuania-mano-fm-94,4-kaunas",
+    "name": "Mano FM 94,4 Kaunas",
+    "url": "http://stream.manofm.lt/listen",
+    "genre": "Music",
+    "city": "Kaunas",
+    "country": "Lithuania",
+    "lat": 54.8982139,
+    "lng": 23.9044817
+  },
+  {
+    "id": "lithuania-lider-fm-943",
+    "name": "Lider FM 94.3",
+    "url": "https://icecast.lider-fm.by/liderfm",
+    "genre": "Music",
+    "city": "Vilnius",
+    "country": "Lithuania",
+    "lat": 54.6870458,
+    "lng": 25.2829111
+  },
+  {
+    "id": "lithuania-marijos-radijas",
+    "name": "Marijos Radijas",
+    "url": "https://dreamsiteradiocp2.com/proxy/rmlithuania2?mp=/stream",
+    "genre": "Music",
+    "city": "Vilnius",
+    "country": "Lithuania",
+    "lat": 54.6870458,
+    "lng": 25.2829111
+  },
+  {
+    "id": "lithuania-alise-plus",
+    "name": "Alise Plus",
+    "url": "https://fm2inet.aliseplus.lv/",
+    "genre": "Music",
+    "city": "Vilnius",
+    "country": "Lithuania",
+    "lat": 54.6870458,
+    "lng": 25.2829111
+  },
+  {
+    "id": "lithuania-beveik-radijas",
+    "name": "Beveik Radijas",
+    "url": "https://halo.streamerr.co/listen/beveikradijas/radio.mp3",
+    "genre": "Music",
+    "city": "Vilnius",
+    "country": "Lithuania",
+    "lat": 54.6870458,
+    "lng": 25.2829111
+  },
+  {
+    "id": "lithuania-extra-fm-1054",
+    "name": "Extra FM 105.4",
+    "url": "https://online.extrafm.lt:8443/extrafm.mp3",
+    "genre": "Music",
+    "city": "Kaunas",
+    "country": "Lithuania",
+    "lat": 54.8982139,
+    "lng": 23.9044817
+  },
+  {
+    "id": "lithuania-gold-fm-1026",
+    "name": "Gold FM 102.6",
+    "url": "https://stream.goldfm.lt/goldfm.mp3",
+    "genre": "Music",
+    "city": "Vilnius",
+    "country": "Lithuania",
+    "lat": 54.6870458,
+    "lng": 25.2829111
+  },
+  {
+    "id": "lithuania-relax-fm",
+    "name": "Relax FM",
+    "url": "https://stream2.relaxfm.lt/relaxfm128.mp3",
+    "genre": "Music",
+    "city": "Vilnius",
+    "country": "Lithuania",
+    "lat": 54.6870458,
+    "lng": 25.2829111
+  },
+  {
+    "id": "lithuania-taurages-radijas",
+    "name": "Taurages Radijas",
+    "url": "http://stream.tauragesradijas.lt:8000/tr1",
+    "genre": "Music",
+    "city": "Kaunas",
+    "country": "Lithuania",
+    "lat": 54.8982139,
+    "lng": 23.9044817
+  },
+  {
+    "id": "lithuania-zip-fm",
+    "name": "Zip FM",
+    "url": "https://stream1.zipfm.lt/zipfm128.mp3",
+    "genre": "Music",
+    "city": "Vilnius",
+    "country": "Lithuania",
+    "lat": 54.6870458,
+    "lng": 25.2829111
+  },
+  {
+    "id": "lithuania-m-1dance",
+    "name": "M-1Dance",
+    "url": "https://stream.m-1.fm/m-1dance/aacp",
+    "genre": "Music",
+    "city": "Vilnius",
+    "country": "Lithuania",
+    "lat": 54.6870458,
+    "lng": 25.2829111
+  },
+  {
+    "id": "lithuania-saules-radijas-1025-fm",
+    "name": "Saules Radijas 102.5 FM",
+    "url": "https://saule-mp3.vinlita.lt/stream",
+    "genre": "Music",
+    "city": "Kaunas",
+    "country": "Lithuania",
+    "lat": 54.8982139,
+    "lng": 23.9044817
+  },
+  {
+    "id": "lithuania-gradio",
+    "name": "Gradio",
+    "url": "http://stream.urdt.lv:8003/gradio.mp3",
+    "genre": "Music",
+    "city": "Klaipėda",
+    "country": "Lithuania",
+    "lat": 55.7127529,
+    "lng": 21.1350469
+  },
+  {
+    "id": "lithuania-fm99",
+    "name": "FM99",
+    "url": "https://securestream.casthost.net:8617/fm99",
+    "genre": "Music",
+    "city": "Vilnius",
+    "country": "Lithuania",
+    "lat": 54.6870458,
+    "lng": 25.2829111
+  },
+  {
+    "id": "lithuania-radijas-tau",
+    "name": "Radijas Tau",
+    "url": "http://radijas.tau.lt:8000/stream2?.mp3/;",
+    "genre": "Music",
+    "city": "Kaunas",
+    "country": "Lithuania",
+    "lat": 54.8982139,
+    "lng": 23.9044817
+  },
+  {
+    "id": "lithuania-lietus-fm",
+    "name": "Lietus FM",
+    "url": "https://stream.m-1.fm/lietus/aacp64",
+    "genre": "Music",
+    "city": "Vilnius",
+    "country": "Lithuania",
+    "lat": 54.6870458,
+    "lng": 25.2829111
+  },
+  {
+    "id": "lithuania-radijas-kelyje-fm-1059",
+    "name": "Radijas Kelyje FM 105.9",
+    "url": "https://solid55.streamupsolutions.com/proxy/opcubjpd/stream",
+    "genre": "Music",
+    "city": "Kaunas",
+    "country": "Lithuania",
+    "lat": 54.8982139,
+    "lng": 23.9044817
+  },
+  {
+    "id": "lithuania-radijo-stotis-m-1",
+    "name": "Radijo Stotis M-1",
+    "url": "https://stream.m-1.fm/m1/aacp64",
+    "genre": "Music",
+    "city": "Vilnius",
+    "country": "Lithuania",
+    "lat": 54.6870458,
+    "lng": 25.2829111
+  },
+  {
+    "id": "lithuania-power-hit-radio-fm-959",
+    "name": "Power Hit Radio FM 95.9",
+    "url": "https://n12.rcs.revma.com/f31w7e0fveuvv?rj-ttl=5&rj-tok=AAABm_m0cn4A0mh7IeXSqLNqng",
+    "genre": "Music",
+    "city": "Vilnius",
+    "country": "Lithuania",
+    "lat": 54.6870458,
+    "lng": 25.2829111
+  },
+  {
+    "id": "lithuania-palanga-street-radio",
+    "name": "Palanga Street Radio",
+    "url": "https://stream.palanga.live:8443/palanga128.mp3",
+    "genre": "Music",
+    "city": "Vilnius",
+    "country": "Lithuania",
+    "lat": 54.6870458,
+    "lng": 25.2829111
+  },
+  {
+    "id": "lithuania-kurzemes-radio",
+    "name": "Kurzemes Radio",
+    "url": "http://31.170.16.6:8000/index.html?sid=1",
+    "genre": "Music",
+    "city": "Klaipėda",
+    "country": "Lithuania",
+    "lat": 55.7127529,
+    "lng": 21.1350469
+  },
+  {
+    "id": "lithuania-radijo-stotis-laluna",
+    "name": "Radijo stotis Laluna",
+    "url": "https://radio.m-1.fm/laluna/mp3?.mp3",
+    "genre": "Music",
+    "city": "Klaipėda",
+    "country": "Lithuania",
+    "lat": 55.7127529,
+    "lng": 21.1350469
+  },
+  {
+    "id": "lithuania-latvijas-radio-5--pieci-latgalieši",
+    "name": "Latvijas Radio 5 - Pieci Latgalieši",
+    "url": "https://live.pieci.lv/live22-hq.mp3",
+    "genre": "Music",
+    "city": "Šiauliai",
+    "country": "Lithuania",
+    "lat": 55.9340823,
+    "lng": 23.3157775
+  },
+  {
+    "id": "lithuania-sol-fm-933",
+    "name": "SOL FM 93.3",
+    "url": "https://radiosolfm.bounceme.net/stream",
+    "genre": "Music",
+    "city": "Klaipėda",
+    "country": "Lithuania",
+    "lat": 55.7127529,
+    "lng": 21.1350469
+  },
+  {
+    "id": "lithuania-radio-warmia-barczewo",
+    "name": "Radio Warmia Barczewo",
+    "url": "http://51.255.8.139:8404/stream",
+    "genre": "Music",
+    "city": "Nida",
+    "country": "Lithuania",
+    "lat": 55.3036064,
+    "lng": 21.0038475
+  },
+  {
+    "id": "lithuania-puko-radijas-2-fm-1009",
+    "name": "Puko Radijas 2 FM 100.9",
+    "url": "http://212.95.39.164:8074/stream",
+    "genre": "Music",
+    "city": "Šiauliai",
+    "country": "Lithuania",
+    "lat": 55.9340823,
+    "lng": 23.3157775
+  },
+  {
+    "id": "lithuania-radijo-klubas-994-fm",
+    "name": "Radijo Klubas 99.4 FM",
+    "url": "http://didzdvaris.vinlita.lt:8009/stream.aac",
+    "genre": "Music",
+    "city": "Šiauliai",
+    "country": "Lithuania",
+    "lat": 55.9340823,
+    "lng": 23.3157775
+  },
+  {
+    "id": "lithuania-latgolys-radeja",
+    "name": "Latgolys Radeja",
+    "url": "http://195.13.253.51:8000/128_mp3",
+    "genre": "Music",
+    "city": "Utena",
+    "country": "Lithuania",
+    "lat": 55.4984381,
+    "lng": 25.6025772
+  },
+  {
+    "id": "lithuania-radio-stotis-m-1",
+    "name": "Radio Stotis M-1",
+    "url": "https://radio.m-1.fm/m-1dance/aac",
+    "genre": "Music",
+    "city": "Klaipėda",
+    "country": "Lithuania",
+    "lat": 55.7127529,
+    "lng": 21.1350469
+  },
+  {
+    "id": "lithuania-neringa-fm",
+    "name": "Neringa FM",
+    "url": "https://cast5.my-control-panel.com/proxy/mbadvent/neringafmnew",
+    "genre": "Music",
+    "city": "Klaipėda",
+    "country": "Lithuania",
+    "lat": 55.7127529,
+    "lng": 21.1350469
+  },
+  {
+    "id": "lithuania-radio-7",
+    "name": "Radio 7",
+    "url": "https://listen.radio7.lv:2053/Radio7",
+    "genre": "Music",
+    "city": "Panevėžys",
+    "country": "Lithuania",
+    "lat": 55.7344985,
+    "lng": 24.3578055
+  },
+  {
+    "id": "lithuania-radio-swh-spin-946-fm",
+    "name": "Radio SWH Spin 94.6 FM",
+    "url": "https://live.radioswh.lv:8443/spinmp3",
+    "genre": "Music",
+    "city": "Nida",
+    "country": "Lithuania",
+    "lat": 55.3036064,
+    "lng": 21.0038475
+  },
+  {
+    "id": "lithuania-uwm-fm-959",
+    "name": "UWM FM 95.9",
+    "url": "http://213.184.18.156:8000/index.html?sid=1",
+    "genre": "Music",
+    "city": "Nida",
+    "country": "Lithuania",
+    "lat": 55.3036064,
+    "lng": 21.0038475
+  },
+  {
+    "id": "lithuania-radio-zw-fm-1038",
+    "name": "Radio ZW FM 103.8",
+    "url": "https://plays.zw.lt/zw128",
+    "genre": "Music",
+    "city": "Alytus",
+    "country": "Lithuania",
+    "lat": 54.3961344,
+    "lng": 24.0459268
+  },
+  {
+    "id": "lithuania-utenos-radijas-1039-fm",
+    "name": "Utenos Radijas 103.9 FM",
+    "url": "https://gyvai.ursrv.eu/stream",
+    "genre": "Music",
+    "city": "Utena",
+    "country": "Lithuania",
+    "lat": 55.4984381,
+    "lng": 25.6025772
+  },
+  {
+    "id": "lithuania-start-fm-942",
+    "name": "Start FM 94.2",
+    "url": "https://eteris.startfm.lt/startfm.mp3",
+    "genre": "Music",
+    "city": "Vilnius",
+    "country": "Lithuania",
+    "lat": 54.6870458,
+    "lng": 25.2829111
+  },
+  {
+    "id": "lithuania-rock-fm",
+    "name": "Rock FM",
+    "url": "https://stream2.rockfm.lt/crf128.mp3",
+    "genre": "Music",
+    "city": "Vilnius",
+    "country": "Lithuania",
+    "lat": 54.6870458,
+    "lng": 25.2829111
+  },
+  {
+    "id": "lithuania-xfm",
+    "name": "XFM",
+    "url": "http://88.119.151.74:8001/xfm",
+    "genre": "Music",
+    "city": "Vilnius",
+    "country": "Lithuania",
+    "lat": 54.7013895,
+    "lng": 25.2220972
+  },
+  {
+    "id": "lithuania-play-radio",
+    "name": "Play Radio",
+    "url": "http://n10.radiojar.com/d9cm273ystzuv?rj-ttl=5&rj-tok=AAABm_m0iQ4AMFYTCPeenbFgqA",
+    "genre": "Music",
+    "city": "Vilnius",
+    "country": "Lithuania",
+    "lat": 54.6870458,
+    "lng": 25.2829111
+  },
+  {
+    "id": "lithuania-radio-zw-fun",
+    "name": "Radio ZW Fun",
+    "url": "https://plays.zw.lt/zwfun",
+    "genre": "Music",
+    "city": "Vilnius",
+    "country": "Lithuania",
+    "lat": 54.7013895,
+    "lng": 25.2220972
+  },
+  {
+    "id": "lithuania-radio-signal-666-am",
+    "name": "Radio Signal 666 AM",
+    "url": "https://media-edge1.hostin.live/radio-singnal.mp3",
+    "genre": "Music",
+    "city": "Sitkūnai",
+    "country": "Lithuania",
+    "lat": 55.0408238,
+    "lng": 23.815731
+  },
+  {
+    "id": "lithuania-relax-fm--sentimentai",
+    "name": "Relax FM - Sentimentai",
+    "url": "https://klausyk.radijas.lt/listen/sentimentai/live",
+    "genre": "Music",
+    "city": "Vilnius",
+    "country": "Lithuania",
+    "lat": 54.6870458,
+    "lng": 25.2829111
+  },
+  {
+    "id": "lithuania-relax-fm--100-hitų",
+    "name": "Relax FM - 100 Hitų",
+    "url": "https://klausyk.radijas.lt/listen/100hitu/live",
+    "genre": "Music",
+    "city": "Vilnius",
+    "country": "Lithuania",
+    "lat": 54.6870458,
+    "lng": 25.2829111
+  },
+  {
+    "id": "lithuania-radioaudiomasteringlt",
+    "name": "radio.audiomastering.lt",
+    "url": "http://radio.audiomastering.lt:8000/hq",
+    "genre": "Music",
+    "city": "Vilnius",
+    "country": "Lithuania",
+    "lat": 54.6870458,
+    "lng": 25.2829111
+  },
+  {
+    "id": "lithuania-power-hit-radio-gold",
+    "name": "Power Hit Radio Gold",
+    "url": "https://n05.rcs.revma.com/asdpz3qfbhuvv?rj-ttl=5&rj-tok=AAABm_m0hOQA-a3CuCWCpbSPcw",
+    "genre": "Music",
+    "city": "Vilnius",
+    "country": "Lithuania",
+    "lat": 54.6870458,
+    "lng": 25.2829111
+  },
+  {
+    "id": "lithuania-super-fm-1005",
+    "name": "Super FM 100.5",
+    "url": "https://stream.ehr.lt:8443/superfm",
+    "genre": "Music",
+    "city": "Vilnius",
+    "country": "Lithuania",
+    "lat": 54.6870458,
+    "lng": 25.2829111
+  },
+  {
+    "id": "lithuania-european-hit-radio",
+    "name": "European Hit Radio",
+    "url": "https://stream.ehr.lt:8443/ehr",
+    "genre": "Music",
+    "city": "Vilnius",
+    "country": "Lithuania",
+    "lat": 54.6870458,
+    "lng": 25.2829111
+  },
+  {
+    "id": "lithuania-estakada99",
+    "name": "estakada99",
+    "url": "https://estakada99.radiocult.fm/stream",
+    "genre": "Music",
+    "city": "Vilnius",
+    "country": "Lithuania",
+    "lat": 54.6858781,
+    "lng": 25.276383
+  },
+  {
+    "id": "lithuania-geras-fm-1019",
+    "name": "Geras FM 101.9",
+    "url": "https://stream.goldfm.lt/gerasfm.mp3",
+    "genre": "Music",
+    "city": "Vilnius",
+    "country": "Lithuania",
+    "lat": 54.6870458,
+    "lng": 25.2829111
+  },
+  {
+    "id": "lithuania-radio-fiesta-907-fm",
+    "name": "Radio Fiesta 90.7 FM",
+    "url": "https://stream1.radiofiesta.lt/rfs128.mp3",
+    "genre": "Music",
+    "city": "Vilnius",
+    "country": "Lithuania",
+    "lat": 54.6870458,
+    "lng": 25.2829111
+  },
+  {
+    "id": "lithuania-pmr",
+    "name": "PMR",
+    "url": "https://stream.pmr.lt/pmr.mp3",
+    "genre": "Music",
+    "city": "Vilnius",
+    "country": "Lithuania",
+    "lat": 54.7013895,
+    "lng": 25.2220972
+  },
+  {
+    "id": "lithuania-žinių-radijas",
+    "name": "Žinių Radijas",
+    "url": "https://netradio.ziniur.lt/ziniur.mp3",
+    "genre": "Music",
+    "city": "Vilnius",
+    "country": "Lithuania",
+    "lat": 54.6870458,
+    "lng": 25.2829111
+  },
+  {
+    "id": "lithuania-leproradio",
+    "name": "Leproradio",
+    "url": "https://relay.leproradio.com/bender.ogg?b23e6c5f517783f40583217d672255844c5f995d",
+    "genre": "Music",
+    "city": "Vilnius",
+    "country": "Lithuania",
+    "lat": 54.6870458,
+    "lng": 25.2829111
+  },
+  {
+    "id": "lithuania-radiocentras",
+    "name": "Radiocentras",
+    "url": "https://stream2.rc.lt/rc128.mp3",
+    "genre": "Music",
+    "city": "Vilnius",
+    "country": "Lithuania",
+    "lat": 54.6870458,
+    "lng": 25.2829111
+  },
+  {
+    "id": "lithuania-radijo-stotis-m-1-plius",
+    "name": "Radijo stotis M-1 Plius",
+    "url": "https://radio.m-1.fm/M-1PLIUS?.mp3",
+    "genre": "Music",
+    "city": "Vilnius",
+    "country": "Lithuania",
+    "lat": 54.6869443,
+    "lng": 25.275106
+  },
+  {
+    "id": "lithuania-radio•r",
+    "name": "RADIO•R",
+    "url": "https://stream1.rusradio.lt/rrb128.mp3",
+    "genre": "Music",
+    "city": "Vilnius",
+    "country": "Lithuania",
+    "lat": 54.6870458,
+    "lng": 25.2829111
+  },
+  {
+    "id": "lithuania-radijo-stotis-lietus",
+    "name": "Radijo Stotis Lietus",
+    "url": "https://radio.m-1.fm/lietus/mp3?.mp3",
+    "genre": "Music",
+    "city": "Vilnius",
+    "country": "Lithuania",
+    "lat": 54.6858781,
+    "lng": 25.276383
+  },
+  {
+    "id": "lithuania-radijo-musikií",
+    "name": "Radijo Musikií",
+    "url": "https://stream.radijo-musikii.net/radio/8000/radio.mp3",
+    "genre": "Music",
+    "city": "Vilnius",
+    "country": "Lithuania",
+    "lat": 54.6870458,
+    "lng": 25.2829111
+  }
+]

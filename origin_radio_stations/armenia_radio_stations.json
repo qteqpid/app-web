@@ -1,0 +1,452 @@
+[
+  {
+    "id": "armenia-naxçıvan-radio-fm-1041",
+    "name": "Naxçıvan Radio FM 104.1",
+    "url": "http://37.59.40.90:12782/;stream.mp3",
+    "genre": "Music",
+    "city": "Yerevan",
+    "country": "Armenia",
+    "lat": 40.1777112,
+    "lng": 44.5126233
+  },
+  {
+    "id": "armenia-radio-xfm",
+    "name": "Radio XFM",
+    "url": "http://eu.stream4cast.com:8050/stream",
+    "genre": "Music",
+    "city": "Yerevan",
+    "country": "Armenia",
+    "lat": 40.1777112,
+    "lng": 44.5126233
+  },
+  {
+    "id": "armenia-radio-marshall-fm-1035",
+    "name": "Radio Marshall FM 103.5",
+    "url": "http://eu.stream4cast.com:8030/;stream.mp3",
+    "genre": "Music",
+    "city": "Yerevan",
+    "country": "Armenia",
+    "lat": 40.1777112,
+    "lng": 44.5126233
+  },
+  {
+    "id": "armenia-kepez-fm",
+    "name": "Kepez FM",
+    "url": "http://85.132.78.122:3344/now",
+    "genre": "Music",
+    "city": "Yerevan",
+    "country": "Armenia",
+    "lat": 40.1777112,
+    "lng": 44.5126233
+  },
+  {
+    "id": "armenia-lratvakan-fm-1065",
+    "name": "Lratvakan FM 106.5",
+    "url": "http://212.34.233.78:8000/live",
+    "genre": "Music",
+    "city": "Yerevan",
+    "country": "Armenia",
+    "lat": 40.1777112,
+    "lng": 44.5126233
+  },
+  {
+    "id": "armenia-radio-aurora-fm-1007",
+    "name": "Radio Aurora FM 100.7",
+    "url": "http://am.radioaurora.am:8010/al.mp3",
+    "genre": "Music",
+    "city": "Yerevan",
+    "country": "Armenia",
+    "lat": 40.1777112,
+    "lng": 44.5126233
+  },
+  {
+    "id": "armenia-radio-dzveli-kalaki-fm-1079",
+    "name": "Radio Dzveli Kalaki FM 107.9",
+    "url": "http://iis.ge:8000/radiodk.mp3",
+    "genre": "Music",
+    "city": "Gyumri",
+    "country": "Armenia",
+    "lat": 40.7852085,
+    "lng": 43.8416095
+  },
+  {
+    "id": "armenia-radio-sanda",
+    "name": "Radio SANDA",
+    "url": "http://212.72.151.218:8800/live",
+    "genre": "Music",
+    "city": "Yerevan",
+    "country": "Armenia",
+    "lat": 40.1777112,
+    "lng": 44.5126233
+  },
+  {
+    "id": "armenia-radio-marneuli-fm-969",
+    "name": "Radio Marneuli FM 96.9",
+    "url": "http://stream.it-solutions.ge:8000/mp3-radiomarneulifm",
+    "genre": "Music",
+    "city": "Yerevan",
+    "country": "Armenia",
+    "lat": 40.1777112,
+    "lng": 44.5126233
+  },
+  {
+    "id": "armenia-lav-radio",
+    "name": "Lav Radio",
+    "url": "https://eu.stream4cast.com/proxy/lavradio/stream",
+    "genre": "Music",
+    "city": "Yerevan",
+    "country": "Armenia",
+    "lat": 40.1777112,
+    "lng": 44.5126233
+  },
+  {
+    "id": "armenia-mfm-music-radio",
+    "name": "MFM Music Radio",
+    "url": "https://eu.stream4cast.com/proxy/mfmradio/stream",
+    "genre": "Music",
+    "city": "Yerevan",
+    "country": "Armenia",
+    "lat": 40.1777112,
+    "lng": 44.5126233
+  },
+  {
+    "id": "armenia-radio-energy",
+    "name": "Radio Energy",
+    "url": "https://eu.stream4cast.com/proxy/energyfm/stream",
+    "genre": "Music",
+    "city": "Yerevan",
+    "country": "Armenia",
+    "lat": 40.1777112,
+    "lng": 44.5126233
+  },
+  {
+    "id": "armenia-lav-radio-mix",
+    "name": "Lav Radio Mix",
+    "url": "https://eu.stream4cast.com/proxy/lavradiomix/stream",
+    "genre": "Music",
+    "city": "Yerevan",
+    "country": "Armenia",
+    "lat": 40.1777112,
+    "lng": 44.5126233
+  },
+  {
+    "id": "armenia-radio-mariam",
+    "name": "Radio Mariam",
+    "url": "https://live.radiomariam.am/RadioMariam",
+    "genre": "Music",
+    "city": "Yerevan",
+    "country": "Armenia",
+    "lat": 40.1777112,
+    "lng": 44.5126233
+  },
+  {
+    "id": "armenia-radio-vem",
+    "name": "Radio Vem",
+    "url": "https://eu1.stream4cast.com/proxy/vemradio/stream",
+    "genre": "Music",
+    "city": "Yerevan",
+    "country": "Armenia",
+    "lat": 40.1777112,
+    "lng": 44.5126233
+  },
+  {
+    "id": "armenia-public-radio-of-armenia",
+    "name": "Public Radio of Armenia",
+    "url": "https://eu1.stream4cast.com/proxy/publicra/stream",
+    "genre": "Music",
+    "city": "Yerevan",
+    "country": "Armenia",
+    "lat": 40.1777112,
+    "lng": 44.5126233
+  },
+  {
+    "id": "armenia-trialeti-fm-1049",
+    "name": "Trialeti FM 104.9",
+    "url": "https://s39.myradiostream.com/:10898/;listen.mp3",
+    "genre": "Music",
+    "city": "Yerevan",
+    "country": "Armenia",
+    "lat": 40.1777112,
+    "lng": 44.5126233
+  },
+  {
+    "id": "armenia-la-u-fm",
+    "name": "La U FM",
+    "url": "https://c11.radioboss.fm:18054/stream",
+    "genre": "Music",
+    "city": "Armenia, Quindio",
+    "country": "Colombia",
+    "lat": 4.4919761,
+    "lng": -75.7413509
+  },
+  {
+    "id": "armenia-armgospelradio",
+    "name": "Armgospelradio",
+    "url": "https://s8.myradiostream.com:15554/listen.mp3?nocache=1769416399",
+    "genre": "Music",
+    "city": "Yerevan",
+    "country": "Armenia",
+    "lat": 40.1777112,
+    "lng": 44.5126233
+  },
+  {
+    "id": "armenia-intermedia-fm",
+    "name": "Intermedia FM",
+    "url": "https://server1.intermediacolombia.com:8044/stream",
+    "genre": "Music",
+    "city": "Armenia, Quindio",
+    "country": "Colombia",
+    "lat": 4.4919761,
+    "lng": -75.7413509
+  },
+  {
+    "id": "armenia-bambú-estereo",
+    "name": "Bambú Estéreo",
+    "url": "https://virtual3.emisorasvirtuales.com:8130/live",
+    "genre": "Music",
+    "city": "Armenia, Quindio",
+    "country": "Colombia",
+    "lat": 4.4919761,
+    "lng": -75.7413509
+  },
+  {
+    "id": "armenia-ulloa-fm-1041",
+    "name": "Ulloa FM 104.1",
+    "url": "http://radio40.virtualtronics.com:8400/stream",
+    "genre": "Music",
+    "city": "Armenia, Quindio",
+    "country": "Colombia",
+    "lat": 4.4919761,
+    "lng": -75.7413509
+  },
+  {
+    "id": "armenia-radio-azalia",
+    "name": "Radio Azalia",
+    "url": "https://stream-175.zeno.fm/s865660v7hhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzODY1NjYwdjdoaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoidGQ2SzVkcUdRNG14ZkstN3BOb3pWUSIsImlhdCI6MTc2OTQxNjQwMCwiZXhwIjoxNzY5NDE2NDYwfQ.GRZzNr4_1r8pjAUu1UzFu9lWrosaqz73QNBrv2A0fdo",
+    "genre": "Music",
+    "city": "Yerevan",
+    "country": "Armenia",
+    "lat": 40.1777112,
+    "lng": 44.5126233
+  },
+  {
+    "id": "armenia-masmusicafm",
+    "name": "MASMUSICA.FM",
+    "url": "https://server2.ejeserver.com:8720/live",
+    "genre": "Music",
+    "city": "Armenia, Quindio",
+    "country": "Colombia",
+    "lat": 4.4919761,
+    "lng": -75.7413509
+  },
+  {
+    "id": "armenia-transmisora-quindio-720am",
+    "name": "Transmisora Quindio 720am",
+    "url": "https://server2.ejeserver.com:8060/stream",
+    "genre": "Music",
+    "city": "Armenia, Quindio",
+    "country": "Colombia",
+    "lat": 4.4919761,
+    "lng": -75.7413509
+  },
+  {
+    "id": "armenia-la-super-estación-fm-1041",
+    "name": "La Super Estación FM 104.1",
+    "url": "https://server1.intermediacolombia.com:7004/stream",
+    "genre": "Music",
+    "city": "Armenia, Quindio",
+    "country": "Colombia",
+    "lat": 4.4919761,
+    "lng": -75.7413509
+  },
+  {
+    "id": "armenia-celestial-stereo",
+    "name": "Celestial Stereo",
+    "url": "https://stream2.305stream.com/proxy/client059?mp=/stream",
+    "genre": "Music",
+    "city": "Armenia, Quindio",
+    "country": "Colombia",
+    "lat": 4.4919761,
+    "lng": -75.7413509
+  },
+  {
+    "id": "armenia-alcalá-fm-stereo-1034",
+    "name": "Alcalá FM Stereo 103.4",
+    "url": "https://stream-178.zeno.fm/0s3adxakxy8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwczNhZHhha3h5OHV2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoialRCeGhaQjFRaHVCS1NaQXpNQjJPZyIsImlhdCI6MTc2OTQxNjQwMSwiZXhwIjoxNzY5NDE2NDYxfQ.ywT4LWw3sashqEPpM3Ju_-XB4sZSdRkrLzF3SymqEYY",
+    "genre": "Music",
+    "city": "Armenia, Quindio",
+    "country": "Colombia",
+    "lat": 4.4919761,
+    "lng": -75.7413509
+  },
+  {
+    "id": "armenia-quimbaya-estereo",
+    "name": "Quimbaya Estéreo",
+    "url": "https://play14.tikast.com:22037/stream/",
+    "genre": "Music",
+    "city": "Armenia, Quindio",
+    "country": "Colombia",
+    "lat": 4.4919761,
+    "lng": -75.7413509
+  },
+  {
+    "id": "armenia-la-jefa-fm-913",
+    "name": "La Jefa FM 91.3",
+    "url": "https://stream-157.zeno.fm/fg3zq819na0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJmZzN6cTgxOW5hMHV2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoibUZRY3hWYVBSOXlFSzRueXRjeWpmdyIsImlhdCI6MTc2OTQxNjQwMiwiZXhwIjoxNzY5NDE2NDYyfQ.pO_Q5YtD9pIC_slX0kJgdLdRXZT0rcLOeZKtFUfUUrE",
+    "genre": "Music",
+    "city": "Armenia, Quindio",
+    "country": "Colombia",
+    "lat": 4.4919761,
+    "lng": -75.7413509
+  },
+  {
+    "id": "armenia-la-mega-fm-967",
+    "name": "La Mega FM 96.7",
+    "url": "https://us-b4-p-e-mg17-audio.cdn.mdstrm.com/live-audio-aw/633d83bf3b07310855f79c40?aid=6271a4d5d206c3172f3c9a9c&pid=2Mmeec4nhmnkh6NE0Ym63dmYA0z7pvR3&sid=2XTrZTOxKdPC7wNyMOLVPr8nw8tVvyva&uid=CJLMRMHTq6bwvMEVSEAU35JaoLMTmx1K&es=us-b4-p-e-mg17-audio.cdn.mdstrm.com&ote=1769502801188&ot=CuPErnmOUftFg7zvVaYYHQ&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=rcn-mundo-go-app-web&liveId=633d83bf3b07310855f79c40&referer=https%3A%2F%2Fradio.garden%2F&propertyName=rcn-mundo-go-app-web&listenerId=CJLMRMHTq6bwvMEVSEAU35JaoLMTmx1K",
+    "genre": "Music",
+    "city": "Armenia, Quindio",
+    "country": "Colombia",
+    "lat": 4.4919761,
+    "lng": -75.7413509
+  },
+  {
+    "id": "armenia-tropicana-armenia",
+    "name": "Tropicana Armenia",
+    "url": "https://24283.live.streamtheworld.com:443/TR_ARMENIAAAC.aac",
+    "genre": "Music",
+    "city": "Armenia, Quindio",
+    "country": "Colombia",
+    "lat": 4.4919761,
+    "lng": -75.7413509
+  },
+  {
+    "id": "armenia-olímpica-stereo-fm-961",
+    "name": "Olímpica Stereo FM 96.1",
+    "url": "https://13693.live.streamtheworld.com:443/OLP_ARMENIAAAC.aac",
+    "genre": "Music",
+    "city": "Armenia, Quindio",
+    "country": "Colombia",
+    "lat": 4.4919761,
+    "lng": -75.7413509
+  },
+  {
+    "id": "armenia-besame-armenia",
+    "name": "Bésame Armenia",
+    "url": "https://27393.live.streamtheworld.com:443/BESAME_ARMENIA_SC",
+    "genre": "Music",
+    "city": "Armenia, Quindio",
+    "country": "Colombia",
+    "lat": 4.4919761,
+    "lng": -75.7413509
+  },
+  {
+    "id": "armenia-kiss-fm-883",
+    "name": "Kiss FM 88.3",
+    "url": "https://am.radioaurora.am/kiss",
+    "genre": "Music",
+    "city": "Yerevan",
+    "country": "Armenia",
+    "lat": 40.1777112,
+    "lng": 44.5126233
+  },
+  {
+    "id": "armenia-radio-mova",
+    "name": "Radio MOVA",
+    "url": "https://play10.tikast.com/proxy/redemisorasescolares?mp=/stream",
+    "genre": "Music",
+    "city": "Armenia, Antioquia",
+    "country": "Colombia",
+    "lat": 6.1561777,
+    "lng": -75.7870472
+  },
+  {
+    "id": "armenia-armenia-stereo-894-fm",
+    "name": "Armenia Stereo 89.4 FM",
+    "url": "https://stream-159.zeno.fm/wz4hzqtkh5zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ3ejRoenF0a2g1enV2IiwiaG9zdCI6InN0cmVhbS0xNTkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiTjNqN3hJNVRUazJESmVsOTR5TUdKdyIsImlhdCI6MTc2OTQxNjQwNCwiZXhwIjoxNzY5NDE2NDY0fQ.QD1ZOFC56ln18d8iP0H3NB-3JMuG7C_y2dbbEFGI2Uc",
+    "genre": "Music",
+    "city": "Armenia, Antioquia",
+    "country": "Colombia",
+    "lat": 6.1561777,
+    "lng": -75.7870472
+  },
+  {
+    "id": "armenia-la-voz-de-amagá",
+    "name": "La Voz de Amagá",
+    "url": "https://stream-156.zeno.fm/g9sc4zskh5zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJnOXNjNHpza2g1enV2IiwiaG9zdCI6InN0cmVhbS0xNTYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiSmVLSU02NkNUYUtxVmVDaVJxcHNzUSIsImlhdCI6MTc2OTQxNjQwNCwiZXhwIjoxNzY5NDE2NDY0fQ.DoAPtFtBm--pstDj3zgqgkaVjO33piq-rViCTat5dNo",
+    "genre": "Music",
+    "city": "Armenia, Antioquia",
+    "country": "Colombia",
+    "lat": 6.1561777,
+    "lng": -75.7870472
+  },
+  {
+    "id": "armenia-guaca-stereo-954-fm",
+    "name": "Guaca Stereo 95.4 FM",
+    "url": "https://server1.intermediacolombia.com:8034/stream",
+    "genre": "Music",
+    "city": "Armenia, Antioquia",
+    "country": "Colombia",
+    "lat": 6.1561777,
+    "lng": -75.7870472
+  },
+  {
+    "id": "armenia-cerros-estereo-fm-1074",
+    "name": "Cerros Estéreo FM 107.4",
+    "url": "https://stream-158.zeno.fm/ggufr7sds2zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJnZ3VmcjdzZHMyenV2IiwiaG9zdCI6InN0cmVhbS0xNTguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiMFhtaHY0VGRUNnU1bmlVUUZFUm9MdyIsImlhdCI6MTc2OTQxNjQwNSwiZXhwIjoxNzY5NDE2NDY1fQ.HOZDzY-mX57oDxCDTmr_Q-BskeIDRL_yeCUyeItMpKE",
+    "genre": "Music",
+    "city": "Armenia, Antioquia",
+    "country": "Colombia",
+    "lat": 6.1561777,
+    "lng": -75.7870472
+  },
+  {
+    "id": "armenia-w-radio-fm-999",
+    "name": "W Radio FM 99.9",
+    "url": "https://19253.live.streamtheworld.com:443/WRADIOAAC.aac",
+    "genre": "Music",
+    "city": "Armenia, Quindio",
+    "country": "Colombia",
+    "lat": 4.4919761,
+    "lng": -75.7413509
+  },
+  {
+    "id": "armenia-caracol-radio",
+    "name": "Caracol Radio",
+    "url": "https://26573.live.streamtheworld.com:443/CARACOL_RADIOAAC.aac",
+    "genre": "Music",
+    "city": "Armenia, Quindio",
+    "country": "Colombia",
+    "lat": 4.4919761,
+    "lng": -75.7413509
+  },
+  {
+    "id": "armenia-olímpica-stereo",
+    "name": "Olímpica Stereo",
+    "url": "https://27343.live.streamtheworld.com:443/OLP_MEDELLINAAC.aac",
+    "genre": "Music",
+    "city": "Armenia, Quindio",
+    "country": "Colombia",
+    "lat": 4.4919761,
+    "lng": -75.7413509
+  },
+  {
+    "id": "armenia-candela-estereo",
+    "name": "Candela Estéreo",
+    "url": "https://26493.live.streamtheworld.com:443/CANDELAESTEREO.mp3?dist=RadioGarden",
+    "genre": "Music",
+    "city": "Armenia, Quindio",
+    "country": "Colombia",
+    "lat": 4.4919761,
+    "lng": -75.7413509
+  },
+  {
+    "id": "armenia-radio-vida-en-familia",
+    "name": "Radio Vida En Familia",
+    "url": "https://servidor16.brlogic.com:7238/live",
+    "genre": "Music",
+    "city": "Armenia, Quindio",
+    "country": "Colombia",
+    "lat": 4.4919761,
+    "lng": -75.7413509
+  }
+]

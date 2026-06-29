@@ -1,0 +1,2602 @@
+[
+  {
+    "id": "colombia-improvisando-radio",
+    "name": "Improvisando Radio",
+    "url": "http://62.210.38.137:8180/stream?type=.mp3",
+    "genre": "Music",
+    "city": "Bogotá",
+    "country": "Colombia",
+    "lat": 4.6533817,
+    "lng": -74.0836331
+  },
+  {
+    "id": "colombia-javeriana-estereo-919-fm",
+    "name": "Javeriana Estéreo 91.9 FM",
+    "url": "https://radio06.cehis.net:9001/stream",
+    "genre": "Music",
+    "city": "Bogotá",
+    "country": "Colombia",
+    "lat": 4.6533817,
+    "lng": -74.0836331
+  },
+  {
+    "id": "colombia-ecos-de-guali",
+    "name": "Ecos de Guali",
+    "url": "https://radio25.virtualtronics.com/proxy/bacata?mp=/stream;",
+    "genre": "Music",
+    "city": "Bogotá",
+    "country": "Colombia",
+    "lat": 4.6533817,
+    "lng": -74.0836331
+  },
+  {
+    "id": "colombia-clásica-885-fm",
+    "name": "Clásica 88.5 FM",
+    "url": "https://s6.myradiostream.com:49926/listen.mp3",
+    "genre": "Music",
+    "city": "Cali",
+    "country": "Colombia",
+    "lat": 3.4519988,
+    "lng": -76.5325259
+  },
+  {
+    "id": "colombia-fusion-romantica",
+    "name": "Fusiòn Romàntica",
+    "url": "https://radio30.virtualtronics.com/proxy/fusion?mp=/stream",
+    "genre": "Music",
+    "city": "Bogotá",
+    "country": "Colombia",
+    "lat": 4.6533817,
+    "lng": -74.0836331
+  },
+  {
+    "id": "colombia-don-jediondo-radio",
+    "name": "Don Jediondo Radio",
+    "url": "https://cloudoledgo.com:8024/stream",
+    "genre": "Music",
+    "city": "Bogotá",
+    "country": "Colombia",
+    "lat": 4.6533817,
+    "lng": -74.0836331
+  },
+  {
+    "id": "colombia-instel-radio",
+    "name": "Instel Radio",
+    "url": "https://cloud8.vsgtech.co/8064/",
+    "genre": "Music",
+    "city": "Cali",
+    "country": "Colombia",
+    "lat": 3.4519988,
+    "lng": -76.5325259
+  },
+  {
+    "id": "colombia-ecos-prensa-radio",
+    "name": "Ecos Prensa Radio",
+    "url": "https://stream-154.zeno.fm/a8fgubmrv98uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJhOGZndWJtcnY5OHV2IiwiaG9zdCI6InN0cmVhbS0xNTQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiVzJZcnMzeUFSV2VsVF9PNTBOek9MUSIsImlhdCI6MTc2OTQxNzczNywiZXhwIjoxNzY5NDE3Nzk3fQ.I-m5957Q_wAFHeIQahbkN7dFGc0p7ay85IlJjq1o2eI",
+    "genre": "Music",
+    "city": "Bogotá",
+    "country": "Colombia",
+    "lat": 4.6533817,
+    "lng": -74.0836331
+  },
+  {
+    "id": "colombia-caracol-radio",
+    "name": "Caracol Radio",
+    "url": "https://19213.live.streamtheworld.com:443/CARACOL_RADIOAAC.aac",
+    "genre": "Music",
+    "city": "Bogotá",
+    "country": "Colombia",
+    "lat": 4.6533817,
+    "lng": -74.0836331
+  },
+  {
+    "id": "colombia-olímpica-stereo",
+    "name": "Olímpica Stereo",
+    "url": "https://14843.live.streamtheworld.com:443/OLP_MEDELLINAAC.aac",
+    "genre": "Music",
+    "city": "Bogotá",
+    "country": "Colombia",
+    "lat": 4.6533817,
+    "lng": -74.0836331
+  },
+  {
+    "id": "colombia-alerta-calidad-1230-am",
+    "name": "Alerta Calidad 1230 AM",
+    "url": "https://us-b4-p-e-mg17-audio.cdn.mdstrm.com/live-audio-aw/632cb78bd7882109c853f2af?aid=6271a4d5d206c3172f3c9a9c&pid=o3y0HI8sLhtV5aZNh3IZnv3a0R13TfHk&sid=2SsaChPDOSakB7hn24sUTDjO4IhFhiCq&uid=j2BUqZb2XEQNy9XdMKj7JgOhjuuGIDTE&es=us-b4-p-e-mg17-audio.cdn.mdstrm.com&ote=1769504137643&ot=fbt5EjQctoVt50Bg-c-PbQ&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=rcn-mundo-go-app-web&liveId=632cb78bd7882109c853f2af&referer=https%3A%2F%2Fradio.garden%2F&propertyName=rcn-mundo-go-app-web&listenerId=j2BUqZb2XEQNy9XdMKj7JgOhjuuGIDTE",
+    "genre": "Music",
+    "city": "Cali",
+    "country": "Colombia",
+    "lat": 3.4519988,
+    "lng": -76.5325259
+  },
+  {
+    "id": "colombia-la-fm-949",
+    "name": "La FM 94.9",
+    "url": "https://us-b4-p-e-ja16-audio.cdn.mdstrm.com/live-audio-aw/632c9b23d1dcd7027f32f7fe?aid=6271a4d5d206c3172f3c9a9c&pid=F8UF00vUhBFFRggXw2tG7I9GHEEOGQPy&sid=aNSujQ7N2J0ZKq0FpXYmFLsiDJUzVgxf&uid=Mn0iM9HE5KqUDHOHlDNGpGtNSC1Qqzie&es=us-b4-p-e-ja16-audio.cdn.mdstrm.com&ote=1769504137643&ot=UFnu3XKK-z8UIsHi-dVinQ&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=demo-rcn-app-web&liveId=632c9b23d1dcd7027f32f7fe&referer=https%3A%2F%2Fradio.garden%2F&propertyName=demo-rcn-app-web&listenerId=Mn0iM9HE5KqUDHOHlDNGpGtNSC1Qqzie",
+    "genre": "Music",
+    "city": "Bogotá",
+    "country": "Colombia",
+    "lat": 4.6533817,
+    "lng": -74.0836331
+  },
+  {
+    "id": "colombia-w-radio-fm-999",
+    "name": "W Radio FM 99.9",
+    "url": "https://26483.live.streamtheworld.com:443/WRADIOAAC.aac",
+    "genre": "Music",
+    "city": "Bogotá",
+    "country": "Colombia",
+    "lat": 4.6533817,
+    "lng": -74.0836331
+  },
+  {
+    "id": "colombia-olímpica-estereo-fm-1059",
+    "name": "Olímpica Estéreo FM 105.9",
+    "url": "https://27583.live.streamtheworld.com:443/OLP_BOGOTAAAC.aac",
+    "genre": "Music",
+    "city": "Bogotá",
+    "country": "Colombia",
+    "lat": 4.6533817,
+    "lng": -74.0836331
+  },
+  {
+    "id": "colombia-radio-gaga-online",
+    "name": "Radio GaGa Online",
+    "url": "https://radio30.virtualtronics.com/proxy/radiogaga?mp=/stream",
+    "genre": "Music",
+    "city": "Cali",
+    "country": "Colombia",
+    "lat": 3.4519988,
+    "lng": -76.5325259
+  },
+  {
+    "id": "colombia-los-40-bogotá-1004-fm",
+    "name": "Los 40 Bogotá 100.4 FM",
+    "url": "https://26643.live.streamtheworld.com:443/LOS40_COLOMBIAAAC.aac",
+    "genre": "Music",
+    "city": "Bogotá",
+    "country": "Colombia",
+    "lat": 4.6533817,
+    "lng": -74.0836331
+  },
+  {
+    "id": "colombia-besame-bogotá",
+    "name": "Bésame Bogotá",
+    "url": "https://26583.live.streamtheworld.com:443/BESAME_BOGOTAAAC.aac",
+    "genre": "Music",
+    "city": "Bogotá",
+    "country": "Colombia",
+    "lat": 4.6533817,
+    "lng": -74.0836331
+  },
+  {
+    "id": "colombia-candela-estereo",
+    "name": "Candela Estéreo",
+    "url": "https://26493.live.streamtheworld.com:443/CANDELAESTEREO.mp3?dist=RadioGarden",
+    "genre": "Music",
+    "city": "Bogotá",
+    "country": "Colombia",
+    "lat": 4.6533817,
+    "lng": -74.0836331
+  },
+  {
+    "id": "colombia-capital-salsa",
+    "name": "Capital Salsa",
+    "url": "https://stream.integracionvirtual.com/proxy/capitalsalsa?mp=/stream",
+    "genre": "Music",
+    "city": "Cali",
+    "country": "Colombia",
+    "lat": 3.4519988,
+    "lng": -76.5325259
+  },
+  {
+    "id": "colombia-madrid-radio-964-fm",
+    "name": "Madrid Radio 96.4 FM",
+    "url": "https://servidor31.brlogic.com:7024/live",
+    "genre": "Music",
+    "city": "Bogotá",
+    "country": "Colombia",
+    "lat": 4.6533817,
+    "lng": -74.0836331
+  },
+  {
+    "id": "colombia-la-máxima-radio",
+    "name": "La Máxima Radio",
+    "url": "https://streamming.dobitsoluciones.com:7032/live/",
+    "genre": "Music",
+    "city": "Cali",
+    "country": "Colombia",
+    "lat": 3.4519988,
+    "lng": -76.5325259
+  },
+  {
+    "id": "colombia-radio-autentica-palmira",
+    "name": "Radio Auténtica Palmira",
+    "url": "https://panel1.intermediahost.co:8240/stream",
+    "genre": "Music",
+    "city": "Cali",
+    "country": "Colombia",
+    "lat": 3.4519988,
+    "lng": -76.5325259
+  },
+  {
+    "id": "colombia-tropicana-cali-fm",
+    "name": "Tropicana Cali FM",
+    "url": "https://19213.live.streamtheworld.com:443/TR_CALIAAC.aac",
+    "genre": "Music",
+    "city": "Cali",
+    "country": "Colombia",
+    "lat": 3.4519988,
+    "lng": -76.5325259
+  },
+  {
+    "id": "colombia-radio-brava-colombia",
+    "name": "Radio Brava Colombia",
+    "url": "https://cloud8.vsgtech.co/8070/stream",
+    "genre": "Music",
+    "city": "Cali",
+    "country": "Colombia",
+    "lat": 3.4519988,
+    "lng": -76.5325259
+  },
+  {
+    "id": "colombia-mad-radio",
+    "name": "Mad Radio",
+    "url": "https://c25.radioboss.fm/stream/181",
+    "genre": "Music",
+    "city": "Medellín",
+    "country": "Colombia",
+    "lat": 6.2697325,
+    "lng": -75.6025597
+  },
+  {
+    "id": "colombia-la-retro-radio",
+    "name": "La Retro Radio",
+    "url": "http://audio.laretroradio.com:8000/stream/",
+    "genre": "Music",
+    "city": "Medellín",
+    "country": "Colombia",
+    "lat": 6.2697325,
+    "lng": -75.6025597
+  },
+  {
+    "id": "colombia-proclama-del-cauca-radio-online",
+    "name": "Proclama del Cauca Radio Online",
+    "url": "https://stream.vocesparatumarca.net/8012/stream/",
+    "genre": "Music",
+    "city": "Cali",
+    "country": "Colombia",
+    "lat": 3.4519988,
+    "lng": -76.5325259
+  },
+  {
+    "id": "colombia-frecuencia-u-940-am",
+    "name": "Frecuencia U 940 AM",
+    "url": "https://radiolatina.info/9988/stream",
+    "genre": "Music",
+    "city": "Medellín",
+    "country": "Colombia",
+    "lat": 6.2697325,
+    "lng": -75.6025597
+  },
+  {
+    "id": "colombia-la-caucanita-1059-fm",
+    "name": "La Caucanita 105.9 FM",
+    "url": "https://stream-155.zeno.fm/s51aaf63mqzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzNTFhYWY2M21xenV2IiwiaG9zdCI6InN0cmVhbS0xNTUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiMEptbzZIQ2hUVFdQaWRwS19lTktDUSIsImlhdCI6MTc2OTQxNzc0MywiZXhwIjoxNzY5NDE3ODAzfQ.XtDZOyBigLWCfL-abcdmh_QmiAkWc8R0RjICz6e-G4g",
+    "genre": "Music",
+    "city": "Cali",
+    "country": "Colombia",
+    "lat": 3.4519988,
+    "lng": -76.5325259
+  },
+  {
+    "id": "colombia-olímpica-stereo-1045-fm",
+    "name": "Olímpica Stereo 104.5 FM",
+    "url": "https://27443.live.streamtheworld.com:443/OLP_CALIAAC.aac",
+    "genre": "Music",
+    "city": "Cali",
+    "country": "Colombia",
+    "lat": 3.4519988,
+    "lng": -76.5325259
+  },
+  {
+    "id": "colombia-radio-rumbo-stereo-1074",
+    "name": "Radio Rumbo Stereo 107.4",
+    "url": "https://radiohd3.streaminghd.co/8052/stream",
+    "genre": "Music",
+    "city": "Bogotá",
+    "country": "Colombia",
+    "lat": 4.6533817,
+    "lng": -74.0836331
+  },
+  {
+    "id": "colombia-rec-mi-ciudad-radio",
+    "name": "REC Mi Ciudad Radio",
+    "url": "http://51.15.160.78:8334/index.html/",
+    "genre": "Music",
+    "city": "Medellín",
+    "country": "Colombia",
+    "lat": 6.2697325,
+    "lng": -75.6025597
+  },
+  {
+    "id": "colombia-la-esquina-del-guaguanco",
+    "name": "La Esquina del Guaguanco",
+    "url": "https://ny.mysonicserver.com/9918/stream",
+    "genre": "Music",
+    "city": "Medellín",
+    "country": "Colombia",
+    "lat": 6.2697325,
+    "lng": -75.6025597
+  },
+  {
+    "id": "colombia-besame-cali",
+    "name": "Bésame Cali",
+    "url": "https://26573.live.streamtheworld.com:443/BESAME_CALIAAC.aac",
+    "genre": "Music",
+    "city": "Cali",
+    "country": "Colombia",
+    "lat": 3.4519988,
+    "lng": -76.5325259
+  },
+  {
+    "id": "colombia-tequendamita-894-fm",
+    "name": "Tequendamita 89.4 FM",
+    "url": "https://play8.tikast.com/proxy/tequendamita?mp=/stream",
+    "genre": "Music",
+    "city": "Medellín",
+    "country": "Colombia",
+    "lat": 6.2697325,
+    "lng": -75.6025597
+  },
+  {
+    "id": "colombia-w+",
+    "name": "W+",
+    "url": "https://19213.live.streamtheworld.com:443/WRADIO_MASAAC.aac",
+    "genre": "Music",
+    "city": "Medellín",
+    "country": "Colombia",
+    "lat": 6.2697325,
+    "lng": -75.6025597
+  },
+  {
+    "id": "colombia-radio-bendición-1035-fm",
+    "name": "Radio Bendición 103.5 FM",
+    "url": "https://samuel.i-radio.co:9000/radiobendicion",
+    "genre": "Music",
+    "city": "Cali",
+    "country": "Colombia",
+    "lat": 3.4519988,
+    "lng": -76.5325259
+  },
+  {
+    "id": "colombia-la-x-medellín-1039fm",
+    "name": "La X Medellín 103.9FM",
+    "url": "https://tupanel.info:8000/stream/",
+    "genre": "Music",
+    "city": "Medellín",
+    "country": "Colombia",
+    "lat": 6.2697325,
+    "lng": -75.6025597
+  },
+  {
+    "id": "colombia-estrella-estereo-1043-fm",
+    "name": "Estrella Estereo 104.3 FM",
+    "url": "https://securestreams3.autopo.st:1404/Estrella104.3FM",
+    "genre": "Music",
+    "city": "Medellín",
+    "country": "Colombia",
+    "lat": 6.2697325,
+    "lng": -75.6025597
+  },
+  {
+    "id": "colombia-radio-alternativa-985-fm",
+    "name": "Radio Alternativa 98.5 FM",
+    "url": "http://www.colombiaemite.com:10352/index.html?sid=1",
+    "genre": "Music",
+    "city": "Medellín",
+    "country": "Colombia",
+    "lat": 6.2697325,
+    "lng": -75.6025597
+  },
+  {
+    "id": "colombia-mi-valle-natisima-fm-973",
+    "name": "Mi Valle Natisima FM 97.3",
+    "url": "https://streaming.radiosenlinea.com.ar:10865/index.html?sid=1",
+    "genre": "Music",
+    "city": "Barranquilla",
+    "country": "Colombia",
+    "lat": 11.0101922,
+    "lng": -74.8231794
+  },
+  {
+    "id": "colombia-quillasalsa-radio",
+    "name": "QuillaSalsa Radio",
+    "url": "https://radio25.virtualtronics.com/proxy/quillasalsa?mp=/stream",
+    "genre": "Music",
+    "city": "Barranquilla",
+    "country": "Colombia",
+    "lat": 11.0101922,
+    "lng": -74.8231794
+  },
+  {
+    "id": "colombia-caracol-radio",
+    "name": "Caracol Radio",
+    "url": "https://13693.live.streamtheworld.com:443/CR_MEDELLINAAC.aac",
+    "genre": "Music",
+    "city": "Medellín",
+    "country": "Colombia",
+    "lat": 6.2697325,
+    "lng": -75.6025597
+  },
+  {
+    "id": "colombia-guaca-stereo-954-fm",
+    "name": "Guaca Stereo 95.4 FM",
+    "url": "https://server1.intermediacolombia.com:8034/stream",
+    "genre": "Music",
+    "city": "Medellín",
+    "country": "Colombia",
+    "lat": 6.2697325,
+    "lng": -75.6025597
+  },
+  {
+    "id": "colombia-christ-fm",
+    "name": "Christ FM",
+    "url": "https://mars.streamerr.co/8543/stream",
+    "genre": "Music",
+    "city": "Barranquilla",
+    "country": "Colombia",
+    "lat": 11.0101922,
+    "lng": -74.8231794
+  },
+  {
+    "id": "colombia-guarne-stereo-fm-881",
+    "name": "Guarne Stereo FM 88.1",
+    "url": "https://streamingmediaradio.live/8046/stream",
+    "genre": "Music",
+    "city": "Medellín",
+    "country": "Colombia",
+    "lat": 6.2697325,
+    "lng": -75.6025597
+  },
+  {
+    "id": "colombia-kurrambera-stereo-fm-935",
+    "name": "Kurrambera Stereo FM 93.5",
+    "url": "https://free.rcast.net/70030",
+    "genre": "Music",
+    "city": "Barranquilla",
+    "country": "Colombia",
+    "lat": 11.0101922,
+    "lng": -74.8231794
+  },
+  {
+    "id": "colombia-besame",
+    "name": "Besame",
+    "url": "https://27323.live.streamtheworld.com:443/BESAME_MEDELLINAAC.aac",
+    "genre": "Music",
+    "city": "Medellín",
+    "country": "Colombia",
+    "lat": 6.2697325,
+    "lng": -75.6025597
+  },
+  {
+    "id": "colombia-salsa-son-y-sabor-latino",
+    "name": "Salsa Son y Sabor Latino",
+    "url": "https://radio35.virtualtronics.com/proxy/salsasonysabor?mp=/stream",
+    "genre": "Music",
+    "city": "Barranquilla",
+    "country": "Colombia",
+    "lat": 11.0101922,
+    "lng": -74.8231794
+  },
+  {
+    "id": "colombia-saoko-radio-quilla",
+    "name": "Saoko Radio Quilla",
+    "url": "https://sc10.conectarhosting.com/proxy/saokoradioquilla/stream",
+    "genre": "Music",
+    "city": "Barranquilla",
+    "country": "Colombia",
+    "lat": 11.0101922,
+    "lng": -74.8231794
+  },
+  {
+    "id": "colombia-radio-jesucristo-reina",
+    "name": "Radio Jesucristo Reina",
+    "url": "https://radio30.virtualtronics.com/proxy/radiojesucristoreina?mp=/stream",
+    "genre": "Music",
+    "city": "Barranquilla",
+    "country": "Colombia",
+    "lat": 11.0101922,
+    "lng": -74.8231794
+  },
+  {
+    "id": "colombia-radio-tiempo-fm-1059",
+    "name": "Radio Tiempo FM 105.9",
+    "url": "https://14073.live.streamtheworld.com:443/RT_MEDELLINAAC.aac",
+    "genre": "Music",
+    "city": "Medellín",
+    "country": "Colombia",
+    "lat": 6.2697325,
+    "lng": -75.6025597
+  },
+  {
+    "id": "colombia-el-gran-lobo",
+    "name": "El Gran Lobo",
+    "url": "https://radio.elgranlobo.com/listen/el_gran_lobo/radio.mp3",
+    "genre": "Music",
+    "city": "Barranquilla",
+    "country": "Colombia",
+    "lat": 11.0101922,
+    "lng": -74.8231794
+  },
+  {
+    "id": "colombia-radio-torat-emet",
+    "name": "Radio Torat Emet",
+    "url": "https://stream11.mexiserver.com:9015/stream",
+    "genre": "Music",
+    "city": "Barranquilla",
+    "country": "Colombia",
+    "lat": 11.0101922,
+    "lng": -74.8231794
+  },
+  {
+    "id": "colombia-libertad-radio",
+    "name": "Libertad Radio",
+    "url": "https://play10.tikast.com/proxy/libertadradio?mp=/stream",
+    "genre": "Music",
+    "city": "Tunja",
+    "country": "Colombia",
+    "lat": 5.5324313,
+    "lng": -73.3616014
+  },
+  {
+    "id": "colombia-popular-stereo-fm-1056",
+    "name": "Popular Stereo FM 105.6",
+    "url": "https://radio30.virtualtronics.com/proxy/popularst?mp=/stream",
+    "genre": "Music",
+    "city": "Barranquilla",
+    "country": "Colombia",
+    "lat": 11.0101922,
+    "lng": -74.8231794
+  },
+  {
+    "id": "colombia-madrigal-881-fm",
+    "name": "Madrigal 88.1 FM",
+    "url": "https://streaming.radiosenlinea.com.ar/8096/stream",
+    "genre": "Music",
+    "city": "Barranquilla",
+    "country": "Colombia",
+    "lat": 11.0101922,
+    "lng": -74.8231794
+  },
+  {
+    "id": "colombia-radio-tuiteros-boyacá",
+    "name": "Radio Tuiteros Boyacá",
+    "url": "https://play10.tikast.com:20143/stream",
+    "genre": "Music",
+    "city": "Tunja",
+    "country": "Colombia",
+    "lat": 5.5324313,
+    "lng": -73.3616014
+  },
+  {
+    "id": "colombia-vallenata-stereo",
+    "name": "Vallenata Stereo",
+    "url": "https://stream-148.zeno.fm/9mpfs57pnc9uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI5bXBmczU3cG5jOXV2IiwiaG9zdCI6InN0cmVhbS0xNDguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiWVd0ZzNRSXNRa3VaZVUxRkVNYmkwZyIsImlhdCI6MTc2OTQxNzc0OCwiZXhwIjoxNzY5NDE3ODA4fQ.XWp9lcOPIUUaxHyaZ9pdgnx7mZkWXEx0J6uaP1k-Tpw",
+    "genre": "Music",
+    "city": "Barranquilla",
+    "country": "Colombia",
+    "lat": 11.0101922,
+    "lng": -74.8231794
+  },
+  {
+    "id": "colombia-radio-recuerdos-1230-am",
+    "name": "Radio Recuerdos 1230 AM",
+    "url": "https://radio35.virtualtronics.com/proxy/radiorecuerdos?mp=/;",
+    "genre": "Music",
+    "city": "Tunja",
+    "country": "Colombia",
+    "lat": 5.5324313,
+    "lng": -73.3616014
+  },
+  {
+    "id": "colombia-olímpica-stereo-fm-921",
+    "name": "Olímpica Stereo FM 92.1",
+    "url": "https://27353.live.streamtheworld.com:443/OLP_BARRANQUILLAAAC.aac",
+    "genre": "Music",
+    "city": "Barranquilla",
+    "country": "Colombia",
+    "lat": 11.0101922,
+    "lng": -74.8231794
+  },
+  {
+    "id": "colombia-emisora-atlantico",
+    "name": "Emisora Atlantico",
+    "url": "https://27443.live.streamtheworld.com:443/ATL_BARRANQUILLA.mp3",
+    "genre": "Music",
+    "city": "Barranquilla",
+    "country": "Colombia",
+    "lat": 11.0101922,
+    "lng": -74.8231794
+  },
+  {
+    "id": "colombia-colboy-stereo-fm-1026",
+    "name": "Colboy Stereo FM 102.6",
+    "url": "https://www.colboy.edu.co/radio.php",
+    "genre": "Music",
+    "city": "Tunja",
+    "country": "Colombia",
+    "lat": 5.5324313,
+    "lng": -73.3616014
+  },
+  {
+    "id": "colombia-la-reina-986-fm",
+    "name": "La Reina 98.6 FM",
+    "url": "https://24403.live.streamtheworld.com:443/RNA_BARRANQUILLA.mp3",
+    "genre": "Music",
+    "city": "Barranquilla",
+    "country": "Colombia",
+    "lat": 11.0101922,
+    "lng": -74.8231794
+  },
+  {
+    "id": "colombia-rf-radio-tunja",
+    "name": "RF Radio Tunja",
+    "url": "https://radio25.virtualtronics.com/proxy/rfradiotunja?mp=/stream",
+    "genre": "Music",
+    "city": "Tunja",
+    "country": "Colombia",
+    "lat": 5.5324313,
+    "lng": -73.3616014
+  },
+  {
+    "id": "colombia-la-morenita",
+    "name": "La Morenita",
+    "url": "https://sonic.paulatina.co/7314/stream",
+    "genre": "Music",
+    "city": "Tunja",
+    "country": "Colombia",
+    "lat": 5.5324313,
+    "lng": -73.3616014
+  },
+  {
+    "id": "colombia-luna-radio-latina",
+    "name": "Luna Radio Latina",
+    "url": "https://stream-177.zeno.fm/u31fgudds2zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1MzFmZ3VkZHMyenV2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoicTlWbWFtM1FRWGk3eXN4Q1JySU04dyIsImlhdCI6MTc2OTQxNzc1MCwiZXhwIjoxNzY5NDE3ODEwfQ.dPszZyvePNWJroTD7Af5wfMzWSCJNapmHhA6WQPxK7c",
+    "genre": "Music",
+    "city": "Barranquilla",
+    "country": "Colombia",
+    "lat": 11.0101922,
+    "lng": -74.8231794
+  },
+  {
+    "id": "colombia-la-fm-tunja",
+    "name": "La FM Tunja",
+    "url": "https://us-b4-p-e-mg17-audio.cdn.mdstrm.com/live-audio/6271a4d5d206c3172f3c9a9c/68e1a8a088b80341f274901f/icecast.audio?aid=6271a4d5d206c3172f3c9a9c&pid=yh5qtBim5IyitO5tN21HWbSq2Bp1l38p&sid=CUcOP3akk5HPiCSAtawACp3owYO3gQIe&uid=MVFaKmzbSy7llGAhDzGTzURwv3gSL28o&es=us-b4-p-e-mg17-audio.cdn.mdstrm.com&ote=1769504150026&ot=dpJQ5OxlcXBmGYfNbdl--g&proto=https&pz=us&cP=128000",
+    "genre": "Music",
+    "city": "Tunja",
+    "country": "Colombia",
+    "lat": 5.5324313,
+    "lng": -73.3616014
+  },
+  {
+    "id": "colombia-la-sonora-891-fm",
+    "name": "La Sonora 89.1 FM",
+    "url": "https://sonic.paulatina.co/7068/stream",
+    "genre": "Music",
+    "city": "Tunja",
+    "country": "Colombia",
+    "lat": 5.5324313,
+    "lng": -73.3616014
+  },
+  {
+    "id": "colombia-aro-radio",
+    "name": "Aro Radio",
+    "url": "http://62.210.38.137:8132/stream?type=http&nocache=3474/;",
+    "genre": "Music",
+    "city": "Ibagué",
+    "country": "Colombia",
+    "lat": 4.4386033,
+    "lng": -75.2108857
+  },
+  {
+    "id": "colombia-única-fm-radio",
+    "name": "Única FM Radio",
+    "url": "https://radio35.virtualtronics.com/proxy/unicafm?mp=/stream",
+    "genre": "Music",
+    "city": "Tunja",
+    "country": "Colombia",
+    "lat": 5.5324313,
+    "lng": -73.3616014
+  },
+  {
+    "id": "colombia-positiva-tunja-1011-fm",
+    "name": "Positiva Tunja 101.1 FM",
+    "url": "https://tupanel.info/stream/2digitalradioHDsslLIVE101/stream",
+    "genre": "Music",
+    "city": "Tunja",
+    "country": "Colombia",
+    "lat": 5.5324313,
+    "lng": -73.3616014
+  },
+  {
+    "id": "colombia-roble-stereo",
+    "name": "Roble Stereo",
+    "url": "http://play14.tikast.com:8657/stream",
+    "genre": "Music",
+    "city": "Tunja",
+    "country": "Colombia",
+    "lat": 5.5324313,
+    "lng": -73.3616014
+  },
+  {
+    "id": "colombia-sistema-aro",
+    "name": "Sistema Aro",
+    "url": "http://62.210.38.137:8132/stream",
+    "genre": "Music",
+    "city": "Ibagué",
+    "country": "Colombia",
+    "lat": 4.4386033,
+    "lng": -75.2108857
+  },
+  {
+    "id": "colombia-matinal-noticias-boyacá",
+    "name": "Matinal Noticias Boyacá",
+    "url": "https://radiohd.streaminghd.co:7541/live",
+    "genre": "Music",
+    "city": "Tunja",
+    "country": "Colombia",
+    "lat": 5.5324313,
+    "lng": -73.3616014
+  },
+  {
+    "id": "colombia-santa-sofia-stereo-fm-966",
+    "name": "Santa Sofia Stereo FM 96.6",
+    "url": "https://radiohd.streaminghd.co:7829/live",
+    "genre": "Music",
+    "city": "Tunja",
+    "country": "Colombia",
+    "lat": 5.5324313,
+    "lng": -73.3616014
+  },
+  {
+    "id": "colombia-manzanar-stereo",
+    "name": "Manzanar Stereo",
+    "url": "https://sonic.paulatina.co:10984/index.html",
+    "genre": "Music",
+    "city": "Tunja",
+    "country": "Colombia",
+    "lat": 5.5324313,
+    "lng": -73.3616014
+  },
+  {
+    "id": "colombia-cristal-boyacá-fm-983",
+    "name": "Cristal Boyacá FM 98.3",
+    "url": "https://impactodigitalcol.com/8020/stream",
+    "genre": "Music",
+    "city": "Tunja",
+    "country": "Colombia",
+    "lat": 5.5324313,
+    "lng": -73.3616014
+  },
+  {
+    "id": "colombia-radio-uno-1021-fm",
+    "name": "Radio Uno 102.1 FM",
+    "url": "https://us-b4-p-e-jn18-audio.cdn.mdstrm.com/live-audio-aw/632cea145b9b38085221d5e1?aid=6271a4d5d206c3172f3c9a9c&pid=ZeYYf5rtprmeJt7Hps13MwLCpgTSJORJ&sid=N5NwCKKREWLQTZwbJbtftCyCTYPvo6A5&uid=L1RWhkxOC3XgMMt9zej1hManbMjyfrmG&es=us-b4-p-e-jn18-audio.cdn.mdstrm.com&ote=1769504150551&ot=ScafzQnHOtoxrtWn7ZqWkA&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=rcn-mundo-go-app-web&liveId=632cea145b9b38085221d5e1&referer=https%3A%2F%2Fradio.garden%2F&propertyName=rcn-mundo-go-app-web&listenerId=L1RWhkxOC3XgMMt9zej1hManbMjyfrmG",
+    "genre": "Music",
+    "city": "Tunja",
+    "country": "Colombia",
+    "lat": 5.5324313,
+    "lng": -73.3616014
+  },
+  {
+    "id": "colombia-caracol-tunja",
+    "name": "Caracol Tunja",
+    "url": "https://27393.live.streamtheworld.com:443/CR_TUNJAAAC.aac",
+    "genre": "Music",
+    "city": "Tunja",
+    "country": "Colombia",
+    "lat": 5.5324313,
+    "lng": -73.3616014
+  },
+  {
+    "id": "colombia-tolima-online",
+    "name": "Tolima Online",
+    "url": "https://virtual4.emisorasvirtuales.com:8190/live",
+    "genre": "Music",
+    "city": "Ibagué",
+    "country": "Colombia",
+    "lat": 4.4386033,
+    "lng": -75.2108857
+  },
+  {
+    "id": "colombia-la-patrona-1025-fm",
+    "name": "La Patrona 102.5 FM",
+    "url": "https://sonicpanel1.vpsempresa.com/8008/stream",
+    "genre": "Music",
+    "city": "Ibagué",
+    "country": "Colombia",
+    "lat": 4.4386033,
+    "lng": -75.2108857
+  },
+  {
+    "id": "colombia-radio-policía-ibague-1000-fm",
+    "name": "Radio Policía Ibagué 100.0 FM",
+    "url": "https://radio.policia.gov.co:8080/Ibague",
+    "genre": "Music",
+    "city": "Ibagué",
+    "country": "Colombia",
+    "lat": 4.4386033,
+    "lng": -75.2108857
+  },
+  {
+    "id": "colombia-emisora-onda-5",
+    "name": "Emisora Onda 5",
+    "url": "http://radio25.virtualtronics.com:8060/stream",
+    "genre": "Music",
+    "city": "Bucaramanga",
+    "country": "Colombia",
+    "lat": 7.1669842,
+    "lng": -73.1047294
+  },
+  {
+    "id": "colombia-tolima-radio-923-fm",
+    "name": "Tolima Radio 92.3 FM",
+    "url": "https://colombiawebs.com.co/proxy/radiolum/stream",
+    "genre": "Music",
+    "city": "Ibagué",
+    "country": "Colombia",
+    "lat": 4.4386033,
+    "lng": -75.2108857
+  },
+  {
+    "id": "colombia-mercacentro-radio-on-line",
+    "name": "Mercacentro Radio On Line",
+    "url": "https://radiohd.streaminghd.co:7089/stream",
+    "genre": "Music",
+    "city": "Ibagué",
+    "country": "Colombia",
+    "lat": 4.4386033,
+    "lng": -75.2108857
+  },
+  {
+    "id": "colombia-ciudad-y-región",
+    "name": "Ciudad y Región",
+    "url": "https://emisoras.colombiacrossover.com/proxy/zciudadyregion?mp=/stream",
+    "genre": "Music",
+    "city": "Ibagué",
+    "country": "Colombia",
+    "lat": 4.4386033,
+    "lng": -75.2108857
+  },
+  {
+    "id": "colombia-noticiero-enfoque",
+    "name": "Noticiero Enfoque",
+    "url": "https://radiohd3.streaminghd.co:8032/stream",
+    "genre": "Music",
+    "city": "Ibagué",
+    "country": "Colombia",
+    "lat": 4.4386033,
+    "lng": -75.2108857
+  },
+  {
+    "id": "colombia-calor-stereo-1079-fm",
+    "name": "Calor Stereo 107.9 FM",
+    "url": "https://vps1contabo.sensem.com.co:8100/calorstereo.mp3",
+    "genre": "Music",
+    "city": "Bucaramanga",
+    "country": "Colombia",
+    "lat": 7.1669842,
+    "lng": -73.1047294
+  },
+  {
+    "id": "colombia-smp-bucaramanga",
+    "name": "SMP Bucaramanga",
+    "url": "https://play10.tikast.com/proxy/sociedaddemejoras?mp=/stream",
+    "genre": "Music",
+    "city": "Bucaramanga",
+    "country": "Colombia",
+    "lat": 7.1669842,
+    "lng": -73.1047294
+  },
+  {
+    "id": "colombia-la-zona-radio-916-fm",
+    "name": "La Zona Radio 91.6 FM",
+    "url": "https://server1.intermediacolombia.com/8012/stream",
+    "genre": "Music",
+    "city": "Ibagué",
+    "country": "Colombia",
+    "lat": 4.4386033,
+    "lng": -75.2108857
+  },
+  {
+    "id": "colombia-olímpica-stereo-fm-943",
+    "name": "Olímpica Stereo FM 94.3",
+    "url": "https://18323.live.streamtheworld.com:443/OLP_IBAGUEAAC.aac",
+    "genre": "Music",
+    "city": "Ibagué",
+    "country": "Colombia",
+    "lat": 4.4386033,
+    "lng": -75.2108857
+  },
+  {
+    "id": "colombia-estación-v",
+    "name": "Estación V",
+    "url": "https://stream.estacionv.com:8443/main",
+    "genre": "Music",
+    "city": "Bucaramanga",
+    "country": "Colombia",
+    "lat": 7.1669842,
+    "lng": -73.1047294
+  },
+  {
+    "id": "colombia-uis-estereo-fm-969",
+    "name": "UIS Estéreo FM 96.9",
+    "url": "http://radio.uis.edu.co:8000/mp3",
+    "genre": "Music",
+    "city": "Bucaramanga",
+    "country": "Colombia",
+    "lat": 7.1669842,
+    "lng": -73.1047294
+  },
+  {
+    "id": "colombia-uis-am-670",
+    "name": "UIS AM 670",
+    "url": "http://radio.uis.edu.co:8000/mp3am",
+    "genre": "Music",
+    "city": "Bucaramanga",
+    "country": "Colombia",
+    "lat": 7.1669842,
+    "lng": -73.1047294
+  },
+  {
+    "id": "colombia-radio-poesía-online",
+    "name": "Radio Poesía Online",
+    "url": "https://stream-177.zeno.fm/k933gg6nbwzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJrOTMzZ2c2bmJ3enV2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiSlBmajE2V2ZRYkdsbzd3Zjl3dHV2dyIsImlhdCI6MTc2OTQxNzc1NSwiZXhwIjoxNzY5NDE3ODE1fQ.35O_3-aBnN1aWOEXEtuJ1WGFw698cWQLCTiTwvWshcw",
+    "genre": "Music",
+    "city": "Ibagué",
+    "country": "Colombia",
+    "lat": 4.4386033,
+    "lng": -75.2108857
+  },
+  {
+    "id": "colombia-tropicana-ibague-1063-fm",
+    "name": "Tropicana Ibagué 106.3 FM",
+    "url": "https://27413.live.streamtheworld.com:443/TR_IBAGUEAAC.aac",
+    "genre": "Music",
+    "city": "Ibagué",
+    "country": "Colombia",
+    "lat": 4.4386033,
+    "lng": -75.2108857
+  },
+  {
+    "id": "colombia-nachoteca-radio",
+    "name": "Nachoteca Radio",
+    "url": "http://radio45.virtualtronics.com:8346/stream",
+    "genre": "Music",
+    "city": "Pereira",
+    "country": "Colombia",
+    "lat": 4.7854606,
+    "lng": -75.788322
+  },
+  {
+    "id": "colombia-emisora-el-parche",
+    "name": "Emisora El Parche",
+    "url": "https://radiohd.streaminghd.co:7172/stream",
+    "genre": "Music",
+    "city": "Bucaramanga",
+    "country": "Colombia",
+    "lat": 7.1669842,
+    "lng": -73.1047294
+  },
+  {
+    "id": "colombia-radio-eje-del-cafe",
+    "name": "Radio Eje del Café",
+    "url": "https://play10.tikast.com/proxy/ejedelcafe?mp=/stream",
+    "genre": "Music",
+    "city": "Pereira",
+    "country": "Colombia",
+    "lat": 4.7854606,
+    "lng": -75.788322
+  },
+  {
+    "id": "colombia-tropicana-bucaramanga",
+    "name": "Tropicana Bucaramanga",
+    "url": "https://14073.live.streamtheworld.com:443/TR_BUCARAMANGAAAC.aac",
+    "genre": "Music",
+    "city": "Bucaramanga",
+    "country": "Colombia",
+    "lat": 7.1669842,
+    "lng": -73.1047294
+  },
+  {
+    "id": "colombia-ebs-radio-digital",
+    "name": "EBS Radio Digital",
+    "url": "https://servidor23.brlogic.com:7054/live",
+    "genre": "Music",
+    "city": "Ibagué",
+    "country": "Colombia",
+    "lat": 4.4386033,
+    "lng": -75.2108857
+  },
+  {
+    "id": "colombia-la-nueva-stereo-1027-fm",
+    "name": "La Nueva Stereo 102.7 FM",
+    "url": "https://sonic.paulatina.co/8056/stream",
+    "genre": "Music",
+    "city": "Bucaramanga",
+    "country": "Colombia",
+    "lat": 7.1669842,
+    "lng": -73.1047294
+  },
+  {
+    "id": "colombia-olímpica-stereo-fm-977",
+    "name": "Olímpica Stereo FM 97.7",
+    "url": "https://22203.live.streamtheworld.com:443/OLP_BUCARAMANGAAAC.aac",
+    "genre": "Music",
+    "city": "Bucaramanga",
+    "country": "Colombia",
+    "lat": 7.1669842,
+    "lng": -73.1047294
+  },
+  {
+    "id": "colombia-la-ciber-radio-942-fm",
+    "name": "La Ciber Radio 94.2 FM",
+    "url": "https://server2.ejeserver.com:9970/stream",
+    "genre": "Music",
+    "city": "Pereira",
+    "country": "Colombia",
+    "lat": 4.7854606,
+    "lng": -75.788322
+  },
+  {
+    "id": "colombia-la-m-radio",
+    "name": "La M Radio",
+    "url": "https://stream-153.zeno.fm/t9adtdpzdnzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0OWFkdGRwemRuenV2IiwiaG9zdCI6InN0cmVhbS0xNTMuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiM1RrSHNwd1VUbXV5Vi1GWVVZNzRuZyIsImlhdCI6MTc2OTQxNzc1NywiZXhwIjoxNzY5NDE3ODE3fQ.Frsh00uZANId93JZSqR4k4FcudPBagXGadlU3tk-W-4",
+    "genre": "Music",
+    "city": "Bucaramanga",
+    "country": "Colombia",
+    "lat": 7.1669842,
+    "lng": -73.1047294
+  },
+  {
+    "id": "colombia-pamplona-colombia-radio",
+    "name": "Pamplona Colombia Radio",
+    "url": "https://radios.indusaba.com/listen/pamplona_colombia_radio/radio.mp3",
+    "genre": "Music",
+    "city": "Bucaramanga",
+    "country": "Colombia",
+    "lat": 7.1669842,
+    "lng": -73.1047294
+  },
+  {
+    "id": "colombia-caracol-radio-880-am",
+    "name": "Caracol Radio 880 AM",
+    "url": "https://24283.live.streamtheworld.com:443/CR_BUCARAMAAAC.aac",
+    "genre": "Music",
+    "city": "Bucaramanga",
+    "country": "Colombia",
+    "lat": 7.1669842,
+    "lng": -73.1047294
+  },
+  {
+    "id": "colombia-ecos-am-1360",
+    "name": "Ecos AM 1360",
+    "url": "https://conectadosmultimedia.com.co/proxy/ecos/stream",
+    "genre": "Music",
+    "city": "Pereira",
+    "country": "Colombia",
+    "lat": 4.7854606,
+    "lng": -75.788322
+  },
+  {
+    "id": "colombia-universitaria-estereo",
+    "name": "Universitaria Estéreo",
+    "url": "http://streaming.utp.edu.co:8000/index.html?sid=1",
+    "genre": "Music",
+    "city": "Pereira",
+    "country": "Colombia",
+    "lat": 4.7854606,
+    "lng": -75.788322
+  },
+  {
+    "id": "colombia-besame-bucaramanga",
+    "name": "Bésame Bucaramanga",
+    "url": "https://26643.live.streamtheworld.com:443/BESAME_BUCARAMANGAAAC.aac",
+    "genre": "Music",
+    "city": "Bucaramanga",
+    "country": "Colombia",
+    "lat": 7.1669842,
+    "lng": -73.1047294
+  },
+  {
+    "id": "colombia-el-sol-1037-fm",
+    "name": "El Sol 103.7 FM",
+    "url": "https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/632cc5d948f73909a614ab93?aid=6271a4d5d206c3172f3c9a9c&pid=deExHwpoQa7c2qDgxhbqn4hmDb6UBK8a&sid=E5kOgPwF4sNh5aBMyJkanUWQxJLcUMke&uid=GpMhwVREcebLVw1viNX1XPzqHlLGNC3L&es=us-b4-p-e-zs14-audio.cdn.mdstrm.com&ote=1769504157313&ot=MqN60mzeq7hpa9T3dWxdRw&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=rcn-mundo-go-app-web&liveId=632cc5d948f73909a614ab93&referer=https%3A%2F%2Fradio.garden%2F&propertyName=rcn-mundo-go-app-web&listenerId=GpMhwVREcebLVw1viNX1XPzqHlLGNC3L",
+    "genre": "Music",
+    "city": "Bucaramanga",
+    "country": "Colombia",
+    "lat": 7.1669842,
+    "lng": -73.1047294
+  },
+  {
+    "id": "colombia-única-fm-995",
+    "name": "Única FM 99.5",
+    "url": "https://play10.tikast.com/proxy/unicafm?mp=/stream",
+    "genre": "Music",
+    "city": "Pereira",
+    "country": "Colombia",
+    "lat": 4.7854606,
+    "lng": -75.788322
+  },
+  {
+    "id": "colombia-mi-gente-stereo",
+    "name": "Mi Gente Stereo",
+    "url": "https://play14.tikast.com:22050/stream/",
+    "genre": "Music",
+    "city": "Pereira",
+    "country": "Colombia",
+    "lat": 4.7854606,
+    "lng": -75.788322
+  },
+  {
+    "id": "colombia-radio-nasa-fm-1027",
+    "name": "Radio Nasa FM 102.7",
+    "url": "https://play8.tikast.com/proxy/radionasa?mp=/stream",
+    "genre": "Music",
+    "city": "Pereira",
+    "country": "Colombia",
+    "lat": 4.7854606,
+    "lng": -75.788322
+  },
+  {
+    "id": "colombia-celestial-stereo",
+    "name": "Celestial Stereo",
+    "url": "https://stream2.305stream.com/proxy/client059?mp=/stream",
+    "genre": "Music",
+    "city": "Pereira",
+    "country": "Colombia",
+    "lat": 4.7854606,
+    "lng": -75.788322
+  },
+  {
+    "id": "colombia-sembrando-estereo-fm-901",
+    "name": "Sembrando Estereo FM 90.1",
+    "url": "https://sonic.paulatina.co/8168/stream",
+    "genre": "Music",
+    "city": "Pereira",
+    "country": "Colombia",
+    "lat": 4.7854606,
+    "lng": -75.788322
+  },
+  {
+    "id": "colombia-la-u-fm",
+    "name": "La U FM",
+    "url": "https://c11.radioboss.fm:18054/stream",
+    "genre": "Music",
+    "city": "Armenia, Quindio",
+    "country": "Colombia",
+    "lat": 4.4919761,
+    "lng": -75.7413509
+  },
+  {
+    "id": "colombia-olímpica-stereo-fm-1027",
+    "name": "Olímpica Stereo FM 102.7",
+    "url": "https://24383.live.streamtheworld.com:443/OLP_PEREIRAAAC.aac",
+    "genre": "Music",
+    "city": "Pereira",
+    "country": "Colombia",
+    "lat": 4.7854606,
+    "lng": -75.788322
+  },
+  {
+    "id": "colombia-intermedia-fm",
+    "name": "Intermedia FM",
+    "url": "https://server1.intermediacolombia.com:8044/stream",
+    "genre": "Music",
+    "city": "Armenia, Quindio",
+    "country": "Colombia",
+    "lat": 4.4919761,
+    "lng": -75.7413509
+  },
+  {
+    "id": "colombia-besame-pereira",
+    "name": "Bésame Pereira",
+    "url": "https://27373.live.streamtheworld.com:443/BESAME_PEREIRA_FMAAC.aac",
+    "genre": "Music",
+    "city": "Pereira",
+    "country": "Colombia",
+    "lat": 4.7854606,
+    "lng": -75.788322
+  },
+  {
+    "id": "colombia-emisora-cultural-977-fm",
+    "name": "Emisora Cultural 97.7 FM",
+    "url": "https://server1.intermediacolombia.com:8028/index.html?sid=1",
+    "genre": "Music",
+    "city": "Pereira",
+    "country": "Colombia",
+    "lat": 4.7854606,
+    "lng": -75.788322
+  },
+  {
+    "id": "colombia-alcalá-fm-stereo-1034",
+    "name": "Alcalá FM Stereo 103.4",
+    "url": "https://stream-178.zeno.fm/0s3adxakxy8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwczNhZHhha3h5OHV2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiQlZqX2JkakNTN09hS0VCTVlESkgxdyIsImlhdCI6MTc2OTQxNzc2MSwiZXhwIjoxNzY5NDE3ODIxfQ.Q6ZmIXx-2Kka-0EvQMiQuK_Eo6cMETAsSU0zzsc6lO8",
+    "genre": "Music",
+    "city": "Pereira",
+    "country": "Colombia",
+    "lat": 4.7854606,
+    "lng": -75.788322
+  },
+  {
+    "id": "colombia-bambú-estereo",
+    "name": "Bambú Estéreo",
+    "url": "https://virtual3.emisorasvirtuales.com:8130/live",
+    "genre": "Music",
+    "city": "Armenia, Quindio",
+    "country": "Colombia",
+    "lat": 4.4919761,
+    "lng": -75.7413509
+  },
+  {
+    "id": "colombia-masmusicafm",
+    "name": "MASMUSICA.FM",
+    "url": "https://server2.ejeserver.com:8720/live",
+    "genre": "Music",
+    "city": "Armenia, Quindio",
+    "country": "Colombia",
+    "lat": 4.4919761,
+    "lng": -75.7413509
+  },
+  {
+    "id": "colombia-ulloa-fm-1041",
+    "name": "Ulloa FM 104.1",
+    "url": "http://radio40.virtualtronics.com:8400/stream",
+    "genre": "Music",
+    "city": "Armenia, Quindio",
+    "country": "Colombia",
+    "lat": 4.4919761,
+    "lng": -75.7413509
+  },
+  {
+    "id": "colombia-transmisora-quindio-720am",
+    "name": "Transmisora Quindio 720am",
+    "url": "https://server2.ejeserver.com:8060/stream",
+    "genre": "Music",
+    "city": "Armenia, Quindio",
+    "country": "Colombia",
+    "lat": 4.4919761,
+    "lng": -75.7413509
+  },
+  {
+    "id": "colombia-tropicana-pereira",
+    "name": "Tropicana Pereira",
+    "url": "https://14153.live.streamtheworld.com:443/TR_PEREIRAAAC.aac",
+    "genre": "Music",
+    "city": "Pereira",
+    "country": "Colombia",
+    "lat": 4.7854606,
+    "lng": -75.788322
+  },
+  {
+    "id": "colombia-la-super-estación-fm-1041",
+    "name": "La Super Estación FM 104.1",
+    "url": "https://server1.intermediacolombia.com:7004/stream",
+    "genre": "Music",
+    "city": "Armenia, Quindio",
+    "country": "Colombia",
+    "lat": 4.4919761,
+    "lng": -75.7413509
+  },
+  {
+    "id": "colombia-olímpica-stereo-fm-961",
+    "name": "Olímpica Stereo FM 96.1",
+    "url": "https://24413.live.streamtheworld.com:443/OLP_ARMENIAAAC.aac",
+    "genre": "Music",
+    "city": "Armenia, Quindio",
+    "country": "Colombia",
+    "lat": 4.4919761,
+    "lng": -75.7413509
+  },
+  {
+    "id": "colombia-radio-esperanza-1140-am",
+    "name": "Radio Esperanza 1140 AM",
+    "url": "https://radio35.virtualtronics.com/proxy/radioesperanza?mp=/stream;",
+    "genre": "Music",
+    "city": "Cartagena",
+    "country": "Colombia",
+    "lat": 10.4265566,
+    "lng": -75.5441671
+  },
+  {
+    "id": "colombia-la-mega-fm-967",
+    "name": "La Mega FM 96.7",
+    "url": "https://us-b4-p-e-mg17-audio.cdn.mdstrm.com/live-audio-aw/633d83bf3b07310855f79c40?aid=6271a4d5d206c3172f3c9a9c&pid=pdvzg8uMxR1WuKtJmwJQLj4WVqRgfZbC&sid=aDejQ6TWKWQ6UYYA3LftVFXe0UKR2dfc&uid=a8u6OD00ZS1kgxY7OWGY7jhVoQBhZE6U&es=us-b4-p-e-mg17-audio.cdn.mdstrm.com&ote=1769504161860&ot=Eu6FMLQNDDnizLDP42mALA&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=rcn-mundo-go-app-web&liveId=633d83bf3b07310855f79c40&referer=https%3A%2F%2Fradio.garden%2F&propertyName=rcn-mundo-go-app-web&listenerId=a8u6OD00ZS1kgxY7OWGY7jhVoQBhZE6U",
+    "genre": "Music",
+    "city": "Armenia, Quindio",
+    "country": "Colombia",
+    "lat": 4.4919761,
+    "lng": -75.7413509
+  },
+  {
+    "id": "colombia-cristiana-radio",
+    "name": "Cristiana Radio",
+    "url": "https://sonicpanel.streaming10.net/8178/stream",
+    "genre": "Music",
+    "city": "Cartagena",
+    "country": "Colombia",
+    "lat": 10.4265566,
+    "lng": -75.5441671
+  },
+  {
+    "id": "colombia-quimbaya-estereo",
+    "name": "Quimbaya Estéreo",
+    "url": "https://play14.tikast.com:22037/stream/",
+    "genre": "Music",
+    "city": "Armenia, Quindio",
+    "country": "Colombia",
+    "lat": 4.4919761,
+    "lng": -75.7413509
+  },
+  {
+    "id": "colombia-la-jefa-fm-913",
+    "name": "La Jefa FM 91.3",
+    "url": "https://stream-156.zeno.fm/fg3zq819na0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJmZzN6cTgxOW5hMHV2IiwiaG9zdCI6InN0cmVhbS0xNTYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiVzZKMjBDcFZTdGE0UFRKc0R2NFozZyIsImlhdCI6MTc2OTQxNzc2NCwiZXhwIjoxNzY5NDE3ODI0fQ.MFX5PaXj2LSNnK-8Lv86RRV7UtFLd5xHLfaloYWmhlk",
+    "genre": "Music",
+    "city": "Armenia, Quindio",
+    "country": "Colombia",
+    "lat": 4.4919761,
+    "lng": -75.7413509
+  },
+  {
+    "id": "colombia-besame-armenia",
+    "name": "Bésame Armenia",
+    "url": "https://27393.live.streamtheworld.com:443/BESAME_ARMENIA_SC",
+    "genre": "Music",
+    "city": "Armenia, Quindio",
+    "country": "Colombia",
+    "lat": 4.4919761,
+    "lng": -75.7413509
+  },
+  {
+    "id": "colombia-sra-arepa-radio",
+    "name": "Sra. Arepa Radio",
+    "url": "https://80.streeemer.com/listen/80s/radio.aac",
+    "genre": "Music",
+    "city": "Cartagena",
+    "country": "Colombia",
+    "lat": 10.4265566,
+    "lng": -75.5441671
+  },
+  {
+    "id": "colombia-dimensión-estereo",
+    "name": "Dimensión Estéreo",
+    "url": "https://dimensionst-webctgena.radioca.st/stream",
+    "genre": "Music",
+    "city": "Cartagena",
+    "country": "Colombia",
+    "lat": 10.4265566,
+    "lng": -75.5441671
+  },
+  {
+    "id": "colombia-radio-misión-celestial-fm-1041",
+    "name": "Radio Misión Celestial FM 104.1",
+    "url": "https://play12.tikast.com/proxy/misioncelestial?mp=/stream?",
+    "genre": "Music",
+    "city": "Cartagena",
+    "country": "Colombia",
+    "lat": 10.4265566,
+    "lng": -75.5441671
+  },
+  {
+    "id": "colombia-tropicana-armenia",
+    "name": "Tropicana Armenia",
+    "url": "https://26513.live.streamtheworld.com:443/TR_ARMENIAAAC.aac",
+    "genre": "Music",
+    "city": "Armenia, Quindio",
+    "country": "Colombia",
+    "lat": 4.4919761,
+    "lng": -75.7413509
+  },
+  {
+    "id": "colombia-sonido-virtual",
+    "name": "Sonido Virtual",
+    "url": "https://sonidovirtual-webctgena.radioca.st/stream",
+    "genre": "Music",
+    "city": "Cartagena",
+    "country": "Colombia",
+    "lat": 10.4265566,
+    "lng": -75.5441671
+  },
+  {
+    "id": "colombia-arauna-stereo-1041-fm",
+    "name": "Arauna Stereo 104.1 FM",
+    "url": "https://samuel.i-radio.co:8000/araunastereo",
+    "genre": "Music",
+    "city": "Pereira",
+    "country": "Colombia",
+    "lat": 4.7854606,
+    "lng": -75.788322
+  },
+  {
+    "id": "colombia-alr-jazz-radio",
+    "name": "ALR Jazz Radio",
+    "url": "https://radio30.virtualtronics.com/proxy/abaco?mp=/stream",
+    "genre": "Music",
+    "city": "Cartagena",
+    "country": "Colombia",
+    "lat": 10.4265566,
+    "lng": -75.5441671
+  },
+  {
+    "id": "colombia-marina-stereo-917-fm",
+    "name": "Marina Stereo 91.7 FM",
+    "url": "https://tustreamingradios2.com/8108/stream",
+    "genre": "Music",
+    "city": "Cartagena",
+    "country": "Colombia",
+    "lat": 10.4265566,
+    "lng": -75.5441671
+  },
+  {
+    "id": "colombia-santa-rosa-fm-stereo",
+    "name": "Santa Rosa FM Stereo",
+    "url": "https://radiohd.streaminghd.co:7011/live",
+    "genre": "Music",
+    "city": "Cartagena",
+    "country": "Colombia",
+    "lat": 10.4265566,
+    "lng": -75.5441671
+  },
+  {
+    "id": "colombia-la-reina",
+    "name": "La Reina",
+    "url": "https://24383.live.streamtheworld.com:443/RNA_CARTAGENA.mp3",
+    "genre": "Music",
+    "city": "Cartagena",
+    "country": "Colombia",
+    "lat": 10.4265566,
+    "lng": -75.5441671
+  },
+  {
+    "id": "colombia-sabrosaza",
+    "name": "SabrosaZa",
+    "url": "https://radio25.virtualtronics.com/proxy/sabrosaza?mp=/stream",
+    "genre": "Music",
+    "city": "Valledupar",
+    "country": "Colombia",
+    "lat": 10.4651733,
+    "lng": -73.2529512
+  },
+  {
+    "id": "colombia-olímpica-stereo-fm-905",
+    "name": "Olímpica Stereo FM 90.5",
+    "url": "https://24273.live.streamtheworld.com:443/OLP_CARTAGENAAAC.aac",
+    "genre": "Music",
+    "city": "Cartagena",
+    "country": "Colombia",
+    "lat": 10.4265566,
+    "lng": -75.5441671
+  },
+  {
+    "id": "colombia-la-voz-del-cañaguate-860-am",
+    "name": "La Voz Del Cañaguate 860 AM",
+    "url": "https://sonic.paulatina.co/7278/stream",
+    "genre": "Music",
+    "city": "Valledupar",
+    "country": "Colombia",
+    "lat": 10.4651733,
+    "lng": -73.2529512
+  },
+  {
+    "id": "colombia-radio-tiempo-fm-885",
+    "name": "Radio Tiempo FM 88.5",
+    "url": "https://24413.live.streamtheworld.com:443/RT_CARTAGENAAAC.aac",
+    "genre": "Music",
+    "city": "Cartagena",
+    "country": "Colombia",
+    "lat": 10.4265566,
+    "lng": -75.5441671
+  },
+  {
+    "id": "colombia-sistema-cardenal-1050-am",
+    "name": "Sistema Cardenal 1050 AM",
+    "url": "https://usest-sp1.golivestream.net/8016/stream",
+    "genre": "Music",
+    "city": "Valledupar",
+    "country": "Colombia",
+    "lat": 10.4651733,
+    "lng": -73.2529512
+  },
+  {
+    "id": "colombia-tropicana-cartagena",
+    "name": "Tropicana Cartagena",
+    "url": "https://27393.live.streamtheworld.com:443/TR_CARTAGENAAAC.aac",
+    "genre": "Music",
+    "city": "Cartagena",
+    "country": "Colombia",
+    "lat": 10.4265566,
+    "lng": -75.5441671
+  },
+  {
+    "id": "colombia-mix-radio-fm-1067",
+    "name": "Mix Radio FM 106.7",
+    "url": "https://24413.live.streamtheworld.com:443/MIX_VALLEDUPARAAC.aac",
+    "genre": "Music",
+    "city": "Valledupar",
+    "country": "Colombia",
+    "lat": 10.4651733,
+    "lng": -73.2529512
+  },
+  {
+    "id": "colombia-radio-vida-en-familia",
+    "name": "Radio Vida En Familia",
+    "url": "https://servidor16.brlogic.com:7238/live",
+    "genre": "Music",
+    "city": "Armenia, Quindio",
+    "country": "Colombia",
+    "lat": 4.4919761,
+    "lng": -75.7413509
+  },
+  {
+    "id": "colombia-sensación-stereo-fm-1065",
+    "name": "Sensación Stereo FM 106.5",
+    "url": "https://stream-158.zeno.fm/r9mbyqtxd5zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJyOW1ieXF0eGQ1enV2IiwiaG9zdCI6InN0cmVhbS0xNTguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiVG5oZHZvXzlSa2FES0g2TWdVQVdtQSIsImlhdCI6MTc2OTQxNzc2OCwiZXhwIjoxNzY5NDE3ODI4fQ.jA4IfgaPZZt5R9AHpqYF4WLZ6bCpuSMpGgP05MPdg2Q",
+    "genre": "Music",
+    "city": "Cartagena",
+    "country": "Colombia",
+    "lat": 10.4265566,
+    "lng": -75.5441671
+  },
+  {
+    "id": "colombia-radio-guatapurí",
+    "name": "Radio Guatapurí",
+    "url": "https://sonic.paulatina.co/7106/stream",
+    "genre": "Music",
+    "city": "Valledupar",
+    "country": "Colombia",
+    "lat": 10.4651733,
+    "lng": -73.2529512
+  },
+  {
+    "id": "colombia-la-mega-fm-945",
+    "name": "La Mega FM 94.5",
+    "url": "https://us-b4-p-e-ml19-audio.cdn.mdstrm.com/live-audio-aw/632cca2248f73909a614ac30?aid=6271a4d5d206c3172f3c9a9c&pid=MfwA3cKTx8vAbus98THmFkanf3grJrZT&sid=nWxNDjOP3sPjllz2O8pOGST53SfRybsB&uid=KDXFJq8p8LNzsVlDd8EEgS7fPevKaMfD&es=us-b4-p-e-ml19-audio.cdn.mdstrm.com&ote=1769504167417&ot=mOwTvT9ahQwieBBiCn-i6Q&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=rcn-mundo-go-app-web&liveId=632cca2248f73909a614ac30&referer=https%3A%2F%2Fradio.garden%2F&propertyName=rcn-mundo-go-app-web&listenerId=KDXFJq8p8LNzsVlDd8EEgS7fPevKaMfD",
+    "genre": "Music",
+    "city": "Cartagena",
+    "country": "Colombia",
+    "lat": 10.4265566,
+    "lng": -75.5441671
+  },
+  {
+    "id": "colombia-cerro-murillo-stereo",
+    "name": "Cerro Murillo Stereo",
+    "url": "https://sonic.paulatina.co/8048/stream",
+    "genre": "Music",
+    "city": "Valledupar",
+    "country": "Colombia",
+    "lat": 10.4651733,
+    "lng": -73.2529512
+  },
+  {
+    "id": "colombia-dibulla-stereo-1071-fm",
+    "name": "Dibulla Stereo 107.1 FM",
+    "url": "https://virtual4.emisorasvirtuales.com:8100/live",
+    "genre": "Music",
+    "city": "Valledupar",
+    "country": "Colombia",
+    "lat": 10.4651733,
+    "lng": -73.2529512
+  },
+  {
+    "id": "colombia-fm-santander",
+    "name": "FM Santander",
+    "url": "http://163.172.198.16:8510/stream",
+    "genre": "Music",
+    "city": "Cúcuta",
+    "country": "Colombia",
+    "lat": 8.0776187,
+    "lng": -72.4689002
+  },
+  {
+    "id": "colombia-cacica-stereo-fm-897",
+    "name": "Cacica Stereo FM 89.7",
+    "url": "https://sonic.paulatina.co/7062/stream",
+    "genre": "Music",
+    "city": "Valledupar",
+    "country": "Colombia",
+    "lat": 10.4651733,
+    "lng": -73.2529512
+  },
+  {
+    "id": "colombia-el-jilguero-stereo",
+    "name": "El Jilguero Stereo",
+    "url": "http://s1.vpsradio.com:9986/;stream.nsv",
+    "genre": "Music",
+    "city": "Valledupar",
+    "country": "Colombia",
+    "lat": 10.4651733,
+    "lng": -73.2529512
+  },
+  {
+    "id": "colombia-sensacion-stereo-fm-892",
+    "name": "Sensacion Stereo FM 89.2",
+    "url": "https://radiolatina.info/9908/stream",
+    "genre": "Music",
+    "city": "Valledupar",
+    "country": "Colombia",
+    "lat": 10.4651733,
+    "lng": -73.2529512
+  },
+  {
+    "id": "colombia-fiesta-stereo-1077-fm",
+    "name": "Fiesta Stéreo 107.7 FM",
+    "url": "https://streaming.radiosenlinea.com.ar/8744/stream",
+    "genre": "Music",
+    "city": "Valledupar",
+    "country": "Colombia",
+    "lat": 10.4651733,
+    "lng": -73.2529512
+  },
+  {
+    "id": "colombia-olímpica-stereo-fm-937",
+    "name": "Olímpica Stereo FM 93.7",
+    "url": "https://27603.live.streamtheworld.com:443/OLP_VALLEDUPARAAC.aac",
+    "genre": "Music",
+    "city": "Valledupar",
+    "country": "Colombia",
+    "lat": 10.4651733,
+    "lng": -73.2529512
+  },
+  {
+    "id": "colombia-la-voz-del-norte-am-1040",
+    "name": "La Voz del Norte AM 1040",
+    "url": "https://play10.tikast.com:20021/stream/",
+    "genre": "Music",
+    "city": "Cúcuta",
+    "country": "Colombia",
+    "lat": 8.0776187,
+    "lng": -72.4689002
+  },
+  {
+    "id": "colombia-vallenateandocom",
+    "name": "Vallenateando.com",
+    "url": "https://s1-ssl.vpsradio.com/radio/8036/radio.acc",
+    "genre": "Music",
+    "city": "Valledupar",
+    "country": "Colombia",
+    "lat": 10.4651733,
+    "lng": -73.2529512
+  },
+  {
+    "id": "colombia-la-voz-de-la-provincia-de-padilla-1530-am",
+    "name": "La Voz de la Provincia de Padilla 1530 AM",
+    "url": "https://stream-179.zeno.fm/ipewj5ugkixvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJpcGV3ajV1Z2tpeHZ2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoicldJclp0RWFUcXlMN01pa09PV0swZyIsImlhdCI6MTc2OTQxNzc3MSwiZXhwIjoxNzY5NDE3ODMxfQ.7XlVAlTr8COBK9LmEALhVp4gukIuFULz88Yszq99_X4",
+    "genre": "Music",
+    "city": "Valledupar",
+    "country": "Colombia",
+    "lat": 10.4651733,
+    "lng": -73.2529512
+  },
+  {
+    "id": "colombia-vibra-radio",
+    "name": "Vibra Radio",
+    "url": "https://radio35.virtualtronics.com:20152/index.html?sid=1",
+    "genre": "Music",
+    "city": "Cúcuta",
+    "country": "Colombia",
+    "lat": 8.0776187,
+    "lng": -72.4689002
+  },
+  {
+    "id": "colombia-frecuencia-f-am-1370",
+    "name": "Frecuencia F AM 1370",
+    "url": "https://radio.frecuenciaf.com/envivo",
+    "genre": "Music",
+    "city": "Cúcuta",
+    "country": "Colombia",
+    "lat": 8.0776187,
+    "lng": -72.4689002
+  },
+  {
+    "id": "colombia-fonseca-stereo-883-fm",
+    "name": "Fonseca Stereo 88.3 FM",
+    "url": "https://stream-155.zeno.fm/cep2gepcqzftv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjZXAyZ2VwY3F6ZnR2IiwiaG9zdCI6InN0cmVhbS0xNTUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoieElPY2s3MWFTbUdZQjFjaUQxelgwQSIsImlhdCI6MTc2OTQxNzc3MSwiZXhwIjoxNzY5NDE3ODMxfQ.CmDKmtPAELK2VVGMpQS_GH4indQblXkUFB6cJS15Cw0",
+    "genre": "Music",
+    "city": "Valledupar",
+    "country": "Colombia",
+    "lat": 10.4651733,
+    "lng": -73.2529512
+  },
+  {
+    "id": "colombia-radio-edunorte",
+    "name": "Radio Edunorte",
+    "url": "https://sp1.radiosonline.xyz/8166/stream",
+    "genre": "Music",
+    "city": "Cúcuta",
+    "country": "Colombia",
+    "lat": 8.0776187,
+    "lng": -72.4689002
+  },
+  {
+    "id": "colombia-orakamix",
+    "name": "OrakaMix",
+    "url": "https://radio35.virtualtronics.com/proxy/orakamix?mp=/;",
+    "genre": "Music",
+    "city": "Manizales",
+    "country": "Colombia",
+    "lat": 5.0743694,
+    "lng": -75.5081167
+  },
+  {
+    "id": "colombia-la-clave-salsa-907-fm",
+    "name": "La Clave Salsa 90.7 FM",
+    "url": "https://sonicpanel.globalstream.pro/9310/stream",
+    "genre": "Music",
+    "city": "Manizales",
+    "country": "Colombia",
+    "lat": 5.0743694,
+    "lng": -75.5081167
+  },
+  {
+    "id": "colombia-olímpica-stereo-947-fm",
+    "name": "Olímpica Stereo 94.7 FM",
+    "url": "https://14153.live.streamtheworld.com:443/OLP_CUCUTAAAC.aac",
+    "genre": "Music",
+    "city": "Cúcuta",
+    "country": "Colombia",
+    "lat": 8.0776187,
+    "lng": -72.4689002
+  },
+  {
+    "id": "colombia-vox-dei-1120-am",
+    "name": "Vox Dei 1120 AM",
+    "url": "https://streaming.emisoravoxdei.com/stream",
+    "genre": "Music",
+    "city": "Cúcuta",
+    "country": "Colombia",
+    "lat": 8.0776187,
+    "lng": -72.4689002
+  },
+  {
+    "id": "colombia-radio-uno-fm-917",
+    "name": "Radio Uno FM 91.7",
+    "url": "https://us-b4-p-e-jn18-audio.cdn.mdstrm.com/live-audio-aw/632ccd46d1dcd7027f3303c6?aid=6271a4d5d206c3172f3c9a9c&pid=zavslAPYWOd6RIgptqXnNmfsghm3uooD&sid=Tr37wN7x7gYM0P00yk5120f5966uFWKK&uid=XD79g3CxzWjvSBX2UAb0nmRijickr5YO&es=us-b4-p-e-jn18-audio.cdn.mdstrm.com&ote=1769504173202&ot=pX8D6OcgtQGkQELANu3-Yw&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=rcn-mundo-go-app-web&liveId=632ccd46d1dcd7027f3303c6&referer=https%3A%2F%2Fradio.garden%2F&propertyName=rcn-mundo-go-app-web&listenerId=XD79g3CxzWjvSBX2UAb0nmRijickr5YO",
+    "genre": "Music",
+    "city": "Cúcuta",
+    "country": "Colombia",
+    "lat": 8.0776187,
+    "lng": -72.4689002
+  },
+  {
+    "id": "colombia-sonido-881-fm",
+    "name": "Sonido 88.1 FM",
+    "url": "https://stream.intervalohost.com/sonidofm/stream",
+    "genre": "Music",
+    "city": "Cúcuta",
+    "country": "Colombia",
+    "lat": 8.0776187,
+    "lng": -72.4689002
+  },
+  {
+    "id": "colombia-angelus-fm-1069",
+    "name": "Angelus FM 106.9",
+    "url": "https://radio.mipanel.stream:6740/index.html?sid=1",
+    "genre": "Music",
+    "city": "Cúcuta",
+    "country": "Colombia",
+    "lat": 8.0776187,
+    "lng": -72.4689002
+  },
+  {
+    "id": "colombia-radio-condor-am-1540",
+    "name": "Radio Condor AM 1540",
+    "url": "https://radiolatina.info/8162/stream",
+    "genre": "Music",
+    "city": "Manizales",
+    "country": "Colombia",
+    "lat": 5.0743694,
+    "lng": -75.5081167
+  },
+  {
+    "id": "colombia-latina-949-fm",
+    "name": "Latina 94.9 FM",
+    "url": "https://stream-179.zeno.fm/qkr7kw5vfkhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxa3I3a3c1dmZraHZ2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiRVhDM0JfbHlUMUNacjNSUWFTa3YyQSIsImlhdCI6MTc2OTQxNzc3NSwiZXhwIjoxNzY5NDE3ODM1fQ.FFxRgJ_KaYJwW8P6B5YnykMKBCwJEoDEbxHI3HOrefQ",
+    "genre": "Music",
+    "city": "Cúcuta",
+    "country": "Colombia",
+    "lat": 8.0776187,
+    "lng": -72.4689002
+  },
+  {
+    "id": "colombia-alerta-cúcuta-am-940",
+    "name": "Alerta Cúcuta AM 940",
+    "url": "https://us-b4-p-e-mg17-audio.cdn.mdstrm.com/live-audio-aw/633d8465c8af4e0898077982?aid=6271a4d5d206c3172f3c9a9c&pid=E418R23yPkpw22jPLpyGQnekPWiyS8pf&sid=Zj1AYAY3IcEOVR5yhCikCRaFsFW1JJhn&uid=wN39bVVUgsnMFTvpmN32A3mfVTePr3gC&es=us-b4-p-e-mg17-audio.cdn.mdstrm.com&ote=1769504173483&ot=dlJNRP8KyaSt30r6B49osA&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=rcn-mundo-go-app-web&liveId=633d8465c8af4e0898077982&referer=https%3A%2F%2Fradio.garden%2F&propertyName=rcn-mundo-go-app-web&listenerId=wN39bVVUgsnMFTvpmN32A3mfVTePr3gC",
+    "genre": "Music",
+    "city": "Cúcuta",
+    "country": "Colombia",
+    "lat": 8.0776187,
+    "lng": -72.4689002
+  },
+  {
+    "id": "colombia-tropicana",
+    "name": "Tropicana",
+    "url": "https://26503.live.streamtheworld.com:443/TR_CUCUTAAAC.aac",
+    "genre": "Music",
+    "city": "Cúcuta",
+    "country": "Colombia",
+    "lat": 8.0776187,
+    "lng": -72.4689002
+  },
+  {
+    "id": "colombia-manizales-stereo",
+    "name": "Manizales Stereo",
+    "url": "https://emisora.manizalesstereo.com/proxy/manizalesstereo?mp=/stream",
+    "genre": "Music",
+    "city": "Manizales",
+    "country": "Colombia",
+    "lat": 5.0743694,
+    "lng": -75.5081167
+  },
+  {
+    "id": "colombia-besame",
+    "name": "Bésame",
+    "url": "https://26513.live.streamtheworld.com:443/BESAME_CUCUTAAAC.aac",
+    "genre": "Music",
+    "city": "Cúcuta",
+    "country": "Colombia",
+    "lat": 8.0776187,
+    "lng": -72.4689002
+  },
+  {
+    "id": "colombia-angular-stereo-972-fm",
+    "name": "Angular Stereo 97.2 FM",
+    "url": "https://play10.tikast.com/proxy/angularstereo?mp=/stream",
+    "genre": "Music",
+    "city": "Manizales",
+    "country": "Colombia",
+    "lat": 5.0743694,
+    "lng": -75.5081167
+  },
+  {
+    "id": "colombia-radio-uno-957-fm",
+    "name": "Radio Uno 95.7 FM",
+    "url": "https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/632cd7d8bc02c60329992f56?aid=6271a4d5d206c3172f3c9a9c&pid=CW2CSxhOOMRfzxs8ZP0N10zg0WDEbVet&sid=1qtsUAyEnHq9VDJL5uBS8GB2hmQXVQUt&uid=zWSvXHiHximoPtwEpxLuOnhzKzj5vQkw&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1769504175504&ot=psgItOhAVOqnlGpsuWmVxA&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=rcn-mundo-go-app-web&liveId=632cd7d8bc02c60329992f56&referer=https%3A%2F%2Fradio.garden%2F&propertyName=rcn-mundo-go-app-web&listenerId=zWSvXHiHximoPtwEpxLuOnhzKzj5vQkw",
+    "genre": "Music",
+    "city": "Manizales",
+    "country": "Colombia",
+    "lat": 5.0743694,
+    "lng": -75.5081167
+  },
+  {
+    "id": "colombia-canela-estereo-994-fm",
+    "name": "Canela Estereo 99.4 FM",
+    "url": "https://sv2.globalhostlive.com/proxy/canela/stream",
+    "genre": "Music",
+    "city": "Popayán",
+    "country": "Colombia",
+    "lat": 2.4422295,
+    "lng": -76.6072368
+  },
+  {
+    "id": "colombia-besame-manizales",
+    "name": "Bésame Manizales",
+    "url": "https://26643.live.streamtheworld.com:443/BESAME_MANIZALESAAC.aac",
+    "genre": "Music",
+    "city": "Manizales",
+    "country": "Colombia",
+    "lat": 5.0743694,
+    "lng": -75.5081167
+  },
+  {
+    "id": "colombia-la-voz-de-los-andes-am-1390",
+    "name": "La Voz de los Andes AM 1390",
+    "url": "https://streamming.dobitsoluciones.com:7038/live/",
+    "genre": "Music",
+    "city": "Manizales",
+    "country": "Colombia",
+    "lat": 5.0743694,
+    "lng": -75.5081167
+  },
+  {
+    "id": "colombia-radio-1040-am",
+    "name": "Radio 1040 AM",
+    "url": "https://streamming.dobitsoluciones.com:7036/live/",
+    "genre": "Music",
+    "city": "Popayán",
+    "country": "Colombia",
+    "lat": 2.4422295,
+    "lng": -76.6072368
+  },
+  {
+    "id": "colombia-super-estación-985-fm",
+    "name": "Super Estación 98.5 FM",
+    "url": "https://stream-302.zeno.fm/kmqh1nqec2zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJrbXFoMW5xZWMyenV2IiwiaG9zdCI6InN0cmVhbS0zMDIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiQlBiXzNnanBTQmE3VDB1bXpwNmxDUSIsImlhdCI6MTc2OTQxNzc3OSwiZXhwIjoxNzY5NDE3ODM5fQ.kKqyKf6e4uGDtu2k69b9hH6QWupWH7wZcjxoHhXZEXw",
+    "genre": "Music",
+    "city": "Popayán",
+    "country": "Colombia",
+    "lat": 2.4422295,
+    "lng": -76.6072368
+  },
+  {
+    "id": "colombia-mix-951-fm",
+    "name": "Mix 95.1 FM",
+    "url": "https://13693.live.streamtheworld.com:443/MIX_MANIZALESAAC.aac",
+    "genre": "Music",
+    "city": "Manizales",
+    "country": "Colombia",
+    "lat": 5.0743694,
+    "lng": -75.5081167
+  },
+  {
+    "id": "colombia-la-voz-fm-971",
+    "name": "La Voz FM 97.1",
+    "url": "https://radiolatina.info/8134/stream",
+    "genre": "Music",
+    "city": "Popayán",
+    "country": "Colombia",
+    "lat": 2.4422295,
+    "lng": -76.6072368
+  },
+  {
+    "id": "colombia-radio-platon-975-fm",
+    "name": "Radio Platon 97.5 FM",
+    "url": "https://radiomaipo.radioca.st/stream.mp3",
+    "genre": "Music",
+    "city": "Popayán",
+    "country": "Colombia",
+    "lat": 2.4422295,
+    "lng": -76.6072368
+  },
+  {
+    "id": "colombia-tropicana-manizales",
+    "name": "Tropicana Manizales",
+    "url": "https://27403.live.streamtheworld.com:443/TR_MANIZALESAAC.aac",
+    "genre": "Music",
+    "city": "Manizales",
+    "country": "Colombia",
+    "lat": 5.0743694,
+    "lng": -75.5081167
+  },
+  {
+    "id": "colombia-planeta-fm-889",
+    "name": "Planeta FM 88.9",
+    "url": "https://securestream.radioshd.info:7058/stream",
+    "genre": "Music",
+    "city": "Popayán",
+    "country": "Colombia",
+    "lat": 2.4422295,
+    "lng": -76.6072368
+  },
+  {
+    "id": "colombia-la-fm-popayán-1370-am",
+    "name": "La FM Popayán 1370 AM",
+    "url": "https://us-b4-p-e-ml19-audio.cdn.mdstrm.com/live-audio-aw/633d84eead5635087915cecc?aid=6271a4d5d206c3172f3c9a9c&pid=h3dXHWmSJgFR2gEufrPAGWfSgi2hl48C&sid=TRXcJWK6YHnICiYE2qWClgo7AsMrUAGF&uid=epNReYBVTlNcHYRJYysCieXeZvN7u0EM&es=us-b4-p-e-ml19-audio.cdn.mdstrm.com&ote=1769504178441&ot=dWnRgxESsvwfL2xr3Doewg&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=rcn-mundo-go-app-web&liveId=633d84eead5635087915cecc&referer=https%3A%2F%2Fradio.garden%2F&propertyName=rcn-mundo-go-app-web&listenerId=epNReYBVTlNcHYRJYysCieXeZvN7u0EM",
+    "genre": "Music",
+    "city": "Popayán",
+    "country": "Colombia",
+    "lat": 2.4422295,
+    "lng": -76.6072368
+  },
+  {
+    "id": "colombia-olímpica-stereo-fm-897",
+    "name": "Olímpica Stereo FM 89.7",
+    "url": "https://19253.live.streamtheworld.com:443/OLP_MANIZALESAAC.aac",
+    "genre": "Music",
+    "city": "Manizales",
+    "country": "Colombia",
+    "lat": 5.0743694,
+    "lng": -75.5081167
+  },
+  {
+    "id": "colombia-radio-cristiana-manizales",
+    "name": "Radio Cristiana Manizales",
+    "url": "https://samuel.i-radio.co:8000/radiodeportes",
+    "genre": "Music",
+    "city": "Manizales",
+    "country": "Colombia",
+    "lat": 5.0743694,
+    "lng": -75.5081167
+  },
+  {
+    "id": "colombia-munchique-estereo-online",
+    "name": "Munchique Estereo Online",
+    "url": "https://stream.integracionvirtual.com/proxy/nazareno?mp=/stream",
+    "genre": "Music",
+    "city": "Popayán",
+    "country": "Colombia",
+    "lat": 2.4422295,
+    "lng": -76.6072368
+  },
+  {
+    "id": "colombia-tropicana-popayán",
+    "name": "Tropicana Popayán",
+    "url": "https://13693.live.streamtheworld.com:443/TR_POPAYANAAC.aac",
+    "genre": "Music",
+    "city": "Popayán",
+    "country": "Colombia",
+    "lat": 2.4422295,
+    "lng": -76.6072368
+  },
+  {
+    "id": "colombia-besame-popayán",
+    "name": "Bésame Popayán",
+    "url": "https://27393.live.streamtheworld.com:443/BESAME_POPAYAN_SC",
+    "genre": "Music",
+    "city": "Popayán",
+    "country": "Colombia",
+    "lat": 2.4422295,
+    "lng": -76.6072368
+  },
+  {
+    "id": "colombia-radio-autentica-1080-am",
+    "name": "Radio Auténtica 1080 AM",
+    "url": "https://radio35.virtualtronics.com:20129/stream/",
+    "genre": "Music",
+    "city": "Villavicencio",
+    "country": "Colombia",
+    "lat": 4.1114595,
+    "lng": -73.4967836
+  },
+  {
+    "id": "colombia-radio-namisak-897-fm",
+    "name": "Radio Namisak 89.7 FM",
+    "url": "https://stream-157.zeno.fm/qs9pn8s1ag0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxczlwbjhzMWFnMHV2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoibERpSXFybzZSdlNKRWhVM0gzdUxCQSIsImlhdCI6MTc2OTQxNzc4MSwiZXhwIjoxNzY5NDE3ODQxfQ.1cqwWOobGSCBD8nSU5waz1mlN6Q2PPeeMzo84GNTguk",
+    "genre": "Music",
+    "city": "Popayán",
+    "country": "Colombia",
+    "lat": 2.4422295,
+    "lng": -76.6072368
+  },
+  {
+    "id": "colombia-exitosa-stereo-1078-fm",
+    "name": "Exitosa Stereo 107.8 FM",
+    "url": "https://stream-179.zeno.fm/zx3zzt5vvjdtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ6eDN6enQ1dnZqZHR2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiTEZfWFRld3JRbGlpRjRVbkV6UkZZQSIsImlhdCI6MTc2OTQxNzc4MiwiZXhwIjoxNzY5NDE3ODQyfQ.s8gdXVqLS5XTSuazEv6HbVPdNI_8xvvuHBo7R-WFrvM",
+    "genre": "Music",
+    "city": "Villavicencio",
+    "country": "Colombia",
+    "lat": 4.1114595,
+    "lng": -73.4967836
+  },
+  {
+    "id": "colombia-ondas-don-bosco-fm-893",
+    "name": "Ondas Don Bosco FM 89.3",
+    "url": "https://radio35.virtualtronics.com/proxy/ondasdonbosco?mp=/stream",
+    "genre": "Music",
+    "city": "Villavicencio",
+    "country": "Colombia",
+    "lat": 4.1114595,
+    "lng": -73.4967836
+  },
+  {
+    "id": "colombia-lumaca-stereo",
+    "name": "Lumaca Stereo",
+    "url": "https://stream-179.zeno.fm/qdzxadpgx98uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxZHp4YWRwZ3g5OHV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiX0pXbmg0Y2lUV0duR3V6Y1B5UHVPZyIsImlhdCI6MTc2OTQxNzc4MywiZXhwIjoxNzY5NDE3ODQzfQ.VbULi5BKfwhbptpUsElPE52GBmH4qE4I2_tK_cLgXeo",
+    "genre": "Music",
+    "city": "Villavicencio",
+    "country": "Colombia",
+    "lat": 4.1114595,
+    "lng": -73.4967836
+  },
+  {
+    "id": "colombia-fiesta-fm",
+    "name": "Fiesta FM",
+    "url": "https://virtualtronics.net/proxy/fiestafm?mp=/stream",
+    "genre": "Music",
+    "city": "Villavicencio",
+    "country": "Colombia",
+    "lat": 4.1114595,
+    "lng": -73.4967836
+  },
+  {
+    "id": "colombia-radio-uno-villavicencio-983-fm",
+    "name": "Radio Uno Villavicencio 98.3 FM",
+    "url": "https://radiounovillavo.com.co/stream/",
+    "genre": "Music",
+    "city": "Villavicencio",
+    "country": "Colombia",
+    "lat": 4.1114595,
+    "lng": -73.4967836
+  },
+  {
+    "id": "colombia-la-mega-1043-fm",
+    "name": "La Mega 104.3 FM",
+    "url": "https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/632ceace950b040853a94065?aid=6271a4d5d206c3172f3c9a9c&pid=MlkvlQh3wL9ofR6zgWh05AdP35vozXhd&sid=zVaj7kycAhW7xSJq7goDKqXwiwKHwfQr&uid=wBBG8QWCbdQUePnTGD3CjnwxUA66IfQu&es=us-b4-p-e-zs14-audio.cdn.mdstrm.com&ote=1769504182307&ot=S8AnLB21zTdsqR7m8kwOpA&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=player-landing-el-sol-web&liveId=632ceace950b040853a94065&referer=https%3A%2F%2Fradio.garden%2F&propertyName=player-landing-el-sol-web&listenerId=wBBG8QWCbdQUePnTGD3CjnwxUA66IfQu",
+    "genre": "Music",
+    "city": "Villavicencio",
+    "country": "Colombia",
+    "lat": 4.1114595,
+    "lng": -73.4967836
+  },
+  {
+    "id": "colombia-hj-doble-k-am840",
+    "name": "H.J. Doble K AM840",
+    "url": "http://138.201.198.218:8292/HJKKneiva",
+    "genre": "Music",
+    "city": "Neiva",
+    "country": "Colombia",
+    "lat": 3.0332554,
+    "lng": -75.2794303
+  },
+  {
+    "id": "colombia-los-40-903-fm",
+    "name": "Los 40 90.3 FM",
+    "url": "https://24283.live.streamtheworld.com:443/LOS40_VILLAO_SC",
+    "genre": "Music",
+    "city": "Villavicencio",
+    "country": "Colombia",
+    "lat": 4.1114595,
+    "lng": -73.4967836
+  },
+  {
+    "id": "colombia-radio-surcolombiana",
+    "name": "Radio Surcolombiana",
+    "url": "https://usa4.fastcast4u.com/proxy/fundacio?mp=/1",
+    "genre": "Music",
+    "city": "Neiva",
+    "country": "Colombia",
+    "lat": 3.0332554,
+    "lng": -75.2794303
+  },
+  {
+    "id": "colombia-olímpica-stereo-fm-1053",
+    "name": "Olímpica Stereo FM 105.3",
+    "url": "https://19253.live.streamtheworld.com:443/OLP_VILLAVICENCIOAAC.aac",
+    "genre": "Music",
+    "city": "Villavicencio",
+    "country": "Colombia",
+    "lat": 4.1114595,
+    "lng": -73.4967836
+  },
+  {
+    "id": "colombia-tropicana-villavicencio",
+    "name": "Tropicana Villavicencio",
+    "url": "https://26493.live.streamtheworld.com:443/TR_VILLAVICENCIOAAC.aac",
+    "genre": "Music",
+    "city": "Villavicencio",
+    "country": "Colombia",
+    "lat": 4.1114595,
+    "lng": -73.4967836
+  },
+  {
+    "id": "colombia-rcn-radio-1110-am",
+    "name": "RCN Radio 1110 AM",
+    "url": "https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/632ceae59234f869e9a525c5?aid=6271a4d5d206c3172f3c9a9c&pid=U78vSozUedVrjK4speH3RUwUFLjJZAxU&sid=uDw4CdC9iPxVnZZ9W6ysmDI7HFxhOtWX&uid=ftcXXeBB59QbZWmI9aosrW092hm5etCE&es=us-b4-p-e-zs14-audio.cdn.mdstrm.com&ote=1769504183893&ot=EwtQKebj36Jdjw_WieDZeA&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=demo-rcn-app-web&liveId=632ceae59234f869e9a525c5&referer=https%3A%2F%2Fradio.garden%2F&propertyName=demo-rcn-app-web&listenerId=ftcXXeBB59QbZWmI9aosrW092hm5etCE",
+    "genre": "Music",
+    "city": "Villavicencio",
+    "country": "Colombia",
+    "lat": 4.1114595,
+    "lng": -73.4967836
+  },
+  {
+    "id": "colombia-superiority-radio",
+    "name": "Superiority Radio",
+    "url": "https://radio11.servidorderadio.net/8104/stream",
+    "genre": "Music",
+    "city": "Neiva",
+    "country": "Colombia",
+    "lat": 3.0332554,
+    "lng": -75.2794303
+  },
+  {
+    "id": "colombia-la-esquina-del-movimiento",
+    "name": "La Esquina del Movimiento",
+    "url": "https://play8.tikast.com/proxy/laesquina?mp=/;",
+    "genre": "Music",
+    "city": "Neiva",
+    "country": "Colombia",
+    "lat": 3.0332554,
+    "lng": -75.2794303
+  },
+  {
+    "id": "colombia-mix-radio-fm-948",
+    "name": "Mix Radio FM 94.8",
+    "url": "https://14843.live.streamtheworld.com:443/MIX_NEIVAAAC.aac",
+    "genre": "Music",
+    "city": "Neiva",
+    "country": "Colombia",
+    "lat": 3.0332554,
+    "lng": -75.2794303
+  },
+  {
+    "id": "colombia-huila-stereo-fm-1043",
+    "name": "Huila Stereo FM 104.3",
+    "url": "https://radiohd.streaminghd.co:7220/stream",
+    "genre": "Music",
+    "city": "Neiva",
+    "country": "Colombia",
+    "lat": 3.0332554,
+    "lng": -75.2794303
+  },
+  {
+    "id": "colombia-la-fm-1150-am",
+    "name": "La FM 1150 AM",
+    "url": "https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/632cd907d1dcd7027f3305e5?aid=6271a4d5d206c3172f3c9a9c&pid=tqzdLajv4PbdhV9cM61E62GtPAfWpyz3&sid=N9bOsmVxVwfdrf99qoYhVPi0om0w4KUM&uid=YzP3BvXTLSkw7s7sp4i02DGyLLDSO3RG&es=us-b4-p-e-pb13-audio.cdn.mdstrm.com&ote=1769504184520&ot=eOK5O7zbAKn3SCvB2ndlxA&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=rcn-mundo-go-app-web&liveId=632cd907d1dcd7027f3305e5&referer=https%3A%2F%2Fradio.garden%2F&propertyName=rcn-mundo-go-app-web&listenerId=YzP3BvXTLSkw7s7sp4i02DGyLLDSO3RG",
+    "genre": "Music",
+    "city": "Neiva",
+    "country": "Colombia",
+    "lat": 3.0332554,
+    "lng": -75.2794303
+  },
+  {
+    "id": "colombia-manantial-stereo-987-fm",
+    "name": "Manantial Stereo 98.7 FM",
+    "url": "https://samuel.i-radio.co:8000/manantialstereo",
+    "genre": "Music",
+    "city": "Popayán",
+    "country": "Colombia",
+    "lat": 2.4422295,
+    "lng": -76.6072368
+  },
+  {
+    "id": "colombia-cristalina-huila-fm-1013",
+    "name": "Cristalina Huila FM 101.3",
+    "url": "https://inrai05.radioca.st/cNeiva",
+    "genre": "Music",
+    "city": "Neiva",
+    "country": "Colombia",
+    "lat": 3.0332554,
+    "lng": -75.2794303
+  },
+  {
+    "id": "colombia-uniminuto-radio-neiva",
+    "name": "Uniminuto Radio Neiva",
+    "url": "https://uniminutoradioneiva.out.airtime.pro//uniminutoradioneiva_b",
+    "genre": "Music",
+    "city": "Neiva",
+    "country": "Colombia",
+    "lat": 3.0332554,
+    "lng": -75.2794303
+  },
+  {
+    "id": "colombia-radio-uno-fm-903",
+    "name": "Radio Uno FM 90.3",
+    "url": "https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/633d84ca3b07310855f79c57?aid=6271a4d5d206c3172f3c9a9c&pid=TNj2tcYoPRywDsjOsRZScEF0Fq7Sngag&sid=Kd6UjvGf6XpfQyKwGEZECPYCxyECadAC&uid=H6PD7Nvh6bJQ51zJtFt1ZjxZDCjJcqvr&es=us-b4-p-e-pb13-audio.cdn.mdstrm.com&ote=1769504185231&ot=MQRMvOl_46CAlezEuw7WGw&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=rcn-mundo-go-app-web&liveId=633d84ca3b07310855f79c57&referer=https%3A%2F%2Fradio.garden%2F&propertyName=rcn-mundo-go-app-web&listenerId=H6PD7Nvh6bJQ51zJtFt1ZjxZDCjJcqvr",
+    "genre": "Music",
+    "city": "Neiva",
+    "country": "Colombia",
+    "lat": 3.0332554,
+    "lng": -75.2794303
+  },
+  {
+    "id": "colombia-aipe-stereo-fm-988",
+    "name": "Aipe Stereo FM 98.8",
+    "url": "https://server2.ejeserver.com:8090/stream",
+    "genre": "Music",
+    "city": "Neiva",
+    "country": "Colombia",
+    "lat": 3.0332554,
+    "lng": -75.2794303
+  },
+  {
+    "id": "colombia-radio-campesina-889-fm",
+    "name": "Radio Campesina 88.9 FM",
+    "url": "https://radiohd.streaminghd.co:7059/stream",
+    "genre": "Music",
+    "city": "Neiva",
+    "country": "Colombia",
+    "lat": 3.0332554,
+    "lng": -75.2794303
+  },
+  {
+    "id": "colombia-iquira-estereo",
+    "name": "Iquira Estereo",
+    "url": "https://radiohd.streaminghd.co:7439/stream",
+    "genre": "Music",
+    "city": "Neiva",
+    "country": "Colombia",
+    "lat": 3.0332554,
+    "lng": -75.2794303
+  },
+  {
+    "id": "colombia-tropicana-neiva-983-fm",
+    "name": "Tropicana Neiva 98.3 FM",
+    "url": "https://27393.live.streamtheworld.com:443/TR_NEIVAAAC.aac",
+    "genre": "Music",
+    "city": "Neiva",
+    "country": "Colombia",
+    "lat": 3.0332554,
+    "lng": -75.2794303
+  },
+  {
+    "id": "colombia-olímpica-stereo-fm-1003",
+    "name": "Olímpica Stereo FM 100.3",
+    "url": "https://26643.live.streamtheworld.com:443/OLP_NEIVAAAC.aac",
+    "genre": "Music",
+    "city": "Neiva",
+    "country": "Colombia",
+    "lat": 3.0332554,
+    "lng": -75.2794303
+  },
+  {
+    "id": "colombia-la-viejoteca-de-mao",
+    "name": "La Viejoteca De Mao",
+    "url": "https://radiohd.streaminghd.co:9382/live",
+    "genre": "Music",
+    "city": "Pasto",
+    "country": "Colombia",
+    "lat": 1.2140275,
+    "lng": -77.2785096
+  },
+  {
+    "id": "colombia-radio-viva-fenix-780-am",
+    "name": "Radio Viva Fenix 780 AM",
+    "url": "https://radiolatina.info/8166/stream",
+    "genre": "Music",
+    "city": "Pasto",
+    "country": "Colombia",
+    "lat": 1.2140275,
+    "lng": -77.2785096
+  },
+  {
+    "id": "colombia-sabana-fm-923",
+    "name": "Sabana FM 92.3",
+    "url": "https://stream.vocesparatumarca.net/8020/stream",
+    "genre": "Music",
+    "city": "Pasto",
+    "country": "Colombia",
+    "lat": 1.2140275,
+    "lng": -77.2785096
+  },
+  {
+    "id": "colombia-caracol-radio-fm-1051",
+    "name": "Caracol Radio FM 105.1",
+    "url": "https://27383.live.streamtheworld.com:443/CR_NEIVAAAC.aac",
+    "genre": "Music",
+    "city": "Neiva",
+    "country": "Colombia",
+    "lat": 3.0332554,
+    "lng": -75.2794303
+  },
+  {
+    "id": "colombia-maguare-estereo-893-fm",
+    "name": "Maguaré Estéreo 89.3 FM",
+    "url": "https://streaming.fasthostunlimited.com/8004/stream",
+    "genre": "Music",
+    "city": "Pasto",
+    "country": "Colombia",
+    "lat": 1.2140275,
+    "lng": -77.2785096
+  },
+  {
+    "id": "colombia-santa-marta-stereo",
+    "name": "Santa Marta Stereo",
+    "url": "http://163.172.198.16:8322/;stream.nsv",
+    "genre": "Music",
+    "city": "Santa Marta",
+    "country": "Colombia",
+    "lat": 11.2320944,
+    "lng": -74.1950916
+  },
+  {
+    "id": "colombia-360-latina-fm",
+    "name": "360 Latina FM",
+    "url": "https://stream-175.zeno.fm/v659dphpqqzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2NjU5ZHBocHFxenV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiaksycVNxekZRUktZa2c2bXJoRnJLdyIsImlhdCI6MTc2OTQxNzc5MCwiZXhwIjoxNzY5NDE3ODUwfQ.Q3L3VmxdgnDZOR_uxZT01UavY4TJvNAW3oLhamc-wXQ",
+    "genre": "Music",
+    "city": "Pasto",
+    "country": "Colombia",
+    "lat": 1.2140275,
+    "lng": -77.2785096
+  },
+  {
+    "id": "colombia-unimagdalena-radio-919-fm",
+    "name": "Unimagdalena Radio 91.9 FM",
+    "url": "https://radios.miservidor.cloud/8076/stream",
+    "genre": "Music",
+    "city": "Santa Marta",
+    "country": "Colombia",
+    "lat": 11.2320944,
+    "lng": -74.1950916
+  },
+  {
+    "id": "colombia-paleonto-radio",
+    "name": "Paleonto Radio",
+    "url": "https://stream-175.zeno.fm/h7ea15xsws8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJoN2VhMTV4c3dzOHV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiT2lHc3NBNnVUN1dZa3d1aENPNTMyZyIsImlhdCI6MTc2OTQxNzc5MCwiZXhwIjoxNzY5NDE3ODUwfQ.AE4S7cpgQYGrYsEtqMpUMwb6vmbSe31Qm1bJV6UpCzc",
+    "genre": "Music",
+    "city": "Santa Marta",
+    "country": "Colombia",
+    "lat": 11.2320944,
+    "lng": -74.1950916
+  },
+  {
+    "id": "colombia-voces-894-fm",
+    "name": "Voces 89.4 FM",
+    "url": "https://sonic.paulatina.co/8084/stream",
+    "genre": "Music",
+    "city": "Santa Marta",
+    "country": "Colombia",
+    "lat": 11.2320944,
+    "lng": -74.1950916
+  },
+  {
+    "id": "colombia-internacional-stereo-fm-1059",
+    "name": "Internacional Stereo FM 105.9",
+    "url": "https://radiohd3.streaminghd.co/8054/stream",
+    "genre": "Music",
+    "city": "Pasto",
+    "country": "Colombia",
+    "lat": 1.2140275,
+    "lng": -77.2785096
+  },
+  {
+    "id": "colombia-hosanna-radio",
+    "name": "Hosanna Radio",
+    "url": "http://radio30.virtualtronics.com:8240/stream/",
+    "genre": "Music",
+    "city": "Santa Marta",
+    "country": "Colombia",
+    "lat": 11.2320944,
+    "lng": -74.1950916
+  },
+  {
+    "id": "colombia-radio-uno-santa-marta-1350-am",
+    "name": "Radio Uno Santa Marta 1350 AM",
+    "url": "https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/627c1c39637d89088290f64d?aid=6271a4d5d206c3172f3c9a9c&pid=p77JbFH55Ocg6hYWuLj7VJ8a2eSLwEQo&sid=EDm4t3MmC1Vrd5kBsemlCts9pOz46ZLa&uid=0ScJXu3hF4RhUptvBX8GFFonqKMqZWoy&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1769504190494&ot=FL42i6YNlwKVMIMabHdDtg&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=rcn-mundo-go-app-web&liveId=627c1c39637d89088290f64d&referer=https%3A%2F%2Fradio.garden%2F&propertyName=rcn-mundo-go-app-web&listenerId=0ScJXu3hF4RhUptvBX8GFFonqKMqZWoy",
+    "genre": "Music",
+    "city": "Santa Marta",
+    "country": "Colombia",
+    "lat": 11.2320944,
+    "lng": -74.1950916
+  },
+  {
+    "id": "colombia-tropicana-pasto",
+    "name": "Tropicana Pasto",
+    "url": "https://24493.live.streamtheworld.com:443/TR_PASTOAAC.aac",
+    "genre": "Music",
+    "city": "Pasto",
+    "country": "Colombia",
+    "lat": 1.2140275,
+    "lng": -77.2785096
+  },
+  {
+    "id": "colombia-carrasquilla-stereo-fm-934",
+    "name": "Carrasquilla Stereo FM 93.4",
+    "url": "http://54.39.106.212/8050/formato=mp3",
+    "genre": "Music",
+    "city": "Quibdó",
+    "country": "Colombia",
+    "lat": 5.6912838,
+    "lng": -76.6531337
+  },
+  {
+    "id": "colombia-android-chocó",
+    "name": "Android Chocó",
+    "url": "https://virtual5.emisorasvirtuales.com:8170/live",
+    "genre": "Music",
+    "city": "Quibdó",
+    "country": "Colombia",
+    "lat": 5.6912838,
+    "lng": -76.6531337
+  },
+  {
+    "id": "colombia-radio-universidad-de-choco",
+    "name": "Radio Universidad De Choco",
+    "url": "https://radio.cimaspeed.com/8044/",
+    "genre": "Music",
+    "city": "Quibdó",
+    "country": "Colombia",
+    "lat": 5.6912838,
+    "lng": -76.6531337
+  },
+  {
+    "id": "colombia-rumba-1069-fm",
+    "name": "Rumba 106.9 FM",
+    "url": "https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/632ce8986d2e8108b23d249f?aid=6271a4d5d206c3172f3c9a9c&pid=VnhsFOmKhOoQCvZ3kipvM3tlnQxU8x9X&sid=n30eMpG3dNyMyfLFWPxzuieQPsnVJjUM&uid=moKAt8MIGikrOgHzgOyXa1TtU0bu0lI8&es=us-b4-p-e-qg12-audio.cdn.mdstrm.com&ote=1769504191011&ot=7159KlPunJl8g3S_k9ilcg&proto=https&pz=us&cP=128000&awCollectionId=6271a4d5d206c3172f3c9a9c&aw_0_1st.playerId=rcn-mundo-go-app-web&liveId=632ce8986d2e8108b23d249f&referer=https%3A%2F%2Fradio.garden%2F&propertyName=rcn-mundo-go-app-web&listenerId=moKAt8MIGikrOgHzgOyXa1TtU0bu0lI8",
+    "genre": "Music",
+    "city": "Santa Marta",
+    "country": "Colombia",
+    "lat": 11.2320944,
+    "lng": -74.1950916
+  },
+  {
+    "id": "colombia-romántica-baladas-del-amor",
+    "name": "Romántica Baladas del Amor",
+    "url": "https://das-edge62-live365-dal03.cdnstream.com/a98246",
+    "genre": "Music",
+    "city": "Santa Marta",
+    "country": "Colombia",
+    "lat": 11.2320944,
+    "lng": -74.1950916
+  },
+  {
+    "id": "colombia-qradio-choco",
+    "name": "QRadio Choco",
+    "url": "https://virtual5.emisorasvirtuales.com:8160/live",
+    "genre": "Music",
+    "city": "Quibdó",
+    "country": "Colombia",
+    "lat": 5.6912838,
+    "lng": -76.6531337
+  },
+  {
+    "id": "colombia-lloro-stereo-fm-883",
+    "name": "Lloro Stereo FM 88.3",
+    "url": "https://play10.tikast.com/proxy/llorostereo?mp=/stream%E2%80%A8/stream",
+    "genre": "Music",
+    "city": "Quibdó",
+    "country": "Colombia",
+    "lat": 5.6912838,
+    "lng": -76.6531337
+  },
+  {
+    "id": "colombia-maravilla-digital-stereo",
+    "name": "Maravilla Digital Stereo",
+    "url": "https://radio30.virtualtronics.com/proxy/maravilladigital?mp=/stream",
+    "genre": "Music",
+    "city": "Santa Marta",
+    "country": "Colombia",
+    "lat": 11.2320944,
+    "lng": -74.1950916
+  },
+  {
+    "id": "colombia-la-movida-894-fm",
+    "name": "La Movida 89.4 FM",
+    "url": "https://radio.lamovidaonline.co:8000/live",
+    "genre": "Music",
+    "city": "Quibdó",
+    "country": "Colombia",
+    "lat": 5.6912838,
+    "lng": -76.6531337
+  },
+  {
+    "id": "colombia-emisora-villa-digital",
+    "name": "Emisora Villa Digital",
+    "url": "https://mediacp16.rootservers.co:8004/stream",
+    "genre": "Music",
+    "city": "Quibdó",
+    "country": "Colombia",
+    "lat": 5.6912838,
+    "lng": -76.6531337
+  },
+  {
+    "id": "colombia-belen-stereo-fm-953",
+    "name": "Belen Stereo FM 95.3",
+    "url": "https://server2.ejeserver.com/proxy/belenfm?mp=/stream",
+    "genre": "Music",
+    "city": "Quibdó",
+    "country": "Colombia",
+    "lat": 5.6912838,
+    "lng": -76.6531337
+  },
+  {
+    "id": "colombia-olímpica-stereo-fm-971",
+    "name": "Olímpica Stereo FM 97.1",
+    "url": "https://19473.live.streamtheworld.com:443/OLP_SANTA_MARTAAAC.aac",
+    "genre": "Music",
+    "city": "Santa Marta",
+    "country": "Colombia",
+    "lat": 11.2320944,
+    "lng": -74.1950916
+  },
+  {
+    "id": "colombia-radio-brisas-del-san-juan-fm-1063",
+    "name": "Radio Brisas del San Juan FM 106.3",
+    "url": "https://virtualtronics.net/proxy/brisasdelsanjuan",
+    "genre": "Music",
+    "city": "Quibdó",
+    "country": "Colombia",
+    "lat": 5.6912838,
+    "lng": -76.6531337
+  },
+  {
+    "id": "colombia-bahia-linda",
+    "name": "Bahia Linda",
+    "url": "http://26343.live.streamtheworld.com/SAM02AAC80_SC",
+    "genre": "Music",
+    "city": "Santa Marta",
+    "country": "Colombia",
+    "lat": 11.2320944,
+    "lng": -74.1950916
+  },
+  {
+    "id": "colombia-plateado-stereo-fm-894",
+    "name": "Plateado Stereo FM 89.4",
+    "url": "https://radiohd2.streaminghd.co:7244/stream",
+    "genre": "Music",
+    "city": "Quibdó",
+    "country": "Colombia",
+    "lat": 5.6912838,
+    "lng": -76.6531337
+  }
+]

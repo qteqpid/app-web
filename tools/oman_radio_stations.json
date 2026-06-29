@@ -1,0 +1,338 @@
+[
+    {
+        "name": "Radio Italia - Dubai 95.3 FM",
+        "city": "Muscat",
+        "country": "Oman",
+        "url": "http://ice62.fluidstream.net:8090/ita_dubai_in.aac"
+    },
+    {
+        "name": "Radio Chaska",
+        "city": "The Holy Quran Radio FM 93.2",
+        "country": "Muscat, Oman",
+        "url": "https://qurum.ddns.net:8000/radio.mp3"
+    },
+    {
+        "name": "MERGE 104.8",
+        "city": "Muscat",
+        "country": "Oman",
+        "url": "http://uk7.internet-radio.com:8040/stream?icy=http"
+    },
+    {
+        "name": "Al Wisal FM",
+        "city": "Muscat",
+        "country": "Oman",
+        "url": "http://uk7.internet-radio.com:8067/stream"
+    },
+    {
+        "name": "Virgin Radio Oman",
+        "city": "Muscat",
+        "country": "Oman",
+        "url": "http://139.162.245.57:8115/stream"
+    },
+    {
+        "name": "Fujairah 92.6 FM",
+        "city": "Muscat",
+        "country": "Oman",
+        "url": "https://fujairah.fm/stream.php"
+    },
+    {
+        "name": "Al Sumood FM 95.1",
+        "city": "Muscat",
+        "country": "Oman",
+        "url": "https://us3.internet-radio.com/proxy/alsumoodfm2020?mp=/stream"
+    },
+    {
+        "name": "Asaase FM 99.5",
+        "city": "Oman FM 107.1",
+        "country": "Accra, Ghana",
+        "url": "http://n0a.radiojar.com/cyg76xcvp0hvv?rj-ttl=5&rj-tok=AAABm_nHwGcAX6yAB9d7Fw6d4w"
+    },
+    {
+        "name": "Sky News Arabia FM 90.5",
+        "city": "Muscat",
+        "country": "Oman",
+        "url": "https://radio.skynewsarabia.com/stream/radio/skynewsarabia"
+    },
+    {
+        "name": "Muscat FM",
+        "city": "Muscat",
+        "country": "Oman",
+        "url": "https://stream-14.aiir.com/r9fyk1khuywtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJyOWZ5azFraHV5d3R2IiwiaG9zdCI6InN0cmVhbS0xNC5haWlyLmNvbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiMmpVQUg0bEFSTkc3SzBuVWRpZkx5dyIsImlhdCI6MTc2OTQyMTU3NSwiZXhwIjoxNzY5NDIxNjM1fQ.epzyCOq0I1NKYchFqlTNrGbPAO4rxdnc78BVHEEbK54"
+    },
+    {
+        "name": "ZED 101.9 FM",
+        "city": "Oman FM 107.1",
+        "country": "Accra, Ghana",
+        "url": "https://radio.zedmultimedia.com:8000/radio.mp3"
+    },
+    {
+        "name": "Oman Foreign Program FM 90.4",
+        "city": "Oman Foreign Program FM 90.4",
+        "country": "Muscat, Oman",
+        "url": "https://partrdo.mangomolo.com/engrdo.mp3"
+    },
+    {
+        "name": "Shabab Radio Oman FM 100",
+        "city": "Muscat",
+        "country": "Oman",
+        "url": "https://partrdo.mangomolo.com/shababrdo.mp3"
+    },
+    {
+        "name": "Oman General FM 94.4",
+        "city": "Muscat",
+        "country": "Oman",
+        "url": "https://partrdo.mangomolo.com/omanrdo.mp3"
+    },
+    {
+        "name": "The Holy Quran Radio FM 93.2",
+        "city": "Muscat",
+        "country": "Oman",
+        "url": "https://partrdo.mangomolo.com/quranrdo.mp3"
+    },
+    {
+        "name": "Radio Angelus",
+        "city": "Oman FM 107.1",
+        "country": "Accra, Ghana",
+        "url": "https://uk7.internet-radio.com/proxy/radioangelus/stream"
+    },
+    {
+        "name": "Oman FM 107.1",
+        "city": "Oman FM 107.1",
+        "country": "Accra, Ghana",
+        "url": "http://omanfm.atunwadigital.streamguys1.com/omanfm"
+    },
+    {
+        "name": "So! Radio Oman 91.4 FM",
+        "city": "Muscat",
+        "country": "Oman",
+        "url": "https://listen-soradio.sharp-stream.com/soradio_high.mp3"
+    },
+    {
+        "name": "Hi FM 95.9",
+        "city": "Muscat",
+        "country": "Oman",
+        "url": "https://listen-hifmtemp.sharp-stream.com/hifmmid.mp3"
+    },
+    {
+        "name": "Hala FM",
+        "city": "Muscat",
+        "country": "Oman",
+        "url": "https://listen-halafm.sharp-stream.com/halafmlow.mp3"
+    },
+    {
+        "name": "Uthamiyae FM Radio",
+        "city": "Muscat",
+        "country": "Oman",
+        "url": "https://ssl.aloncast.com:1595/"
+    },
+    {
+        "name": "Original 91.9 FM",
+        "city": "Oman FM 107.1",
+        "country": "Accra, Ghana",
+        "url": "https://originalfm-atunwadigital.streamguys1.com/originalfm"
+    },
+    {
+        "name": "Eternal Life Broadcast",
+        "city": "Oman FM 107.1",
+        "country": "Accra, Ghana",
+        "url": "https://broadcast.eternallifeassembly.com/listen/ela_broadcast/radio.mp3"
+    },
+    {
+        "name": "Citi FM 97.3",
+        "city": "Oman FM 107.1",
+        "country": "Accra, Ghana",
+        "url": "https://citi973fm.radioca.st/index.html?sid=1"
+    },
+    {
+        "name": "Hitz FM 103.9",
+        "city": "Oman FM 107.1",
+        "country": "Accra, Ghana",
+        "url": "https://mmg.streamguys1.com/HitzFM-mp3?key=63d8990dfe4438ae984fd70d2d2b4bd31c842c474987bd810ac0e8e0fd62e8cf2015661105cced63ccfdca89a8422ab1"
+    },
+    {
+        "name": "Adom FM 106.3",
+        "city": "Oman FM 107.1",
+        "country": "Accra, Ghana",
+        "url": "https://mmg.streamguys1.com/AdomFM-mp3?key=63d8990dfe4438ae984fd70d2d2b4bd31c842c474987bd810ac0e8e0fd62e8cf2015661105cced63ccfdca89a8422ab1"
+    },
+    {
+        "name": "Victorious Radio",
+        "city": "Oman FM 107.1",
+        "country": "Accra, Ghana",
+        "url": "http://n03.radiojar.com/q2u0895928quv?rj-ttl=5&rj-tok=AAABm_nHy2gAmXZYAqxSWj-s8w"
+    },
+    {
+        "name": "Asempa 94.7 FM",
+        "city": "Oman FM 107.1",
+        "country": "Accra, Ghana",
+        "url": "https://mmg.streamguys1.com/AsempaFM-mp3?key=63d8990dfe4438ae984fd70d2d2b4bd31c842c474987bd810ac0e8e0fd62e8cf2015661105cced63ccfdca89a8422ab1"
+    },
+    {
+        "name": "Joy 99.7 FM",
+        "city": "Oman FM 107.1",
+        "country": "Accra, Ghana",
+        "url": "https://mmg.streamguys1.com/JoyFM-mp3?key=63d8990dfe4438ae984fd70d2d2b4bd31c842c474987bd810ac0e8e0fd62e8cf2015661105cced63ccfdca89a8422ab1"
+    },
+    {
+        "name": "Kente Radio",
+        "city": "Oman FM 107.1",
+        "country": "Accra, Ghana",
+        "url": "https://streamer.radio.co/s362651905/listen"
+    },
+    {
+        "name": "Radio Apocalipsis 22:17",
+        "city": "Omaha NE",
+        "country": "United States",
+        "url": "https://server.radiogs.net/8486/stream"
+    },
+    {
+        "name": "Stereo Fe Y Esperanza",
+        "city": "Omaha NE",
+        "country": "United States",
+        "url": "https://server.radiogs.net/8422/stream"
+    },
+    {
+        "name": "Oyerepa FM",
+        "city": "Oman FM 107.1",
+        "country": "Accra, Ghana",
+        "url": "https://stream-152.zeno.fm/457dru9abnzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0NTdkcnU5YWJuenV2IiwiaG9zdCI6InN0cmVhbS0xNTIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiSzVFb2NOaU1TRnVfZVBFdFBxSlJGQSIsImlhdCI6MTc2OTQyMTU3OSwiZXhwIjoxNzY5NDIxNjM5fQ.QysTmj_jVHx4Kx9UvoxNorxNQSUQfe4tGVADz5ouJTc"
+    },
+    {
+        "name": "Stereo Senda Antigua",
+        "city": "Omaha NE",
+        "country": "United States",
+        "url": "https://server.radiogs.net/8144/stream"
+    },
+    {
+        "name": "Atlantis Radio 87.9 FM",
+        "city": "Oman FM 107.1",
+        "country": "Accra, Ghana",
+        "url": "https://stream-163.zeno.fm/zg36qa2t2bruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ6ZzM2cWEydDJicnV2IiwiaG9zdCI6InN0cmVhbS0xNjMuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoidUFDSEFDZ0tUU09nZy1tLUE3Y0dWQSIsImlhdCI6MTc2OTQyMTU3OCwiZXhwIjoxNzY5NDIxNjM4fQ.wBHNFDgjytzYYqrHkg1-76l0tN98L4Eb8_NfGtnCI1k"
+    },
+    {
+        "name": "Boomer Radio FM 94.5",
+        "city": "Omaha NE",
+        "country": "United States",
+        "url": "https://us2.maindigitalstream.com/ssl/KOBMA"
+    },
+    {
+        "name": "Radio Gold FM 90.5",
+        "city": "Oman FM 107.1",
+        "country": "Accra, Ghana",
+        "url": "https://radiogold-atunwadigital.streamguys1.com/radiogold"
+    },
+    {
+        "name": "Golden Star FM 89.3",
+        "city": "Oman FM 107.1",
+        "country": "Accra, Ghana",
+        "url": "https://stream-154.zeno.fm/08ub3cqrrhruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwOHViM2NxcnJocnV2IiwiaG9zdCI6InN0cmVhbS0xNTQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiTEV3VGh0cEJUbEN1eEtXSU9BUzU2ZyIsImlhdCI6MTc2OTQyMTU3OSwiZXhwIjoxNzY5NDIxNjM5fQ.taqRrqEVCAWcB2t4vaI-fsboRfNveBNq_a3tQ-gUOQc"
+    },
+    {
+        "name": "WIGCS Radio",
+        "city": "Oman FM 107.1",
+        "country": "Accra, Ghana",
+        "url": "https://stream-158.zeno.fm/xrhfg25zumzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ4cmhmZzI1enVtenV2IiwiaG9zdCI6InN0cmVhbS0xNTguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiRzhSRmxTWWdTaS0xSUJaRnlvTGxEQSIsImlhdCI6MTc2OTQyMTU3OSwiZXhwIjoxNzY5NDIxNjM5fQ.xLKc53RxDjHKenXdlfWadXrsquUUtB-_EqwIscBJ9_w"
+    },
+    {
+        "name": "KGBI FM 100.7",
+        "city": "Omaha NE",
+        "country": "United States",
+        "url": "https://nwmedia-kgbi.streamguys1.com/kgbi-aac"
+    },
+    {
+        "name": "KNOD-FM 105.3",
+        "city": "Omaha NE",
+        "country": "United States",
+        "url": "http://us2.streamingpulse.com:7066/stream"
+    },
+    {
+        "name": "La Nueva 99.5 FM",
+        "city": "Omaha NE",
+        "country": "United States",
+        "url": "https://18443.live.streamtheworld.com:443/KMMQAMAAC.aac"
+    },
+    {
+        "name": "KFAB 1110 AM",
+        "city": "Omaha NE",
+        "country": "United States",
+        "url": "https://cloud.revma.ihrhls.com/zc1325?rj-org=n37b-e2&rj-ttl=5&rj-tok=AAABm_nH08oAOwRfhtH1ku7luA"
+    },
+    {
+        "name": "ABN Old-Time Radio AM 1610",
+        "city": "Omaha NE",
+        "country": "United States",
+        "url": "https://s6.yesstreaming.net:18000/listen"
+    },
+    {
+        "name": "Smooth Jazz 24/7",
+        "city": "Omaha NE",
+        "country": "United States",
+        "url": "https://ais-edge89-dal02.cdnstream.com/2124_128.mp3"
+    },
+    {
+        "name": "KBRW-AM 680",
+        "city": "Omaha NE",
+        "country": "United States",
+        "url": "https://tektite.streamguys1.com:5345/live"
+    },
+    {
+        "name": "KOKO LP Radio 96.3 FM",
+        "city": "Omaha NE",
+        "country": "United States",
+        "url": "https://s2.yesstreaming.net:7031/stream"
+    },
+    {
+        "name": "The Best Mix 105.5",
+        "city": "Omaha NE",
+        "country": "United States",
+        "url": "https://us2.maindigitalstream.com/ssl/Mix1055"
+    },
+    {
+        "name": "KGOR 99.9 FM",
+        "city": "Omaha NE",
+        "country": "United States",
+        "url": "https://cloud.revma.ihrhls.com/zc3344?rj-org=n40b-e2&rj-ttl=5&rj-tok=AAABm_nH1vAAPy0R60G3gW1xcQ"
+    },
+    {
+        "name": "My Bridge Radio",
+        "city": "Omaha NE",
+        "country": "United States",
+        "url": "https://ais-sa1.streamon.fm/7069_64k.aac"
+    },
+    {
+        "name": "KIOS-FM 91.5 Omaha Public Radio",
+        "city": "Omaha NE",
+        "country": "United States",
+        "url": "https://14843.live.streamtheworld.com:443/KIOSFM.mp3"
+    },
+    {
+        "name": "KOWN-LP 95.7 FM The Boss",
+        "city": "Omaha NE",
+        "country": "United States",
+        "url": "https://ice41.securenetsystems.net/KOWNLP"
+    },
+    {
+        "name": "Fox News Radio",
+        "city": "Omaha NE",
+        "country": "United States",
+        "url": "https://prod-3-237-99-86.amperwave.net/foxnewsradio-foxnewsradioaac-imc?session-id=70b16cc42f73889ada14cfb8ef2e6048"
+    },
+    {
+        "name": "Lobo 97.7 - KBBX",
+        "city": "Omaha NE",
+        "country": "United States",
+        "url": "https://17993.live.streamtheworld.com:443/KBBXFMAAC_SC"
+    },
+    {
+        "name": "KJAN AM 1220",
+        "city": "Omaha NE",
+        "country": "United States",
+        "url": "https://ice7.securenetsystems.net/KJAN"
+    },
+    {
+        "name": "KDSN-AM 1530",
+        "city": "Omaha NE",
+        "country": "United States",
+        "url": "https://ice7.securenetsystems.net/KDSNAM"
+    }
+]

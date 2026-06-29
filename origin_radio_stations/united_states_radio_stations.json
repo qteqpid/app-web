@@ -1,0 +1,3032 @@
+[
+  {
+    "id": "united-wbcr",
+    "name": "WBCR",
+    "url": "http://backbonenetworks.streamguys.com/bloomfield",
+    "genre": "Music",
+    "city": "New York NY",
+    "country": "United States",
+    "lat": 40.7372329,
+    "lng": -73.862477
+  },
+  {
+    "id": "united-koko-lp-radio-963-fm",
+    "name": "KOKO LP Radio 96.3 FM",
+    "url": "https://s2.yesstreaming.net:7031/stream",
+    "genre": "Music",
+    "city": "New York NY",
+    "country": "United States",
+    "lat": 40.7372329,
+    "lng": -73.862477
+  },
+  {
+    "id": "united-pulse-87-ny-online",
+    "name": "Pulse 87 NY Online",
+    "url": "https://s2.yesstreaming.net:17039/PULSE-87",
+    "genre": "Music",
+    "city": "New York NY",
+    "country": "United States",
+    "lat": 40.7372329,
+    "lng": -73.862477
+  },
+  {
+    "id": "united-podpaulradio",
+    "name": "PodPaulRadio",
+    "url": "https://c11.radioboss.fm:18216/stream",
+    "genre": "Music",
+    "city": "New York NY",
+    "country": "United States",
+    "lat": 40.7372329,
+    "lng": -73.862477
+  },
+  {
+    "id": "united-smooth-jazz-247",
+    "name": "Smooth Jazz 24/7",
+    "url": "https://ais-edge89-dal02.cdnstream.com/2124_128.mp3",
+    "genre": "Music",
+    "city": "New York NY",
+    "country": "United States",
+    "lat": 40.7372329,
+    "lng": -73.862477
+  },
+  {
+    "id": "united-abn-old-time-radio-am-1610",
+    "name": "ABN Old-Time Radio AM 1610",
+    "url": "https://s6.yesstreaming.net:18000/listen",
+    "genre": "Music",
+    "city": "New York NY",
+    "country": "United States",
+    "lat": 40.7372329,
+    "lng": -73.862477
+  },
+  {
+    "id": "united-kbrw-am-680",
+    "name": "KBRW-AM 680",
+    "url": "https://tektite.streamguys1.com:5345/live",
+    "genre": "Music",
+    "city": "New York NY",
+    "country": "United States",
+    "lat": 40.7372329,
+    "lng": -73.862477
+  },
+  {
+    "id": "united-vintage-obscura-radio",
+    "name": "Vintage Obscura Radio",
+    "url": "https://radio.vintageobscura.net/stream",
+    "genre": "Music",
+    "city": "New York NY",
+    "country": "United States",
+    "lat": 40.7372329,
+    "lng": -73.862477
+  },
+  {
+    "id": "united-wnyc-fm-939",
+    "name": "WNYC FM 93.9",
+    "url": "https://fm939.wnyc.org/wnycfm.aac",
+    "genre": "Music",
+    "city": "New York NY",
+    "country": "United States",
+    "lat": 40.7372329,
+    "lng": -73.862477
+  },
+  {
+    "id": "united-radio-libre-nj",
+    "name": "Radio Libre NJ",
+    "url": "https://air.doscast.com/proxy/radiolibre/index.html?sid=1",
+    "genre": "Music",
+    "city": "New York NY",
+    "country": "United States",
+    "lat": 40.7372329,
+    "lng": -73.862477
+  },
+  {
+    "id": "united-the-joint",
+    "name": "the Joint",
+    "url": "https://usa18.fastcast4u.com/proxy/nusoulp1?mp=/1",
+    "genre": "Music",
+    "city": "New York NY",
+    "country": "United States",
+    "lat": 40.7372329,
+    "lng": -73.862477
+  },
+  {
+    "id": "united-radio-verite",
+    "name": "Radio Verite",
+    "url": "https://s1.epistreaming.net/proxy/radioverite/stream",
+    "genre": "Music",
+    "city": "New York NY",
+    "country": "United States",
+    "lat": 40.7372329,
+    "lng": -73.862477
+  },
+  {
+    "id": "united-great-big-radio",
+    "name": "Great Big Radio",
+    "url": "https://das-edge14-live365-dal02.cdnstream.com/a43930",
+    "genre": "Music",
+    "city": "New York NY",
+    "country": "United States",
+    "lat": 40.7372329,
+    "lng": -73.862477
+  },
+  {
+    "id": "united-cladrite-radio",
+    "name": "Cladrite Radio",
+    "url": "https://das-edge63-live365-dal03.cdnstream.com/a43564",
+    "genre": "Music",
+    "city": "New York NY",
+    "country": "United States",
+    "lat": 40.7372329,
+    "lng": -73.862477
+  },
+  {
+    "id": "united-v81-radio",
+    "name": "V81 Radio",
+    "url": "http://162.244.80.52:5960/;stream.aac",
+    "genre": "Music",
+    "city": "Los Angeles CA",
+    "country": "United States",
+    "lat": 34.625739,
+    "lng": -118.0826393
+  },
+  {
+    "id": "united-discorumba-954-fm",
+    "name": "DiscoRumba 95.4 FM",
+    "url": "https://radio.streaming686.com/listen/discorumba954fm/radio.mp3",
+    "genre": "Music",
+    "city": "Los Angeles CA",
+    "country": "United States",
+    "lat": 34.625739,
+    "lng": -118.0826393
+  },
+  {
+    "id": "united-folk-music-notebook",
+    "name": "Folk Music Notebook",
+    "url": "https://s3.radio.co/s0b5d4adb5/listen",
+    "genre": "Music",
+    "city": "New York NY",
+    "country": "United States",
+    "lat": 40.7372329,
+    "lng": -73.862477
+  },
+  {
+    "id": "united-wfuv-music",
+    "name": "WFUV Music",
+    "url": "https://music.wfuv.org/music-hi",
+    "genre": "Music",
+    "city": "New York NY",
+    "country": "United States",
+    "lat": 40.7372329,
+    "lng": -73.862477
+  },
+  {
+    "id": "united-fox-news-radio",
+    "name": "Fox News Radio",
+    "url": "https://prod-3-222-117-14.amperwave.net/foxnewsradio-foxnewsradioaac-imc?session-id=3e09f143539c0b252f412f0b3f09133d",
+    "genre": "Music",
+    "city": "New York NY",
+    "country": "United States",
+    "lat": 40.7372329,
+    "lng": -73.862477
+  },
+  {
+    "id": "united-101-smooth-jazz",
+    "name": "101 Smooth Jazz",
+    "url": "https://ais-sa2.cdnstream1.com/2329_128.mp3",
+    "genre": "Music",
+    "city": "Los Angeles CA",
+    "country": "United States",
+    "lat": 34.625739,
+    "lng": -118.0826393
+  },
+  {
+    "id": "united-indie-x-fm",
+    "name": "Indie X FM",
+    "url": "https://kathy.torontocast.com:2695/stream",
+    "genre": "Music",
+    "city": "Los Angeles CA",
+    "country": "United States",
+    "lat": 34.625739,
+    "lng": -118.0826393
+  },
+  {
+    "id": "united-hot-971--wqht",
+    "name": "Hot 97.1 - WQHT",
+    "url": "https://22113.live.streamtheworld.com:443/WQHTFMAAC.aac",
+    "genre": "Music",
+    "city": "New York NY",
+    "country": "United States",
+    "lat": 40.7372329,
+    "lng": -73.862477
+  },
+  {
+    "id": "united-planet-pootwaddle",
+    "name": "Planet Pootwaddle",
+    "url": "http://peridot.streamguys.com:7520/sgplayer-mp3",
+    "genre": "Music",
+    "city": "Los Angeles CA",
+    "country": "United States",
+    "lat": 34.625739,
+    "lng": -118.0826393
+  },
+  {
+    "id": "united-tyedyeblues",
+    "name": "TyeDyeBlues",
+    "url": "https://das-edge14-live365-dal02.cdnstream.com/a82860",
+    "genre": "Music",
+    "city": "Los Angeles CA",
+    "country": "United States",
+    "lat": 34.625739,
+    "lng": -118.0826393
+  },
+  {
+    "id": "united-platinum-trini-hot-97-fm",
+    "name": "Platinum Trini Hot 97 FM",
+    "url": "https://das-edge62-live365-dal03.cdnstream.com/a07630",
+    "genre": "Music",
+    "city": "Los Angeles CA",
+    "country": "United States",
+    "lat": 34.625739,
+    "lng": -118.0826393
+  },
+  {
+    "id": "united-dublab",
+    "name": "dublab",
+    "url": "https://dublab.out.airtime.pro/dublab_a",
+    "genre": "Music",
+    "city": "Los Angeles CA",
+    "country": "United States",
+    "lat": 34.625739,
+    "lng": -118.0826393
+  },
+  {
+    "id": "united-yerevan-nights-radio",
+    "name": "Yerevan Nights Radio",
+    "url": "http://icecast.yerevannights.com/YerevanNights",
+    "genre": "Music",
+    "city": "Los Angeles CA",
+    "country": "United States",
+    "lat": 34.625739,
+    "lng": -118.0826393
+  },
+  {
+    "id": "united-la-perrísima-radio",
+    "name": "La Perrísima Radio",
+    "url": "https://c9.radioboss.fm:8194/stream",
+    "genre": "Music",
+    "city": "Los Angeles CA",
+    "country": "United States",
+    "lat": 34.625739,
+    "lng": -118.0826393
+  },
+  {
+    "id": "united-kxlu-fm-889",
+    "name": "KXLU FM 88.9",
+    "url": "https://kxlu.streamguys1.com/kxlu-hi",
+    "genre": "Music",
+    "city": "Los Angeles CA",
+    "country": "United States",
+    "lat": 34.625739,
+    "lng": -118.0826393
+  },
+  {
+    "id": "united-bms-radio-chicago",
+    "name": "BMS Radio Chicago",
+    "url": "https://ec4.yesstreaming.net:2280/stream",
+    "genre": "Music",
+    "city": "Chicago IL",
+    "country": "United States",
+    "lat": 41.8562754,
+    "lng": -87.6656849
+  },
+  {
+    "id": "united-kiis-fm-1027",
+    "name": "KIIS FM 102.7",
+    "url": "https://cloud.revma.ihrhls.com/zc185?rj-org=n2db-e2&rj-ttl=5&rj-tok=AAABm_numIEAoa-c_tT8A7ZNyw",
+    "genre": "Music",
+    "city": "Los Angeles CA",
+    "country": "United States",
+    "lat": 34.625739,
+    "lng": -118.0826393
+  },
+  {
+    "id": "united-radio-zion-540-am",
+    "name": "Radio Zion 540 AM",
+    "url": "https://zionmultimedia.live/radio/8010/radio.mp3",
+    "genre": "Music",
+    "city": "Los Angeles CA",
+    "country": "United States",
+    "lat": 34.625739,
+    "lng": -118.0826393
+  },
+  {
+    "id": "united-wnyg-fm-975-radio-cántico-nuevo",
+    "name": "WNYG FM 97.5 Radio Cántico Nuevo",
+    "url": "https://panel.streamenviron.com:8006/stream.mp3",
+    "genre": "Music",
+    "city": "New York NY",
+    "country": "United States",
+    "lat": 40.7372329,
+    "lng": -73.862477
+  },
+  {
+    "id": "united-kost-1035",
+    "name": "KOST 103.5",
+    "url": "https://cloud.revma.ihrhls.com/zc193?rj-org=n09b-e2&rj-ttl=5&rj-tok=AAABm_numoAAyDGVIlktyzB27g",
+    "genre": "Music",
+    "city": "Los Angeles CA",
+    "country": "United States",
+    "lat": 34.625739,
+    "lng": -118.0826393
+  },
+  {
+    "id": "united-audio-noir-radio",
+    "name": "Audio Noir Radio",
+    "url": "http://streams.audionoir.com:8000/noir/",
+    "genre": "Music",
+    "city": "Chicago IL",
+    "country": "United States",
+    "lat": 41.8562754,
+    "lng": -87.6656849
+  },
+  {
+    "id": "united-kusc-classical-fm-915",
+    "name": "KUSC Classical FM 91.5",
+    "url": "https://23023.live.streamtheworld.com:443/KUSCMP96_SC",
+    "genre": "Music",
+    "city": "Los Angeles CA",
+    "country": "United States",
+    "lat": 34.625739,
+    "lng": -118.0826393
+  },
+  {
+    "id": "united-wbgx-1570-am",
+    "name": "WBGX 1570 AM",
+    "url": "https://s9.reliastream.com/proxy/brianbyr?mp=/stream",
+    "genre": "Music",
+    "city": "Chicago IL",
+    "country": "United States",
+    "lat": 41.8562754,
+    "lng": -87.6656849
+  },
+  {
+    "id": "united-mystery-and-suspense-radio-network",
+    "name": "Mystery And Suspense Radio Network",
+    "url": "https://hemnos.cdnstream.com/1667_32",
+    "genre": "Music",
+    "city": "Chicago IL",
+    "country": "United States",
+    "lat": 41.8562754,
+    "lng": -87.6656849
+  },
+  {
+    "id": "united-wild-west-old-time-radio-channel",
+    "name": "Wild West Old Time Radio Channel",
+    "url": "https://kea.cdnstream.com/1893_128",
+    "genre": "Music",
+    "city": "Chicago IL",
+    "country": "United States",
+    "lat": 41.8562754,
+    "lng": -87.6656849
+  },
+  {
+    "id": "united-wcrx-881-fm",
+    "name": "WCRX 88.1 FM",
+    "url": "https://wcrx.streamguys1.com/live",
+    "genre": "Music",
+    "city": "Chicago IL",
+    "country": "United States",
+    "lat": 41.8562754,
+    "lng": -87.6656849
+  },
+  {
+    "id": "united-restauracion-sb",
+    "name": "Restauracion SB",
+    "url": "https://15113.live.streamtheworld.com:443/SAM03AAC78.mp3",
+    "genre": "Music",
+    "city": "Los Angeles CA",
+    "country": "United States",
+    "lat": 34.625739,
+    "lng": -118.0826393
+  },
+  {
+    "id": "united-radio-la-difference",
+    "name": "Radio la Difference",
+    "url": "http://s2.voscast.com:7432/index.html?sid=1",
+    "genre": "Music",
+    "city": "Chicago IL",
+    "country": "United States",
+    "lat": 41.8562754,
+    "lng": -87.6656849
+  },
+  {
+    "id": "united-wbez-fm-915",
+    "name": "WBEZ FM 91.5",
+    "url": "https://stream.wbez.org/wbez64-web.aac",
+    "genre": "Music",
+    "city": "Chicago IL",
+    "country": "United States",
+    "lat": 41.8562754,
+    "lng": -87.6656849
+  },
+  {
+    "id": "united-soul-1063",
+    "name": "Soul 106.3",
+    "url": "https://ais-sa8.cdnstream1.com/phvh2qaosfo/c2ebyqqdqjx",
+    "genre": "Music",
+    "city": "Chicago IL",
+    "country": "United States",
+    "lat": 41.8562754,
+    "lng": -87.6656849
+  },
+  {
+    "id": "united-urc-radio",
+    "name": "URC Radio",
+    "url": "https://streamer.radio.co/sdff2fd6a8/listen",
+    "genre": "Music",
+    "city": "Chicago IL",
+    "country": "United States",
+    "lat": 41.8562754,
+    "lng": -87.6656849
+  },
+  {
+    "id": "united-rock-955--wchi-fm",
+    "name": "Rock 95.5 - WCHI FM",
+    "url": "https://cloud.revma.ihrhls.com/zc857?rj-org=n08b-e2&rj-ttl=5&rj-tok=AAABm_nuo-UAkQecvsp3MQoa7A",
+    "genre": "Music",
+    "city": "Chicago IL",
+    "country": "United States",
+    "lat": 41.8562754,
+    "lng": -87.6656849
+  },
+  {
+    "id": "united-wdcb-909-fm-jazz",
+    "name": "WDCB 90.9 FM Jazz",
+    "url": "https://wdcb-ice.streamguys1.com/mobile-AAC",
+    "genre": "Music",
+    "city": "Chicago IL",
+    "country": "United States",
+    "lat": 41.8562754,
+    "lng": -87.6656849
+  },
+  {
+    "id": "united-wcpt-am-820",
+    "name": "WCPT AM 820",
+    "url": "https://14153.live.streamtheworld.com:443/WCPTAM.mp3",
+    "genre": "Music",
+    "city": "Chicago IL",
+    "country": "United States",
+    "lat": 41.8562754,
+    "lng": -87.6656849
+  },
+  {
+    "id": "united-soma-fm-the-dark-zone",
+    "name": "Soma FM The Dark Zone",
+    "url": "https://ice6.somafm.com/darkzone-128-mp3",
+    "genre": "Music",
+    "city": "San Francisco CA",
+    "country": "United States",
+    "lat": 37.8262322,
+    "lng": -122.4221501
+  },
+  {
+    "id": "united-sf70s",
+    "name": "SF70s",
+    "url": "https://stream4.rcast.net/72991/",
+    "genre": "Music",
+    "city": "San Francisco CA",
+    "country": "United States",
+    "lat": 37.8262322,
+    "lng": -122.4221501
+  },
+  {
+    "id": "united-kvvn",
+    "name": "KVVN",
+    "url": "https://us2.maindigitalstream.com/ssl/KVVN",
+    "genre": "Music",
+    "city": "San Francisco CA",
+    "country": "United States",
+    "lat": 37.8262322,
+    "lng": -122.4221501
+  },
+  {
+    "id": "united-south-of-gilman-st",
+    "name": "South of Gilman St.",
+    "url": "http://stream.southofgilman.org:8000/",
+    "genre": "Music",
+    "city": "San Francisco CA",
+    "country": "United States",
+    "lat": 37.8262322,
+    "lng": -122.4221501
+  },
+  {
+    "id": "united-bfffm",
+    "name": "BFF.FM",
+    "url": "https://ais-sa2.cdnstream1.com/2053_128.mp3?cache=7f05c8f6d18eb875",
+    "genre": "Music",
+    "city": "San Francisco CA",
+    "country": "United States",
+    "lat": 37.8262322,
+    "lng": -122.4221501
+  },
+  {
+    "id": "united-soma-fm-underground-80s",
+    "name": "Soma FM Underground 80s",
+    "url": "https://ice1.somafm.com/u80s-256-mp3",
+    "genre": "Music",
+    "city": "San Francisco CA",
+    "country": "United States",
+    "lat": 37.8262322,
+    "lng": -122.4221501
+  },
+  {
+    "id": "united-totally-classic-hits-fm-95",
+    "name": "Totally Classic Hits FM 95",
+    "url": "https://strw3.openstream.co/904?aw_0_1st.collectionid%3D3698%26stationId%3D3698%26publisherId%3D928%26k%3D1769424125",
+    "genre": "Music",
+    "city": "Chicago IL",
+    "country": "United States",
+    "lat": 41.8562754,
+    "lng": -87.6656849
+  },
+  {
+    "id": "united-j-99-jams",
+    "name": "J 99 Jams",
+    "url": "https://servidor26.brlogic.com:7048/live",
+    "genre": "Music",
+    "city": "Chicago IL",
+    "country": "United States",
+    "lat": 41.8562754,
+    "lng": -87.6656849
+  },
+  {
+    "id": "united-wild-949",
+    "name": "Wild 94.9",
+    "url": "https://cloud.revma.ihrhls.com/zc305?rj-org=n0db-e2&rj-ttl=5&rj-tok=AAABm_nurWkASiIkAwmwlY1eFQ",
+    "genre": "Music",
+    "city": "San Francisco CA",
+    "country": "United States",
+    "lat": 37.8262322,
+    "lng": -122.4221501
+  },
+  {
+    "id": "united-pacifiklive",
+    "name": "PacifikLive",
+    "url": "https://pacifiklive.streamguys1.com/live",
+    "genre": "Music",
+    "city": "San Francisco CA",
+    "country": "United States",
+    "lat": 37.8262322,
+    "lng": -122.4221501
+  },
+  {
+    "id": "united-kqed-fm-885",
+    "name": "KQED FM 88.5",
+    "url": "https://streams.kqed.org/",
+    "genre": "Music",
+    "city": "San Francisco CA",
+    "country": "United States",
+    "lat": 37.8262322,
+    "lng": -122.4221501
+  },
+  {
+    "id": "united-ksan-fm-1077",
+    "name": "KSAN-FM 107.7",
+    "url": "https://14103.live.streamtheworld.com:443/KSANFMAAC.aac",
+    "genre": "Music",
+    "city": "San Francisco CA",
+    "country": "United States",
+    "lat": 37.8262322,
+    "lng": -122.4221501
+  },
+  {
+    "id": "united-synergy1radio",
+    "name": "Synergy1Radio",
+    "url": "https://puma.streemlion.com:1905/stream",
+    "genre": "Music",
+    "city": "Chicago IL",
+    "country": "United States",
+    "lat": 41.8562754,
+    "lng": -87.6656849
+  },
+  {
+    "id": "united-kmgp-space-1011",
+    "name": "KMGP Space 101.1",
+    "url": "https://kmgp.broadcasttool.stream/xstream.mp3",
+    "genre": "Music",
+    "city": "Seattle WA",
+    "country": "United States",
+    "lat": 47.615296,
+    "lng": -122.3365187
+  },
+  {
+    "id": "united-classical-kdfc-1049-fm",
+    "name": "Classical KDFC 104.9 FM",
+    "url": "https://27263.live.streamtheworld.com:443/KDFCFMAAC.aac",
+    "genre": "Music",
+    "city": "San Francisco CA",
+    "country": "United States",
+    "lat": 37.8262322,
+    "lng": -122.4221501
+  },
+  {
+    "id": "united-alice-951-fm-hd3",
+    "name": "Alice 95.1 FM HD3",
+    "url": "https://sonic.radiostream.ca/9996/stream",
+    "genre": "Music",
+    "city": "Seattle WA",
+    "country": "United States",
+    "lat": 47.615296,
+    "lng": -122.3365187
+  },
+  {
+    "id": "united-knbr-680--knbr",
+    "name": "KNBR 680 - KNBR",
+    "url": "https://22963.live.streamtheworld.com:443/KNBRAM_SC",
+    "genre": "Music",
+    "city": "San Francisco CA",
+    "country": "United States",
+    "lat": 37.8262322,
+    "lng": -122.4221501
+  },
+  {
+    "id": "united-ellinikosfm",
+    "name": "Ellinikosfm",
+    "url": "https://usa15.fastcast4u.com/proxy/ellinikosfm?mp=/stream",
+    "genre": "Music",
+    "city": "Seattle WA",
+    "country": "United States",
+    "lat": 47.615296,
+    "lng": -122.3365187
+  },
+  {
+    "id": "united-classical-calm-by-king-fm",
+    "name": "Classical Calm by King FM",
+    "url": "https://classicalking.streamguys1.com/evergreen-aac-128k",
+    "genre": "Music",
+    "city": "Seattle WA",
+    "country": "United States",
+    "lat": 47.615296,
+    "lng": -122.3365187
+  },
+  {
+    "id": "united-king-fm-981-classical",
+    "name": "KING FM 98.1 Classical",
+    "url": "https://classicalking.streamguys1.com/king-fm-aac-128k",
+    "genre": "Music",
+    "city": "Seattle WA",
+    "country": "United States",
+    "lat": 47.615296,
+    "lng": -122.3365187
+  },
+  {
+    "id": "united-now-wave-radio",
+    "name": "Now Wave Radio",
+    "url": "https://das-edge63-live365-dal03.cdnstream.com/a78360",
+    "genre": "Music",
+    "city": "Seattle WA",
+    "country": "United States",
+    "lat": 47.615296,
+    "lng": -122.3365187
+  },
+  {
+    "id": "united-965-jack-fm",
+    "name": "96.5 Jack-FM",
+    "url": "https://cloud.revma.ihrhls.com/zc7788?rj-org=n3db-e2&rj-ttl=5&rj-tok=AAABm_nuuFkAAIQ8DzopX-Pq4g",
+    "genre": "Music",
+    "city": "Seattle WA",
+    "country": "United States",
+    "lat": 47.615296,
+    "lng": -122.3365187
+  },
+  {
+    "id": "united-kiro-radio-fm-973",
+    "name": "KIRO Radio FM 97.3",
+    "url": "https://bonneville.cdnstream1.com/2643_48.aac",
+    "genre": "Music",
+    "city": "Seattle WA",
+    "country": "United States",
+    "lat": 47.615296,
+    "lng": -122.3365187
+  },
+  {
+    "id": "united-wlth-am-1370",
+    "name": "WLTH AM 1370",
+    "url": "https://ice23.securenetsystems.net/WLTH",
+    "genre": "Music",
+    "city": "Chicago IL",
+    "country": "United States",
+    "lat": 41.8562754,
+    "lng": -87.6656849
+  },
+  {
+    "id": "united-kexp-903-fm",
+    "name": "KEXP 90.3 FM",
+    "url": "https://kexp.streamguys1.com/kexp160.aac",
+    "genre": "Music",
+    "city": "Seattle WA",
+    "country": "United States",
+    "lat": 47.615296,
+    "lng": -122.3365187
+  },
+  {
+    "id": "united-espn-710-am-seattle",
+    "name": "ESPN 710 AM Seattle",
+    "url": "https://bonneville.cdnstream1.com/2642_48.aac",
+    "genre": "Music",
+    "city": "Seattle WA",
+    "country": "United States",
+    "lat": 47.615296,
+    "lng": -122.3365187
+  },
+  {
+    "id": "united-visage",
+    "name": "Visage",
+    "url": "http://n07.radiojar.com/ug6v0qfmb?rj-ttl=5&rj-tok=AAABm_nuwg8An-H2tMDLJzHxbw",
+    "genre": "Music",
+    "city": "Seattle WA",
+    "country": "United States",
+    "lat": 47.615296,
+    "lng": -122.3365187
+  },
+  {
+    "id": "united-datafruits",
+    "name": "datafruits",
+    "url": "https://streampusher-relay.club/datafruits.mp3",
+    "genre": "Music",
+    "city": "Seattle WA",
+    "country": "United States",
+    "lat": 47.615296,
+    "lng": -122.3365187
+  },
+  {
+    "id": "united-tnt-media-atlanta",
+    "name": "TNT Media Atlanta",
+    "url": "http://media.streambrothers.com:18394/stream",
+    "genre": "Music",
+    "city": "Atlanta GA",
+    "country": "United States",
+    "lat": 33.710511,
+    "lng": -84.3689965
+  },
+  {
+    "id": "united-kcsm-jazz-91",
+    "name": "KCSM Jazz 91",
+    "url": "https://ice5.securenetsystems.net/KCSM",
+    "genre": "Music",
+    "city": "San Francisco CA",
+    "country": "United States",
+    "lat": 37.8262322,
+    "lng": -122.4221501
+  },
+  {
+    "id": "united-kmih-889-the-bridge",
+    "name": "KMIH 88.9 The Bridge",
+    "url": "https://www.streamvortex.com:8444/s/11390",
+    "genre": "Music",
+    "city": "Seattle WA",
+    "country": "United States",
+    "lat": 47.615296,
+    "lng": -122.3365187
+  },
+  {
+    "id": "united-purdy-spit-radio",
+    "name": "Purdy Spit Radio",
+    "url": "https://stream-167.zeno.fm/0autxdxsf48uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwYXV0eGR4c2Y0OHV2IiwiaG9zdCI6InN0cmVhbS0xNjcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiMnBhWjBSTzBRc3VpTXBDOUJKMUFYQSIsImlhdCI6MTc2OTQyNDEzMiwiZXhwIjoxNzY5NDI0MTkyfQ.b67SlEe8cwSFrCsvOH09_uh-msprF5Vaz0GjTRvNwiY",
+    "genre": "Music",
+    "city": "Seattle WA",
+    "country": "United States",
+    "lat": 47.615296,
+    "lng": -122.3365187
+  },
+  {
+    "id": "united-next-kids-worldwide",
+    "name": "Next Kids Worldwide",
+    "url": "https://usa14.fastcast4u.com/proxy/tigreene?mp=/1",
+    "genre": "Music",
+    "city": "Atlanta GA",
+    "country": "United States",
+    "lat": 33.710511,
+    "lng": -84.3689965
+  },
+  {
+    "id": "united-radio-punjab-am-1560",
+    "name": "Radio Punjab AM 1560",
+    "url": "https://stream-155.zeno.fm/c30rk1318s5tv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjMzByazEzMThzNXR2IiwiaG9zdCI6InN0cmVhbS0xNTUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiYXJDbnp6dEpTQ2lIRFd1bV9mZUZwQSIsImlhdCI6MTc2OTQyNDEzMiwiZXhwIjoxNzY5NDI0MTkyfQ.AAWbZITg557ZDhNapmBxgOJEoKsj7lKPAacieFh_aRk",
+    "genre": "Music",
+    "city": "Seattle WA",
+    "country": "United States",
+    "lat": 47.615296,
+    "lng": -122.3365187
+  },
+  {
+    "id": "united-funland-radio",
+    "name": "FunLand Radio",
+    "url": "https://das-edge62-live365-dal03.cdnstream.com/a82808",
+    "genre": "Music",
+    "city": "Atlanta GA",
+    "country": "United States",
+    "lat": 33.710511,
+    "lng": -84.3689965
+  },
+  {
+    "id": "united-gpb-classical",
+    "name": "GPB Classical",
+    "url": "https://gpb.streamguys1.com/oom/gpb-classical-mp3-website",
+    "genre": "Music",
+    "city": "Atlanta GA",
+    "country": "United States",
+    "lat": 33.710511,
+    "lng": -84.3689965
+  },
+  {
+    "id": "united-kuow-fm-949",
+    "name": "KUOW-FM 94.9",
+    "url": "https://26113.live.streamtheworld.com:443/KUOWFM_HIGH_MP3.mp3",
+    "genre": "Music",
+    "city": "Seattle WA",
+    "country": "United States",
+    "lat": 47.615296,
+    "lng": -122.3365187
+  },
+  {
+    "id": "united-247mixing",
+    "name": "247Mixing",
+    "url": "https://listen.radioking.com/radio/558131/stream/617639",
+    "genre": "Music",
+    "city": "Atlanta GA",
+    "country": "United States",
+    "lat": 33.710511,
+    "lng": -84.3689965
+  },
+  {
+    "id": "united-classic-long-island-radio",
+    "name": "Classic Long Island Radio",
+    "url": "https://das-edge63-live365-dal03.cdnstream.com/a02256",
+    "genre": "Music",
+    "city": "Atlanta GA",
+    "country": "United States",
+    "lat": 33.710511,
+    "lng": -84.3689965
+  },
+  {
+    "id": "united-streetz-945",
+    "name": "Streetz 94.5",
+    "url": "http://104.6.216.93:8000/Streetz",
+    "genre": "Music",
+    "city": "Atlanta GA",
+    "country": "United States",
+    "lat": 33.710511,
+    "lng": -84.3689965
+  },
+  {
+    "id": "united-og-979",
+    "name": "OG 97.9",
+    "url": "https://22203.live.streamtheworld.com:443/WWWQH3AAC.aac",
+    "genre": "Music",
+    "city": "Atlanta GA",
+    "country": "United States",
+    "lat": 33.710511,
+    "lng": -84.3689965
+  },
+  {
+    "id": "united-misfits-radio",
+    "name": "Misfits Radio",
+    "url": "https://das-edge14-live365-dal02.cdnstream.com/a94544",
+    "genre": "Music",
+    "city": "Atlanta GA",
+    "country": "United States",
+    "lat": 33.710511,
+    "lng": -84.3689965
+  },
+  {
+    "id": "united-news-955-am-750-wsb--wsb",
+    "name": "News 95.5 AM 750 WSB - WSB",
+    "url": "https://ad-oom-cmg.streamguys1.com/atl750/atl750-sgplayer-aac",
+    "genre": "Music",
+    "city": "Atlanta GA",
+    "country": "United States",
+    "lat": 33.710511,
+    "lng": -84.3689965
+  },
+  {
+    "id": "united-radio-casablanca",
+    "name": "Radio Casablanca",
+    "url": "https://broadcast.miami/proxy/casablanca?mp=/stream/;",
+    "genre": "Music",
+    "city": "Miami FL",
+    "country": "United States",
+    "lat": 25.8894022,
+    "lng": -80.1619305
+  },
+  {
+    "id": "united-radio-tk-disco",
+    "name": "Radio T.K. Disco",
+    "url": "https://broadcast.miami/proxy/tkdisco?mp=/stream/;",
+    "genre": "Music",
+    "city": "Miami FL",
+    "country": "United States",
+    "lat": 25.8894022,
+    "lng": -80.1619305
+  },
+  {
+    "id": "united-radio-west-end",
+    "name": "Radio West End",
+    "url": "https://broadcast.miami/proxy/westend?mp=/stream/;",
+    "genre": "Music",
+    "city": "Miami FL",
+    "country": "United States",
+    "lat": 25.8894022,
+    "lng": -80.1619305
+  },
+  {
+    "id": "united-livesideradio-fm-927",
+    "name": "Livesideradio FM 92.7",
+    "url": "https://stream-178.zeno.fm/9h35skerrkeuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI5aDM1c2tlcnJrZXV2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiVlNVUEFsQnlTUDZIcEFJeDkxQzFodyIsImlhdCI6MTc2OTQyNDEzNSwiZXhwIjoxNzY5NDI0MTk1fQ.ehKuJdylb2niDlGK6X2WBd-xOv1D97Eqvt6t7bDXtJg",
+    "genre": "Music",
+    "city": "Atlanta GA",
+    "country": "United States",
+    "lat": 33.710511,
+    "lng": -84.3689965
+  },
+  {
+    "id": "united-202fm--020-super-70s",
+    "name": "202.FM - 020 Super 70s",
+    "url": "http://listen.livestreamingservice.com/181-70s_128k.mp3",
+    "genre": "Music",
+    "city": "Miami FL",
+    "country": "United States",
+    "lat": 25.8894022,
+    "lng": -80.1619305
+  },
+  {
+    "id": "united-ritmo-957-fm-wrma",
+    "name": "Ritmo 95.7 FM WRMA",
+    "url": "https://liveaudio.lamusica.com/MIA_WRMA_icy",
+    "genre": "Music",
+    "city": "Miami FL",
+    "country": "United States",
+    "lat": 25.8894022,
+    "lng": -80.1619305
+  },
+  {
+    "id": "united-hitmakers-radio",
+    "name": "Hitmakers Radio",
+    "url": "https://s2.radio.co/s50da21df7/listen",
+    "genre": "Music",
+    "city": "Atlanta GA",
+    "country": "United States",
+    "lat": 33.710511,
+    "lng": -84.3689965
+  },
+  {
+    "id": "united-serenityradiome",
+    "name": "Serenityradio.me",
+    "url": "https://das-edge62-live365-dal03.cdnstream.com/a24931",
+    "genre": "Music",
+    "city": "Atlanta GA",
+    "country": "United States",
+    "lat": 33.710511,
+    "lng": -84.3689965
+  },
+  {
+    "id": "united-salsa-amorissima",
+    "name": "Salsa Amorissima",
+    "url": "https://salsaamor-radiosolutions.radioca.st/:8762/",
+    "genre": "Music",
+    "city": "Miami FL",
+    "country": "United States",
+    "lat": 25.8894022,
+    "lng": -80.1619305
+  },
+  {
+    "id": "united-miamis-black-information-network-880-am",
+    "name": "Miami's Black Information Network 880 AM",
+    "url": "https://cloud.revma.ihrhls.com/zc8729?rj-org=n1ab-e2&rj-ttl=5&rj-tok=AAABm_nu0S4AJ7kvvEm5YZF6OA",
+    "genre": "Music",
+    "city": "Miami FL",
+    "country": "United States",
+    "lat": 25.8894022,
+    "lng": -80.1619305
+  },
+  {
+    "id": "united-wabe-news-fm-901",
+    "name": "WABE News FM 90.1",
+    "url": "https://17993.live.streamtheworld.com:443/WABEFM_HD1.mp3",
+    "genre": "Music",
+    "city": "Atlanta GA",
+    "country": "United States",
+    "lat": 33.710511,
+    "lng": -84.3689965
+  },
+  {
+    "id": "united-amorissima",
+    "name": "Amorissima",
+    "url": "https://baladaamor-radiosolutions.radioca.st/:8664/;stream.mp3",
+    "genre": "Music",
+    "city": "Miami FL",
+    "country": "United States",
+    "lat": 25.8894022,
+    "lng": -80.1619305
+  },
+  {
+    "id": "united-weruradio",
+    "name": "WERUradio",
+    "url": "https://ice42.securenetsystems.net/WERUDB",
+    "genre": "Music",
+    "city": "Atlanta GA",
+    "country": "United States",
+    "lat": 33.710511,
+    "lng": -84.3689965
+  },
+  {
+    "id": "united-wavs-1170-am",
+    "name": "WAVS 1170 AM",
+    "url": "https://us2.streamingpulse.com/ssl/WAVS1",
+    "genre": "Music",
+    "city": "Miami FL",
+    "country": "United States",
+    "lat": 25.8894022,
+    "lng": -80.1619305
+  },
+  {
+    "id": "united-wsrf-fm-995",
+    "name": "WSRF FM 99.5",
+    "url": "https://us2.maindigitalstream.com/ssl/WSRF",
+    "genre": "Music",
+    "city": "Miami FL",
+    "country": "United States",
+    "lat": 25.8894022,
+    "lng": -80.1619305
+  },
+  {
+    "id": "united-cleansing-60s",
+    "name": "Cleansing 60's",
+    "url": "https://hemnos.cdnstream.com/1465_128",
+    "genre": "Music",
+    "city": "Salt Lake City UT",
+    "country": "United States",
+    "lat": 40.7612698,
+    "lng": -111.891678
+  },
+  {
+    "id": "united-wsqf-fm-945",
+    "name": "WSQF FM 94.5",
+    "url": "https://us9.maindigitalstream.com/ssl/wsqf",
+    "genre": "Music",
+    "city": "Miami FL",
+    "country": "United States",
+    "lat": 25.8894022,
+    "lng": -80.1619305
+  },
+  {
+    "id": "united-cleansing-country",
+    "name": "Cleansing Country",
+    "url": "https://hemnos.cdnstream.com/1489_128",
+    "genre": "Music",
+    "city": "Salt Lake City UT",
+    "country": "United States",
+    "lat": 40.7612698,
+    "lng": -111.891678
+  },
+  {
+    "id": "united-kbzn-now-979",
+    "name": "KBZN Now 97.9",
+    "url": "https://ais-sa3.cdnstream1.com/2283_96.aac",
+    "genre": "Music",
+    "city": "Salt Lake City UT",
+    "country": "United States",
+    "lat": 40.7612698,
+    "lng": -111.891678
+  },
+  {
+    "id": "united-ras-general",
+    "name": "Ras General",
+    "url": "https://solid33.streamupsolutions.com/proxy/xdftelob/stream",
+    "genre": "Music",
+    "city": "Miami FL",
+    "country": "United States",
+    "lat": 25.8894022,
+    "lng": -80.1619305
+  },
+  {
+    "id": "united-radio-marti",
+    "name": "Radio Marti",
+    "url": "https://n0d.radiojar.com/3ds9yqpgq3quv?rj-ttl=5&rj-tok=AAABm_nu3NYA2M3LEjfNrlVXWA",
+    "genre": "Music",
+    "city": "Miami FL",
+    "country": "United States",
+    "lat": 25.8894022,
+    "lng": -80.1619305
+  },
+  {
+    "id": "united-the-mix-1051--kudd",
+    "name": "The Mix 105.1 - KUDD",
+    "url": "https://ais-sa1.streamon.fm/7350_48k.aac",
+    "genre": "Music",
+    "city": "Salt Lake City UT",
+    "country": "United States",
+    "lat": 40.7612698,
+    "lng": -111.891678
+  },
+  {
+    "id": "united-seed-of-light-radio",
+    "name": "Seed Of Light Radio",
+    "url": "https://puma.streemlion.com:4720/stream",
+    "genre": "Music",
+    "city": "Miami FL",
+    "country": "United States",
+    "lat": 25.8894022,
+    "lng": -80.1619305
+  },
+  {
+    "id": "united-dj-utahpablo-stream",
+    "name": "DJ utahPablo Stream",
+    "url": "http://149.56.157.81:8093/stream/",
+    "genre": "Music",
+    "city": "Salt Lake City UT",
+    "country": "United States",
+    "lat": 40.7612698,
+    "lng": -111.891678
+  },
+  {
+    "id": "united-upr-915--kusu",
+    "name": "UPR 91.5 - KUSU",
+    "url": "http://uprxstreamer.usu.edu:8000/stream",
+    "genre": "Music",
+    "city": "Salt Lake City UT",
+    "country": "United States",
+    "lat": 40.7612698,
+    "lng": -111.891678
+  },
+  {
+    "id": "united-fox-fm",
+    "name": "Fox-FM",
+    "url": "https://ice64.securenetsystems.net/WFDR",
+    "genre": "Music",
+    "city": "Atlanta GA",
+    "country": "United States",
+    "lat": 33.710511,
+    "lng": -84.3689965
+  },
+  {
+    "id": "united-talk-radio-1059-fm--knrs",
+    "name": "Talk Radio 105.9 FM - KNRS",
+    "url": "https://cloud.revma.ihrhls.com/zc2389?rj-org=n0ab-e2&rj-ttl=5&rj-tok=AAABm_nu4CsAbZR0W2xE461BJg",
+    "genre": "Music",
+    "city": "Salt Lake City UT",
+    "country": "United States",
+    "lat": 40.7612698,
+    "lng": -111.891678
+  },
+  {
+    "id": "united-latter-day-saints-talk",
+    "name": "Latter-Day Saints Talk",
+    "url": "https://nmcdn-lds.msvdn.net/icecastRelay/101155/40TKLCJ/icecast",
+    "genre": "Music",
+    "city": "Salt Lake City UT",
+    "country": "United States",
+    "lat": 40.7612698,
+    "lng": -111.891678
+  },
+  {
+    "id": "united-money-matters-radio",
+    "name": "Money Matters Radio",
+    "url": "http://backbonenetworks.streamguys.com/WBNW.mp3",
+    "genre": "Music",
+    "city": "Boston MA",
+    "country": "United States",
+    "lat": 42.3464366,
+    "lng": -71.0489592
+  },
+  {
+    "id": "united-kber",
+    "name": "KBER",
+    "url": "https://22983.live.streamtheworld.com:443/KBERFMAAC.aac",
+    "genre": "Music",
+    "city": "Salt Lake City UT",
+    "country": "United States",
+    "lat": 40.7612698,
+    "lng": -111.891678
+  },
+  {
+    "id": "united-ksl-fm-1027",
+    "name": "KSL FM 102.7",
+    "url": "https://bonneville.cdnstream1.com/2704_48.aac",
+    "genre": "Music",
+    "city": "Salt Lake City UT",
+    "country": "United States",
+    "lat": 40.7612698,
+    "lng": -111.891678
+  },
+  {
+    "id": "united-889-wers",
+    "name": "88.9 WERS",
+    "url": "http://marconi.emerson.edu:8000/wers",
+    "genre": "Music",
+    "city": "Boston MA",
+    "country": "United States",
+    "lat": 42.3464366,
+    "lng": -71.0489592
+  },
+  {
+    "id": "united-kkat",
+    "name": "KKAT",
+    "url": "https://14983.live.streamtheworld.com:443/KKATAMAAC.aac",
+    "genre": "Music",
+    "city": "Salt Lake City UT",
+    "country": "United States",
+    "lat": 40.7612698,
+    "lng": -111.891678
+  },
+  {
+    "id": "united-971-zht",
+    "name": "97.1 ZHT",
+    "url": "https://cloud.revma.ihrhls.com/zc2405?rj-org=n2ab-e2&rj-ttl=5&rj-tok=AAABm_nu5DcAQ1gEtWJK_eqiFg",
+    "genre": "Music",
+    "city": "Salt Lake City UT",
+    "country": "United States",
+    "lat": 40.7612698,
+    "lng": -111.891678
+  },
+  {
+    "id": "united-la-mexicana-radio",
+    "name": "La Mexicana Radio",
+    "url": "https://www.ophanim.net:8444/s/7220",
+    "genre": "Music",
+    "city": "Salt Lake City UT",
+    "country": "United States",
+    "lat": 40.7612698,
+    "lng": -111.891678
+  },
+  {
+    "id": "united-kuer-901-fm",
+    "name": "KUER 90.1 FM",
+    "url": "https://kuer.streamguys1.com/high_icy",
+    "genre": "Music",
+    "city": "Salt Lake City UT",
+    "country": "United States",
+    "lat": 40.7612698,
+    "lng": -111.891678
+  },
+  {
+    "id": "united-100-hiphop-and-rnb",
+    "name": "100 HipHop and RnB",
+    "url": "https://ice64.securenetsystems.net/LFTM",
+    "genre": "Music",
+    "city": "Miami FL",
+    "country": "United States",
+    "lat": 25.8894022,
+    "lng": -80.1619305
+  },
+  {
+    "id": "united-voice-of-the-gospel-tabernacle-radio",
+    "name": "Voice of the Gospel Tabernacle Radio",
+    "url": "https://usa15.fastcast4u.com/proxy/votradio?mp=/1",
+    "genre": "Music",
+    "city": "Boston MA",
+    "country": "United States",
+    "lat": 42.3464366,
+    "lng": -71.0489592
+  },
+  {
+    "id": "united-rpt-pulsa",
+    "name": "RPT Pulsa",
+    "url": "http://108.59.9.147:8170/stream",
+    "genre": "Music",
+    "city": "Boston MA",
+    "country": "United States",
+    "lat": 42.3464366,
+    "lng": -71.0489592
+  },
+  {
+    "id": "united-kgra-digital-broadcasting",
+    "name": "KGRA Digital Broadcasting",
+    "url": "https://listen.radioking.com/radio/453317/stream/508172",
+    "genre": "Music",
+    "city": "Salt Lake City UT",
+    "country": "United States",
+    "lat": 40.7612698,
+    "lng": -111.891678
+  },
+  {
+    "id": "united-el-nuevo-zol-971-fm--wsun",
+    "name": "El Nuevo Zol 97.1 FM - WSUN",
+    "url": "https://liveaudio.lamusica.com/TAM_WSUN_icy",
+    "genre": "Music",
+    "city": "Tampa FL",
+    "country": "United States",
+    "lat": 27.9529744,
+    "lng": -82.4508736
+  },
+  {
+    "id": "united-wumb-fm-919",
+    "name": "WUMB FM 91.9",
+    "url": "https://wumb.streamguys1.com/wumb919fast",
+    "genre": "Music",
+    "city": "Boston MA",
+    "country": "United States",
+    "lat": 42.3464366,
+    "lng": -71.0489592
+  },
+  {
+    "id": "united-wumb--blues",
+    "name": "WUMB - Blues",
+    "url": "https://wumb.streamguys1.com/wumb919st",
+    "genre": "Music",
+    "city": "Boston MA",
+    "country": "United States",
+    "lat": 42.3464366,
+    "lng": -71.0489592
+  },
+  {
+    "id": "united-wcrb--bach-channel",
+    "name": "WCRB - Bach Channel",
+    "url": "https://wgbh-live.streamguys1.com/Bach-8108",
+    "genre": "Music",
+    "city": "Boston MA",
+    "country": "United States",
+    "lat": 42.3464366,
+    "lng": -71.0489592
+  },
+  {
+    "id": "united-wgbh-fm-897",
+    "name": "WGBH FM 89.7",
+    "url": "https://wgbh-live.streamguys1.com/wgbh-aac",
+    "genre": "Music",
+    "city": "Boston MA",
+    "country": "United States",
+    "lat": 42.3464366,
+    "lng": -71.0489592
+  },
+  {
+    "id": "united-oldies-103-fm-boston",
+    "name": "Oldies 103 FM Boston",
+    "url": "https://das-edge11-live365-dal03.cdnstream.com/a88248",
+    "genre": "Music",
+    "city": "Boston MA",
+    "country": "United States",
+    "lat": 42.3464366,
+    "lng": -71.0489592
+  },
+  {
+    "id": "united-wmbr-fm-881",
+    "name": "WMBR FM 88.1",
+    "url": "https://wmbr.org:8002/hi",
+    "genre": "Music",
+    "city": "Boston MA",
+    "country": "United States",
+    "lat": 42.3464366,
+    "lng": -71.0489592
+  },
+  {
+    "id": "united-super-q--wqbn",
+    "name": "Super Q - WQBN",
+    "url": "http://68.235.35.243:9011/stream",
+    "genre": "Music",
+    "city": "Tampa FL",
+    "country": "United States",
+    "lat": 27.9529744,
+    "lng": -82.4508736
+  },
+  {
+    "id": "united-b877-fm",
+    "name": "B87.7 FM",
+    "url": "https://streamer.radio.co/s883e1674e/listen",
+    "genre": "Music",
+    "city": "Boston MA",
+    "country": "United States",
+    "lat": 42.3464366,
+    "lng": -71.0489592
+  },
+  {
+    "id": "united-la-mega-tampa-bay-1011-fm",
+    "name": "La Mega Tampa Bay 101.1 FM",
+    "url": "https://stream.broadcastserver.net:2020/stream/wtis",
+    "genre": "Music",
+    "city": "Tampa FL",
+    "country": "United States",
+    "lat": 27.9529744,
+    "lng": -82.4508736
+  },
+  {
+    "id": "united-fiya-991-radio",
+    "name": "FIYA 99.1 Radio",
+    "url": "https://listen.radioking.com/radio/359950/stream/409465",
+    "genre": "Music",
+    "city": "Tampa FL",
+    "country": "United States",
+    "lat": 27.9529744,
+    "lng": -82.4508736
+  },
+  {
+    "id": "united-wers-standing-room-only",
+    "name": "WERS Standing Room Only",
+    "url": "https://18503.live.streamtheworld.com:443/WERS_HD3AAC.aac",
+    "genre": "Music",
+    "city": "Boston MA",
+    "country": "United States",
+    "lat": 42.3464366,
+    "lng": -71.0489592
+  },
+  {
+    "id": "united-wbur-fm-909",
+    "name": "WBUR FM 90.9",
+    "url": "https://fm909.wbur.org/wbur",
+    "genre": "Music",
+    "city": "Boston MA",
+    "country": "United States",
+    "lat": 42.3464366,
+    "lng": -71.0489592
+  },
+  {
+    "id": "united-wjtb-db-smooth-jazz",
+    "name": "WJTB-DB Smooth Jazz",
+    "url": "https://vip2.fastcast4u.com/proxy/sjtbhd?mp=/1",
+    "genre": "Music",
+    "city": "Tampa FL",
+    "country": "United States",
+    "lat": 27.9529744,
+    "lng": -82.4508736
+  },
+  {
+    "id": "united-wdbffm",
+    "name": "WDBF.FM",
+    "url": "http://s4.voscast.com:8296/index.html",
+    "genre": "Music",
+    "city": "Tampa FL",
+    "country": "United States",
+    "lat": 27.9529744,
+    "lng": -82.4508736
+  },
+  {
+    "id": "united-radio-capitol",
+    "name": "Radio Capitol",
+    "url": "https://s3.radio.co/sa3fcc78f2/listen",
+    "genre": "Music",
+    "city": "Boston MA",
+    "country": "United States",
+    "lat": 42.3464366,
+    "lng": -71.0489592
+  },
+  {
+    "id": "united-sight-into-sound",
+    "name": "Sight into Sound",
+    "url": "http://peridot.streamguys.com:5360/live",
+    "genre": "Music",
+    "city": "Houston TX",
+    "country": "United States",
+    "lat": 29.7576507,
+    "lng": -95.3615081
+  },
+  {
+    "id": "united-us-1035-wfus",
+    "name": "US 103.5 WFUS",
+    "url": "https://cloud.revma.ihrhls.com/zc693?rj-org=n40b-e2&rj-ttl=5&rj-tok=AAABm_nu-ekAX1F4s-JZDcrouw",
+    "genre": "Music",
+    "city": "Tampa FL",
+    "country": "United States",
+    "lat": 27.9529744,
+    "lng": -82.4508736
+  },
+  {
+    "id": "united-the-bone-1025-fm",
+    "name": "The Bone 102.5 FM",
+    "url": "https://ad-oom-cmg.streamguys1.com/tam1025/tam1025-sgplayer-mp3",
+    "genre": "Music",
+    "city": "Tampa FL",
+    "country": "United States",
+    "lat": 27.9529744,
+    "lng": -82.4508736
+  },
+  {
+    "id": "united-radio-maria-houston-esp",
+    "name": "Radio Maria Houston ESP",
+    "url": "https://dreamsiteradiocp5.com/proxy/rmusahu?mp=/stream",
+    "genre": "Music",
+    "city": "Houston TX",
+    "country": "United States",
+    "lat": 29.7576507,
+    "lng": -95.3615081
+  },
+  {
+    "id": "united-wsmr-classical",
+    "name": "WSMR Classical",
+    "url": "https://wusf.streamguys1.com/wsmr-web",
+    "genre": "Music",
+    "city": "Tampa FL",
+    "country": "United States",
+    "lat": 27.9529744,
+    "lng": -82.4508736
+  },
+  {
+    "id": "united-bangin-832-radio",
+    "name": "Bangin' 832 Radio",
+    "url": "https://usa1.fastcast4u.com/proxy/grbmedia?mp=/1",
+    "genre": "Music",
+    "city": "Houston TX",
+    "country": "United States",
+    "lat": 29.7576507,
+    "lng": -95.3615081
+  },
+  {
+    "id": "united-wusf-news-fm-897",
+    "name": "WUSF News FM 89.7",
+    "url": "https://wusf.streamguys1.com:443/wusf-grove",
+    "genre": "Music",
+    "city": "Tampa FL",
+    "country": "United States",
+    "lat": 27.9529744,
+    "lng": -82.4508736
+  },
+  {
+    "id": "united-98rock--wxtb",
+    "name": "98Rock - WXTB",
+    "url": "https://cloud.revma.ihrhls.com/zc697?rj-org=n2ab-e2&rj-ttl=5&rj-tok=AAABm_nu-_EAi1GMIUVtjnKHrA",
+    "genre": "Music",
+    "city": "Tampa FL",
+    "country": "United States",
+    "lat": 27.9529744,
+    "lng": -82.4508736
+  },
+  {
+    "id": "united-chepito-rios-online-radio",
+    "name": "Chepito Rios Online Radio",
+    "url": "https://18213.live.streamtheworld.com/SAM07AAC013_SC",
+    "genre": "Music",
+    "city": "Tampa FL",
+    "country": "United States",
+    "lat": 27.9529744,
+    "lng": -82.4508736
+  },
+  {
+    "id": "united-houston-blues-radio",
+    "name": "Houston Blues Radio",
+    "url": "https://ais-edge89-dal02.cdnstream.com/b76353_128mp3",
+    "genre": "Music",
+    "city": "Houston TX",
+    "country": "United States",
+    "lat": 29.7576507,
+    "lng": -95.3615081
+  },
+  {
+    "id": "united-wzig-lp-1041",
+    "name": "WZIG-LP 104.1",
+    "url": "https://s36.myradiostream.com:21972/listen.mp3?nocache=1769424147",
+    "genre": "Music",
+    "city": "Tampa FL",
+    "country": "United States",
+    "lat": 27.9529744,
+    "lng": -82.4508736
+  },
+  {
+    "id": "united-radio-musideportes",
+    "name": "Radio Musideportes",
+    "url": "https://dagstreaming.com:8000/radio.aac",
+    "genre": "Music",
+    "city": "Houston TX",
+    "country": "United States",
+    "lat": 29.7576507,
+    "lng": -95.3615081
+  },
+  {
+    "id": "united-ngen-radio-fm-917",
+    "name": "NGEN Radio FM 91.7",
+    "url": "https://ais-sa8.cdnstream1.com/3334_64.aac",
+    "genre": "Music",
+    "city": "Houston TX",
+    "country": "United States",
+    "lat": 29.7576507,
+    "lng": -95.3615081
+  },
+  {
+    "id": "united-iglesias-de-cristo-radio",
+    "name": "Iglesias de Cristo Radio",
+    "url": "http://174.127.75.88:8022/stream",
+    "genre": "Music",
+    "city": "Houston TX",
+    "country": "United States",
+    "lat": 29.7576507,
+    "lng": -95.3615081
+  },
+  {
+    "id": "united-wmln-915-curry-college-radio",
+    "name": "WMLN 91.5 Curry College Radio",
+    "url": "https://ice64.securenetsystems.net/WMLN",
+    "genre": "Music",
+    "city": "Boston MA",
+    "country": "United States",
+    "lat": 42.3464366,
+    "lng": -71.0489592
+  },
+  {
+    "id": "united-945-the-buzz",
+    "name": "94.5 The Buzz",
+    "url": "https://cloud.revma.ihrhls.com/zc2281?rj-org=n31b-e2&rj-ttl=5&rj-tok=AAABm_nvBj8ABKgLlf4iA_CeUg",
+    "genre": "Music",
+    "city": "Houston TX",
+    "country": "United States",
+    "lat": 29.7576507,
+    "lng": -95.3615081
+  },
+  {
+    "id": "united-aardvark-blues-fm",
+    "name": "Aardvark Blues FM",
+    "url": "https://das-edge12-live365-dal02.cdnstream.com/a36201",
+    "genre": "Music",
+    "city": "Houston TX",
+    "country": "United States",
+    "lat": 29.7576507,
+    "lng": -95.3615081
+  },
+  {
+    "id": "united-nashville-classical-radio",
+    "name": "Nashville Classical Radio",
+    "url": "https://wpln.streamguys1.com/wfclfm.mp3",
+    "genre": "Music",
+    "city": "Nashville TN",
+    "country": "United States",
+    "lat": 36.136099,
+    "lng": -86.7998781
+  },
+  {
+    "id": "united-power-901-fm--wypw",
+    "name": "Power 90.1 FM - WYPW",
+    "url": "https://ice42.securenetsystems.net/PWR901",
+    "genre": "Music",
+    "city": "Tampa FL",
+    "country": "United States",
+    "lat": 27.9529744,
+    "lng": -82.4508736
+  },
+  {
+    "id": "united-pro-sisters-radio",
+    "name": "Pro Sisters Radio",
+    "url": "https://streams.radio.co/sa19e69bd1/listen",
+    "genre": "Music",
+    "city": "Tampa FL",
+    "country": "United States",
+    "lat": 27.9529744,
+    "lng": -82.4508736
+  },
+  {
+    "id": "united-820-news--wwba",
+    "name": "820 News - WWBA",
+    "url": "https://ice41.securenetsystems.net/WWBA",
+    "genre": "Music",
+    "city": "Tampa FL",
+    "country": "United States",
+    "lat": 27.9529744,
+    "lng": -82.4508736
+  },
+  {
+    "id": "united-puro-tejano-1061-fm",
+    "name": "Puro Tejano 106.1 FM",
+    "url": "https://s5.radio.co/s11cf97f50/listen",
+    "genre": "Music",
+    "city": "Houston TX",
+    "country": "United States",
+    "lat": 29.7576507,
+    "lng": -95.3615081
+  },
+  {
+    "id": "united-krbe-fm-1041",
+    "name": "KRBE FM 104.1",
+    "url": "https://14103.live.streamtheworld.com:443/KRBEFMAAC.aac",
+    "genre": "Music",
+    "city": "Houston TX",
+    "country": "United States",
+    "lat": 29.7576507,
+    "lng": -95.3615081
+  },
+  {
+    "id": "united-wsm-650-am",
+    "name": "WSM 650 AM",
+    "url": "https://ais-sa8.cdnstream1.com/3666_96.aac",
+    "genre": "Music",
+    "city": "Nashville TN",
+    "country": "United States",
+    "lat": 36.136099,
+    "lng": -86.7998781
+  },
+  {
+    "id": "united-gospel-radio-nation",
+    "name": "Gospel Radio Nation",
+    "url": "https://streaming.radio.co/s13b023b57/listen",
+    "genre": "Music",
+    "city": "Houston TX",
+    "country": "United States",
+    "lat": 29.7576507,
+    "lng": -95.3615081
+  },
+  {
+    "id": "united-the-asylum-radio-network",
+    "name": "The Asylum Radio Network",
+    "url": "https://das-edge16-live365-dal02.cdnstream.com/a39657",
+    "genre": "Music",
+    "city": "Nashville TN",
+    "country": "United States",
+    "lat": 36.136099,
+    "lng": -86.7998781
+  },
+  {
+    "id": "united-kacc-radio-897-fm",
+    "name": "KACC Radio 89.7 FM",
+    "url": "https://kacc.streamguys1.com/live",
+    "genre": "Music",
+    "city": "Houston TX",
+    "country": "United States",
+    "lat": 29.7576507,
+    "lng": -95.3615081
+  },
+  {
+    "id": "united-highway-65-radio",
+    "name": "Highway 65 Radio",
+    "url": "https://makri.cdnstream.com/1924_64",
+    "genre": "Music",
+    "city": "Nashville TN",
+    "country": "United States",
+    "lat": 36.136099,
+    "lng": -86.7998781
+  },
+  {
+    "id": "united-the-musiczone-radio-station",
+    "name": "The MusicZone Radio Station",
+    "url": "http://salttnetwork.com:8112/.mp3/",
+    "genre": "Music",
+    "city": "Nashville TN",
+    "country": "United States",
+    "lat": 36.136099,
+    "lng": -86.7998781
+  },
+  {
+    "id": "united-da-bizz-radio",
+    "name": "Da Bizz Radio",
+    "url": "https://servidor14.brlogic.com:7884/live",
+    "genre": "Music",
+    "city": "Houston TX",
+    "country": "United States",
+    "lat": 29.7576507,
+    "lng": -95.3615081
+  },
+  {
+    "id": "united-wnqm-am-1300",
+    "name": "WNQM AM 1300",
+    "url": "http://wwcr.gsradio.net:3663/index.html",
+    "genre": "Music",
+    "city": "Nashville TN",
+    "country": "United States",
+    "lat": 36.136099,
+    "lng": -86.7998781
+  },
+  {
+    "id": "united-92q",
+    "name": "92Q",
+    "url": "https://26233.live.streamtheworld.com:443/WQQKFMAAC.aac",
+    "genre": "Music",
+    "city": "Nashville TN",
+    "country": "United States",
+    "lat": 36.136099,
+    "lng": -86.7998781
+  },
+  {
+    "id": "united-wgfx-fm-1045--the-zone",
+    "name": "WGFX FM 104.5 - The Zone",
+    "url": "https://19303.live.streamtheworld.com:443/WGFXFMAAC.aac",
+    "genre": "Music",
+    "city": "Nashville TN",
+    "country": "United States",
+    "lat": 36.136099,
+    "lng": -86.7998781
+  },
+  {
+    "id": "united-retro-album-rock",
+    "name": "Retro Album Rock",
+    "url": "https://das-edge13-live365-dal02.cdnstream.com/a89824",
+    "genre": "Music",
+    "city": "Nashville TN",
+    "country": "United States",
+    "lat": 36.136099,
+    "lng": -86.7998781
+  },
+  {
+    "id": "united-the-river-of-calm",
+    "name": "The River of Calm",
+    "url": "https://listen.radioking.com/radio/49831/stream/86743",
+    "genre": "Music",
+    "city": "Nashville TN",
+    "country": "United States",
+    "lat": 36.136099,
+    "lng": -86.7998781
+  },
+  {
+    "id": "united-music-city-roadhouse",
+    "name": "Music City Roadhouse",
+    "url": "https://das-edge12-live365-dal02.cdnstream.com/a73754",
+    "genre": "Music",
+    "city": "Nashville TN",
+    "country": "United States",
+    "lat": 36.136099,
+    "lng": -86.7998781
+  },
+  {
+    "id": "united-wakm-am-950",
+    "name": "WAKM AM 950",
+    "url": "https://streaming2.tux-support.com:7020/index.html?sid=1",
+    "genre": "Music",
+    "city": "Nashville TN",
+    "country": "United States",
+    "lat": 36.136099,
+    "lng": -86.7998781
+  },
+  {
+    "id": "united-lonestar-community-radio-fm-1045",
+    "name": "Lonestar Community Radio FM 104.5",
+    "url": "https://ice6.securenetsystems.net/LSIR",
+    "genre": "Music",
+    "city": "Houston TX",
+    "country": "United States",
+    "lat": 29.7576507,
+    "lng": -95.3615081
+  },
+  {
+    "id": "united-wrmi-legends--transmitter-2",
+    "name": "WRMI Legends - Transmitter 2",
+    "url": "https://streaming2.tux-support.com/8020/stream",
+    "genre": "Music",
+    "city": "Nashville TN",
+    "country": "United States",
+    "lat": 36.136099,
+    "lng": -86.7998781
+  },
+  {
+    "id": "united-rocknrollica",
+    "name": "RocknRollica",
+    "url": "https://das-edge11-live365-dal03.cdnstream.com/a79743",
+    "genre": "Music",
+    "city": "Dallas TX",
+    "country": "United States",
+    "lat": 32.6406613,
+    "lng": -96.7786367
+  },
+  {
+    "id": "united-lake-country-jubilee",
+    "name": "Lake Country Jubilee",
+    "url": "http://192.169.139.178:8000/index.html?sid=1",
+    "genre": "Music",
+    "city": "Dallas TX",
+    "country": "United States",
+    "lat": 32.6406613,
+    "lng": -96.7786367
+  },
+  {
+    "id": "united-wmts-883-fm",
+    "name": "WMTS 88.3 FM",
+    "url": "https://s1.myradiostream.com:12824/listen.mp3?nocache=1769424155",
+    "genre": "Music",
+    "city": "Nashville TN",
+    "country": "United States",
+    "lat": 36.136099,
+    "lng": -86.7998781
+  },
+  {
+    "id": "united-thecommonsense",
+    "name": "TheCommonSense",
+    "url": "https://c11.radioboss.fm/stream/33",
+    "genre": "Music",
+    "city": "Dallas TX",
+    "country": "United States",
+    "lat": 32.6406613,
+    "lng": -96.7786367
+  },
+  {
+    "id": "united-supertalk-997--wtn",
+    "name": "SuperTalk 99.7 - WTN",
+    "url": "https://14843.live.streamtheworld.com:443/WWTNFMAAC.aac",
+    "genre": "Music",
+    "city": "Nashville TN",
+    "country": "United States",
+    "lat": 36.136099,
+    "lng": -86.7998781
+  },
+  {
+    "id": "united-dfw-den-radio-station",
+    "name": "DFW DEN Radio Station",
+    "url": "https://das-edge11-live365-dal03.cdnstream.com/a52803",
+    "genre": "Music",
+    "city": "Dallas TX",
+    "country": "United States",
+    "lat": 32.6406613,
+    "lng": -96.7786367
+  },
+  {
+    "id": "united-radio-maranatha-live",
+    "name": "Radio Maranatha Live",
+    "url": "https://sonicpanel.us/8032/stream",
+    "genre": "Music",
+    "city": "Dallas TX",
+    "country": "United States",
+    "lat": 32.6406613,
+    "lng": -96.7786367
+  },
+  {
+    "id": "united-k104-fm-1045",
+    "name": "K104 FM 104.5",
+    "url": "https://ais-sa1.streamon.fm/7285_64k.aac",
+    "genre": "Music",
+    "city": "Dallas TX",
+    "country": "United States",
+    "lat": 32.6406613,
+    "lng": -96.7786367
+  },
+  {
+    "id": "united-kiss-fm-1061--khks",
+    "name": "Kiss FM 106.1 - KHKS",
+    "url": "https://cloud.revma.ihrhls.com/zc2245?rj-org=n04b-e2&rj-ttl=5&rj-tok=AAABm_nvIRMAG_7T0eRoInpkBA",
+    "genre": "Music",
+    "city": "Dallas TX",
+    "country": "United States",
+    "lat": 32.6406613,
+    "lng": -96.7786367
+  },
+  {
+    "id": "united-kera-fm-901",
+    "name": "KERA FM 90.1",
+    "url": "https://kera-ice.streamguys1.com/keralive",
+    "genre": "Music",
+    "city": "Dallas TX",
+    "country": "United States",
+    "lat": 32.6406613,
+    "lng": -96.7786367
+  },
+  {
+    "id": "united-fun-asia-fm-1049",
+    "name": "Fun Asia FM 104.9",
+    "url": "https://funasia.streamguys1.com/live-1",
+    "genre": "Music",
+    "city": "Dallas TX",
+    "country": "United States",
+    "lat": 32.6406613,
+    "lng": -96.7786367
+  },
+  {
+    "id": "united-unexplained-radio-network",
+    "name": "Unexplained Radio Network",
+    "url": "https://cast4.asurahosting.com/proxy/nichola4/stream/",
+    "genre": "Music",
+    "city": "Dallas TX",
+    "country": "United States",
+    "lat": 32.6406613,
+    "lng": -96.7786367
+  },
+  {
+    "id": "united-sos-radio",
+    "name": "SOS Radio",
+    "url": "https://ais-sa15.cdnstream1.com/4862_128.mp3",
+    "genre": "Music",
+    "city": "Las Vegas NV",
+    "country": "United States",
+    "lat": 36.1665796,
+    "lng": -115.1505609
+  },
+  {
+    "id": "united-radio-profetica-discipulos-de-cristo",
+    "name": "Radio Profetica Discipulos De Cristo",
+    "url": "https://server.radiogs.net/8518/stream",
+    "genre": "Music",
+    "city": "Las Vegas NV",
+    "country": "United States",
+    "lat": 36.1665796,
+    "lng": -115.1505609
+  },
+  {
+    "id": "united-uta-radio",
+    "name": "UTA Radio",
+    "url": "https://cloud.revma.ihrhls.com/zc5858?rj-org=n34b-e2&rj-ttl=5&rj-tok=AAABm_nvJboAUUBQpHk-ICRFUg",
+    "genre": "Music",
+    "city": "Dallas TX",
+    "country": "United States",
+    "lat": 32.6406613,
+    "lng": -96.7786367
+  },
+  {
+    "id": "united-kplx-fm-995-the-wolf",
+    "name": "KPLX FM 99.5 The Wolf",
+    "url": "https://17853.live.streamtheworld.com:443/KPLXFMAAC.aac",
+    "genre": "Music",
+    "city": "Dallas TX",
+    "country": "United States",
+    "lat": 32.6406613,
+    "lng": -96.7786367
+  },
+  {
+    "id": "united-pacific-coast-fm",
+    "name": "Pacific Coast FM",
+    "url": "https://usa10.fastcast4u.com:9310/stream",
+    "genre": "Music",
+    "city": "Las Vegas NV",
+    "country": "United States",
+    "lat": 36.1665796,
+    "lng": -115.1505609
+  },
+  {
+    "id": "united-wbap-820-am",
+    "name": "WBAP 820 AM",
+    "url": "https://17993.live.streamtheworld.com:443/WBAPAMAAC.aac",
+    "genre": "Music",
+    "city": "Dallas TX",
+    "country": "United States",
+    "lat": 32.6406613,
+    "lng": -96.7786367
+  },
+  {
+    "id": "united-ktck-967-fm-the-ticket",
+    "name": "KTCK 96.7 FM the Ticket",
+    "url": "https://14613.live.streamtheworld.com:443/KTCKAMAAC.aac",
+    "genre": "Music",
+    "city": "Dallas TX",
+    "country": "United States",
+    "lat": 32.6406613,
+    "lng": -96.7786367
+  },
+  {
+    "id": "united-pat-hobbs",
+    "name": "Pat Hobbs",
+    "url": "http://janus.cdnstream.com:5575/stream",
+    "genre": "Music",
+    "city": "Las Vegas NV",
+    "country": "United States",
+    "lat": 36.1665796,
+    "lng": -115.1505609
+  },
+  {
+    "id": "united-radio-azad-am-1110",
+    "name": "Radio Azad AM 1110",
+    "url": "https://usa2.fastcast4u.com/proxy/jgivvimk?mp=/1",
+    "genre": "Music",
+    "city": "Dallas TX",
+    "country": "United States",
+    "lat": 32.6406613,
+    "lng": -96.7786367
+  },
+  {
+    "id": "united-bgcsports-network",
+    "name": "BGCsports Network",
+    "url": "https://streamer.radio.co/sad57cff5a/listen",
+    "genre": "Music",
+    "city": "Dallas TX",
+    "country": "United States",
+    "lat": 32.6406613,
+    "lng": -96.7786367
+  },
+  {
+    "id": "united-fiesta-981-fm",
+    "name": "Fiesta 98.1 FM",
+    "url": "https://streamer.radio.co/s564c61bce/listen",
+    "genre": "Music",
+    "city": "Las Vegas NV",
+    "country": "United States",
+    "lat": 36.1665796,
+    "lng": -115.1505609
+  },
+  {
+    "id": "united-wqkr-radio--wqkr",
+    "name": "WQKR Radio - WQKR",
+    "url": "https://ice3.securenetsystems.net/WQKR",
+    "genre": "Music",
+    "city": "Nashville TN",
+    "country": "United States",
+    "lat": 36.136099,
+    "lng": -86.7998781
+  },
+  {
+    "id": "united-z-1077-fm",
+    "name": "Z 107.7 FM",
+    "url": "https://audio-edge-jfbmv.sin.d.radiomast.io/128a66a2-edfd-41f4-9bc2-10149912c578",
+    "genre": "Music",
+    "city": "Las Vegas NV",
+    "country": "United States",
+    "lat": 36.1665796,
+    "lng": -115.1505609
+  },
+  {
+    "id": "united-edm-sessions",
+    "name": "EDM Sessions",
+    "url": "https://s2.radio.co/s30844a0f4/listen",
+    "genre": "Music",
+    "city": "Las Vegas NV",
+    "country": "United States",
+    "lat": 36.1665796,
+    "lng": -115.1505609
+  },
+  {
+    "id": "united-kxbb-fm-1017",
+    "name": "KXBB FM 101.7",
+    "url": "http://stream.affordablestreaming.com:8000/KXBB.mp3",
+    "genre": "Music",
+    "city": "Las Vegas NV",
+    "country": "United States",
+    "lat": 36.1665796,
+    "lng": -115.1505609
+  },
+  {
+    "id": "united-knac-fm-969-fm",
+    "name": "KNAC FM 96.9 FM",
+    "url": "https://s6.autopo.st/proxy/ggjdvxin?mp=/stream",
+    "genre": "Music",
+    "city": "Las Vegas NV",
+    "country": "United States",
+    "lat": 36.1665796,
+    "lng": -115.1505609
+  },
+  {
+    "id": "united-hot-975-fm--kveg",
+    "name": "Hot 97.5 FM - KVEG",
+    "url": "https://16613.live.streamtheworld.com:443/KVEGFM.mp3",
+    "genre": "Music",
+    "city": "Las Vegas NV",
+    "country": "United States",
+    "lat": 36.1665796,
+    "lng": -115.1505609
+  },
+  {
+    "id": "united-houswerx",
+    "name": "HOUSWERX",
+    "url": "https://s11.citrus3.com:2020/stream/houswerx/",
+    "genre": "Music",
+    "city": "Austin TX",
+    "country": "United States",
+    "lat": 30.268082,
+    "lng": -97.7483738
+  },
+  {
+    "id": "united-947-hank-fm",
+    "name": "94.7 Hank FM",
+    "url": "https://16693.live.streamtheworld.com:443/KXPTHD2.mp3",
+    "genre": "Music",
+    "city": "Las Vegas NV",
+    "country": "United States",
+    "lat": 36.1665796,
+    "lng": -115.1505609
+  },
+  {
+    "id": "united-knpr-fm-889-news",
+    "name": "KNPR FM 88.9 News",
+    "url": "https://18233.live.streamtheworld.com:443/KNPRFMAAC.aac",
+    "genre": "Music",
+    "city": "Las Vegas NV",
+    "country": "United States",
+    "lat": 36.1665796,
+    "lng": -115.1505609
+  },
+  {
+    "id": "united-kymt-fm-931",
+    "name": "KYMT FM 93.1",
+    "url": "https://cloud.revma.ihrhls.com/zc1337?rj-org=n42b-e2&rj-ttl=5&rj-tok=AAABm_nvMRUAHCN00Dxz3WAmVg",
+    "genre": "Music",
+    "city": "Las Vegas NV",
+    "country": "United States",
+    "lat": 36.1665796,
+    "lng": -115.1505609
+  },
+  {
+    "id": "united-kutx-hd2-|-amxfm-austin-music",
+    "name": "KUTX HD2 | AMX.FM Austin Music",
+    "url": "https://streams.kut.org/4429_56",
+    "genre": "Music",
+    "city": "Austin TX",
+    "country": "United States",
+    "lat": 30.268082,
+    "lng": -97.7483738
+  },
+  {
+    "id": "united-planet-fabulous-radio",
+    "name": "Planet Fabulous Radio",
+    "url": "https://listen.radioking.com/radio/137479/stream/177505",
+    "genre": "Music",
+    "city": "Austin TX",
+    "country": "United States",
+    "lat": 30.268082,
+    "lng": -97.7483738
+  },
+  {
+    "id": "united-royalties-radio",
+    "name": "Royalties Radio",
+    "url": "https://das-edge12-live365-dal02.cdnstream.com/a49900",
+    "genre": "Music",
+    "city": "Austin TX",
+    "country": "United States",
+    "lat": 30.268082,
+    "lng": -97.7483738
+  },
+  {
+    "id": "united-radio-goldfield-kgfn-891",
+    "name": "Radio Goldfield KGFN 89.1",
+    "url": "https://radiogoldfield.radioca.st/stream",
+    "genre": "Music",
+    "city": "Las Vegas NV",
+    "country": "United States",
+    "lat": 36.1665796,
+    "lng": -115.1505609
+  },
+  {
+    "id": "united-kutx-fm-989",
+    "name": "KUTX FM 98.9",
+    "url": "https://streams.kut.org/4428_56",
+    "genre": "Music",
+    "city": "Austin TX",
+    "country": "United States",
+    "lat": 30.268082,
+    "lng": -97.7483738
+  },
+  {
+    "id": "united-kkvv-christian-radio-am-1060",
+    "name": "KKVV Christian Radio AM 1060",
+    "url": "https://ice8.securenetsystems.net/KKVV",
+    "genre": "Music",
+    "city": "Las Vegas NV",
+    "country": "United States",
+    "lat": 36.1665796,
+    "lng": -115.1505609
+  },
+  {
+    "id": "united-komp-fm-923",
+    "name": "KOMP FM 92.3",
+    "url": "https://14013.live.streamtheworld.com:443/KOMPFMAAC.aac",
+    "genre": "Music",
+    "city": "Las Vegas NV",
+    "country": "United States",
+    "lat": 36.1665796,
+    "lng": -115.1505609
+  },
+  {
+    "id": "united-kut-905-hd2-bbc-world-news",
+    "name": "KUT 90.5 HD2 BBC World News",
+    "url": "https://streams.kut.org/4427_56?aw_0_1st.playerid=kuthd2-free",
+    "genre": "Music",
+    "city": "Austin TX",
+    "country": "United States",
+    "lat": 30.268082,
+    "lng": -97.7483738
+  },
+  {
+    "id": "united-radio-georgetown-kgtn-1067-fm",
+    "name": "Radio Georgetown KGTN 106.7 FM",
+    "url": "http://38.68.134.80:8610/stream..mp3",
+    "genre": "Music",
+    "city": "Austin TX",
+    "country": "United States",
+    "lat": 30.268082,
+    "lng": -97.7483738
+  },
+  {
+    "id": "united-boss-country-radio",
+    "name": "Boss Country Radio",
+    "url": "https://ais-sa2.cdnstream1.com/2365_128.mp3",
+    "genre": "Music",
+    "city": "Austin TX",
+    "country": "United States",
+    "lat": 30.268082,
+    "lng": -97.7483738
+  },
+  {
+    "id": "united-journeyscapes",
+    "name": "Journeyscapes",
+    "url": "http://216.126.196.154:4580/stream",
+    "genre": "Music",
+    "city": "Orlando FL",
+    "country": "United States",
+    "lat": 28.5479786,
+    "lng": -81.4127842
+  },
+  {
+    "id": "united-kvrx-fm-917",
+    "name": "KVRX-FM 91.7",
+    "url": "https://streams.kut.org/5020_192.mp3",
+    "genre": "Music",
+    "city": "Austin TX",
+    "country": "United States",
+    "lat": 30.268082,
+    "lng": -97.7483738
+  },
+  {
+    "id": "united-amor98",
+    "name": "Amor98",
+    "url": "https://mars.streamerr.co/8040/stream",
+    "genre": "Music",
+    "city": "Orlando FL",
+    "country": "United States",
+    "lat": 28.5479786,
+    "lng": -81.4127842
+  },
+  {
+    "id": "united-guataca-radio",
+    "name": "Guataca Radio",
+    "url": "https://cast5.asurahosting.com/proxy/guataca_radio/stream",
+    "genre": "Music",
+    "city": "Orlando FL",
+    "country": "United States",
+    "lat": 28.5479786,
+    "lng": -81.4127842
+  },
+  {
+    "id": "united-seven-rock-radio",
+    "name": "Seven Rock Radio",
+    "url": "https://c30.radioboss.fm:18569/stream",
+    "genre": "Music",
+    "city": "Orlando FL",
+    "country": "United States",
+    "lat": 28.5479786,
+    "lng": -81.4127842
+  },
+  {
+    "id": "united-tsiyon-road-messianic-radio",
+    "name": "Tsiyon Road Messianic Radio",
+    "url": "https://stream.radio.co/s99d35aa60/listen",
+    "genre": "Music",
+    "city": "Austin TX",
+    "country": "United States",
+    "lat": 30.268082,
+    "lng": -97.7483738
+  },
+  {
+    "id": "united-supreme-clientele-radio",
+    "name": "Supreme Clientele Radio",
+    "url": "http://n02.radiojar.com/thcyv16sezzuv?rj-ttl=5&rj-tok=AAABm_nvR1QAJReuKhUfCSungQ",
+    "genre": "Music",
+    "city": "Orlando FL",
+    "country": "United States",
+    "lat": 28.5479786,
+    "lng": -81.4127842
+  },
+  {
+    "id": "united-wdbo-fm-965",
+    "name": "WDBO FM 96.5",
+    "url": "https://ad-oom-cmg.streamguys1.com/orl1073/orl1073-sgplayer-aac",
+    "genre": "Music",
+    "city": "Orlando FL",
+    "country": "United States",
+    "lat": 28.5479786,
+    "lng": -81.4127842
+  },
+  {
+    "id": "united-sun-radio-1001-fm",
+    "name": "Sun Radio 100.1 FM",
+    "url": "https://ice10.securenetsystems.net/SUNRADIO",
+    "genre": "Music",
+    "city": "Austin TX",
+    "country": "United States",
+    "lat": 30.268082,
+    "lng": -97.7483738
+  },
+  {
+    "id": "united-radio-puerto-rico",
+    "name": "Radio Puerto Rico",
+    "url": "http://146.71.118.220:8006/stream?type=.mp3/;",
+    "genre": "Music",
+    "city": "Orlando FL",
+    "country": "United States",
+    "lat": 28.5479786,
+    "lng": -81.4127842
+  },
+  {
+    "id": "united-insanely-gifted-radio",
+    "name": "Insanely Gifted Radio",
+    "url": "https://insanelygiftedradio.out.airtime.pro/insanelygiftedradio_a",
+    "genre": "Music",
+    "city": "Austin TX",
+    "country": "United States",
+    "lat": 30.268082,
+    "lng": -97.7483738
+  },
+  {
+    "id": "united-radio-exodus",
+    "name": "Radio Exodus",
+    "url": "https://stream.radio.co/s58fd4f18b/listen",
+    "genre": "Music",
+    "city": "Austin TX",
+    "country": "United States",
+    "lat": 30.268082,
+    "lng": -97.7483738
+  },
+  {
+    "id": "united-kako-db-cacoteo-radio",
+    "name": "KAKO-DB Cacoteo Radio",
+    "url": "https://s6.autopo.st/proxy/cacoteoradio?mp=/stream",
+    "genre": "Music",
+    "city": "Orlando FL",
+    "country": "United States",
+    "lat": 28.5479786,
+    "lng": -81.4127842
+  },
+  {
+    "id": "united-wokb-am-1680",
+    "name": "WOKB AM 1680",
+    "url": "https://das-edge16-live365-dal02.cdnstream.com/a87474",
+    "genre": "Music",
+    "city": "Orlando FL",
+    "country": "United States",
+    "lat": 28.5479786,
+    "lng": -81.4127842
+  },
+  {
+    "id": "united-wmfe-fm-907",
+    "name": "WMFE-FM 90.7",
+    "url": "https://wmfe-iad.streamguys1.com/wmfe",
+    "genre": "Music",
+    "city": "Orlando FL",
+    "country": "United States",
+    "lat": 28.5479786,
+    "lng": -81.4127842
+  },
+  {
+    "id": "united-german-radio-tv",
+    "name": "German Radio & TV",
+    "url": "http://198.7.59.28:8035/stream",
+    "genre": "Music",
+    "city": "Denver CO",
+    "country": "United States",
+    "lat": 39.775168,
+    "lng": -105.024387
+  },
+  {
+    "id": "united-fraternite-fm",
+    "name": "Fraternite FM",
+    "url": "https://vladimirnicolas2.radioca.st/stream",
+    "genre": "Music",
+    "city": "Orlando FL",
+    "country": "United States",
+    "lat": 28.5479786,
+    "lng": -81.4127842
+  },
+  {
+    "id": "united-kmfa-fm-895",
+    "name": "KMFA FM 89.5",
+    "url": "https://kmfa.streamguys1.com/KMFA-mp3",
+    "genre": "Music",
+    "city": "Austin TX",
+    "country": "United States",
+    "lat": 30.268082,
+    "lng": -97.7483738
+  },
+  {
+    "id": "united-safety-fm",
+    "name": "Safety FM",
+    "url": "https://streamer.radio.co/s29a3c18c7/listen",
+    "genre": "Music",
+    "city": "Orlando FL",
+    "country": "United States",
+    "lat": 28.5479786,
+    "lng": -81.4127842
+  },
+  {
+    "id": "united-military-broadcast-radio",
+    "name": "Military Broadcast Radio",
+    "url": "http://149.56.185.59:8022/stream?1580549249216.mp3",
+    "genre": "Music",
+    "city": "Denver CO",
+    "country": "United States",
+    "lat": 39.775168,
+    "lng": -105.024387
+  },
+  {
+    "id": "united-majic-1043--wmju",
+    "name": "Majic 104.3 - WMJU",
+    "url": "https://ice5.securenetsystems.net/WMJU",
+    "genre": "Music",
+    "city": "Austin TX",
+    "country": "United States",
+    "lat": 30.268082,
+    "lng": -97.7483738
+  },
+  {
+    "id": "united-kzsm",
+    "name": "KZSM",
+    "url": "https://ice42.securenetsystems.net/KZSM",
+    "genre": "Music",
+    "city": "Austin TX",
+    "country": "United States",
+    "lat": 30.268082,
+    "lng": -97.7483738
+  },
+  {
+    "id": "united-hits-radio",
+    "name": "Hits Radio",
+    "url": "https://17573.live.streamtheworld.com:443/977_OLDIES.mp3",
+    "genre": "Music",
+    "city": "Orlando FL",
+    "country": "United States",
+    "lat": 28.5479786,
+    "lng": -81.4127842
+  },
+  {
+    "id": "united-koop-917-fm",
+    "name": "KOOP 91.7 FM",
+    "url": "https://streaming.koop.org/stream.mp3",
+    "genre": "Music",
+    "city": "Austin TX",
+    "country": "United States",
+    "lat": 30.268082,
+    "lng": -97.7483738
+  },
+  {
+    "id": "united-radio-cielo-3-16",
+    "name": "Radio Cielo 3 16",
+    "url": "https://stream-178.zeno.fm/vzoyuy3upziuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2em95dXkzdXB6aXV2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiWk9fRmZHUG9Ram1Md25Ib09uQkxsQSIsImlhdCI6MTc2OTQyNDE2OCwiZXhwIjoxNzY5NDI0MjI4fQ.wWkwYeXfKqqe4YF5R1dWwTpTtzQ6KZvs7aYoxZkkQKY",
+    "genre": "Music",
+    "city": "Orlando FL",
+    "country": "United States",
+    "lat": 28.5479786,
+    "lng": -81.4127842
+  },
+  {
+    "id": "united-cab-muzik-radio",
+    "name": "CAB Muzik Radio",
+    "url": "https://ice42.securenetsystems.net/CABMR",
+    "genre": "Music",
+    "city": "Orlando FL",
+    "country": "United States",
+    "lat": 28.5479786,
+    "lng": -81.4127842
+  },
+  {
+    "id": "united-krfx-fm-1035",
+    "name": "KRFX FM 103.5",
+    "url": "https://cloud.revma.ihrhls.com/zc393?rj-org=n3eb-e2&rj-ttl=5&rj-tok=AAABm_nvU6YAtPOzw-dJ3jC6rg",
+    "genre": "Music",
+    "city": "Denver CO",
+    "country": "United States",
+    "lat": 39.775168,
+    "lng": -105.024387
+  },
+  {
+    "id": "united-kuvo-jazz",
+    "name": "KUVO Jazz",
+    "url": "https://kuvo-ice.streamguys1.com/kuvo-aac-128",
+    "genre": "Music",
+    "city": "Denver CO",
+    "country": "United States",
+    "lat": 39.775168,
+    "lng": -105.024387
+  },
+  {
+    "id": "united-bob-fm-969-wrrk-fm",
+    "name": "Bob FM 96.9 WRRK-FM",
+    "url": "https://ais-sa1.streamon.fm/7215_48k.aac",
+    "genre": "Music",
+    "city": "Pittsburgh PA",
+    "country": "United States",
+    "lat": 40.4427339,
+    "lng": -79.9941127
+  },
+  {
+    "id": "united-koa-am-850",
+    "name": "KOA AM 850",
+    "url": "https://cloud.revma.ihrhls.com/zc389?rj-org=n26b-e2&rj-ttl=5&rj-tok=AAABm_nvVggAvQdY1qIEDW7AQw",
+    "genre": "Music",
+    "city": "Denver CO",
+    "country": "United States",
+    "lat": 39.775168,
+    "lng": -105.024387
+  },
+  {
+    "id": "united-kgnu-radio-am-1390",
+    "name": "KGNU Radio AM 1390",
+    "url": "https://kgnu.streamguys1.com/kgnu",
+    "genre": "Music",
+    "city": "Denver CO",
+    "country": "United States",
+    "lat": 39.775168,
+    "lng": -105.024387
+  },
+  {
+    "id": "united-wucf-hd1-fm-899",
+    "name": "WUCF HD1 FM 89.9",
+    "url": "https://peridot.streamguys1.com:7835/WUCF",
+    "genre": "Music",
+    "city": "Orlando FL",
+    "country": "United States",
+    "lat": 28.5479786,
+    "lng": -81.4127842
+  },
+  {
+    "id": "united-colorado-state-patrol",
+    "name": "Colorado State Patrol",
+    "url": "https://broadcastify.cdnstream1.com/60",
+    "genre": "Music",
+    "city": "Denver CO",
+    "country": "United States",
+    "lat": 39.775168,
+    "lng": -105.024387
+  },
+  {
+    "id": "united-kpru-cpr-1033fm",
+    "name": "KPRU CPR 103.3FM",
+    "url": "https://stream2.cprnetwork.org/cpr2_lo",
+    "genre": "Music",
+    "city": "Denver CO",
+    "country": "United States",
+    "lat": 39.775168,
+    "lng": -105.024387
+  },
+  {
+    "id": "united-the-fan-1043",
+    "name": "The Fan 104.3",
+    "url": "https://bonneville.cdnstream1.com/2612_48.aac",
+    "genre": "Music",
+    "city": "Denver CO",
+    "country": "United States",
+    "lat": 39.775168,
+    "lng": -105.024387
+  },
+  {
+    "id": "united-espn-denver-1600-am",
+    "name": "ESPN Denver 1600 AM",
+    "url": "https://bonneville.cdnstream1.com/2708_48.aac",
+    "genre": "Music",
+    "city": "Denver CO",
+    "country": "United States",
+    "lat": 39.775168,
+    "lng": -105.024387
+  },
+  {
+    "id": "united-la-suavecita-fm-921",
+    "name": "La Suavecita FM 92.1",
+    "url": "https://14093.live.streamtheworld.com:443/KJMNFMAAC.aac",
+    "genre": "Music",
+    "city": "Denver CO",
+    "country": "United States",
+    "lat": 39.775168,
+    "lng": -105.024387
+  },
+  {
+    "id": "united-rinoradiocom",
+    "name": "RiNoRadio.com",
+    "url": "https://26343.live.streamtheworld.com:443/SAM10AAC107.aac",
+    "genre": "Music",
+    "city": "Denver CO",
+    "country": "United States",
+    "lat": 39.775168,
+    "lng": -105.024387
+  },
+  {
+    "id": "united-altitude-sports-radio-fm-925",
+    "name": "Altitude Sports Radio FM 92.5",
+    "url": "https://14093.live.streamtheworld.com:443/KKSEFMAAC.aac",
+    "genre": "Music",
+    "city": "Denver CO",
+    "country": "United States",
+    "lat": 39.775168,
+    "lng": -105.024387
+  },
+  {
+    "id": "united-music-from-the-412-radio",
+    "name": "Music from the 412 Radio",
+    "url": "https://das-edge62-live365-dal03.cdnstream.com/a61858",
+    "genre": "Music",
+    "city": "Pittsburgh PA",
+    "country": "United States",
+    "lat": 40.4427339,
+    "lng": -79.9941127
+  },
+  {
+    "id": "united-iemma-broadcasting-network-duquesne-university",
+    "name": "IEMMA Broadcasting Network Duquesne University",
+    "url": "https://das-edge14-live365-dal02.cdnstream.com/a82425",
+    "genre": "Music",
+    "city": "Pittsburgh PA",
+    "country": "United States",
+    "lat": 40.4427339,
+    "lng": -79.9941127
+  },
+  {
+    "id": "united-revelasion-radio",
+    "name": "RevelaSion Radio",
+    "url": "https://streaming.radio.co/s0326f3095/listen",
+    "genre": "Music",
+    "city": "Denver CO",
+    "country": "United States",
+    "lat": 39.775168,
+    "lng": -105.024387
+  },
+  {
+    "id": "united-wqed-fm-893",
+    "name": "WQED-FM 89.3",
+    "url": "https://ice-1.streamhoster.com/lv_wqed--893",
+    "genre": "Music",
+    "city": "Pittsburgh PA",
+    "country": "United States",
+    "lat": 40.4427339,
+    "lng": -79.9941127
+  },
+  {
+    "id": "united-pittsburgh-police,-fire-and-ems",
+    "name": "Pittsburgh Police, Fire and EMS",
+    "url": "https://broadcastify.cdnstream1.com/21738",
+    "genre": "Music",
+    "city": "Pittsburgh PA",
+    "country": "United States",
+    "lat": 40.4427339,
+    "lng": -79.9941127
+  },
+  {
+    "id": "united-wesa-fm-905",
+    "name": "WESA FM 90.5",
+    "url": "https://ais-sa3.cdnstream1.com/2556_128.mp3",
+    "genre": "Music",
+    "city": "Pittsburgh PA",
+    "country": "United States",
+    "lat": 40.4427339,
+    "lng": -79.9941127
+  },
+  {
+    "id": "united-wyep-fm-913",
+    "name": "WYEP FM 91.3",
+    "url": "https://ais-sa3.cdnstream1.com/2557_128.mp3",
+    "genre": "Music",
+    "city": "Pittsburgh PA",
+    "country": "United States",
+    "lat": 40.4427339,
+    "lng": -79.9941127
+  },
+  {
+    "id": "united-ablazin-radio",
+    "name": "Ablazin Radio",
+    "url": "http://usa13.fastcast4u.com:5252/stream",
+    "genre": "Music",
+    "city": "Washington DC",
+    "country": "United States",
+    "lat": 38.8950368,
+    "lng": -77.0365427
+  },
+  {
+    "id": "united-twisted-grape-radio",
+    "name": "Twisted Grape Radio",
+    "url": "https://ice23.securenetsystems.net/TGR",
+    "genre": "Music",
+    "city": "Denver CO",
+    "country": "United States",
+    "lat": 39.775168,
+    "lng": -105.024387
+  },
+  {
+    "id": "united-wzum-jazz-fm-1011",
+    "name": "WZUM Jazz FM 101.1",
+    "url": "https://pubmusic.streamguys1.com/wzum-aac",
+    "genre": "Music",
+    "city": "Pittsburgh PA",
+    "country": "United States",
+    "lat": 40.4427339,
+    "lng": -79.9941127
+  },
+  {
+    "id": "united-wdve-1025-fm",
+    "name": "WDVE 102.5 FM",
+    "url": "https://cloud.revma.ihrhls.com/zc2017?rj-org=n1cb-e2&rj-ttl=5&rj-tok=AAABm_nvZYQAbtbn-fFKu1MYSw",
+    "genre": "Music",
+    "city": "Pittsburgh PA",
+    "country": "United States",
+    "lat": 40.4427339,
+    "lng": -79.9941127
+  },
+  {
+    "id": "united-1059-the-x",
+    "name": "105.9 The X",
+    "url": "https://cloud.revma.ihrhls.com/zc2033?rj-org=n06b-e2&rj-ttl=5&rj-tok=AAABm_nvZnQAf6HyU2n5z-2RhQ",
+    "genre": "Music",
+    "city": "Pittsburgh PA",
+    "country": "United States",
+    "lat": 40.4427339,
+    "lng": -79.9941127
+  },
+  {
+    "id": "united-hotxxmagonlineradio",
+    "name": "HotxxMagOnlineRadio",
+    "url": "https://streams.radio.co/s8a23df5ac/listen",
+    "genre": "Music",
+    "city": "Pittsburgh PA",
+    "country": "United States",
+    "lat": 40.4427339,
+    "lng": -79.9941127
+  },
+  {
+    "id": "united-wrct-883-fm",
+    "name": "WRCT 88.3 FM",
+    "url": "https://streamalt.wrct.org/wrct-hi.mp3",
+    "genre": "Music",
+    "city": "Pittsburgh PA",
+    "country": "United States",
+    "lat": 40.4427339,
+    "lng": -79.9941127
+  },
+  {
+    "id": "united-grace-fm",
+    "name": "Grace FM",
+    "url": "https://ice23.securenetsystems.net/KXGRFM",
+    "genre": "Music",
+    "city": "Denver CO",
+    "country": "United States",
+    "lat": 39.775168,
+    "lng": -105.024387
+  },
+  {
+    "id": "united-wamu-live-fm-885",
+    "name": "WAMU Live FM 88.5",
+    "url": "https://wamu.cdnstream1.com/wamu.mp3",
+    "genre": "Music",
+    "city": "Washington DC",
+    "country": "United States",
+    "lat": 38.8950368,
+    "lng": -77.0365427
+  },
+  {
+    "id": "united-radio-parsa",
+    "name": "Radio Parsa",
+    "url": "https://parsa.awsvps.com/stream",
+    "genre": "Music",
+    "city": "Washington DC",
+    "country": "United States",
+    "lat": 38.8950368,
+    "lng": -77.0365427
+  },
+  {
+    "id": "united-tube-city-online-radio",
+    "name": "Tube City Online Radio",
+    "url": "https://tubecityonline.out.airtime.pro/tubecityonline_b",
+    "genre": "Music",
+    "city": "Pittsburgh PA",
+    "country": "United States",
+    "lat": 40.4427339,
+    "lng": -79.9941127
+  },
+  {
+    "id": "united-wkfh-955-fm",
+    "name": "WKFH 95.5 FM",
+    "url": "https://streamer.radio.co/sd775383cd/listen",
+    "genre": "Music",
+    "city": "Pittsburgh PA",
+    "country": "United States",
+    "lat": 40.4427339,
+    "lng": -79.9941127
+  },
+  {
+    "id": "united-npr-24-hour-program-stream",
+    "name": "NPR 24 Hour Program Stream",
+    "url": "https://npr-ice.streamguys1.com/live.mp3",
+    "genre": "Music",
+    "city": "Washington DC",
+    "country": "United States",
+    "lat": 38.8950368,
+    "lng": -77.0365427
+  },
+  {
+    "id": "united-acb-treasure-trove",
+    "name": "ACB Treasure Trove",
+    "url": "http://stream.acbradio.org:8000/trove.mp3",
+    "genre": "Music",
+    "city": "Washington DC",
+    "country": "United States",
+    "lat": 38.8950368,
+    "lng": -77.0365427
+  },
+  {
+    "id": "united-robert-morris-university-radio",
+    "name": "Robert Morris University Radio",
+    "url": "https://stream.radio.co/s521a8e223/listen",
+    "genre": "Music",
+    "city": "Pittsburgh PA",
+    "country": "United States",
+    "lat": 40.4427339,
+    "lng": -79.9941127
+  },
+  {
+    "id": "united-dc101",
+    "name": "DC101",
+    "url": "https://cloud.revma.ihrhls.com/zc2525?rj-org=n1fb-e2&rj-ttl=5&rj-tok=AAABm_nvbqsAKzw1MdxWYgOM4Q",
+    "genre": "Music",
+    "city": "Washington DC",
+    "country": "United States",
+    "lat": 38.8950368,
+    "lng": -77.0365427
+  },
+  {
+    "id": "united-wjas-1320-am",
+    "name": "WJAS 1320 AM",
+    "url": "https://ice23.securenetsystems.net/WJAS",
+    "genre": "Music",
+    "city": "Pittsburgh PA",
+    "country": "United States",
+    "lat": 40.4427339,
+    "lng": -79.9941127
+  },
+  {
+    "id": "united-ufdv-gospel",
+    "name": "UFDV Gospel",
+    "url": "http://us10a.serverse.com:8145/live",
+    "genre": "Music",
+    "city": "Washington DC",
+    "country": "United States",
+    "lat": 38.8950368,
+    "lng": -77.0365427
+  },
+  {
+    "id": "united-big-100--wbig",
+    "name": "Big 100 - WBIG",
+    "url": "https://cloud.revma.ihrhls.com/zc2505?rj-org=n16b-e2&rj-ttl=5&rj-tok=AAABm_nvbcAAPu5JrpwkwDGFYQ",
+    "genre": "Music",
+    "city": "Washington DC",
+    "country": "United States",
+    "lat": 38.8950368,
+    "lng": -77.0365427
+  },
+  {
+    "id": "united-the-hip-hop-lounge",
+    "name": "The Hip Hop Lounge",
+    "url": "https://das-edge15-live365-dal02.cdnstream.com/a34724",
+    "genre": "Music",
+    "city": "Washington DC",
+    "country": "United States",
+    "lat": 38.8950368,
+    "lng": -77.0365427
+  },
+  {
+    "id": "united-federal-news-radio-am1500",
+    "name": "Federal News Radio AM1500",
+    "url": "https://26293.live.streamtheworld.com:443/WFEDAM.mp3",
+    "genre": "Music",
+    "city": "Washington DC",
+    "country": "United States",
+    "lat": 38.8950368,
+    "lng": -77.0365427
+  },
+  {
+    "id": "united-wmuc-fm-905",
+    "name": "WMUC FM 90.5",
+    "url": "https://wmuc.umd.edu:8443/wmuc-hq",
+    "genre": "Music",
+    "city": "Washington DC",
+    "country": "United States",
+    "lat": 38.8950368,
+    "lng": -77.0365427
+  },
+  {
+    "id": "united-slmtv-radio",
+    "name": "SLMTV Radio",
+    "url": "https://video2.getstreamhosting.com:2020/stream/8050",
+    "genre": "Music",
+    "city": "Washington DC",
+    "country": "United States",
+    "lat": 38.8950368,
+    "lng": -77.0365427
+  },
+  {
+    "id": "united-wbut-am-1050",
+    "name": "WBUT AM 1050",
+    "url": "https://ice23.securenetsystems.net/WBUT",
+    "genre": "Music",
+    "city": "Pittsburgh PA",
+    "country": "United States",
+    "lat": 40.4427339,
+    "lng": -79.9941127
+  },
+  {
+    "id": "united-east-coast-radio-jamming",
+    "name": "East Coast Radio Jamming",
+    "url": "https://stream-178.zeno.fm/aigdzirqjz7tv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJhaWdkemlycWp6N3R2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoibDJhNEItRG5UMm14dFFHZzBEaFh0dyIsImlhdCI6MTc2OTQyNDE3OSwiZXhwIjoxNzY5NDI0MjM5fQ.XnhAV9pcJWjCqygJKhC9edKE_xWESDxuGB9l2xOPafg",
+    "genre": "Music",
+    "city": "Washington DC",
+    "country": "United States",
+    "lat": 38.8950368,
+    "lng": -77.0365427
+  },
+  {
+    "id": "united-wmal-fm-1059",
+    "name": "WMAL FM 105.9",
+    "url": "https://19013.live.streamtheworld.com:443/WMALFMAAC.aac",
+    "genre": "Music",
+    "city": "Washington DC",
+    "country": "United States",
+    "lat": 38.8950368,
+    "lng": -77.0365427
+  },
+  {
+    "id": "united-c-span-radio-wcsp-fm-901",
+    "name": "C-Span Radio WCSP FM 90.1",
+    "url": "https://26733.live.streamtheworld.com:443/CSPANRADIO.mp3",
+    "genre": "Music",
+    "city": "Washington DC",
+    "country": "United States",
+    "lat": 38.8950368,
+    "lng": -77.0365427
+  },
+  {
+    "id": "united-wamu-hd2-bluegrass-country",
+    "name": "WAMU HD2 Bluegrass Country",
+    "url": "https://ice24.securenetsystems.net/WAMU",
+    "genre": "Music",
+    "city": "Washington DC",
+    "country": "United States",
+    "lat": 38.8950368,
+    "lng": -77.0365427
+  }
+]

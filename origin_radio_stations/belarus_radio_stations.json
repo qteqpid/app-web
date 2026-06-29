@@ -1,0 +1,492 @@
+[
+  {
+    "id": "belarus-zefir-fm",
+    "name": "Zefir FM",
+    "url": "http://178.124.152.212:8008/Zefir",
+    "genre": "Music",
+    "city": "Minsk",
+    "country": "Belarus",
+    "lat": 53.9024716,
+    "lng": 27.5618225
+  },
+  {
+    "id": "belarus-radio-123",
+    "name": "Radio 123",
+    "url": "https://de1.internet-radio.com/proxy/belradio123/stream",
+    "genre": "Music",
+    "city": "Gomel",
+    "country": "Belarus",
+    "lat": 52.4238936,
+    "lng": 31.0131698
+  },
+  {
+    "id": "belarus-radio-stalica-|-радыё-сталіца",
+    "name": "Radio Stalica | Радыё Сталіца",
+    "url": "https://media2.datacenter.by/stream/stalica/stream",
+    "genre": "Music",
+    "city": "Minsk",
+    "country": "Belarus",
+    "lat": 53.9024716,
+    "lng": 27.5618225
+  },
+  {
+    "id": "belarus-legendy-fm-|-легенды-fm-941",
+    "name": "Legendy FM | Легенды FM 94.1",
+    "url": "http://live.legendy.by:8000/legendyfm",
+    "genre": "Music",
+    "city": "Minsk",
+    "country": "Belarus",
+    "lat": 53.9024716,
+    "lng": 27.5618225
+  },
+  {
+    "id": "belarus-radio-dfm",
+    "name": "Radio DFM",
+    "url": "http://92.241.103.200:8081/dfm_sm",
+    "genre": "Music",
+    "city": "Gomel",
+    "country": "Belarus",
+    "lat": 52.4238936,
+    "lng": 31.0131698
+  },
+  {
+    "id": "belarus-humor-fm",
+    "name": "Humor FM",
+    "url": "http://live.humorfm.by:8000/veseloe",
+    "genre": "Music",
+    "city": "Minsk",
+    "country": "Belarus",
+    "lat": 53.9024716,
+    "lng": 27.5618225
+  },
+  {
+    "id": "belarus-radio-belarus-fm",
+    "name": "Radio Belarus FM",
+    "url": "https://stream2.datacenter.by/belarusfm",
+    "genre": "Music",
+    "city": "Minsk",
+    "country": "Belarus",
+    "lat": 53.9024716,
+    "lng": 27.5618225
+  },
+  {
+    "id": "belarus-chistye-klyuchi",
+    "name": "Chistye klyuchi",
+    "url": "https://listen6.myradio24.com/djmakc",
+    "genre": "Music",
+    "city": "Gomel",
+    "country": "Belarus",
+    "lat": 52.4238936,
+    "lng": 31.0131698
+  },
+  {
+    "id": "belarus-radio-mogilev",
+    "name": "Radio Mogilev",
+    "url": "https://stream2.datacenter.by/tvrmogilev",
+    "genre": "Music",
+    "city": "Minsk",
+    "country": "Belarus",
+    "lat": 53.9024716,
+    "lng": 27.5618225
+  },
+  {
+    "id": "belarus-gomel-fm-1013",
+    "name": "Gomel FM 101.3",
+    "url": "https://stream2.datacenter.by/gomelfm",
+    "genre": "Music",
+    "city": "Gomel",
+    "country": "Belarus",
+    "lat": 52.4238936,
+    "lng": 31.0131698
+  },
+  {
+    "id": "belarus-компас-fm",
+    "name": "Компас FM",
+    "url": "https://radio.mil.by/live",
+    "genre": "Music",
+    "city": "Minsk",
+    "country": "Belarus",
+    "lat": 53.9024716,
+    "lng": 27.5618225
+  },
+  {
+    "id": "belarus-super-fm",
+    "name": "Super FM",
+    "url": "https://stream2.datacenter.by/sfm",
+    "genre": "Music",
+    "city": "Minsk",
+    "country": "Belarus",
+    "lat": 53.9024716,
+    "lng": 27.5618225
+  },
+  {
+    "id": "belarus-dushevnoe-radio",
+    "name": "Dushevnoe Radio",
+    "url": "https://stream2.datacenter.by/dushevnoe",
+    "genre": "Music",
+    "city": "Minsk",
+    "country": "Belarus",
+    "lat": 53.9024716,
+    "lng": 27.5618225
+  },
+  {
+    "id": "belarus-alise-plus",
+    "name": "Alise Plus",
+    "url": "https://fm2inet.aliseplus.lv/",
+    "genre": "Music",
+    "city": "Minsk",
+    "country": "Belarus",
+    "lat": 53.9024716,
+    "lng": 27.5618225
+  },
+  {
+    "id": "belarus-novoe-radio-fm-984",
+    "name": "Novoe Radio FM 98.4",
+    "url": "https://live.novoeradio.by:444/live/novoeradio_aac128/icecast.audio",
+    "genre": "Music",
+    "city": "Minsk",
+    "country": "Belarus",
+    "lat": 53.9024716,
+    "lng": 27.5618225
+  },
+  {
+    "id": "belarus-lider-fm-943",
+    "name": "Lider FM 94.3",
+    "url": "https://icecast.lider-fm.by/liderfm",
+    "genre": "Music",
+    "city": "Minsk",
+    "country": "Belarus",
+    "lat": 53.9024716,
+    "lng": 27.5618225
+  },
+  {
+    "id": "belarus-unistar-fm-995",
+    "name": "Unistar FM 99.5",
+    "url": "https://stream.unistar.by/unistar_main_radioplayer/unistar_main_128/icecast.audio",
+    "genre": "Music",
+    "city": "Minsk",
+    "country": "Belarus",
+    "lat": 53.9024716,
+    "lng": 27.5618225
+  },
+  {
+    "id": "belarus-radio-brest-fm-1048",
+    "name": "Radio Brest FM 104.8",
+    "url": "https://stream2.datacenter.by/trkbrest",
+    "genre": "Music",
+    "city": "Brest",
+    "country": "Belarus",
+    "lat": 52.093751,
+    "lng": 23.6851851
+  },
+  {
+    "id": "belarus-złote-przeboje-1010-fm",
+    "name": "Złote Przeboje 101.0 FM",
+    "url": "https://radiostream.pl/tuba8900-1.mp3",
+    "genre": "Music",
+    "city": "Brest",
+    "country": "Belarus",
+    "lat": 52.093751,
+    "lng": 23.6851851
+  },
+  {
+    "id": "belarus-latgolys-radeja",
+    "name": "Latgolys Radeja",
+    "url": "http://195.13.253.51:8000/128_mp3",
+    "genre": "Music",
+    "city": "Mogilev",
+    "country": "Belarus",
+    "lat": 53.9090245,
+    "lng": 30.3429838
+  },
+  {
+    "id": "belarus-dzed-bardaitis-radio",
+    "name": "Dzed Bardaitis Radio",
+    "url": "https://15113.live.streamtheworld.com:443/SAM03AAC337_SC",
+    "genre": "Music",
+    "city": "Minsk",
+    "country": "Belarus",
+    "lat": 53.9024716,
+    "lng": 27.5618225
+  },
+  {
+    "id": "belarus-puko-radijas-fm-1073",
+    "name": "Puko Radijas FM 107.3",
+    "url": "http://212.95.45.82:8000/stream",
+    "genre": "Music",
+    "city": "Lida",
+    "country": "Belarus",
+    "lat": 53.891636,
+    "lng": 25.3022894
+  },
+  {
+    "id": "belarus-radio-impuls-972-fm",
+    "name": "Radio Impuls 97.2 FM",
+    "url": "https://srv0.streamradiowy.eu/radioimpuls",
+    "genre": "Music",
+    "city": "Brest",
+    "country": "Belarus",
+    "lat": 52.093751,
+    "lng": 23.6851851
+  },
+  {
+    "id": "belarus-gorod-fm-977",
+    "name": "Gorod FM 97.7",
+    "url": "https://stream2.datacenter.by/GorodFM",
+    "genre": "Music",
+    "city": "Brest",
+    "country": "Belarus",
+    "lat": 52.093751,
+    "lng": 23.6851851
+  },
+  {
+    "id": "belarus-pulsas",
+    "name": "Pulsas",
+    "url": "https://audio-edge-5bkfj.fra.h.radiomast.io/56f301cf-9788-4407-a0db-0bfea5d82b01",
+    "genre": "Music",
+    "city": "Lida",
+    "country": "Belarus",
+    "lat": 53.891636,
+    "lng": 25.3022894
+  },
+  {
+    "id": "belarus-svoyo-radio-1061-fm",
+    "name": "Svoyo Radio 106.1 FM",
+    "url": "https://live.svoyoradio.by:8443/svoyoradio",
+    "genre": "Music",
+    "city": "Pinsk",
+    "country": "Belarus",
+    "lat": 52.1113862,
+    "lng": 26.1025274
+  },
+  {
+    "id": "belarus-russkoe-radio-belarus-989-fm",
+    "name": "Russkoe Radio Belarus 98.9 FM",
+    "url": "https://stream.rusradio.by:8443/live256",
+    "genre": "Music",
+    "city": "Mogilev",
+    "country": "Belarus",
+    "lat": 53.9090245,
+    "lng": 30.3429838
+  },
+  {
+    "id": "belarus-radio-zw-fun",
+    "name": "Radio ZW Fun",
+    "url": "https://plays.zw.lt/zwfun",
+    "genre": "Music",
+    "city": "Pinsk",
+    "country": "Belarus",
+    "lat": 52.1113862,
+    "lng": 26.1025274
+  },
+  {
+    "id": "belarus-eska-zamość-973-fm",
+    "name": "ESKA Zamość 97.3 FM",
+    "url": "https://ic1.smcdn.pl/2230-1.mp3",
+    "genre": "Music",
+    "city": "Brest",
+    "country": "Belarus",
+    "lat": 52.093751,
+    "lng": 23.6851851
+  },
+  {
+    "id": "belarus-radio-trek",
+    "name": "Radio Trek",
+    "url": "http://online2.radiotrek.rv.ua:8000/MP3_128",
+    "genre": "Music",
+    "city": "Pinsk",
+    "country": "Belarus",
+    "lat": 52.1113862,
+    "lng": 26.1025274
+  },
+  {
+    "id": "belarus-lebulbeaux",
+    "name": "lebulbeaux",
+    "url": "http://178.172.235.5:8000/bulbeaux",
+    "genre": "Music",
+    "city": "Minsk",
+    "country": "Belarus",
+    "lat": 53.9024716,
+    "lng": 27.5618225
+  },
+  {
+    "id": "belarus-stasie-radio--stanisław-staszic-high-school",
+    "name": "Stasie Radio - Stanisław Staszic High School",
+    "url": "https://stream4.rcast.net/70975",
+    "genre": "Music",
+    "city": "Brest",
+    "country": "Belarus",
+    "lat": 52.093751,
+    "lng": 23.6851851
+  },
+  {
+    "id": "belarus-radio-uvaga",
+    "name": "Radio Uvaga",
+    "url": "http://up.uvaga.by:8100/uvaga320.mp3/",
+    "genre": "Music",
+    "city": "Minsk",
+    "country": "Belarus",
+    "lat": 53.9024716,
+    "lng": 27.5618225
+  },
+  {
+    "id": "belarus-narodnoe-radio",
+    "name": "Narodnoe Radio",
+    "url": "https://live.novoeradio.by:444/live/narodnoeradio_aac128/icecast.audio",
+    "genre": "Music",
+    "city": "Minsk",
+    "country": "Belarus",
+    "lat": 53.9024716,
+    "lng": 27.5618225
+  },
+  {
+    "id": "belarus-alpha-radio",
+    "name": "Alpha Radio",
+    "url": "http://live.alpha.by:7000/alpha",
+    "genre": "Music",
+    "city": "Minsk",
+    "country": "Belarus",
+    "lat": 53.9024716,
+    "lng": 27.5618225
+  },
+  {
+    "id": "belarus-radio-minsk",
+    "name": "Radio Minsk",
+    "url": "https://radio.mk.by:8443/radiominsk",
+    "genre": "Music",
+    "city": "Minsk",
+    "country": "Belarus",
+    "lat": 53.9024716,
+    "lng": 27.5618225
+  },
+  {
+    "id": "belarus-utenos-radijas-1039-fm",
+    "name": "Utenos Radijas 103.9 FM",
+    "url": "https://gyvai.ursrv.eu/stream",
+    "genre": "Music",
+    "city": "Lida",
+    "country": "Belarus",
+    "lat": 53.891636,
+    "lng": 25.3022894
+  },
+  {
+    "id": "belarus-euroradio",
+    "name": "Euroradio",
+    "url": "http://stream.euroradio.fm:8000/euroradio1/",
+    "genre": "Music",
+    "city": "Minsk",
+    "country": "Belarus",
+    "lat": 53.9024716,
+    "lng": 27.5618225
+  },
+  {
+    "id": "belarus-radio-relax",
+    "name": "Radio Relax",
+    "url": "http://live.humorfm.by:8000/radiorelax",
+    "genre": "Music",
+    "city": "Minsk",
+    "country": "Belarus",
+    "lat": 53.9024716,
+    "lng": 27.5618225
+  },
+  {
+    "id": "belarus-radiomix",
+    "name": "RadioMIX",
+    "url": "https://stream.radiomix.dance/radiomix",
+    "genre": "Music",
+    "city": "Minsk",
+    "country": "Belarus",
+    "lat": 53.9024716,
+    "lng": 27.5618225
+  },
+  {
+    "id": "belarus-radio-roks-1021fm",
+    "name": "Radio ROKS 102.1FM",
+    "url": "https://stream.roks.com:8443/live256",
+    "genre": "Music",
+    "city": "Minsk",
+    "country": "Belarus",
+    "lat": 53.9024716,
+    "lng": 27.5618225
+  },
+  {
+    "id": "belarus-radius-fm",
+    "name": "Radius FM",
+    "url": "https://stream2.datacenter.by/radiusfm_main",
+    "genre": "Music",
+    "city": "Minsk",
+    "country": "Belarus",
+    "lat": 53.8743608,
+    "lng": 27.5032733
+  },
+  {
+    "id": "belarus-radio-plato",
+    "name": "Radio Plato",
+    "url": "https://azura.radioplato.by/radio/8000/radio.mp3",
+    "genre": "Music",
+    "city": "Minsk",
+    "country": "Belarus",
+    "lat": 53.9024716,
+    "lng": 27.5618225
+  },
+  {
+    "id": "belarus-minskaya-volna-974-fm",
+    "name": "Minskaya Volna 97.4 FM",
+    "url": "https://stream2.datacenter.by/mvradio",
+    "genre": "Music",
+    "city": "Minsk",
+    "country": "Belarus",
+    "lat": 53.9024716,
+    "lng": 27.5618225
+  },
+  {
+    "id": "belarus-fm99",
+    "name": "FM99",
+    "url": "https://securestream.casthost.net:8617/fm99",
+    "genre": "Music",
+    "city": "Lida",
+    "country": "Belarus",
+    "lat": 53.891636,
+    "lng": 25.3022894
+  },
+  {
+    "id": "belarus-радио-беларуси--1-канал",
+    "name": "Радио Беларуси - 1 канал",
+    "url": "https://stream2.datacenter.by/1kanal",
+    "genre": "Music",
+    "city": "Minsk",
+    "country": "Belarus",
+    "lat": 53.8743608,
+    "lng": 27.5032733
+  },
+  {
+    "id": "belarus-авторадио-беларусь",
+    "name": "Авторадио Беларусь",
+    "url": "https://live.humorfm.by:8443/avtoradio",
+    "genre": "Music",
+    "city": "Minsk",
+    "country": "Belarus",
+    "lat": 53.9024716,
+    "lng": 27.5618225
+  },
+  {
+    "id": "belarus-pilot-fm",
+    "name": "Pilot FM",
+    "url": "https://stream2.datacenter.by/pilotfm",
+    "genre": "Music",
+    "city": "Minsk",
+    "country": "Belarus",
+    "lat": 53.9024716,
+    "lng": 27.5618225
+  },
+  {
+    "id": "belarus-канал-культура",
+    "name": "Канал Культура",
+    "url": "https://stream2.datacenter.by/kultura",
+    "genre": "Music",
+    "city": "Minsk",
+    "country": "Belarus",
+    "lat": 53.9024716,
+    "lng": 27.5618225
+  }
+]

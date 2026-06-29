@@ -1,0 +1,932 @@
+[
+  {
+    "id": "bosnia-radio-olovo-fm-951",
+    "name": "Radio Olovo FM 95.1",
+    "url": "http://sonicpanel.vmakerhost.com:8038/stream/",
+    "genre": "Music",
+    "city": "Sarajevo",
+    "country": "Bosnia and Herzegovina",
+    "lat": 43.8570713,
+    "lng": 18.4126147
+  },
+  {
+    "id": "bosnia-radio-otvorena-mreza-fm-1014",
+    "name": "Radio Otvorena Mreza FM 101.4",
+    "url": "http://s8.iqstreaming.com:8050/stream/",
+    "genre": "Music",
+    "city": "Sarajevo",
+    "country": "Bosnia and Herzegovina",
+    "lat": 43.8570713,
+    "lng": 18.4126147
+  },
+  {
+    "id": "bosnia-radio-sehara",
+    "name": "Radio Sehara",
+    "url": "https://cast.name.ba:8000/in",
+    "genre": "Music",
+    "city": "Sarajevo",
+    "country": "Bosnia and Herzegovina",
+    "lat": 43.8570713,
+    "lng": 18.4126147
+  },
+  {
+    "id": "bosnia-radio-goražde",
+    "name": "Radio Goražde",
+    "url": "https://a8.asurahosting.com:9050/radio.mp3",
+    "genre": "Music",
+    "city": "Sarajevo",
+    "country": "Bosnia and Herzegovina",
+    "lat": 43.8570713,
+    "lng": 18.4126147
+  },
+  {
+    "id": "bosnia-a-radio",
+    "name": "A Radio",
+    "url": "http://158.220.97.74/live",
+    "genre": "Music",
+    "city": "Banja Luka",
+    "country": "Bosnia and Herzegovina",
+    "lat": 44.7720845,
+    "lng": 17.1917651
+  },
+  {
+    "id": "bosnia-balkan-hip-hop-radio",
+    "name": "Balkan Hip-Hop Radio",
+    "url": "http://centova.dukahosting.com:2022/;listen.pls?sid=1",
+    "genre": "Music",
+    "city": "Banja Luka",
+    "country": "Bosnia and Herzegovina",
+    "lat": 44.7720845,
+    "lng": 17.1917651
+  },
+  {
+    "id": "bosnia-radio-ilijaš",
+    "name": "Radio Ilijaš",
+    "url": "https://stream.leftor.com/proxy/radioili/stream/",
+    "genre": "Music",
+    "city": "Sarajevo",
+    "country": "Bosnia and Herzegovina",
+    "lat": 43.8570713,
+    "lng": 18.4126147
+  },
+  {
+    "id": "bosnia-radio-breza-fm-1001",
+    "name": "Radio Breza FM 100.1",
+    "url": "https://sonicpanel.vmakerhost.com/8192/stream",
+    "genre": "Music",
+    "city": "Sarajevo",
+    "country": "Bosnia and Herzegovina",
+    "lat": 43.8570713,
+    "lng": 18.4126147
+  },
+  {
+    "id": "bosnia-radio-kakanj",
+    "name": "Radio Kakanj",
+    "url": "https://cast2.name.ba/proxy/radiokakanj/",
+    "genre": "Music",
+    "city": "Sarajevo",
+    "country": "Bosnia and Herzegovina",
+    "lat": 43.8570713,
+    "lng": 18.4126147
+  },
+  {
+    "id": "bosnia-big-radio-2-fm-915",
+    "name": "Big Radio 2 FM 91.5",
+    "url": "http://big2.bigportal.ba:8100/big2",
+    "genre": "Music",
+    "city": "Sarajevo",
+    "country": "Bosnia and Herzegovina",
+    "lat": 43.8570713,
+    "lng": 18.4126147
+  },
+  {
+    "id": "bosnia-antena-sarajevo",
+    "name": "Antena Sarajevo",
+    "url": "https://stream.rsgmedia.ba/listen/antena_sarajevo/radio.mp3",
+    "genre": "Music",
+    "city": "Sarajevo",
+    "country": "Bosnia and Herzegovina",
+    "lat": 43.8570713,
+    "lng": 18.4126147
+  },
+  {
+    "id": "bosnia-rsg-radio-1043-fm",
+    "name": "RSG Radio 104.3 FM",
+    "url": "https://stream.rsgmedia.ba/listen/radio_stari_grad/radio.mp3",
+    "genre": "Music",
+    "city": "Sarajevo",
+    "country": "Bosnia and Herzegovina",
+    "lat": 43.8570713,
+    "lng": 18.4126147
+  },
+  {
+    "id": "bosnia-radio-mix",
+    "name": "Radio MIX",
+    "url": "https://stream.rsgmedia.ba/listen/radio_mix/radio.mp3",
+    "genre": "Music",
+    "city": "Sarajevo",
+    "country": "Bosnia and Herzegovina",
+    "lat": 43.8570713,
+    "lng": 18.4126147
+  },
+  {
+    "id": "bosnia-nes-radio",
+    "name": "Nes Radio",
+    "url": "http://188.40.62.20:8070/stream",
+    "genre": "Music",
+    "city": "Banja Luka",
+    "country": "Bosnia and Herzegovina",
+    "lat": 44.7720845,
+    "lng": 17.1917651
+  },
+  {
+    "id": "bosnia-radio-sarajevo-fm-902",
+    "name": "Radio Sarajevo FM 90.2",
+    "url": "https://443-1.autopo.st/45/index.html?sid=1",
+    "genre": "Music",
+    "city": "Sarajevo",
+    "country": "Bosnia and Herzegovina",
+    "lat": 43.8570713,
+    "lng": 18.4126147
+  },
+  {
+    "id": "bosnia-radio-sana-1037-fm",
+    "name": "Radio Sana 103.7 FM",
+    "url": "http://quasar.shoutca.st:8174/stream",
+    "genre": "Music",
+    "city": "Banja Luka",
+    "country": "Bosnia and Herzegovina",
+    "lat": 44.7720845,
+    "lng": 17.1917651
+  },
+  {
+    "id": "bosnia-radio-prnjavor-fm-991",
+    "name": "Radio Prnjavor FM 99.1",
+    "url": "http://95.216.209.21:8000/;*.mp3",
+    "genre": "Music",
+    "city": "Banja Luka",
+    "country": "Bosnia and Herzegovina",
+    "lat": 44.7720845,
+    "lng": 17.1917651
+  },
+  {
+    "id": "bosnia-big-radio-1-fm-936",
+    "name": "Big Radio 1 FM 93.6",
+    "url": "http://big1.bigportal.ba:8100/big1",
+    "genre": "Music",
+    "city": "Banja Luka",
+    "country": "Bosnia and Herzegovina",
+    "lat": 44.7720845,
+    "lng": 17.1917651
+  },
+  {
+    "id": "bosnia-radio-herceg-bosne",
+    "name": "Radio Herceg-Bosne",
+    "url": "https://s3.free-shoutcast.com/stream/18038/;stream.mp3",
+    "genre": "Music",
+    "city": "Mostar",
+    "country": "Bosnia and Herzegovina",
+    "lat": 43.3435855,
+    "lng": 17.8076584
+  },
+  {
+    "id": "bosnia-radio-8-fm-1068",
+    "name": "Radio 8 FM 106.8",
+    "url": "https://radio8-bhcloud.radioca.st/1.mp3",
+    "genre": "Music",
+    "city": "Sarajevo",
+    "country": "Bosnia and Herzegovina",
+    "lat": 43.8570713,
+    "lng": 18.4126147
+  },
+  {
+    "id": "bosnia-big-folk",
+    "name": "Big Folk",
+    "url": "https://folk.bigportal.ba:8080/folk",
+    "genre": "Music",
+    "city": "Sarajevo",
+    "country": "Bosnia and Herzegovina",
+    "lat": 43.8570713,
+    "lng": 18.4126147
+  },
+  {
+    "id": "bosnia-radiopostaja-čapljina-fm-913",
+    "name": "Radiopostaja Čapljina FM 91.3",
+    "url": "http://s8.iqstreaming.com:8016/stream",
+    "genre": "Music",
+    "city": "Mostar",
+    "country": "Bosnia and Herzegovina",
+    "lat": 43.3435855,
+    "lng": 17.8076584
+  },
+  {
+    "id": "bosnia-radio-miljacka-fm-952",
+    "name": "Radio Miljacka FM 95.2",
+    "url": "https://radiomiljacka-bhcloud.radioca.st/stream.mp3",
+    "genre": "Music",
+    "city": "Sarajevo",
+    "country": "Bosnia and Herzegovina",
+    "lat": 43.8570713,
+    "lng": 18.4126147
+  },
+  {
+    "id": "bosnia-običan-radio",
+    "name": "Običan Radio",
+    "url": "https://stream.leftor.com/proxy/obicanin/stream/;stream.mp3",
+    "genre": "Music",
+    "city": "Mostar",
+    "country": "Bosnia and Herzegovina",
+    "lat": 43.3435855,
+    "lng": 17.8076584
+  },
+  {
+    "id": "bosnia-radio-prkos-fm-91",
+    "name": "Radio Prkos FM 91",
+    "url": "https://eu7.fastcast4u.com/proxy/radioprk?mp=/1",
+    "genre": "Music",
+    "city": "Banja Luka",
+    "country": "Bosnia and Herzegovina",
+    "lat": 44.7720845,
+    "lng": 17.1917651
+  },
+  {
+    "id": "bosnia-radio-posusje-fm-1029",
+    "name": "Radio Posusje FM 102.9",
+    "url": "http://136.243.144.93:9994/",
+    "genre": "Music",
+    "city": "Mostar",
+    "country": "Bosnia and Herzegovina",
+    "lat": 43.3435855,
+    "lng": 17.8076584
+  },
+  {
+    "id": "bosnia-free-radio",
+    "name": "Free Radio",
+    "url": "https://eliot.vestreams.com/8008/stream",
+    "genre": "Music",
+    "city": "Banja Luka",
+    "country": "Bosnia and Herzegovina",
+    "lat": 44.7720845,
+    "lng": 17.1917651
+  },
+  {
+    "id": "bosnia-kontakt-radio-fm-99",
+    "name": "Kontakt Radio FM 99",
+    "url": "https://s1.mojstream.eu:8114/index.html?sid=1",
+    "genre": "Music",
+    "city": "Banja Luka",
+    "country": "Bosnia and Herzegovina",
+    "lat": 44.7720845,
+    "lng": 17.1917651
+  },
+  {
+    "id": "bosnia-radio-ljubuški",
+    "name": "Radio Ljubuški",
+    "url": "https://s8.iqstreaming.com:8044/stream",
+    "genre": "Music",
+    "city": "Mostar",
+    "country": "Bosnia and Herzegovina",
+    "lat": 43.3435855,
+    "lng": 17.8076584
+  },
+  {
+    "id": "bosnia-radio-slon-89-fm",
+    "name": "Radio Slon 89 FM",
+    "url": "http://31.47.0.130:88/broadwavehigh.mp3?src=1;",
+    "genre": "Music",
+    "city": "Tuzla",
+    "country": "Bosnia and Herzegovina",
+    "lat": 44.5391105,
+    "lng": 18.675193
+  },
+  {
+    "id": "bosnia-plavi-radio-fm-1053",
+    "name": "Plavi Radio FM 105.3",
+    "url": "https://free.rcast.net/62701",
+    "genre": "Music",
+    "city": "Banja Luka",
+    "country": "Bosnia and Herzegovina",
+    "lat": 44.7720845,
+    "lng": 17.1917651
+  },
+  {
+    "id": "bosnia-radio-tk",
+    "name": "Radio TK",
+    "url": "http://185.252.234.112:30000/;stream",
+    "genre": "Music",
+    "city": "Tuzla",
+    "country": "Bosnia and Herzegovina",
+    "lat": 44.5391105,
+    "lng": 18.675193
+  },
+  {
+    "id": "bosnia-radio-moslavina-1014-fm",
+    "name": "Radio Moslavina 101.4 FM",
+    "url": "https://s8.iqstreaming.com:2020/stream/rmoslavina",
+    "genre": "Music",
+    "city": "Prijedor",
+    "country": "Bosnia and Herzegovina",
+    "lat": 44.9801369,
+    "lng": 16.7123704
+  },
+  {
+    "id": "bosnia-big-4-986-fm",
+    "name": "Big 4 98.6 FM",
+    "url": "https://domacica.bigportal.ba:8080/domacica",
+    "genre": "Music",
+    "city": "Banja Luka",
+    "country": "Bosnia and Herzegovina",
+    "lat": 44.7720845,
+    "lng": 17.1917651
+  },
+  {
+    "id": "bosnia-div-radio-fm-989",
+    "name": "DIV Radio FM 98.9",
+    "url": "https://eliot.vestreams.com/8002/stream",
+    "genre": "Music",
+    "city": "Prijedor",
+    "country": "Bosnia and Herzegovina",
+    "lat": 44.9801369,
+    "lng": 16.7123704
+  },
+  {
+    "id": "bosnia-radio-hercegovina",
+    "name": "Radio Hercegovina",
+    "url": "https://stream-166.zeno.fm/zbvhpce44hhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ6YnZocGNlNDRoaHZ2IiwiaG9zdCI6InN0cmVhbS0xNjYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiZy1WMzJmOExTcy0teFVTNkY5UXhzdyIsImlhdCI6MTc2OTQxNjk5NCwiZXhwIjoxNzY5NDE3MDU0fQ.zCwdUchKKfeQUJ-28Cgl-5ZF7sRcjWUtb8eq94iYdtA",
+    "genre": "Music",
+    "city": "Mostar",
+    "country": "Bosnia and Herzegovina",
+    "lat": 43.3435855,
+    "lng": 17.8076584
+  },
+  {
+    "id": "bosnia-radio-feral",
+    "name": "Radio Feral",
+    "url": "http://185.50.56.3/",
+    "genre": "Music",
+    "city": "Tuzla",
+    "country": "Bosnia and Herzegovina",
+    "lat": 44.5391105,
+    "lng": 18.675193
+  },
+  {
+    "id": "bosnia-radio-prijedor",
+    "name": "Radio Prijedor",
+    "url": "https://vestreams.com/8004/stream",
+    "genre": "Music",
+    "city": "Prijedor",
+    "country": "Bosnia and Herzegovina",
+    "lat": 44.9801369,
+    "lng": 16.7123704
+  },
+  {
+    "id": "bosnia-rtv-puls-brčko",
+    "name": "RTV Puls Brčko",
+    "url": "https://a8.asurahosting.com:6730/radio.mp3",
+    "genre": "Music",
+    "city": "Tuzla",
+    "country": "Bosnia and Herzegovina",
+    "lat": 44.5391105,
+    "lng": 18.675193
+  },
+  {
+    "id": "bosnia-radio-glas-drine",
+    "name": "Radio Glas Drine",
+    "url": "http://158.69.119.6:8014/stream",
+    "genre": "Music",
+    "city": "Tuzla",
+    "country": "Bosnia and Herzegovina",
+    "lat": 44.5391105,
+    "lng": 18.675193
+  },
+  {
+    "id": "bosnia-radiopostaja-mir-međugorje",
+    "name": "Radiopostaja Mir Međugorje",
+    "url": "https://mirm.live/mir.mp3",
+    "genre": "Music",
+    "city": "Mostar",
+    "country": "Bosnia and Herzegovina",
+    "lat": 43.3435855,
+    "lng": 17.8076584
+  },
+  {
+    "id": "bosnia-radio-kameleon-1027-fm",
+    "name": "Radio Kameleon 102.7 FM",
+    "url": "https://radiokameleon.radioca.st/index.html?sid=1",
+    "genre": "Music",
+    "city": "Tuzla",
+    "country": "Bosnia and Herzegovina",
+    "lat": 44.5391105,
+    "lng": 18.675193
+  },
+  {
+    "id": "bosnia-danger-zone-bl",
+    "name": "Danger Zone BL",
+    "url": "https://free.rcast.net/62278",
+    "genre": "Music",
+    "city": "Banja Luka",
+    "country": "Bosnia and Herzegovina",
+    "lat": 44.7720845,
+    "lng": 17.1917651
+  },
+  {
+    "id": "bosnia-radio-das",
+    "name": "Radio DAS",
+    "url": "http://158.69.119.6:8095/stream",
+    "genre": "Music",
+    "city": "Bijeljina",
+    "country": "Bosnia and Herzegovina",
+    "lat": 44.7568464,
+    "lng": 19.2156628
+  },
+  {
+    "id": "bosnia-radio-gracanica-fm-876",
+    "name": "Radio Gracanica FM 87.6",
+    "url": "https://radiogracanica.wtvnet.net:9443/stream",
+    "genre": "Music",
+    "city": "Tuzla",
+    "country": "Bosnia and Herzegovina",
+    "lat": 44.5391105,
+    "lng": 18.675193
+  },
+  {
+    "id": "bosnia-hit-radio",
+    "name": "HIT Radio",
+    "url": "http://80.242.123.180:8080/radio/hit/icecast.audio",
+    "genre": "Music",
+    "city": "Bijeljina",
+    "country": "Bosnia and Herzegovina",
+    "lat": 44.7568464,
+    "lng": 19.2156628
+  },
+  {
+    "id": "bosnia-radio-bosanska-krupa-fm-975",
+    "name": "Radio Bosanska Krupa FM 97.5",
+    "url": "https://icecast.multhielemedia.de/radio/8010/clubradio.mp3",
+    "genre": "Music",
+    "city": "Prijedor",
+    "country": "Bosnia and Herzegovina",
+    "lat": 44.9801369,
+    "lng": 16.7123704
+  },
+  {
+    "id": "bosnia-bn-radio-fm-934",
+    "name": "BN Radio FM 93.4",
+    "url": "https://stream.radiobn.net/;stream.mp3",
+    "genre": "Music",
+    "city": "Bijeljina",
+    "country": "Bosnia and Herzegovina",
+    "lat": 44.7568464,
+    "lng": 19.2156628
+  },
+  {
+    "id": "bosnia-radio-tuzla-fm-940",
+    "name": "Radio Tuzla FM 94.0",
+    "url": "https://uzivo.radiotuzla.ba/stream",
+    "genre": "Music",
+    "city": "Tuzla",
+    "country": "Bosnia and Herzegovina",
+    "lat": 44.5391105,
+    "lng": 18.675193
+  },
+  {
+    "id": "bosnia-sim-radio-1030-fm",
+    "name": "SIM Radio 103.0 FM",
+    "url": "https://stream.leftor.com/proxy/simradi1/stream/;stream.mp3",
+    "genre": "Music",
+    "city": "Bijeljina",
+    "country": "Bosnia and Herzegovina",
+    "lat": 44.7568464,
+    "lng": 19.2156628
+  },
+  {
+    "id": "bosnia-densomaniak-radio",
+    "name": "Densomaniak Radio",
+    "url": "https://stream.iradio.pro/proxy/densomaniak?mp=/stream",
+    "genre": "Music",
+    "city": "Bijeljina",
+    "country": "Bosnia and Herzegovina",
+    "lat": 44.7568464,
+    "lng": 19.2156628
+  },
+  {
+    "id": "bosnia-radio-ilok-1013fm",
+    "name": "Radio Ilok 101.3FM",
+    "url": "https://eu8.fastcast4u.com/proxy/radioilok/stream",
+    "genre": "Music",
+    "city": "Bijeljina",
+    "country": "Bosnia and Herzegovina",
+    "lat": 44.7568464,
+    "lng": 19.2156628
+  },
+  {
+    "id": "bosnia-radio-gradiška-fm-988",
+    "name": "Radio Gradiška FM 98.8",
+    "url": "https://nl1.streamingpulse.com/ssl/RadioGradiska",
+    "genre": "Music",
+    "city": "Gradiška",
+    "country": "Bosnia and Herzegovina",
+    "lat": 45.1461945,
+    "lng": 17.2520748
+  },
+  {
+    "id": "bosnia-radio-074-doboj",
+    "name": "Radio 074 Doboj",
+    "url": "https://www.partyvibe.com:8060/;listen.pls",
+    "genre": "Music",
+    "city": "Doboj",
+    "country": "Bosnia and Herzegovina",
+    "lat": 44.7324559,
+    "lng": 18.0850157
+  },
+  {
+    "id": "bosnia-radio-odžak-925-fm",
+    "name": "Radio Odžak 92.5 FM",
+    "url": "https://stream1.rcast.net/70602",
+    "genre": "Music",
+    "city": "Doboj",
+    "country": "Bosnia and Herzegovina",
+    "lat": 44.7324559,
+    "lng": 18.0850157
+  },
+  {
+    "id": "bosnia-antena-radio-fm-887",
+    "name": "Antena Radio FM 88.7",
+    "url": "https://radio.tnt.ba:8020/live",
+    "genre": "Music",
+    "city": "Doboj",
+    "country": "Bosnia and Herzegovina",
+    "lat": 44.7324559,
+    "lng": 18.0850157
+  },
+  {
+    "id": "bosnia-radio-dzungla-fm-1036",
+    "name": "Radio Dzungla FM 103.6",
+    "url": "https://cast2.name.ba/proxy/dzungla/stream",
+    "genre": "Music",
+    "city": "Doboj",
+    "country": "Bosnia and Herzegovina",
+    "lat": 44.7324559,
+    "lng": 18.0850157
+  },
+  {
+    "id": "bosnia-studio-m-930-fm",
+    "name": "Studio M 93.0 FM",
+    "url": "https://stream.leftor.com/proxy/studiom2/stream/;stream.mp3;",
+    "genre": "Music",
+    "city": "Doboj",
+    "country": "Bosnia and Herzegovina",
+    "lat": 44.7324559,
+    "lng": 18.0850157
+  },
+  {
+    "id": "bosnia-radio-hayat-sarajevo",
+    "name": "Radio Hayat Sarajevo",
+    "url": "https://hello.citrus3.com:2020/stream/radiohayatsarajevo",
+    "genre": "Music",
+    "city": "Vogošća",
+    "country": "Bosnia and Herzegovina",
+    "lat": 43.9018326,
+    "lng": 18.3432927
+  },
+  {
+    "id": "bosnia-radio-feniks-fm-947",
+    "name": "Radio Feniks FM 94.7",
+    "url": "https://c30.radioboss.fm:8234/stream",
+    "genre": "Music",
+    "city": "Gradiška",
+    "country": "Bosnia and Herzegovina",
+    "lat": 45.1461945,
+    "lng": 17.2520748
+  },
+  {
+    "id": "bosnia-radio-k3-fm",
+    "name": "Radio K3 FM",
+    "url": "https://s1.mojstream.eu:8164/stream",
+    "genre": "Music",
+    "city": "Gradiška",
+    "country": "Bosnia and Herzegovina",
+    "lat": 45.1461945,
+    "lng": 17.2520748
+  },
+  {
+    "id": "bosnia-radio-m-plus",
+    "name": "Radio M Plus",
+    "url": "https://team-data.ba:10000//",
+    "genre": "Music",
+    "city": "Vogošća",
+    "country": "Bosnia and Herzegovina",
+    "lat": 43.9018326,
+    "lng": 18.3432927
+  },
+  {
+    "id": "bosnia-radio-vogošca",
+    "name": "Radio Vogošca",
+    "url": "https://stream.leftor.com/proxy/rtvvogo2/stream/;stream.mp3/",
+    "genre": "Music",
+    "city": "Vogošća",
+    "country": "Bosnia and Herzegovina",
+    "lat": 43.9018326,
+    "lng": 18.3432927
+  },
+  {
+    "id": "bosnia-radio-zenit-fm-1007",
+    "name": "Radio Zenit FM 100.7",
+    "url": "http://5.189.168.133:8020/stream/1/",
+    "genre": "Music",
+    "city": "Zenica",
+    "country": "Bosnia and Herzegovina",
+    "lat": 44.199828,
+    "lng": 17.9093012
+  },
+  {
+    "id": "bosnia-radio-zenica",
+    "name": "Radio Zenica",
+    "url": "http://stream.rtvze.ba:8000/stream",
+    "genre": "Music",
+    "city": "Zenica",
+    "country": "Bosnia and Herzegovina",
+    "lat": 44.199828,
+    "lng": 17.9093012
+  },
+  {
+    "id": "bosnia-radio-derventa-1-zabavna-pop-rock",
+    "name": "Radio Derventa 1 Zabavna Pop-Rock",
+    "url": "https://stream.radiodijaspora.com/radio/8020/radio.mp3",
+    "genre": "Music",
+    "city": "Derventa",
+    "country": "Bosnia and Herzegovina",
+    "lat": 44.9767094,
+    "lng": 17.906959
+  },
+  {
+    "id": "bosnia-radio-derventa-2-narodna-folk",
+    "name": "Radio Derventa 2 Narodna Folk",
+    "url": "https://stream.radiodijaspora.com/radio/8010/radio.mp3",
+    "genre": "Music",
+    "city": "Derventa",
+    "country": "Bosnia and Herzegovina",
+    "lat": 44.9767094,
+    "lng": 17.906959
+  },
+  {
+    "id": "bosnia-radio-bihac-fm-923",
+    "name": "Radio Bihac FM 92.3",
+    "url": "http://radiobihaclive.radioca.st:8249/stream",
+    "genre": "Music",
+    "city": "Bihać",
+    "country": "Bosnia and Herzegovina",
+    "lat": 44.8146563,
+    "lng": 15.86896
+  },
+  {
+    "id": "bosnia-radio-zavidovici-am-1503",
+    "name": "Radio Zavidovici AM 1503",
+    "url": "http://cast2.name.ba:8077/stream",
+    "genre": "Music",
+    "city": "Zenica",
+    "country": "Bosnia and Herzegovina",
+    "lat": 44.199828,
+    "lng": 17.9093012
+  },
+  {
+    "id": "bosnia-big_rock",
+    "name": "Big_Rock",
+    "url": "https://rock.bigportal.ba:8080/rock",
+    "genre": "Music",
+    "city": "Gradiška",
+    "country": "Bosnia and Herzegovina",
+    "lat": 45.1461945,
+    "lng": 17.2520748
+  },
+  {
+    "id": "bosnia-novi-radio-bihać-fm-1016",
+    "name": "Novi Radio Bihać FM 101.6",
+    "url": "http://cast2.name.ba:8119/stream/",
+    "genre": "Music",
+    "city": "Bihać",
+    "country": "Bosnia and Herzegovina",
+    "lat": 44.8146563,
+    "lng": 15.86896
+  },
+  {
+    "id": "bosnia-radio-mango-976-fm",
+    "name": "Radio Mango 97.6 FM",
+    "url": "http://158.69.119.6:8780/stream",
+    "genre": "Music",
+    "city": "Bugojno",
+    "country": "Bosnia and Herzegovina",
+    "lat": 44.0558542,
+    "lng": 17.4509043
+  },
+  {
+    "id": "bosnia-radio-active-zenica",
+    "name": "Radio Active Zenica",
+    "url": "https://activezenica.radiokitstream.org/activezenica.mp3",
+    "genre": "Music",
+    "city": "Zenica",
+    "country": "Bosnia and Herzegovina",
+    "lat": 44.199828,
+    "lng": 17.9093012
+  },
+  {
+    "id": "bosnia-rtv-bugojno",
+    "name": "RTV Bugojno",
+    "url": "https://s3.free-shoutcast.com/stream/18156",
+    "genre": "Music",
+    "city": "Bugojno",
+    "country": "Bosnia and Herzegovina",
+    "lat": 44.0558542,
+    "lng": 17.4509043
+  },
+  {
+    "id": "bosnia-radio-brčko-distrikt",
+    "name": "Radio Brčko Distrikt",
+    "url": "http://91.191.0.45:8000/index.html?sid=1",
+    "genre": "Music",
+    "city": "Brčko",
+    "country": "Bosnia and Herzegovina",
+    "lat": 44.8771222,
+    "lng": 18.8095022
+  },
+  {
+    "id": "bosnia-radio-tomislavgrad-fm-955",
+    "name": "Radio Tomislavgrad FM 95.5",
+    "url": "https://a4.asurahosting.com:7110/radio.mp3",
+    "genre": "Music",
+    "city": "Bugojno",
+    "country": "Bosnia and Herzegovina",
+    "lat": 44.0558542,
+    "lng": 17.4509043
+  },
+  {
+    "id": "bosnia-radio-budva-fm-987",
+    "name": "Radio Budva FM 98.7",
+    "url": "https://c8.radioboss.fm:18199/stream",
+    "genre": "Music",
+    "city": "Trebinje",
+    "country": "Bosnia and Herzegovina",
+    "lat": 42.7098295,
+    "lng": 18.3457261
+  },
+  {
+    "id": "bosnia-radio-velkaton",
+    "name": "Radio Velkaton",
+    "url": "http://188.40.62.20:8044/stream",
+    "genre": "Music",
+    "city": "Velika Kladuša",
+    "country": "Bosnia and Herzegovina",
+    "lat": 45.1843299,
+    "lng": 15.8069257
+  },
+  {
+    "id": "bosnia-radio-usk-fm-1051",
+    "name": "Radio USK FM 105.1",
+    "url": "https://radiousk.radioca.st/stream",
+    "genre": "Music",
+    "city": "Bihać",
+    "country": "Bosnia and Herzegovina",
+    "lat": 44.8146563,
+    "lng": 15.86896
+  },
+  {
+    "id": "bosnia-radio-delta-fm-97",
+    "name": "Radio Delta FM 97",
+    "url": "https://ec2s.crolive.com.hr/RadioDelta",
+    "genre": "Music",
+    "city": "Trebinje",
+    "country": "Bosnia and Herzegovina",
+    "lat": 42.7098295,
+    "lng": 18.3457261
+  },
+  {
+    "id": "bosnia-trend-radio-fm-916",
+    "name": "Trend Radio FM 91.6",
+    "url": "https://trendradio-codus.radioca.st/index.html?sid=1",
+    "genre": "Music",
+    "city": "Bihać",
+    "country": "Bosnia and Herzegovina",
+    "lat": 44.8146563,
+    "lng": 15.86896
+  },
+  {
+    "id": "bosnia-radio-cetinje",
+    "name": "Radio Cetinje",
+    "url": "http://78.129.228.187:8007/stream",
+    "genre": "Music",
+    "city": "Trebinje",
+    "country": "Bosnia and Herzegovina",
+    "lat": 42.7098295,
+    "lng": 18.3457261
+  },
+  {
+    "id": "bosnia-rvk-fm-891",
+    "name": "RVK FM 89.1",
+    "url": "http://rvk2021.radioca.st:8206/stream",
+    "genre": "Music",
+    "city": "Velika Kladuša",
+    "country": "Bosnia and Herzegovina",
+    "lat": 45.1843299,
+    "lng": 15.8069257
+  },
+  {
+    "id": "bosnia-radio-gospić-fm-971",
+    "name": "Radio Gospić FM 97.1",
+    "url": "https://sonic.brzioblak.eu/8002/stream",
+    "genre": "Music",
+    "city": "Bihać",
+    "country": "Bosnia and Herzegovina",
+    "lat": 44.8146563,
+    "lng": 15.86896
+  },
+  {
+    "id": "bosnia-gp-maljevac",
+    "name": "GP Maljevac",
+    "url": "https://server4p.com/8084/stream",
+    "genre": "Music",
+    "city": "Bihać",
+    "country": "Bosnia and Herzegovina",
+    "lat": 44.8146563,
+    "lng": 15.86896
+  },
+  {
+    "id": "bosnia-radio-jaska-938-fm",
+    "name": "Radio Jaska 93.8 FM",
+    "url": "https://uk1.streamingpulse.com/ssl/RadioJaska",
+    "genre": "Music",
+    "city": "Velika Kladuša",
+    "country": "Bosnia and Herzegovina",
+    "lat": 45.1843299,
+    "lng": 15.8069257
+  },
+  {
+    "id": "bosnia-trend-radio-fm-1021",
+    "name": "Trend Radio FM 102.1",
+    "url": "https://stream1.dns69it.com/index.html",
+    "genre": "Music",
+    "city": "Bihać",
+    "country": "Bosnia and Herzegovina",
+    "lat": 44.8146563,
+    "lng": 15.86896
+  },
+  {
+    "id": "bosnia-radio-preporod-952-fm",
+    "name": "Radio Preporod 95.2 FM",
+    "url": "http://s1.voscast.com:7986/listen.mp3",
+    "genre": "Music",
+    "city": "Gračanica",
+    "country": "Bosnia and Herzegovina",
+    "lat": 44.7043396,
+    "lng": 18.310107
+  },
+  {
+    "id": "bosnia-radio-konjic",
+    "name": "Radio Konjic",
+    "url": "https://s3.free-shoutcast.com/stream/18056",
+    "genre": "Music",
+    "city": "Konjic",
+    "country": "Bosnia and Herzegovina",
+    "lat": 43.6544405,
+    "lng": 17.9606621
+  },
+  {
+    "id": "bosnia-radio-daruvar",
+    "name": "Radio Daruvar",
+    "url": "https://mcp1.mydataknox.com:8016/live.mp3",
+    "genre": "Music",
+    "city": "Gradiška",
+    "country": "Bosnia and Herzegovina",
+    "lat": 45.1461945,
+    "lng": 17.2520748
+  },
+  {
+    "id": "bosnia-hr-radio-dubrovnik",
+    "name": "HR Radio Dubrovnik",
+    "url": "https://25683.live.streamtheworld.com:443/DUBROVNIKAAC.aac",
+    "genre": "Music",
+    "city": "Trebinje",
+    "country": "Bosnia and Herzegovina",
+    "lat": 42.7098295,
+    "lng": 18.3457261
+  },
+  {
+    "id": "bosnia-radio-m-love-music",
+    "name": "Radio M Love Music",
+    "url": "https://team-data.ba:9042/index.html?sid=1",
+    "genre": "Music",
+    "city": "Goražde",
+    "country": "Bosnia and Herzegovina",
+    "lat": 43.6684375,
+    "lng": 18.9759265
+  },
+  {
+    "id": "bosnia-kupreški-radio-fm-897",
+    "name": "Kupreški Radio FM 89.7",
+    "url": "https://ec2s.crolive.com.hr:1265/stream",
+    "genre": "Music",
+    "city": "Bugojno",
+    "country": "Bosnia and Herzegovina",
+    "lat": 44.0558542,
+    "lng": 17.4509043
+  }
+]

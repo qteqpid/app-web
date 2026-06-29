@@ -1,0 +1,312 @@
+[
+  {
+    "id": "georgia-kepez-fm",
+    "name": "Kepez FM",
+    "url": "http://85.132.78.122:3344/now",
+    "genre": "Music",
+    "city": "Tbilisi",
+    "country": "Georgia",
+    "lat": 41.6934591,
+    "lng": 44.8014495
+  },
+  {
+    "id": "georgia-tbilisi-fm-935",
+    "name": "Tbilisi FM 93.5",
+    "url": "http://iis.ge:8000/radiotbilisi.mp3",
+    "genre": "Music",
+    "city": "Tbilisi",
+    "country": "Georgia",
+    "lat": 41.6934591,
+    "lng": 44.8014495
+  },
+  {
+    "id": "georgia-radio-hereti-fm-1028",
+    "name": "Radio Hereti FM 102.8",
+    "url": "http://iis.ge:8000/hereti.mp3",
+    "genre": "Music",
+    "city": "Tbilisi",
+    "country": "Georgia",
+    "lat": 41.6934591,
+    "lng": 44.8014495
+  },
+  {
+    "id": "georgia-relaxwebradio",
+    "name": "Relaxwebradio",
+    "url": "http://iis.ge:8000/relax.mp3",
+    "genre": "Music",
+    "city": "Tbilisi",
+    "country": "Georgia",
+    "lat": 41.6934591,
+    "lng": 44.8014495
+  },
+  {
+    "id": "georgia-citrus-fm-973",
+    "name": "Citrus FM 97.3",
+    "url": "http://iis.ge:8000/CitrusFm.mp3",
+    "genre": "Music",
+    "city": "Batumi",
+    "country": "Georgia",
+    "lat": 41.6509502,
+    "lng": 41.6360085
+  },
+  {
+    "id": "georgia-radio-dzveli-kalaki-fm-1079",
+    "name": "Radio Dzveli Kalaki FM 107.9",
+    "url": "http://iis.ge:8000/radiodk.mp3",
+    "genre": "Music",
+    "city": "Tbilisi",
+    "country": "Georgia",
+    "lat": 41.6934591,
+    "lng": 44.8014495
+  },
+  {
+    "id": "georgia-radio-marneuli-fm-969",
+    "name": "Radio Marneuli FM 96.9",
+    "url": "http://stream.it-solutions.ge:8000/mp3-radiomarneulifm",
+    "genre": "Music",
+    "city": "Tbilisi",
+    "country": "Georgia",
+    "lat": 41.6934591,
+    "lng": 44.8014495
+  },
+  {
+    "id": "georgia-radio-adjara-fm-1045",
+    "name": "Radio Adjara FM 104.5",
+    "url": "https://edge.mixlr.com/channel/bzorq",
+    "genre": "Music",
+    "city": "Batumi",
+    "country": "Georgia",
+    "lat": 41.6509502,
+    "lng": 41.6360085
+  },
+  {
+    "id": "georgia-star-fm-939",
+    "name": "Star FM 93.9",
+    "url": "http://stream.it-solutions.ge:8000/mp3-starfm",
+    "genre": "Music",
+    "city": "Tbilisi",
+    "country": "Georgia",
+    "lat": 41.6934591,
+    "lng": 44.8014495
+  },
+  {
+    "id": "georgia-radio-chveneburi-959-fm",
+    "name": "Radio Chveneburi 95.9 FM",
+    "url": "https://radio.cdn.xsg.ge/cld9-1050/chveneburi/shoutcast",
+    "genre": "Music",
+    "city": "Tbilisi",
+    "country": "Georgia",
+    "lat": 41.6934591,
+    "lng": 44.8014495
+  },
+  {
+    "id": "georgia-radio-atinati-fm-1059",
+    "name": "Radio Atinati FM 105.9",
+    "url": "http://stream.it-solutions.ge:8000/mp3-radioatinatifm",
+    "genre": "Music",
+    "city": "Batumi",
+    "country": "Georgia",
+    "lat": 41.6509502,
+    "lng": 41.6360085
+  },
+  {
+    "id": "georgia-radio-mcc-fm-1049",
+    "name": "Radio MCC FM 104.9",
+    "url": "http://85.172.206.196:8000/index.html?sid=1",
+    "genre": "Music",
+    "city": "Tbilisi",
+    "country": "Georgia",
+    "lat": 41.6934591,
+    "lng": 44.8014495
+  },
+  {
+    "id": "georgia-radio-palitra-1039-fm",
+    "name": "Radio Palitra 103.9 FM",
+    "url": "https://radiostream.palitra.ge/stream.mp3",
+    "genre": "Music",
+    "city": "Tbilisi",
+    "country": "Georgia",
+    "lat": 41.6934591,
+    "lng": 44.8014495
+  },
+  {
+    "id": "georgia-radio-marshall-fm-1035",
+    "name": "Radio Marshall FM 103.5",
+    "url": "http://eu.stream4cast.com:8030/;stream.mp3",
+    "genre": "Music",
+    "city": "Gori",
+    "country": "Georgia",
+    "lat": 41.9818469,
+    "lng": 44.1117811
+  },
+  {
+    "id": "georgia-radio-positive-1043-fm",
+    "name": "Radio Positive 104.3 FM",
+    "url": "https://n0b.radiojar.com/sr4vzamzfnruv?rj-ttl=5&rj-tok=AAABm_mcRSoAz27v5URX_FnhLg",
+    "genre": "Music",
+    "city": "Tbilisi",
+    "country": "Georgia",
+    "lat": 41.6934591,
+    "lng": 44.8014495
+  },
+  {
+    "id": "georgia-радио-визави-1022-fm",
+    "name": "Радио Визави 102.2 FM",
+    "url": "http://94.250.249.126:8000/radio",
+    "genre": "Music",
+    "city": "Zugdidi",
+    "country": "Georgia",
+    "lat": 42.5072124,
+    "lng": 41.8716891
+  },
+  {
+    "id": "georgia-slow-karadeniz-fm",
+    "name": "Slow Karadeniz FM",
+    "url": "https://dinle.slowkaradenizfm.com:9578/index.html?sid=1",
+    "genre": "Music",
+    "city": "Batumi",
+    "country": "Georgia",
+    "lat": 41.6509502,
+    "lng": 41.6360085
+  },
+  {
+    "id": "georgia-radio-sivrce-fm-985",
+    "name": "Radio Sivrce FM 98.5",
+    "url": "https://proxy.streamer.mediabox.ge/ice/8000/sivrce",
+    "genre": "Music",
+    "city": "Tbilisi",
+    "country": "Georgia",
+    "lat": 41.6934591,
+    "lng": 44.8014495
+  },
+  {
+    "id": "georgia-naxçıvan-radio-fm-1041",
+    "name": "Naxçıvan Radio FM 104.1",
+    "url": "http://37.59.40.90:12782/;stream.mp3",
+    "genre": "Music",
+    "city": "Lagodekhi",
+    "country": "Georgia",
+    "lat": 41.8242785,
+    "lng": 46.2738235
+  },
+  {
+    "id": "georgia-radio-azalia",
+    "name": "Radio Azalia",
+    "url": "https://stream-175.zeno.fm/s865660v7hhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzODY1NjYwdjdoaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiaUNLLXFFZDVROU90WDlRYjJYVWdmdyIsImlhdCI6MTc2OTQxODcyNiwiZXhwIjoxNzY5NDE4Nzg2fQ.9-JE54AGn0-lnstbCGzOq9K-XYwNUwaD9_9l8s0vMYM",
+    "genre": "Music",
+    "city": "Tbilisi",
+    "country": "Georgia",
+    "lat": 41.6934591,
+    "lng": 44.8014495
+  },
+  {
+    "id": "georgia-üni-fm-940",
+    "name": "Üni FM 94.0",
+    "url": "https://unifmcom.80.yayin.com.tr/;type=mp3",
+    "genre": "Music",
+    "city": "Batumi",
+    "country": "Georgia",
+    "lat": 41.6509502,
+    "lng": 41.6360085
+  },
+  {
+    "id": "georgia-trialeti-fm-1049",
+    "name": "Trialeti FM 104.9",
+    "url": "https://s39.myradiostream.com/:10898/;listen.mp3",
+    "genre": "Music",
+    "city": "Tbilisi",
+    "country": "Georgia",
+    "lat": 41.6934591,
+    "lng": 44.8014495
+  },
+  {
+    "id": "georgia-radio-sanda",
+    "name": "Radio SANDA",
+    "url": "http://212.72.151.218:8800/live",
+    "genre": "Music",
+    "city": "Gori",
+    "country": "Georgia",
+    "lat": 41.9818469,
+    "lng": 44.1117811
+  },
+  {
+    "id": "georgia-radio-odishi+-fm-1029",
+    "name": "Radio Odishi+ FM 102.9",
+    "url": "https://live.radio.odishi.ge/odishi.mp3",
+    "genre": "Music",
+    "city": "Zugdidi",
+    "country": "Georgia",
+    "lat": 42.5072124,
+    "lng": 41.8716891
+  },
+  {
+    "id": "georgia-radio-vem",
+    "name": "Radio Vem",
+    "url": "https://eu1.stream4cast.com/proxy/vemradio/stream",
+    "genre": "Music",
+    "city": "Marneuli",
+    "country": "Georgia",
+    "lat": 41.4718258,
+    "lng": 44.8159789
+  },
+  {
+    "id": "georgia-radio-amra-international",
+    "name": "Radio Amra International",
+    "url": "https://streamer.radio.co/s34b5469e0/listen",
+    "genre": "Music",
+    "city": "Tbilisi",
+    "country": "Georgia",
+    "lat": 41.6934591,
+    "lng": 44.8014495
+  },
+  {
+    "id": "georgia-mutant-radio",
+    "name": "Mutant Radio",
+    "url": "https://listen.radioking.com/radio/282820/stream/328621",
+    "genre": "Music",
+    "city": "Tbilisi",
+    "country": "Georgia",
+    "lat": 41.6934591,
+    "lng": 44.8014495
+  },
+  {
+    "id": "georgia-radio-electronauts",
+    "name": "Radio Electronauts",
+    "url": "https://stream-179.zeno.fm/4d98pq6cwg0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0ZDk4cHE2Y3dnMHV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiR2Q1X1VUUXJUR09IYVEtUlhXUVcxdyIsImlhdCI6MTc2OTQxODcyOSwiZXhwIjoxNzY5NDE4Nzg5fQ.0_TIy1NB-JsvnWH87-dTxWWRQ6hqsgssfZy_6-gyEFw",
+    "genre": "Music",
+    "city": "Tbilisi",
+    "country": "Georgia",
+    "lat": 41.6934591,
+    "lng": 44.8014495
+  },
+  {
+    "id": "georgia-radio-kp",
+    "name": "Radio KP",
+    "url": "https://kpradio.hostingradio.ru:8000/stavropol.radiokp128.mp3",
+    "genre": "Music",
+    "city": "Zugdidi",
+    "country": "Georgia",
+    "lat": 42.5072124,
+    "lng": 41.8716891
+  },
+  {
+    "id": "georgia-avtoradio-1035-fm",
+    "name": "Avtoradio 103.5 FM",
+    "url": "https://broadcast.osetiafm.ru/avto.mp3",
+    "genre": "Music",
+    "city": "Marneuli",
+    "country": "Georgia",
+    "lat": 41.4718258,
+    "lng": 44.8159789
+  },
+  {
+    "id": "georgia-maks-fm-1074",
+    "name": "Maks FM 107.4",
+    "url": "https://maksfm.hostingradio.ru/maksfm320.mp3",
+    "genre": "Music",
+    "city": "Zugdidi",
+    "country": "Georgia",
+    "lat": 42.5072124,
+    "lng": 41.8716891
+  }
+]

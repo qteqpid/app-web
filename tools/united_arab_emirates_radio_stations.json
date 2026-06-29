@@ -1,0 +1,170 @@
+[
+    {
+        "name": "RAK Radio UAE",
+        "city": "Dubai",
+        "country": "United Arab Emirates",
+        "url": "https://stream.chiliradio.app/gulfradio"
+    },
+    {
+        "name": "Suno FM 102.4",
+        "city": "Dubai",
+        "country": "United Arab Emirates",
+        "url": "http://51.255.235.165:5476/;stream.mp3"
+    },
+    {
+        "name": "Radio Chaska",
+        "city": "Dubai",
+        "country": "United Arab Emirates",
+        "url": "https://qurum.ddns.net:8000/radio.mp3"
+    },
+    {
+        "name": "Volna 103.2 FM",
+        "city": "Dubai",
+        "country": "United Arab Emirates",
+        "url": "https://de1.streamingpulse.com/ssl/radiovolna"
+    },
+    {
+        "name": "Zayed Quran – 97.6 FM",
+        "city": "Dubai",
+        "country": "United Arab Emirates",
+        "url": "http://ccfz.dyndns.org:4427/zfm"
+    },
+    {
+        "name": "Sharjah Quran Radio",
+        "city": "Dubai",
+        "country": "United Arab Emirates",
+        "url": "https://l3.itworkscdn.net/smcquranlive/quranradiolive/icecast.audio"
+    },
+    {
+        "name": "Dubai Holy Quran FM 91.4",
+        "city": "Dubai",
+        "country": "United Arab Emirates",
+        "url": "https://uk5.internet-radio.com/proxy/dubaiholyquran?mp=/stream;"
+    },
+    {
+        "name": "Mirchi FM 102.4",
+        "city": "Dubai",
+        "country": "United Arab Emirates",
+        "url": "https://eu8.fastcast4u.com/proxy/clyedupq?mp=/1"
+    },
+    {
+        "name": "Radio Khushi 92.2 FM",
+        "city": "Dubai",
+        "country": "United Arab Emirates",
+        "url": "https://centova.aarenworld.com/proxy/radiokushi/stream"
+    },
+    {
+        "name": "Tamil FM 89.4",
+        "city": "Dubai",
+        "country": "United Arab Emirates",
+        "url": "https://centova.aarenworld.com/proxy/894tamilfm/stream"
+    },
+    {
+        "name": "Sky News Arabia FM 90.5",
+        "city": "Dubai",
+        "country": "United Arab Emirates",
+        "url": "https://radio.skynewsarabia.com/stream/radio/skynewsarabia"
+    },
+    {
+        "name": "Radio AYK",
+        "city": "Sharjah",
+        "country": "United Arab Emirates",
+        "url": "http://64.150.176.42:8117/;listen.mp3"
+    },
+    {
+        "name": "Talk 100.3",
+        "city": "Dubai",
+        "country": "United Arab Emirates",
+        "url": "https://funasia.streamguys1.com/live13"
+    },
+    {
+        "name": "Radio Italia - Dubai 95.3 FM",
+        "city": "Ras Al Khaima",
+        "country": "United Arab Emirates",
+        "url": "http://ice62.fluidstream.net:8090/ita_dubai_in.aac"
+    },
+    {
+        "name": "Fujairah 92.6 FM",
+        "city": "Sharjah",
+        "country": "United Arab Emirates",
+        "url": "https://fujairah.fm/stream.php"
+    },
+    {
+        "name": "Fujairah FM – 92.6 FM",
+        "city": "Fujairah",
+        "country": "United Arab Emirates",
+        "url": "http://ccfz.dyndns.org:4427/live"
+    },
+    {
+        "name": "Radio Suno Melody",
+        "city": "Dubai",
+        "country": "United Arab Emirates",
+        "url": "https://27143.live.streamtheworld.com:443/RADIO_SUNO_MELODY_S06AAC.aac"
+    },
+    {
+        "name": "Al Khaleejiya FM 100.9",
+        "city": "Dubai",
+        "country": "United Arab Emirates",
+        "url": "https://n13.radiojar.com/5wpf9e4erxquv?rj-ttl=5&rj-tok=AAABm_ns2yQAftIFwTHmkl3gqQ"
+    },
+    {
+        "name": "Dilse FM 90.8",
+        "city": "Mirchi FM 102.4",
+        "country": "Dubai, United Arab Emirates",
+        "url": "https://a7.asurahosting.com:7440/radio.mp3"
+    },
+    {
+        "name": "Aloula Radio",
+        "city": "Talk 100.3",
+        "country": "Dubai, United Arab Emirates",
+        "url": "http://uk6.internet-radio.com:8103/stream/"
+    },
+    {
+        "name": "Beat 97.8",
+        "city": "Tamil FM 89.4",
+        "country": "Dubai, United Arab Emirates",
+        "url": "https://funasia.streamguys1.com/live3"
+    },
+    {
+        "name": "Oman Foreign Program FM 90.4",
+        "city": "Ras Al Khaima",
+        "country": "United Arab Emirates",
+        "url": "https://partrdo.mangomolo.com/engrdo.mp3"
+    },
+    {
+        "name": "Uthamiyae FM Radio",
+        "city": "Sharjah",
+        "country": "United Arab Emirates",
+        "url": "https://ssl.aloncast.com:1595/"
+    },
+    {
+        "name": "Luv 107.1",
+        "city": "Tamil FM 89.4",
+        "country": "Dubai, United Arab Emirates",
+        "url": "https://funasia.streamguys1.com/live2"
+    },
+    {
+        "name": "Radio Keralam AM 1476",
+        "city": "Dubai",
+        "country": "United Arab Emirates",
+        "url": "https://ice31.securenetsystems.net/RADIOKERAL"
+    },
+    {
+        "name": "So! Radio Oman 91.4 FM",
+        "city": "Abu Dhabi",
+        "country": "United Arab Emirates",
+        "url": "https://listen-soradio.sharp-stream.com/soradio_high.mp3"
+    },
+    {
+        "name": "Radio Suno Tamil",
+        "city": "Ras Al Khaima",
+        "country": "United Arab Emirates",
+        "url": "https://16613.live.streamtheworld.com:443/RADIO_SUNO_TAMIL_S01AAC.aac"
+    },
+    {
+        "name": "Russian Emirates Radio",
+        "city": "Dubai",
+        "country": "United Arab Emirates",
+        "url": "https://a4.radioheart.ru:9041/RH32763"
+    }
+]

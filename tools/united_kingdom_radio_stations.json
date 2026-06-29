@@ -1,0 +1,1502 @@
+[
+    {
+        "name": "Surrey Hills Radio",
+        "city": "London",
+        "country": "United Kingdom",
+        "url": "http://philae.shoutca.st:9035/stream"
+    },
+    {
+        "name": "LBC London",
+        "city": "London",
+        "country": "United Kingdom",
+        "url": "https://media-the.musicradio.com/LBCLondon"
+    },
+    {
+        "name": "Heart 80s Radio",
+        "city": "London",
+        "country": "United Kingdom",
+        "url": "https://media-ssl.musicradio.com/Heart80s"
+    },
+    {
+        "name": "Capital Xtra",
+        "city": "London",
+        "country": "United Kingdom",
+        "url": "https://media-ice.musicradio.com/CapitalXTRANationalMP3?.mp3"
+    },
+    {
+        "name": "Classic FM",
+        "city": "London",
+        "country": "United Kingdom",
+        "url": "https://media-ice.musicradio.com/ClassicFMMP3"
+    },
+    {
+        "name": "LBC UK",
+        "city": "London",
+        "country": "United Kingdom",
+        "url": "https://media-ice.musicradio.com/LBCUKMP3Low"
+    },
+    {
+        "name": "DOM Deliverance Radio",
+        "city": "London",
+        "country": "United Kingdom",
+        "url": "http://173.249.50.205:8000/index.html?sid=1"
+    },
+    {
+        "name": "Forest One",
+        "city": "London",
+        "country": "United Kingdom",
+        "url": "https://c2.prostream365.com:8010/live"
+    },
+    {
+        "name": "Loose FM",
+        "city": "London",
+        "country": "United Kingdom",
+        "url": "https://loosefm.radiocult.fm/stream"
+    },
+    {
+        "name": "Reinforced Radio",
+        "city": "London",
+        "country": "United Kingdom",
+        "url": "https://broadcast.shoutstream.co.uk:8012/stream"
+    },
+    {
+        "name": "Moon Phase Radio",
+        "city": "London",
+        "country": "United Kingdom",
+        "url": "https://cp12.serverse.com/proxy/moonphase/stream"
+    },
+    {
+        "name": "NTS Labyrinth",
+        "city": "London",
+        "country": "United Kingdom",
+        "url": "https://stream-mixtape-geo.ntslive.net/mixtape31"
+    },
+    {
+        "name": "Capital FM Manchester",
+        "city": "Manchester",
+        "country": "United Kingdom",
+        "url": "https://media-ice.musicradio.com/CapitalManchesterMP3?.mp3"
+    },
+    {
+        "name": "BBC World Service",
+        "city": "London",
+        "country": "United Kingdom",
+        "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service"
+    },
+    {
+        "name": "Radio TugaNet 88.2 FM",
+        "city": "London",
+        "country": "United Kingdom",
+        "url": "https://ssl.stmxp.net:8006/index.html?sid=1"
+    },
+    {
+        "name": "Radio X Manchester",
+        "city": "Manchester",
+        "country": "United Kingdom",
+        "url": "https://media-ice.musicradio.com/RadioXManchesterMP3?.mp3"
+    },
+    {
+        "name": "Heart Northwest",
+        "city": "Manchester",
+        "country": "United Kingdom",
+        "url": "https://media-sov.musicradio.com/HeartNorthWalesMP3"
+    },
+    {
+        "name": "Smooth Radio North West",
+        "city": "Manchester",
+        "country": "United Kingdom",
+        "url": "https://media-sov.musicradio.com/SmoothNorthWestMP3"
+    },
+    {
+        "name": "Golding Touch Radio",
+        "city": "Manchester",
+        "country": "United Kingdom",
+        "url": "https://s7.citrus3.com:8028/stream"
+    },
+    {
+        "name": "Kicks FM",
+        "city": "London",
+        "country": "United Kingdom",
+        "url": "https://s6.citrus3.com:8452/stream"
+    },
+    {
+        "name": "The Buzz MCR",
+        "city": "Manchester",
+        "country": "United Kingdom",
+        "url": "https://streaming05.liveboxstream.uk/proxy/kookyinc/stream"
+    },
+    {
+        "name": "(allFM)96.9",
+        "city": "Manchester",
+        "country": "United Kingdom",
+        "url": "https://uksoutha.streaming.broadcast.radio:15870/allfm"
+    },
+    {
+        "name": "FCUM Radio",
+        "city": "Manchester",
+        "country": "United Kingdom",
+        "url": "https://s2.radio.co/s847c08ad4/listen"
+    },
+    {
+        "name": "Bolton Hindu Forum Radio",
+        "city": "Manchester",
+        "country": "United Kingdom",
+        "url": "https://listen.radioking.com/radio/312242/stream/359399"
+    },
+    {
+        "name": "Hale.London",
+        "city": "London",
+        "country": "United Kingdom",
+        "url": "https://streaming.radio.co/s25550b002/listen"
+    },
+    {
+        "name": "RVR Roch Valley Radio",
+        "city": "Manchester",
+        "country": "United Kingdom",
+        "url": "https://rochvalley.radioca.st/stream"
+    },
+    {
+        "name": "Smooth Radio 105.7",
+        "city": "Birmingham",
+        "country": "United Kingdom",
+        "url": "https://media-ice.musicradio.com/SmoothWestMidsMP3?.mp3"
+    },
+    {
+        "name": "Nifty UK Radio",
+        "city": "Manchester",
+        "country": "United Kingdom",
+        "url": "http://source.clrmedia.co.uk:8000/niftyuk"
+    },
+    {
+        "name": "Country Line Radio",
+        "city": "Manchester",
+        "country": "United Kingdom",
+        "url": "https://listen-chriscountry.sharp-stream.com/chriscountry.mp3"
+    },
+    {
+        "name": "Gaydio Manchester",
+        "city": "Manchester",
+        "country": "United Kingdom",
+        "url": "https://listen-gaydio.sharp-stream.com/gaydionw.mp3"
+    },
+    {
+        "name": "Tameside Radio FM 103.6",
+        "city": "Manchester",
+        "country": "United Kingdom",
+        "url": "https://listen-tamesideradio.sharp-stream.com/tamesideradio.mp3"
+    },
+    {
+        "name": "Louder Than War",
+        "city": "Manchester",
+        "country": "United Kingdom",
+        "url": "https://s2.radio.co/sab795a38d/listen"
+    },
+    {
+        "name": "Necof Radio",
+        "city": "Manchester",
+        "country": "United Kingdom",
+        "url": "https://listen.radioking.com/radio/62557/stream/100084"
+    },
+    {
+        "name": "Capital FM Birmingham",
+        "city": "Birmingham",
+        "country": "United Kingdom",
+        "url": "https://media-ice.musicradio.com/CapitalBirminghamMP3?.mp3"
+    },
+    {
+        "name": "Genesis Radio Birmingham",
+        "city": "Birmingham",
+        "country": "United Kingdom",
+        "url": "https://cast5.my-control-panel.com/proxy/grb/stream"
+    },
+    {
+        "name": "Back2house Radio",
+        "city": "Birmingham",
+        "country": "United Kingdom",
+        "url": "https://back2house.radioca.st/index.html?sid=1"
+    },
+    {
+        "name": "Heart 100.7 West Midlands",
+        "city": "Birmingham",
+        "country": "United Kingdom",
+        "url": "https://media-ice.musicradio.com/HeartWestMidsMP3?.mp3"
+    },
+    {
+        "name": "Radio Central 24",
+        "city": "Birmingham",
+        "country": "United Kingdom",
+        "url": "https://casper.radioca.st/index.html?sid=1"
+    },
+    {
+        "name": "HypeDem Internet Radio",
+        "city": "Birmingham",
+        "country": "United Kingdom",
+        "url": "https://mrwolfman2.radioca.st/stream"
+    },
+    {
+        "name": "Radio Alty",
+        "city": "Manchester",
+        "country": "United Kingdom",
+        "url": "https://streams.radio.co/s4d51ef3bf/listen"
+    },
+    {
+        "name": "Midlandz-Radio",
+        "city": "Birmingham",
+        "country": "United Kingdom",
+        "url": "http://173.208.146.230/8002/stream"
+    },
+    {
+        "name": "Brum Radio",
+        "city": "Birmingham",
+        "country": "United Kingdom",
+        "url": "https://brum.out.airtime.pro/brum_a"
+    },
+    {
+        "name": "Cannock Chase Radio FM 89.8",
+        "city": "Birmingham",
+        "country": "United Kingdom",
+        "url": "https://ukwesta.streaming.broadcast.radio/cannockchase"
+    },
+    {
+        "name": "Capital FM Glasgow",
+        "city": "Glasgow",
+        "country": "United Kingdom",
+        "url": "https://media-ice.musicradio.com/CapitalGlasgowMP3?.mp3"
+    },
+    {
+        "name": "Smooth Radio Glasgow & The West",
+        "city": "Glasgow",
+        "country": "United Kingdom",
+        "url": "https://ice-the.musicradio.com/SmoothScotlandMP3"
+    },
+    {
+        "name": "Radio XL",
+        "city": "Birmingham",
+        "country": "United Kingdom",
+        "url": "https://xlradio.co.uk:8000/;&"
+    },
+    {
+        "name": "Box UK Radio",
+        "city": "Birmingham",
+        "country": "United Kingdom",
+        "url": "https://boxstream.danceradiouk.com/stream"
+    },
+    {
+        "name": "Heart Scotland - East",
+        "city": "Glasgow",
+        "country": "United Kingdom",
+        "url": "https://media-sov.musicradio.com/HeartEdinburgh"
+    },
+    {
+        "name": "HBS Hospital Broadcasting Service",
+        "city": "Glasgow",
+        "country": "United Kingdom",
+        "url": "https://streaming05.liveboxstream.uk/proxy/dbannerm?mp=/stream"
+    },
+    {
+        "name": "ASSK Radio",
+        "city": "Glasgow",
+        "country": "United Kingdom",
+        "url": "https://leopard.streemlion.com:5041/stream"
+    },
+    {
+        "name": "East End Community Radio",
+        "city": "Glasgow",
+        "country": "United Kingdom",
+        "url": "https://tobiasjugamis.radioca.st/stream"
+    },
+    {
+        "name": "IndyLive.Radio",
+        "city": "Glasgow",
+        "country": "United Kingdom",
+        "url": "https://indylive.radioca.st/stream"
+    },
+    {
+        "name": "Flashback Radio",
+        "city": "Birmingham",
+        "country": "United Kingdom",
+        "url": "https://live.flashbackcentral.co.uk/radio/8000/radio.mp3"
+    },
+    {
+        "name": "Celtic Music Radio",
+        "city": "Glasgow",
+        "country": "United Kingdom",
+        "url": "https://ukwesta.streaming.broadcast.radio/celtic"
+    },
+    {
+        "name": "Trancetechnique",
+        "city": "Glasgow",
+        "country": "United Kingdom",
+        "url": "https://s11.ssl-stream.com/ssl/trancete?mp=/stream"
+    },
+    {
+        "name": "BritAsia Radio",
+        "city": "Birmingham",
+        "country": "United Kingdom",
+        "url": "https://s4.radio.co/sfefce156f/listen"
+    },
+    {
+        "name": "Alibi Radio",
+        "city": "Glasgow",
+        "country": "United Kingdom",
+        "url": "https://das-edge62-live365-dal03.cdnstream.com/a86183"
+    },
+    {
+        "name": "Rock.Scot",
+        "city": "Glasgow",
+        "country": "United Kingdom",
+        "url": "https://uksoutha.streaming.broadcast.radio:16641/caledonia-tx-ltd"
+    },
+    {
+        "name": "Cumbernauld FM 106.8",
+        "city": "Glasgow",
+        "country": "United Kingdom",
+        "url": "https://radio.canstream.co.uk:8104/live.mp3"
+    },
+    {
+        "name": "Swansbrook Radio",
+        "city": "Birmingham",
+        "country": "United Kingdom",
+        "url": "https://s5.radio.co/s760caf20b/listen"
+    },
+    {
+        "name": "Caledon Radio",
+        "city": "Glasgow",
+        "country": "United Kingdom",
+        "url": "https://caledonradio.radioca.st/stream"
+    },
+    {
+        "name": "Heart Edinburgh",
+        "city": "Edinburgh",
+        "country": "United Kingdom",
+        "url": "https://ice-the.musicradio.com/HeartEdinburghMP3"
+    },
+    {
+        "name": "Radio Buena Vida",
+        "city": "Glasgow",
+        "country": "United Kingdom",
+        "url": "https://s4.radio.co/s69b281ac0/listen"
+    },
+    {
+        "name": "Capital FM Edinburgh",
+        "city": "Edinburgh",
+        "country": "United Kingdom",
+        "url": "https://media-ice.musicradio.com/CapitalEdinburghMP3?.mp3"
+    },
+    {
+        "name": "SAM RADIO",
+        "city": "Edinburgh",
+        "country": "United Kingdom",
+        "url": "https://ec6.yesstreaming.net:1170/stream"
+    },
+    {
+        "name": "Psychedelicized",
+        "city": "Edinburgh",
+        "country": "United Kingdom",
+        "url": "https://cast1.asurahosting.com/proxy/psychedelicized/stream"
+    },
+    {
+        "name": "Clyde Built Radio",
+        "city": "Glasgow",
+        "country": "United Kingdom",
+        "url": "https://clydebuiltradio.out.airtime.pro/clydebuiltradio_a"
+    },
+    {
+        "name": "Clarinet Radio",
+        "city": "Edinburgh",
+        "country": "United Kingdom",
+        "url": "https://listen.radioking.com/radio/614662/stream/676504"
+    },
+    {
+        "name": "Regal Radio",
+        "city": "Edinburgh",
+        "country": "United Kingdom",
+        "url": "https://stream.regalradio.net/stream.mp3"
+    },
+    {
+        "name": "CamGlen Radio 107.9 FM",
+        "city": "Glasgow",
+        "country": "United Kingdom",
+        "url": "https://stream2.hippynet.co.uk:8308/stream"
+    },
+    {
+        "name": "BFBS Scotland",
+        "city": "Edinburgh",
+        "country": "United Kingdom",
+        "url": "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs18.mp3?platform=radiogarden"
+    },
+    {
+        "name": "Edge 2",
+        "city": "Edinburgh",
+        "country": "United Kingdom",
+        "url": "https://stream-14.aiir.com/vps1vob4wpfvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2cHMxdm9iNHdwZnZ2IiwiaG9zdCI6InN0cmVhbS0xNC5haWlyLmNvbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoibGo5SEo5UzZTNEs2NWdLcTBrVlBCUSIsImlhdCI6MTc2OTQyNDA1NCwiZXhwIjoxNzY5NDI0MTE0fQ.3l3fOFiESstgSvZmuaJhpJtk192n7b-U07JM2Otmhp4"
+    },
+    {
+        "name": "Edge 1",
+        "city": "Edinburgh",
+        "country": "United Kingdom",
+        "url": "https://stream-14.aiir.com/8dhvgxm1kbvuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI4ZGh2Z3htMWtidnV2IiwiaG9zdCI6InN0cmVhbS0xNC5haWlyLmNvbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoieG1leU9DQVdTenVFLUs0N0dBdWRrZyIsImlhdCI6MTc2OTQyNDA1NiwiZXhwIjoxNzY5NDI0MTE2fQ.3NZQjdjkRYnEM2F4sqUmXLIhNT9rfnkCgtbLHoDQzMc"
+    },
+    {
+        "name": "East Coast FM 107.6",
+        "city": "Edinburgh",
+        "country": "United Kingdom",
+        "url": "https://radio.canstream.co.uk:8117/live.mp3"
+    },
+    {
+        "name": "98.8 Castle FM",
+        "city": "Edinburgh",
+        "country": "United Kingdom",
+        "url": "https://s7.myradiostream.com/:10126/index.html?sid=1"
+    },
+    {
+        "name": "Dazzle FM",
+        "city": "Liverpool",
+        "country": "United Kingdom",
+        "url": "http://s48.myradiostream.com:10658/listen.mp3"
+    },
+    {
+        "name": "242 Radio",
+        "city": "Edinburgh",
+        "country": "United Kingdom",
+        "url": "https://eu1.reliastream.com/proxy/radioala?mp=/stream"
+    },
+    {
+        "name": "Reiver FM",
+        "city": "Edinburgh",
+        "country": "United Kingdom",
+        "url": "https://s10.myradiostream.com/:35820/listen.mp3?nocache=1769424056"
+    },
+    {
+        "name": "Radio GH",
+        "city": "Edinburgh",
+        "country": "United Kingdom",
+        "url": "https://uk1.internet-radio.com/proxy/radiogh/stream"
+    },
+    {
+        "name": "Heartsong Live Radio",
+        "city": "Edinburgh",
+        "country": "United Kingdom",
+        "url": "https://streamer.radio.co/sa0f1967d5/listen"
+    },
+    {
+        "name": "LCR FM 106.7",
+        "city": "Liverpool",
+        "country": "United Kingdom",
+        "url": "http://n0d.radiojar.com/0p8xfnpxfnzuv?rj-ttl=5&rj-tok=AAABm_ntnnMA3YjJHzdxF8c9Ow"
+    },
+    {
+        "name": "Paisley Radio",
+        "city": "Glasgow",
+        "country": "United Kingdom",
+        "url": "https://s3.radio.co/s9d3c6b911/listen"
+    },
+    {
+        "name": "Hudbu.com",
+        "city": "Liverpool",
+        "country": "United Kingdom",
+        "url": "http://hudbu.com:8888/stream/"
+    },
+    {
+        "name": "Capital FM Liverpool",
+        "city": "Liverpool",
+        "country": "United Kingdom",
+        "url": "https://media-sov.musicradio.com/CapitalLiverpoolMP3"
+    },
+    {
+        "name": "House Party Radio",
+        "city": "Liverpool",
+        "country": "United Kingdom",
+        "url": "https://cloud.housepartyradio.net:8000/online.mp3"
+    },
+    {
+        "name": "EHFM",
+        "city": "Edinburgh",
+        "country": "United Kingdom",
+        "url": "https://ehfm.out.airtime.pro/ehfm_a"
+    },
+    {
+        "name": "Juice Liverpool",
+        "city": "Liverpool",
+        "country": "United Kingdom",
+        "url": "https://uksouth1.juiceboxradio.com/JuiceLiverpool"
+    },
+    {
+        "name": "LCR-UK",
+        "city": "Edinburgh",
+        "country": "United Kingdom",
+        "url": "https://stream.radio.co/sa641e39bd/listen"
+    },
+    {
+        "name": "Mersey Radio",
+        "city": "Liverpool",
+        "country": "United Kingdom",
+        "url": "https://stream.shoutcastservices.com/proxy/merseyradio/stream"
+    },
+    {
+        "name": "Flame CCR",
+        "city": "Liverpool",
+        "country": "United Kingdom",
+        "url": "https://radio.canstream.co.uk:8120/live.aac"
+    },
+    {
+        "name": "Demon FM",
+        "city": "Leicester",
+        "country": "United Kingdom",
+        "url": "https://uksoutha.streaming.broadcast.radio/demontfort"
+    },
+    {
+        "name": "Islam Media Central",
+        "city": "Leicester",
+        "country": "United Kingdom",
+        "url": "https://a4.asurahosting.com:7820/radio.mp3"
+    },
+    {
+        "name": "Eava FM",
+        "city": "Leicester",
+        "country": "United Kingdom",
+        "url": "https://radio.canstream.co.uk:8000/eavafm.mp3"
+    },
+    {
+        "name": "Merseyside Dementia Friendly Radio",
+        "city": "Liverpool",
+        "country": "United Kingdom",
+        "url": "https://s2.radio.co/s9e2b0d28b/listen"
+    },
+    {
+        "name": "Radio Seerah AM 1575",
+        "city": "Leicester",
+        "country": "United Kingdom",
+        "url": "https://icecast.maxxwave.co.uk/radioseerah"
+    },
+    {
+        "name": "Radio Utsav",
+        "city": "Leicester",
+        "country": "United Kingdom",
+        "url": "https://icecast.maxxwave.co.uk/utsav"
+    },
+    {
+        "name": "Chester’s Dee Radio FM 106.3",
+        "city": "Liverpool",
+        "country": "United Kingdom",
+        "url": "https://edge-ads-03-gos2.sharp-stream.com/tcdee.mp3"
+    },
+    {
+        "name": "Capital FM Leicestershire",
+        "city": "Leicester",
+        "country": "United Kingdom",
+        "url": "https://media-ice.musicradio.com/CapitalLeicestershireMP3?.mp3"
+    },
+    {
+        "name": "Love 80s Liverpool",
+        "city": "Liverpool",
+        "country": "United Kingdom",
+        "url": "https://n09.rcs.revma.com/f498pgutna3vv?rj-ttl=5&rj-tok=AAABm_ntpE0AaFW03FY-kWFEOg"
+    },
+    {
+        "name": "Sanskar Radio",
+        "city": "Leicester",
+        "country": "United Kingdom",
+        "url": "https://radio.canstream.co.uk:8024/live.mp3"
+    },
+    {
+        "name": "Sabras Radio",
+        "city": "Leicester",
+        "country": "United Kingdom",
+        "url": "https://radio.canstream.co.uk:8025/live.mp3?.mp3/;"
+    },
+    {
+        "name": "Beware! The Radio",
+        "city": "Liverpool",
+        "country": "United Kingdom",
+        "url": "https://bewaretheradio.out.airtime.pro/bewaretheradio_a"
+    },
+    {
+        "name": "Fosse 107 Hinckley",
+        "city": "Leicester",
+        "country": "United Kingdom",
+        "url": "https://icecast.maxxwave.co.uk/fossehinckleyhq"
+    },
+    {
+        "name": "Radio Lime Malayalam",
+        "city": "Liverpool",
+        "country": "United Kingdom",
+        "url": "https://s5.radio.co/s6e27496ef/listen"
+    },
+    {
+        "name": "Leicester Community Radio AM 1449",
+        "city": "Leicester",
+        "country": "United Kingdom",
+        "url": "https://global2.citrus3.com:2020/stream/leicestercommunityradio"
+    },
+    {
+        "name": "Wirral Wave",
+        "city": "Liverpool",
+        "country": "United Kingdom",
+        "url": "https://wirralwave.out.airtime.pro/wirralwave_a"
+    },
+    {
+        "name": "Get Ready to ROCK! Radio",
+        "city": "Liverpool",
+        "country": "United Kingdom",
+        "url": "https://streamer.radio.co/s24ae1285c/listen"
+    },
+    {
+        "name": "LamRim Tibetan Buddhist Internet Radio",
+        "city": "Bristol",
+        "country": "United Kingdom",
+        "url": "http://199.180.72.2:9097/lamrim"
+    },
+    {
+        "name": "Usmani Mosque",
+        "city": "Leicester",
+        "country": "United Kingdom",
+        "url": "https://stream-177.zeno.fm/7fkp9rqvgm8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI3ZmtwOXJxdmdtOHV2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoidWxWVUQtZ2dRb1c4akNpWVFHRUJCdyIsImlhdCI6MTc2OTQyNDA2MSwiZXhwIjoxNzY5NDI0MTIxfQ.E6wMSjmSzmW25q3DvQHtQf64tXGmFzVAz5xfcvivv0U"
+    },
+    {
+        "name": "Smooth Radio Bristol & Bath",
+        "city": "Bristol",
+        "country": "United Kingdom",
+        "url": "https://media-the.musicradio.com/SmoothBristolMP3"
+    },
+    {
+        "name": "Heart FM 96.3",
+        "city": "Bristol",
+        "country": "United Kingdom",
+        "url": "https://media-ice.musicradio.com/HeartBristolMP3?.mp3"
+    },
+    {
+        "name": "Crystal Love Radio",
+        "city": "Bristol",
+        "country": "United Kingdom",
+        "url": "https://betelgeuse.nucast.co.uk/stream/crystalloveradio"
+    },
+    {
+        "name": "Radio2Funky 95.0 FM",
+        "city": "Leicester",
+        "country": "United Kingdom",
+        "url": "https://s6.citrus3.com:8006/stream"
+    },
+    {
+        "name": "WIDE Radio",
+        "city": "Bristol",
+        "country": "United Kingdom",
+        "url": "http://n0a.radiojar.com/65s5r7weh24tv.mp3?rj-ttl=5&rj-tok=AAABm_ntthwAwoh8w3ThGG10lg"
+    },
+    {
+        "name": "Ujima FM 98.0",
+        "city": "Bristol",
+        "country": "United Kingdom",
+        "url": "https://radio.canstream.co.uk:8037/live.mp3"
+    },
+    {
+        "name": "Noods Radio",
+        "city": "Bristol",
+        "country": "United Kingdom",
+        "url": "https://noods-radio.radiocult.fm/stream"
+    },
+    {
+        "name": "BCfm 93.2",
+        "city": "Bristol",
+        "country": "United Kingdom",
+        "url": "https://bcfmradiomain.radioca.st/live.mp3"
+    },
+    {
+        "name": "GWS Radio",
+        "city": "Bristol",
+        "country": "United Kingdom",
+        "url": "https://stream2.hippynet.co.uk/stream/glastonburyfm/stream"
+    },
+    {
+        "name": "SWU FM",
+        "city": "Bristol",
+        "country": "United Kingdom",
+        "url": "https://admin.stream.rinse.fm/proxy/swu/stream"
+    },
+    {
+        "name": "Ramadan FM 87.7",
+        "city": "Leicester",
+        "country": "United Kingdom",
+        "url": "https://streams.radio.co/s184506ded/listen"
+    },
+    {
+        "name": "1940s Radio",
+        "city": "Bristol",
+        "country": "United Kingdom",
+        "url": "https://uk3.internet-radio.com/proxy/1940sradio/stream"
+    },
+    {
+        "name": "Erewash Sound",
+        "city": "Leicester",
+        "country": "United Kingdom",
+        "url": "https://stream01.erewashsound.com/erewashaac"
+    },
+    {
+        "name": "Signature Radio UK",
+        "city": "Bristol",
+        "country": "United Kingdom",
+        "url": "https://centova87.shoutcastservices.com/proxy/reid/stream"
+    },
+    {
+        "name": "Blast 106",
+        "city": "Belfast",
+        "country": "United Kingdom",
+        "url": "http://154.61.32.45:8000/blast"
+    },
+    {
+        "name": "Radish Radio",
+        "city": "Bristol",
+        "country": "United Kingdom",
+        "url": "https://s2.radio.co/s17144ec15/listen"
+    },
+    {
+        "name": "Pigpen Radio",
+        "city": "Bristol",
+        "country": "United Kingdom",
+        "url": "https://azuracast.spollin.net:8000/radio.mp3"
+    },
+    {
+        "name": "Belfast 89FM",
+        "city": "Belfast",
+        "country": "United Kingdom",
+        "url": "http://mp3streaming.planetwideradio.com:9030/belfastfm"
+    },
+    {
+        "name": "Digital Hits One 100.5 FM",
+        "city": "Bristol",
+        "country": "United Kingdom",
+        "url": "https://dh1-sanityradio.radioca.st/stream"
+    },
+    {
+        "name": "Slice Audio",
+        "city": "Belfast",
+        "country": "United Kingdom",
+        "url": "https://sliceaudio.radioca.st/listen.html"
+    },
+    {
+        "name": "Frome FM 96.6",
+        "city": "Bristol",
+        "country": "United Kingdom",
+        "url": "https://icecast2.bargus.co.uk:8001/fromefm.mp3"
+    },
+    {
+        "name": "Pop Radio UK",
+        "city": "Bristol",
+        "country": "United Kingdom",
+        "url": "https://popradiouk.out.airtime.pro/popradiouk_b"
+    },
+    {
+        "name": "FM 105 Down Community Radio",
+        "city": "Belfast",
+        "country": "United Kingdom",
+        "url": "https://radio.canstream.co.uk:8051/live.mp3"
+    },
+    {
+        "name": "Raidió Fáilte FM 107.1",
+        "city": "Belfast",
+        "country": "United Kingdom",
+        "url": "https://radio.canstream.co.uk:9072/live.mp3"
+    },
+    {
+        "name": "Fuse FM 107.5",
+        "city": "Belfast",
+        "country": "United Kingdom",
+        "url": "https://fusefm.radioca.st/stream"
+    },
+    {
+        "name": "Radio Nova International",
+        "city": "Belfast",
+        "country": "United Kingdom",
+        "url": "https://novainternational.out.airtime.pro/novainternational_a"
+    },
+    {
+        "name": "Eirewave",
+        "city": "Belfast",
+        "country": "United Kingdom",
+        "url": "https://n16.rcs.revma.com/ng2u4zvag5uvv?rj-ttl=5&rj-tok=AAABm_ntwP0A6uy4FJuipebEpg"
+    },
+    {
+        "name": "Energy 106",
+        "city": "Belfast",
+        "country": "United Kingdom",
+        "url": "https://stream1.hippynet.co.uk:8189/MainStream"
+    },
+    {
+        "name": "U105 FM",
+        "city": "Belfast",
+        "country": "United Kingdom",
+        "url": "https://onic.belfast.live.stream.broadcasting.news/stream-u105"
+    },
+    {
+        "name": "Q Radio Belfast",
+        "city": "Belfast",
+        "country": "United Kingdom",
+        "url": "https://edge-audio-02-gos1.sharp-stream.com/qr967.mp3?device=rpweb"
+    },
+    {
+        "name": "Numero Uno Radio",
+        "city": "Belfast",
+        "country": "United Kingdom",
+        "url": "https://streaming.radio.co/s52a64c189/listen"
+    },
+    {
+        "name": "Soul Legends Radio",
+        "city": "Belfast",
+        "country": "United Kingdom",
+        "url": "https://streamer.radio.co/s60f3e59d1/listen"
+    },
+    {
+        "name": "Cando FM 106.3",
+        "city": "Blackpool",
+        "country": "United Kingdom",
+        "url": "http://streaming04.liveboxstream.uk:8128/stream"
+    },
+    {
+        "name": "BFBS Northern Ireland",
+        "city": "Belfast",
+        "country": "United Kingdom",
+        "url": "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs4.mp3?platform=radiogarden"
+    },
+    {
+        "name": "Central Radio",
+        "city": "Blackpool",
+        "country": "United Kingdom",
+        "url": "https://stream.central.radio/listen/web/high"
+    },
+    {
+        "name": "Q Radio FM 100.5",
+        "city": "Belfast",
+        "country": "United Kingdom",
+        "url": "https://direct-qradio.sharp-stream.com/qr1005.mp3"
+    },
+    {
+        "name": "Beyond Radio",
+        "city": "Blackpool",
+        "country": "United Kingdom",
+        "url": "https://stream.beyondradio.co.uk/radio/8000/high"
+    },
+    {
+        "name": "Juice Belfast",
+        "city": "Belfast",
+        "country": "United Kingdom",
+        "url": "https://n09.rcs.revma.com/yb1ut1uvz42vv?rj-ttl=5&rj-tok=AAABm_nty-gANarorIiUuWzfkw"
+    },
+    {
+        "name": "Dance FM Live Mix",
+        "city": "Blackpool",
+        "country": "United Kingdom",
+        "url": "https://broadcast.dancefmlive.com/radio/8050/radio.mp3"
+    },
+    {
+        "name": "Shout Radio",
+        "city": "Blackpool",
+        "country": "United Kingdom",
+        "url": "https://stream-shoutradio.creativedork.com/"
+    },
+    {
+        "name": "1BTN FM 101.4",
+        "city": "Brighton and Hove",
+        "country": "United Kingdom",
+        "url": "http://edge.clrmedia.co.uk:10000/obfm_mp3"
+    },
+    {
+        "name": "Radio-M1",
+        "city": "Leicester",
+        "country": "United Kingdom",
+        "url": "https://m1.stream.laut.fm/m1?t302=2026-01-26_10-41-04&uuid=a248f122-3c61-4d0f-918e-c5d673a6e7aa"
+    },
+    {
+        "name": "Radio Leyland 104.8 FM",
+        "city": "Blackpool",
+        "country": "United Kingdom",
+        "url": "https://streaming06.liveboxstream.uk/proxy/leyland2?mp=/stream"
+    },
+    {
+        "name": "Heart 102.4 Sussex",
+        "city": "Brighton and Hove",
+        "country": "United Kingdom",
+        "url": "https://media-ice.musicradio.com/HeartSussexMP3?.mp3"
+    },
+    {
+        "name": "Code South FM",
+        "city": "Brighton and Hove",
+        "country": "United Kingdom",
+        "url": "https://edge.clrmedia.co.uk/cdsthbtnsecure"
+    },
+    {
+        "name": "Capital FM 107.2",
+        "city": "Brighton and Hove",
+        "country": "United Kingdom",
+        "url": "https://ice-the.musicradio.com/CapitalBrighton"
+    },
+    {
+        "name": "Radio EyeSee",
+        "city": "Brighton and Hove",
+        "country": "United Kingdom",
+        "url": "https://icecast.bkwsu.eu/radio-eyesee.mp3"
+    },
+    {
+        "name": "Gaydio Brighton",
+        "city": "Brighton and Hove",
+        "country": "United Kingdom",
+        "url": "http://stream.gaydio.co.uk/gaydiosc.mp3"
+    },
+    {
+        "name": "Blackpool Community Radio",
+        "city": "Blackpool",
+        "country": "United Kingdom",
+        "url": "https://s10.citrus3.com:8596/stream"
+    },
+    {
+        "name": "Heart (Sussex & Surrey)",
+        "city": "Brighton and Hove",
+        "country": "United Kingdom",
+        "url": "https://media-sov.musicradio.com/HeartCrawleyMP3"
+    },
+    {
+        "name": "Premier Gold Radio",
+        "city": "Blackpool",
+        "country": "United Kingdom",
+        "url": "https://s8.citrus3.com:8412/stream"
+    },
+    {
+        "name": "BCB Radio FM 106.6",
+        "city": "Bradford",
+        "country": "United Kingdom",
+        "url": "https://stream2.bcbradio.co.uk:8443/live128k.mp3"
+    },
+    {
+        "name": "More Radio FM 106.4",
+        "city": "Brighton and Hove",
+        "country": "United Kingdom",
+        "url": "https://s2.xrad.io:9594/listen.mp3"
+    },
+    {
+        "name": "Radio Reverb FM 92.7",
+        "city": "Brighton and Hove",
+        "country": "United Kingdom",
+        "url": "https://edge-audio-03-gos2.sharp-stream.com/radioreverb.mp3"
+    },
+    {
+        "name": "BITR Breakfast in the Ruins",
+        "city": "Bradford",
+        "country": "United Kingdom",
+        "url": "https://fra-pioneer08.dedicateware.com:1435/stream"
+    },
+    {
+        "name": "Platform B 105.5 FM",
+        "city": "Brighton and Hove",
+        "country": "United Kingdom",
+        "url": "https://edge-audio-08-thn.sharp-stream.com/platformb.mp3"
+    },
+    {
+        "name": "West Coast Radio Blackpool",
+        "city": "Blackpool",
+        "country": "United Kingdom",
+        "url": "https://s9.citrus3.com:8170/stream"
+    },
+    {
+        "name": "Slack City DAB+",
+        "city": "Brighton and Hove",
+        "country": "United Kingdom",
+        "url": "https://edge-audio-02-thn.sharp-stream.com/slackcity.mp3"
+    },
+    {
+        "name": "Bradford Asian Radio AM 1413",
+        "city": "Bradford",
+        "country": "United Kingdom",
+        "url": "https://cast1.asurahosting.com/proxy/bradford/stream"
+    },
+    {
+        "name": "Mid Downs Hospital Radio 1350 AM",
+        "city": "Brighton and Hove",
+        "country": "United Kingdom",
+        "url": "https://edge-audio-03-gos2.sharp-stream.com/mdr.mp3"
+    },
+    {
+        "name": "Pennine 235",
+        "city": "Bradford",
+        "country": "United Kingdom",
+        "url": "https://mars.streamerr.co/8010/stream"
+    },
+    {
+        "name": "Sunrise Radio",
+        "city": "Bradford",
+        "country": "United Kingdom",
+        "url": "https://stream1.themediasite.co.uk/8070/stream"
+    },
+    {
+        "name": "LABR - Love A Brother Radio",
+        "city": "Bradford",
+        "country": "United Kingdom",
+        "url": "https://solid2.streamupsolutions.com/proxy/mqxncdsf?mp=/stream"
+    },
+    {
+        "name": "Al Mubarak Radio",
+        "city": "Bradford",
+        "country": "United Kingdom",
+        "url": "https://relay.emasjidlive.uk/almubarakradio"
+    },
+    {
+        "name": "Drystone Radio FM 103.5",
+        "city": "Bradford",
+        "country": "United Kingdom",
+        "url": "https://uksoutha.streaming.broadcast.radio/drystoneradio"
+    },
+    {
+        "name": "Tracks of Our Lives Radio",
+        "city": "Brighton and Hove",
+        "country": "United Kingdom",
+        "url": "https://s2.citrus3.com:8424/stream"
+    },
+    {
+        "name": "Grampian Hospital Radio",
+        "city": "Aberdeen",
+        "country": "United Kingdom",
+        "url": "https://uksoutha.streaming.broadcast.radio/ghr"
+    },
+    {
+        "name": "Phoenix Radio 96.7FM",
+        "city": "Bradford",
+        "country": "United Kingdom",
+        "url": "https://live.canstream.co.uk/phoenix.mp3"
+    },
+    {
+        "name": "Meridian FM",
+        "city": "Brighton and Hove",
+        "country": "United Kingdom",
+        "url": "https://streaming.broadcastradio.com:11995/meridianfm"
+    },
+    {
+        "name": "Radio North Angus",
+        "city": "Aberdeen",
+        "country": "United Kingdom",
+        "url": "http://uk3-vn.mixstream.net:8192/stream"
+    },
+    {
+        "name": "Recycle Radio",
+        "city": "Bradford",
+        "country": "United Kingdom",
+        "url": "https://ice.recycleradio.co.uk:8443/rradio.mp3"
+    },
+    {
+        "name": "bigbeatbrighton DAB",
+        "city": "Brighton and Hove",
+        "country": "United Kingdom",
+        "url": "https://s4.citrus3.com:8366/stream"
+    },
+    {
+        "name": "Pure Beat Radio",
+        "city": "Aberdeen",
+        "country": "United Kingdom",
+        "url": "https://cast6.asurahosting.com/proxy/purebeat/stream"
+    },
+    {
+        "name": "Capital FM North East England",
+        "city": "Newcastle upon Tyne",
+        "country": "United Kingdom",
+        "url": "https://media-sov.musicradio.com/CapitalTyneWearMP3"
+    },
+    {
+        "name": "Shmu FM 99.8",
+        "city": "Aberdeen",
+        "country": "United Kingdom",
+        "url": "https://stream.shmu.org.uk/shmufm_high.mp3"
+    },
+    {
+        "name": "Deveron FM 107.4",
+        "city": "Aberdeen",
+        "country": "United Kingdom",
+        "url": "https://streaming05.liveboxstream.uk/proxy/wpsitema?mp=/stream"
+    },
+    {
+        "name": "KCR 107.7 FM (Keith Community Radio)",
+        "city": "Aberdeen",
+        "country": "United Kingdom",
+        "url": "https://radio.canstream.co.uk:8092/live.mp3"
+    },
+    {
+        "name": "Pride Radio FM 89.2",
+        "city": "Newcastle upon Tyne",
+        "country": "United Kingdom",
+        "url": "http://philae.shoutca.st:8807/index.html?sid=1"
+    },
+    {
+        "name": "Heart Tyne & Wear",
+        "city": "Newcastle upon Tyne",
+        "country": "United Kingdom",
+        "url": "https://media-sov.musicradio.com/HeartTyneWear"
+    },
+    {
+        "name": "Radio Insight",
+        "city": "Newcastle upon Tyne",
+        "country": "United Kingdom",
+        "url": "http://n13.radiojar.com/u77fa6dgtqzuv?rj-ttl=5&rj-tok=AAABm_nt7pMADHM2WOJw1dlywg"
+    },
+    {
+        "name": "Original 106 Chart",
+        "city": "Aberdeen",
+        "country": "United Kingdom",
+        "url": "https://listen-original.sharp-stream.com/originalchart.mp3"
+    },
+    {
+        "name": "Radio Apni Awaz",
+        "city": "Bradford",
+        "country": "United Kingdom",
+        "url": "https://cupcake.citrus3.com:8274/stream"
+    },
+    {
+        "name": "Original 106 Country",
+        "city": "Aberdeen",
+        "country": "United Kingdom",
+        "url": "https://listen-original.sharp-stream.com/originalcountry.mp3"
+    },
+    {
+        "name": "Koast Radio 106.6 FM",
+        "city": "Newcastle upon Tyne",
+        "country": "United Kingdom",
+        "url": "https://mediacp.nkpa.co.uk:2020/stream/koast/mobile/"
+    },
+    {
+        "name": "Radio Tyneside",
+        "city": "Newcastle upon Tyne",
+        "country": "United Kingdom",
+        "url": "https://stream.radiotyneside.co.uk/tyneside128.mp3"
+    },
+    {
+        "name": "Spice FM",
+        "city": "Newcastle upon Tyne",
+        "country": "United Kingdom",
+        "url": "https://spice988fm.radioca.st/stream"
+    },
+    {
+        "name": "NOW Radio Dundee",
+        "city": "Aberdeen",
+        "country": "United Kingdom",
+        "url": "https://stream-153.zeno.fm/5loikio8ccytv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI1bG9pa2lvOGNjeXR2IiwiaG9zdCI6InN0cmVhbS0xNTMuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiS1FiQjN3eHdSckN4Q2VBeDlsRXU5ZyIsImlhdCI6MTc2OTQyNDA3NywiZXhwIjoxNzY5NDI0MTM3fQ.dGALzSR_jbsk19IuUp04g-v3QOM_ch7n8all25TDYPY"
+    },
+    {
+        "name": "NOW Radio - Rock",
+        "city": "Aberdeen",
+        "country": "United Kingdom",
+        "url": "https://stream-156.zeno.fm/n5f9gdsx1ehvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJuNWY5Z2RzeDFlaHZ2IiwiaG9zdCI6InN0cmVhbS0xNTYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiV0pXYUxIeTZTZjJXYk92eDZqQ0I0USIsImlhdCI6MTc2OTQyNDA3NywiZXhwIjoxNzY5NDI0MTM3fQ.X1mOVRMMp5lExu6PGuOhpHJGFDTkwk9aVLPMn5KsAu8"
+    },
+    {
+        "name": "Milton Keynes Hospital Radio",
+        "city": "Milton Keynes",
+        "country": "United Kingdom",
+        "url": "http://uk3.internet-radio.com:8347/stream"
+    },
+    {
+        "name": "VANDUP Radio",
+        "city": "Newcastle upon Tyne",
+        "country": "United Kingdom",
+        "url": "https://mars.streamerr.co/8940/stream"
+    },
+    {
+        "name": "Heart (Milton Keynes)",
+        "city": "Milton Keynes",
+        "country": "United Kingdom",
+        "url": "https://media-sov.musicradio.com/HeartMiltonKeynesMP3"
+    },
+    {
+        "name": "Durham OnAir",
+        "city": "Newcastle upon Tyne",
+        "country": "United Kingdom",
+        "url": "https://stream3.themediasite.co.uk:8016/durham"
+    },
+    {
+        "name": "Greatest Hits Non-Stop",
+        "city": "Aberdeen",
+        "country": "United Kingdom",
+        "url": "https://strw3.openstream.co/422?aw_0_1st.collectionid%3D7465%26stationId%3D7465%26publisherId%3D242%26k%3D1769424076"
+    },
+    {
+        "name": "Horizon Radio",
+        "city": "Milton Keynes",
+        "country": "United Kingdom",
+        "url": "https://streaming.soniic.co.uk:8020/stream_hi"
+    },
+    {
+        "name": "Hospital Radio Bedford",
+        "city": "Milton Keynes",
+        "country": "United Kingdom",
+        "url": "http://kepler.shoutca.st:8295/hrb"
+    },
+    {
+        "name": "Dance Revolution",
+        "city": "Newcastle upon Tyne",
+        "country": "United Kingdom",
+        "url": "https://s5.radio.co/s89dcf578d/listen"
+    },
+    {
+        "name": "Heart 97.1 Suffolk",
+        "city": "Ipswich",
+        "country": "United Kingdom",
+        "url": "https://media-ice.musicradio.com/HeartSuffolkMP3?.mp3"
+    },
+    {
+        "name": "Red Kite Radio FM 107.2",
+        "city": "Milton Keynes",
+        "country": "United Kingdom",
+        "url": "https://solid2.streamupsolutions.com/proxy/enkodckd?mp=/stream&__cb=387870307968483&___cb=178599862485290"
+    },
+    {
+        "name": "MKFM 106.3",
+        "city": "Milton Keynes",
+        "country": "United Kingdom",
+        "url": "https://mkfmradioplayer2.radioca.st/;stream.nsv"
+    },
+    {
+        "name": "Veterans Radio Net",
+        "city": "Milton Keynes",
+        "country": "United Kingdom",
+        "url": "https://radio.supremestreaming.net:7001/index.html?sid=1"
+    },
+    {
+        "name": "Smooth Suffolk",
+        "city": "Ipswich",
+        "country": "United Kingdom",
+        "url": "https://media-ssl.musicradio.com/SmoothNorfolk"
+    },
+    {
+        "name": "Shire Sounds Radio",
+        "city": "Milton Keynes",
+        "country": "United Kingdom",
+        "url": "https://solid41.streamupsolutions.com/proxy/svdkgaiq/stream"
+    },
+    {
+        "name": "ROQ Raw Radio",
+        "city": "Milton Keynes",
+        "country": "United Kingdom",
+        "url": "https://mystation.micast.media/radio/8090/radio.mp3"
+    },
+    {
+        "name": "Big L 2 AM1395",
+        "city": "Ipswich",
+        "country": "United Kingdom",
+        "url": "http://stream4.nsupdate.info:8100/bigl2h.mp3"
+    },
+    {
+        "name": "Prince Bishops Hospital Radio",
+        "city": "Newcastle upon Tyne",
+        "country": "United Kingdom",
+        "url": "https://pbhr.radioca.st/stream"
+    },
+    {
+        "name": "Hospital Radio Ipswich",
+        "city": "Ipswich",
+        "country": "United Kingdom",
+        "url": "https://stream1.radiomonitor.com/HRI"
+    },
+    {
+        "name": "Bucks Radio",
+        "city": "Milton Keynes",
+        "country": "United Kingdom",
+        "url": "https://n04.radiojar.com/f6mru9artg0uv?rj-ttl=5&rj-tok=AAABm_nt-LoAM38AsZCgvVBorw"
+    },
+    {
+        "name": "CRMK",
+        "city": "Milton Keynes",
+        "country": "United Kingdom",
+        "url": "https://stream.radio.co/sdfcc41b7a/listen"
+    },
+    {
+        "name": "Heart 97 Exeter",
+        "city": "Exeter",
+        "country": "United Kingdom",
+        "url": "https://media-ice.musicradio.com/HeartEastDevonMP3?.mp3"
+    },
+    {
+        "name": "Actual Radio Colchester",
+        "city": "Ipswich",
+        "country": "United Kingdom",
+        "url": "https://securestreams.autopo.st:1174/stream"
+    },
+    {
+        "name": "South Devon Sound",
+        "city": "Exeter",
+        "country": "United Kingdom",
+        "url": "http://162.244.80.106:11591/stream"
+    },
+    {
+        "name": "Park Radio",
+        "city": "Ipswich",
+        "country": "United Kingdom",
+        "url": "https://s32.myradiostream.com/:18756/listen.mp3"
+    },
+    {
+        "name": "Fresh Gold Radio",
+        "city": "Ipswich",
+        "country": "United Kingdom",
+        "url": "https://freshgol.radioca.st/stream"
+    },
+    {
+        "name": "Heart (South Devon)",
+        "city": "Exeter",
+        "country": "United Kingdom",
+        "url": "https://media-sov.musicradio.com/HeartSouthHamsMP3"
+    },
+    {
+        "name": "Phonic FM",
+        "city": "Exeter",
+        "country": "United Kingdom",
+        "url": "https://stream.cotswoldgrp.com:8009/main"
+    },
+    {
+        "name": "10Radio 105.3 FM",
+        "city": "Exeter",
+        "country": "United Kingdom",
+        "url": "https://radio.canstream.co.uk:8056/live.mp3"
+    },
+    {
+        "name": "BHR (Bridgend Hospital Radio)",
+        "city": "Cowbridge with Llanblethian",
+        "country": "United Kingdom",
+        "url": "http://carol.epichosts.co.uk:8300/live.mp3"
+    },
+    {
+        "name": "Access All Aerials",
+        "city": "Exeter",
+        "country": "United Kingdom",
+        "url": "https://s4.radio.co/sd3c379ad6/listen"
+    },
+    {
+        "name": "Rendlesham Radio",
+        "city": "Ipswich",
+        "country": "United Kingdom",
+        "url": "https://stream.radio.co/s9c5fdd7e4/listen"
+    },
+    {
+        "name": "Radio Sudd",
+        "city": "Cowbridge with Llanblethian",
+        "country": "United Kingdom",
+        "url": "https://radio-sudd.radiocult.fm/stream"
+    },
+    {
+        "name": "XpressionFM",
+        "city": "Exeter",
+        "country": "United Kingdom",
+        "url": "https://streaming.broadcastradio.com:10855/xpression"
+    },
+    {
+        "name": "Radio Exe Devon",
+        "city": "Exeter",
+        "country": "United Kingdom",
+        "url": "https://n11.rcs.revma.com/rkefvzqakm3vv?rj-ttl=5&rj-tok=AAABm_nuBMAAh7qywHP-vgyTZg"
+    },
+    {
+        "name": "Capital FM Yorkshire South & West",
+        "city": "Leeds",
+        "country": "United Kingdom",
+        "url": "https://media-ice.musicradio.com/CapitalYorkshireSouthWestMP3?.mp3"
+    },
+    {
+        "name": "Nation 60s",
+        "city": "Cowbridge with Llanblethian",
+        "country": "United Kingdom",
+        "url": "https://listen-nation.sharp-stream.com/nation60s.mp3"
+    },
+    {
+        "name": "Bridge FM Radio 106.3",
+        "city": "Cowbridge with Llanblethian",
+        "country": "United Kingdom",
+        "url": "https://listen-nation.sharp-stream.com/tcbridge.mp3"
+    },
+    {
+        "name": "Nation Dance",
+        "city": "Cowbridge with Llanblethian",
+        "country": "United Kingdom",
+        "url": "https://listen-nation.sharp-stream.com/clubnation.mp3"
+    },
+    {
+        "name": "Akash Radio 1323 AM",
+        "city": "Leeds",
+        "country": "United Kingdom",
+        "url": "https://c2.radioboss.fm:8276/stream"
+    },
+    {
+        "name": "Nation Love",
+        "city": "Cowbridge with Llanblethian",
+        "country": "United Kingdom",
+        "url": "https://listen-nation.sharp-stream.com/lovenation.mp3"
+    },
+    {
+        "name": "DevonAiR Gold",
+        "city": "Exeter",
+        "country": "United Kingdom",
+        "url": "https://n06.rcs.revma.com/48dmk70k91uvv?rj-ttl=5&rj-tok=AAABm_nuCL0AKM2ecGNkdQ2-ew"
+    },
+    {
+        "name": "Nation Rocks",
+        "city": "Cowbridge with Llanblethian",
+        "country": "United Kingdom",
+        "url": "https://listen-nation.sharp-stream.com/nationrocks.mp3"
+    },
+    {
+        "name": "Real Radio Yorkshire",
+        "city": "Leeds",
+        "country": "United Kingdom",
+        "url": "https://media-ice.musicradio.com/HeartYorkshireMP3?.mp3"
+    },
+    {
+        "name": "Harrogate Hospital Radio",
+        "city": "Leeds",
+        "country": "United Kingdom",
+        "url": "https://uksoutha.streaming.broadcast.radio/harrogatehospitalradio"
+    },
+    {
+        "name": "Swansea Bay Radio FM 102.1",
+        "city": "Cowbridge with Llanblethian",
+        "country": "United Kingdom",
+        "url": "https://listen-nation.sharp-stream.com/tcbay.mp3"
+    },
+    {
+        "name": "DevonAir Radio",
+        "city": "Exeter",
+        "country": "United Kingdom",
+        "url": "https://n06.rcs.revma.com/48dmk70k91uvv?rj-ttl=5&rj-tok=AAABm_nuCtMAPjZsrwnEPz0USg"
+    },
+    {
+        "name": "BRO Radio 98.1 FM",
+        "city": "Cowbridge with Llanblethian",
+        "country": "United Kingdom",
+        "url": "https://streaming.broadcastradio.com:8422/brorad"
+    },
+    {
+        "name": "Radio Big Sky",
+        "city": "Ipswich",
+        "country": "United Kingdom",
+        "url": "https://servidor16.brlogic.com:7036/live"
+    },
+    {
+        "name": "Fever 107.3 FM",
+        "city": "Leeds",
+        "country": "United Kingdom",
+        "url": "https://live.canstream.co.uk/asianfever.mp3?a=b"
+    },
+    {
+        "name": "LDC Radio FM 97.8",
+        "city": "Leeds",
+        "country": "United Kingdom",
+        "url": "https://stream.ldcradio.co.uk/radio/8000/aac2"
+    },
+    {
+        "name": "Mighty Radio Leeds",
+        "city": "Leeds",
+        "country": "United Kingdom",
+        "url": "https://mightyradioleeds.radioca.st/stream"
+    },
+    {
+        "name": "Audio Force Radio",
+        "city": "Leeds",
+        "country": "United Kingdom",
+        "url": "https://global2.citrus3.com:2020/stream/audioforceradio"
+    },
+    {
+        "name": "Radio Sangam 107.9 FM",
+        "city": "Leeds",
+        "country": "United Kingdom",
+        "url": "https://streaming.radio.co/s58948a3f0/listen"
+    }
+]

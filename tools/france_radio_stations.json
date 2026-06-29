@@ -1,0 +1,1568 @@
+[
+    {
+        "name": "Radio Notre-Dame",
+        "city": "Paris",
+        "country": "France",
+        "url": "https://rcf.streamakaci.com/rcfdigital.mp3"
+    },
+    {
+        "name": "Id FM 98.0",
+        "city": "Paris",
+        "country": "France",
+        "url": "http://live.idfm98.fr:8000/idfm2"
+    },
+    {
+        "name": "France Musique - Ocora Monde",
+        "city": "Paris",
+        "country": "France",
+        "url": "https://icecast.radiofrance.fr/francemusiqueocoramonde-midfi.mp3"
+    },
+    {
+        "name": "91 FM",
+        "city": "Paris",
+        "country": "France",
+        "url": "https://radio.webradio91fm.fr/radio/8000/91fmhd.mp3"
+    },
+    {
+        "name": "Vinyle Radio",
+        "city": "Paris",
+        "country": "France",
+        "url": "https://panel.mediacp.fr:8012/stream"
+    },
+    {
+        "name": "Tropiques FM 92.6",
+        "city": "Paris",
+        "country": "France",
+        "url": "https://listen.radioking.com/radio/8916/stream/19088"
+    },
+    {
+        "name": "RMC",
+        "city": "Paris",
+        "country": "France",
+        "url": "https://audio.bfmtv.com/rmcradio_128.mp3"
+    },
+    {
+        "name": "Nihon no OTO",
+        "city": "Paris",
+        "country": "France",
+        "url": "http://stream1.nihon-no-oto.com/nihonogg"
+    },
+    {
+        "name": "Europe 1",
+        "city": "Paris",
+        "country": "France",
+        "url": "https://europe1.lmn.fm/europe1.mp3"
+    },
+    {
+        "name": "France Info 105.7",
+        "city": "Paris",
+        "country": "France",
+        "url": "https://icecast.radiofrance.fr/franceinfo-midfi.mp3"
+    },
+    {
+        "name": "France Inter",
+        "city": "Paris",
+        "country": "France",
+        "url": "https://icecast.radiofrance.fr/franceinter-midfi.mp3"
+    },
+    {
+        "name": "Nostalgie",
+        "city": "Paris",
+        "country": "France",
+        "url": "https://streaming.nrjaudio.fm/oug7girb92oc?origine=radiogarden"
+    },
+    {
+        "name": "Millenium FM Electro DJ Webradio",
+        "city": "Lyon",
+        "country": "France",
+        "url": "https://radio7.pro-fhi.net:19141/milleniumfm.mp3"
+    },
+    {
+        "name": "Radio RCF",
+        "city": "Lyon",
+        "country": "France",
+        "url": "https://rcf.streamakaci.com/rcf69.mp3"
+    },
+    {
+        "name": "Radio Tamtam",
+        "city": "Paris",
+        "country": "France",
+        "url": "https://listen.radioking.com/radio/10736/stream/295960"
+    },
+    {
+        "name": "plusfm",
+        "city": "Paris",
+        "country": "France",
+        "url": "https://radio5.pro-fhi.net/flux-ymwhyfad/1"
+    },
+    {
+        "name": "Skyrock PLM",
+        "city": "Paris",
+        "country": "France",
+        "url": "https://icecast.skyrock.net/s/plm_aac_128k?tvr_name=radiogarden&tvr_section1=64aac"
+    },
+    {
+        "name": "Radio Armenie FM 106.1",
+        "city": "Lyon",
+        "country": "France",
+        "url": "http://direct.radioarmenie.com:9029/stream/"
+    },
+    {
+        "name": "Tiako be",
+        "city": "Lyon",
+        "country": "France",
+        "url": "https://tiakobe.ice.infomaniak.ch/tiakobe-64.aac"
+    },
+    {
+        "name": "Modul FM 98.7",
+        "city": "Lyon",
+        "country": "France",
+        "url": "https://icecast.radiomodul.fr:8443/modul.aac"
+    },
+    {
+        "name": "Project XY",
+        "city": "Lyon",
+        "country": "France",
+        "url": "https://flux.saaslys.com:8000/radio.mp3"
+    },
+    {
+        "name": "FG Chic",
+        "city": "Paris",
+        "country": "France",
+        "url": "https://n01.rcs.revma.com/cgvrymb6p98uv?rj-ttl=5&rj-tok=AAABm_mZeWQAOpRhnDJeUoLxkw"
+    },
+    {
+        "name": "Fréquence Montmerle Ain",
+        "city": "Lyon",
+        "country": "France",
+        "url": "https://listen.radioking.com/radio/61975/stream/194002"
+    },
+    {
+        "name": "TrenTMix Radio",
+        "city": "Lyon",
+        "country": "France",
+        "url": "https://listen.radioking.com/radio/154750/stream/195373"
+    },
+    {
+        "name": "875 Nantes",
+        "city": "Nantes",
+        "country": "France",
+        "url": "https://listen.radioking.com/radio/15130/stream/28217"
+    },
+    {
+        "name": "Radio Judaica Lyon",
+        "city": "Lyon",
+        "country": "France",
+        "url": "https://judaica.ice.infomaniak.ch/judaica-high.mp3"
+    },
+    {
+        "name": "RFI Afrique",
+        "city": "Paris",
+        "country": "France",
+        "url": "https://rfiafrique64k.ice.infomaniak.ch/rfiafrique-64.mp3"
+    },
+    {
+        "name": "Jet FM 91.2",
+        "city": "Nantes",
+        "country": "France",
+        "url": "https://diffusion.lafrap.fr/jetfm.mp3"
+    },
+    {
+        "name": "Radio Naoned",
+        "city": "Nantes",
+        "country": "France",
+        "url": "https://stream.radios.bzh/listen/naoned/radio.mp3"
+    },
+    {
+        "name": "Radio NTI 93.4",
+        "city": "Nantes",
+        "country": "France",
+        "url": "http://streaming.radionti.com/nti-128.mp3?.mp3"
+    },
+    {
+        "name": "SUN Nantes 93.0 DAB+",
+        "city": "Nantes",
+        "country": "France",
+        "url": "https://diffusion.lafrap.fr/sunhd.mp3"
+    },
+    {
+        "name": "PRUN",
+        "city": "Nantes",
+        "country": "France",
+        "url": "https://www.prun.net/stream/"
+    },
+    {
+        "name": "Générations Funk",
+        "city": "Lyon",
+        "country": "France",
+        "url": "https://gene-wr05.ice.infomaniak.ch/gene-wr05.mp3"
+    },
+    {
+        "name": "Jazz Radio Classic Jazz",
+        "city": "Lyon",
+        "country": "France",
+        "url": "https://jazz-wr01.ice.infomaniak.ch/jazz-wr01-128.mp3"
+    },
+    {
+        "name": "Jazz Radio Funk",
+        "city": "Lyon",
+        "country": "France",
+        "url": "https://jazz-wr06.ice.infomaniak.ch/jazz-wr06-128.mp3"
+    },
+    {
+        "name": "Impact FM",
+        "city": "Lyon",
+        "country": "France",
+        "url": "http://impactfm.ice.infomaniak.ch/impactfm-128.mp3"
+    },
+    {
+        "name": "France Bleu Loire Océan",
+        "city": "Nantes",
+        "country": "France",
+        "url": "https://icecast.radiofrance.fr/fbloireocean-midfi.mp3"
+    },
+    {
+        "name": "Allzic Radio Annees 80",
+        "city": "Lyon",
+        "country": "France",
+        "url": "https://allzic08.ice.infomaniak.ch/allzic08.mp3"
+    },
+    {
+        "name": "Jazz Radio",
+        "city": "Lyon",
+        "country": "France",
+        "url": "https://jazzradio.ice.infomaniak.ch/jazzradio-high.mp3"
+    },
+    {
+        "name": "Jazz Radio Blues",
+        "city": "Lyon",
+        "country": "France",
+        "url": "https://jazzblues.ice.infomaniak.ch/jazzblues-high.aac"
+    },
+    {
+        "name": "AlterNantes",
+        "city": "Nantes",
+        "country": "France",
+        "url": "https://diffusion.lafrap.fr/alternantes.mp3?.mp3"
+    },
+    {
+        "name": "Tonic Radio 95.1 FM",
+        "city": "Lyon",
+        "country": "France",
+        "url": "https://tonicradiovienne.ice.infomaniak.ch/tonicradiovienne.mp3"
+    },
+    {
+        "name": "Graffiti Radio FM 88.6",
+        "city": "Nantes",
+        "country": "France",
+        "url": "https://diffusion.lafrap.fr/graffiti.mp3"
+    },
+    {
+        "name": "GayRadio",
+        "city": "Nantes",
+        "country": "France",
+        "url": "https://srv.webradiomanager.fr:1280/stream"
+    },
+    {
+        "name": "Clazz Radio",
+        "city": "Nantes",
+        "country": "France",
+        "url": "https://n11.rcs.revma.com/xsycwftnfm3vv?rj-ttl=5&rj-tok=AAABm_mZi7EAjvey4ZF2QlnVlA"
+    },
+    {
+        "name": "Radio Fatx",
+        "city": "Toulouse",
+        "country": "France",
+        "url": "https://radio.fatx.fr/radio_fatx"
+    },
+    {
+        "name": "Radio Kol Aviv",
+        "city": "Toulouse",
+        "country": "France",
+        "url": "http://europa.shoutca.st:8478/kolaviv"
+    },
+    {
+        "name": "Radio FMR Toulouse",
+        "city": "Toulouse",
+        "country": "France",
+        "url": "https://smeuh.org:8443/radio-fmr.mp3"
+    },
+    {
+        "name": "RCA La Radio",
+        "city": "Nantes",
+        "country": "France",
+        "url": "https://rcanantes.ice.infomaniak.ch/rcanantes-192.mp3"
+    },
+    {
+        "name": "Hit West Nantes",
+        "city": "Nantes",
+        "country": "France",
+        "url": "https://n03.rcs.revma.com/5n0e0dhnfm3vv?rj-ttl=5&rj-tok=AAABm_mZjx8AYeizR_r4cMmNfg"
+    },
+    {
+        "name": "Radio Présence",
+        "city": "Toulouse",
+        "country": "France",
+        "url": "https://direct.radiopresence.com/radio-presence"
+    },
+    {
+        "name": "Radio Atlantis 107 FM",
+        "city": "Nantes",
+        "country": "France",
+        "url": "https://radio8.pro-fhi.net:19005/atlantis320"
+    },
+    {
+        "name": "Metal Invasion Radio",
+        "city": "Toulouse",
+        "country": "France",
+        "url": "https://radio.metal-invasion.fr/radio/8000/stream96"
+    },
+    {
+        "name": "Campus FM 94",
+        "city": "Toulouse",
+        "country": "France",
+        "url": "http://live.radio-campus.org:8000/toulouse"
+    },
+    {
+        "name": "La Radio Des Locaux",
+        "city": "Nantes",
+        "country": "France",
+        "url": "https://listen.radioking.com/radio/385231/stream/437443"
+    },
+    {
+        "name": "Djam Radio",
+        "city": "Toulouse",
+        "country": "France",
+        "url": "https://stream9.xdevel.com/audio1s976748-1515/stream/icecast.audio"
+    },
+    {
+        "name": "\u0016Le Bon Mix Radio",
+        "city": "Toulouse",
+        "country": "France",
+        "url": "https://stream9.xdevel.com/audio0s976748-1514/stream/icecast.audio"
+    },
+    {
+        "name": "GrandSud Latina",
+        "city": "Toulouse",
+        "country": "France",
+        "url": "https://strw1.openstream.co/1183"
+    },
+    {
+        "name": "Radio Kafeine",
+        "city": "Toulouse",
+        "country": "France",
+        "url": "https://listen.radioking.com/radio/262753/stream/307888"
+    },
+    {
+        "name": "Oxygène FM 94.2",
+        "city": "Toulouse",
+        "country": "France",
+        "url": "http://stream.radios-arra.fr:8000/oxygenefm"
+    },
+    {
+        "name": "Top FM Variety",
+        "city": "Nantes",
+        "country": "France",
+        "url": "https://str3.openstream.co/2134?aw_0_1st.collectionid%3D6048%26stationId%3D6048%26publisherId%3D2158%26k%3D1769418549"
+    },
+    {
+        "name": "CFM Radio",
+        "city": "Toulouse",
+        "country": "France",
+        "url": "https://cdnradio.streamakaci.com/cfmradio.mp3"
+    },
+    {
+        "name": "Radio Octopus",
+        "city": "Toulouse",
+        "country": "France",
+        "url": "http://media.radio-octopus.org:8000/192.mp3"
+    },
+    {
+        "name": "RCF Hauts-de-France 97.1 FM",
+        "city": "Lille",
+        "country": "France",
+        "url": "https://rcf.streamakaci.com/rcf59.mp3"
+    },
+    {
+        "name": "Univers Radio",
+        "city": "Lille",
+        "country": "France",
+        "url": "http://51.210.110.91:8000/universradio.mp3"
+    },
+    {
+        "name": "Paradise Radio",
+        "city": "Toulouse",
+        "country": "France",
+        "url": "https://listen.radioking.com/radio/441527/stream/495803"
+    },
+    {
+        "name": "Toulouse FM 92.6",
+        "city": "Toulouse",
+        "country": "France",
+        "url": "https://n02.rcs.revma.com/1x41712gy7uvv?rj-ttl=5&rj-tok=AAABm_mZmVQAggvAEBZHXu-AQQ"
+    },
+    {
+        "name": "Métropole FM",
+        "city": "Lille",
+        "country": "France",
+        "url": "https://flux.metropolefm.fr/stream.aac"
+    },
+    {
+        "name": "RPL Radio",
+        "city": "Lille",
+        "country": "France",
+        "url": "https://listen.radioking.com/radio/2966/stream/9128"
+    },
+    {
+        "name": "Radio de la Save FM 102.8",
+        "city": "Toulouse",
+        "country": "France",
+        "url": "https://sd-151888.dedibox.fr/proxy/radiodelasave/rdls"
+    },
+    {
+        "name": "Radio Alize",
+        "city": "Nantes",
+        "country": "France",
+        "url": "https://radioalize.ice.infomaniak.ch/radioalize-128.mp3"
+    },
+    {
+        "name": "Radio Fil de l'Eau 106.6 FM",
+        "city": "Toulouse",
+        "country": "France",
+        "url": "https://hosting.radiomedia.fr:2495/stream"
+    },
+    {
+        "name": "R.L.M. 107.9 FM",
+        "city": "Lille",
+        "country": "France",
+        "url": "http://philae.shoutca.st:8278/stream"
+    },
+    {
+        "name": "Skyrock FM",
+        "city": "Lille",
+        "country": "France",
+        "url": "https://icecast.skyrock.net/s/lille_aac_128k"
+    },
+    {
+        "name": "Roots Legacy Radio",
+        "city": "Lille",
+        "country": "France",
+        "url": "https://lq.rootslegacy.fr/index.html?sid=1"
+    },
+    {
+        "name": "Soov Radio",
+        "city": "Lille",
+        "country": "France",
+        "url": "https://listen.radioking.com/radio/696383/stream/761276"
+    },
+    {
+        "name": "Libellule FM 107.8",
+        "city": "Lille",
+        "country": "France",
+        "url": "https://manager5.streamradio.fr:1665/stream"
+    },
+    {
+        "name": "France Bleu Nord FM 94.7",
+        "city": "Lille",
+        "country": "France",
+        "url": "https://icecast.radiofrance.fr/fbnord-lofi.mp3"
+    },
+    {
+        "name": "radio Nunc",
+        "city": "Marseille",
+        "country": "France",
+        "url": "https://diffusion.radionunc.org:8443/stream"
+    },
+    {
+        "name": "Metropolys 97.6 FM",
+        "city": "Lille",
+        "country": "France",
+        "url": "https://n08.rcs.revma.com/rvwymh32w42vv?rj-ttl=5&rj-tok=AAABm_mZpNMAF4mUnmqNZlN_gw"
+    },
+    {
+        "name": "Maxi France",
+        "city": "Marseille",
+        "country": "France",
+        "url": "https://stream.maxifrance.radio/stream"
+    },
+    {
+        "name": "RCM 13",
+        "city": "Marseille",
+        "country": "France",
+        "url": "https://stream.vestaradio.com/RCM13"
+    },
+    {
+        "name": "Radio Grenouille FM 88.8",
+        "city": "Marseille",
+        "country": "France",
+        "url": "https://live.radiogrenouille.com:8443/live"
+    },
+    {
+        "name": "Radio Campus Lille 106.6 FM",
+        "city": "Lille",
+        "country": "France",
+        "url": "https://radiocampuslille.ice.infomaniak.ch/radiocampuslille-128.mp3"
+    },
+    {
+        "name": "Mona FM",
+        "city": "Lille",
+        "country": "France",
+        "url": "https://monafm.ice.infomaniak.ch/monafm-high.mp3"
+    },
+    {
+        "name": "Contact FM",
+        "city": "Lille",
+        "country": "France",
+        "url": "https://n10.rcs.revma.com/6gygqc1gy7uvv?rj-ttl=5&rj-tok=AAABm_mZp6cAW3PmoTsxJ7NzmA"
+    },
+    {
+        "name": "Soul Radio Classics",
+        "city": "Marseille",
+        "country": "France",
+        "url": "https://listen.soulradio.eu/eu"
+    },
+    {
+        "name": "Radio Galère",
+        "city": "Marseille",
+        "country": "France",
+        "url": "http://www.radiogalere.org:8080/galere.mp3"
+    },
+    {
+        "name": "Skyrock Marseille/Aix",
+        "city": "Marseille",
+        "country": "France",
+        "url": "https://icecast.skyrock.net/s/marseille_aac_96k"
+    },
+    {
+        "name": "France Bleu Provence FM 103.6",
+        "city": "Marseille",
+        "country": "France",
+        "url": "https://icecast.radiofrance.fr/fbprovence-midfi.mp3"
+    },
+    {
+        "name": "Pastel FM 99.4",
+        "city": "Lille",
+        "country": "France",
+        "url": "https://str3.openstream.co/215?aw_0_1st.collectionid%3D2986%26stationId%3D2986%26publisherId%3D36%26k%3D1769418555"
+    },
+    {
+        "name": "Radio Star",
+        "city": "Marseille",
+        "country": "France",
+        "url": "https://n09.rcs.revma.com/b4yrpwdu7ucwv?rj-ttl=5&rj-tok=AAABm_mZrHMAGr5df3EzEtyakQ"
+    },
+    {
+        "name": "Radio Service",
+        "city": "Marseille",
+        "country": "France",
+        "url": "https://stream.radioserviceweb.fr/radioservice.mp3"
+    },
+    {
+        "name": "Reillann'air",
+        "city": "Marseille",
+        "country": "France",
+        "url": "https://libretimeprod.reillannair.com:8443/reillannair"
+    },
+    {
+        "name": "France Bleu Elsass AM 1278",
+        "city": "Strasbourg",
+        "country": "France",
+        "url": "https://icecast.radiofrance.fr/fbelsass-midfi.mp3"
+    },
+    {
+        "name": "France Bleu Alsace 101.4 FM",
+        "city": "Strasbourg",
+        "country": "France",
+        "url": "https://icecast.radiofrance.fr/fbalsace-midfi.mp3"
+    },
+    {
+        "name": "Radio RBS FM 91.9",
+        "city": "Strasbourg",
+        "country": "France",
+        "url": "https://listen.radioking.com/radio/178981/stream/220666"
+    },
+    {
+        "name": "Tonic Radio Marseille",
+        "city": "Marseille",
+        "country": "France",
+        "url": "https://tonicradiohd.ice.infomaniak.ch/tonicradiohd-128.mp3"
+    },
+    {
+        "name": "Euradio Lille DAB+",
+        "city": "Lille",
+        "country": "France",
+        "url": "https://euradio59.ice.infomaniak.ch/euradio59-192.mp3"
+    },
+    {
+        "name": "FIP Strasbourg FM 92.4",
+        "city": "Strasbourg",
+        "country": "France",
+        "url": "https://icecast.radiofrance.fr/fip-midfi.mp3"
+    },
+    {
+        "name": "Maritima FM 93.6",
+        "city": "Marseille",
+        "country": "France",
+        "url": "https://maritima936.ice.infomaniak.ch/maritima936-128.mp3"
+    },
+    {
+        "name": "Radio Star Toulon",
+        "city": "Marseille",
+        "country": "France",
+        "url": "https://n01.rcs.revma.com/vmnc89du7ucwv?rj-ttl=5&rj-tok=AAABm_mZtrYAzqsa8yLcG2aaSg"
+    },
+    {
+        "name": "Maritima Marseille",
+        "city": "Marseille",
+        "country": "France",
+        "url": "https://maritima1072.ice.infomaniak.ch/maritima1072-128.mp3"
+    },
+    {
+        "name": "Fréquence Verte",
+        "city": "Strasbourg",
+        "country": "France",
+        "url": "https://listen.radioking.com/radio/209212/stream/252133"
+    },
+    {
+        "name": "Fréquence Nautique",
+        "city": "Marseille",
+        "country": "France",
+        "url": "https://str0.creacast.com/frequence_nautique"
+    },
+    {
+        "name": "Azur FM 67",
+        "city": "Strasbourg",
+        "country": "France",
+        "url": "http://live.radioking.fr/azur-fm-68"
+    },
+    {
+        "name": "Accent 4",
+        "city": "Strasbourg",
+        "country": "France",
+        "url": "https://str0.creacast.com/accent4web"
+    },
+    {
+        "name": "Skyrock",
+        "city": "Strasbourg",
+        "country": "France",
+        "url": "https://icecast.skyrock.net/s/natio_mp3_128k?tvr_name=tunein16&tvr_section1=128mp3"
+    },
+    {
+        "name": "Euradio Strasbourg DAB+",
+        "city": "Strasbourg",
+        "country": "France",
+        "url": "https://euradio67.ice.infomaniak.ch/euradio67-192.mp3"
+    },
+    {
+        "name": "Ola Radio",
+        "city": "Bordeaux",
+        "country": "France",
+        "url": "https://ola-radio.radiocult.fm/stream"
+    },
+    {
+        "name": "Amplitudes Radio",
+        "city": "Bordeaux",
+        "country": "France",
+        "url": "https://listen.radioking.com/radio/591304/stream/654688"
+    },
+    {
+        "name": "Riffx Festival",
+        "city": "Strasbourg",
+        "country": "France",
+        "url": "https://stream.myjungly.fr/RIFFX"
+    },
+    {
+        "name": "RCF Bordeaux",
+        "city": "Bordeaux",
+        "country": "France",
+        "url": "https://rcfing.streamakaci.com/rcf33.mp3"
+    },
+    {
+        "name": "Radio en Construction",
+        "city": "Strasbourg",
+        "country": "France",
+        "url": "https://str0.creacast.com/rec"
+    },
+    {
+        "name": "RCB FM 103.5 Radio du Coyroye de la Bruche",
+        "city": "Strasbourg",
+        "country": "France",
+        "url": "https://radio12.pro-fhi.net/radio/9013/stream"
+    },
+    {
+        "name": "Enjoy 33",
+        "city": "Bordeaux",
+        "country": "France",
+        "url": "https://radiotrg.ice.infomaniak.ch/radiotrg-high.mp3"
+    },
+    {
+        "name": "AirZen Radio",
+        "city": "Bordeaux",
+        "country": "France",
+        "url": "https://n10a-eu.rcs.revma.com/vuumdncf368uv?rj-ttl=5&rj-tok=AAABm_mZxIwA2bSiR74pNJi7bw"
+    },
+    {
+        "name": "Radio Arc En Ciel",
+        "city": "Strasbourg",
+        "country": "France",
+        "url": "https://str0.creacast.com/arcencielweb"
+    },
+    {
+        "name": "France Bleu Gironde 100.1 FM",
+        "city": "Bordeaux",
+        "country": "France",
+        "url": "https://icecast.radiofrance.fr/fbgironde-midfi.mp3"
+    },
+    {
+        "name": "Radio Bordo Chato",
+        "city": "Bordeaux",
+        "country": "France",
+        "url": "https://listen.radioking.com/radio/370300/stream/421087"
+    },
+    {
+        "name": "Top Music FM 91.1",
+        "city": "Strasbourg",
+        "country": "France",
+        "url": "https://sc.creacast.com/topmusic_haguenau"
+    },
+    {
+        "name": "Top Music",
+        "city": "Strasbourg",
+        "country": "France",
+        "url": "https://sc.creacast.com/topmusic_saverne"
+    },
+    {
+        "name": "Radio Judaïca Strasbourg",
+        "city": "Strasbourg",
+        "country": "France",
+        "url": "https://radiojudaicastrasbourg.ice.infomaniak.ch/radiojudaicastrasbourg-128.mp3"
+    },
+    {
+        "name": "Radio Campus Bordeaux FM 88.1",
+        "city": "Bordeaux",
+        "country": "France",
+        "url": "http://live.radiocampus.fr:8000/campus-bordeaux"
+    },
+    {
+        "name": "Radio Chant Libre",
+        "city": "Bordeaux",
+        "country": "France",
+        "url": "https://ecmanager2.pro-fhi.net/rcl"
+    },
+    {
+        "name": "Plage FM 89.1",
+        "city": "Bordeaux",
+        "country": "France",
+        "url": "https://stream.plagefm.fr/listen.mp3"
+    },
+    {
+        "name": "Radio Clapas FM 93.5",
+        "city": "Montpellier",
+        "country": "France",
+        "url": "https://stations.radioclapas.fr/radio/8130/radio.mp3"
+    },
+    {
+        "name": "Radio Cadence Musique 99.2 FM",
+        "city": "Bordeaux",
+        "country": "France",
+        "url": "https://radiocadencemusique.ice.infomaniak.ch/radiocadencemusique-128.mp3"
+    },
+    {
+        "name": "Piñata Radio",
+        "city": "Montpellier",
+        "country": "France",
+        "url": "https://listen.radioking.com/radio/96031/stream/134656"
+    },
+    {
+        "name": "Top Music",
+        "city": "Strasbourg",
+        "country": "France",
+        "url": "https://sc.creacast.com/topmusic_strasbourg"
+    },
+    {
+        "name": "RCF Maguelone Hérault 98.5 FM",
+        "city": "Montpellier",
+        "country": "France",
+        "url": "https://rcf.streamakaci.com/rcf34.mp3"
+    },
+    {
+        "name": "Forever Bordeaux",
+        "city": "Bordeaux",
+        "country": "France",
+        "url": "https://n09.rcs.revma.com/x5m14dystk3vv?rj-ttl=5&rj-tok=AAABm_mZz-QAIBLgzwX8Po6rUw"
+    },
+    {
+        "name": "Radio Campus Montpellier 102.2 FM",
+        "city": "Montpellier",
+        "country": "France",
+        "url": "https://stream.radiocampusmontpellier.fr/rcm_direct"
+    },
+    {
+        "name": "Delta FM 88.9",
+        "city": "Montpellier",
+        "country": "France",
+        "url": "http://stream.radios-arra.fr:8000/deltafm"
+    },
+    {
+        "name": "Wit 80's",
+        "city": "Bordeaux",
+        "country": "France",
+        "url": "https://wit80s.ice.infomaniak.ch/wit80s.mp3"
+    },
+    {
+        "name": "Arl FM",
+        "city": "Bordeaux",
+        "country": "France",
+        "url": "https://n03.rcs.revma.com/rxdsv41g88hvv?rj-ttl=5&rj-tok=AAABm_mZ0fEAUcJEcQHzQ8v56Q"
+    },
+    {
+        "name": "Radio Croco",
+        "city": "Montpellier",
+        "country": "France",
+        "url": "https://listen.radioking.com/radio/73198/stream/176488"
+    },
+    {
+        "name": "Eko des Garrigues",
+        "city": "Montpellier",
+        "country": "France",
+        "url": "https://radio.ekodesgarrigues.com/eko-des-garrigues-128k.mp3"
+    },
+    {
+        "name": "Wit FM 100.8",
+        "city": "Bordeaux",
+        "country": "France",
+        "url": "https://start-witfm.ice.infomaniak.ch/start-witfm-high.mp3"
+    },
+    {
+        "name": "Radio Aviva 88 FM",
+        "city": "Montpellier",
+        "country": "France",
+        "url": "https://radio13.pro-fhi.net/listen-tpgmxyoe-stream.mp3"
+    },
+    {
+        "name": "Wit 2000",
+        "city": "Bordeaux",
+        "country": "France",
+        "url": "https://wit2000.ice.infomaniak.ch/wit2000.mp3"
+    },
+    {
+        "name": "Electro Live DJ",
+        "city": "Montpellier",
+        "country": "France",
+        "url": "https://radio13.pro-fhi.net/listen/mannjbym/stream.mp3"
+    },
+    {
+        "name": "Rayvox",
+        "city": "Montpellier",
+        "country": "France",
+        "url": "https://www.rayvox.org:8443/flux"
+    },
+    {
+        "name": "Wit 90's",
+        "city": "Bordeaux",
+        "country": "France",
+        "url": "https://wit90s.ice.infomaniak.ch/wit90s.mp3"
+    },
+    {
+        "name": "Radio Sommières FM 102.9",
+        "city": "Montpellier",
+        "country": "France",
+        "url": "https://stream-ssl.radios-arra.fr:8443/sommieres"
+    },
+    {
+        "name": "RPH 98.9 FM",
+        "city": "Montpellier",
+        "country": "France",
+        "url": "https://stream-ssl.radios-arra.fr:8443/rphsud"
+    },
+    {
+        "name": "Ràdio Lenga d'Òc FM 95.4",
+        "city": "Montpellier",
+        "country": "France",
+        "url": "https://stream-ssl.radios-arra.fr:8443/rlo"
+    },
+    {
+        "name": "Stereo Gang Radio",
+        "city": "Montpellier",
+        "country": "France",
+        "url": "https://listen.radioking.com/radio/355045/stream/406612"
+    },
+    {
+        "name": "Radio One",
+        "city": "Montpellier",
+        "country": "France",
+        "url": "https://radioone.ice.infomaniak.ch/radioone-96.mp3"
+    },
+    {
+        "name": "Radio Campus Orleans",
+        "city": "Orléans",
+        "country": "France",
+        "url": "https://streams.labomedia.org:8443/stream_rco"
+    },
+    {
+        "name": "C2L FM89.3",
+        "city": "Orléans",
+        "country": "France",
+        "url": "http://srv2.streaming-ingenierie.fr:8164/;stream.nsv&showtime=1"
+    },
+    {
+        "name": "Radio Vince Autoroutes 107.7",
+        "city": "Montpellier",
+        "country": "France",
+        "url": "https://str0.creacast.com/radio_vinci_autoroutes_4"
+    },
+    {
+        "name": "VIKLAND Radio",
+        "city": "Orléans",
+        "country": "France",
+        "url": "https://manager8.streamradio.fr:2195/stream"
+    },
+    {
+        "name": "Hit a Jam",
+        "city": "Orléans",
+        "country": "France",
+        "url": "https://listen.radioking.com/radio/2063/stream/6491"
+    },
+    {
+        "name": "Radio Partage",
+        "city": "Orléans",
+        "country": "France",
+        "url": "https://manager7.streamradio.fr/radiopartage"
+    },
+    {
+        "name": "Collector Radio",
+        "city": "Orléans",
+        "country": "France",
+        "url": "https://ouifm6.ice.infomaniak.ch/ouifm6-128.mp3"
+    },
+    {
+        "name": "RTS FM",
+        "city": "Montpellier",
+        "country": "France",
+        "url": "https://sc.creacast.com/rts-national"
+    },
+    {
+        "name": "Forum 2000",
+        "city": "Orléans",
+        "country": "France",
+        "url": "https://forum2000.ice.infomaniak.ch/forum2000.mp3"
+    },
+    {
+        "name": "Forum 80's",
+        "city": "Orléans",
+        "country": "France",
+        "url": "https://forum80s.ice.infomaniak.ch/forum80s.mp3"
+    },
+    {
+        "name": "Forum 70's",
+        "city": "Orléans",
+        "country": "France",
+        "url": "https://forum70s.ice.infomaniak.ch/forum70s.mp3"
+    },
+    {
+        "name": "Forum",
+        "city": "Orléans",
+        "country": "France",
+        "url": "https://start-forum.ice.infomaniak.ch/start-forum-high.mp3"
+    },
+    {
+        "name": "Cerise FM 88.2",
+        "city": "Mulhouse",
+        "country": "France",
+        "url": "https://n25a-eu.rcs.revma.com/q90fb3dwnwzuv.mp3?rj-ttl=5&rj-tok=AAABm_mZ6vkAIaTII1VaRd2HIA"
+    },
+    {
+        "name": "Vibration",
+        "city": "Orléans",
+        "country": "France",
+        "url": "https://vibration.ice.infomaniak.ch/vibration-high.mp3"
+    },
+    {
+        "name": "Vibration 90's",
+        "city": "Orléans",
+        "country": "France",
+        "url": "https://vibration90s.ice.infomaniak.ch/vibration90s.mp3"
+    },
+    {
+        "name": "Cerise FM Clubbing",
+        "city": "Mulhouse",
+        "country": "France",
+        "url": "https://n06a-eu.rcs.revma.com/x81sb1uvszzuv.mp3?rj-ttl=5&rj-tok=AAABm_mZ7RsA6OxRpgwdcieIew"
+    },
+    {
+        "name": "Vibration 80's",
+        "city": "Orléans",
+        "country": "France",
+        "url": "https://vibration80s.ice.infomaniak.ch/vibration80s.mp3"
+    },
+    {
+        "name": "Vibration FM",
+        "city": "Orléans",
+        "country": "France",
+        "url": "https://vibration.ice.infomaniak.ch/vibration-high.aac"
+    },
+    {
+        "name": "Forum 90's",
+        "city": "Orléans",
+        "country": "France",
+        "url": "https://forum90s.ice.infomaniak.ch/forum90s.mp3"
+    },
+    {
+        "name": "Vibration 2000",
+        "city": "Orléans",
+        "country": "France",
+        "url": "https://vibration2000.ice.infomaniak.ch/vibration2000.mp3"
+    },
+    {
+        "name": "Radio Intensité",
+        "city": "Orléans",
+        "country": "France",
+        "url": "https://sc.creacast.com/intensite"
+    },
+    {
+        "name": "DKL Crooners",
+        "city": "Mulhouse",
+        "country": "France",
+        "url": "https://n10.rcs.revma.com/20396bhcfwzuv.mp3?rj-ttl=5&rj-tok=AAABm_mZ71sAXQacKC1DtkcqSA"
+    },
+    {
+        "name": "RADIO RCU",
+        "city": "Mulhouse",
+        "country": "France",
+        "url": "http://91.121.59.45:8169/rcu"
+    },
+    {
+        "name": "Radio Cigogne",
+        "city": "Mulhouse",
+        "country": "France",
+        "url": "http://philae.shoutca.st:8031/radiocigogne"
+    },
+    {
+        "name": "DKL Apres-ski",
+        "city": "Mulhouse",
+        "country": "France",
+        "url": "https://n37a-eu.rcs.revma.com/bdptknzunwzuv.mp3?rj-ttl=5&rj-tok=AAABm_mZ8ykAPoE-rUpuelG28A"
+    },
+    {
+        "name": "Phare FM Ébène",
+        "city": "Mulhouse",
+        "country": "France",
+        "url": "https://str0.creacast.com/pharefm_ebene"
+    },
+    {
+        "name": "DKL Dreyeckland",
+        "city": "Mulhouse",
+        "country": "France",
+        "url": "https://n06.rcs.revma.com/cvcrbdtzmwzuv.mp3?rj-ttl=5&rj-tok=AAABm_mZ824Aj3pwdRb0EMnvLA"
+    },
+    {
+        "name": "Rockin' Chair",
+        "city": "Mulhouse",
+        "country": "France",
+        "url": "https://oliveraie68.radioca.st/stream"
+    },
+    {
+        "name": "France Bleu Armorique 103.1FM",
+        "city": "Rennes",
+        "country": "France",
+        "url": "https://icecast.radiofrance.fr/fbarmorique-midfi.mp3"
+    },
+    {
+        "name": "Phare FM Worship",
+        "city": "Mulhouse",
+        "country": "France",
+        "url": "https://str0.creacast.com/pharefm_worship"
+    },
+    {
+        "name": "Radio Laser FM 95.9",
+        "city": "Rennes",
+        "country": "France",
+        "url": "https://stream.radios.bzh/listen/radiolaser/radio.mp3"
+    },
+    {
+        "name": "Canal B",
+        "city": "Rennes",
+        "country": "France",
+        "url": "https://stream.levillage.org/canalb"
+    },
+    {
+        "name": "Timbre FM",
+        "city": "Rennes",
+        "country": "France",
+        "url": "https://stream.radios.bzh/listen/timbrefm/radio.mp3"
+    },
+    {
+        "name": "libre antenne",
+        "city": "Rennes",
+        "country": "France",
+        "url": "https://stream.libre-antenne.fr/radio/8000/radio.mp3"
+    },
+    {
+        "name": "Radio MNE 107.5 FM",
+        "city": "Mulhouse",
+        "country": "France",
+        "url": "https://mne.out.airtime.pro:8000/mne_b"
+    },
+    {
+        "name": "Foujair",
+        "city": "Rennes",
+        "country": "France",
+        "url": "https://tempete.ondes.fm:8443/hifi"
+    },
+    {
+        "name": "Radio Rennes FM 100.8",
+        "city": "Rennes",
+        "country": "France",
+        "url": "https://stream4.vestaradio.com/RADIORENNES"
+    },
+    {
+        "name": "Azur FM 68",
+        "city": "Mulhouse",
+        "country": "France",
+        "url": "https://listen.radioking.com/radio/74176/stream/112159"
+    },
+    {
+        "name": "Phare FM Louange",
+        "city": "Mulhouse",
+        "country": "France",
+        "url": "https://str0.creacast.com/pharefm_louange"
+    },
+    {
+        "name": "Radio Quartier des Ondes",
+        "city": "Rennes",
+        "country": "France",
+        "url": "https://listen.radioking.com/radio/204025/stream/246766"
+    },
+    {
+        "name": "Radio Quetsch",
+        "city": "Mulhouse",
+        "country": "France",
+        "url": "https://stream.quets.ch/live"
+    },
+    {
+        "name": "La Vilaine Radio",
+        "city": "Rennes",
+        "country": "France",
+        "url": "https://listen.radioking.com/radio/417076/stream/473398"
+    },
+    {
+        "name": "ECN 98.1 FM",
+        "city": "Mulhouse",
+        "country": "France",
+        "url": "https://ice.creacast.com/ecn_hq.mp3"
+    },
+    {
+        "name": "Radio44",
+        "city": "Rennes",
+        "country": "France",
+        "url": "https://eu.publicssl.net/7020/"
+    },
+    {
+        "name": "BuzzNCo",
+        "city": "Grenoble",
+        "country": "France",
+        "url": "https://listen.radioking.com/radio/258328/stream/303013"
+    },
+    {
+        "name": "Radio Campus Grenoble",
+        "city": "Grenoble",
+        "country": "France",
+        "url": "https://live.campusgrenoble.org/rcg112"
+    },
+    {
+        "name": "Radio Grésivaudan",
+        "city": "Grenoble",
+        "country": "France",
+        "url": "https://live.aurafm.org/Radio-Gresivaudan"
+    },
+    {
+        "name": "Radio Royans",
+        "city": "Grenoble",
+        "country": "France",
+        "url": "https://live.aurafm.org/RadioRoyans"
+    },
+    {
+        "name": "Radio Dragon 104.4 FM",
+        "city": "Grenoble",
+        "country": "France",
+        "url": "https://live.aurafm.org/RadioDragon"
+    },
+    {
+        "name": "Radio Fontaine 88.6 FM",
+        "city": "Grenoble",
+        "country": "France",
+        "url": "https://live.aurafm.org/RadioFontaine"
+    },
+    {
+        "name": "France Bleu Azur",
+        "city": "Nice",
+        "country": "France",
+        "url": "https://icecast.radiofrance.fr/fbazur-lofi.mp3"
+    },
+    {
+        "name": "Alpes 1 Grenoble FM 101.6",
+        "city": "Grenoble",
+        "country": "France",
+        "url": "https://alpes1grenoble.ice.infomaniak.ch/alpes1grenoble-high.mp3?.mp3"
+    },
+    {
+        "name": "Poptastic Radio",
+        "city": "Nice",
+        "country": "France",
+        "url": "https://s7.everestcast.com/p/6206/stream"
+    },
+    {
+        "name": "Ràdio Nissa Pantai",
+        "city": "Nice",
+        "country": "France",
+        "url": "https://listen.radioking.com/radio/79270/stream/117373"
+    },
+    {
+        "name": "ABC Lounge Radio",
+        "city": "Nice",
+        "country": "France",
+        "url": "https://str1.openstream.co/589"
+    },
+    {
+        "name": "Max FM 94.5",
+        "city": "Grenoble",
+        "country": "France",
+        "url": "https://maxfm.ice.infomaniak.ch/maxfm-945.mp3"
+    },
+    {
+        "name": "OAM Radio",
+        "city": "Clermont-Ferrand",
+        "country": "France",
+        "url": "https://ecmanager.pro-fhi.net/oamradio"
+    },
+    {
+        "name": "Tonic Radio Grenoble",
+        "city": "Grenoble",
+        "country": "France",
+        "url": "https://tonicradio.ice.infomaniak.ch/tonicradiogrenoble-32.mp3"
+    },
+    {
+        "name": "Nutriradio",
+        "city": "Nice",
+        "country": "France",
+        "url": "https://listen.radioking.com/radio/442934/stream/499064"
+    },
+    {
+        "name": "Radio Campus Clermont-Ferrand",
+        "city": "Clermont-Ferrand",
+        "country": "France",
+        "url": "https://live.radio-campus.org:8002/clermont-ferrand"
+    },
+    {
+        "name": "Cannes Radio FM 91.5",
+        "city": "Nice",
+        "country": "France",
+        "url": "https://n31a-eu.rcs.revma.com/2ykc70sauwzuv.mp3?rj-ttl=5&rj-tok=AAABm_maDcQA7cQuN0-P0Dk1sQ"
+    },
+    {
+        "name": "Clin d'Oeil FM 106.1",
+        "city": "Nice",
+        "country": "France",
+        "url": "https://clindoeilfm1061.ice.infomaniak.ch/clindoeilfm1061-128.mp3"
+    },
+    {
+        "name": "Radio Arverne FM 100.2",
+        "city": "Clermont-Ferrand",
+        "country": "France",
+        "url": "https://radioarverne.ice.infomaniak.ch/arverne.mp3"
+    },
+    {
+        "name": "Logos FM",
+        "city": "Clermont-Ferrand",
+        "country": "France",
+        "url": "https://vps.cbad.fr/logosclermont"
+    },
+    {
+        "name": "Radio Isa Grenoble - Grenoble 100.4",
+        "city": "Grenoble",
+        "country": "France",
+        "url": "https://radioisa.ice.infomaniak.ch/radioisa-32.aac"
+    },
+    {
+        "name": "La Radio de Fifi",
+        "city": "Clermont-Ferrand",
+        "country": "France",
+        "url": "https://ecmanager6.pro-fhi.net:1315/stream"
+    },
+    {
+        "name": "Nice Radio 102.3",
+        "city": "Nice",
+        "country": "France",
+        "url": "https://niceradio.ice.infomaniak.ch/niceradio.aac"
+    },
+    {
+        "name": "107.7 Radio VINCI Auvergne - Vallée du Rhône",
+        "city": "Clermont-Ferrand",
+        "country": "France",
+        "url": "https://str0.creacast.com/radio_vinci_autoroutes_5"
+    },
+    {
+        "name": "Radio Semnoz FM 91.5",
+        "city": "Annecy",
+        "country": "France",
+        "url": "https://listen.radioking.com/radio/76072/stream/114109"
+    },
+    {
+        "name": "La Yaute",
+        "city": "Annecy",
+        "country": "France",
+        "url": "https://ecmanager4.pro-fhi.net:2680/stream"
+    },
+    {
+        "name": "Radio Grand Lac 88 FM",
+        "city": "Annecy",
+        "country": "France",
+        "url": "https://vps.cbad.fr/grandlac"
+    },
+    {
+        "name": "H2O 90.4",
+        "city": "Annecy",
+        "country": "France",
+        "url": "https://h2oradio.net-radio.fr/h2oradio-256.mp3"
+    },
+    {
+        "name": "Radio Qui Qu'en Grogne 101FM",
+        "city": "Clermont-Ferrand",
+        "country": "France",
+        "url": "https://radioquiquengrogne.ice.infomaniak.ch/radioquiquengrogne-128.mp3"
+    },
+    {
+        "name": "Radio FMR 89.2",
+        "city": "Annecy",
+        "country": "France",
+        "url": "http://www2.radiofmr.fr:9000/fmr-192k.mp3"
+    },
+    {
+        "name": "Radio Bort Artense",
+        "city": "Clermont-Ferrand",
+        "country": "France",
+        "url": "https://hosting.studioradiomedia.fr:2585/stream"
+    },
+    {
+        "name": "Kiss FM",
+        "city": "Nice",
+        "country": "France",
+        "url": "https://kissfm.ice.infomaniak.ch/kissfm-64.aac"
+    },
+    {
+        "name": "Radio SCOOP Clermont",
+        "city": "Clermont-Ferrand",
+        "country": "France",
+        "url": "https://radioscoopclermont-ferrand.ice.infomaniak.ch/radioscoop-clermont-128.mp3"
+    },
+    {
+        "name": "Radio Coquelicot FM 99.0",
+        "city": "Clermont-Ferrand",
+        "country": "France",
+        "url": "https://str0.creacast.com/radio_coquelicot"
+    },
+    {
+        "name": "Radio Zinzine",
+        "city": "Villeneuve-d'Ascq",
+        "country": "France",
+        "url": "http://91.121.65.189:8000/zinzine-aix"
+    },
+    {
+        "name": "La Radio Plus - Shopping",
+        "city": "Annecy",
+        "country": "France",
+        "url": "https://plus-wr03.ice.infomaniak.ch/plus-wr03.mp3"
+    },
+    {
+        "name": "FLP Radio",
+        "city": "Nice",
+        "country": "France",
+        "url": "https://flpradio.ice.infomaniak.ch/flpradio-128.mp3"
+    },
+    {
+        "name": "La radio des Français dans le monde",
+        "city": "Villeneuve-d'Ascq",
+        "country": "France",
+        "url": "https://listen.radioking.com/radio/2079/stream/63043"
+    },
+    {
+        "name": "ODS Radio",
+        "city": "Annecy",
+        "country": "France",
+        "url": "https://ods.ice.infomaniak.ch/ods-high.mp3"
+    },
+    {
+        "name": "ODS Radio - Années 80",
+        "city": "Annecy",
+        "country": "France",
+        "url": "https://ods-wr01.ice.infomaniak.ch/ods-wr01.mp3"
+    },
+    {
+        "name": "Melody - In Paris",
+        "city": "Villeneuve-d'Ascq",
+        "country": "France",
+        "url": "https://n10.rcs.revma.com/96a3ac2byf9uv?rj-ttl=5&rj-tok=AAABm_maIS8Aw6qz7gzpWCzP_w"
+    },
+    {
+        "name": "Atlantique FM",
+        "city": "Dijon",
+        "country": "France",
+        "url": "https://listen.radioking.com/radio/298855/stream/345424"
+    },
+    {
+        "name": "Autoroute Info 107.7",
+        "city": "Dijon",
+        "country": "France",
+        "url": "https://media.autorouteinfo.fr/direct_nord.mp3"
+    },
+    {
+        "name": "Radio Dijon Campus",
+        "city": "Dijon",
+        "country": "France",
+        "url": "http://frequence.u-bourgogne.fr:8082/dijoncampus?.mp3"
+    },
+    {
+        "name": "Radio Meuh",
+        "city": "Annecy",
+        "country": "France",
+        "url": "https://radiomeuh2.ice.infomaniak.ch/radiomeuh2-128.mp3"
+    },
+    {
+        "name": "Melody - Rock and Pop",
+        "city": "Villeneuve-d'Ascq",
+        "country": "France",
+        "url": "https://n02.rcs.revma.com/tsmxsrn6ky3vv?rj-ttl=5&rj-tok=AAABm_maJIwAU3xVoi_BMbdbLg"
+    },
+    {
+        "name": "Melody - Palace",
+        "city": "Villeneuve-d'Ascq",
+        "country": "France",
+        "url": "https://n05.rcs.revma.com/bpgewwwtc43vv?rj-ttl=5&rj-tok=AAABm_maI-8AWz6Z-Veu4nlLSQ"
+    },
+    {
+        "name": "Melody - Vintage Radio",
+        "city": "Villeneuve-d'Ascq",
+        "country": "France",
+        "url": "https://n02.rcs.revma.com/5a05fstup42vv?rj-ttl=5&rj-tok=AAABm_maJVoAbCQ4kpn2OxfN0w"
+    },
+    {
+        "name": "SunAlpes Radio",
+        "city": "Annecy",
+        "country": "France",
+        "url": "https://funalpesradio.ice.infomaniak.ch/funalpes.mp3"
+    },
+    {
+        "name": "MyZen Radio",
+        "city": "Villeneuve-d'Ascq",
+        "country": "France",
+        "url": "https://n09.rcs.revma.com/gnn6u7czd8uvv?rj-ttl=5&rj-tok=AAABm_maJfsAeBuJ0N8H_3jGeg"
+    },
+    {
+        "name": "Villages FM",
+        "city": "Dijon",
+        "country": "France",
+        "url": "https://stream3.vestaradio.com/VILLAGESFM"
+    },
+    {
+        "name": "Air Connect",
+        "city": "Dijon",
+        "country": "France",
+        "url": "https://stream.airconnectradio.com/ac192.mp3"
+    },
+    {
+        "name": "Radio BIP",
+        "city": "Dijon",
+        "country": "France",
+        "url": "https://radiobip.fr/web"
+    },
+    {
+        "name": "Beaub'FM 89",
+        "city": "Limoges",
+        "country": "France",
+        "url": "https://beaubfm2.ice.infomaniak.ch/beaubfm2-96.mp3"
+    },
+    {
+        "name": "Radio 16-Bit-FM",
+        "city": "Limoges",
+        "country": "France",
+        "url": "http://51.77.148.154/listen/16-bit-fm/radio.mp3"
+    },
+    {
+        "name": "Emergence FM",
+        "city": "Limoges",
+        "country": "France",
+        "url": "https://radiostream.comequip.eu/radio-code.php?server=51.159.20.201&port=9024&mount=emergence"
+    },
+    {
+        "name": "Swing FM",
+        "city": "Limoges",
+        "country": "France",
+        "url": "https://swingfm.ice.infomaniak.ch/swingfm-128.mp3"
+    },
+    {
+        "name": "France Bleu Limousin FM 103.5",
+        "city": "Limoges",
+        "country": "France",
+        "url": "https://icecast.radiofrance.fr/fblimousin-midfi.mp3?ID=59e6n63bhx"
+    },
+    {
+        "name": "Radio Agora FM 106.2",
+        "city": "Limoges",
+        "country": "France",
+        "url": "https://radioagora.ice.infomaniak.ch/radioagora-192.mp3"
+    },
+    {
+        "name": "Diversité FM 103.9",
+        "city": "Dijon",
+        "country": "France",
+        "url": "https://diversitefm2.ice.infomaniak.ch/diversitefm2-192.mp3"
+    },
+    {
+        "name": "RTF 95.4",
+        "city": "Limoges",
+        "country": "France",
+        "url": "https://hosting.studioradiomedia.fr:2145/stream"
+    },
+    {
+        "name": "K6FM",
+        "city": "Dijon",
+        "country": "France",
+        "url": "https://k6fm.ice.infomaniak.ch/k6fm-128.mp3?.mp3"
+    },
+    {
+        "name": "Fréquence Plus",
+        "city": "Dijon",
+        "country": "France",
+        "url": "https://freqplus.ice.infomaniak.ch/freqplus-high"
+    },
+    {
+        "name": "Radio Fox FM 97.9",
+        "city": "Dijon",
+        "country": "France",
+        "url": "https://stream.rcvfm.fr:8000/fox-128k.mp3"
+    },
+    {
+        "name": "Radio Prévert 105.9 FM",
+        "city": "Dijon",
+        "country": "France",
+        "url": "https://prevert.ice.infomaniak.ch/prevert-128.mp3"
+    },
+    {
+        "name": "Flash FM 89.9",
+        "city": "Limoges",
+        "country": "France",
+        "url": "https://flashfm2.ice.infomaniak.ch/flashfm2-128.mp3"
+    },
+    {
+        "name": "Radio Pays de Guéret",
+        "city": "Limoges",
+        "country": "France",
+        "url": "https://radiopaysdegueret.ice.infomaniak.ch/radiopaysdegueret.mp3"
+    },
+    {
+        "name": "Ici l'Onde",
+        "city": "Limoges",
+        "country": "France",
+        "url": "https://icilondelawebradio.ice.infomaniak.ch/icilondelawebradio-128.mp3"
+    }
+]

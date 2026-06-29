@@ -1,0 +1,852 @@
+[
+  {
+    "id": "ireland-total-country-inchicore",
+    "name": "Total Country Inchicore",
+    "url": "http://sirius.shoutca.st:8180/stream",
+    "genre": "Music",
+    "city": "Dublin",
+    "country": "Ireland",
+    "lat": 53.3493795,
+    "lng": -6.2605593
+  },
+  {
+    "id": "ireland-the-zone",
+    "name": "The Zone",
+    "url": "http://uk1.internet-radio.com:8355/stream",
+    "genre": "Music",
+    "city": "Dublin",
+    "country": "Ireland",
+    "lat": 53.3493795,
+    "lng": -6.2605593
+  },
+  {
+    "id": "ireland-eden-1025-fm",
+    "name": "Eden 102.5 FM",
+    "url": "http://cast5.magicstreams.gr:8017/",
+    "genre": "Music",
+    "city": "Dublin",
+    "country": "Ireland",
+    "lat": 53.3493795,
+    "lng": -6.2605593
+  },
+  {
+    "id": "ireland-retronow",
+    "name": "RetroNow",
+    "url": "http://cassini.shoutca.st:9007/stream/",
+    "genre": "Music",
+    "city": "Dublin",
+    "country": "Ireland",
+    "lat": 53.3493795,
+    "lng": -6.2605593
+  },
+  {
+    "id": "ireland-phoenix-fm-925",
+    "name": "Phoenix FM 92.5",
+    "url": "https://audio-edge-jfbmv.sin.d.radiomast.io/cfee4afe-9f7e-4902-84bd-807f6b5d1c02",
+    "genre": "Music",
+    "city": "Dublin",
+    "country": "Ireland",
+    "lat": 53.3493795,
+    "lng": -6.2605593
+  },
+  {
+    "id": "ireland-dundalk-fm",
+    "name": "Dundalk FM",
+    "url": "http://80.249.249.245:8000/index.html?sid=1",
+    "genre": "Music",
+    "city": "Dublin",
+    "country": "Ireland",
+    "lat": 53.3493795,
+    "lng": -6.2605593
+  },
+  {
+    "id": "ireland-eist-radio",
+    "name": "éist radio",
+    "url": "https://eist-radio.radiocult.fm/stream",
+    "genre": "Music",
+    "city": "Cork",
+    "country": "Ireland",
+    "lat": 51.8985136,
+    "lng": -8.4726423
+  },
+  {
+    "id": "ireland-event-fm",
+    "name": "Event FM",
+    "url": "https://uk6.internet-radio.com/proxy/eventfm?mp=/stream",
+    "genre": "Music",
+    "city": "Dublin",
+    "country": "Ireland",
+    "lat": 53.3493795,
+    "lng": -6.2605593
+  },
+  {
+    "id": "ireland-hits-radio-ireland",
+    "name": "Hits Radio Ireland",
+    "url": "https://uk7.internet-radio.com/proxy/hitsradioireland/stream",
+    "genre": "Music",
+    "city": "Dublin",
+    "country": "Ireland",
+    "lat": 53.3493795,
+    "lng": -6.2605593
+  },
+  {
+    "id": "ireland-ignoreradio-shoegaze",
+    "name": "Ignoreradio Shoegaze",
+    "url": "https://uk7.internet-radio.com/proxy/ignoreland?mp=/stream;",
+    "genre": "Music",
+    "city": "Dublin",
+    "country": "Ireland",
+    "lat": 53.3493795,
+    "lng": -6.2605593
+  },
+  {
+    "id": "ireland-ciao-world-radio",
+    "name": "Ciao World Radio",
+    "url": "https://n02.radiojar.com/2sfp8mz5tyduv?rj-ttl=5&rj-tok=AAABm_mo94gANJHuvdu4Y8iJAA",
+    "genre": "Music",
+    "city": "Dublin",
+    "country": "Ireland",
+    "lat": 53.3493795,
+    "lng": -6.2605593
+  },
+  {
+    "id": "ireland-ucc-983-fm",
+    "name": "UCC 98.3 FM",
+    "url": "https://stream.btsstream.com:8062/ucc.mp3",
+    "genre": "Music",
+    "city": "Cork",
+    "country": "Ireland",
+    "lat": 51.8985136,
+    "lng": -8.4726423
+  },
+  {
+    "id": "ireland-sunshine-1068",
+    "name": "Sunshine 106.8",
+    "url": "https://edge2.audioxi.com/SUN",
+    "genre": "Music",
+    "city": "Dublin",
+    "country": "Ireland",
+    "lat": 53.3493795,
+    "lng": -6.2605593
+  },
+  {
+    "id": "ireland-classic-hits",
+    "name": "Classic Hits",
+    "url": "https://edge2.audioxi.com/CLASSIC",
+    "genre": "Music",
+    "city": "Dublin",
+    "country": "Ireland",
+    "lat": 53.3493795,
+    "lng": -6.2605593
+  },
+  {
+    "id": "ireland-west-cork-88-fm",
+    "name": "West Cork 88 FM",
+    "url": "http://lyra.shoutca.st:8147/live",
+    "genre": "Music",
+    "city": "Cork",
+    "country": "Ireland",
+    "lat": 51.8985136,
+    "lng": -8.4726423
+  },
+  {
+    "id": "ireland-rte-gold",
+    "name": "RTÉ Gold",
+    "url": "https://29103.live.streamtheworld.com:443/RTE_GOLD.mp3?tdsdk=rte",
+    "genre": "Music",
+    "city": "Dublin",
+    "country": "Ireland",
+    "lat": 53.3493795,
+    "lng": -6.2605593
+  },
+  {
+    "id": "ireland-c103-anthems",
+    "name": "C103 Anthems",
+    "url": "https://onic.dublin.live.stream.broadcasting.news/stream-country",
+    "genre": "Music",
+    "city": "Cork",
+    "country": "Ireland",
+    "lat": 51.8985136,
+    "lng": -8.4726423
+  },
+  {
+    "id": "ireland-rte-2fm",
+    "name": "RTÉ 2FM",
+    "url": "https://28563.live.streamtheworld.com:443/RTE_2FM_INT.mp3?tdsdk=rte",
+    "genre": "Music",
+    "city": "Dublin",
+    "country": "Ireland",
+    "lat": 53.3493795,
+    "lng": -6.2605593
+  },
+  {
+    "id": "ireland-lmfm-958",
+    "name": "LMFM 95.8",
+    "url": "https://onic.drogheda.live.stream.broadcasting.news/stream-lmfm",
+    "genre": "Music",
+    "city": "Dublin",
+    "country": "Ireland",
+    "lat": 53.3493795,
+    "lng": -6.2605593
+  },
+  {
+    "id": "ireland-life-fm",
+    "name": "Life FM",
+    "url": "https://uksoutha.streaming.broadcast.radio/lifefm",
+    "genre": "Music",
+    "city": "Cork",
+    "country": "Ireland",
+    "lat": 51.8985136,
+    "lng": -8.4726423
+  },
+  {
+    "id": "ireland-rte-lyric-fm",
+    "name": "RTÉ Lyric FM",
+    "url": "https://25633.live.streamtheworld.com:443/RTE_LYRIC_FM.mp3?tdsdk=rte",
+    "genre": "Music",
+    "city": "Dublin",
+    "country": "Ireland",
+    "lat": 53.3493795,
+    "lng": -6.2605593
+  },
+  {
+    "id": "ireland-corks-96fm--talksport",
+    "name": "Cork's 96FM - talkSPORT",
+    "url": "https://radio.talksport.com/stream",
+    "genre": "Music",
+    "city": "Cork",
+    "country": "Ireland",
+    "lat": 51.8985136,
+    "lng": -8.4726423
+  },
+  {
+    "id": "ireland-rte-radio-1-fm-88",
+    "name": "RTÉ Radio 1 FM 88",
+    "url": "https://27913.live.streamtheworld.com:443/RTE_1_INT.mp3?tdsdk=rte",
+    "genre": "Music",
+    "city": "Dublin",
+    "country": "Ireland",
+    "lat": 53.3493795,
+    "lng": -6.2605593
+  },
+  {
+    "id": "ireland-longwave-music-radio-lmr",
+    "name": "Longwave Music Radio LMR",
+    "url": "https://longwave.out.airtime.pro:8000/longwave_a",
+    "genre": "Music",
+    "city": "Cork",
+    "country": "Ireland",
+    "lat": 51.8985136,
+    "lng": -8.4726423
+  },
+  {
+    "id": "ireland-corks-96fm",
+    "name": "Cork's 96FM",
+    "url": "https://onic.cork.live.stream.broadcasting.news/stream-96fm",
+    "genre": "Music",
+    "city": "Cork",
+    "country": "Ireland",
+    "lat": 51.8985136,
+    "lng": -8.4726423
+  },
+  {
+    "id": "ireland-c103",
+    "name": "C103",
+    "url": "https://onic.cork.live.stream.broadcasting.news/stream-c103-north",
+    "genre": "Music",
+    "city": "Cork",
+    "country": "Ireland",
+    "lat": 51.8985136,
+    "lng": -8.4726423
+  },
+  {
+    "id": "ireland-corks-96fm-hitmix",
+    "name": "Cork's 96FM HitMix",
+    "url": "https://onic.dublin.live.stream.broadcasting.news/stream-hits",
+    "genre": "Music",
+    "city": "Cork",
+    "country": "Ireland",
+    "lat": 51.8985136,
+    "lng": -8.4726423
+  },
+  {
+    "id": "ireland-flirt-fm-1013",
+    "name": "Flirt FM 101.3",
+    "url": "https://audio-edge-jfbmv.sin.d.radiomast.io/89e24041-fdab-4b2d-95bd-830f5bfda900",
+    "genre": "Music",
+    "city": "Galway",
+    "country": "Ireland",
+    "lat": 53.2744122,
+    "lng": -9.0490601
+  },
+  {
+    "id": "ireland-west-limerick-102-fm",
+    "name": "West Limerick 102 FM",
+    "url": "https://s29.myradiostream.com/:17796/listen.mp3?nocache=1769419563",
+    "genre": "Music",
+    "city": "Cork",
+    "country": "Ireland",
+    "lat": 51.8985136,
+    "lng": -8.4726423
+  },
+  {
+    "id": "ireland-galway-bay-fm-958",
+    "name": "Galway Bay FM 95.8",
+    "url": "https://wg.cdn.tibus.net/galwaybay.mp3",
+    "genre": "Music",
+    "city": "Galway",
+    "country": "Ireland",
+    "lat": 53.2744122,
+    "lng": -9.0490601
+  },
+  {
+    "id": "ireland-cork-music-station",
+    "name": "Cork Music Station",
+    "url": "https://streamer.radio.co/s1a04f8902/listen",
+    "genre": "Music",
+    "city": "Cork",
+    "country": "Ireland",
+    "lat": 51.8985136,
+    "lng": -8.4726423
+  },
+  {
+    "id": "ireland-juice-fm-887",
+    "name": "Juice FM 88.7",
+    "url": "https://n15.rcs.revma.com/a8mqrmhcyy8uv?rj-ttl=5&rj-tok=AAABm_mpBfEA6-rbn9wWCieazA",
+    "genre": "Music",
+    "city": "Cork",
+    "country": "Ireland",
+    "lat": 51.8985136,
+    "lng": -8.4726423
+  },
+  {
+    "id": "ireland-clarefm",
+    "name": "Clare.FM",
+    "url": "https://edge.audioxi.com/CLAREFM",
+    "genre": "Music",
+    "city": "Cork",
+    "country": "Ireland",
+    "lat": 51.8985136,
+    "lng": -8.4726423
+  },
+  {
+    "id": "ireland-crc-fm-1029",
+    "name": "CRC FM 102.9",
+    "url": "https://visual.shoutca.st/stream/crcfm",
+    "genre": "Music",
+    "city": "Galway",
+    "country": "Ireland",
+    "lat": 53.2744122,
+    "lng": -9.0490601
+  },
+  {
+    "id": "ireland-planetcountryie",
+    "name": "PlanetCountry.ie",
+    "url": "https://media.planetradio.ie/radio/8010/Country",
+    "genre": "Music",
+    "city": "Galway",
+    "country": "Ireland",
+    "lat": 53.2744122,
+    "lng": -9.0490601
+  },
+  {
+    "id": "ireland-planetradioie",
+    "name": "PlanetRadio.ie",
+    "url": "https://media.planetradio.ie/radio/8000/OnAir",
+    "genre": "Music",
+    "city": "Galway",
+    "country": "Ireland",
+    "lat": 53.2744122,
+    "lng": -9.0490601
+  },
+  {
+    "id": "ireland-jazzeire",
+    "name": "jazzÉIRE",
+    "url": "https://visual.shoutca.st/stream/jazzeire/stream",
+    "genre": "Music",
+    "city": "Waterford",
+    "country": "Ireland",
+    "lat": 52.2609997,
+    "lng": -7.1119081
+  },
+  {
+    "id": "ireland-dream-radio",
+    "name": "Dream Radio",
+    "url": "https://broadcast.shoutstream.co.uk:8120/stream",
+    "genre": "Music",
+    "city": "Galway",
+    "country": "Ireland",
+    "lat": 53.2744122,
+    "lng": -9.0490601
+  },
+  {
+    "id": "ireland-wired-fm",
+    "name": "Wired FM",
+    "url": "https://s2.radio.co/sf0986595a/listen",
+    "genre": "Music",
+    "city": "Cork",
+    "country": "Ireland",
+    "lat": 51.8985136,
+    "lng": -8.4726423
+  },
+  {
+    "id": "ireland-zenith-classic-rock",
+    "name": "Zenith Classic Rock",
+    "url": "http://148.163.81.10:8001/zenith64",
+    "genre": "Music",
+    "city": "Waterford",
+    "country": "Ireland",
+    "lat": 52.2609997,
+    "lng": -7.1119081
+  },
+  {
+    "id": "ireland-rabbithole-radio",
+    "name": "RabbitHole Radio",
+    "url": "https://stream-179.zeno.fm/c88dha3fmzzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjODhkaGEzZm16enV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoicXVnSlFrellScm1nODdSS3NCSll5QSIsImlhdCI6MTc2OTQxOTU2NCwiZXhwIjoxNzY5NDE5NjI0fQ.Ps-rkkastOjU8O30HBmDPor_YuQT3r7GTPlIHtCBZD0",
+    "genre": "Music",
+    "city": "Galway",
+    "country": "Ireland",
+    "lat": 53.2744122,
+    "lng": -9.0490601
+  },
+  {
+    "id": "ireland-midwest-radio",
+    "name": "Midwest Radio",
+    "url": "https://23603.live.streamtheworld.com:443/MIDWEST_RADIOAAC.aac",
+    "genre": "Music",
+    "city": "Galway",
+    "country": "Ireland",
+    "lat": 53.2744122,
+    "lng": -9.0490601
+  },
+  {
+    "id": "ireland-limerick-city-community-radio",
+    "name": "Limerick City Community Radio",
+    "url": "https://stream.lccr.ie/high",
+    "genre": "Music",
+    "city": "Limerick",
+    "country": "Ireland",
+    "lat": 52.661252,
+    "lng": -8.6301239
+  },
+  {
+    "id": "ireland-liffey-sound-964fm",
+    "name": "Liffey Sound 96.4FM",
+    "url": "http://stream.liffeysoundfm.ie:8000/listen.pls.mp3",
+    "genre": "Music",
+    "city": "Waterford",
+    "country": "Ireland",
+    "lat": 52.2609997,
+    "lng": -7.1119081
+  },
+  {
+    "id": "ireland-athlone-community-radio-884-fm",
+    "name": "Athlone Community Radio 88.4 FM",
+    "url": "http://89.101.31.98:88/broadwave.mp3",
+    "genre": "Music",
+    "city": "Rathdowney",
+    "country": "Ireland",
+    "lat": 52.855426,
+    "lng": -7.5838016
+  },
+  {
+    "id": "ireland-jazz-radio-ireland",
+    "name": "Jazz Radio Ireland",
+    "url": "https://carina.streamerr.co:8116/stream",
+    "genre": "Music",
+    "city": "Waterford",
+    "country": "Ireland",
+    "lat": 52.2609997,
+    "lng": -7.1119081
+  },
+  {
+    "id": "ireland-absolute-irish",
+    "name": "Absolute Irish",
+    "url": "https://25693.live.streamtheworld.com:443/ABSOLUTE_IRELAND.mp3",
+    "genre": "Music",
+    "city": "Waterford",
+    "country": "Ireland",
+    "lat": 52.2609997,
+    "lng": -7.1119081
+  },
+  {
+    "id": "ireland-smooth-gold-radio-ireland",
+    "name": "Smooth Gold Radio Ireland",
+    "url": "https://a4.asurahosting.com:6630/radio.mp3",
+    "genre": "Music",
+    "city": "Waterford",
+    "country": "Ireland",
+    "lat": 52.2609997,
+    "lng": -7.1119081
+  },
+  {
+    "id": "ireland-irish-country-music-radio",
+    "name": "Irish Country Music Radio",
+    "url": "https://streaming.galaxywebsolutions.com/stream/irishcountry",
+    "genre": "Music",
+    "city": "Limerick",
+    "country": "Ireland",
+    "lat": 52.661252,
+    "lng": -8.6301239
+  },
+  {
+    "id": "ireland-community-radio-kilkenny-city-887fm",
+    "name": "Community Radio Kilkenny City 88.7fm",
+    "url": "https://rsstreaming.com/proxy/crkc?mp=/stream",
+    "genre": "Music",
+    "city": "Waterford",
+    "country": "Ireland",
+    "lat": 52.2609997,
+    "lng": -7.1119081
+  },
+  {
+    "id": "ireland-solid-gold-radio-ireland",
+    "name": "Solid Gold Radio Ireland",
+    "url": "https://a1.asurahosting.com:10000/radio.mp3",
+    "genre": "Music",
+    "city": "Rathdowney",
+    "country": "Ireland",
+    "lat": 52.855426,
+    "lng": -7.5838016
+  },
+  {
+    "id": "ireland-solid-gold-radio-ireland-2",
+    "name": "Solid Gold Radio Ireland 2",
+    "url": "https://a4.asurahosting.com:6650/radio.mp3",
+    "genre": "Music",
+    "city": "Rathdowney",
+    "country": "Ireland",
+    "lat": 52.855426,
+    "lng": -7.5838016
+  },
+  {
+    "id": "ireland-rte-raidió-na-gaeltachta",
+    "name": "RTÉ Raidió na Gaeltachta",
+    "url": "https://25583.live.streamtheworld.com:443/RTE_RAIDIO_NA_GAELTACHTA.mp3?tdsdk=rte",
+    "genre": "Music",
+    "city": "Galway",
+    "country": "Ireland",
+    "lat": 53.2744122,
+    "lng": -9.0490601
+  },
+  {
+    "id": "ireland-noughty-beats",
+    "name": "Noughty Beats",
+    "url": "https://stream.audioxi.com/NBEATSAAC",
+    "genre": "Music",
+    "city": "Waterford",
+    "country": "Ireland",
+    "lat": 52.2609997,
+    "lng": -7.1119081
+  },
+  {
+    "id": "ireland-live-95-extra",
+    "name": "Live 95 Extra",
+    "url": "https://onic.cork.live.stream.broadcasting.news/stream-live95",
+    "genre": "Music",
+    "city": "Limerick",
+    "country": "Ireland",
+    "lat": 52.661252,
+    "lng": -8.6301239
+  },
+  {
+    "id": "ireland-downda-road-radio",
+    "name": "Downda Road Radio",
+    "url": "https://downdaroad.out.airtime.pro/downdaroad_a",
+    "genre": "Music",
+    "city": "Waterford",
+    "country": "Ireland",
+    "lat": 52.2609997,
+    "lng": -7.1119081
+  },
+  {
+    "id": "ireland-live-95",
+    "name": "Live 95",
+    "url": "https://onic.cork.live.stream.broadcasting.news/stream-live95",
+    "genre": "Music",
+    "city": "Limerick",
+    "country": "Ireland",
+    "lat": 52.661252,
+    "lng": -8.6301239
+  },
+  {
+    "id": "ireland-spin-south-west",
+    "name": "Spin South West",
+    "url": "https://stream.audioxi.com/SW",
+    "genre": "Music",
+    "city": "Limerick",
+    "country": "Ireland",
+    "lat": 52.661252,
+    "lng": -8.6301239
+  },
+  {
+    "id": "ireland-radiomoli",
+    "name": "RadioMoLI",
+    "url": "https://radiomoli.radiocult.fm/stream",
+    "genre": "Music",
+    "city": "Drogheda",
+    "country": "Ireland",
+    "lat": 53.7149877,
+    "lng": -6.3524183
+  },
+  {
+    "id": "ireland-storm-north-east",
+    "name": "Storm North East",
+    "url": "https://stormnortheast.com:8443/storm",
+    "genre": "Music",
+    "city": "Drogheda",
+    "country": "Ireland",
+    "lat": 53.7149877,
+    "lng": -6.3524183
+  },
+  {
+    "id": "ireland-circle-of-white-light-radio",
+    "name": "Circle Of White Light Radio",
+    "url": "https://eu4.fastcast4u.com/proxy/cowlradio?mp=/1",
+    "genre": "Music",
+    "city": "Drogheda",
+    "country": "Ireland",
+    "lat": 53.7149877,
+    "lng": -6.3524183
+  },
+  {
+    "id": "ireland-lmfm-country",
+    "name": "LMFM Country",
+    "url": "https://onic.dublin.live.stream.broadcasting.news/stream-country",
+    "genre": "Music",
+    "city": "Drogheda",
+    "country": "Ireland",
+    "lat": 53.7149877,
+    "lng": -6.3524183
+  },
+  {
+    "id": "ireland-unityradioie",
+    "name": "UnityRadio.ie",
+    "url": "https://cast1.my-control-panel.com/proxy/unityra2/stream",
+    "genre": "Music",
+    "city": "Wexford",
+    "country": "Ireland",
+    "lat": 52.3367671,
+    "lng": -6.4601397
+  },
+  {
+    "id": "ireland-hospital-radio-ireland",
+    "name": "Hospital Radio Ireland",
+    "url": "https://de2.streamingpulse.com/ssl/8042",
+    "genre": "Music",
+    "city": "Laytown",
+    "country": "Ireland",
+    "lat": 53.6795281,
+    "lng": -6.242754
+  },
+  {
+    "id": "ireland-shannonside-fm",
+    "name": "Shannonside FM",
+    "url": "https://edge.audioxi.com/SHANNONSIDE",
+    "genre": "Music",
+    "city": "Rathdowney",
+    "country": "Ireland",
+    "lat": 52.855426,
+    "lng": -7.5838016
+  },
+  {
+    "id": "ireland-hr-country",
+    "name": "HR Country",
+    "url": "https://de4.streamingpulse.com/ssl/7047",
+    "genre": "Music",
+    "city": "Laytown",
+    "country": "Ireland",
+    "lat": 53.6795281,
+    "lng": -6.242754
+  },
+  {
+    "id": "ireland-naadan-chaaya-radio",
+    "name": "Naadan Chaaya Radio",
+    "url": "https://uksoutha.streaming.broadcast.radio/naadanchaayaradio",
+    "genre": "Music",
+    "city": "Wexford",
+    "country": "Ireland",
+    "lat": 52.3367671,
+    "lng": -6.4601397
+  },
+  {
+    "id": "ireland-owenea-fm-1008",
+    "name": "Owenea FM 100.8",
+    "url": "https://rsstreaming.com/proxy/owenea_fm?mp=/stream",
+    "genre": "Music",
+    "city": "Letterkenny",
+    "country": "Ireland",
+    "lat": 54.9517941,
+    "lng": -7.7354368
+  },
+  {
+    "id": "ireland-birdhill-radio",
+    "name": "Birdhill Radio",
+    "url": "https://w42pfn4y.hostingenergy.com/",
+    "genre": "Music",
+    "city": "Tipperary",
+    "country": "Ireland",
+    "lat": 52.4734839,
+    "lng": -8.1614446
+  },
+  {
+    "id": "ireland-fuse-fm-1075",
+    "name": "Fuse FM 107.5",
+    "url": "https://fusefm.radioca.st/stream",
+    "genre": "Music",
+    "city": "Letterkenny",
+    "country": "Ireland",
+    "lat": 54.9517941,
+    "lng": -7.7354368
+  },
+  {
+    "id": "ireland-loughrea-community-radio",
+    "name": "Loughrea Community Radio",
+    "url": "https://stream1.hippynet.co.uk/stream/loughrea",
+    "genre": "Music",
+    "city": "Tipperary",
+    "country": "Ireland",
+    "lat": 52.4734839,
+    "lng": -8.1614446
+  },
+  {
+    "id": "ireland-over-the-west-online-radio",
+    "name": "Over the West Online Radio",
+    "url": "https://fast.citrus3.com:8302/stream",
+    "genre": "Music",
+    "city": "Letterkenny",
+    "country": "Ireland",
+    "lat": 54.9517941,
+    "lng": -7.7354368
+  },
+  {
+    "id": "ireland-highland-radio",
+    "name": "Highland Radio",
+    "url": "https://edge.audioxi.com/HIGHLAND",
+    "genre": "Music",
+    "city": "Letterkenny",
+    "country": "Ireland",
+    "lat": 54.9517941,
+    "lng": -7.7354368
+  },
+  {
+    "id": "ireland-tipp-mid-west-radio-1048-fm",
+    "name": "Tipp Mid West Radio 104.8 FM",
+    "url": "https://rsstreaming.com/proxy/tippmwr?mp=/stream",
+    "genre": "Music",
+    "city": "Tipperary",
+    "country": "Ireland",
+    "lat": 52.4734839,
+    "lng": -8.1614446
+  },
+  {
+    "id": "ireland-northern-sound",
+    "name": "Northern Sound",
+    "url": "https://edge.audioxi.com/NORTHERNSOUND",
+    "genre": "Music",
+    "city": "Letterkenny",
+    "country": "Ireland",
+    "lat": 54.9517941,
+    "lng": -7.7354368
+  },
+  {
+    "id": "ireland-rcb-radio-925-fm",
+    "name": "RCB Radio 92.5 FM",
+    "url": "http://178.33.135.245:3074/stream",
+    "genre": "Music",
+    "city": "Ennis",
+    "country": "Ireland",
+    "lat": 52.8435152,
+    "lng": -8.983747
+  },
+  {
+    "id": "ireland-kfm-976",
+    "name": "KFM 97.6",
+    "url": "http://sirius.shoutca.st:9307/stream",
+    "genre": "Music",
+    "city": "Naas",
+    "country": "Ireland",
+    "lat": 53.2214677,
+    "lng": -6.6574093
+  },
+  {
+    "id": "ireland-armagh-city-radio",
+    "name": "Armagh City Radio",
+    "url": "https://acrlive.radioca.st//stream",
+    "genre": "Music",
+    "city": "Dundalk",
+    "country": "Ireland",
+    "lat": 54.0046033,
+    "lng": -6.4008879
+  },
+  {
+    "id": "ireland-clonmellon-community-radio",
+    "name": "Clonmellon Community Radio",
+    "url": "https://eu8.fastcast4u.com/proxy/ccr?mp=/1",
+    "genre": "Music",
+    "city": "Kilkenny",
+    "country": "Ireland",
+    "lat": 52.6506255,
+    "lng": -7.2514438
+  },
+  {
+    "id": "ireland-ocean-fm-1025",
+    "name": "Ocean FM 102.5",
+    "url": "https://edge4.audioxi.com/OCEANS",
+    "genre": "Music",
+    "city": "Letterkenny",
+    "country": "Ireland",
+    "lat": 54.9517941,
+    "lng": -7.7354368
+  },
+  {
+    "id": "ireland-gocom-radio",
+    "name": "GOCOM Radio",
+    "url": "https://stream-161.zeno.fm/pc0k58u2um0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwYzBrNTh1MnVtMHV2IiwiaG9zdCI6InN0cmVhbS0xNjEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiMEdJNUg1cExRdWlqZ21GWGhqUkptUSIsImlhdCI6MTc2OTQxOTU3MiwiZXhwIjoxNzY5NDE5NjMyfQ.TIq3e7TMvvDcpKaxCUucPLnWfmGNSt08hLchMxje3fw",
+    "genre": "Music",
+    "city": "Ballyhaunis",
+    "country": "Ireland",
+    "lat": 53.7616691,
+    "lng": -8.7585405
+  },
+  {
+    "id": "ireland-south-east-radio",
+    "name": "South East Radio",
+    "url": "https://edge4.audioxi.com/SOUTHEAST",
+    "genre": "Music",
+    "city": "Wexford",
+    "country": "Ireland",
+    "lat": 52.3367671,
+    "lng": -6.4601397
+  },
+  {
+    "id": "ireland-mid-west-irish-radio",
+    "name": "Mid West Irish Radio",
+    "url": "https://edge-audio-01-cr.sharp-stream.com/midwestfmie2.aac",
+    "genre": "Music",
+    "city": "Ballyhaunis",
+    "country": "Ireland",
+    "lat": 53.7616691,
+    "lng": -8.7585405
+  },
+  {
+    "id": "ireland-uplift-radio",
+    "name": "Uplift Radio",
+    "url": "https://ice31.securenetsystems.net/UPLIFTFM",
+    "genre": "Music",
+    "city": "Letterkenny",
+    "country": "Ireland",
+    "lat": 54.9517941,
+    "lng": -7.7354368
+  },
+  {
+    "id": "ireland-radio-kerry-fm-96",
+    "name": "Radio Kerry FM 96",
+    "url": "https://edge.audioxi.com/KERRY",
+    "genre": "Music",
+    "city": "Tralee",
+    "country": "Ireland",
+    "lat": 52.2692116,
+    "lng": -9.7057047
+  }
+]

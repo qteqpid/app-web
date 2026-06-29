@@ -1,0 +1,440 @@
+[
+    {
+        "name": "ORF Radio Burgenland",
+        "city": "Bratislava",
+        "country": "Slovakia",
+        "url": "https://orf-live.ors-shoutcast.at/bgl-q1a"
+    },
+    {
+        "name": "Radio Litera",
+        "city": "Bratislava",
+        "country": "Slovakia",
+        "url": "http://live.slovakradio.sk:8000/Litera_128.mp3"
+    },
+    {
+        "name": "Fun Rádio Chill",
+        "city": "Bratislava",
+        "country": "Slovakia",
+        "url": "https://stream.funradio.sk:8000/chill128.mp3"
+    },
+    {
+        "name": "Fun Rádio 80's-90's",
+        "city": "Bratislava",
+        "country": "Slovakia",
+        "url": "https://stream.funradio.sk:8000/80-90-128.mp3"
+    },
+    {
+        "name": "Fun Rádio Live",
+        "city": "Bratislava",
+        "country": "Slovakia",
+        "url": "https://stream.funradio.sk:8000/fun192.mp3"
+    },
+    {
+        "name": "RVE Viena Deutsch",
+        "city": "Bratislava",
+        "country": "Slovakia",
+        "url": "https://s2.free-shoutcast.com/stream/18120"
+    },
+    {
+        "name": "Rádio Vlna",
+        "city": "Bratislava",
+        "country": "Slovakia",
+        "url": "https://stream.radiovlna.sk/vlna-hi.mp3"
+    },
+    {
+        "name": "Győr Plusz Radio",
+        "city": "Bratislava",
+        "country": "Slovakia",
+        "url": "https://stream.42netmedia.com:8443/sc_gyor1"
+    },
+    {
+        "name": "Rádio Vlna Oldies Party",
+        "city": "Bratislava",
+        "country": "Slovakia",
+        "url": "https://stream.radiovlna.sk:8000/party-hi.mp3"
+    },
+    {
+        "name": "Rádio Jih Cimbálka 91.4 FM",
+        "city": "Bratislava",
+        "country": "Slovakia",
+        "url": "https://icecast6.play.cz/jihcimbalka128.mp3"
+    },
+    {
+        "name": "Rádio Mária Slovensko",
+        "city": "Bratislava",
+        "country": "Slovakia",
+        "url": "https://dreamsiteradiocp5.com/proxy/radiomariaslomp3?mp=/stream.mp3"
+    },
+    {
+        "name": "Radio Viva",
+        "city": "Bratislava",
+        "country": "Slovakia",
+        "url": "https://stream.sepia.sk:8000/viva128.mp3"
+    },
+    {
+        "name": "Rádio Slovakia International",
+        "city": "Bratislava",
+        "country": "Slovakia",
+        "url": "https://icecast.stv.livebox.sk/rsi_128.mp3"
+    },
+    {
+        "name": "Rádio_FM",
+        "city": "Bratislava",
+        "country": "Slovakia",
+        "url": "https://icecast.stv.livebox.sk/fm_128.mp3"
+    },
+    {
+        "name": "Rádio Regina Stred",
+        "city": "Banská Bystrica",
+        "country": "Slovakia",
+        "url": "https://icecast.stv.livebox.sk/regina-bb_128.mp3"
+    },
+    {
+        "name": "Rádio Slovensko 96.6 FM",
+        "city": "Bratislava",
+        "country": "Slovakia",
+        "url": "https://icecast.stv.livebox.sk/slovensko_128.mp3"
+    },
+    {
+        "name": "Rádio Lumen",
+        "city": "Banská Bystrica",
+        "country": "Slovakia",
+        "url": "https://audio.lumen.sk/live64.mp3"
+    },
+    {
+        "name": "TLIS Rádio",
+        "city": "Bratislava",
+        "country": "Slovakia",
+        "url": "https://stream.tlis.sk/tlis.mp3"
+    },
+    {
+        "name": "Megafon FM 95.7",
+        "city": "Banská Bystrica",
+        "country": "Slovakia",
+        "url": "http://78.131.58.127:8000/stream"
+    },
+    {
+        "name": "Radio Blanik",
+        "city": "Bratislava",
+        "country": "Slovakia",
+        "url": "https://23543.live.streamtheworld.com:443/RADIO_BLANIK_128.mp3"
+    },
+    {
+        "name": "Rádio Beta",
+        "city": "Banská Bystrica",
+        "country": "Slovakia",
+        "url": "http://109.71.67.102:8000/beta_live_low.mp3"
+    },
+    {
+        "name": "Rádio Pohoda",
+        "city": "Banská Bystrica",
+        "country": "Slovakia",
+        "url": "http://mpc1.mediacp.eu:18214/stream"
+    },
+    {
+        "name": "Rádio Regina Banská Bystrica",
+        "city": "Banská Bystrica",
+        "country": "Slovakia",
+        "url": "http://live.slovakradio.sk:8000/Regina_BB_32.mp3"
+    },
+    {
+        "name": "BB FM 100.3",
+        "city": "Banská Bystrica",
+        "country": "Slovakia",
+        "url": "https://stream.bbfm.sk/bbfm128.mp3"
+    },
+    {
+        "name": "Rádio Regina Východ",
+        "city": "Košice",
+        "country": "Slovakia",
+        "url": "https://icecast.stv.livebox.sk/regina-ke_128.mp3"
+    },
+    {
+        "name": "Friss FM",
+        "city": "Košice",
+        "country": "Slovakia",
+        "url": "http://stream.frissfm.hu:10050/index.html?sid=1"
+    },
+    {
+        "name": "Európa Rádió FM 90.4",
+        "city": "Košice",
+        "country": "Slovakia",
+        "url": "https://europaradio.hu/miskolc"
+    },
+    {
+        "name": "Rádio KIKS",
+        "city": "Košice",
+        "country": "Slovakia",
+        "url": "https://online.radiokiks.sk:8000/kiks_hq.mp3"
+    },
+    {
+        "name": "Metal Heart Radio",
+        "city": "Žilina",
+        "country": "Slovakia",
+        "url": "http://fr.radio-streamhosting.com:8000/metalheartradio128mp3"
+    },
+    {
+        "name": "Rádio Beta Hity 80s a 90s",
+        "city": "Žilina",
+        "country": "Slovakia",
+        "url": "http://109.71.67.102:8000/beta_80a90.mp3"
+    },
+    {
+        "name": "Európa Rádió FM 100.0",
+        "city": "Košice",
+        "country": "Slovakia",
+        "url": "https://europaradio.hu/satoraljaujhely"
+    },
+    {
+        "name": "Na Vlne Liptova",
+        "city": "Banská Bystrica",
+        "country": "Slovakia",
+        "url": "https://www.navlneliptova.sk/?radio_player_play=http%3A%2F%2Fradioserver.online%3A8009%2Fhq.mp3"
+    },
+    {
+        "name": "AudioKostel Dolní Němčí",
+        "city": "Trnava",
+        "country": "Slovakia",
+        "url": "https://evcast.mediacp.eu:1585/stream"
+    },
+    {
+        "name": "MeloRadio Bielsko-Biala 87.9 FM",
+        "city": "Žilina",
+        "country": "Slovakia",
+        "url": "https://ml04.cdn.eurozet.pl/mel-bls.mp3"
+    },
+    {
+        "name": "Radio Pohoda 2",
+        "city": "Žilina",
+        "country": "Slovakia",
+        "url": "https://mpc1.mediacp.eu:8111/stream"
+    },
+    {
+        "name": "Lem.FM",
+        "city": "Košice",
+        "country": "Slovakia",
+        "url": "http://n0d.radiojar.com/2fa0gbhr9bhvv?rj-ttl=5&rj-tok=AAABm_ncOGoAk-rqO7mID9ye_g"
+    },
+    {
+        "name": "Fun Rádio Milenialky",
+        "city": "Trnava",
+        "country": "Slovakia",
+        "url": "https://stream.funradio.sk:8000/milenialky128.mp3"
+    },
+    {
+        "name": "Sky Rádio",
+        "city": "Prešov",
+        "country": "Slovakia",
+        "url": "http://stream.skyradio.sk:8000/sky128"
+    },
+    {
+        "name": "HírFM Nyíregyháza 102.6 FM",
+        "city": "Košice",
+        "country": "Slovakia",
+        "url": "https://n24a-eu.rcs.revma.com/bck7den8b2uvv?rj-ttl=5&rj-tok=AAABm_ncNtYA3IqWvjKkA7phQA"
+    },
+    {
+        "name": "Rádio Rebeca",
+        "city": "Banská Bystrica",
+        "country": "Slovakia",
+        "url": "https://mpc2.mediacp.eu:8200/rebecaweb"
+    },
+    {
+        "name": "FM 103 Csillagpont Radio",
+        "city": "Prešov",
+        "country": "Slovakia",
+        "url": "http://streamer1.borsodweb.hu:48000/csillagpont"
+    },
+    {
+        "name": "Radio Aetter",
+        "city": "Trnava",
+        "country": "Slovakia",
+        "url": "https://stream.aetter.sk/aetter"
+    },
+    {
+        "name": "Forrás Rádió Mount FM 97.8",
+        "city": "Nitra",
+        "country": "Slovakia",
+        "url": "http://91.82.85.44:1630/forrasradio.mp3"
+    },
+    {
+        "name": "Trnavske Radio",
+        "city": "Trnava",
+        "country": "Slovakia",
+        "url": "https://solid33.streamupsolutions.com/proxy/mujdmamw/trnavske"
+    },
+    {
+        "name": "Radio Anioł Beskidów",
+        "city": "Martin",
+        "country": "Slovakia",
+        "url": "http://88.135.172.249:22000/stream/1/"
+    },
+    {
+        "name": "RDN Nowy Sącz 101,2 FM",
+        "city": "Prešov",
+        "country": "Slovakia",
+        "url": "https://stream1.dabcom.pl/rdn_ns"
+    },
+    {
+        "name": "Rádio Dychovka",
+        "city": "Trenčín",
+        "country": "Slovakia",
+        "url": "https://epanel.mediacp.eu:7661/stream"
+    },
+    {
+        "name": "Radio 66",
+        "city": "Trenčín",
+        "country": "Slovakia",
+        "url": "https://ice3.abradio.cz/route128.mp3"
+    },
+    {
+        "name": "Rádio Jih 88.9 FM",
+        "city": "Piešťany",
+        "country": "Slovakia",
+        "url": "https://icecast6.play.cz/jih128.mp3"
+    },
+    {
+        "name": "Trendy Radio",
+        "city": "Prešov",
+        "country": "Slovakia",
+        "url": "https://stream.trendyradio.pl/mi"
+    },
+    {
+        "name": "Sub FM Rádio",
+        "city": "Piešťany",
+        "country": "Slovakia",
+        "url": "https://stream.subfm.sk/subfm"
+    },
+    {
+        "name": "Rádio Šírava 89.7 FM",
+        "city": "Michalovce",
+        "country": "Slovakia",
+        "url": "https://stream.sepia.sk/radiosirava.mp3"
+    },
+    {
+        "name": "Rádio Prešov - Prešovskej Univerzity",
+        "city": "Prešov",
+        "country": "Slovakia",
+        "url": "https://stream-175.zeno.fm/92cv04cggfhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI5MmN2MDRjZ2dmaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiOVRiZEV3ZERReHlkVzVyWGY4emM1USIsImlhdCI6MTc2OTQyMjkxOCwiZXhwIjoxNzY5NDIyOTc4fQ.O6jwPLIsr9IOerZK9kEf0UyAliW5cqHhUHXOfOqHZEo"
+    },
+    {
+        "name": "Radio Szentendre",
+        "city": "Banská Belá",
+        "country": "Slovakia",
+        "url": "http://radioszentendre.podzone.net:13040/szentendre"
+    },
+    {
+        "name": "Európa Rádió FM 100.5",
+        "city": "Michalovce",
+        "country": "Slovakia",
+        "url": "https://europaradio.hu/nyiregyhaza"
+    },
+    {
+        "name": "Trió FM 97.7",
+        "city": "Halič",
+        "country": "Slovakia",
+        "url": "http://92.119.123.141:9090/stream"
+    },
+    {
+        "name": "Radio Alex 105.2 FM",
+        "city": "Liptovský Mikuláš",
+        "country": "Slovakia",
+        "url": "https://srv0.streamradiowy.eu/radioalex"
+    },
+    {
+        "name": "Radio 1 Eger 101.3",
+        "city": "Halič",
+        "country": "Slovakia",
+        "url": "https://dc2.dcsolutions.hu:8445/radio1eger"
+    },
+    {
+        "name": "Rádio Junior",
+        "city": "Rádio Vlna",
+        "country": "Bratislava, Slovakia",
+        "url": "http://live.slovakradio.sk:8000/Junior_32.mp3"
+    },
+    {
+        "name": "Best FM",
+        "city": "Rádio Vlna",
+        "country": "Bratislava, Slovakia",
+        "url": "https://stream3.bestfm.sk:8000/160.aac"
+    },
+    {
+        "name": "Radio Rock SV",
+        "city": "Snina",
+        "country": "Slovakia",
+        "url": "https://s2.myradiostream.com:4870/listen.mp3?nocache=1769422920"
+    },
+    {
+        "name": "SRo 2 Rádio Regina Západ",
+        "city": "Fun Rádio Live",
+        "country": "Bratislava, Slovakia",
+        "url": "http://live.slovakradio.sk:8000/Regina_BA_128.mp3"
+    },
+    {
+        "name": "Radio Jazz",
+        "city": "Rádio Slovensko 96.6 FM",
+        "country": "Bratislava, Slovakia",
+        "url": "https://stream.sepia.sk:8000/jazz192.mp3"
+    },
+    {
+        "name": "Radio Andrychów AM 1584",
+        "city": "Liptovský Mikuláš",
+        "country": "Slovakia",
+        "url": "https://s1.slotex.pl:7424/stream/1/"
+    },
+    {
+        "name": "FIT Family RÁDIO",
+        "city": "Halič",
+        "country": "Slovakia",
+        "url": "https://solid1.streamupsolutions.com/proxy/utwrguip/stream"
+    },
+    {
+        "name": "Rádio Vlna Golden Hits",
+        "city": "Fun Rádio Live",
+        "country": "Bratislava, Slovakia",
+        "url": "https://stream.radiovlna.sk/gold-hi.mp3"
+    },
+    {
+        "name": "Rádio Patria",
+        "city": "Rádio Slovensko 96.6 FM",
+        "country": "Bratislava, Slovakia",
+        "url": "https://icecast.stv.livebox.sk/patria_128.mp3"
+    },
+    {
+        "name": "Top Rádio 97.2 FM",
+        "city": "Rádio Vlna",
+        "country": "Bratislava, Slovakia",
+        "url": "https://solid1.streamupsolutions.com/proxy/vhhggmih/stream"
+    },
+    {
+        "name": "Rádio SiTy",
+        "city": "Rádio Slovensko 96.6 FM",
+        "country": "Bratislava, Slovakia",
+        "url": "https://radiosity.online:8000/aac"
+    },
+    {
+        "name": "Rádio 7",
+        "city": "Rádio Slovensko 96.6 FM",
+        "country": "Bratislava, Slovakia",
+        "url": "https://play.radio7.sk/128"
+    },
+    {
+        "name": "Fresh Rádio",
+        "city": "Rádio_FM",
+        "country": "Bratislava, Slovakia",
+        "url": "https://icecast2.radionet.sk/freshradio.sk"
+    },
+    {
+        "name": "Radio Rusyn FM",
+        "city": "Rádio_FM",
+        "country": "Bratislava, Slovakia",
+        "url": "https://stream.rusyn.fm/rusyny.mp3"
+    },
+    {
+        "name": "Hitradio Slovakia",
+        "city": "Rádio Vlna",
+        "country": "Bratislava, Slovakia",
+        "url": "https://hitradioslovakia.stream.laut.fm/hitradioslovakia?t302=2026-01-26_10-22-02&uuid=d7843f87-e0c8-4642-b97a-58d87df54b18"
+    }
+]

@@ -1,0 +1,352 @@
+[
+  {
+    "id": "japan-gyusyabu--retro-pc-game-radio",
+    "name": "Gyusyabu - Retro PC Game Radio",
+    "url": "http://gyusyabu.ddo.jp:8000/;stream.mp3",
+    "genre": "Music",
+    "city": "Tokyo",
+    "country": "Japan",
+    "lat": 35.6768601,
+    "lng": 139.7638947
+  },
+  {
+    "id": "japan-sound-up-station-nfrs",
+    "name": "Sound Up Station NFRS",
+    "url": "http://live2.rcast.net:9172/;stream",
+    "genre": "Music",
+    "city": "Osaka",
+    "country": "Japan",
+    "lat": 34.6937569,
+    "lng": 135.5014539
+  },
+  {
+    "id": "japan-pinoy-love-radio-1037-fm",
+    "name": "Pinoy Love Radio 103.7 FM",
+    "url": "http://s2.voscast.com:12454/index.html?sid=1",
+    "genre": "Music",
+    "city": "Tokyo",
+    "country": "Japan",
+    "lat": 35.6768601,
+    "lng": 139.7638947
+  },
+  {
+    "id": "japan-gotanno-892-足立区民放送",
+    "name": "Gotanno 89.2 足立区民放送",
+    "url": "https://radio.gotanno.love/index.html?sid=1",
+    "genre": "Music",
+    "city": "Tokyo",
+    "country": "Japan",
+    "lat": 35.6768601,
+    "lng": 139.7638947
+  },
+  {
+    "id": "japan-radio-eigekai-indies",
+    "name": "Radio Eigekai Indies",
+    "url": "http://n03.radiojar.com/66zgtscuc1duv?rj-ttl=5&rj-tok=AAABm_msA44A__WbnYqU-z2QDA",
+    "genre": "Music",
+    "city": "Tokyo",
+    "country": "Japan",
+    "lat": 35.6768601,
+    "lng": 139.7638947
+  },
+  {
+    "id": "japan-listenmoe",
+    "name": "Listen.moe",
+    "url": "https://listen.moe/fallback",
+    "genre": "Music",
+    "city": "Tokyo",
+    "country": "Japan",
+    "lat": 35.6768601,
+    "lng": 139.7638947
+  },
+  {
+    "id": "japan-rádio-mega-mix-japan",
+    "name": "Rádio Mega Mix Japan",
+    "url": "https://c36.radioboss.fm:8135/stream",
+    "genre": "Music",
+    "city": "Tokyo",
+    "country": "Japan",
+    "lat": 35.6768601,
+    "lng": 139.7638947
+  },
+  {
+    "id": "japan-nonstop-casiopea",
+    "name": "Nonstop Casiopea",
+    "url": "https://nonstopcasiopea.radioca.st/index.html?sid=1",
+    "genre": "Music",
+    "city": "Tokyo",
+    "country": "Japan",
+    "lat": 35.6768601,
+    "lng": 139.7638947
+  },
+  {
+    "id": "japan-エフエムつやま780-mhz",
+    "name": "エフエムつやま78.0 MHz",
+    "url": "http://onair.fm-tsuyama.jp:1080/fmtsuyama_live.ogg",
+    "genre": "Music",
+    "city": "Osaka",
+    "country": "Japan",
+    "lat": 34.6937569,
+    "lng": 135.5014539
+  },
+  {
+    "id": "japan-嘉義環球廣播電台-fm1071",
+    "name": "嘉義環球廣播電台 FM107.1",
+    "url": "http://60.248.53.115:8081/",
+    "genre": "Music",
+    "city": "Okinawa",
+    "country": "Japan",
+    "lat": 26.5707754,
+    "lng": 128.0255901
+  },
+  {
+    "id": "japan-正義廣播電台-fm889",
+    "name": "正義廣播電台 FM88.9",
+    "url": "http://211.20.119.103:8081/",
+    "genre": "Music",
+    "city": "Okinawa",
+    "country": "Japan",
+    "lat": 26.5707754,
+    "lng": 128.0255901
+  },
+  {
+    "id": "japan-竹塹廣播電台-fm903",
+    "name": "竹塹廣播電台 FM90.3",
+    "url": "http://211.72.230.118:8081/",
+    "genre": "Music",
+    "city": "Okinawa",
+    "country": "Japan",
+    "lat": 26.5707754,
+    "lng": 128.0255901
+  },
+  {
+    "id": "japan-歡喜之聲廣播電台-fm1055",
+    "name": "歡喜之聲廣播電台 FM105.5",
+    "url": "http://59.125.41.65:8081/",
+    "genre": "Music",
+    "city": "Okinawa",
+    "country": "Japan",
+    "lat": 26.5707754,
+    "lng": 128.0255901
+  },
+  {
+    "id": "japan-ottava",
+    "name": "Ottava",
+    "url": "https://ottava2.out.airtime.pro:8000/ottava2_a",
+    "genre": "Music",
+    "city": "Tokyo",
+    "country": "Japan",
+    "lat": 35.6768601,
+    "lng": 139.7638947
+  },
+  {
+    "id": "japan-radicro",
+    "name": "RadiCro",
+    "url": "https://radicrojapan.out.airtime.pro/radicrojapan_a",
+    "genre": "Music",
+    "city": "Osaka",
+    "country": "Japan",
+    "lat": 34.6937569,
+    "lng": 135.5014539
+  },
+  {
+    "id": "japan-shonan-beach-fm-789-湘南ビーチ",
+    "name": "Shonan Beach FM 78.9 湘南ビーチ",
+    "url": "https://shonanbeachfm.out.airtime.pro:8000/shonanbeachfm_a",
+    "genre": "Music",
+    "city": "Tokyo",
+    "country": "Japan",
+    "lat": 35.6768601,
+    "lng": 139.7638947
+  },
+  {
+    "id": "japan-radio",
+    "name": "r/a/dio",
+    "url": "https://stream.r-a-d.io/main.mp3",
+    "genre": "Music",
+    "city": "Osaka",
+    "country": "Japan",
+    "lat": 34.6937569,
+    "lng": 135.5014539
+  },
+  {
+    "id": "japan-sdbs-news-channel-fm-909",
+    "name": "SDBS News Channel FM 90.9",
+    "url": "https://lhttp.qingting.fm/live/275/64k.mp3",
+    "genre": "Music",
+    "city": "Okinawa",
+    "country": "Japan",
+    "lat": 26.5707754,
+    "lng": 128.0255901
+  },
+  {
+    "id": "japan-súper-tokio-radio",
+    "name": "Súper Tokio Radio",
+    "url": "https://streamer.radio.co/s83eb8ff39/listen",
+    "genre": "Music",
+    "city": "Tokyo",
+    "country": "Japan",
+    "lat": 35.6768601,
+    "lng": 139.7638947
+  },
+  {
+    "id": "japan-afn-thunder-1575-am-misawa",
+    "name": "AFN Thunder 1575 AM Misawa",
+    "url": "https://17853.live.streamtheworld.com:443/AFNP_MSW.mp3",
+    "genre": "Music",
+    "city": "Niigata",
+    "country": "Japan",
+    "lat": 37.6452283,
+    "lng": 138.7669125
+  },
+  {
+    "id": "japan-afn-sasebo-fm-931",
+    "name": "AFN Sasebo FM 93.1",
+    "url": "https://27913.live.streamtheworld.com:443/AFNP_SBO.mp3",
+    "genre": "Music",
+    "city": "Sasebo",
+    "country": "Japan",
+    "lat": 33.1799965,
+    "lng": 129.7152872
+  },
+  {
+    "id": "japan-wbs-fm-897",
+    "name": "WBS FM 89.7",
+    "url": "https://wbsradio.kr/wbs-seoul",
+    "genre": "Music",
+    "city": "Sasebo",
+    "country": "Japan",
+    "lat": 33.1799965,
+    "lng": 129.7152872
+  },
+  {
+    "id": "japan-ashiyaradio〜アシヤ・ラヂヲ〜",
+    "name": "AshiyaRadio〜アシヤ・ラヂヲ〜",
+    "url": "https://s3.radio.co/sc8d895604/listen",
+    "genre": "Music",
+    "city": "Tokyo",
+    "country": "Japan",
+    "lat": 35.6768601,
+    "lng": 139.7638947
+  },
+  {
+    "id": "japan-my-hangul-cafe-online-radio",
+    "name": "My Hangul Cafe Online Radio",
+    "url": "https://stream-176.zeno.fm/4zhg2xz4138uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0emhnMnh6NDEzOHV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiMDdITkNGVHBSMTZKVUdhdzNmX1VrZyIsImlhdCI6MTc2OTQxOTc2MCwiZXhwIjoxNzY5NDE5ODIwfQ.QLbMDHKSvCDnB_nThPVR3kdL7K1pJc7xA0TeFXgPXEU",
+    "genre": "Music",
+    "city": "Sasebo",
+    "country": "Japan",
+    "lat": 33.1799965,
+    "lng": 129.7152872
+  },
+  {
+    "id": "japan-afn-eagle-810-am-tokyo",
+    "name": "AFN Eagle 810 AM Tokyo",
+    "url": "https://22963.live.streamtheworld.com:443/AFNP_TKO.mp3",
+    "genre": "Music",
+    "city": "Tokyo",
+    "country": "Japan",
+    "lat": 35.6768601,
+    "lng": 139.7638947
+  },
+  {
+    "id": "japan-wbs-광주원음방송-1079",
+    "name": "WBS 광주원음방송 107.9",
+    "url": "https://wbsradio2.kr/wbs-g",
+    "genre": "Music",
+    "city": "Sasebo",
+    "country": "Japan",
+    "lat": 33.1799965,
+    "lng": 129.7152872
+  },
+  {
+    "id": "japan-mix-fm-1027",
+    "name": "Mix FM 102.7",
+    "url": "http://radio.gubernia.com:8000/radio3",
+    "genre": "Music",
+    "city": "Shibetsu",
+    "country": "Japan",
+    "lat": 44.1785114,
+    "lng": 142.4001645
+  },
+  {
+    "id": "japan-j1-radio-gold",
+    "name": "J1 Radio Gold",
+    "url": "https://jenny.torontocast.com:2000/stream/J1GOLD",
+    "genre": "Music",
+    "city": "Misawa",
+    "country": "Japan",
+    "lat": 40.6829377,
+    "lng": 141.3692113
+  },
+  {
+    "id": "japan-afn-891-fm-okinawa",
+    "name": "AFN 89.1 FM Okinawa",
+    "url": "https://27163.live.streamtheworld.com:443/AFNP_OKN.mp3",
+    "genre": "Music",
+    "city": "Tokyo",
+    "country": "Japan",
+    "lat": 35.6768601,
+    "lng": 139.7638947
+  },
+  {
+    "id": "japan-tannan-fm-791",
+    "name": "Tannan FM 79.1",
+    "url": "https://tannan.mediaservice.jp:7910/index.html?sid=1",
+    "genre": "Music",
+    "city": "Sabae",
+    "country": "Japan",
+    "lat": 35.9565096,
+    "lng": 136.1843593
+  },
+  {
+    "id": "japan-afn-iwakuni-1575-am",
+    "name": "AFN Iwakuni 1575 AM",
+    "url": "https://18253.live.streamtheworld.com:443/AFNP_IWAAAC.aac",
+    "genre": "Music",
+    "city": "Iwakuni",
+    "country": "Japan",
+    "lat": 34.1664995,
+    "lng": 132.2191163
+  },
+  {
+    "id": "japan-radio-astv-1055",
+    "name": "Radio ASTV 105.5",
+    "url": "https://stream.astv.ru/stream.mp3",
+    "genre": "Music",
+    "city": "Misawa",
+    "country": "Japan",
+    "lat": 40.6829377,
+    "lng": 141.3692113
+  },
+  {
+    "id": "japan-nfrs-radio",
+    "name": "NFRS Radio",
+    "url": "https://securestreams.autopo.st:2592/stream",
+    "genre": "Music",
+    "city": "Nishinari Ward",
+    "country": "Japan",
+    "lat": 34.639074,
+    "lng": 135.490813
+  },
+  {
+    "id": "japan-羊飼いラジオ-hitsujikai-radio",
+    "name": "羊飼いラジオ Hitsujikai Radio",
+    "url": "https://streaming.radio.co/se4a8e6a93/listen",
+    "genre": "Music",
+    "city": "Shibetsu",
+    "country": "Japan",
+    "lat": 44.1785114,
+    "lng": 142.4001645
+  },
+  {
+    "id": "japan-energy-898-fm",
+    "name": "Energy 89.8 FM",
+    "url": "https://srv12.gpmradio.ru:8443/stream/reg/mp3/128/region_energy_49",
+    "genre": "Music",
+    "city": "Shibetsu",
+    "country": "Japan",
+    "lat": 44.1785114,
+    "lng": 142.4001645
+  }
+]

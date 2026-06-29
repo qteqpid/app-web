@@ -1,0 +1,282 @@
+[
+  {
+    "id": "bhutan-radio-sugar-908-fm",
+    "name": "Radio Sugar 90.8 FM",
+    "url": "http://188.165.222.198:8157/stream?type=http",
+    "genre": "Music",
+    "city": "Thimphu",
+    "country": "Bhutan",
+    "lat": 27.4713546,
+    "lng": 89.6336729
+  },
+  {
+    "id": "bhutan-hindi-desi-bollywood-evergreen-hits",
+    "name": "Hindi Desi Bollywood Evergreen Hits",
+    "url": "http://cast2.asurahosting.com:8569/stream",
+    "genre": "Music",
+    "city": "Bhubaneswar",
+    "country": "India",
+    "lat": 20.2602964,
+    "lng": 85.8394521
+  },
+  {
+    "id": "bhutan-bhutan-broadcasting-service-bbs1",
+    "name": "Bhutan Broadcasting Service BBS1",
+    "url": "https://radio.bbs.bt/mix-ch",
+    "genre": "Music",
+    "city": "Thimphu",
+    "country": "Bhutan",
+    "lat": 27.4713546,
+    "lng": 89.6336729
+  },
+  {
+    "id": "bhutan-vani-online-radio",
+    "name": "Vani Online Radio",
+    "url": "https://cast6.asurahosting.com/proxy/vaniradi/stream",
+    "genre": "Music",
+    "city": "Bhubaneswar",
+    "country": "India",
+    "lat": 20.2602964,
+    "lng": 85.8394521
+  },
+  {
+    "id": "bhutan-bhutan-broadcasting-service-bbs-2",
+    "name": "Bhutan Broadcasting Service BBS 2",
+    "url": "https://radio.bbs.bt/dz-ch",
+    "genre": "Music",
+    "city": "Thimphu",
+    "country": "Bhutan",
+    "lat": 27.4713546,
+    "lng": 89.6336729
+  },
+  {
+    "id": "bhutan-vaigai-fm",
+    "name": "Vaigai FM",
+    "url": "https://cast1.my-control-panel.com/proxy/geethan3/stream",
+    "genre": "Music",
+    "city": "Bhubaneswar",
+    "country": "India",
+    "lat": 20.2602964,
+    "lng": 85.8394521
+  },
+  {
+    "id": "bhutan-radio-mahananda-988-fm",
+    "name": "Radio Mahananda 98.8 FM",
+    "url": "https://streaming.radiomahananda.fm/proxy/radiomahananda/stream",
+    "genre": "Music",
+    "city": "Thimphu",
+    "country": "Bhutan",
+    "lat": 27.4713546,
+    "lng": 89.6336729
+  },
+  {
+    "id": "bhutan-radio-nalta-992fm",
+    "name": "Radio Nalta 99.2FM",
+    "url": "https://centova47.instainternet.com/proxy/radionalta?mp=/stream",
+    "genre": "Music",
+    "city": "Bhubaneswar",
+    "country": "India",
+    "lat": 20.2602964,
+    "lng": 85.8394521
+  },
+  {
+    "id": "bhutan-kodairagam-radio",
+    "name": "Kodairagam Radio",
+    "url": "https://server1.mahamediacast.com/proxy/kodairagam/stream",
+    "genre": "Music",
+    "city": "Bhubaneswar",
+    "country": "India",
+    "lat": 20.2602964,
+    "lng": 85.8394521
+  },
+  {
+    "id": "bhutan-maha-fm",
+    "name": "Maha FM",
+    "url": "https://server1.mahamediacast.com/proxy/mahafm/stream",
+    "genre": "Music",
+    "city": "Bhubaneswar",
+    "country": "India",
+    "lat": 20.2602964,
+    "lng": 85.8394521
+  },
+  {
+    "id": "bhutan-rcf-sud-belgique-fm-1068",
+    "name": "RCF Sud Belgique FM 106.8",
+    "url": "https://rcf.streamakaci.com/rcfsudbe.mp3",
+    "genre": "Music",
+    "city": "Boutancourt",
+    "country": "France",
+    "lat": 49.6800931,
+    "lng": 4.7708641
+  },
+  {
+    "id": "bhutan-radio-padma-992",
+    "name": "Radio Padma 99.2",
+    "url": "https://radiopadmabd.radioca.st/radiopadma",
+    "genre": "Music",
+    "city": "Thimphu",
+    "country": "Bhutan",
+    "lat": 27.4713546,
+    "lng": 89.6336729
+  },
+  {
+    "id": "bhutan-ankora-radio",
+    "name": "Ankora Radio",
+    "url": "https://stream-175.zeno.fm/xush70b1cbruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ4dXNoNzBiMWNicnV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiVjNZd3FJNTZROUd4RTdiczdRTV9BdyIsImlhdCI6MTc2OTQxNjg4MiwiZXhwIjoxNzY5NDE2OTQyfQ.8kbeI30IJCOWQwiSK3zvDD_HMKluEqx4GdM8Jy-FlS0",
+    "genre": "Music",
+    "city": "Bhubaneswar",
+    "country": "India",
+    "lat": 20.2602964,
+    "lng": 85.8394521
+  },
+  {
+    "id": "bhutan-radio-milan-fm-904",
+    "name": "Radio Milan FM 90.4",
+    "url": "https://stream-175.zeno.fm/io4zzsy1ndbvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJpbzR6enN5MW5kYnZ2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoicVpCdFFiaG1SdnFBMVUxZzMyUVdIdyIsImlhdCI6MTc2OTQxNjg4MiwiZXhwIjoxNzY5NDE2OTQyfQ.Ktl-gD3IgizNfNY962fg9GsVZYXXcD1JXtD4-4jdhKk",
+    "genre": "Music",
+    "city": "Bhubaneswar",
+    "country": "India",
+    "lat": 20.2602964,
+    "lng": 85.8394521
+  },
+  {
+    "id": "bhutan-radio-choklate-104-fm",
+    "name": "Radio Choklate 104 FM",
+    "url": "https://stream-152.zeno.fm/1t5ceyhcxbruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIxdDVjZXloY3hicnV2IiwiaG9zdCI6InN0cmVhbS0xNTIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoia0JDSWJGWnhUTFdhQ0RldUk4TXFDdyIsImlhdCI6MTc2OTQxNjg4MiwiZXhwIjoxNzY5NDE2OTQyfQ.XXDQoAsAlZjAFNeoGflP1VVNbcDBH-ER14iMjG1YcZs",
+    "genre": "Music",
+    "city": "Bhubaneswar",
+    "country": "India",
+    "lat": 20.2602964,
+    "lng": 85.8394521
+  },
+  {
+    "id": "bhutan-ktr-radio-932-fm",
+    "name": "KTR Radio 93.2 FM",
+    "url": "https://stream-177.zeno.fm/14p58qgm2p8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIxNHA1OHFnbTJwOHV2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiZmJYMmR3cjJSNEs1UFJ0X1Q0Wmx1ZyIsImlhdCI6MTc2OTQxNjg4MiwiZXhwIjoxNzY5NDE2OTQyfQ.YIMGWaBYr3qPXGRjhi8sfGgPmQ9NqlFkf_2Au74m0SY",
+    "genre": "Music",
+    "city": "Thimphu",
+    "country": "Bhutan",
+    "lat": 27.4713546,
+    "lng": 89.6336729
+  },
+  {
+    "id": "bhutan-radio-bouton-906-fm",
+    "name": "Radio Bouton 90.6 FM",
+    "url": "https://hosting.studioradiomedia.fr:1245/stream",
+    "genre": "Music",
+    "city": "Boutancourt",
+    "country": "France",
+    "lat": 49.6800931,
+    "lng": 4.7708641
+  },
+  {
+    "id": "bhutan-radio-ala-908-fm",
+    "name": "Radio Ala 90.8 F.m",
+    "url": "https://mahi.radioca.st/stream",
+    "genre": "Music",
+    "city": "Bhubaneswar",
+    "country": "India",
+    "lat": 20.2602964,
+    "lng": 85.8394521
+  },
+  {
+    "id": "bhutan-radio-chevauchoir-fm-1055",
+    "name": "Radio Chevauchoir FM 105.5",
+    "url": "https://radio10.pro-fhi.net/flux-nqjpklks/stream",
+    "genre": "Music",
+    "city": "Boutancourt",
+    "country": "France",
+    "lat": 49.6800931,
+    "lng": 4.7708641
+  },
+  {
+    "id": "bhutan-kodaicityfm-கோடைசிட்டி-இணைய-வானொலி",
+    "name": "KodaicityFM கோடைசிட்டி இணைய வானொலி",
+    "url": "https://strw3.openstream.co/786?aw_0_1st.collectionid%3D6812%26stationId%3D6812%26publisherId%3D810%26k%3D1769416882",
+    "genre": "Music",
+    "city": "Bhubaneswar",
+    "country": "India",
+    "lat": 20.2602964,
+    "lng": 85.8394521
+  },
+  {
+    "id": "bhutan-rmc",
+    "name": "RMC",
+    "url": "https://audio.bfmtv.com/rmcradio_128.mp3",
+    "genre": "Music",
+    "city": "Boutancourt",
+    "country": "France",
+    "lat": 49.6800931,
+    "lng": 4.7708641
+  },
+  {
+    "id": "bhutan-echo-fm",
+    "name": "Echo FM",
+    "url": "https://radio5.pro-fhi.net/flux-ghergigw/stream",
+    "genre": "Music",
+    "city": "Boutancourt",
+    "country": "France",
+    "lat": 49.6800931,
+    "lng": 4.7708641
+  },
+  {
+    "id": "bhutan-rvm",
+    "name": "RVM",
+    "url": "https://n08.rcs.revma.com/pz66me32fchvv?rj-ttl=5&rj-tok=AAABm_mAKK4A726SIBj-MfvgcQ",
+    "genre": "Music",
+    "city": "Boutancourt",
+    "country": "France",
+    "lat": 49.6800931,
+    "lng": 4.7708641
+  },
+  {
+    "id": "bhutan-europe-1",
+    "name": "Europe 1",
+    "url": "https://europe1.lmn.fm/europe1.mp3",
+    "genre": "Music",
+    "city": "Boutancourt",
+    "country": "France",
+    "lat": 49.6800931,
+    "lng": 4.7708641
+  },
+  {
+    "id": "bhutan-france-info-1057",
+    "name": "France Info 105.7",
+    "url": "https://icecast.radiofrance.fr/franceinfo-midfi.mp3",
+    "genre": "Music",
+    "city": "Boutancourt",
+    "country": "France",
+    "lat": 49.6800931,
+    "lng": 4.7708641
+  },
+  {
+    "id": "bhutan-france-inter",
+    "name": "France Inter",
+    "url": "https://icecast.radiofrance.fr/franceinter-midfi.mp3",
+    "genre": "Music",
+    "city": "Boutancourt",
+    "country": "France",
+    "lat": 49.6800931,
+    "lng": 4.7708641
+  },
+  {
+    "id": "bhutan-radio-music-sambre",
+    "name": "Radio Music Sambre",
+    "url": "https://radiomusicsambre.ice.infomaniak.ch/radiomusicsambre-128.mp3",
+    "genre": "Music",
+    "city": "Boutancourt",
+    "country": "France",
+    "lat": 49.6800931,
+    "lng": 4.7708641
+  },
+  {
+    "id": "bhutan-rfi-afrique",
+    "name": "RFI Afrique",
+    "url": "https://rfiafrique64k.ice.infomaniak.ch/rfiafrique-64.mp3",
+    "genre": "Music",
+    "city": "Boutancourt",
+    "country": "France",
+    "lat": 49.6800931,
+    "lng": 4.7708641
+  }
+]

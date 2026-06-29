@@ -1,0 +1,446 @@
+[
+    {
+        "name": "Akaboozi FM 87.9",
+        "city": "Kampala",
+        "country": "Uganda",
+        "url": "http://162.244.80.52:8732/;stream.mp3"
+    },
+    {
+        "name": "Kiira Media",
+        "city": "Kampala",
+        "country": "Uganda",
+        "url": "https://s3.free-shoutcast.com/stream/18132"
+    },
+    {
+        "name": "FOT Online Radio",
+        "city": "Kampala",
+        "country": "Uganda",
+        "url": "https://r1.comcities.com/proxy/fotonline/stream"
+    },
+    {
+        "name": "Tasha Community Radio",
+        "city": "Kampala",
+        "country": "Uganda",
+        "url": "https://cast5.asurahosting.com/proxy/habinco5/stream"
+    },
+    {
+        "name": "Capital FM 91.3",
+        "city": "Kampala",
+        "country": "Uganda",
+        "url": "https://capitalfm.cloudrad.io/index.html?sid=1"
+    },
+    {
+        "name": "KDR 100.3 FM",
+        "city": "Kampala",
+        "country": "Uganda",
+        "url": "https://radiocomnetu.org/kdrfm-stream"
+    },
+    {
+        "name": "Prime Radio 91.9 FM",
+        "city": "Kampala",
+        "country": "Uganda",
+        "url": "https://stream10.awr.live/listen/primeradio/web"
+    },
+    {
+        "name": "Point FM 105.1",
+        "city": "Kampala",
+        "country": "Uganda",
+        "url": "https://stream-15.aiir.com/tr8i96wjtcptv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0cjhpOTZ3anRjcHR2IiwiaG9zdCI6InN0cmVhbS0xNS5haWlyLmNvbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiN3pzN0diVU9TTGlRLVhDTFFmZmdWQSIsImlhdCI6MTc2OTQyMzkyMCwiZXhwIjoxNzY5NDIzOTgwfQ.fb68pCJvUF9me9_uD55NIlIgO0cUGo_JW6PtaogUoTM"
+    },
+    {
+        "name": "Radio Sapientia FM 94.4",
+        "city": "Kampala",
+        "country": "Uganda",
+        "url": "http://streaming.radiosapientia.com:6300/sapientia"
+    },
+    {
+        "name": "Radio Wa FM 89.8",
+        "city": "Kampala",
+        "country": "Uganda",
+        "url": "https://nr8.newradio.it/proxy/radiowa?mp=/stream/"
+    },
+    {
+        "name": "EJazz Radio",
+        "city": "Kampala",
+        "country": "Uganda",
+        "url": "https://eu1.reliastream.com/proxy/ejazzug?mp=/stream.mp3"
+    },
+    {
+        "name": "Namirembe FM 93.9",
+        "city": "Kampala",
+        "country": "Uganda",
+        "url": "https://s11.myradiostream.com:24382/listen.mp3?nocache=1769423920"
+    },
+    {
+        "name": "Radio QFM 94.3",
+        "city": "Kampala",
+        "country": "Uganda",
+        "url": "https://host.atenimedia.com/listen/radio_qfm_lira/radio.mp3"
+    },
+    {
+        "name": "Christ FM 91.6",
+        "city": "Kampala",
+        "country": "Uganda",
+        "url": "https://s39.myradiostream.com:15664/listen.mp3/"
+    },
+    {
+        "name": "Galaxy FM 100.2",
+        "city": "Kampala",
+        "country": "Uganda",
+        "url": "https://stream-165.zeno.fm/ahtmyttw5mftv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJhaHRteXR0dzVtZnR2IiwiaG9zdCI6InN0cmVhbS0xNjUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiajdjSFRoV2ZTNktveGZ0YThPbV9PUSIsImlhdCI6MTc2OTQyMzkyMCwiZXhwIjoxNzY5NDIzOTgwfQ.rEA64Ri8Y-M7M9J5cutqS8Y5S7XQKkUOhHk-hLMutYA"
+    },
+    {
+        "name": "Voice of Lango 88.0 FM",
+        "city": "Kampala",
+        "country": "Uganda",
+        "url": "https://stream-163.zeno.fm/gbp29ctt6rhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJnYnAyOWN0dDZyaHZ2IiwiaG9zdCI6InN0cmVhbS0xNjMuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiNFJPYzRuYWpUekNLVTAwdWhBdjRHUSIsImlhdCI6MTc2OTQyMzkyMCwiZXhwIjoxNzY5NDIzOTgwfQ.hx8CdKCwv3TZWaqG91Ogt0N6caG2FX8706beQfhDrO8"
+    },
+    {
+        "name": "Radio Unity FM 97.7",
+        "city": "Kampala",
+        "country": "Uganda",
+        "url": "https://stream-151.zeno.fm/e4ru9m1x768uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJlNHJ1OW0xeDc2OHV2IiwiaG9zdCI6InN0cmVhbS0xNTEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoickxJekMzTVZTNW1QdUNMRU1sUm1EUSIsImlhdCI6MTc2OTQyMzkyMCwiZXhwIjoxNzY5NDIzOTgwfQ.DiDZloZVmKoqgvUmGd0WKD710s0N6fPvepZNdMANa9Y"
+    },
+    {
+        "name": "Radio West FM 100.2",
+        "city": "Mbarara",
+        "country": "Uganda",
+        "url": "https://stream.hydeinnovations.com:2020/stream/radiowest/"
+    },
+    {
+        "name": "Crooze FM 91.2",
+        "city": "Mbarara",
+        "country": "Uganda",
+        "url": "https://stream-156.zeno.fm/vyxwdk08apxtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2eXh3ZGswOGFweHR2IiwiaG9zdCI6InN0cmVhbS0xNTYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoidG9lUkdxR1NRTXVzVEhBWF9hNm45ZyIsImlhdCI6MTc2OTQyMzkyMSwiZXhwIjoxNzY5NDIzOTgxfQ.8TdMxJRCU-4tKpr1oLz9hfuWVRl_iCbP9gR8ZFpYddo"
+    },
+    {
+        "name": "Radio Simba FM 97.3",
+        "city": "Kampala",
+        "country": "Uganda",
+        "url": "https://www.radiosimba.ug/stream2"
+    },
+    {
+        "name": "Radio Maria Uganda - Kabale",
+        "city": "Mbarara",
+        "country": "Uganda",
+        "url": "https://dreamsiteradiocp5.com/proxy/ugandakabale?mp=/stream"
+    },
+    {
+        "name": "Grace Radio 92.6 FM",
+        "city": "Mbarara",
+        "country": "Uganda",
+        "url": "https://stream-164.zeno.fm/nmikxihnfowvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJubWlreGlobmZvd3Z2IiwiaG9zdCI6InN0cmVhbS0xNjQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiaWpUWlpHNXZSbFdkbGc1dFlVUTZTZyIsImlhdCI6MTc2OTQyMzkyMSwiZXhwIjoxNzY5NDIzOTgxfQ.-Ims48aDy8VqmSwiwkvvtSClku8JZtO_aYZjnTk4ABg"
+    },
+    {
+        "name": "Etoil a Karamoja 92.7 FM",
+        "city": "Lira",
+        "country": "Uganda",
+        "url": "https://www.radiocomnetu.org/etoilakaramoja-stream"
+    },
+    {
+        "name": "Vision Radio FM 89.1",
+        "city": "Mbarara",
+        "country": "Uganda",
+        "url": "https://stream-153.zeno.fm/rmtdek37zxhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJybXRkZWszN3p4aHZ2IiwiaG9zdCI6InN0cmVhbS0xNTMuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiTUlhc1JZZ0RTcldpd1BmWVR0TldkQSIsImlhdCI6MTc2OTQyMzkyMiwiZXhwIjoxNzY5NDIzOTgyfQ.qxUYNs43e9XHPPJdshJGA_st6XKfTa3HgnIcGqQzR-8"
+    },
+    {
+        "name": "Revival Radio 93.2 FM",
+        "city": "Mbarara",
+        "country": "Uganda",
+        "url": "https://stream-157.zeno.fm/4a64z8hqfg0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0YTY0ejhocWZnMHV2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoicjRPR0NJeVFSakdrX3hQVVZUWnFZZyIsImlhdCI6MTc2OTQyMzkyMiwiZXhwIjoxNzY5NDIzOTgyfQ.5p-SWk9lBZ0-yejjUNkE-aljNlTOPZ8B5x-6VCPsfaM"
+    },
+    {
+        "name": "89.5 Speak FM",
+        "city": "Lira",
+        "country": "Uganda",
+        "url": "https://www.radiocomnetu.org/speakfm-stream"
+    },
+    {
+        "name": "Flamez Radio",
+        "city": "Lira",
+        "country": "Uganda",
+        "url": "https://host.atenimedia.com/listen/flamez_radio/radio.mp3"
+    },
+    {
+        "name": "Radio Rukungiri 96.9FM",
+        "city": "Mbarara",
+        "country": "Uganda",
+        "url": "https://radio.julyhost.net/8244/stream"
+    },
+    {
+        "name": "Etop FM 99.4",
+        "city": "Lira",
+        "country": "Uganda",
+        "url": "https://stream.hydeinnovations.com:2020/stream/etop/"
+    },
+    {
+        "name": "BFM Radio 92.2FM",
+        "city": "Mbarara",
+        "country": "Uganda",
+        "url": "https://stream-156.zeno.fm/7uuwoqyvb4ltv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI3dXV3b3F5dmI0bHR2IiwiaG9zdCI6InN0cmVhbS0xNTYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiSDV6aEQ5cHNUVjY1TUxlakFROXNtUSIsImlhdCI6MTc2OTQyMzkyMywiZXhwIjoxNzY5NDIzOTgzfQ.0Mrt9JItmjJ6fIaM3sJqicsg3GsAdoyMCLCJSMGyn6I"
+    },
+    {
+        "name": "Radio Ankole 99.3 FM",
+        "city": "Mbarara",
+        "country": "Uganda",
+        "url": "https://stream-179.zeno.fm/tx3pbguupg8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0eDNwYmd1dXBnOHV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiaU9Pc05hN2pTV21ibENMUkkyYTAwdyIsImlhdCI6MTc2OTQyMzkyMywiZXhwIjoxNzY5NDIzOTgzfQ.iZlMr_rUmIccgNKs8ZhlXj6ugO0W8pHQ_6lQi649jgw"
+    },
+    {
+        "name": "O Radio - Luo",
+        "city": "Lira",
+        "country": "Uganda",
+        "url": "http://n02.radiojar.com/xwy6byka3f3vv?rj-ttl=5&rj-tok=AAABm_nrkxkApYJ9HyQUbPPbsQ"
+    },
+    {
+        "name": "Street Deejays",
+        "city": "Mbarara",
+        "country": "Uganda",
+        "url": "https://stream-152.zeno.fm/nbwdnxz7na0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJuYndkbnh6N25hMHV2IiwiaG9zdCI6InN0cmVhbS0xNTIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiMDdFWERKVktTZEtHcFFqSHFpaHVsZyIsImlhdCI6MTc2OTQyMzkyMywiZXhwIjoxNzY5NDIzOTgzfQ.UC4oIzEpli0pCMuZcBbDVxipBuMVXiy8hwOQAItJJww"
+    },
+    {
+        "name": "Hope Radio FM 102.6",
+        "city": "Kabale",
+        "country": "Uganda",
+        "url": "https://media.streambrothers.com:8422/stream"
+    },
+    {
+        "name": "LBS Radio 90.3 FM",
+        "city": "Lira",
+        "country": "Uganda",
+        "url": "https://stream-176.zeno.fm/uff7j1wzzaxvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1ZmY3ajF3enpheHZ2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiOGtsTTE5WG5TbXVMRnU0TEMybzdMUSIsImlhdCI6MTc2OTQyMzkyNCwiZXhwIjoxNzY5NDIzOTg0fQ.iBgeBH0djCwnyfoocbeHYKdy0Tu53n8FTefsf36IphA"
+    },
+    {
+        "name": "Kabalega FM 106.9",
+        "city": "Hoima",
+        "country": "Uganda",
+        "url": "https://stream.hydeinnovations.com:2020/stream/kabalega-fm/stream/"
+    },
+    {
+        "name": "Radio Hoima 88.6 FM",
+        "city": "Hoima",
+        "country": "Uganda",
+        "url": "https://r1.comcities.com/proxy/ytswyfvh/stream"
+    },
+    {
+        "name": "Burungi Bwansi Radio",
+        "city": "Hoima",
+        "country": "Uganda",
+        "url": "https://r1.comcities.com/proxy/klschniv/stream"
+    },
+    {
+        "name": "Kico Rhythm Radio",
+        "city": "Hoima",
+        "country": "Uganda",
+        "url": "https://r1.comcities.com/proxy/vwbsmpkb/stream"
+    },
+    {
+        "name": "Biiso FM 97.8",
+        "city": "Hoima",
+        "country": "Uganda",
+        "url": "https://eu10.fastcast4u.com/biisofm"
+    },
+    {
+        "name": "Kazi Njema Radio",
+        "city": "Hoima",
+        "country": "Uganda",
+        "url": "https://cast3.asurahosting.com/proxy/habincon/stream"
+    },
+    {
+        "name": "Voice of Kigezi FM 89.5",
+        "city": "Kabale",
+        "country": "Uganda",
+        "url": "https://s32.myradiostream.com:17762/listen.mp3?nocache=1769423924"
+    },
+    {
+        "name": "Boona FM 91.8",
+        "city": "Kabale",
+        "country": "Uganda",
+        "url": "https://stream-159.zeno.fm/ndi9k9r4lp9uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJuZGk5azlyNGxwOXV2IiwiaG9zdCI6InN0cmVhbS0xNTkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiRDZFSVlmczRRLWV5RjFza0w4UDlKZyIsImlhdCI6MTc2OTQyMzkyNSwiZXhwIjoxNzY5NDIzOTg1fQ.QwCZe4A6fw1Prquzljs8wd1sJI0QBVhRN_F2gi00emQ"
+    },
+    {
+        "name": "Radio Rupiny 95.7 FM",
+        "city": "Gulu",
+        "country": "Uganda",
+        "url": "https://stream.hydeinnovations.com:2020/stream/rupiny/stream/"
+    },
+    {
+        "name": "Banyakigezi FM",
+        "city": "Kabale",
+        "country": "Uganda",
+        "url": "https://stream-179.zeno.fm/2yabwhybs7zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIyeWFid2h5YnM3enV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiMXIydzZTRWxRTTIzc2hqRWw4ZUlzdyIsImlhdCI6MTc2OTQyMzkyNSwiZXhwIjoxNzY5NDIzOTg1fQ.3Z-347dl_ItmhSWRJasPs_LMcOkV5yqHugI_kS4IPkA"
+    },
+    {
+        "name": "Gospel Radio East Africa",
+        "city": "Gulu",
+        "country": "Uganda",
+        "url": "https://c32.radioboss.fm:8451/stream"
+    },
+    {
+        "name": "Radio 10 FM 87.6",
+        "city": "Kabale",
+        "country": "Uganda",
+        "url": "https://radio10rwanda-atunwadigital.streamguys1.com/Radio10Rwanda"
+    },
+    {
+        "name": "102 Mega FM",
+        "city": "Gulu",
+        "country": "Uganda",
+        "url": "https://s31.myradiostream.com:9022/listen.mp3"
+    },
+    {
+        "name": "Tembo FM 103.5",
+        "city": "Gulu",
+        "country": "Uganda",
+        "url": "https://radiocomnetu.org/tembofm-stream"
+    },
+    {
+        "name": "Voice of Muhabura FM 88.9",
+        "city": "Kabale",
+        "country": "Uganda",
+        "url": "https://s28.myradiostream.com:27018/listen.mp3?nocache=1769423926"
+    },
+    {
+        "name": "Radio Paidha FM 87.8",
+        "city": "Hoima",
+        "country": "Uganda",
+        "url": "https://stream-164.zeno.fm/cxhyxmawdzsvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjeGh5eG1hd2R6c3Z2IiwiaG9zdCI6InN0cmVhbS0xNjQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiSnlzcjNnWnNUdENub1ZPT1RiWjkwQSIsImlhdCI6MTc2OTQyMzkyNiwiZXhwIjoxNzY5NDIzOTg2fQ.4cMpCf8C5uXbCXTNq1NndgudsomDNWdHNH1njEWFLxM"
+    },
+    {
+        "name": "Yofochm Radio Uganda",
+        "city": "Jinja",
+        "country": "Uganda",
+        "url": "https://c13.radioboss.fm:18053/stream"
+    },
+    {
+        "name": "KKCR FM 91.7",
+        "city": "Hoima",
+        "country": "Uganda",
+        "url": "https://kkcradio.urdt.net:8000/radio.mp3"
+    },
+    {
+        "name": "NBS FM 89.4",
+        "city": "Jinja",
+        "country": "Uganda",
+        "url": "https://smart.radioca.st/stream"
+    },
+    {
+        "name": "Aruaone FM 88.7",
+        "city": "Arua",
+        "country": "Uganda",
+        "url": "https://stream.hydeinnovations.com:2020/stream/aruaone/"
+    },
+    {
+        "name": "Radio Pacis FM 90.9",
+        "city": "Arua",
+        "country": "Uganda",
+        "url": "https://radiopacisuganda.radioca.st/stream"
+    },
+    {
+        "name": "Radio Pacis FM 94.5",
+        "city": "Arua",
+        "country": "Uganda",
+        "url": "https://radiopacisuganda2-radiopacisugand2.radioca.st/stream"
+    },
+    {
+        "name": "RAPA 88.3 FM",
+        "city": "Pader Town",
+        "country": "Uganda",
+        "url": "https://www.radiocomnetu.org/rapafmpader-stream"
+    },
+    {
+        "name": "Busoga One Radio FM 90.6",
+        "city": "Jinja",
+        "country": "Uganda",
+        "url": "https://stream-151.zeno.fm/xna2aad7gc9uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ4bmEyYWFkN2djOXV2IiwiaG9zdCI6InN0cmVhbS0xNTEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoidmFlVFlLSVdSNXU4Ym5wbWwwTnY1USIsImlhdCI6MTc2OTQyMzkyOCwiZXhwIjoxNzY5NDIzOTg4fQ.fNZorue-HU-pzXKey-kQJO1BnmZ6srXdlroQrzU6XB8"
+    },
+    {
+        "name": "Kasese Guide FM 100.5",
+        "city": "Kabarole",
+        "country": "Uganda",
+        "url": "https://radio.julyhost.net/8240/stream"
+    },
+    {
+        "name": "Delta Radio Soroti",
+        "city": "Jinja",
+        "country": "Uganda",
+        "url": "https://stream-158.zeno.fm/k03e45zr008uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJrMDNlNDV6cjAwOHV2IiwiaG9zdCI6InN0cmVhbS0xNTguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiZHNnZHdEeFNRLUt6eTd1QkNaMVNsdyIsImlhdCI6MTc2OTQyMzkyOSwiZXhwIjoxNzY5NDIzOTg5fQ.uDeiLRzzZIvoaWweg5IiQUXvCCgaZRT7q8n1UnzzvRk"
+    },
+    {
+        "name": "Kyoga Veritas FM 91.5",
+        "city": "Soroti",
+        "country": "Uganda",
+        "url": "https://stream-152.zeno.fm/dmx2pphrsg0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJkbXgycHBocnNnMHV2IiwiaG9zdCI6InN0cmVhbS0xNTIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiVHQ2bHdaR2NRQXk4QlR0WUJ1Z21SQSIsImlhdCI6MTc2OTQyMzkyOSwiZXhwIjoxNzY5NDIzOTg5fQ.vBzlTSoohxmNwV7JJ6TUx8BbYP8iYDZ9acjG3zF6CRY"
+    },
+    {
+        "name": "Voice of Toro FM 101.1",
+        "city": "Kabarole",
+        "country": "Uganda",
+        "url": "https://stream-157.zeno.fm/uebga0ac9mzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1ZWJnYTBhYzltenV2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiRkt3OVA4V09SUU9MRUhfbFN6LWRhdyIsImlhdCI6MTc2OTQyMzkyOSwiZXhwIjoxNzY5NDIzOTg5fQ.kpNoNdgQ1PmvyXQOLG7WXTryb8TwcDCZQRhu-FAeHr8"
+    },
+    {
+        "name": "MMU Radio FM 105.2",
+        "city": "Kabarole",
+        "country": "Uganda",
+        "url": "https://stream-161.zeno.fm/e7jm2atm4hfvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJlN2ptMmF0bTRoZnZ2IiwiaG9zdCI6InN0cmVhbS0xNjEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoidFEzTmZYV1FUbkM1R2YtVEplMGdmQSIsImlhdCI6MTc2OTQyMzkyOSwiZXhwIjoxNzY5NDIzOTg5fQ.WqEAKWkz60W0x_GgCvR-qvuLzJji4ETgDdAQ0j44SJ8"
+    },
+    {
+        "name": "Jubilee Radio FM 105.6",
+        "city": "Kabarole",
+        "country": "Uganda",
+        "url": "https://stream-151.zeno.fm/f3y3up2k07zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJmM3kzdXAyazA3enV2IiwiaG9zdCI6InN0cmVhbS0xNTEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiUmdLZ18weGFUaWVaa2JEU1BheFNqQSIsImlhdCI6MTc2OTQyMzkyOSwiZXhwIjoxNzY5NDIzOTg5fQ.C1gOE5V_r2FFeYtfuGZY7sdXkLfy1dNYgr9YfMTz6bw"
+    },
+    {
+        "name": "Rukundo FM 95.8",
+        "city": "Kabarole",
+        "country": "Uganda",
+        "url": "https://stream-151.zeno.fm/19wm8qq9ps8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIxOXdtOHFxOXBzOHV2IiwiaG9zdCI6InN0cmVhbS0xNTEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiaHNOYUNrU3ZUeEtfLUlDck13Z3hEQSIsImlhdCI6MTc2OTQyMzkyOSwiZXhwIjoxNzY5NDIzOTg5fQ.V_R97yQAHsI54pmZtesny0Jaeb22u-MmCWDXgt1grgo"
+    },
+    {
+        "name": "Kazo FM 97.8",
+        "city": "Kabarole",
+        "country": "Uganda",
+        "url": "https://stream-176.zeno.fm/xaebasjtt0vuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ4YWViYXNqdHQwdnV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiVWxncTJjbFFSY1c5NXR0dTFVQy1EQSIsImlhdCI6MTc2OTQyMzkzMCwiZXhwIjoxNzY5NDIzOTkwfQ.zovlVM_qyER5lzrnW_7P19rFuHxr75DUmXGMP6DjAXI"
+    },
+    {
+        "name": "Kasibante FM 88.5",
+        "city": "Entebbe",
+        "country": "Uganda",
+        "url": "https://s26.myradiostream.com:20788/;listen.mp3"
+    },
+    {
+        "name": "KBS FM 95.4",
+        "city": "Kanungu",
+        "country": "Uganda",
+        "url": "https://stream-160.zeno.fm/ioqimpql0ketv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJpb3FpbXBxbDBrZXR2IiwiaG9zdCI6InN0cmVhbS0xNjAuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiUXhzOVNsd2JRUGFkNGozcFFzd2NYZyIsImlhdCI6MTc2OTQyMzkzMCwiZXhwIjoxNzY5NDIzOTkwfQ.3rtDWIJoNI8Si55isVITF4ljNXdraqXgvrPVi53_On4"
+    },
+    {
+        "name": "Kanungu FM 91.5",
+        "city": "Kanungu",
+        "country": "Uganda",
+        "url": "https://stream-178.zeno.fm/fu1mtjbhoxbtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJmdTFtdGpiaG94YnR2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiQWNteE1pZ3FSOFdFUGI2cU1YTzBPQSIsImlhdCI6MTc2OTQyMzkzMCwiZXhwIjoxNzY5NDIzOTkwfQ.fQsSDbba1uIoIHo_rL-hFHXYzcPaMAHi8iD3uDx-4hs"
+    },
+    {
+        "name": "Inspiration Radio",
+        "city": "Masaka",
+        "country": "Uganda",
+        "url": "https://live.ionradios.com:1505/stream"
+    },
+    {
+        "name": "Radio Buddu FM",
+        "city": "Masaka",
+        "country": "Uganda",
+        "url": "https://dc4.serverse.com/proxy/ccmxrgub/stream"
+    },
+    {
+        "name": "Glory FM 106.7",
+        "city": "Kanungu",
+        "country": "Uganda",
+        "url": "https://stream-151.zeno.fm/5remmcqkpd0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI1cmVtbWNxa3BkMHV2IiwiaG9zdCI6InN0cmVhbS0xNTEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoidUdyRUJmMHdTa0NBN2hickFXanhndyIsImlhdCI6MTc2OTQyMzkzMSwiZXhwIjoxNzY5NDIzOTkxfQ._5rQv-cjL6ihNJ5M3n3039aeL0tLEFTwvq0IaHr7zQM"
+    },
+    {
+        "name": "Turn Radio",
+        "city": "Entebbe",
+        "country": "Uganda",
+        "url": "https://stream-179.zeno.fm/cuejngegi8btv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjdWVqbmdlZ2k4YnR2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoibUs5dG1uUUlRRUdVN3AyUC1KVVVTdyIsImlhdCI6MTc2OTQyMzkzMSwiZXhwIjoxNzY5NDIzOTkxfQ.GhnLfqiJac7gSR5UBiFb4xnam6HC0i-rGPdgnTRXROQ"
+    }
+]

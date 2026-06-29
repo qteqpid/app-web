@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Radio Vanuatu AM 1125",
+        "city": "Port Vila",
+        "country": "Vanuatu",
+        "url": "https://radio.vbtc.vu/radiovanuatu"
+    },
+    {
+        "name": "Paradaes FM98",
+        "city": "Port Vila",
+        "country": "Vanuatu",
+        "url": "https://radio.vbtc.vu/paradisefm"
+    },
+    {
+        "name": "Buzz FM 96.3",
+        "city": "Port Vila",
+        "country": "Vanuatu",
+        "url": "https://streamer.dailypost.vu/live"
+    },
+    {
+        "name": "Sea FM 102.5",
+        "city": "Port Vila",
+        "country": "Vanuatu",
+        "url": "https://n03.rcs.revma.com/xby8h6u4yk3vv?rj-ttl=5&rj-tok=AAABm_nxINIAg0xkD7Yky1oHVg"
+    },
+    {
+        "name": "Fraser Coast FM 107.5",
+        "city": "Port Vila",
+        "country": "Vanuatu",
+        "url": "https://28803.live.streamtheworld.com:443/4FCRAAC_SC"
+    },
+    {
+        "name": "4BU AM 1332",
+        "city": "Port Vila",
+        "country": "Vanuatu",
+        "url": "https://22223.live.streamtheworld.com:443/BUN_4BUAAC.aac"
+    },
+    {
+        "name": "Zinc 96.1",
+        "city": "Port Vila",
+        "country": "Vanuatu",
+        "url": "https://26303.live.streamtheworld.com:443/MAR_ZINC96AAC.aac"
+    }
+]

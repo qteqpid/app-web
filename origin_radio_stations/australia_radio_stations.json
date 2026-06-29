@@ -1,0 +1,1962 @@
+[
+  {
+    "id": "australia-hawkesbury-radio-899-fm",
+    "name": "Hawkesbury Radio 89.9 FM",
+    "url": "https://streaming.starterfm.com/listen/hawkesburyradio/ghr192",
+    "genre": "Music",
+    "city": "Sydney",
+    "country": "Australia",
+    "lat": -33.8698439,
+    "lng": 151.2082848
+  },
+  {
+    "id": "australia-todays-country-94one-941-fm",
+    "name": "Today's Country 94one 94.1 FM",
+    "url": "https://audio-edge-jfbmv.sin.d.radiomast.io/70cbd986-0f98-4506-a84d-6d8eeff50bc6",
+    "genre": "Music",
+    "city": "Sydney",
+    "country": "Australia",
+    "lat": -33.8698439,
+    "lng": 151.2082848
+  },
+  {
+    "id": "australia-cherri-radio-sydney",
+    "name": "Cherri Radio Sydney",
+    "url": "https://streaming.starterfm.com/listen/gemfm/starter192",
+    "genre": "Music",
+    "city": "Sydney",
+    "country": "Australia",
+    "lat": -33.8698439,
+    "lng": 151.2082848
+  },
+  {
+    "id": "australia-2sm-1269-am",
+    "name": "2SM 1269 AM",
+    "url": "https://cast4.asurahosting.com/proxy/2sm1269/stream",
+    "genre": "Music",
+    "city": "Sydney",
+    "country": "Australia",
+    "lat": -33.8698439,
+    "lng": 151.2082848
+  },
+  {
+    "id": "australia-vox-fm-1069",
+    "name": "Vox FM 106.9",
+    "url": "https://s10.myradiostream.com/:15272/index.html?sid=1",
+    "genre": "Music",
+    "city": "Sydney",
+    "country": "Australia",
+    "lat": -33.8698439,
+    "lng": 151.2082848
+  },
+  {
+    "id": "australia-gk-international",
+    "name": "GK International",
+    "url": "https://s20.myradiostream.com/:12530/index.html?sid=1",
+    "genre": "Music",
+    "city": "Melbourne",
+    "country": "Australia",
+    "lat": -37.8142454,
+    "lng": 144.9631732
+  },
+  {
+    "id": "australia-lake-macquarie-fm-973",
+    "name": "Lake Macquarie FM 97.3",
+    "url": "http://lmfm.f1.net.au:10768/index.html?sid=1",
+    "genre": "Music",
+    "city": "Sydney",
+    "country": "Australia",
+    "lat": -33.8698439,
+    "lng": 151.2082848
+  },
+  {
+    "id": "australia-sky-news-australia",
+    "name": "Sky News Australia",
+    "url": "https://28093.live.streamtheworld.com:443/NOVA_SKYNEWSAAC.aac",
+    "genre": "Music",
+    "city": "Sydney",
+    "country": "Australia",
+    "lat": -33.8698439,
+    "lng": 151.2082848
+  },
+  {
+    "id": "australia-abc-radio-national",
+    "name": "ABC Radio National",
+    "url": "https://abc.streamguys1.com/live/rnnsw/icecast.audio",
+    "genre": "Music",
+    "city": "Sydney",
+    "country": "Australia",
+    "lat": -33.8698439,
+    "lng": 151.2082848
+  },
+  {
+    "id": "australia-abc-newsradio",
+    "name": "ABC NewsRadio",
+    "url": "https://abc.streamguys1.com/live/newsradio/icecast.audio",
+    "genre": "Music",
+    "city": "Sydney",
+    "country": "Australia",
+    "lat": -33.8698439,
+    "lng": 151.2082848
+  },
+  {
+    "id": "australia-triple-j",
+    "name": "Triple J",
+    "url": "https://abc.streamguys1.com/live/triplejnsw/icecast.audio",
+    "genre": "Music",
+    "city": "Sydney",
+    "country": "Australia",
+    "lat": -33.8698439,
+    "lng": 151.2082848
+  },
+  {
+    "id": "australia-abc-radio-sydney-am-702",
+    "name": "ABC Radio Sydney AM 702",
+    "url": "https://abc.streamguys1.com/live/localsydney/icecast.audio",
+    "genre": "Music",
+    "city": "Sydney",
+    "country": "Australia",
+    "lat": -33.8698439,
+    "lng": 151.2082848
+  },
+  {
+    "id": "australia-radio-skid-row-889-fm",
+    "name": "Radio Skid Row 88.9 FM",
+    "url": "https://28803.live.streamtheworld.com:443/2RSRAAC.aac",
+    "genre": "Music",
+    "city": "Sydney",
+    "country": "Australia",
+    "lat": -33.8698439,
+    "lng": 151.2082848
+  },
+  {
+    "id": "australia-alive-fm-905",
+    "name": "Alive FM 90.5",
+    "url": "https://28903.live.streamtheworld.com:443/2CCRAAC.aac",
+    "genre": "Music",
+    "city": "Sydney",
+    "country": "Australia",
+    "lat": -33.8698439,
+    "lng": 151.2082848
+  },
+  {
+    "id": "australia-cada",
+    "name": "CADA",
+    "url": "https://23203.live.streamtheworld.com:443/ARN_CADAAAC",
+    "genre": "Music",
+    "city": "Sydney",
+    "country": "Australia",
+    "lat": -33.8698439,
+    "lng": 151.2082848
+  },
+  {
+    "id": "australia-smooth-fm-953",
+    "name": "Smooth FM 95.3",
+    "url": "https://23093.live.streamtheworld.com:443/SMOOTH953_AAC48.aac",
+    "genre": "Music",
+    "city": "Sydney",
+    "country": "Australia",
+    "lat": -33.8698439,
+    "lng": 151.2082848
+  },
+  {
+    "id": "australia-1039-seymour-fm",
+    "name": "103.9 Seymour FM",
+    "url": "http://albireo.shoutca.st:8112/stream",
+    "genre": "Music",
+    "city": "Melbourne",
+    "country": "Australia",
+    "lat": -37.8142454,
+    "lng": 144.9631732
+  },
+  {
+    "id": "australia-smooth-fm-915",
+    "name": "Smooth FM 91.5",
+    "url": "https://23093.live.streamtheworld.com:443/SMOOTH915_AAC48.aac",
+    "genre": "Music",
+    "city": "Sydney",
+    "country": "Australia",
+    "lat": -33.8698439,
+    "lng": 151.2082848
+  },
+  {
+    "id": "australia-eastern-fm-981",
+    "name": "Eastern FM 98.1",
+    "url": "https://23203.live.streamtheworld.com:443/3ECBAAC.aac",
+    "genre": "Music",
+    "city": "Melbourne",
+    "country": "Australia",
+    "lat": -37.8142454,
+    "lng": 144.9631732
+  },
+  {
+    "id": "australia-triple-j-melbourne",
+    "name": "Triple J Melbourne",
+    "url": "https://abc.streamguys1.com/live/triplejnsw/icecast.audio",
+    "genre": "Music",
+    "city": "Melbourne",
+    "country": "Australia",
+    "lat": -37.8142454,
+    "lng": 144.9631732
+  },
+  {
+    "id": "australia-rrr-fm-1027",
+    "name": "RRR FM 102.7",
+    "url": "https://realtime.rrr.org.au/p13",
+    "genre": "Music",
+    "city": "Melbourne",
+    "country": "Australia",
+    "lat": -37.8142454,
+    "lng": 144.9631732
+  },
+  {
+    "id": "australia-wynfm-889",
+    "name": "WynFM 88.9",
+    "url": "https://streamer5.rightclickitservices.com:19740/aac",
+    "genre": "Music",
+    "city": "Melbourne",
+    "country": "Australia",
+    "lat": -37.8142454,
+    "lng": 144.9631732
+  },
+  {
+    "id": "australia-ugfm-1069",
+    "name": "UGFM 106.9",
+    "url": "https://streamer5.rightclickitservices.com:18905/aac",
+    "genre": "Music",
+    "city": "Melbourne",
+    "country": "Australia",
+    "lat": -37.8142454,
+    "lng": 144.9631732
+  },
+  {
+    "id": "australia-inner-fm-965",
+    "name": "Inner FM 96.5",
+    "url": "https://28803.live.streamtheworld.com:443/3NRAAC.aac",
+    "genre": "Music",
+    "city": "Melbourne",
+    "country": "Australia",
+    "lat": -37.8142454,
+    "lng": 144.9631732
+  },
+  {
+    "id": "australia-yarra-valley-fm-991",
+    "name": "Yarra Valley FM 99.1",
+    "url": "https://live.yarravalleyfm.org.au:8443/stream",
+    "genre": "Music",
+    "city": "Melbourne",
+    "country": "Australia",
+    "lat": -37.8142454,
+    "lng": 144.9631732
+  },
+  {
+    "id": "australia-979-fm",
+    "name": "97.9 FM",
+    "url": "https://s15.myradiostream.com/:12846/",
+    "genre": "Music",
+    "city": "Melbourne",
+    "country": "Australia",
+    "lat": -37.8142454,
+    "lng": 144.9631732
+  },
+  {
+    "id": "australia-plasticage-radio",
+    "name": "PlasticAge Radio",
+    "url": "http://192.99.83.154:8084/stream",
+    "genre": "Music",
+    "city": "Adelaide",
+    "country": "Australia",
+    "lat": -34.9281805,
+    "lng": 138.5999312
+  },
+  {
+    "id": "australia-apple-985-fm",
+    "name": "Apple 98.5 FM",
+    "url": "https://s23.myradiostream.com/:13240/index.html?sid=1",
+    "genre": "Music",
+    "city": "Melbourne",
+    "country": "Australia",
+    "lat": -37.8142454,
+    "lng": 144.9631732
+  },
+  {
+    "id": "australia-jair-88-fm",
+    "name": "J.Air 88 FM",
+    "url": "https://s19.myradiostream.com:4918/index.html?sid=1",
+    "genre": "Music",
+    "city": "Melbourne",
+    "country": "Australia",
+    "lat": -37.8142454,
+    "lng": 144.9631732
+  },
+  {
+    "id": "australia-nova-1003-fm",
+    "name": "Nova 100.3 FM",
+    "url": "https://28903.live.streamtheworld.com:443/NOVA_100_AAC48.aac",
+    "genre": "Music",
+    "city": "Melbourne",
+    "country": "Australia",
+    "lat": -37.8142454,
+    "lng": 144.9631732
+  },
+  {
+    "id": "australia-c913fm",
+    "name": "C91.3FM",
+    "url": "https://ice9.securenetsystems.net/C913",
+    "genre": "Music",
+    "city": "Sydney",
+    "country": "Australia",
+    "lat": -33.8698439,
+    "lng": 151.2082848
+  },
+  {
+    "id": "australia-radioksa",
+    "name": "RadioKSA",
+    "url": "https://radio12.shoutcast.net.au:2020/stream/radioksa",
+    "genre": "Music",
+    "city": "Adelaide",
+    "country": "Australia",
+    "lat": -34.9281805,
+    "lng": 138.5999312
+  },
+  {
+    "id": "australia-radio-ena",
+    "name": "Radio ENA",
+    "url": "https://c3.radioboss.fm:8238/stream",
+    "genre": "Music",
+    "city": "Adelaide",
+    "country": "Australia",
+    "lat": -34.9281805,
+    "lng": 138.5999312
+  },
+  {
+    "id": "australia-pbs-fm-1067",
+    "name": "PBS FM 106.7",
+    "url": "https://14533.live.streamtheworld.com:443/3PBS_FMAACHIGH.aac?dist=radiogarden",
+    "genre": "Music",
+    "city": "Melbourne",
+    "country": "Australia",
+    "lat": -37.8142454,
+    "lng": 144.9631732
+  },
+  {
+    "id": "australia-abc-radio-adelaide-am-891",
+    "name": "ABC Radio Adelaide AM 891",
+    "url": "https://abc.streamguys1.com/live/localadelaide/icecast.audio",
+    "genre": "Music",
+    "city": "Adelaide",
+    "country": "Australia",
+    "lat": -34.9281805,
+    "lng": 138.5999312
+  },
+  {
+    "id": "australia-3aw-693",
+    "name": "3AW 693",
+    "url": "https://28863.live.streamtheworld.com:443/3AWAAC_O",
+    "genre": "Music",
+    "city": "Melbourne",
+    "country": "Australia",
+    "lat": -37.8142454,
+    "lng": 144.9631732
+  },
+  {
+    "id": "australia-4mbs-classic-fm-1037",
+    "name": "4MBS Classic FM 103.7",
+    "url": "https://stream.4mbs.com.au/4mbsclassicfm",
+    "genre": "Music",
+    "city": "Brisbane",
+    "country": "Australia",
+    "lat": -27.4689623,
+    "lng": 153.0235009
+  },
+  {
+    "id": "australia-fresh-fm-927",
+    "name": "Fresh FM 92.7",
+    "url": "https://live.fresh927.com.au/freshaac",
+    "genre": "Music",
+    "city": "Adelaide",
+    "country": "Australia",
+    "lat": -34.9281805,
+    "lng": 138.5999312
+  },
+  {
+    "id": "australia-switch-brisbane-am-1197",
+    "name": "Switch Brisbane AM 1197",
+    "url": "http://103.249.236.82:8000/BNE",
+    "genre": "Music",
+    "city": "Brisbane",
+    "country": "Australia",
+    "lat": -27.4689623,
+    "lng": 153.0235009
+  },
+  {
+    "id": "australia-lofty-889",
+    "name": "Lofty 88.9",
+    "url": "https://stream01.sigile.net/lofty-48-aac",
+    "genre": "Music",
+    "city": "Adelaide",
+    "country": "Australia",
+    "lat": -34.9281805,
+    "lng": 138.5999312
+  },
+  {
+    "id": "australia-5mbs-999fm",
+    "name": "5MBS 99.9FM",
+    "url": "https://stream01.sigile.net/5mbs-128-mp3",
+    "genre": "Music",
+    "city": "Adelaide",
+    "country": "Australia",
+    "lat": -34.9281805,
+    "lng": 138.5999312
+  },
+  {
+    "id": "australia-happy-fm-901",
+    "name": "Happy FM 90.1",
+    "url": "https://stream01.sigile.net/happyfm-128-mp3",
+    "genre": "Music",
+    "city": "Adelaide",
+    "country": "Australia",
+    "lat": -34.9281805,
+    "lng": 138.5999312
+  },
+  {
+    "id": "australia-trax-fm-1051",
+    "name": "Trax FM 105.1",
+    "url": "http://stream04.sigile.net/traxfm-128-mp3",
+    "genre": "Music",
+    "city": "Adelaide",
+    "country": "Australia",
+    "lat": -34.9281805,
+    "lng": 138.5999312
+  },
+  {
+    "id": "australia-sa-rock-radio",
+    "name": "S.A. Rock Radio",
+    "url": "https://sarock.radioca.st/stream;/live",
+    "genre": "Music",
+    "city": "Adelaide",
+    "country": "Australia",
+    "lat": -34.9281805,
+    "lng": 138.5999312
+  },
+  {
+    "id": "australia-4rph-am-1296",
+    "name": "4RPH AM 1296",
+    "url": "https://audio-edge-8em5d.yyz.d.radiomast.io/2416c895-f32d-4faa-90a6-b2cf9212488d",
+    "genre": "Music",
+    "city": "Brisbane",
+    "country": "Australia",
+    "lat": -27.4689623,
+    "lng": 153.0235009
+  },
+  {
+    "id": "australia-5triplez-911",
+    "name": "5TripleZ 91.1",
+    "url": "https://usa7.fastcast4u.com/proxy/triplez?mp=/1",
+    "genre": "Music",
+    "city": "Adelaide",
+    "country": "Australia",
+    "lat": -34.9281805,
+    "lng": 138.5999312
+  },
+  {
+    "id": "australia-fiveaa-am-1395",
+    "name": "FIVEaa AM 1395",
+    "url": "https://28803.live.streamtheworld.com:443/FIVEAA_AAC48.aac",
+    "genre": "Music",
+    "city": "Adelaide",
+    "country": "Australia",
+    "lat": -34.9281805,
+    "lng": 138.5999312
+  },
+  {
+    "id": "australia-1015-fm-moreton-bays-own",
+    "name": "101.5 FM Moreton Bay's Own",
+    "url": "http://streaming.lava.net.au/au_qld_4our_caboolture1015?type=.mp3",
+    "genre": "Music",
+    "city": "Brisbane",
+    "country": "Australia",
+    "lat": -27.4689623,
+    "lng": 153.0235009
+  },
+  {
+    "id": "australia-nova-fm-919",
+    "name": "Nova FM 91.9",
+    "url": "https://28903.live.streamtheworld.com:443/NOVA_919_AAC48.aac",
+    "genre": "Music",
+    "city": "Adelaide",
+    "country": "Australia",
+    "lat": -34.9281805,
+    "lng": 138.5999312
+  },
+  {
+    "id": "australia-radio-kasoot",
+    "name": "Radio Kasoot",
+    "url": "https://azuracast.radiokasoot.com/radio/8000/listen",
+    "genre": "Music",
+    "city": "Brisbane",
+    "country": "Australia",
+    "lat": -27.4689623,
+    "lng": 153.0235009
+  },
+  {
+    "id": "australia-triple-y-grovely",
+    "name": "Triple Y Grovely",
+    "url": "https://onair7.xdevel.com/proxy/xautocloud_4jbb_1856?mp=/;1/",
+    "genre": "Music",
+    "city": "Brisbane",
+    "country": "Australia",
+    "lat": -27.4689623,
+    "lng": 153.0235009
+  },
+  {
+    "id": "australia-abc-brisbane",
+    "name": "ABC Brisbane",
+    "url": "https://abc.streamguys1.com/live/localbrisbane/icecast.audio",
+    "genre": "Music",
+    "city": "Brisbane",
+    "country": "Australia",
+    "lat": -27.4689623,
+    "lng": 153.0235009
+  },
+  {
+    "id": "australia-vision-180",
+    "name": "Vision 180",
+    "url": "https://streams2.vision.org.au/vision180-128k.aac",
+    "genre": "Music",
+    "city": "Brisbane",
+    "country": "Australia",
+    "lat": -27.4689623,
+    "lng": 153.0235009
+  },
+  {
+    "id": "australia-triple-j-brisbane",
+    "name": "Triple J Brisbane",
+    "url": "https://abc.streamguys1.com/live/triplejqld/icecast.audio",
+    "genre": "Music",
+    "city": "Brisbane",
+    "country": "Australia",
+    "lat": -27.4689623,
+    "lng": 153.0235009
+  },
+  {
+    "id": "australia-5mu-1125-am",
+    "name": "5MU 1125 AM",
+    "url": "https://16643.live.streamtheworld.com:443/MUR_5MUAAC.aac",
+    "genre": "Music",
+    "city": "Adelaide",
+    "country": "Australia",
+    "lat": -34.9281805,
+    "lng": 138.5999312
+  },
+  {
+    "id": "australia-4zzz-1021fm",
+    "name": "4ZZZ 102.1FM",
+    "url": "https://iheart.4zzz.org.au/4zzz",
+    "genre": "Music",
+    "city": "Brisbane",
+    "country": "Australia",
+    "lat": -27.4689623,
+    "lng": 153.0235009
+  },
+  {
+    "id": "australia-mix-fm-1023",
+    "name": "Mix FM 102.3",
+    "url": "https://28793.live.streamtheworld.com:443/ARN_MIX1023AAC.aac",
+    "genre": "Music",
+    "city": "Adelaide",
+    "country": "Australia",
+    "lat": -34.9281805,
+    "lng": 138.5999312
+  },
+  {
+    "id": "australia-quivr-radio",
+    "name": "QUIVR Radio",
+    "url": "https://s2.radio.co/s7348c2995/listen",
+    "genre": "Music",
+    "city": "Brisbane",
+    "country": "Australia",
+    "lat": -27.4689623,
+    "lng": 153.0235009
+  },
+  {
+    "id": "australia-cruise-am-1323",
+    "name": "Cruise AM 1323",
+    "url": "https://28793.live.streamtheworld.com:443/ARN_CRUISE1323AAC.aac",
+    "genre": "Music",
+    "city": "Adelaide",
+    "country": "Australia",
+    "lat": -34.9281805,
+    "lng": 138.5999312
+  },
+  {
+    "id": "australia-rtr-921-fm",
+    "name": "RTR 92.1 FM",
+    "url": "https://live.rtrfm.com.au/stream1",
+    "genre": "Music",
+    "city": "Perth",
+    "country": "Australia",
+    "lat": -31.9558967,
+    "lng": 115.8605784
+  },
+  {
+    "id": "australia-curtin-radio",
+    "name": "Curtin Radio",
+    "url": "http://192.95.23.89:6192/stream/",
+    "genre": "Music",
+    "city": "Perth",
+    "country": "Australia",
+    "lat": -31.9558967,
+    "lng": 115.8605784
+  },
+  {
+    "id": "australia-abc-radio-perth",
+    "name": "ABC Radio Perth",
+    "url": "https://abc.streamguys1.com/live/localperth/icecast.audio",
+    "genre": "Music",
+    "city": "Perth",
+    "country": "Australia",
+    "lat": -31.9558967,
+    "lng": 115.8605784
+  },
+  {
+    "id": "australia-4bc-882",
+    "name": "4BC 882",
+    "url": "https://14533.live.streamtheworld.com:443/4BC_O_ADP.aac",
+    "genre": "Music",
+    "city": "Brisbane",
+    "country": "Australia",
+    "lat": -27.4689623,
+    "lng": 153.0235009
+  },
+  {
+    "id": "australia-nova-fm-1069",
+    "name": "Nova FM 106.9",
+    "url": "https://23093.live.streamtheworld.com:443/NOVA_1069_AAC48.aac",
+    "genre": "Music",
+    "city": "Brisbane",
+    "country": "Australia",
+    "lat": -27.4689623,
+    "lng": 153.0235009
+  },
+  {
+    "id": "australia-river-949-fm",
+    "name": "River 94.9 FM",
+    "url": "https://17793.live.streamtheworld.com:443/IPS_RIVER949AAC.aac?pname=StandardPlayerV4&pversion=4.19.2-014&csegid=888&dist=triton-web&tdsdk=js-2.9&banners=300x250%252C728x90&sbmid=546b3899-0f5b-4035-ade1-2d4bbc44e0c6",
+    "genre": "Music",
+    "city": "Brisbane",
+    "country": "Australia",
+    "lat": -27.4689623,
+    "lng": 153.0235009
+  },
+  {
+    "id": "australia-rim-fm-1001",
+    "name": "Rim FM 100.1",
+    "url": "https://streaming.rimfm.org/rimfmlive.mp3",
+    "genre": "Music",
+    "city": "Brisbane",
+    "country": "Australia",
+    "lat": -27.4689623,
+    "lng": 153.0235009
+  },
+  {
+    "id": "australia-magic-fm-878",
+    "name": "Magic FM 87.8",
+    "url": "https://radio.shoutcheap.com/proxy/magicfm/stream",
+    "genre": "Music",
+    "city": "Perth",
+    "country": "Australia",
+    "lat": -31.9558967,
+    "lng": 115.8605784
+  },
+  {
+    "id": "australia-culture-digital",
+    "name": "Culture Digital",
+    "url": "https://28853.live.streamtheworld.com:443/4CRB_CULTUREAAC.aac?dist=radiogarden",
+    "genre": "Music",
+    "city": "Brisbane",
+    "country": "Australia",
+    "lat": -27.4689623,
+    "lng": 153.0235009
+  },
+  {
+    "id": "australia-perth-railways-police,-transperth-operations",
+    "name": "Perth Railways Police, Transperth Operations",
+    "url": "https://broadcastify.cdnstream1.com/4708",
+    "genre": "Music",
+    "city": "Perth",
+    "country": "Australia",
+    "lat": -31.9558967,
+    "lng": 115.8605784
+  },
+  {
+    "id": "australia-salt-fm-1065",
+    "name": "Salt FM 106.5",
+    "url": "https://23163.live.streamtheworld.com:443/4CLGAAC.aac",
+    "genre": "Music",
+    "city": "Brisbane",
+    "country": "Australia",
+    "lat": -27.4689623,
+    "lng": 153.0235009
+  },
+  {
+    "id": "australia-sonshine-985-fm",
+    "name": "Sonshine 98.5 FM",
+    "url": "https://23093.live.streamtheworld.com:443/6SONAAC.aac",
+    "genre": "Music",
+    "city": "Perth",
+    "country": "Australia",
+    "lat": -31.9558967,
+    "lng": 115.8605784
+  },
+  {
+    "id": "australia-coast-fm-973",
+    "name": "Coast FM 97.3",
+    "url": "https://tls1.coastdev.net/coast-mp3",
+    "genre": "Music",
+    "city": "Perth",
+    "country": "Australia",
+    "lat": -31.9558967,
+    "lng": 115.8605784
+  },
+  {
+    "id": "australia-6ix-am-1080",
+    "name": "6iX AM 1080",
+    "url": "https://23203.live.streamtheworld.com:443/6IXAAC.aac",
+    "genre": "Music",
+    "city": "Perth",
+    "country": "Australia",
+    "lat": -31.9558967,
+    "lng": 115.8605784
+  },
+  {
+    "id": "australia-living-arts-canberrra",
+    "name": "Living Arts Canberrra",
+    "url": "http://s7.voscast.com:8994/;stream1595232574240/1",
+    "genre": "Music",
+    "city": "Canberra",
+    "country": "Australia",
+    "lat": -35.2975906,
+    "lng": 149.1012676
+  },
+  {
+    "id": "australia-96fm-perth",
+    "name": "96FM Perth",
+    "url": "https://28903.live.streamtheworld.com:443/ARN_96FMAAC.aac",
+    "genre": "Music",
+    "city": "Perth",
+    "country": "Australia",
+    "lat": -31.9558967,
+    "lng": 115.8605784
+  },
+  {
+    "id": "australia-oz-urban-radio-878-fm",
+    "name": "OZ Urban Radio 87.8 FM",
+    "url": "https://streaming.radio.co/s53f27469e/listen",
+    "genre": "Music",
+    "city": "Perth",
+    "country": "Australia",
+    "lat": -31.9558967,
+    "lng": 115.8605784
+  },
+  {
+    "id": "australia-radio-1rph-am-1125",
+    "name": "Radio 1RPH AM 1125",
+    "url": "http://198.74.51.37:9998/stream/",
+    "genre": "Music",
+    "city": "Canberra",
+    "country": "Australia",
+    "lat": -35.2975906,
+    "lng": 149.1012676
+  },
+  {
+    "id": "australia-nova-fm-937",
+    "name": "Nova FM 93.7",
+    "url": "https://23193.live.streamtheworld.com:443/NOVA_937_AAC48.aac",
+    "genre": "Music",
+    "city": "Perth",
+    "country": "Australia",
+    "lat": -31.9558967,
+    "lng": 115.8605784
+  },
+  {
+    "id": "australia-radio-manpasand-fm-911",
+    "name": "Radio Manpasand FM 91.1",
+    "url": "https://c5.radioboss.fm:8125/stream",
+    "genre": "Music",
+    "city": "Canberra",
+    "country": "Australia",
+    "lat": -35.2975906,
+    "lng": 149.1012676
+  },
+  {
+    "id": "australia-6pr-882",
+    "name": "6PR 882",
+    "url": "https://23163.live.streamtheworld.com:443/6PRAAC_O.aac",
+    "genre": "Music",
+    "city": "Perth",
+    "country": "Australia",
+    "lat": -31.9558967,
+    "lng": 115.8605784
+  },
+  {
+    "id": "australia-voice-of-the-avon-1013fm",
+    "name": "Voice of the Avon 101.3FM",
+    "url": "https://23153.live.streamtheworld.com:443/6YCRAAC_SC",
+    "genre": "Music",
+    "city": "Perth",
+    "country": "Australia",
+    "lat": -31.9558967,
+    "lng": 115.8605784
+  },
+  {
+    "id": "australia-cms-fm-911--1cms",
+    "name": "CMS FM 91.1 - 1CMS",
+    "url": "https://c13.radioboss.fm:18190/stream",
+    "genre": "Music",
+    "city": "Canberra",
+    "country": "Australia",
+    "lat": -35.2975906,
+    "lng": 149.1012676
+  },
+  {
+    "id": "australia-1way-fm-919",
+    "name": "1WAY FM 91.9",
+    "url": "https://28863.live.streamtheworld.com:443/1WAY.mp3",
+    "genre": "Music",
+    "city": "Canberra",
+    "country": "Australia",
+    "lat": -35.2975906,
+    "lng": 149.1012676
+  },
+  {
+    "id": "australia-2oceansfm-971",
+    "name": "2oceansFM 97.1",
+    "url": "https://23203.live.streamtheworld.com:443/6AUG.mp3",
+    "genre": "Music",
+    "city": "Perth",
+    "country": "Australia",
+    "lat": -31.9558967,
+    "lng": 115.8605784
+  },
+  {
+    "id": "australia-2yyy-fm-923",
+    "name": "2YYY FM 92.3",
+    "url": "https://streaming.2yyyradio.com/radio/8000/radio.mp3",
+    "genre": "Music",
+    "city": "Canberra",
+    "country": "Australia",
+    "lat": -35.2975906,
+    "lng": 149.1012676
+  },
+  {
+    "id": "australia-2cn-canberra",
+    "name": "2CN Canberra",
+    "url": "https://abc.streamguys1.com/live/localcanberra/icecast.audio",
+    "genre": "Music",
+    "city": "Canberra",
+    "country": "Australia",
+    "lat": -35.2975906,
+    "lng": 149.1012676
+  },
+  {
+    "id": "australia-radio-margaret-river",
+    "name": "Radio Margaret River",
+    "url": "https://23193.live.streamtheworld.com:443/RADIO_MARGARET_RIVERAAC.aac",
+    "genre": "Music",
+    "city": "Perth",
+    "country": "Australia",
+    "lat": -31.9558967,
+    "lng": 115.8605784
+  },
+  {
+    "id": "australia-artsound-fm-927",
+    "name": "ArtSound FM 92.7",
+    "url": "https://stream.artsound.fm/mp3",
+    "genre": "Music",
+    "city": "Canberra",
+    "country": "Australia",
+    "lat": -35.2975906,
+    "lng": 149.1012676
+  },
+  {
+    "id": "australia-bunbury-cr-1037-fm",
+    "name": "Bunbury CR 103.7 FM",
+    "url": "https://23163.live.streamtheworld.com:443/6BCRAAC.aac",
+    "genre": "Music",
+    "city": "Perth",
+    "country": "Australia",
+    "lat": -31.9558967,
+    "lng": 115.8605784
+  },
+  {
+    "id": "australia-retro-fm-878",
+    "name": "Retro FM 87.8",
+    "url": "https://cast6.asurahosting.com/proxy/retrofmp/stream",
+    "genre": "Music",
+    "city": "Canberra",
+    "country": "Australia",
+    "lat": -35.2975906,
+    "lng": 149.1012676
+  },
+  {
+    "id": "australia-2cc-1206am",
+    "name": "2CC 1206AM",
+    "url": "https://23023.live.streamtheworld.com:443/2CCAAC.aac",
+    "genre": "Music",
+    "city": "Canberra",
+    "country": "Australia",
+    "lat": -35.2975906,
+    "lng": 149.1012676
+  },
+  {
+    "id": "australia-2ca-1053am",
+    "name": "2CA 1053AM",
+    "url": "https://19273.live.streamtheworld.com:443/2CAAAC.aac",
+    "genre": "Music",
+    "city": "Canberra",
+    "country": "Australia",
+    "lat": -35.2975906,
+    "lng": 149.1012676
+  },
+  {
+    "id": "australia-radio-2xx-983fm",
+    "name": "Radio 2XX 98.3FM",
+    "url": "https://23193.live.streamtheworld.com:443/2XX.mp3",
+    "genre": "Music",
+    "city": "Canberra",
+    "country": "Australia",
+    "lat": -35.2975906,
+    "lng": 149.1012676
+  },
+  {
+    "id": "australia-fm-963",
+    "name": "FM 96.3",
+    "url": "https://usa7-vn.mixstream.net/:8070/index.html?sid=1",
+    "genre": "Music",
+    "city": "Canberra",
+    "country": "Australia",
+    "lat": -35.2975906,
+    "lng": 149.1012676
+  },
+  {
+    "id": "australia-abc-gold-coast-fm-917",
+    "name": "ABC Gold Coast FM 91.7",
+    "url": "https://abc.streamguys1.com/live/localgoldcoast/icecast.audio",
+    "genre": "Music",
+    "city": "Gold Coast City",
+    "country": "Australia",
+    "lat": -28.0023731,
+    "lng": 153.4145987
+  },
+  {
+    "id": "australia-mix-1063-fm--1cbr2",
+    "name": "Mix 106.3 FM - 1CBR2",
+    "url": "https://23163.live.streamtheworld.com:443/ARN_MIX1063AAC",
+    "genre": "Music",
+    "city": "Canberra",
+    "country": "Australia",
+    "lat": -35.2975906,
+    "lng": 149.1012676
+  },
+  {
+    "id": "australia-the-breeze-fm-1006",
+    "name": "The Breeze FM 100.6",
+    "url": "https://s8.yesstreaming.net:17065/BrzGC",
+    "genre": "Music",
+    "city": "Gold Coast City",
+    "country": "Australia",
+    "lat": -28.0023731,
+    "lng": 153.4145987
+  },
+  {
+    "id": "australia-rebel-fm",
+    "name": "Rebel FM",
+    "url": "https://s8.yesstreaming.net:17145/RblGC_hq",
+    "genre": "Music",
+    "city": "Gold Coast City",
+    "country": "Australia",
+    "lat": -28.0023731,
+    "lng": 153.4145987
+  },
+  {
+    "id": "australia-yass-fm-1003",
+    "name": "Yass FM 100.3",
+    "url": "https://23163.live.streamtheworld.com:443/2YASAAC_SC",
+    "genre": "Music",
+    "city": "Canberra",
+    "country": "Australia",
+    "lat": -35.2975906,
+    "lng": 149.1012676
+  },
+  {
+    "id": "australia-breeze-921-logan",
+    "name": "Breeze 92.1 Logan",
+    "url": "https://s8.yesstreaming.net:17065/BrzLgn",
+    "genre": "Music",
+    "city": "Gold Coast City",
+    "country": "Australia",
+    "lat": -28.0023731,
+    "lng": 153.4145987
+  },
+  {
+    "id": "australia-elvis247-radio",
+    "name": "Elvis247 Radio",
+    "url": "https://das-edge11-live365-dal03.cdnstream.com/a77707",
+    "genre": "Music",
+    "city": "Gold Coast City",
+    "country": "Australia",
+    "lat": -28.0023731,
+    "lng": 153.4145987
+  },
+  {
+    "id": "australia-juice-fm-1073",
+    "name": "Juice FM 107.3",
+    "url": "https://28803.live.streamtheworld.com:443/4CABAAC.aac",
+    "genre": "Music",
+    "city": "Gold Coast City",
+    "country": "Australia",
+    "lat": -28.0023731,
+    "lng": 153.4145987
+  },
+  {
+    "id": "australia-first-nations-radio-digital",
+    "name": "First Nations Radio Digital",
+    "url": "https://stream.radiolarrakia.org/firstnationsdigital",
+    "genre": "Music",
+    "city": "Darwin",
+    "country": "Australia",
+    "lat": -12.46044,
+    "lng": 130.8410469
+  },
+  {
+    "id": "australia-hot-tomato-fm-1029",
+    "name": "Hot Tomato FM 102.9",
+    "url": "https://28863.live.streamtheworld.com:443/GOL_HOTTOMATO.mp3",
+    "genre": "Music",
+    "city": "Gold Coast City",
+    "country": "Australia",
+    "lat": -28.0023731,
+    "lng": 153.4145987
+  },
+  {
+    "id": "australia-radio-metro-fm-1057",
+    "name": "Radio Metro FM 105.7",
+    "url": "https://stream.radiometro.com.au/index.html?sid=1",
+    "genre": "Music",
+    "city": "Gold Coast City",
+    "country": "Australia",
+    "lat": -28.0023731,
+    "lng": 153.4145987
+  },
+  {
+    "id": "australia-first-nations-radio-national",
+    "name": "First Nations Radio National",
+    "url": "https://stream.radiolarrakia.org/studio3",
+    "genre": "Music",
+    "city": "Darwin",
+    "country": "Australia",
+    "lat": -12.46044,
+    "lng": 130.8410469
+  },
+  {
+    "id": "australia-abc-radio-darwin-fm-1057",
+    "name": "ABC Radio Darwin FM 105.7",
+    "url": "https://abc.streamguys1.com/live/localdarwin/icecast.audio",
+    "genre": "Music",
+    "city": "Darwin",
+    "country": "Australia",
+    "lat": -12.46044,
+    "lng": 130.8410469
+  },
+  {
+    "id": "australia-nimfm-1023",
+    "name": "NimFm 102.3",
+    "url": "https://uk5.internet-radio.com/proxy/nimfm?mp=/stream",
+    "genre": "Music",
+    "city": "Gold Coast City",
+    "country": "Australia",
+    "lat": -28.0023731,
+    "lng": 153.4145987
+  },
+  {
+    "id": "australia-serene",
+    "name": "Serene",
+    "url": "https://streaming.territoryfm.com:8443/Serene?ver=537829",
+    "genre": "Music",
+    "city": "Darwin",
+    "country": "Australia",
+    "lat": -12.46044,
+    "lng": 130.8410469
+  },
+  {
+    "id": "australia-gold-coast-radio-fm-941",
+    "name": "Gold Coast Radio FM 94.1",
+    "url": "https://28853.live.streamtheworld.com:443/941FMAAC.aac",
+    "genre": "Music",
+    "city": "Gold Coast City",
+    "country": "Australia",
+    "lat": -28.0023731,
+    "lng": 153.4145987
+  },
+  {
+    "id": "australia-4crb-893-fm",
+    "name": "4CRB 89.3 FM",
+    "url": "https://23093.live.streamtheworld.com:443/4CRBAAC.aac?dist=radiogarden",
+    "genre": "Music",
+    "city": "Gold Coast City",
+    "country": "Australia",
+    "lat": -28.0023731,
+    "lng": 153.4145987
+  },
+  {
+    "id": "australia-palmerston-fm-88",
+    "name": "Palmerston FM 88",
+    "url": "https://stream.larrakiatv.org/studio4",
+    "genre": "Music",
+    "city": "Darwin",
+    "country": "Australia",
+    "lat": -12.46044,
+    "lng": 130.8410469
+  },
+  {
+    "id": "australia-1057-abc-darwin",
+    "name": "105.7 ABC Darwin",
+    "url": "https://abc.streamguys1.com/live/localdarwin/icecast.audio",
+    "genre": "Music",
+    "city": "Darwin",
+    "country": "Australia",
+    "lat": -12.46044,
+    "lng": 130.8410469
+  },
+  {
+    "id": "australia-mayhem-radio-fm-1013",
+    "name": "Mayhem Radio FM 101.3",
+    "url": "https://memphis.radioca.st/index.html?sid=1",
+    "genre": "Music",
+    "city": "Gold Coast City",
+    "country": "Australia",
+    "lat": -28.0023731,
+    "lng": 153.4145987
+  },
+  {
+    "id": "australia-apollo-bay-radio-876",
+    "name": "Apollo Bay Radio 87.6",
+    "url": "http://streamer5.rightclickitservices.com:9020/stream/",
+    "genre": "Music",
+    "city": "Geelong",
+    "country": "Australia",
+    "lat": -38.1493248,
+    "lng": 144.3598241
+  },
+  {
+    "id": "australia-radio-newmarket",
+    "name": "Radio Newmarket",
+    "url": "https://newmarketmusic.com/streamsong.php",
+    "genre": "Music",
+    "city": "Geelong",
+    "country": "Australia",
+    "lat": -38.1493248,
+    "lng": 144.3598241
+  },
+  {
+    "id": "australia-8ear",
+    "name": "8EAR",
+    "url": "https://28893.live.streamtheworld.com:443/8EARAAC.aac",
+    "genre": "Music",
+    "city": "Darwin",
+    "country": "Australia",
+    "lat": -12.46044,
+    "lng": 130.8410469
+  },
+  {
+    "id": "australia-hot-100-fm-1000",
+    "name": "Hot 100 FM 100.0",
+    "url": "https://16643.live.streamtheworld.com:443/DAR_HOT100AAC.aac",
+    "genre": "Music",
+    "city": "Darwin",
+    "country": "Australia",
+    "lat": -12.46044,
+    "lng": 130.8410469
+  },
+  {
+    "id": "australia-mix-1049-fm",
+    "name": "Mix 104.9 FM",
+    "url": "https://19273.live.streamtheworld.com:443/DAR_MIX1049AAC.aac",
+    "genre": "Music",
+    "city": "Darwin",
+    "country": "Australia",
+    "lat": -12.46044,
+    "lng": 130.8410469
+  },
+  {
+    "id": "australia-power-country-fm",
+    "name": "Power Country FM",
+    "url": "http://s3.viastreaming.net:8695/index.html?sid=1",
+    "genre": "Music",
+    "city": "Geelong",
+    "country": "Australia",
+    "lat": -38.1493248,
+    "lng": 144.3598241
+  },
+  {
+    "id": "australia-katherine-fm-1013",
+    "name": "Katherine FM 101.3",
+    "url": "https://23093.live.streamtheworld.com:443/8KTRAAC.aac",
+    "genre": "Music",
+    "city": "Darwin",
+    "country": "Australia",
+    "lat": -12.46044,
+    "lng": 130.8410469
+  },
+  {
+    "id": "australia-1341-3gl",
+    "name": "1341 3GL",
+    "url": "https://28793.live.streamtheworld.com:443/GEE_3GLAAC.aac",
+    "genre": "Music",
+    "city": "Geelong",
+    "country": "Australia",
+    "lat": -38.1493248,
+    "lng": 144.3598241
+  },
+  {
+    "id": "australia-crc-radio--xrn-australia",
+    "name": "CRC Radio - XRN Australia",
+    "url": "https://us01.xrn.com.au/listen/crc/CrcSd",
+    "genre": "Music",
+    "city": "Wee Waa",
+    "country": "Australia",
+    "lat": -30.2242076,
+    "lng": 149.4401917
+  },
+  {
+    "id": "australia-947-the-pulse",
+    "name": "94.7 The Pulse",
+    "url": "https://28863.live.streamtheworld.com:443/3PLSAAC.aac",
+    "genre": "Music",
+    "city": "Geelong",
+    "country": "Australia",
+    "lat": -38.1493248,
+    "lng": 144.3598241
+  },
+  {
+    "id": "australia-96threefm",
+    "name": "96threeFM",
+    "url": "https://28893.live.streamtheworld.com:443/3GGR_SC",
+    "genre": "Music",
+    "city": "Geelong",
+    "country": "Australia",
+    "lat": -38.1493248,
+    "lng": 144.3598241
+  },
+  {
+    "id": "australia-format-3--xrn-australia",
+    "name": "Format 3 - XRN Australia",
+    "url": "https://us01.xrn.com.au/listen/f3/F3Sd",
+    "genre": "Music",
+    "city": "Wee Waa",
+    "country": "Australia",
+    "lat": -30.2242076,
+    "lng": 149.4401917
+  },
+  {
+    "id": "australia-fsj-radio--xrn-australia",
+    "name": "FSJ Radio - XRN Australia",
+    "url": "https://us01.xrn.com.au/listen/fsj/FsjSd",
+    "genre": "Music",
+    "city": "Wee Waa",
+    "country": "Australia",
+    "lat": -30.2242076,
+    "lng": 149.4401917
+  },
+  {
+    "id": "australia-kix-country",
+    "name": "Kix Country",
+    "url": "https://19273.live.streamtheworld.com:443/KIXCOUNTRYAAC.aac",
+    "genre": "Music",
+    "city": "Geelong",
+    "country": "Australia",
+    "lat": -38.1493248,
+    "lng": 144.3598241
+  },
+  {
+    "id": "australia-radio-567-sw4970",
+    "name": "Radio 567 SW4970",
+    "url": "https://us01.xrn.com.au/listen/r567/R567Sd",
+    "genre": "Music",
+    "city": "Wee Waa",
+    "country": "Australia",
+    "lat": -30.2242076,
+    "lng": 149.4401917
+  },
+  {
+    "id": "australia-k-rock-fm-955",
+    "name": "K-Rock FM 95.5",
+    "url": "https://17843.live.streamtheworld.com:443/GEE_KROCKAAC.aac",
+    "genre": "Music",
+    "city": "Geelong",
+    "country": "Australia",
+    "lat": -38.1493248,
+    "lng": 144.3598241
+  },
+  {
+    "id": "australia-radio-wow-880-fm",
+    "name": "Radio Wow 88.0 FM",
+    "url": "https://us01.xrn.com.au/listen/rw/RwSd",
+    "genre": "Music",
+    "city": "Wee Waa",
+    "country": "Australia",
+    "lat": -30.2242076,
+    "lng": 149.4401917
+  },
+  {
+    "id": "australia-red-dirt-radio-876",
+    "name": "Red Dirt Radio 87.6",
+    "url": "https://az1.syd2.hostyourservices.au:8010/magic876",
+    "genre": "Music",
+    "city": "Wee Waa",
+    "country": "Australia",
+    "lat": -30.2242076,
+    "lng": 149.4401917
+  },
+  {
+    "id": "australia-bay-fm-939",
+    "name": "Bay FM 93.9",
+    "url": "https://17843.live.streamtheworld.com:443/GEE_BAY939AAC.aac",
+    "genre": "Music",
+    "city": "Geelong",
+    "country": "Australia",
+    "lat": -38.1493248,
+    "lng": 144.3598241
+  },
+  {
+    "id": "australia-station-x-1611-am",
+    "name": "Station X 1611 AM",
+    "url": "https://us01.xrn.com.au/listen/stx/StxSd",
+    "genre": "Music",
+    "city": "Wee Waa",
+    "country": "Australia",
+    "lat": -30.2242076,
+    "lng": 149.4401917
+  },
+  {
+    "id": "australia-waringarri-radio-6wr-693-am",
+    "name": "Waringarri Radio 6WR 693 AM",
+    "url": "https://firstnationsmedia.stream:8048/stream",
+    "genre": "Music",
+    "city": "Darwin",
+    "country": "Australia",
+    "lat": -12.46044,
+    "lng": 130.8410469
+  },
+  {
+    "id": "australia-rph-print-radio-am864-fm1069",
+    "name": "RPH Print Radio AM864 FM106.9",
+    "url": "http://165.228.181.146:88/broadwave.mp3",
+    "genre": "Music",
+    "city": "Hobart",
+    "country": "Australia",
+    "lat": -42.8825088,
+    "lng": 147.3281233
+  },
+  {
+    "id": "australia-pulse-fm",
+    "name": "Pulse FM",
+    "url": "http://icemedia.pulsefm.com.au:8000/au_tas_7T47_pulsefm",
+    "genre": "Music",
+    "city": "Hobart",
+    "country": "Australia",
+    "lat": -42.8825088,
+    "lng": 147.3281233
+  },
+  {
+    "id": "australia-mix-fm-927",
+    "name": "Mix FM 92.7",
+    "url": "https://n38a-eu.rcs.revma.com/z06q4stdwhruv?rj-ttl=5&rj-tok=AAABm_l5ucUAH0KjUTfgJ7IwiQ",
+    "genre": "Music",
+    "city": "Sunshine Coast",
+    "country": "Australia",
+    "lat": -26.6544338,
+    "lng": 153.0933668
+  },
+  {
+    "id": "australia-hobart-fm-961",
+    "name": "Hobart FM 96.1",
+    "url": "https://radio12.shoutcast.net.au:2020/stream/8032",
+    "genre": "Music",
+    "city": "Hobart",
+    "country": "Australia",
+    "lat": -42.8825088,
+    "lng": 147.3281233
+  },
+  {
+    "id": "australia-ultra-106-five--7hfc",
+    "name": "Ultra 106 five - 7HFC",
+    "url": "https://stream2.cnmns.net/106five",
+    "genre": "Music",
+    "city": "Hobart",
+    "country": "Australia",
+    "lat": -42.8825088,
+    "lng": 147.3281233
+  },
+  {
+    "id": "australia-wild-horse-fm-997",
+    "name": "Wild Horse FM 99.7",
+    "url": "https://s6.myradiostream.com:46712/;listen.pls?sid=1",
+    "genre": "Music",
+    "city": "Sunshine Coast",
+    "country": "Australia",
+    "lat": -26.6544338,
+    "lng": 153.0933668
+  },
+  {
+    "id": "australia-edge-radio-fm-993",
+    "name": "Edge Radio FM 99.3",
+    "url": "https://streaming.edgeradio.org.au/radio/8000/stream",
+    "genre": "Music",
+    "city": "Hobart",
+    "country": "Australia",
+    "lat": -42.8825088,
+    "lng": 147.3281233
+  },
+  {
+    "id": "australia-sea-919",
+    "name": "Sea 91.9",
+    "url": "https://n30a-eu.rcs.revma.com/128n3ctdwhruv?rj-ttl=5&rj-tok=AAABm_l5uy4AawN7-Zu-nvzwnQ",
+    "genre": "Music",
+    "city": "Sunshine Coast",
+    "country": "Australia",
+    "lat": -26.6544338,
+    "lng": 153.0933668
+  },
+  {
+    "id": "australia-tyga-fm-989",
+    "name": "Tyga FM 98.9",
+    "url": "https://radio12.shoutcast.net.au:2020/stream/8012/",
+    "genre": "Music",
+    "city": "Hobart",
+    "country": "Australia",
+    "lat": -42.8825088,
+    "lng": 147.3281233
+  },
+  {
+    "id": "australia-2nm-am981",
+    "name": "2NM AM981",
+    "url": "https://16643.live.streamtheworld.com:443/MUS_2NMAAC.aac",
+    "genre": "Music",
+    "city": "Wee Waa",
+    "country": "Australia",
+    "lat": -30.2242076,
+    "lng": 149.4401917
+  },
+  {
+    "id": "australia-hot-911",
+    "name": "Hot 91.1",
+    "url": "https://18433.live.streamtheworld.com:443/MAR_HOT91AAC.aac",
+    "genre": "Music",
+    "city": "Sunshine Coast",
+    "country": "Australia",
+    "lat": -26.6544338,
+    "lng": 153.0933668
+  },
+  {
+    "id": "australia-sunshine-fm-1049",
+    "name": "Sunshine FM 104.9",
+    "url": "https://23203.live.streamtheworld.com:443/4SFMAAC_SC",
+    "genre": "Music",
+    "city": "Sunshine Coast",
+    "country": "Australia",
+    "lat": -26.6544338,
+    "lng": 153.0933668
+  },
+  {
+    "id": "australia-2arm-fm-921",
+    "name": "2ARM FM 92.1",
+    "url": "https://15113.live.streamtheworld.com:443/SAM02AAC109_SC",
+    "genre": "Music",
+    "city": "Wee Waa",
+    "country": "Australia",
+    "lat": -30.2242076,
+    "lng": 149.4401917
+  },
+  {
+    "id": "australia-mtm-fm-919",
+    "name": "MTM FM 91.9",
+    "url": "https://23203.live.streamtheworld.com:443/2MTMAAC.aac",
+    "genre": "Music",
+    "city": "Wee Waa",
+    "country": "Australia",
+    "lat": -30.2242076,
+    "lng": 149.4401917
+  },
+  {
+    "id": "australia-capital-country-radio",
+    "name": "Capital Country Radio",
+    "url": "https://stream.radio.co/s44fa33dbc/listen",
+    "genre": "Music",
+    "city": "Wee Waa",
+    "country": "Australia",
+    "lat": -30.2242076,
+    "lng": 149.4401917
+  },
+  {
+    "id": "australia-noosa-fm-1013",
+    "name": "Noosa FM 101.3",
+    "url": "https://28903.live.streamtheworld.com:443/4NSA_ICECAST.mp3",
+    "genre": "Music",
+    "city": "Sunshine Coast",
+    "country": "Australia",
+    "lat": -26.6544338,
+    "lng": 153.0933668
+  },
+  {
+    "id": "australia-mix-fm-light",
+    "name": "Mix FM Light",
+    "url": "https://n13.rcs.revma.com/1ck16c9sabuvv?rj-ttl=5&rj-tok=AAABm_l5vNAAwZbiiO1YyXFamQ",
+    "genre": "Music",
+    "city": "Sunshine Coast",
+    "country": "Australia",
+    "lat": -26.6544338,
+    "lng": 153.0933668
+  },
+  {
+    "id": "australia-goldfields-fm-991",
+    "name": "Goldfields FM 99.1",
+    "url": "http://s1.communitybroadcastnetwork.com.au:8000/3GFM/128",
+    "genre": "Music",
+    "city": "Ballarat",
+    "country": "Australia",
+    "lat": -37.5623013,
+    "lng": 143.8605645
+  },
+  {
+    "id": "australia-zinc-961",
+    "name": "Zinc 96.1",
+    "url": "https://14013.live.streamtheworld.com:443/MAR_ZINC96AAC.aac",
+    "genre": "Music",
+    "city": "Sunshine Coast",
+    "country": "Australia",
+    "lat": -26.6544338,
+    "lng": 153.0933668
+  },
+  {
+    "id": "australia-star-fm-937",
+    "name": "Star FM 93.7",
+    "url": "https://s6.myradiostream.com/:11056/index.html?sid=1",
+    "genre": "Music",
+    "city": "Hobart",
+    "country": "Australia",
+    "lat": -42.8825088,
+    "lng": 147.3281233
+  },
+  {
+    "id": "australia-7hofm-1017",
+    "name": "7HOFM 101.7",
+    "url": "https://27263.live.streamtheworld.com:443/HOB_7HOAAC.aac",
+    "genre": "Music",
+    "city": "Hobart",
+    "country": "Australia",
+    "lat": -42.8825088,
+    "lng": 147.3281233
+  },
+  {
+    "id": "australia-pulse-941",
+    "name": "Pulse 94.1",
+    "url": "https://stream2.cnmns.net/941-mp3",
+    "genre": "Music",
+    "city": "Wollongong",
+    "country": "Australia",
+    "lat": -34.4243941,
+    "lng": 150.89385
+  },
+  {
+    "id": "australia-7xs-fm-921",
+    "name": "7XS FM 92.1",
+    "url": "https://27263.live.streamtheworld.com:443/QUE_7XS.mp3",
+    "genre": "Music",
+    "city": "Hobart",
+    "country": "Australia",
+    "lat": -42.8825088,
+    "lng": 147.3281233
+  },
+  {
+    "id": "australia-sea-fm-1017",
+    "name": "Sea FM 101.7",
+    "url": "https://18423.live.streamtheworld.com:443/BUR_SEAFMAAC.aac",
+    "genre": "Music",
+    "city": "Hobart",
+    "country": "Australia",
+    "lat": -42.8825088,
+    "lng": 147.3281233
+  },
+  {
+    "id": "australia-rat-fm-balarat",
+    "name": "RAT FM Balarat",
+    "url": "https://ic.phazern.com.au:8000/RATFM",
+    "genre": "Music",
+    "city": "Ballarat",
+    "country": "Australia",
+    "lat": -37.5623013,
+    "lng": 143.8605645
+  },
+  {
+    "id": "australia-voice-of-charity-am-1701",
+    "name": "Voice of Charity AM 1701",
+    "url": "http://cassini.shoutca.st:9496/xstream",
+    "genre": "Music",
+    "city": "Wollongong",
+    "country": "Australia",
+    "lat": -34.4243941,
+    "lng": 150.89385
+  },
+  {
+    "id": "australia-sunbury-radio-fm-993",
+    "name": "Sunbury Radio FM 99.3",
+    "url": "https://s7.reliastream.com/proxy/nrgradio?mp=/stream",
+    "genre": "Music",
+    "city": "Ballarat",
+    "country": "Australia",
+    "lat": -37.5623013,
+    "lng": 143.8605645
+  },
+  {
+    "id": "australia-meander-valley-fm-969",
+    "name": "Meander Valley FM 96.9",
+    "url": "https://28903.live.streamtheworld.com:443/MVFMAAC.aac",
+    "genre": "Music",
+    "city": "Hobart",
+    "country": "Australia",
+    "lat": -42.8825088,
+    "lng": 147.3281233
+  },
+  {
+    "id": "australia-power-fm-1031",
+    "name": "Power FM 103.1",
+    "url": "https://17843.live.streamtheworld.com:443/BAL_POWER_FMAAC.aac",
+    "genre": "Music",
+    "city": "Ballarat",
+    "country": "Australia",
+    "lat": -37.5623013,
+    "lng": 143.8605645
+  },
+  {
+    "id": "australia-3ba-fm-1023",
+    "name": "3BA FM 102.3",
+    "url": "https://19273.live.streamtheworld.com:443/BAL_3BAAAC.aac",
+    "genre": "Music",
+    "city": "Ballarat",
+    "country": "Australia",
+    "lat": -37.5623013,
+    "lng": 143.8605645
+  },
+  {
+    "id": "australia-way-fm-1053",
+    "name": "Way FM 105.3",
+    "url": "https://stream2.cnmns.net/wayfm-mp3",
+    "genre": "Music",
+    "city": "Launceston",
+    "country": "Australia",
+    "lat": -41.4340813,
+    "lng": 147.1373496
+  },
+  {
+    "id": "australia-voice-fm-999",
+    "name": "Voice FM 99.9",
+    "url": "https://28793.live.streamtheworld.com:443/VOICEFMAAC.aac",
+    "genre": "Music",
+    "city": "Ballarat",
+    "country": "Australia",
+    "lat": -37.5623013,
+    "lng": 143.8605645
+  },
+  {
+    "id": "australia-wave-fm-965",
+    "name": "Wave FM 96.5",
+    "url": "https://19273.live.streamtheworld.com:443/WOL_WAVE_FMAAC.aac",
+    "genre": "Music",
+    "city": "Wollongong",
+    "country": "Australia",
+    "lat": -34.4243941,
+    "lng": 150.89385
+  },
+  {
+    "id": "australia-the-progressive-rock-machine",
+    "name": "The Progressive Rock Machine",
+    "url": "https://theproganrockmachine.out.airtime.pro/theproganrockmachine_b",
+    "genre": "Music",
+    "city": "Ballarat",
+    "country": "Australia",
+    "lat": -37.5623013,
+    "lng": 143.8605645
+  },
+  {
+    "id": "australia-vision-christian-radio",
+    "name": "Vision Christian Radio",
+    "url": "https://streams2.vision.org.au/vision.mp3",
+    "genre": "Music",
+    "city": "Logan",
+    "country": "Australia",
+    "lat": -27.6424132,
+    "lng": 153.1131037
+  },
+  {
+    "id": "australia-easy-fm-933",
+    "name": "Easy FM 93.3",
+    "url": "https://a1.asurahosting.com:8600/radio.mp3?src=1&rate=1",
+    "genre": "Music",
+    "city": "Gosford",
+    "country": "Australia",
+    "lat": -33.4250175,
+    "lng": 151.3417318
+  },
+  {
+    "id": "australia-highland-1071-fm--2wkt",
+    "name": "Highland 107.1 FM - 2WKT",
+    "url": "https://28863.live.streamtheworld.com:443/HIGHLAND_FMAAC.aac?dist=radiogarden",
+    "genre": "Music",
+    "city": "Wollongong",
+    "country": "Australia",
+    "lat": -34.4243941,
+    "lng": 150.89385
+  },
+  {
+    "id": "australia-power-fm-949",
+    "name": "Power FM 94.9",
+    "url": "https://17843.live.streamtheworld.com:443/NOW_POWER_FMAAC.aac",
+    "genre": "Music",
+    "city": "Wollongong",
+    "country": "Australia",
+    "lat": -34.4243941,
+    "lng": 150.89385
+  },
+  {
+    "id": "australia-city-park-radio-fm-1037",
+    "name": "City Park Radio FM 103.7",
+    "url": "https://28903.live.streamtheworld.com:443/7LTNAAC_SC",
+    "genre": "Music",
+    "city": "Launceston",
+    "country": "Australia",
+    "lat": -41.4340813,
+    "lng": 147.1373496
+  },
+  {
+    "id": "australia-big-hits-radio",
+    "name": "Big Hits Radio",
+    "url": "http://172.93.237.106:8155/live/",
+    "genre": "Music",
+    "city": "Townsville City",
+    "country": "Australia",
+    "lat": -19.3502845,
+    "lng": 146.8036047
+  },
+  {
+    "id": "australia-chilli-fm-901",
+    "name": "Chilli FM 90.1",
+    "url": "https://27263.live.streamtheworld.com:443/LAU_CHILLIAAC.aac",
+    "genre": "Music",
+    "city": "Launceston",
+    "country": "Australia",
+    "lat": -41.4340813,
+    "lng": 147.1373496
+  },
+  {
+    "id": "australia-triple-t-fm-1039",
+    "name": "Triple T FM 103.9",
+    "url": "http://159.196.29.55:7000/TripleTFM",
+    "genre": "Music",
+    "city": "Townsville City",
+    "country": "Australia",
+    "lat": -19.3502845,
+    "lng": 146.8036047
+  },
+  {
+    "id": "australia-star-1045-fm",
+    "name": "Star 104.5 FM",
+    "url": "https://28803.live.streamtheworld.com:443/STARFM_AAC320.aac",
+    "genre": "Music",
+    "city": "Gosford",
+    "country": "Australia",
+    "lat": -33.4250175,
+    "lng": 151.3417318
+  },
+  {
+    "id": "australia-la-fm-893",
+    "name": "LA FM 89.3",
+    "url": "https://18423.live.streamtheworld.com:443/LAU_LAFMAAC.aac",
+    "genre": "Music",
+    "city": "Launceston",
+    "country": "Australia",
+    "lat": -41.4340813,
+    "lng": 147.1373496
+  },
+  {
+    "id": "australia-coast-fm-963",
+    "name": "Coast FM 96.3",
+    "url": "https://23203.live.streamtheworld.com:443/2CCCAAC.aac",
+    "genre": "Music",
+    "city": "Gosford",
+    "country": "Australia",
+    "lat": -33.4250175,
+    "lng": 151.3417318
+  },
+  {
+    "id": "australia-101-fm--4cbl",
+    "name": "101 FM - 4CBL",
+    "url": "https://28793.live.streamtheworld.com:443/4CBLAAC.aac",
+    "genre": "Music",
+    "city": "Logan",
+    "country": "Australia",
+    "lat": -27.6424132,
+    "lng": 153.1131037
+  },
+  {
+    "id": "australia-2nurfm-1037",
+    "name": "2NURFM 103.7",
+    "url": "https://14533.live.streamtheworld.com:443/2NURFM.mp3",
+    "genre": "Music",
+    "city": "Gosford",
+    "country": "Australia",
+    "lat": -33.4250175,
+    "lng": 151.3417318
+  },
+  {
+    "id": "australia-4k1g-fm-1071",
+    "name": "4K1G FM 107.1",
+    "url": "https://usa4.fastcast4u.com/proxy/4k1g?mp=/stream",
+    "genre": "Music",
+    "city": "Townsville City",
+    "country": "Australia",
+    "lat": -19.3502845,
+    "lng": 146.8036047
+  },
+  {
+    "id": "australia-gaan-baksho",
+    "name": "Gaan Baksho",
+    "url": "https://str3.openstream.co/1703",
+    "genre": "Music",
+    "city": "Gosford",
+    "country": "Australia",
+    "lat": -33.4250175,
+    "lng": 151.3417318
+  },
+  {
+    "id": "australia-i98fm",
+    "name": "i98FM",
+    "url": "https://ice10.securenetsystems.net/I98FM",
+    "genre": "Music",
+    "city": "Wollongong",
+    "country": "Australia",
+    "lat": -34.4243941,
+    "lng": 150.89385
+  },
+  {
+    "id": "australia-live-fm-999",
+    "name": "Live FM 99.9",
+    "url": "https://28793.live.streamtheworld.com:443/4TCB.mp3",
+    "genre": "Music",
+    "city": "Townsville City",
+    "country": "Australia",
+    "lat": -19.3502845,
+    "lng": 146.8036047
+  },
+  {
+    "id": "australia-bumma-bippera-987fm",
+    "name": "Bumma Bippera 98.7FM",
+    "url": "https://audio-edge-kef8b.ams.s.radiomast.io/8793edda-b581-48e9-bf45-b045bbdc4224",
+    "genre": "Music",
+    "city": "Townsville City",
+    "country": "Australia",
+    "lat": -19.3502845,
+    "lng": 146.8036047
+  },
+  {
+    "id": "australia-4rfm-969",
+    "name": "4RFM 96.9",
+    "url": "https://stream.4rfm.com.au/1",
+    "genre": "Music",
+    "city": "Townsville City",
+    "country": "Australia",
+    "lat": -19.3502845,
+    "lng": 146.8036047
+  },
+  {
+    "id": "australia-96five-fresh-radio",
+    "name": "96five Fresh Radio",
+    "url": "https://28803.live.streamtheworld.com:443/2CBA_FRESHAAC.aac",
+    "genre": "Music",
+    "city": "Logan",
+    "country": "Australia",
+    "lat": -27.6424132,
+    "lng": 153.1131037
+  },
+  {
+    "id": "australia-voice-fm-929",
+    "name": "Voice FM 92.9",
+    "url": "https://stream2.cnmns.net/voice929-mp3",
+    "genre": "Music",
+    "city": "Toowoomba City",
+    "country": "Australia",
+    "lat": -27.5597959,
+    "lng": 151.9506835
+  },
+  {
+    "id": "australia-hit-1007",
+    "name": "Hit 100.7",
+    "url": "https://legacy.scahw.com.au/4rgd_32",
+    "genre": "Music",
+    "city": "Toowoomba City",
+    "country": "Australia",
+    "lat": -27.5597959,
+    "lng": 151.9506835
+  },
+  {
+    "id": "australia-power100-1007-fm",
+    "name": "Power100 100.7 FM",
+    "url": "https://26303.live.streamtheworld.com:443/TOW_POWER100AAC_SC",
+    "genre": "Music",
+    "city": "Townsville City",
+    "country": "Australia",
+    "lat": -19.3502845,
+    "lng": 146.8036047
+  },
+  {
+    "id": "australia-radio-985-fm-4-you",
+    "name": "Radio 98.5 FM 4 You",
+    "url": "https://23163.live.streamtheworld.com:443/4YOUAAC.aac",
+    "genre": "Music",
+    "city": "Townsville City",
+    "country": "Australia",
+    "lat": -19.3502845,
+    "lng": 146.8036047
+  },
+  {
+    "id": "australia-4mk-1026-am",
+    "name": "4MK 1026 AM",
+    "url": "https://26113.live.streamtheworld.com:443/MAC_4MKAAC.aac",
+    "genre": "Music",
+    "city": "Townsville City",
+    "country": "Australia",
+    "lat": -19.3502845,
+    "lng": 146.8036047
+  },
+  {
+    "id": "australia-rose-city-fm-893",
+    "name": "Rose City FM 89.3",
+    "url": "https://28903.live.streamtheworld.com:443/4SDBAAC.aac",
+    "genre": "Music",
+    "city": "Toowoomba City",
+    "country": "Australia",
+    "lat": -27.5597959,
+    "lng": 151.9506835
+  },
+  {
+    "id": "australia-radio-pcm",
+    "name": "Radio PCM",
+    "url": "https://radiopcm.stream.laut.fm/radiopcm",
+    "genre": "Music",
+    "city": "Toowoomba City",
+    "country": "Australia",
+    "lat": -27.5597959,
+    "lng": 151.9506835
+  }
+]

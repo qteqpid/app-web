@@ -1,0 +1,62 @@
+[
+  {
+    "id": "micronesia-kprg-fm-893",
+    "name": "KPRG-FM 89.3",
+    "url": "http://peridot.streamguys.com:5090/live",
+    "genre": "Music",
+    "city": "Weno",
+    "country": "Federated States of Micronesia",
+    "lat": 7.4425256,
+    "lng": 151.8584946
+  },
+  {
+    "id": "micronesia-harvest-family-radio-fm-881",
+    "name": "Harvest Family Radio FM 88.1",
+    "url": "https://das-edge13-live365-dal02.cdnstream.com/a11295",
+    "genre": "Music",
+    "city": "Weno",
+    "country": "Federated States of Micronesia",
+    "lat": 7.4425256,
+    "lng": 151.8584946
+  },
+  {
+    "id": "micronesia-v6-bbc-baptist-radio-chuuk-885-fm",
+    "name": "V6 BBC Baptist Radio Chuuk 88.5 FM",
+    "url": "https://streaming.radio.co/s25a6afba9/listen",
+    "genre": "Music",
+    "city": "Weno",
+    "country": "Federated States of Micronesia",
+    "lat": 7.4425256,
+    "lng": 151.8584946
+  },
+  {
+    "id": "micronesia-joy-fm-919",
+    "name": "Joy FM 91.9",
+    "url": "https://ice5.securenetsystems.net/JOYFM",
+    "genre": "Music",
+    "city": "Weno",
+    "country": "Federated States of Micronesia",
+    "lat": 7.4425256,
+    "lng": 151.8584946
+  },
+  {
+    "id": "micronesia-the-point-933-fm--kusg",
+    "name": "The Point 93.3 FM - KUSG",
+    "url": "https://ice10.securenetsystems.net/KUSG",
+    "genre": "Music",
+    "city": "Weno",
+    "country": "Federated States of Micronesia",
+    "lat": 7.4425256,
+    "lng": 151.8584946
+  },
+  {
+    "id": "micronesia-kat-fm-1051--kgum",
+    "name": "Kat FM 105.1 - KGUM",
+    "url": "https://ice2.securenetsystems.net/KGUMFM",
+    "genre": "Music",
+    "city": "Weno",
+    "country": "Federated States of Micronesia",
+    "lat": 7.4425256,
+    "lng": 151.8584946
+  }
+]

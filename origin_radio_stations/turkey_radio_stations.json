@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "turkey-kral-pop",
+    "name": "Kral Pop",
+    "url": "http://46.20.3.202/",
+    "genre": "Music",
+    "city": "İstanbul",
+    "country": "Türkiye",
+    "lat": 41.006381,
+    "lng": 28.9758715
+  },
+  {
+    "id": "turkey-radyo-spor",
+    "name": "Radyo Spor",
+    "url": "http://37.247.100.118/stream/70/",
+    "genre": "Music",
+    "city": "İstanbul",
+    "country": "Türkiye",
+    "lat": 41.006381,
+    "lng": 28.9758715
+  },
+  {
+    "id": "turkey-baba-radyo",
+    "name": "Baba Radyo",
+    "url": "http://37.247.98.7/;stream.mp3",
+    "genre": "Music",
+    "city": "İstanbul",
+    "country": "Türkiye",
+    "lat": 41.006381,
+    "lng": 28.9758715
+  },
+  {
+    "id": "turkey-hayatmix",
+    "name": "HaYaTMix",
+    "url": "https://hayatmix.yayin.com.tr/stream",
+    "genre": "Music",
+    "city": "İstanbul",
+    "country": "Türkiye",
+    "lat": 41.006381,
+    "lng": 28.9758715
+  },
+  {
+    "id": "turkey-dost-fm",
+    "name": "Dost FM",
+    "url": "http://yayin.dostfm.com:8920/;&amp;lang=auto&amp;codec=mp3&amp;tracking=true&amp;volume=65&amp;autoplay=false&amp;buffering=5",
+    "genre": "Music",
+    "city": "Ankara",
+    "country": "Türkiye",
+    "lat": 39.9207759,
+    "lng": 32.8540497
+  },
+  {
+    "id": "turkey-gözde-fm-yalova-922",
+    "name": "Gözde Fm Yalova 92.2",
+    "url": "https://gozdefm.80.yayin.com.tr/stream/1/",
+    "genre": "Music",
+    "city": "İstanbul",
+    "country": "Türkiye",
+    "lat": 41.006381,
+    "lng": 28.9758715
+  },
+  {
+    "id": "turkey-radyo-44",
+    "name": "Radyo 44",
+    "url": "https://radyo44.80.yayin.com.tr/stream",
+    "genre": "Music",
+    "city": "İstanbul",
+    "country": "Türkiye",
+    "lat": 41.006381,
+    "lng": 28.9758715
+  },
+  {
+    "id": "turkey-radyo-haber-fm-1069",
+    "name": "Radyo Haber FM 106.9",
+    "url": "https://stream.netradyom.com/listen/radyohaber/radio.mp3",
+    "genre": "Music",
+    "city": "İstanbul",
+    "country": "Türkiye",
+    "lat": 41.006381,
+    "lng": 28.9758715
+  },
+  {
+    "id": "turkey-aşk-fm-1021",
+    "name": "Aşk FM 102.1",
+    "url": "https://stream.netradyom.com/radio/8000/radio.mp3",
+    "genre": "Music",
+    "city": "Ankara",
+    "country": "Türkiye",
+    "lat": 39.9207759,
+    "lng": 32.8540497
+  },
+  {
+    "id": "turkey-show-radyo",
+    "name": "Show Radyo",
+    "url": "https://showradyo.radyotvonline.net/showradyoaac",
+    "genre": "Music",
+    "city": "İstanbul",
+    "country": "Türkiye",
+    "lat": 41.006381,
+    "lng": 28.9758715
+  },
+  {
+    "id": "turkey-bayram-fm",
+    "name": "Bayram FM",
+    "url": "https://sslyayin.netyayin.net/3442/stream",
+    "genre": "Music",
+    "city": "İstanbul",
+    "country": "Türkiye",
+    "lat": 41.006381,
+    "lng": 28.9758715
+  },
+  {
+    "id": "turkey-küpe-fm-897",
+    "name": "Küpe FM 89.7",
+    "url": "https://icecast.netmedya.net/kupefm",
+    "genre": "Music",
+    "city": "İstanbul",
+    "country": "Türkiye",
+    "lat": 41.006381,
+    "lng": 28.9758715
+  },
+  {
+    "id": "turkey-radyo-yüksel",
+    "name": "Radyo Yüksel",
+    "url": "https://yayin2.canliyayin.org:8232/;stream",
+    "genre": "Music",
+    "city": "İstanbul",
+    "country": "Türkiye",
+    "lat": 41.006381,
+    "lng": 28.9758715
+  },
+  {
+    "id": "turkey-radyo-fenomen-1004-fm",
+    "name": "Radyo Fenomen 100.4 FM",
+    "url": "https://live.radyofenomen.com/fenomen/128/icecast.audio",
+    "genre": "Music",
+    "city": "İstanbul",
+    "country": "Türkiye",
+    "lat": 41.006381,
+    "lng": 28.9758715
+  },
+  {
+    "id": "turkey-radio-line-fm-991",
+    "name": "Radio Line FM 99.1",
+    "url": "https://online.radioline.fm:8443/stream",
+    "genre": "Music",
+    "city": "İstanbul",
+    "country": "Türkiye",
+    "lat": 41.006381,
+    "lng": 28.9758715
+  },
+  {
+    "id": "turkey-meteorolojinin-sesi-radyosu",
+    "name": "Meteorolojinin Sesi Radyosu",
+    "url": "https://radyomgm.canliyayinda.com/;stream.mp3",
+    "genre": "Music",
+    "city": "Ankara",
+    "country": "Türkiye",
+    "lat": 39.9207759,
+    "lng": 32.8540497
+  },
+  {
+    "id": "turkey-joyturk-fm-890",
+    "name": "JoyTurk FM 89.0",
+    "url": "https://22183.live.streamtheworld.com:443/JOY_TURKAAC.aac",
+    "genre": "Music",
+    "city": "İstanbul",
+    "country": "Türkiye",
+    "lat": 41.006381,
+    "lng": 28.9758715
+  },
+  {
+    "id": "turkey-joy-fm",
+    "name": "Joy FM",
+    "url": "https://25683.live.streamtheworld.com:443/JOY_FMAAC.aac",
+    "genre": "Music",
+    "city": "İstanbul",
+    "country": "Türkiye",
+    "lat": 41.006381,
+    "lng": 28.9758715
+  },
+  {
+    "id": "turkey-radyo-ankara-1067-fm",
+    "name": "Radyo Ankara 106.7 FM",
+    "url": "https://radyoankara.ozelip.net/radyoankara/stream",
+    "genre": "Music",
+    "city": "Ankara",
+    "country": "Türkiye",
+    "lat": 39.9207759,
+    "lng": 32.8540497
+  },
+  {
+    "id": "turkey-radyo-özgür-1051-fm",
+    "name": "Radyo Özgür 105.1 FM",
+    "url": "https://radyoozgur.kesintisizyayin.com:9898/;*.nsv",
+    "genre": "Music",
+    "city": "Ankara",
+    "country": "Türkiye",
+    "lat": 39.9207759,
+    "lng": 32.8540497
+  },
+  {
+    "id": "turkey-damarfm",
+    "name": "DamarFM",
+    "url": "https://yayin.damarfm.com/dinle/stream",
+    "genre": "Music",
+    "city": "Ankara",
+    "country": "Türkiye",
+    "lat": 39.9207759,
+    "lng": 32.8540497
+  },
+  {
+    "id": "turkey-heart-fm",
+    "name": "Heart FM",
+    "url": "https://live.heartfm.com.tr/listen/heart_fm/128.aac",
+    "genre": "Music",
+    "city": "Ankara",
+    "country": "Türkiye",
+    "lat": 39.9207759,
+    "lng": 32.8540497
+  },
+  {
+    "id": "turkey-trt-fm",
+    "name": "TRT FM",
+    "url": "https://trt.radyotvonline.net/trtfm",
+    "genre": "Music",
+    "city": "Ankara",
+    "country": "Türkiye",
+    "lat": 39.9207759,
+    "lng": 32.8540497
+  },
+  {
+    "id": "turkey-radyo-yankı-910",
+    "name": "Radyo Yankı 91.0",
+    "url": "https://radyoyanki.ozelip.com:9918/;stream.mp3",
+    "genre": "Music",
+    "city": "Ankara",
+    "country": "Türkiye",
+    "lat": 39.9207759,
+    "lng": 32.8540497
+  },
+  {
+    "id": "turkey-aksaray-fm-995",
+    "name": "Aksaray FM 99.5",
+    "url": "https://sssx.radyosfer.com/aksarayfm/stream//",
+    "genre": "Music",
+    "city": "Ankara",
+    "country": "Türkiye",
+    "lat": 39.9207759,
+    "lng": 32.8540497
+  },
+  {
+    "id": "turkey-ankara-çağdaş-sanat-radyosu",
+    "name": "Ankara Çağdaş Sanat Radyosu",
+    "url": "https://ip169.ozelip.com:10838/stream",
+    "genre": "Music",
+    "city": "Ankara",
+    "country": "Türkiye",
+    "lat": 39.9207759,
+    "lng": 32.8540497
+  },
+  {
+    "id": "turkey-yozgat-fm-967",
+    "name": "Yozgat FM 96.7",
+    "url": "https://sslyayin.netyayin.net:10921/stream/",
+    "genre": "Music",
+    "city": "Ankara",
+    "country": "Türkiye",
+    "lat": 39.9207759,
+    "lng": 32.8540497
+  },
+  {
+    "id": "turkey-ozel-fm-1032",
+    "name": "Ozel FM 103.2",
+    "url": "https://ozelfm.80.yayin.com.tr/;stream/1",
+    "genre": "Music",
+    "city": "Bursa",
+    "country": "Türkiye",
+    "lat": 40.1825734,
+    "lng": 29.0675039
+  },
+  {
+    "id": "turkey-radyo-kent-fm-990",
+    "name": "Radyo Kent FM 99.0",
+    "url": "https://live.sinirsizhost.com/8024/stream",
+    "genre": "Music",
+    "city": "Ankara",
+    "country": "Türkiye",
+    "lat": 39.9207759,
+    "lng": 32.8540497
+  },
+  {
+    "id": "turkey-radyo-zonguldak",
+    "name": "Radyo Zonguldak",
+    "url": "https://anadolu.liderhost.com.tr:10920/;stream.mp3",
+    "genre": "Music",
+    "city": "Ankara",
+    "country": "Türkiye",
+    "lat": 39.9207759,
+    "lng": 32.8540497
+  },
+  {
+    "id": "turkey-radyo-bu-fm-954",
+    "name": "Radyo Bu FM 95.4",
+    "url": "https://radyo.yayindakiler.com:8006/stream.mp3",
+    "genre": "Music",
+    "city": "Bursa",
+    "country": "Türkiye",
+    "lat": 40.1825734,
+    "lng": 29.0675039
+  },
+  {
+    "id": "turkey-radyo-turk-944",
+    "name": "Radyo Turk 94.4",
+    "url": "https://radyo.yayindakiler.com:4028/stream/",
+    "genre": "Music",
+    "city": "Bursa",
+    "country": "Türkiye",
+    "lat": 40.1825734,
+    "lng": 29.0675039
+  },
+  {
+    "id": "turkey-radyo-aktif-fm-926",
+    "name": "Radyo Aktif FM 92.6",
+    "url": "https://sssx.radyosfer.com/radyoaktif/stream/1/",
+    "genre": "Music",
+    "city": "Bursa",
+    "country": "Türkiye",
+    "lat": 40.1825734,
+    "lng": 29.0675039
+  },
+  {
+    "id": "turkey-radyo-odtü-rock",
+    "name": "Radyo ODTÜ Rock",
+    "url": "https://stream3.radyoodtu.com.tr:8000/rock",
+    "genre": "Music",
+    "city": "Ankara",
+    "country": "Türkiye",
+    "lat": 39.9207759,
+    "lng": 32.8540497
+  },
+  {
+    "id": "turkey-radyo-bursadabugün-fm-942",
+    "name": "Radyo BursadaBugün FM 94.2",
+    "url": "https://radyo.bursadabugun.com/stream/",
+    "genre": "Music",
+    "city": "Bursa",
+    "country": "Türkiye",
+    "lat": 40.1825734,
+    "lng": 29.0675039
+  },
+  {
+    "id": "turkey-radyo-45lik",
+    "name": "Radyo 45'lik",
+    "url": "https://stream.radyo45lik.com:4545/stream",
+    "genre": "Music",
+    "city": "İstanbul",
+    "country": "Türkiye",
+    "lat": 41.006381,
+    "lng": 28.9758715
+  },
+  {
+    "id": "turkey-radyo-cagdas-895",
+    "name": "Radyo Cagdas 89.5",
+    "url": "https://icecast.netmedya.net/radyocagdas",
+    "genre": "Music",
+    "city": "Bursa",
+    "country": "Türkiye",
+    "lat": 40.1825734,
+    "lng": 29.0675039
+  },
+  {
+    "id": "turkey-erciyes-üniversite-fm-983",
+    "name": "Erciyes Üniversite FM 98.3",
+    "url": "https://radio.socialsmart.tv:8000/default",
+    "genre": "Music",
+    "city": "Kayseri",
+    "country": "Türkiye",
+    "lat": 38.7219011,
+    "lng": 35.4873214
+  },
+  {
+    "id": "turkey-radyo-alaturka",
+    "name": "Radyo Alaturka",
+    "url": "https://yayin.jumboserver.net:9100/stream",
+    "genre": "Music",
+    "city": "İstanbul",
+    "country": "Türkiye",
+    "lat": 41.006381,
+    "lng": 28.9758715
+  },
+  {
+    "id": "turkey-radyo-venüs-fm-922",
+    "name": "Radyo Venüs FM 92.2",
+    "url": "https://stream2.rtvtakip.com:7005/;stream.mp3",
+    "genre": "Music",
+    "city": "Bursa",
+    "country": "Türkiye",
+    "lat": 40.1825734,
+    "lng": 29.0675039
+  },
+  {
+    "id": "turkey-radyo-türk-980-fm",
+    "name": "Radyo Türk 98.0 FM",
+    "url": "https://radyo.yayindakiler.com:6191/;stream.mp3",
+    "genre": "Music",
+    "city": "Kayseri",
+    "country": "Türkiye",
+    "lat": 38.7219011,
+    "lng": 35.4873214
+  },
+  {
+    "id": "turkey-ikariaki-radiofonia",
+    "name": "ikariaki radiofonia",
+    "url": "http://sc2.streamwithq.com:8042/stream",
+    "genre": "Music",
+    "city": "İzmir",
+    "country": "Türkiye",
+    "lat": 38.4192537,
+    "lng": 27.128469
+  },
+  {
+    "id": "turkey-kolej-fm-969",
+    "name": "Kolej FM 96.9",
+    "url": "https://sssx.radyosfer.com/kolejfm/stream/1/",
+    "genre": "Music",
+    "city": "Kayseri",
+    "country": "Türkiye",
+    "lat": 38.7219011,
+    "lng": 35.4873214
+  },
+  {
+    "id": "turkey-radyo-trafik-izmir--1025-mhz",
+    "name": "Radyo Trafik Izmir - 102.5 MHz",
+    "url": "http://37.247.100.118/stream/179/",
+    "genre": "Music",
+    "city": "İzmir",
+    "country": "Türkiye",
+    "lat": 38.4192537,
+    "lng": 27.128469
+  },
+  {
+    "id": "turkey-enderun-fm-882",
+    "name": "Enderun FM 88.2",
+    "url": "https://yayin2.canliyayin.org:10996/index.html?sid=1",
+    "genre": "Music",
+    "city": "Kayseri",
+    "country": "Türkiye",
+    "lat": 38.7219011,
+    "lng": 35.4873214
+  },
+  {
+    "id": "turkey-elbistan-kent-fm-950",
+    "name": "Elbistan Kent FM 95.0",
+    "url": "https://radyo.arkacadde.org/4648/elbistankentfm.mp3",
+    "genre": "Music",
+    "city": "Kayseri",
+    "country": "Türkiye",
+    "lat": 38.7219011,
+    "lng": 35.4873214
+  },
+  {
+    "id": "turkey-batı-radyo-936",
+    "name": "Batı Radyo 93.6",
+    "url": "https://sslyayin.netyayin.net:10902/index.html?sid=1",
+    "genre": "Music",
+    "city": "İzmir",
+    "country": "Türkiye",
+    "lat": 38.4192537,
+    "lng": 27.128469
+  },
+  {
+    "id": "turkey-radyo-erkan-933-fm",
+    "name": "Radyo Erkan 93.3 FM",
+    "url": "https://stream.radyolarburada.com/listen/erkanfm/erkanfm/radio.mp3",
+    "genre": "Music",
+    "city": "Kayseri",
+    "country": "Türkiye",
+    "lat": 38.7219011,
+    "lng": 35.4873214
+  },
+  {
+    "id": "turkey-göksun-fm-985",
+    "name": "Göksun FM 98.5",
+    "url": "https://sslyayin.netyayin.net:10970/;stream.mp3",
+    "genre": "Music",
+    "city": "Kayseri",
+    "country": "Türkiye",
+    "lat": 38.7219011,
+    "lng": 35.4873214
+  },
+  {
+    "id": "turkey-gözde-fm-1035",
+    "name": "Gözde FM 103.5",
+    "url": "https://sslyayin.radyoyayini.com:7067/stream",
+    "genre": "Music",
+    "city": "Kayseri",
+    "country": "Türkiye",
+    "lat": 38.7219011,
+    "lng": 35.4873214
+  },
+  {
+    "id": "turkey-radyo-gul-917",
+    "name": "Radyo Gul 91.7",
+    "url": "https://yayin2.canliyayin.org:8866/index.html?sid=1",
+    "genre": "Music",
+    "city": "Bursa",
+    "country": "Türkiye",
+    "lat": 40.1825734,
+    "lng": 29.0675039
+  },
+  {
+    "id": "turkey-anemos-fm-956",
+    "name": "Anemos FM 95.6",
+    "url": "https://solid48.streamupsolutions.com/proxy/vqdawvmf/stream",
+    "genre": "Music",
+    "city": "İzmir",
+    "country": "Türkiye",
+    "lat": 38.4192537,
+    "lng": 27.128469
+  },
+  {
+    "id": "turkey-akdeniz-uni-fm",
+    "name": "Akdeniz Uni FM",
+    "url": "https://s2.radiolize.com/radio/8020/radio.mp3",
+    "genre": "Music",
+    "city": "Antalya",
+    "country": "Türkiye",
+    "lat": 36.8865728,
+    "lng": 30.7030242
+  },
+  {
+    "id": "turkey-radyo-remix",
+    "name": "Radyo Remix",
+    "url": "https://radyo.yayin.com.tr:5250/playlist.mp3",
+    "genre": "Music",
+    "city": "İzmir",
+    "country": "Türkiye",
+    "lat": 38.4192537,
+    "lng": 27.128469
+  },
+  {
+    "id": "turkey-piratefm-top-vibes",
+    "name": "PirateFM Top Vibes",
+    "url": "https://live.piratefm.net/listen/top/top",
+    "genre": "Music",
+    "city": "İzmir",
+    "country": "Türkiye",
+    "lat": 38.4192537,
+    "lng": 27.128469
+  },
+  {
+    "id": "turkey-radio-antalya",
+    "name": "Radio Antalya",
+    "url": "https://my.radiolize.com/radio/8000/radio.mp3",
+    "genre": "Music",
+    "city": "Antalya",
+    "country": "Türkiye",
+    "lat": 36.8865728,
+    "lng": 30.7030242
+  },
+  {
+    "id": "turkey-105-fm",
+    "name": "105 FM",
+    "url": "https://105fm.espiv.net/listen/105fm/stream.mp3",
+    "genre": "Music",
+    "city": "İzmir",
+    "country": "Türkiye",
+    "lat": 38.4192537,
+    "lng": 27.128469
+  },
+  {
+    "id": "turkey-radyo-bizim-fm",
+    "name": "Radyo Bizim FM",
+    "url": "http://radyo.radyobizimfm.com:9212/;type=mp3",
+    "genre": "Music",
+    "city": "Antalya",
+    "country": "Türkiye",
+    "lat": 36.8865728,
+    "lng": 30.7030242
+  },
+  {
+    "id": "turkey-radyo-sultan-fm-945",
+    "name": "Radyo Sultan FM 94.5",
+    "url": "http://afyonradyosultan.ozelip.com:9920/index.html?sid=1",
+    "genre": "Music",
+    "city": "Antalya",
+    "country": "Türkiye",
+    "lat": 36.8865728,
+    "lng": 30.7030242
+  },
+  {
+    "id": "turkey-radyo-kilim-1000",
+    "name": "Radyo Kilim 100.0",
+    "url": "http://yayin.netyayin.net:2727/1",
+    "genre": "Music",
+    "city": "Gaziantep",
+    "country": "Türkiye",
+    "lat": 37.0628317,
+    "lng": 37.3792617
+  },
+  {
+    "id": "turkey-hkü-radyo-1068-fm",
+    "name": "HKÜ Radyo 106.8 FM",
+    "url": "https://radio.hku.edu.tr:8000/radio.mp3",
+    "genre": "Music",
+    "city": "Gaziantep",
+    "country": "Türkiye",
+    "lat": 37.0628317,
+    "lng": 37.3792617
+  },
+  {
+    "id": "turkey-radyo-akdeniz-fm-950",
+    "name": "Radyo Akdeniz FM 95.0",
+    "url": "https://yayin.radyoakdeniz.com/9470/stream",
+    "genre": "Music",
+    "city": "Antalya",
+    "country": "Türkiye",
+    "lat": 36.8865728,
+    "lng": 30.7030242
+  },
+  {
+    "id": "turkey-radyo-talya",
+    "name": "Radyo Talya",
+    "url": "https://yayin.radyotalya.com:9424/stream",
+    "genre": "Music",
+    "city": "Antalya",
+    "country": "Türkiye",
+    "lat": 36.8865728,
+    "lng": 30.7030242
+  },
+  {
+    "id": "turkey-gün-fm",
+    "name": "Gün FM",
+    "url": "https://ssl120.radyotelekom.com.tr/8130/stream",
+    "genre": "Music",
+    "city": "Antalya",
+    "country": "Türkiye",
+    "lat": 36.8865728,
+    "lng": 30.7030242
+  },
+  {
+    "id": "turkey-olay-fm-935",
+    "name": "Olay FM 93.5",
+    "url": "https://netyayin.jsproduksiyon.com:9010/olayfm",
+    "genre": "Music",
+    "city": "Antalya",
+    "country": "Türkiye",
+    "lat": 36.8865728,
+    "lng": 30.7030242
+  },
+  {
+    "id": "turkey-gurbetci-fm-1054",
+    "name": "Gurbetci FM 105.4",
+    "url": "https://sssx.radyosfer.com/gurbetcifm/stream",
+    "genre": "Music",
+    "city": "Antalya",
+    "country": "Türkiye",
+    "lat": 36.8865728,
+    "lng": 30.7030242
+  },
+  {
+    "id": "turkey-hatay-dost-fm-907",
+    "name": "Hatay Dost FM 90.7",
+    "url": "http://yayin.netyayin.net:1515/streype=.mp3",
+    "genre": "Music",
+    "city": "Gaziantep",
+    "country": "Türkiye",
+    "lat": 37.0628317,
+    "lng": 37.3792617
+  },
+  {
+    "id": "turkey-radyo-i̇hya-fm-1004",
+    "name": "Radyo İhya FM 100.4",
+    "url": "https://radyo.yayin.com.tr:2727/stream",
+    "genre": "Music",
+    "city": "Gaziantep",
+    "country": "Türkiye",
+    "lat": 37.0628317,
+    "lng": 37.3792617
+  },
+  {
+    "id": "turkey-davet-radyo",
+    "name": "Davet Radyo",
+    "url": "https://stream-176.zeno.fm/xzuwreqpfg0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ4enV3cmVxcGZnMHV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiU3lQVDZLSDFUSmFyUEFJQjlBZFY0ZyIsImlhdCI6MTc2OTQyMzg1NCwiZXhwIjoxNzY5NDIzOTE0fQ.-77X1Jl-W4sylrfrQZjQRh-PVovOMjH6yypa0MdiEL4",
+    "genre": "Music",
+    "city": "Gaziantep",
+    "country": "Türkiye",
+    "lat": 37.0628317,
+    "lng": 37.3792617
+  },
+  {
+    "id": "turkey-radyo-şi̇ri̇nnar-fm-101",
+    "name": "Radyo Şi̇ri̇nnar FM 101",
+    "url": "https://sssx.radyosfer.com/sirinnarfm/stream/",
+    "genre": "Music",
+    "city": "Gaziantep",
+    "country": "Türkiye",
+    "lat": 37.0628317,
+    "lng": 37.3792617
+  },
+  {
+    "id": "turkey-radyo-şafak-fm-980",
+    "name": "Radyo Şafak FM 98.0",
+    "url": "https://yayin2.canliyayin.org:10970/;stream.mp3",
+    "genre": "Music",
+    "city": "Gaziantep",
+    "country": "Türkiye",
+    "lat": 37.0628317,
+    "lng": 37.3792617
+  },
+  {
+    "id": "turkey-radyo-hayat-fm-945",
+    "name": "Radyo Hayat FM 94.5",
+    "url": "http://live4.radyotvonline.com:9450/",
+    "genre": "Music",
+    "city": "Mersin",
+    "country": "Türkiye",
+    "lat": 36.7978381,
+    "lng": 34.6298391
+  },
+  {
+    "id": "turkey-بيسان-اف-ام-bissan-fm",
+    "name": "بيسان اف ام Bissan FM",
+    "url": "https://eu10.fastcast4u.com/bissanraqqa2021",
+    "genre": "Music",
+    "city": "Gaziantep",
+    "country": "Türkiye",
+    "lat": 37.0628317,
+    "lng": 37.3792617
+  },
+  {
+    "id": "turkey-kosmos-938-fm",
+    "name": "Kosmos 93.8 FM",
+    "url": "https://netradio.live24.gr/kosmos938rodos",
+    "genre": "Music",
+    "city": "Antalya",
+    "country": "Türkiye",
+    "lat": 36.8865728,
+    "lng": 30.7030242
+  },
+  {
+    "id": "turkey-mersin-fm",
+    "name": "Mersin FM",
+    "url": "https://tr2.socialsmart.tv/tepemedya/mersinfm/icecast.audio",
+    "genre": "Music",
+    "city": "Mersin",
+    "country": "Türkiye",
+    "lat": 36.7978381,
+    "lng": 34.6298391
+  },
+  {
+    "id": "turkey-kent-radyo-985",
+    "name": "Kent Radyo 98.5",
+    "url": "https://anadolu.liderhost.com.tr:10906/;listen.pls?sid=1",
+    "genre": "Music",
+    "city": "Mersin",
+    "country": "Türkiye",
+    "lat": 36.7978381,
+    "lng": 34.6298391
+  },
+  {
+    "id": "turkey-şahin-fm",
+    "name": "Şahin FM",
+    "url": "https://yayin2.canliyayin.org:7200/stream",
+    "genre": "Music",
+    "city": "Gaziantep",
+    "country": "Türkiye",
+    "lat": 37.0628317,
+    "lng": 37.3792617
+  },
+  {
+    "id": "turkey-ruwave-94fm-alanya",
+    "name": "Ruwave 94FM Alanya",
+    "url": "https://listen4.myradio24.com/ruwave",
+    "genre": "Music",
+    "city": "Antalya",
+    "country": "Türkiye",
+    "lat": 36.8865728,
+    "lng": 30.7030242
+  },
+  {
+    "id": "turkey-mix-916-fm",
+    "name": "Mix 91.6 FM",
+    "url": "https://mixfm.ozelip.com/9598/stream",
+    "genre": "Music",
+    "city": "Mersin",
+    "country": "Türkiye",
+    "lat": 36.7978381,
+    "lng": 34.6298391
+  },
+  {
+    "id": "turkey-enerji-931-fm",
+    "name": "Enerji 93.1 FM",
+    "url": "https://live.enerjiplay.com/stream/enerji",
+    "genre": "Music",
+    "city": "Mersin",
+    "country": "Türkiye",
+    "lat": 36.7978381,
+    "lng": 34.6298391
+  },
+  {
+    "id": "turkey-radyo-ti",
+    "name": "Radyo Ti",
+    "url": "http://anadolu.liderhost.com.tr:8040/stream",
+    "genre": "Music",
+    "city": "Samsun",
+    "country": "Türkiye",
+    "lat": 41.2303557,
+    "lng": 35.9683338
+  },
+  {
+    "id": "turkey-konya-fm-995",
+    "name": "Konya FM 99.5",
+    "url": "https://sssx.radyosfer.com/konyafm/stream",
+    "genre": "Music",
+    "city": "Konya",
+    "country": "Türkiye",
+    "lat": 37.872734,
+    "lng": 32.4924376
+  },
+  {
+    "id": "turkey-feelgoodfm",
+    "name": "Feelgood.FM",
+    "url": "https://radio.feelgood.fm/aac",
+    "genre": "Music",
+    "city": "Mersin",
+    "country": "Türkiye",
+    "lat": 36.7978381,
+    "lng": 34.6298391
+  },
+  {
+    "id": "turkey-radiotedu-jazz",
+    "name": "RadioTEDU Jazz",
+    "url": "https://stream.radiotedu.com/cazz",
+    "genre": "Music",
+    "city": "Konya",
+    "country": "Türkiye",
+    "lat": 37.872734,
+    "lng": 32.4924376
+  },
+  {
+    "id": "turkey-radyo-net-fm",
+    "name": "Radyo Net FM",
+    "url": "https://stream.turkiyeradyolari.com/radyonetfm/stream",
+    "genre": "Music",
+    "city": "Konya",
+    "country": "Türkiye",
+    "lat": 37.872734,
+    "lng": 32.4924376
+  },
+  {
+    "id": "turkey-k1k4-radio",
+    "name": "K1K4 Radio",
+    "url": "https://radyo1.radyo-dinle.tc:7055/stream.mp3/",
+    "genre": "Music",
+    "city": "Konya",
+    "country": "Türkiye",
+    "lat": 37.872734,
+    "lng": 32.4924376
+  },
+  {
+    "id": "turkey-radyo-gerçek-935-fm",
+    "name": "Radyo Gerçek 93.5 FM",
+    "url": "https://ssl120.radyotelekom.com.tr:8198/;listen.pls",
+    "genre": "Music",
+    "city": "Samsun",
+    "country": "Türkiye",
+    "lat": 41.2303557,
+    "lng": 35.9683338
+  },
+  {
+    "id": "turkey-tutku-fm-1040",
+    "name": "Tutku FM 104.0",
+    "url": "https://sslyayin.radyoyayini.com/8012/stream/",
+    "genre": "Music",
+    "city": "Samsun",
+    "country": "Türkiye",
+    "lat": 41.2303557,
+    "lng": 35.9683338
+  },
+  {
+    "id": "turkey-radyo-sinerji-989-fm",
+    "name": "Radyo Sinerji 98.9 FM",
+    "url": "https://radio.guventechnology.com/9994/stream",
+    "genre": "Music",
+    "city": "Samsun",
+    "country": "Türkiye",
+    "lat": 41.2303557,
+    "lng": 35.9683338
+  },
+  {
+    "id": "turkey-melodi-fm-905",
+    "name": "Melodi FM 90.5",
+    "url": "https://sssx.radyosfer.com/unyemelodifm/stream",
+    "genre": "Music",
+    "city": "Samsun",
+    "country": "Türkiye",
+    "lat": 41.2303557,
+    "lng": 35.9683338
+  },
+  {
+    "id": "turkey-sivas-fm",
+    "name": "Sivas FM",
+    "url": "https://yayin2.canliyayin.org:8180/;stream.nsv",
+    "genre": "Music",
+    "city": "Samsun",
+    "country": "Türkiye",
+    "lat": 41.2303557,
+    "lng": 35.9683338
+  },
+  {
+    "id": "turkey-radyo-11-bilecik",
+    "name": "Radyo 11 Bilecik",
+    "url": "http://95.173.161.131:9832/index.html?sid=1",
+    "genre": "Music",
+    "city": "Gebze",
+    "country": "Türkiye",
+    "lat": 40.8006696,
+    "lng": 29.431767
+  },
+  {
+    "id": "turkey-haber-radyo-fm-1035",
+    "name": "Haber Radyo FM 103.5",
+    "url": "https://sslyayin.radyoyayini.com/8012/stream",
+    "genre": "Music",
+    "city": "Samsun",
+    "country": "Türkiye",
+    "lat": 41.2303557,
+    "lng": 35.9683338
+  },
+  {
+    "id": "turkey-radyo-karadeniz-1053-fm",
+    "name": "Radyo Karadeniz 105.3 FM",
+    "url": "https://sslyayin.netyayin.net/8012/stream",
+    "genre": "Music",
+    "city": "Izmit",
+    "country": "Türkiye",
+    "lat": 40.7721138,
+    "lng": 29.9505623
+  },
+  {
+    "id": "turkey-mega-fm",
+    "name": "Mega FM",
+    "url": "https://sssx.radyosfer.com/megafm/stream",
+    "genre": "Music",
+    "city": "Izmit",
+    "country": "Türkiye",
+    "lat": 40.7721138,
+    "lng": 29.9505623
+  },
+  {
+    "id": "turkey-ereğli-fm-917",
+    "name": "Ereğli FM 91.7",
+    "url": "https://radyo.yayindakiler.com:3000/stream/",
+    "genre": "Music",
+    "city": "Ereğli",
+    "country": "Türkiye",
+    "lat": 37.5140718,
+    "lng": 34.0473423
+  },
+  {
+    "id": "turkey-αρμονία-fm",
+    "name": "αρμονία FM",
+    "url": "http://s3.onweb.gr:8500/index.html?sid=1",
+    "genre": "Music",
+    "city": "Bodrum",
+    "country": "Türkiye",
+    "lat": 37.0343987,
+    "lng": 27.430651
+  },
+  {
+    "id": "turkey-radyo-melodi-fm-1040",
+    "name": "Radyo Melodi FM 104.0",
+    "url": "https://radyo1.radyo-dinle.tc:8196/index.html?sid=1",
+    "genre": "Music",
+    "city": "Samsun",
+    "country": "Türkiye",
+    "lat": 41.2303557,
+    "lng": 35.9683338
+  },
+  {
+    "id": "turkey-can-radyo",
+    "name": "Can Radyo",
+    "url": "http://yayin.yayindakiler.com:2028/;*.mp3",
+    "genre": "Music",
+    "city": "Şanlıurfa",
+    "country": "Türkiye",
+    "lat": 37.2595198,
+    "lng": 39.0408174
+  },
+  {
+    "id": "turkey-demokrat-fm-924",
+    "name": "Demokrat FM 92.4",
+    "url": "https://sonic.dcnet.com.tr/8078/stream",
+    "genre": "Music",
+    "city": "Ereğli",
+    "country": "Türkiye",
+    "lat": 37.5140718,
+    "lng": 34.0473423
+  },
+  {
+    "id": "turkey-ego-radyo-943-fm",
+    "name": "Ego Radyo 94.3 FM",
+    "url": "https://radio.guventechnology.com/9372/stream",
+    "genre": "Music",
+    "city": "Bodrum",
+    "country": "Türkiye",
+    "lat": 37.0343987,
+    "lng": 27.430651
+  },
+  {
+    "id": "turkey-radio-1-fm-88",
+    "name": "Radio 1 FM 88",
+    "url": "https://cast2.radiohost.ovh/8000?mp=/stream/",
+    "genre": "Music",
+    "city": "Bodrum",
+    "country": "Türkiye",
+    "lat": 37.0343987,
+    "lng": 27.430651
+  },
+  {
+    "id": "turkey-radio-party4us",
+    "name": "Radio Party4us",
+    "url": "https://ip169.ozelip.com/8046/stream",
+    "genre": "Music",
+    "city": "Bodrum",
+    "country": "Türkiye",
+    "lat": 37.0343987,
+    "lng": 27.430651
+  },
+  {
+    "id": "turkey-can-radyo-990",
+    "name": "Can Radyo 99.0",
+    "url": "https://dinle.ereglicanradyo.com/8030/stream",
+    "genre": "Music",
+    "city": "Ereğli",
+    "country": "Türkiye",
+    "lat": 37.5140718,
+    "lng": 34.0473423
+  },
+  {
+    "id": "turkey-radyo-seyhan-1033-fm",
+    "name": "Radyo Seyhan 103.3 FM",
+    "url": "https://sssx.radyosfer.com/radyoseyhan/stream//",
+    "genre": "Music",
+    "city": "Adana",
+    "country": "Türkiye",
+    "lat": 36.9863599,
+    "lng": 35.3252861
+  },
+  {
+    "id": "turkey-bodrum-fm-1017",
+    "name": "Bodrum FM 101.7",
+    "url": "https://live.bodrumfm.org/stream.mp3",
+    "genre": "Music",
+    "city": "Bodrum",
+    "country": "Türkiye",
+    "lat": 37.0343987,
+    "lng": 27.430651
+  },
+  {
+    "id": "turkey-radyo-munzur",
+    "name": "Radyo Munzur",
+    "url": "http://yayin1.yayindakiler.com:3002/;stream.nsv",
+    "genre": "Music",
+    "city": "Malatya",
+    "country": "Türkiye",
+    "lat": 38.4820156,
+    "lng": 38.1035355
+  },
+  {
+    "id": "turkey-sultan-radyo-fm-1060",
+    "name": "Sultan Radyo FM 106.0",
+    "url": "https://kilissul.80.yayin.com.tr//stream",
+    "genre": "Music",
+    "city": "Adana",
+    "country": "Türkiye",
+    "lat": 36.9863599,
+    "lng": 35.3252861
+  },
+  {
+    "id": "turkey-radio-proto-fm-915",
+    "name": "Radio Proto FM 91.5",
+    "url": "https://centova.gr-net.gr/proxy/radiokos/stream",
+    "genre": "Music",
+    "city": "Bodrum",
+    "country": "Türkiye",
+    "lat": 37.0343987,
+    "lng": 27.430651
+  },
+  {
+    "id": "turkey-radyo-urfa-fm-915",
+    "name": "Radyo Urfa FM 91.5",
+    "url": "https://radyourfa.ozelip.com/8038/stream",
+    "genre": "Music",
+    "city": "Şanlıurfa",
+    "country": "Türkiye",
+    "lat": 37.2595198,
+    "lng": 39.0408174
+  },
+  {
+    "id": "turkey-dirbesiye-fm",
+    "name": "Dirbesiye FM",
+    "url": "https://dirbesiyefm-rojavaradio.radioca.st/stream/",
+    "genre": "Music",
+    "city": "Şanlıurfa",
+    "country": "Türkiye",
+    "lat": 37.2595198,
+    "lng": 39.0408174
+  },
+  {
+    "id": "turkey-radyo-tek-970-fm",
+    "name": "Radyo Tek 97.0 FM",
+    "url": "http://yayin2.yayindakiler.com:4202/;stream.mp3",
+    "genre": "Music",
+    "city": "Malatya",
+    "country": "Türkiye",
+    "lat": 38.4820156,
+    "lng": 38.1035355
+  },
+  {
+    "id": "turkey-radyo-çağlar-fm-953",
+    "name": "Radyo Çağlar FM 95.3",
+    "url": "https://sssx.radyosfer.com/radyocaglar/stream",
+    "genre": "Music",
+    "city": "Malatya",
+    "country": "Türkiye",
+    "lat": 38.4820156,
+    "lng": 38.1035355
+  },
+  {
+    "id": "turkey-electronica-vibes-pirate-radio-gr",
+    "name": "Electronica Vibes Pirate Radio GR",
+    "url": "https://live.piratefm.net/listen/electronica_vibes/electronica_vibes",
+    "genre": "Music",
+    "city": "Manisa",
+    "country": "Türkiye",
+    "lat": 38.8574402,
+    "lng": 28.0565711
+  },
+  {
+    "id": "turkey-radyo-zafer-fm-983",
+    "name": "Radyo Zafer FM 98.3",
+    "url": "https://radyozafer.ozelip.com:8034/;*.nsv",
+    "genre": "Music",
+    "city": "Malatya",
+    "country": "Türkiye",
+    "lat": 38.4820156,
+    "lng": 38.1035355
+  },
+  {
+    "id": "turkey-üni-fm-940",
+    "name": "Üni FM 94.0",
+    "url": "https://unifmcom.80.yayin.com.tr/;type=mp3",
+    "genre": "Music",
+    "city": "Elâzığ",
+    "country": "Türkiye",
+    "lat": 38.5824771,
+    "lng": 39.396179
+  },
+  {
+    "id": "turkey-mavi-radyo",
+    "name": "Mavi Radyo",
+    "url": "https://yayin.turkhosted.com/6066/stream",
+    "genre": "Music",
+    "city": "Malatya",
+    "country": "Türkiye",
+    "lat": 38.4820156,
+    "lng": 38.1035355
+  },
+  {
+    "id": "turkey-radyo-azelya-943-fm",
+    "name": "Radyo Azelya 94.3 FM",
+    "url": "https://sssx.radyosfer.com/radyoazelya/stream",
+    "genre": "Music",
+    "city": "Elâzığ",
+    "country": "Türkiye",
+    "lat": 38.5824771,
+    "lng": 39.396179
+  },
+  {
+    "id": "turkey-tempo-fm-902",
+    "name": "Tempo FM 90.2",
+    "url": "https://sssx.radyosfer.com/tempofm/stream",
+    "genre": "Music",
+    "city": "Manisa",
+    "country": "Türkiye",
+    "lat": 38.8574402,
+    "lng": 28.0565711
+  },
+  {
+    "id": "turkey-radyo-sahil-950-mhz",
+    "name": "Radyo Sahil 95.0 Mhz",
+    "url": "https://radyo1.radyo-dinle.tc/8056/stream:/stream",
+    "genre": "Music",
+    "city": "Manisa",
+    "country": "Türkiye",
+    "lat": 38.8574402,
+    "lng": 28.0565711
+  }
+]

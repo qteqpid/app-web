@@ -1,0 +1,202 @@
+[
+  {
+    "id": "mauritania-radio-mauritanie",
+    "name": "Radio Mauritanie",
+    "url": "https://ec6.yesstreaming.net:2760/stream",
+    "genre": "Music",
+    "city": "Nouakchott",
+    "country": "Mauritania",
+    "lat": 18.0792379,
+    "lng": -15.9780071
+  },
+  {
+    "id": "mauritania-difusora-fm-1017",
+    "name": "Difusora FM 101.7",
+    "url": "https://azura4.cmaudioevideo.com:8210/radio.mp3",
+    "genre": "Music",
+    "city": "Maurilândia GO",
+    "country": "Brazil",
+    "lat": -17.9718589,
+    "lng": -50.3388361
+  },
+  {
+    "id": "mauritania-sm-mbaye-sam-webradio",
+    "name": "S.M. Mbaye Sam Webradio",
+    "url": "https://betelgeuse.dribbcast.com/proxy/moustapha?mp=/stream",
+    "genre": "Music",
+    "city": "Nouakchott",
+    "country": "Mauritania",
+    "lat": 18.0792379,
+    "lng": -15.9780071
+  },
+  {
+    "id": "mauritania-radio-marconi-fm-1019",
+    "name": "Radio Marconi FM 101.9",
+    "url": "https://cast.hoost.com.br:8787/stream",
+    "genre": "Music",
+    "city": "Maurilândia do Tocantins TO",
+    "country": "Brazil",
+    "lat": -5.951688,
+    "lng": -47.512492
+  },
+  {
+    "id": "mauritania-rádio-interativa-1049-fm",
+    "name": "Rádio Interativa 104.9 FM",
+    "url": "https://stma1.svrstream.com.br:8104/stream",
+    "genre": "Music",
+    "city": "Maurilândia do Tocantins TO",
+    "country": "Brazil",
+    "lat": -5.951688,
+    "lng": -47.512492
+  },
+  {
+    "id": "mauritania-houda-fm",
+    "name": "Houda FM",
+    "url": "https://radio4.pro-fhi.net:19050/stream",
+    "genre": "Music",
+    "city": "Nouakchott",
+    "country": "Mauritania",
+    "lat": 18.0792379,
+    "lng": -15.9780071
+  },
+  {
+    "id": "mauritania-integração-news-fm-945",
+    "name": "Integração News FM 94.5",
+    "url": "https://8714.brasilstream.com.br/stream",
+    "genre": "Music",
+    "city": "Maurilândia GO",
+    "country": "Brazil",
+    "lat": -17.9718589,
+    "lng": -50.3388361
+  },
+  {
+    "id": "mauritania-rádio-sempre-fm-1025",
+    "name": "Rádio Sempre FM 102.5",
+    "url": "https://server3.webradios.com.br:19308/9308",
+    "genre": "Music",
+    "city": "Maurilândia GO",
+    "country": "Brazil",
+    "lat": -17.9718589,
+    "lng": -50.3388361
+  },
+  {
+    "id": "mauritania-rádio-morada-dos-sonhos-fm-879",
+    "name": "Rádio Morada dos Sonhos FM 87.9",
+    "url": "https://server2.webradios.com.br:19110/9110",
+    "genre": "Music",
+    "city": "Maurilândia GO",
+    "country": "Brazil",
+    "lat": -17.9718589,
+    "lng": -50.3388361
+  },
+  {
+    "id": "mauritania-rádio-itatiaia",
+    "name": "Rádio Itatiaia",
+    "url": "https://8903.brasilstream.com.br/stream",
+    "genre": "Music",
+    "city": "Maurilândia GO",
+    "country": "Brazil",
+    "lat": -17.9718589,
+    "lng": -50.3388361
+  },
+  {
+    "id": "mauritania-salam-radio-dakar",
+    "name": "Salam Radio Dakar",
+    "url": "https://stream-168.zeno.fm/br25q9xqg48uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJicjI1cTl4cWc0OHV2IiwiaG9zdCI6InN0cmVhbS0xNjguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiNEF3cHNCZTJRbE9Fejl5SEwyLUNmZyIsImlhdCI6MTc2OTQyMDU5MywiZXhwIjoxNzY5NDIwNjUzfQ.tlv9adQh5h-Qr6xeKMh51LDboJ_wGT4umERnmQRQCRY",
+    "genre": "Music",
+    "city": "Nouakchott",
+    "country": "Mauritania",
+    "lat": 18.0792379,
+    "lng": -15.9780071
+  },
+  {
+    "id": "mauritania-renascer-fm-1063",
+    "name": "Renascer FM 106.3",
+    "url": "http://streaming12.maxcast.com.br:8034/live",
+    "genre": "Music",
+    "city": "Maurilândia do Tocantins TO",
+    "country": "Brazil",
+    "lat": -5.951688,
+    "lng": -47.512492
+  },
+  {
+    "id": "mauritania-rts-diourbel-960-fm",
+    "name": "RTS Diourbel 96.0 FM",
+    "url": "https://stream-147.zeno.fm/4g1b35sts1duv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0ZzFiMzVzdHMxZHV2IiwiaG9zdCI6InN0cmVhbS0xNDcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiRXN4V1NZdzBURy1NeklReXJtakJFUSIsImlhdCI6MTc2OTQyMDU5MywiZXhwIjoxNzY5NDIwNjUzfQ.hIC_LFwhAi5KiQumJftKp-EIXQ3tYiVWupirWikTPM0",
+    "genre": "Music",
+    "city": "Nouakchott",
+    "country": "Mauritania",
+    "lat": 18.0792379,
+    "lng": -15.9780071
+  },
+  {
+    "id": "mauritania-rádio-am-570-cidade-esperança",
+    "name": "Rádio AM 570 Cidade Esperança",
+    "url": "http://148.72.158.239:8111/live",
+    "genre": "Music",
+    "city": "Maurilândia do Tocantins TO",
+    "country": "Brazil",
+    "lat": -5.951688,
+    "lng": -47.512492
+  },
+  {
+    "id": "mauritania-radio-keur-massar",
+    "name": "Radio Keur Massar",
+    "url": "https://stream.keurmassar.info/",
+    "genre": "Music",
+    "city": "Nouakchott",
+    "country": "Mauritania",
+    "lat": 18.0792379,
+    "lng": -15.9780071
+  },
+  {
+    "id": "mauritania-antena-1",
+    "name": "Antena 1",
+    "url": "https://antenaone.crossradio.com.br/stream",
+    "genre": "Music",
+    "city": "Maurilândia GO",
+    "country": "Brazil",
+    "lat": -17.9718589,
+    "lng": -50.3388361
+  },
+  {
+    "id": "mauritania-sucesso-fm-1049",
+    "name": "Sucesso FM 104.9",
+    "url": "https://sonicpanel.oficialserver.com:7113/index.html?sid=1",
+    "genre": "Music",
+    "city": "Maurilândia do Tocantins TO",
+    "country": "Brazil",
+    "lat": -5.951688,
+    "lng": -47.512492
+  },
+  {
+    "id": "mauritania-tocantins-fm-977",
+    "name": "Tocantins FM 97.7",
+    "url": "https://s22.maxcast.com.br:8210/live",
+    "genre": "Music",
+    "city": "Maurilândia do Tocantins TO",
+    "country": "Brazil",
+    "lat": -5.951688,
+    "lng": -47.512492
+  },
+  {
+    "id": "mauritania-rádio-jb-fm-99,9",
+    "name": "Rádio JB FM 99,9",
+    "url": "https://26523.live.streamtheworld.com:443/JBFMAAC.aac",
+    "genre": "Music",
+    "city": "Maurilândia GO",
+    "country": "Brazil",
+    "lat": -17.9718589,
+    "lng": -50.3388361
+  },
+  {
+    "id": "mauritania-alpha-fm-1017",
+    "name": "Alpha FM 101.7",
+    "url": "https://26483.live.streamtheworld.com:443/RADIO_ALPHAFMAAC.aac",
+    "genre": "Music",
+    "city": "Maurilândia GO",
+    "country": "Brazil",
+    "lat": -17.9718589,
+    "lng": -50.3388361
+  }
+]
