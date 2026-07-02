@@ -26,6 +26,7 @@
     html {
       background: var(--paper-deep);
       color: var(--ink);
+      overflow-x: hidden;
       -webkit-text-size-adjust: 100%;
       text-size-adjust: 100%;
     }
@@ -33,6 +34,7 @@
     body {
       margin: 0;
       min-height: 100vh;
+      overflow-x: hidden;
       font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
       letter-spacing: 0;
       background:
@@ -60,8 +62,10 @@
     .page {
       position: relative;
       width: min(100%, 1120px);
+      max-width: 100%;
       margin: 0 auto;
       padding: calc(18px + env(safe-area-inset-top)) 16px calc(32px + env(safe-area-inset-bottom));
+      overflow-x: hidden;
     }
 
     .masthead {
@@ -124,6 +128,7 @@
     .list {
       display: grid;
       gap: 12px;
+      min-width: 0;
     }
 
     .work {
@@ -138,6 +143,8 @@
       box-shadow: 0 1px 0 rgba(255, 255, 255, 0.88) inset;
       backdrop-filter: blur(10px);
       -webkit-backdrop-filter: blur(10px);
+      width: 100%;
+      min-width: 0;
     }
 
     .icon-wrap {
@@ -159,12 +166,14 @@
 
     .content {
       min-width: 0;
+      max-width: 100%;
       display: grid;
       gap: 8px;
     }
 
     .title-row {
       display: flex;
+      min-width: 0;
       align-items: flex-start;
       justify-content: space-between;
       gap: 10px;
@@ -345,7 +354,7 @@
         tagline: "风靡全球推理游戏",
         description: "适合朋友聚会、通勤碎片时间和脑洞训练的推理问答游戏，一起从只言片语里拆出真相。",
         appleId: "6749227316",
-        icon: "mini_icons/app_logo_wrong_mini.jpg",
+        icon: "mini_icons/app_logo_moon_mini.jpg",
         category: "推理"
       },
       {
@@ -387,6 +396,14 @@
         appleId: "6748610782",
         icon: "mini_icons/app_logo_idea_mini.png",
         category: "记录"
+      },
+      {
+        name: "超级错题本",
+        tagline: "拍照整理作业错题",
+        description: "把作业和练习里的错题拍照收进不同学科，方便整理、复习和打印。",
+        appleId: "6753838149",
+        icon: "mini_icons/app_logo_wrong_mini.jpg",
+        category: "错题"
       },
       {
         name: "聚会卡牌",
