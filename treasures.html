@@ -133,7 +133,7 @@
 
     .work {
       display: grid;
-      grid-template-columns: 56px minmax(0, 1fr);
+      grid-template-columns: 56px minmax(0, 1fr) auto;
       gap: 11px;
       align-items: center;
       padding: 10px 11px;
@@ -171,14 +171,6 @@
       gap: 6px;
     }
 
-    .title-row {
-      display: flex;
-      min-width: 0;
-      align-items: flex-start;
-      justify-content: space-between;
-      gap: 10px;
-    }
-
     .name {
       margin: 0;
       min-width: 0;
@@ -186,18 +178,6 @@
       line-height: 1.35;
       font-weight: 820;
       overflow-wrap: anywhere;
-    }
-
-    .tag {
-      flex: 0 0 auto;
-      border: 1px solid rgba(47, 125, 109, 0.24);
-      border-radius: 999px;
-      padding: 3px 7px;
-      color: var(--mint);
-      background: rgba(47, 125, 109, 0.07);
-      font-size: 0.72rem;
-      font-weight: 760;
-      white-space: nowrap;
     }
 
     .desc {
@@ -208,14 +188,9 @@
       overflow-wrap: anywhere;
     }
 
-    .meta {
-      display: flex;
-      align-items: center;
-      justify-content: flex-start;
-    }
-
     .download {
-      align-self: flex-start;
+      align-self: end;
+      justify-self: end;
       flex: 0 0 auto;
       display: inline-flex;
       align-items: center;
@@ -286,12 +261,8 @@
         height: 100%;
       }
 
-      .meta {
-        align-self: end;
-      }
-
       .download {
-        align-self: auto;
+        align-self: end;
       }
     }
 
@@ -333,99 +304,85 @@
         name: "海龟汤来了",
         tagline: "风靡全球推理游戏",
         appleId: "6749227316",
-        icon: "mini_icons/app_logo_moon_mini.jpg",
-        category: "推理"
+        icon: "mini_icons/app_logo_moon_mini.jpg"
       },
       {
         name: "ins课程表",
         tagline: "超好用好看课程表",
         appleId: "6748935753",
-        icon: "mini_icons/app_logo_class_mini.jpg",
-        category: "学习"
+        icon: "mini_icons/app_logo_class_mini.jpg"
       },
       {
         name: "晚安电台",
         tagline: "聆听世界的声音",
         appleId: "6757656997",
-        icon: "mini_icons/app_logo_radio_mini.png",
-        category: "声音"
+        icon: "mini_icons/app_logo_radio_mini.png"
       },
       {
         name: "青灯拾卷",
         tagline: "做有态度的读书人",
         appleId: "6779840110",
-        icon: "mini_icons/app_logo_reader_mini.jpg",
-        category: "阅读"
+        icon: "mini_icons/app_logo_reader_mini.jpg"
       },
       {
         name: "贝塔英语",
         tagline: "背单词很轻松",
         appleId: "6748849691",
-        icon: "mini_icons/app_logo_english_mini.jpg",
-        category: "英语"
+        icon: "mini_icons/app_logo_english_mini.jpg"
       },
       {
         name: "灵光一现",
         tagline: "帮你随时记录想法",
         appleId: "6748610782",
-        icon: "mini_icons/app_logo_idea_mini.png",
-        category: "记录"
+        icon: "mini_icons/app_logo_idea_mini.png"
       },
       {
         name: "超级错题本",
         tagline: "拍照整理作业错题",
         appleId: "6753838149",
-        icon: "mini_icons/app_logo_wrong_mini.jpg",
-        category: "错题"
+        icon: "mini_icons/app_logo_wrong_mini.jpg"
       },
       {
         name: "聚会卡牌",
         tagline: "团建聚会破冰游戏",
         appleId: "6752017904",
-        icon: "mini_icons/app_logo_fun_mini.jpg",
-        category: "聚会"
+        icon: "mini_icons/app_logo_fun_mini.jpg"
       },
       {
         name: "景深VR",
         tagline: "3D视频制作神器",
         appleId: "6783583346",
-        icon: "mini_icons/app_logo_vr_mini.jpg",
-        category: "视频"
+        icon: "mini_icons/app_logo_vr_mini.jpg"
       },
       {
         name: "小爱口算",
         tagline: "小学生口算练习神器",
         appleId: "6748607355",
-        icon: "mini_icons/app_logo_math_mini.jpg",
-        category: "数学"
+        icon: "mini_icons/app_logo_math_mini.jpg"
       },
       {
         name: "汉字卡片",
         tagline: "幼儿识字好帮手",
         appleId: "6753268205",
-        icon: "mini_icons/app_logo_chinese_mini.png",
-        category: "识字"
+        icon: "mini_icons/app_logo_chinese_mini.png"
       },
       {
         name: "密码柜",
         tagline: "生活密码全记住",
         appleId: "6748747342",
-        icon: "mini_icons/app_logo_passbox_mini.png",
-        category: "工具"
+        icon: "mini_icons/app_logo_passbox_mini.png"
       },
       {
         name: "相册清理助手",
-        tagline: "",
+        tagline: "相似照片与大视频清理",
         appleId: "6748892725",
-        icon: "mini_icons/app_logo_cleaner_mini.png",
-        category: "相册"
+        icon: "mini_icons/app_logo_cleaner_mini.png"
       },
       {
         name: "iShots",
-        tagline: "",
+        tagline: "App 截图制作工具",
         appleId: "6754618226",
-        icon: "mini_icons/app_logo_ishots_mini.png",
-        category: "截图"
+        icon: "mini_icons/app_logo_ishots_mini.png"
       }
     ];
 
@@ -446,15 +403,10 @@
               <img class="icon" src="${app.icon}" alt="${app.name} 图标" loading="lazy">
             </div>
             <div class="content">
-              <div class="title-row">
-                <h2 class="name">${app.name}</h2>
-                <span class="tag">${app.category}</span>
-              </div>
+              <h2 class="name">${app.name}</h2>
               ${app.tagline ? `<p class="desc">${app.tagline}</p>` : ""}
-              <div class="meta">
-                <a class="download" href="${storeUrl}" aria-label="在 App Store 下载 ${app.name}">下载</a>
-              </div>
             </div>
+            <a class="download" href="${storeUrl}" aria-label="在 App Store 下载 ${app.name}">下载</a>
           </article>
         `;
       }).join("");
