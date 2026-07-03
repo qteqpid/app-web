@@ -8,14 +8,19 @@
         body { font-family: 'Helvetica Neue', Helvetica, Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif; background: #fafaf6; color: #222; margin: 0; padding: 0; }
         .container { max-width: 1200px; margin: 60px auto; background: #fff; border-radius: 16px; box-shadow: 0 4px 24px rgba(0,0,0,0.07); padding: 40px 32px; }
         h1 { text-align: center; color: #3a4d3f; }
-        .app-list { display: flex; justify-content: center; margin-bottom: 32px; gap: 16px; }
-        .app-tab { padding: 8px 22px; border-radius: 18px; border: none; background: #f3f3f3; color: #3a4d3f; font-size: 1.08rem; cursor: pointer; transition: background 0.18s, color 0.18s; }
+        .app-list { display: flex; flex-wrap: wrap; justify-content: center; align-items: center; margin-bottom: 32px; gap: 12px; }
+        .app-tab { flex: 0 0 auto; white-space: nowrap; padding: 8px 18px; border-radius: 18px; border: none; background: #f3f3f3; color: #3a4d3f; font-size: 1.02rem; line-height: 1.35; cursor: pointer; transition: background 0.18s, color 0.18s; }
         .app-tab.active { background: #fdbf0a; color: #222; font-weight: bold; }
         .policy-section { display: none; }
         .policy-section.active { display: block; }
         p, ul { font-size: 1.15rem; line-height: 1.8; }
         .section-title { font-weight: bold; margin-top: 1.5em; }
         a { color: #3a4d3f; text-decoration: underline; }
+        @media (max-width: 640px) {
+            .container { margin: 24px 12px; padding: 28px 18px; }
+            .app-list { justify-content: flex-start; gap: 10px 8px; }
+            .app-tab { padding: 7px 13px; font-size: 0.95rem; }
+        }
     </style>
 </head>
 <body>
