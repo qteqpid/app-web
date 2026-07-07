@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <meta name="color-scheme" content="light">
-  <title>Qteqpid 的更多宝藏作品</title>
+  <title>Qteqpid 的更多宝藏 App</title>
   <style>
     :root {
       --paper: #fffdf8;
@@ -123,6 +123,34 @@
     .count {
       color: var(--ink);
       font-weight: 800;
+    }
+
+    .collection {
+      display: grid;
+      gap: 12px;
+      margin-top: 20px;
+    }
+
+    .section-heading {
+      display: grid;
+      gap: 5px;
+      padding-top: 2px;
+    }
+
+    h2 {
+      margin: 0;
+      color: var(--ink);
+      font-size: 1.06rem;
+      line-height: 1.25;
+      font-weight: 850;
+      letter-spacing: 0;
+    }
+
+    .section-heading p {
+      margin: 0;
+      color: var(--muted);
+      font-size: 0.86rem;
+      line-height: 1.55;
     }
 
     .list {
@@ -282,19 +310,32 @@
   <main class="page">
     <header class="masthead">
       <div class="mark" aria-hidden="true">QTEQPID COLLECTION</div>
-      <h1 id="pageTitle">Qteqpid 的更多宝藏作品</h1>
-      <p class="intro" id="pageIntro">这里收集了 Qteqpid 的小工具、学习应用和创意作品。点开任意作品即可前往 App Store 下载。</p>
+      <h1 id="pageTitle">Qteqpid 的更多宝藏 App</h1>
+      <p class="intro" id="pageIntro">这里收集了 Qteqpid 的 14 款 iPhone App 和 Mac 工具。点开任意条目即可前往详情页或下载页面。</p>
     </header>
 
     <div class="summary" aria-live="polite">
-      <span><span class="count" id="appCount">0</span> <span id="countLabel">款作品</span></span>
-      <span id="staticLabel">纯静态网页</span>
+      <span><span class="count" id="appCount">0</span> <span id="countLabel">款 iPhone App</span></span>
     </div>
 
-    <section class="list" id="appList" aria-label="Qteqpid 应用列表"></section>
+    <section class="collection" aria-labelledby="iphoneTitle">
+      <div class="section-heading">
+        <h2 id="iphoneTitle">iPhone App</h2>
+        <p id="iphoneIntro">轻量工具、学习应用和创意小作品，均可从 App Store 下载。</p>
+      </div>
+      <div class="list" id="appList" aria-label="Qteqpid iPhone App 列表"></div>
+    </section>
+
+    <section class="collection" aria-labelledby="macTitle">
+      <div class="section-heading">
+        <h2 id="macTitle">Mac App</h2>
+        <p id="macIntro">面向 macOS 的桌面与效率工具。</p>
+      </div>
+      <div class="list" id="macAppList" aria-label="Qteqpid Mac App 列表"></div>
+    </section>
 
     <noscript>
-      <p class="footnote">当前浏览器未启用 JavaScript，作品列表无法渲染。</p>
+      <p class="footnote">当前浏览器未启用 JavaScript，App 列表无法渲染。</p>
     </noscript>
   </main>
 
@@ -302,23 +343,33 @@
     const copy = {
       zh: {
         htmlLang: "zh-CN",
-        pageTitle: "Qteqpid 的更多宝藏作品",
-        pageIntro: "这里收集了 Qteqpid 的小工具、学习应用和创意作品。点开任意作品即可前往 App Store 下载。",
-        countLabel: "款作品",
-        staticLabel: "纯静态网页",
+        pageTitle: "Qteqpid 的更多宝藏 App",
+        pageIntro: "这里收集了 Qteqpid 的 14 款 iPhone App 和 Mac 工具。点开任意条目即可前往详情页或下载页面。",
+        countLabel: "款 iPhone App",
         download: "下载",
+        open: "查看",
         iconAlt: "图标",
-        downloadAria: "在 App Store 下载"
+        iphoneTitle: "iPhone App",
+        iphoneIntro: "轻量工具、学习应用和创意小作品，均可从 App Store 下载。",
+        macTitle: "Mac App",
+        macIntro: "面向 macOS 的桌面与效率工具。",
+        downloadAria: "在 App Store 下载",
+        openAria: "查看"
       },
       en: {
         htmlLang: "en",
         pageTitle: "More Qteqpid Apps",
-        pageIntro: "A compact collection of Qteqpid apps, learning tools, and creative utilities. Open any item to download it from the App Store.",
-        countLabel: "apps",
-        staticLabel: "Static web page",
+        pageIntro: "A compact collection of 14 Qteqpid iPhone apps and Mac utilities. Open any item for details or downloads.",
+        countLabel: "iPhone apps",
         download: "Get",
+        open: "Open",
         iconAlt: "icon",
-        downloadAria: "Download on the App Store"
+        iphoneTitle: "iPhone Apps",
+        iphoneIntro: "Lightweight utilities, learning apps, and creative tools available on the App Store.",
+        macTitle: "Mac Apps",
+        macIntro: "Desktop and productivity tools for macOS.",
+        downloadAria: "Download on the App Store",
+        openAria: "Open"
       }
     };
 
@@ -409,12 +460,37 @@
       }
     ];
 
+    const macApps = [
+      {
+        name: { zh: "MacDesktopBuddy", en: "MacDesktopBuddy" },
+        tagline: {
+          zh: "macOS 桌面待办与提醒小Q",
+          en: "A tiny macOS desktop todo companion"
+        },
+        href: "mac-desktop-buddy/",
+        icon: "mac-desktop-buddy/assets/mac-desktop-buddy-icon.png"
+      },
+      {
+        name: { zh: "Browser Time Tracker", en: "Browser Time Tracker" },
+        tagline: {
+          zh: "macOS 本地网页使用时间统计",
+          en: "Local website time tracking for macOS"
+        },
+        href: "browser-time-tracker/",
+        icon: "browser-time-tracker/assets/browser-time-tracker-logo.jpg"
+      }
+    ];
+
     const appList = document.querySelector("#appList");
+    const macAppList = document.querySelector("#macAppList");
     const appCount = document.querySelector("#appCount");
     const pageTitle = document.querySelector("#pageTitle");
     const pageIntro = document.querySelector("#pageIntro");
     const countLabel = document.querySelector("#countLabel");
-    const staticLabel = document.querySelector("#staticLabel");
+    const iphoneTitle = document.querySelector("#iphoneTitle");
+    const iphoneIntro = document.querySelector("#iphoneIntro");
+    const macTitle = document.querySelector("#macTitle");
+    const macIntro = document.querySelector("#macIntro");
 
     function appStoreUrl(appleId) {
       return `https://apps.apple.com/app/id${appleId}`;
@@ -454,14 +530,20 @@
       pageTitle.textContent = text.pageTitle;
       pageIntro.textContent = text.pageIntro;
       countLabel.textContent = text.countLabel;
-      staticLabel.textContent = text.staticLabel;
+      iphoneTitle.textContent = text.iphoneTitle;
+      iphoneIntro.textContent = text.iphoneIntro;
+      macTitle.textContent = text.macTitle;
+      macIntro.textContent = text.macIntro;
     }
 
-    function renderApps(items, lang) {
+    function renderApps(container, items, lang, options = {}) {
       const text = copy[lang];
-      appCount.textContent = String(items.length);
-      appList.innerHTML = items.map((app) => {
-        const storeUrl = appStoreUrl(app.appleId);
+      const action = options.action || "download";
+      const label = action === "open" ? text.open : text.download;
+      const ariaPrefix = action === "open" ? text.openAria : text.downloadAria;
+
+      container.innerHTML = items.map((app) => {
+        const itemUrl = app.href || appStoreUrl(app.appleId);
         const name = localized(app.name, lang);
         const tagline = localized(app.tagline, lang);
         return `
@@ -473,7 +555,7 @@
               <h2 class="name">${escapeHTML(name)}</h2>
               ${tagline ? `<p class="desc">${escapeHTML(tagline)}</p>` : ""}
             </div>
-            <a class="download" href="${storeUrl}" aria-label="${escapeHTML(`${text.downloadAria} ${name}`)}">${escapeHTML(text.download)}</a>
+            <a class="download" href="${itemUrl}" aria-label="${escapeHTML(`${ariaPrefix} ${name}`)}">${escapeHTML(label)}</a>
           </article>
         `;
       }).join("");
@@ -481,7 +563,9 @@
 
     const lang = currentLanguage();
     renderStaticText(lang);
-    renderApps(apps, lang);
+    appCount.textContent = String(apps.length);
+    renderApps(appList, apps, lang);
+    renderApps(macAppList, macApps, lang, { action: "open" });
   </script>
 </body>
 </html>
