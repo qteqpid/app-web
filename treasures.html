@@ -529,6 +529,73 @@
       }[char]));
     }
 
+    const ICON_PLACEHOLDER = "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==";
+    const IMAGE_CACHE_NAME = "treasures-image-cache-v1";
+    const IMAGE_CACHE_TTL_MS = 365 * 24 * 60 * 60 * 1000;
+    const IMAGE_CACHE_TIME_HEADER = "x-treasures-cache-time";
+    const imageObjectUrls = new Set();
+
+    function canCacheImage(src) {
+      if (!("caches" in window) || !("Response" in window) || typeof URL.createObjectURL !== "function") return false;
+      const protocol = new URL(src, window.location.href).protocol;
+      return protocol === "http:" || protocol === "https:";
+    }
+
+    async function responseToObjectUrl(response) {
+      const objectUrl = URL.createObjectURL(await response.blob());
+      imageObjectUrls.add(objectUrl);
+      return objectUrl;
+    }
+
+    async function cachedImageUrl(src) {
+      if (!canCacheImage(src)) return src;
+
+      const now = Date.now();
+      const url = new URL(src, window.location.href).href;
+      const request = new Request(url);
+      const cache = await caches.open(IMAGE_CACHE_NAME);
+      const cached = await cache.match(request);
+
+      if (cached) {
+        const cachedAt = Number(cached.headers.get(IMAGE_CACHE_TIME_HEADER)) || 0;
+        if (now - cachedAt < IMAGE_CACHE_TTL_MS) return responseToObjectUrl(cached);
+        await cache.delete(request);
+      }
+
+      const response = await fetch(url, { cache: "reload" });
+      if (!response.ok) throw new Error(`Image request failed: ${response.status}`);
+
+      const headers = new Headers(response.headers);
+      headers.set(IMAGE_CACHE_TIME_HEADER, String(now));
+
+      const cachedResponse = new Response(await response.blob(), {
+        status: response.status,
+        statusText: response.statusText,
+        headers
+      });
+
+      await cache.put(request, cachedResponse.clone());
+      return responseToObjectUrl(cachedResponse);
+    }
+
+    function hydrateCachedImages(container) {
+      container.querySelectorAll("img[data-icon-src]").forEach((image) => {
+        const src = image.dataset.iconSrc;
+        cachedImageUrl(src)
+          .then((url) => {
+            image.src = url;
+          })
+          .catch(() => {
+            image.src = src;
+          });
+      });
+    }
+
+    window.addEventListener("pagehide", () => {
+      imageObjectUrls.forEach((url) => URL.revokeObjectURL(url));
+      imageObjectUrls.clear();
+    });
+
     function renderStaticText(lang) {
       const text = copy[lang];
       document.documentElement.lang = text.htmlLang;
@@ -555,7 +622,7 @@
         return `
           <article class="work">
             <div class="icon-wrap">
-              <img class="icon" src="${app.icon}" alt="${escapeHTML(`${name} ${text.iconAlt}`)}" loading="lazy">
+              <img class="icon" src="${ICON_PLACEHOLDER}" data-icon-src="${escapeHTML(app.icon)}" alt="${escapeHTML(`${name} ${text.iconAlt}`)}" loading="lazy" decoding="async">
             </div>
             <div class="content">
               <h2 class="name">${escapeHTML(name)}</h2>
@@ -572,6 +639,8 @@
     appCount.textContent = String(apps.length);
     renderApps(appList, apps, lang);
     renderApps(macAppList, macApps, lang, { action: "open" });
+    hydrateCachedImages(appList);
+    hydrateCachedImages(macAppList);
   </script>
 </body>
 </html>
