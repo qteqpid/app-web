@@ -125,6 +125,7 @@
     }
 
     .hero {
+      --hero-art-size: clamp(280px, 30vw, 410px);
       position: relative;
       min-height: 92vh;
       overflow: hidden;
@@ -148,7 +149,7 @@
       position: absolute;
       right: max(24px, calc((100vw - 1120px) / 2));
       top: 19%;
-      width: clamp(280px, 30vw, 410px);
+      width: var(--hero-art-size);
       aspect-ratio: 1;
       background: url("assets/mac-desktop-buddy-icon.png") center / contain no-repeat;
       filter: drop-shadow(0 36px 70px rgba(42, 78, 64, 0.22));
@@ -166,7 +167,7 @@
     .hero-copy {
       position: relative;
       z-index: 2;
-      width: min(610px, 100%);
+      width: min(610px, calc(100% - var(--hero-art-size) - 56px));
       padding-top: 16px;
     }
 
@@ -196,7 +197,7 @@
     h1 {
       margin: 0;
       max-width: 760px;
-      font-size: clamp(44px, 6.6vw, 88px);
+      font-size: clamp(42px, 5.3vw, 76px);
       line-height: 0.96;
       letter-spacing: 0;
       text-wrap: balance;
@@ -554,6 +555,7 @@
       .nav-links { display: none; }
       .download-small { display: none; }
       .hero {
+        --hero-art-size: min(360px, 78vw);
         min-height: auto;
         padding-top: 114px;
       }
@@ -561,13 +563,13 @@
         position: relative;
         right: auto;
         top: auto;
-        width: min(360px, 78vw);
+        width: var(--hero-art-size);
         margin: 24px auto 0;
         display: block;
         order: 2;
       }
       .hero-copy {
-        width: 100%;
+        width: min(610px, 100%);
       }
       .quick-note {
         grid-template-columns: 1fr;
