@@ -1,0 +1,57 @@
+{
+  "_comment": {
+    "purpose": "全局 App 启动通知配置。各 App 启动后请求这个 JSON，并用自己的 appID 过滤 notices；客户端会忽略这个 _comment 字段。",
+    "topLevelFields": {
+      "schemaVersion": "配置格式版本。以后如果字段结构有破坏性变化，可以递增这个数字，客户端可按版本兼容。",
+      "updatedAt": "配置最后更新时间，ISO 8601 UTC 字符串，例如 2026-07-08T00:00:00Z。主要给人查看和排查问题。",
+      "notices": "通知列表。客户端会过滤可展示的通知，并按 priority 选择最高优先级的一条。"
+    },
+    "noticeFields": {
+      "id": "通知唯一 ID。必须稳定；dismissPolicy.type 为 once 时，App 会用它记录用户已关闭，改 id 会让通知重新弹出。",
+      "enabled": "总开关。true 表示可展示，false 表示临时关闭。",
+      "priority": "优先级。多个通知同时命中时，数字越大越优先展示；相同 priority 时按 id 排序。",
+      "targets": "目标 App ID 列表。使用 [\"*\"] 表示所有 App；使用 [\"cards\", \"book_reader\"] 表示只给这些 App 展示。",
+      "startAt": "开始展示时间，ISO 8601 UTC 字符串；null 表示不限制开始时间。",
+      "endAt": "结束展示时间，ISO 8601 UTC 字符串；null 表示不自动结束。",
+      "minAppVersion": "最低 App 版本，按数字版本比较；null 表示不限制最低版本。",
+      "maxAppVersion": "最高 App 版本，按数字版本比较；null 表示不限制最高版本。",
+      "title": "弹窗标题。",
+      "message": "弹窗正文说明。",
+      "cta": "可选 CTA 按钮。为 null 或 title/url 为空时，只展示一个“知道了”按钮。",
+      "dismissPolicy": "关闭策略。type 为 once 表示每个 id 只弹一次；type 为 everyLaunch 表示每次启动命中都弹。"
+    },
+    "ctaFields": {
+      "title": "CTA 按钮文案。",
+      "url": "点击 CTA 后打开的 URL。建议使用 https 链接。"
+    },
+    "examples": {
+      "allApps": "\"targets\": [\"*\"]",
+      "specificApps": "\"targets\": [\"cards\", \"book_reader\"]",
+      "showOnce": "\"dismissPolicy\": { \"type\": \"once\" }",
+      "showEveryLaunch": "\"dismissPolicy\": { \"type\": \"everyLaunch\" }"
+    }
+  },
+  "schemaVersion": 1,
+  "updatedAt": "2026-07-08T00:00:00Z",
+  "notices": [
+    {
+      "id": "cards-remote-notice-demo-2026-07-08",
+      "enabled": true,
+      "priority": 100,
+      "targets": ["cards"],
+      "startAt": "2026-07-08T00:00:00Z",
+      "endAt": null,
+      "minAppVersion": null,
+      "maxAppVersion": null,
+      "title": "远端通知测试",
+      "message": "这是一条来自 app-web/notifications.json 的远端通知。之后你只需要改这个 JSON，就可以控制 App 内弹窗。",
+      "cta": {
+        "title": "查看网页",
+        "url": "https://qteqpid.github.io/app-web/"
+      },
+      "dismissPolicy": {
+        "type": "once"
+      }
+    }
+  ]
+}
