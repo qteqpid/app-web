@@ -36,7 +36,7 @@
   "notices": [
     {
       "id": "cards-remote-notice-demo-2026-07-09",
-      "enabled": true,
+      "enabled": false,
       "priority": 100,
       "targets": ["cards"],
       "startAt": "2026-07-08T00:00:00Z",
@@ -55,7 +55,7 @@
     },
     {
       "id": "cards-remote-notice-demo-2026-07-07",
-      "enabled": true,
+      "enabled": false,
       "priority": 200,
       "targets": ["cards"],
       "startAt": "2026-07-08T00:00:00Z",
