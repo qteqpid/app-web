@@ -35,7 +35,7 @@
   "updatedAt": "2026-07-08T00:00:00Z",
   "notices": [
     {
-      "id": "cards-remote-notice-demo-2026-07-08",
+      "id": "cards-remote-notice-demo-2026-07-09",
       "enabled": true,
       "priority": 100,
       "targets": ["cards"],
@@ -43,11 +43,11 @@
       "endAt": null,
       "minAppVersion": null,
       "maxAppVersion": null,
-      "title": "远端通知测试",
+      "title": "新版本通知",
       "message": "这是一条来自 app-web/notifications.json 的远端通知。之后你只需要改这个 JSON，就可以控制 App 内弹窗。",
       "cta": {
         "title": "查看网页",
-        "url": "https://qteqpid.github.io/app-web/"
+        "url": "https://qteqpid.github.io/app-web/treasures.html"
       },
       "dismissPolicy": {
         "type": "once"
