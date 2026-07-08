@@ -51,7 +51,7 @@
     }
   },
   "schemaVersion": 1,
-  "updatedAt": "2026-07-08T10:16:05Z",
+  "updatedAt": "2026-07-08T11:04:18Z",
   "notices": [
     {
       "id": "all-apps-more-fun-apps-2026-07-08",
@@ -63,7 +63,7 @@
       "minAppVersion": null,
       "maxAppVersion": null,
       "title": "发现更多好玩的 App",
-      "message": "作者又做了更多有意思、实用又好玩的 App，快来看看，也许正好有一个你会喜欢。",
+      "message": "作者做了更多好玩又实用的 App，快来看看。",
       "cta": {
         "title": "去看看",
         "url": "https://qteqpid.github.io/app-web/treasures.html"
