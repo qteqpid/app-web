@@ -55,7 +55,7 @@
   "notices": [
     {
       "id": "all-apps-more-fun-apps-2026-07-08",
-      "enabled": true,
+      "enabled": false,
       "priority": 300,
       "targets": ["*"],
       "startAt": "2026-07-08T00:00:00Z",
@@ -68,40 +68,6 @@
         "title": "去看看",
         "url": "https://qteqpid.github.io/app-web/treasures.html"
       },
-      "dismissPolicy": {
-        "type": "once"
-      }
-    },
-    {
-      "id": "cards-remote-notice-demo-2026-07-09",
-      "enabled": false,
-      "priority": 100,
-      "targets": ["cards"],
-      "startAt": "2026-07-08T00:00:00Z",
-      "endAt": null,
-      "minAppVersion": null,
-      "maxAppVersion": null,
-      "title": "新版本通知",
-      "message": "这是一条来自 app-web/notifications.json 的远端通知。之后你只需要改这个 JSON，就可以控制 App 内弹窗。",
-      "cta": {
-        "title": "查看网页",
-        "url": "https://qteqpid.github.io/app-web/treasures.html"
-      },
-      "dismissPolicy": {
-        "type": "once"
-      }
-    },
-    {
-      "id": "cards-remote-notice-demo-2026-07-07",
-      "enabled": false,
-      "priority": 200,
-      "targets": ["cards"],
-      "startAt": "2026-07-08T00:00:00Z",
-      "endAt": null,
-      "minAppVersion": null,
-      "maxAppVersion": null,
-      "title": "新版本通知",
-      "message": "测试null cta",
       "dismissPolicy": {
         "type": "once"
       }
