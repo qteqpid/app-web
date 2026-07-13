@@ -22,6 +22,7 @@ private struct Promotion: Decodable {
     let targets: [String]
     let startAt: String?
     let endAt: String?
+    let entitlementDays: Int?
 }
 
 private enum ValidationError: Error, CustomStringConvertible {
@@ -104,6 +105,9 @@ do {
         let endAt = try parseDate(promotion.endAt, field: "endAt", promotionID: id)
         if let startAt, let endAt, startAt > endAt {
             throw ValidationError.invalid("promotion '\(id)' startAt must not be later than endAt")
+        }
+        if let entitlementDays = promotion.entitlementDays, entitlementDays <= 0 {
+            throw ValidationError.invalid("promotion '\(id)' entitlementDays must be greater than 0 when set")
         }
     }
 
