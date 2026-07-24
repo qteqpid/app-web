@@ -1,0 +1,2826 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="color-scheme" content="dark">
+  <title>荧孢战场</title>
+  <style>
+    :root {
+      --ink: #130b08;
+      --cream: #fff1b8;
+      --amber: #ffb743;
+      --ember: #f13a22;
+      --spore: #95ff2f;
+      --teal: #0e8ca0;
+      --panel: rgba(55, 20, 11, 0.58);
+      --panel-strong: rgba(24, 9, 8, 0.82);
+      --line: rgba(255, 234, 166, 0.28);
+      --line-bright: rgba(149, 255, 47, 0.54);
+      --shadow: rgba(0, 0, 0, 0.36);
+      --radius: 8px;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html,
+    body {
+      width: 100%;
+      height: 100%;
+      margin: 0;
+      overflow: hidden;
+      background: #110a0b;
+      color: var(--cream);
+      font-family: "Avenir Next", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+      letter-spacing: 0;
+      user-select: none;
+    }
+
+    body {
+      position: fixed;
+      inset: 0;
+      touch-action: none;
+    }
+
+    body::before,
+    body::after {
+      content: "";
+      position: fixed;
+      inset: 0;
+      pointer-events: none;
+    }
+
+    body::before {
+      z-index: 2;
+      background:
+        linear-gradient(rgba(255, 241, 184, 0.035) 1px, transparent 1px),
+        radial-gradient(circle at 82% 18%, rgba(149, 255, 47, 0.08), transparent 28%),
+        radial-gradient(circle at 12% 82%, rgba(14, 140, 160, 0.11), transparent 26%);
+      background-size: 100% 4px, auto, auto;
+      mix-blend-mode: screen;
+      opacity: 0.48;
+    }
+
+    body::after {
+      z-index: 6;
+      border: 1px solid rgba(255, 241, 184, 0.16);
+      box-shadow: inset 0 0 0 1px rgba(149, 255, 47, 0.06);
+    }
+
+    canvas {
+      display: block;
+      width: 100vw;
+      height: 100vh;
+      background: #110a0b;
+      cursor: crosshair;
+    }
+
+    .hud {
+      position: fixed;
+      z-index: 5;
+      inset: calc(12px + env(safe-area-inset-top)) 12px auto 12px;
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      gap: 12px;
+      pointer-events: none;
+    }
+
+    .panel {
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      background:
+        linear-gradient(135deg, rgba(255, 241, 184, 0.1), transparent 34%),
+        linear-gradient(180deg, rgba(92, 35, 19, 0.78), rgba(24, 9, 8, 0.7));
+      box-shadow: 0 18px 42px var(--shadow), inset 0 1px 0 rgba(255, 241, 184, 0.2);
+      backdrop-filter: blur(16px);
+      -webkit-backdrop-filter: blur(16px);
+    }
+
+    .identity {
+      min-width: 170px;
+      padding: 11px 12px 10px;
+    }
+
+    .identity h1 {
+      margin: 0;
+      color: #fff4c9;
+      font-size: 19px;
+      line-height: 1.05;
+      font-weight: 900;
+      text-shadow: 0 2px 12px rgba(149, 255, 47, 0.28);
+    }
+
+    .health {
+      width: 148px;
+      height: 11px;
+      margin-top: 9px;
+      border-radius: 999px;
+      overflow: hidden;
+      background: rgba(18, 8, 7, 0.68);
+      border: 1px solid rgba(255, 241, 184, 0.2);
+    }
+
+    .health-fill {
+      width: 100%;
+      height: 100%;
+      border-radius: inherit;
+      background: linear-gradient(90deg, #95ff2f, #ffe35c, #f13a22);
+      box-shadow: 0 0 14px rgba(149, 255, 47, 0.7);
+      transform-origin: left center;
+      transition: transform 0.16s ease-out;
+    }
+
+    .meters {
+      display: grid;
+      grid-template-columns: repeat(3, 80px);
+      overflow: hidden;
+    }
+
+    .stat {
+      min-height: 58px;
+      padding: 9px 10px 8px;
+      border-left: 1px solid var(--line);
+    }
+
+    .stat:first-child {
+      border-left: 0;
+    }
+
+    .label {
+      display: block;
+      color: rgba(255, 241, 184, 0.64);
+      font-size: 10px;
+      font-weight: 900;
+      line-height: 1;
+    }
+
+    .value {
+      display: block;
+      margin-top: 8px;
+      color: #fff4c9;
+      font-size: 20px;
+      line-height: 1;
+      font-weight: 900;
+      font-variant-numeric: tabular-nums;
+    }
+
+    .touch-pad,
+    .touch-actions {
+      position: fixed;
+      display: none;
+      pointer-events: auto;
+    }
+
+    .touch-pad {
+      left: calc(18px + env(safe-area-inset-left));
+      bottom: calc(18px + env(safe-area-inset-bottom));
+      width: 132px;
+      height: 132px;
+    }
+
+    .touch-actions {
+      right: calc(18px + env(safe-area-inset-right));
+      bottom: calc(22px + env(safe-area-inset-bottom));
+      gap: 12px;
+      align-items: flex-end;
+    }
+
+    .pad-button,
+    .action-button {
+      border: 1px solid rgba(255, 241, 184, 0.34);
+      border-radius: var(--radius);
+      background:
+        linear-gradient(180deg, rgba(255, 241, 184, 0.09), transparent),
+        rgba(74, 23, 14, 0.58);
+      color: rgba(255, 241, 184, 0.86);
+      box-shadow: 0 12px 26px rgba(0, 0, 0, 0.3), inset 0 1px 0 rgba(255, 241, 184, 0.16);
+      backdrop-filter: blur(12px);
+      -webkit-backdrop-filter: blur(12px);
+      transition: transform 0.16s ease, border-color 0.16s ease, background 0.16s ease, color 0.16s ease;
+    }
+
+    .pad-button {
+      position: absolute;
+      width: 42px;
+      height: 42px;
+      font-size: 0;
+    }
+
+    .pad-button::before {
+      content: "";
+      position: absolute;
+      inset: 13px;
+      border-top: 3px solid currentColor;
+      border-left: 3px solid currentColor;
+    }
+
+    .pad-button[data-dir="up"] {
+      left: 45px;
+      top: 0;
+    }
+
+    .pad-button[data-dir="up"]::before {
+      transform: translateY(4px) rotate(45deg);
+    }
+
+    .pad-button[data-dir="left"] {
+      left: 0;
+      top: 45px;
+    }
+
+    .pad-button[data-dir="left"]::before {
+      transform: translateX(4px) rotate(-45deg);
+    }
+
+    .pad-button[data-dir="right"] {
+      right: 0;
+      top: 45px;
+    }
+
+    .pad-button[data-dir="right"]::before {
+      transform: translateX(-4px) rotate(135deg);
+    }
+
+    .pad-button[data-dir="down"] {
+      left: 45px;
+      bottom: 0;
+    }
+
+    .pad-button[data-dir="down"]::before {
+      transform: translateY(-4px) rotate(225deg);
+    }
+
+    .action-button {
+      width: 58px;
+      height: 58px;
+      font-size: 0;
+      position: relative;
+    }
+
+    .action-button[data-action="fire"]::before {
+      content: "";
+      position: absolute;
+      inset: 18px;
+      border-radius: 50%;
+      border: 4px solid currentColor;
+      box-shadow: 0 0 0 8px rgba(149, 255, 47, 0.12);
+    }
+
+    .action-button[data-action="dash"]::before {
+      content: "";
+      position: absolute;
+      left: 15px;
+      top: 19px;
+      width: 27px;
+      height: 16px;
+      border-top: 5px solid currentColor;
+      border-right: 5px solid currentColor;
+      transform: skewX(-18deg);
+    }
+
+    .pad-button:active,
+    .pad-button.is-held,
+    .action-button:active,
+    .action-button.is-held {
+      background: rgba(149, 255, 47, 0.22);
+      border-color: var(--line-bright);
+      color: #baff45;
+      transform: translateY(1px) scale(0.98);
+    }
+
+    body.is-menu .hud,
+    body.is-menu .touch-pad,
+    body.is-menu .touch-actions,
+    body.is-menu .return-home {
+      display: none;
+    }
+
+    body.is-cleared .return-home {
+      display: none;
+    }
+
+    .home-screen {
+      position: fixed;
+      inset: 0;
+      z-index: 4;
+      display: grid;
+      grid-template-columns: minmax(280px, 0.85fr) minmax(320px, 1.15fr);
+      grid-template-rows: auto minmax(0, 1fr);
+      gap: 18px;
+      padding: calc(28px + env(safe-area-inset-top)) 28px calc(28px + env(safe-area-inset-bottom));
+      background:
+        linear-gradient(115deg, rgba(14, 140, 160, 0.1), transparent 38%),
+        radial-gradient(circle at 50% 42%, rgba(255, 183, 67, 0.14), rgba(17, 10, 11, 0.78) 58%, rgba(17, 10, 11, 0.92));
+      pointer-events: auto;
+    }
+
+    .home-screen.is-hidden {
+      display: none;
+    }
+
+    .home-titlebar {
+      grid-column: 1 / -1;
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) auto;
+      align-items: end;
+      gap: 18px;
+      padding: 18px;
+      border: 1px solid rgba(255, 234, 166, 0.22);
+      border-radius: var(--radius);
+      background:
+        radial-gradient(circle at 18% 0%, rgba(149, 255, 47, 0.18), transparent 32%),
+        linear-gradient(135deg, rgba(83, 28, 16, 0.82), rgba(13, 8, 10, 0.72));
+      box-shadow: 0 28px 64px rgba(0, 0, 0, 0.28), inset 0 1px 0 rgba(255, 241, 184, 0.16);
+      backdrop-filter: blur(18px);
+      -webkit-backdrop-filter: blur(18px);
+      overflow: hidden;
+    }
+
+    .brand-lockup {
+      min-width: 0;
+    }
+
+    .brand-lockup h1 {
+      margin: 0;
+      color: #fff7d5;
+      font-size: clamp(34px, 5vw, 62px);
+      line-height: 0.96;
+      font-weight: 950;
+      letter-spacing: 0;
+      text-shadow: 0 0 26px rgba(149, 255, 47, 0.22);
+    }
+
+    .brand-lockup p {
+      margin: 10px 0 0;
+      max-width: 42rem;
+      color: rgba(255, 241, 184, 0.72);
+      font-size: 14px;
+      line-height: 1.5;
+      font-weight: 750;
+    }
+
+    .mission-pills {
+      display: grid;
+      grid-template-columns: repeat(3, max-content);
+      gap: 8px;
+      align-items: end;
+    }
+
+    .mission-pills span {
+      min-width: 78px;
+      padding: 9px 11px;
+      border: 1px solid rgba(255, 234, 166, 0.2);
+      border-radius: var(--radius);
+      background: rgba(15, 8, 9, 0.52);
+      color: rgba(255, 241, 184, 0.84);
+      font-size: 12px;
+      line-height: 1;
+      font-weight: 900;
+      text-align: center;
+      box-shadow: inset 0 1px 0 rgba(255, 241, 184, 0.12);
+    }
+
+    .home-column {
+      min-width: 0;
+      min-height: 0;
+      display: flex;
+      flex-direction: column;
+      border: 1px solid rgba(255, 234, 166, 0.24);
+      border-radius: var(--radius);
+      background:
+        linear-gradient(135deg, rgba(255, 241, 184, 0.07), transparent 35%),
+        linear-gradient(180deg, rgba(74, 23, 14, 0.78), rgba(19, 8, 8, 0.76));
+      box-shadow: 0 26px 60px rgba(0, 0, 0, 0.34), inset 0 1px 0 rgba(255, 241, 184, 0.16);
+      backdrop-filter: blur(18px);
+      -webkit-backdrop-filter: blur(18px);
+      overflow: hidden;
+    }
+
+    .home-header {
+      padding: 20px 20px 16px;
+      border-bottom: 1px solid rgba(255, 234, 166, 0.16);
+    }
+
+    .home-kicker {
+      display: block;
+      margin-bottom: 8px;
+      color: rgba(149, 255, 47, 0.86);
+      font-size: 11px;
+      line-height: 1;
+      font-weight: 900;
+    }
+
+    .home-header h2 {
+      margin: 0;
+      color: #fff4c9;
+      font-size: 30px;
+      line-height: 1;
+      font-weight: 950;
+      letter-spacing: 0;
+      text-shadow: 0 0 22px rgba(149, 255, 47, 0.2);
+    }
+
+    .home-header p {
+      margin: 12px 0 0;
+      max-width: 34rem;
+      color: rgba(255, 241, 184, 0.72);
+      font-size: 13px;
+      line-height: 1.55;
+      font-weight: 700;
+    }
+
+    .map-list,
+    .talent-list {
+      display: grid;
+      flex: 1;
+      align-content: start;
+      gap: 10px;
+      padding: 14px;
+      overflow-y: auto;
+      min-height: 0;
+      scrollbar-color: rgba(149, 255, 47, 0.34) rgba(255, 241, 184, 0.08);
+    }
+
+    .map-button,
+    .talent-button,
+    .return-home {
+      appearance: none;
+      border: 1px solid rgba(255, 234, 166, 0.2);
+      border-radius: var(--radius);
+      background:
+        linear-gradient(135deg, rgba(255, 241, 184, 0.06), transparent 42%),
+        rgba(41, 14, 10, 0.66);
+      color: #fff4c9;
+      font: inherit;
+      text-align: left;
+      cursor: pointer;
+      transition: transform 0.16s ease, border-color 0.16s ease, background 0.16s ease, box-shadow 0.16s ease, opacity 0.16s ease;
+    }
+
+    .map-button {
+      display: grid;
+      grid-template-columns: 58px minmax(0, 1fr) auto;
+      gap: 12px;
+      align-items: center;
+      min-height: 82px;
+      padding: 10px 12px;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .map-button:hover,
+    .talent-button:hover,
+    .return-home:hover {
+      border-color: rgba(149, 255, 47, 0.62);
+      background: rgba(65, 27, 13, 0.78);
+      box-shadow: 0 16px 34px rgba(0, 0, 0, 0.24), inset 0 1px 0 rgba(255, 241, 184, 0.16);
+      transform: translateY(-1px);
+    }
+
+    .map-button:active,
+    .talent-button:active,
+    .return-home:active {
+      transform: translateY(1px) scale(0.99);
+    }
+
+    .map-button:focus-visible,
+    .talent-button:focus-visible,
+    .return-home:focus-visible,
+    .campaign-start:focus-visible,
+    .shop-choice:focus-visible,
+    .pad-button:focus-visible,
+    .action-button:focus-visible {
+      outline: 2px solid rgba(149, 255, 47, 0.82);
+      outline-offset: 2px;
+    }
+
+    .organ-mark {
+      width: 52px;
+      height: 52px;
+      border-radius: var(--radius);
+      border: 1px solid rgba(255, 241, 184, 0.24);
+      background:
+        radial-gradient(circle at 62% 42%, rgba(149, 255, 47, 0.75) 0 5px, transparent 6px),
+        radial-gradient(circle at 34% 64%, rgba(255, 241, 184, 0.3), transparent 19px),
+        var(--organ-color);
+      box-shadow: inset 0 1px 0 rgba(255, 241, 184, 0.2), 0 0 22px rgba(149, 255, 47, 0.08);
+    }
+
+    .map-copy strong,
+    .talent-copy strong {
+      display: block;
+      overflow-wrap: anywhere;
+      color: #fff4c9;
+      font-size: 16px;
+      line-height: 1.15;
+      font-weight: 900;
+    }
+
+    .map-copy span,
+    .talent-copy span {
+      display: block;
+      margin-top: 5px;
+      color: rgba(255, 241, 184, 0.66);
+      font-size: 12px;
+      line-height: 1.35;
+      font-weight: 700;
+    }
+
+    .map-threat {
+      position: absolute;
+      left: 82px;
+      right: 12px;
+      bottom: 10px;
+      height: 4px;
+      border-radius: 999px;
+      background: rgba(255, 241, 184, 0.1);
+      overflow: hidden;
+    }
+
+    .map-threat span {
+      display: block;
+      width: var(--threat);
+      height: 100%;
+      border-radius: inherit;
+      background: linear-gradient(90deg, rgba(149, 255, 47, 0.9), rgba(255, 183, 67, 0.9));
+      box-shadow: 0 0 14px rgba(149, 255, 47, 0.34);
+    }
+
+    .map-button.is-cleared {
+      border-color: rgba(149, 255, 47, 0.42);
+      background:
+        linear-gradient(135deg, rgba(149, 255, 47, 0.1), transparent 42%),
+        rgba(30, 36, 15, 0.58);
+    }
+
+    .map-status {
+      min-width: 64px;
+      color: rgba(149, 255, 47, 0.92);
+      font-size: 11px;
+      line-height: 1;
+      font-weight: 900;
+      text-align: right;
+    }
+
+    .talent-summary {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      padding: 14px 16px;
+      border-bottom: 1px solid rgba(255, 234, 166, 0.16);
+      color: rgba(255, 241, 184, 0.76);
+      font-size: 12px;
+      font-weight: 900;
+    }
+
+    .talent-points {
+      color: #95ff2f;
+      font-size: 24px;
+      line-height: 1;
+      font-variant-numeric: tabular-nums;
+      text-shadow: 0 0 18px rgba(149, 255, 47, 0.42);
+    }
+
+    .talent-button {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) auto;
+      gap: 12px;
+      align-items: center;
+      min-height: 74px;
+      padding: 12px 13px;
+    }
+
+    .talent-button:disabled {
+      cursor: default;
+      opacity: 0.58;
+    }
+
+    .talent-level {
+      display: grid;
+      justify-items: end;
+      gap: 8px;
+      color: #95ff2f;
+      font-size: 18px;
+      font-weight: 950;
+      font-variant-numeric: tabular-nums;
+    }
+
+    .talent-meter {
+      display: grid;
+      grid-auto-flow: column;
+      gap: 3px;
+    }
+
+    .talent-meter i {
+      display: block;
+      width: 11px;
+      height: 20px;
+      border-radius: 3px;
+      border: 1px solid rgba(255, 241, 184, 0.18);
+      background: rgba(255, 241, 184, 0.08);
+    }
+
+    .talent-meter i.is-on {
+      border-color: rgba(149, 255, 47, 0.6);
+      background: linear-gradient(180deg, #d8ff72, #95ff2f);
+      box-shadow: 0 0 12px rgba(149, 255, 47, 0.32);
+    }
+
+    .campaign-panel {
+      display: grid;
+      flex: 1;
+      align-content: start;
+      gap: 12px;
+      min-height: 0;
+      padding: 14px;
+      overflow-y: auto;
+      scrollbar-color: rgba(149, 255, 47, 0.34) rgba(255, 241, 184, 0.08);
+    }
+
+    .campaign-card {
+      padding: 14px;
+      border: 1px solid rgba(255, 234, 166, 0.2);
+      border-radius: var(--radius);
+      background:
+        linear-gradient(135deg, rgba(149, 255, 47, 0.08), transparent 44%),
+        rgba(41, 14, 10, 0.66);
+    }
+
+    .campaign-card strong {
+      display: block;
+      color: #fff4c9;
+      font-size: 19px;
+      line-height: 1.1;
+      font-weight: 950;
+    }
+
+    .campaign-card span {
+      display: block;
+      margin-top: 7px;
+      color: rgba(255, 241, 184, 0.68);
+      font-size: 12px;
+      line-height: 1.45;
+      font-weight: 750;
+    }
+
+    .chapter-route {
+      display: grid;
+      gap: 8px;
+    }
+
+    .chapter-step {
+      display: grid;
+      grid-template-columns: 34px minmax(0, 1fr) auto;
+      align-items: center;
+      gap: 10px;
+      min-height: 48px;
+      padding: 8px 10px;
+      border: 1px solid rgba(255, 234, 166, 0.16);
+      border-radius: var(--radius);
+      background: rgba(18, 8, 7, 0.42);
+      color: rgba(255, 241, 184, 0.7);
+      font-size: 12px;
+      font-weight: 850;
+    }
+
+    .chapter-step b {
+      display: grid;
+      place-items: center;
+      width: 28px;
+      height: 28px;
+      border-radius: 999px;
+      border: 1px solid rgba(255, 241, 184, 0.22);
+      color: rgba(255, 241, 184, 0.78);
+      font-variant-numeric: tabular-nums;
+    }
+
+    .chapter-step.is-current {
+      border-color: rgba(149, 255, 47, 0.52);
+      background: rgba(44, 55, 18, 0.46);
+      color: #fff4c9;
+    }
+
+    .chapter-step.is-current b {
+      border-color: rgba(149, 255, 47, 0.72);
+      color: #95ff2f;
+      box-shadow: 0 0 14px rgba(149, 255, 47, 0.2);
+    }
+
+    .chapter-type {
+      color: rgba(149, 255, 47, 0.9);
+      font-size: 11px;
+      text-align: right;
+      white-space: nowrap;
+    }
+
+    .campaign-start {
+      appearance: none;
+      width: calc(100% - 28px);
+      min-height: 52px;
+      margin: 0 14px 14px;
+      border: 1px solid rgba(149, 255, 47, 0.58);
+      border-radius: var(--radius);
+      background:
+        linear-gradient(135deg, rgba(216, 255, 114, 0.9), rgba(149, 255, 47, 0.72)),
+        rgba(149, 255, 47, 0.78);
+      color: #172106;
+      font: inherit;
+      font-size: 15px;
+      font-weight: 950;
+      cursor: pointer;
+      box-shadow: 0 16px 34px rgba(0, 0, 0, 0.28), 0 0 24px rgba(149, 255, 47, 0.18);
+      transition: transform 0.16s ease, box-shadow 0.16s ease;
+    }
+
+    .campaign-start:hover {
+      transform: translateY(-1px);
+      box-shadow: 0 18px 38px rgba(0, 0, 0, 0.34), 0 0 30px rgba(149, 255, 47, 0.24);
+    }
+
+    .campaign-start:active {
+      transform: translateY(1px) scale(0.99);
+    }
+
+    .shop-overlay {
+      position: fixed;
+      z-index: 7;
+      left: 50%;
+      top: calc(96px + env(safe-area-inset-top));
+      width: min(760px, calc(100vw - 28px));
+      max-height: calc(100vh - 140px - env(safe-area-inset-bottom));
+      padding: 14px;
+      border: 1px solid rgba(255, 234, 166, 0.26);
+      border-radius: var(--radius);
+      background:
+        radial-gradient(circle at 14% 0%, rgba(149, 255, 47, 0.16), transparent 34%),
+        linear-gradient(180deg, rgba(56, 22, 13, 0.94), rgba(15, 7, 8, 0.9));
+      box-shadow: 0 28px 80px rgba(0, 0, 0, 0.48), inset 0 1px 0 rgba(255, 241, 184, 0.16);
+      backdrop-filter: blur(18px);
+      -webkit-backdrop-filter: blur(18px);
+      transform: translateX(-50%);
+      pointer-events: auto;
+      overflow-y: auto;
+    }
+
+    .shop-overlay.is-hidden {
+      display: none;
+    }
+
+    .shop-overlay h2 {
+      margin: 0;
+      color: #fff4c9;
+      font-size: 24px;
+      line-height: 1.1;
+      font-weight: 950;
+    }
+
+    .shop-overlay p {
+      margin: 8px 0 0;
+      color: rgba(255, 241, 184, 0.72);
+      font-size: 13px;
+      line-height: 1.45;
+      font-weight: 750;
+    }
+
+    .shop-choices {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 10px;
+      margin-top: 14px;
+    }
+
+    .shop-choice {
+      appearance: none;
+      min-height: 116px;
+      padding: 13px;
+      border: 1px solid rgba(255, 234, 166, 0.2);
+      border-radius: var(--radius);
+      background:
+        linear-gradient(135deg, rgba(255, 241, 184, 0.08), transparent 48%),
+        rgba(28, 12, 9, 0.66);
+      color: #fff4c9;
+      font: inherit;
+      text-align: left;
+      cursor: pointer;
+      transition: transform 0.16s ease, border-color 0.16s ease, background 0.16s ease;
+    }
+
+    .shop-choice:hover {
+      border-color: rgba(149, 255, 47, 0.6);
+      background: rgba(44, 55, 18, 0.5);
+      transform: translateY(-1px);
+    }
+
+    .shop-choice:active {
+      transform: translateY(1px) scale(0.99);
+    }
+
+    .shop-choice strong {
+      display: block;
+      color: #95ff2f;
+      font-size: 16px;
+      line-height: 1.15;
+      font-weight: 950;
+    }
+
+    .shop-choice span {
+      display: block;
+      margin-top: 8px;
+      color: rgba(255, 241, 184, 0.72);
+      font-size: 12px;
+      line-height: 1.42;
+      font-weight: 750;
+    }
+
+    .return-home {
+      position: fixed;
+      z-index: 5;
+      left: 50%;
+      bottom: calc(32px + env(safe-area-inset-bottom));
+      display: none;
+      align-items: center;
+      justify-content: center;
+      min-width: 180px;
+      min-height: 48px;
+      padding: 0 18px;
+      text-align: center;
+      font-size: 14px;
+      font-weight: 900;
+      box-shadow: 0 18px 36px rgba(0, 0, 0, 0.32), 0 0 28px rgba(149, 255, 47, 0.14);
+      transform: translateX(-50%);
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      *,
+      *::before,
+      *::after {
+        animation-duration: 0.001ms !important;
+        transition-duration: 0.001ms !important;
+      }
+    }
+
+    @media (max-width: 760px) {
+      body::before {
+        opacity: 0.34;
+      }
+
+      .hud {
+        inset: calc(10px + env(safe-area-inset-top)) 10px auto 10px;
+        display: grid;
+        justify-content: start;
+        gap: 8px;
+      }
+
+      .identity {
+        min-width: 138px;
+        padding: 10px 10px 9px;
+      }
+
+      .identity h1 {
+        font-size: 16px;
+      }
+
+      .health {
+        width: 118px;
+      }
+
+      .meters {
+        grid-template-columns: repeat(3, 54px);
+      }
+
+      .stat {
+        min-height: 48px;
+        padding: 8px 7px 7px;
+      }
+
+      .label {
+        font-size: 9px;
+      }
+
+      .value {
+        margin-top: 6px;
+        font-size: 17px;
+      }
+
+      .touch-pad,
+      .touch-actions {
+        display: flex;
+      }
+
+      .home-screen {
+        grid-template-columns: 1fr;
+        grid-template-rows: auto auto auto;
+        align-content: start;
+        gap: 12px;
+        padding: calc(12px + env(safe-area-inset-top)) 10px calc(12px + env(safe-area-inset-bottom));
+        overflow-y: auto;
+      }
+
+      .home-titlebar {
+        grid-template-columns: 1fr;
+        align-items: start;
+        gap: 12px;
+        padding: 16px;
+      }
+
+      .brand-lockup h1 {
+        font-size: 34px;
+      }
+
+      .brand-lockup p {
+        font-size: 13px;
+      }
+
+      .mission-pills {
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+        width: 100%;
+      }
+
+      .mission-pills span {
+        min-width: 0;
+        padding: 9px 8px;
+      }
+
+      .home-header {
+        padding: 16px 15px 13px;
+      }
+
+      .home-header h2 {
+        font-size: 23px;
+      }
+
+      .map-list,
+      .talent-list {
+        padding: 10px;
+      }
+
+      .map-button {
+        grid-template-columns: 46px minmax(0, 1fr);
+        min-height: 78px;
+      }
+
+      .organ-mark {
+        width: 42px;
+        height: 42px;
+      }
+
+      .map-status {
+        grid-column: 2;
+        text-align: left;
+      }
+
+      .map-threat {
+        left: 68px;
+      }
+
+      .campaign-panel {
+        padding: 10px;
+      }
+
+      .chapter-step {
+        grid-template-columns: 30px minmax(0, 1fr);
+      }
+
+      .chapter-type {
+        grid-column: 2;
+        text-align: left;
+      }
+
+      .campaign-start {
+        width: calc(100% - 20px);
+        margin: 0 10px 10px;
+      }
+
+      .shop-overlay {
+        top: calc(80px + env(safe-area-inset-top));
+        max-height: calc(100vh - 112px - env(safe-area-inset-bottom));
+      }
+
+      .shop-choices {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+</head>
+<body>
+  <canvas id="game" aria-label="2D 战斗游戏"></canvas>
+  <main class="home-screen" id="homeScreen" aria-label="主页面">
+    <header class="home-titlebar">
+      <div class="brand-lockup">
+        <h1>荧孢战场</h1>
+        <p>从第一个感染区出发，清出通路，靠自己穿过地图进入下一章。</p>
+      </div>
+      <div class="mission-pills" aria-label="操作提示">
+        <span>WASD 移动</span>
+        <span>J 射击</span>
+        <span>Space 闪避</span>
+      </div>
+    </header>
+    <section class="home-column">
+      <header class="home-header">
+        <span class="home-kicker">战役路线</span>
+        <h2>迷宫推进</h2>
+        <p>每个区域是一张迷宫地图，分成 5 个章节房间：三次小怪清理、一次 Boss、一次商店技能选择。清完后自己找路进入下一章。</p>
+      </header>
+      <div class="campaign-panel" id="campaignPanel"></div>
+      <button class="campaign-start" id="startRun" type="button">开始战役</button>
+    </section>
+    <section class="home-column">
+      <header class="home-header">
+        <span class="home-kicker">荧孢档案</span>
+        <h2>当前强化</h2>
+        <p>技能不在主界面购买。走到每个区域第 5 章商店后，从三项技能中选择一种强化。</p>
+      </header>
+      <div class="talent-summary">
+        <span>商店选择次数</span>
+        <span class="talent-points" id="talentPoints">0</span>
+      </div>
+      <div class="talent-list" id="talentList"></div>
+    </section>
+  </main>
+  <div class="hud" aria-hidden="true">
+    <section class="panel identity">
+      <h1 id="zoneTitle">荧孢战场</h1>
+      <div class="health"><div class="health-fill" id="healthFill"></div></div>
+    </section>
+    <section class="panel meters">
+      <div class="stat">
+        <span class="label">剩余</span>
+        <span class="value" id="wave">0</span>
+      </div>
+      <div class="stat">
+        <span class="label">击破</span>
+        <span class="value" id="kills">0</span>
+      </div>
+      <div class="stat">
+        <span class="label">闪避</span>
+        <span class="value" id="dash">100</span>
+      </div>
+    </section>
+  </div>
+
+  <nav class="touch-pad" aria-hidden="true">
+    <button class="pad-button" data-dir="up" type="button">上</button>
+    <button class="pad-button" data-dir="left" type="button">左</button>
+    <button class="pad-button" data-dir="right" type="button">右</button>
+    <button class="pad-button" data-dir="down" type="button">下</button>
+  </nav>
+  <nav class="touch-actions" aria-hidden="true">
+    <button class="action-button" data-action="dash" type="button">闪避</button>
+    <button class="action-button" data-action="fire" type="button">射击</button>
+  </nav>
+  <button class="return-home" id="returnHome" type="button">回到主页面</button>
+  <section class="shop-overlay is-hidden" id="shopOverlay" aria-label="商店技能选择">
+    <h2>菌巢商店</h2>
+    <p id="shopHint">选择一个技能强化。选择完成后，继续向右走到下一段。</p>
+    <div class="shop-choices" id="shopChoices"></div>
+  </section>
+
+  <script>
+    (() => {
+      const canvas = document.querySelector("#game");
+      const ctx = canvas.getContext("2d", { alpha: false });
+      const homeScreen = document.querySelector("#homeScreen");
+      const campaignPanel = document.querySelector("#campaignPanel");
+      const talentList = document.querySelector("#talentList");
+      const talentPointsNode = document.querySelector("#talentPoints");
+      const startRun = document.querySelector("#startRun");
+      const returnHome = document.querySelector("#returnHome");
+      const shopOverlay = document.querySelector("#shopOverlay");
+      const shopChoices = document.querySelector("#shopChoices");
+      const shopHint = document.querySelector("#shopHint");
+      const zoneTitle = document.querySelector("#zoneTitle");
+      const healthFill = document.querySelector("#healthFill");
+      const waveNode = document.querySelector("#wave");
+      const killsNode = document.querySelector("#kills");
+      const dashNode = document.querySelector("#dash");
+
+      const maps = [
+        {
+          id: "mouth",
+          name: "口腔菌幕",
+          note: "牙龈裂隙里的红色菌冠，适合先清。",
+          color: "linear-gradient(135deg, #a92720, #ffb743)",
+          world: { width: 3000, height: 920 },
+          player: { x: 480, y: 540 },
+          background: ["#7e2f10", "#ffbc55", "#9b4b24", "#211011"],
+          enemies: [
+            [180, 260, false], [240, 560, false], [500, 710, false], [760, 330, false],
+            [990, 520, true], [1240, 300, false], [1420, 680, false], [1690, 450, false],
+            [1960, 720, true], [2220, 360, false], [2480, 610, false], [2760, 420, true],
+          ],
+        },
+        {
+          id: "lung",
+          name: "肺泡风巢",
+          note: "蓝色泡室之间气流更强，敌人更分散。",
+          color: "linear-gradient(135deg, #0e8ca0, #95ff2f)",
+          world: { width: 3500, height: 980 },
+          player: { x: 520, y: 520 },
+          background: ["#123a48", "#ffca6c", "#476f65", "#0d171a"],
+          enemies: [
+            [210, 280, false], [360, 650, false], [700, 390, false], [920, 730, false],
+            [1160, 260, true], [1350, 560, false], [1580, 350, false], [1840, 720, true],
+            [2070, 430, false], [2320, 250, false], [2520, 650, false], [2750, 520, true],
+            [3020, 310, false], [3260, 710, true],
+          ],
+        },
+        {
+          id: "stomach",
+          name: "胃壁酸湖",
+          note: "酸雾会遮挡视线，重型菌块更多。",
+          color: "linear-gradient(135deg, #d83923, #ffe45c)",
+          world: { width: 3800, height: 1000 },
+          player: { x: 560, y: 580 },
+          background: ["#5f170f", "#f08e32", "#8d390f", "#180909"],
+          enemies: [
+            [220, 300, false], [420, 650, true], [760, 430, false], [1040, 760, false],
+            [1270, 320, true], [1510, 540, false], [1780, 710, true], [2040, 380, false],
+            [2290, 610, false], [2520, 260, true], [2760, 760, false], [3040, 460, true],
+            [3320, 320, false], [3560, 680, true],
+          ],
+        },
+        {
+          id: "blood",
+          name: "血管红河",
+          note: "长距离横向通道，适合测试射击和闪避。",
+          color: "linear-gradient(135deg, #76120f, #f13a22)",
+          world: { width: 4200, height: 960 },
+          player: { x: 500, y: 540 },
+          background: ["#4c0d0d", "#d85d27", "#7a1812", "#150707"],
+          enemies: [
+            [230, 260, false], [420, 680, false], [730, 520, false], [980, 300, true],
+            [1260, 690, false], [1510, 430, false], [1780, 260, true], [2030, 710, false],
+            [2310, 500, false], [2560, 330, true], [2850, 730, false], [3130, 420, false],
+            [3400, 260, true], [3650, 690, false], [3910, 520, true],
+          ],
+        },
+        {
+          id: "nerve",
+          name: "神经荧桥",
+          note: "最深层区域，敌人密集，清理奖励最高。",
+          color: "linear-gradient(135deg, #193669, #95ff2f)",
+          world: { width: 4400, height: 1020 },
+          player: { x: 560, y: 550 },
+          background: ["#13233f", "#f7b85a", "#5d3b75", "#0a0d17"],
+          enemies: [
+            [220, 300, false], [430, 650, false], [760, 420, true], [1020, 760, false],
+            [1300, 290, false], [1510, 560, true], [1760, 350, false], [2020, 740, true],
+            [2300, 490, false], [2540, 250, true], [2810, 680, false], [3060, 420, false],
+            [3320, 740, true], [3600, 330, false], [3860, 590, true], [4140, 410, true],
+          ],
+        },
+      ];
+
+      const talents = [
+        { id: "damage", name: "回声射须", note: "装上远程细胞器，提高孢弹伤害。", max: 5 },
+        { id: "vitality", name: "恢复线粒体", note: "连续命中后回血，最大生命提高。", max: 4 },
+        { id: "mobility", name: "游离鞭毛", note: "增加移动速度和绕墙机动。", max: 4 },
+        { id: "dash", name: "过载胞器", note: "缩短闪避冷却，爆发更频繁。", max: 3 },
+      ];
+
+      const chapterFlow = [
+        { type: "mob", name: "清道一", label: "小怪关" },
+        { type: "mob", name: "清道二", label: "小怪关" },
+        { type: "mob", name: "清道三", label: "小怪关" },
+        { type: "boss", name: "菌核首领", label: "Boss 关" },
+        { type: "shop", name: "菌巢商店", label: "技能选择" },
+      ];
+
+      const state = {
+        mode: "menu",
+        currentMapIndex: 0,
+        currentChapterIndex: 0,
+        started: false,
+        chapterLoaded: false,
+        chapterCleared: false,
+        shopChoiceTaken: false,
+        campaignComplete: false,
+        clearedMaps: new Set(),
+        talentPoints: 0,
+        talentLevels: { damage: 0, vitality: 0, mobility: 0, dash: 0 },
+        width: 0,
+        height: 0,
+        dpr: 1,
+        time: 0,
+        keys: new Set(),
+        mouse: { x: 0, y: 0, down: false, worldX: 0, worldY: 0 },
+        camera: { x: 0, y: 0 },
+        shake: 0,
+        engaged: false,
+        kills: 0,
+        totalEnemies: 0,
+        mapCleared: false,
+        lastHud: 0,
+        world: { width: 3400, height: 980 },
+        player: {
+          x: 520,
+          y: 560,
+          vx: 0,
+          vy: 0,
+          hp: 100,
+          radius: 25,
+          aim: 0,
+          fireCooldown: 0,
+          dashCooldown: 0,
+          invulnerable: 2.2,
+          hitChain: 0,
+          regenPulse: 0,
+          wing: 0,
+        },
+        enemies: [],
+        bullets: [],
+        particles: [],
+        damageTexts: [],
+        pickups: [],
+        spores: [],
+        gate: null,
+        maze: null,
+      };
+
+      const moveKeys = new Map([
+        ["w", "up"], ["arrowup", "up"],
+        ["a", "left"], ["arrowleft", "left"],
+        ["s", "down"], ["arrowdown", "down"],
+        ["d", "right"], ["arrowright", "right"],
+      ]);
+
+      function resize() {
+        state.width = window.innerWidth;
+        state.height = window.innerHeight;
+        state.dpr = Math.max(1, Math.min(2, window.devicePixelRatio || 1));
+        canvas.width = Math.floor(state.width * state.dpr);
+        canvas.height = Math.floor(state.height * state.dpr);
+        ctx.setTransform(state.dpr, 0, 0, state.dpr, 0, 0);
+      }
+
+      function rand(seed) {
+        const v = Math.sin(seed * 127.1 + 311.7) * 43758.5453;
+        return v - Math.floor(v);
+      }
+
+      function clamp(v, min, max) {
+        return Math.max(min, Math.min(max, v));
+      }
+
+      function screenToWorld(x, y) {
+        return { x: x + state.camera.x, y: y + state.camera.y };
+      }
+
+      function worldToScreen(x, y) {
+        return { x: x - state.camera.x, y: y - state.camera.y };
+      }
+
+      function currentMap() {
+        return maps[state.currentMapIndex];
+      }
+
+      function currentChapter() {
+        return chapterFlow[state.currentChapterIndex];
+      }
+
+      function chapterTitle() {
+        const map = currentMap();
+        const chapter = currentChapter();
+        return `${map.name} ${state.currentChapterIndex + 1}/5 · ${chapter.name}`;
+      }
+
+      function nextPathLabel() {
+        if (state.currentChapterIndex < chapterFlow.length - 1) return "继续前进";
+        if (state.currentMapIndex < maps.length - 1) return "前往下一区域";
+        return "完成最终清理";
+      }
+
+      function rectFromCenter(cx, cy, w, h) {
+        return { x: cx - w / 2, y: cy - h / 2, w, h, cx, cy };
+      }
+
+      function corridorBetween(a, b, width = 220) {
+        const bend = { cx: b.cx, cy: a.cy };
+        const horizontal = rectFromCenter((a.cx + bend.cx) / 2, a.cy, Math.abs(bend.cx - a.cx) + width, width);
+        const vertical = rectFromCenter(b.cx, (bend.cy + b.cy) / 2, width, Math.abs(b.cy - bend.cy) + width);
+        return [horizontal, vertical];
+      }
+
+      function buildMaze(mapIndex) {
+        const shift = (mapIndex % 2) * 80;
+        const rooms = [
+          rectFromCenter(620, 1080, 820, 560),
+          rectFromCenter(1580, 650 + shift, 840, 540),
+          rectFromCenter(1500, 1650 - shift, 860, 540),
+          rectFromCenter(2870, 1540, 920, 600),
+          rectFromCenter(3200, 650, 900, 560),
+        ];
+        const corridors = [
+          ...corridorBetween(rooms[0], rooms[1]),
+          ...corridorBetween(rooms[1], rooms[2]),
+          ...corridorBetween(rooms[2], rooms[3]),
+          ...corridorBetween(rooms[3], rooms[4]),
+        ];
+        const gates = [
+          { cx: 1110, cy: rooms[0].cy, w: 52, h: 270 },
+          { cx: rooms[1].cx, cy: 1110, w: 270, h: 52 },
+          { cx: 2220, cy: rooms[2].cy, w: 52, h: 280 },
+          { cx: rooms[4].cx, cy: (rooms[3].cy + rooms[4].cy) / 2, w: 280, h: 52 },
+          { cx: rooms[4].x + rooms[4].w - 70, cy: rooms[4].cy, w: 54, h: 280 },
+        ];
+        return { width: 4200, height: 2300, rooms, corridors, gates };
+      }
+
+      function chapterRoom(index = state.currentChapterIndex) {
+        return state.maze.rooms[index];
+      }
+
+      function gateForChapter(index = state.currentChapterIndex) {
+        const gate = state.maze.gates[index];
+        return { ...gate, label: nextPathLabel() };
+      }
+
+      function gateRect(gate = state.gate) {
+        if (!gate) return null;
+        return { x: gate.cx - gate.w / 2, y: gate.cy - gate.h / 2, w: gate.w, h: gate.h };
+      }
+
+      function rectContains(rect, x, y, radius = 0) {
+        return x >= rect.x + radius
+          && x <= rect.x + rect.w - radius
+          && y >= rect.y + radius
+          && y <= rect.y + rect.h - radius;
+      }
+
+      function isWalkable(x, y, radius = 0) {
+        if (!state.maze) return true;
+        const insidePath = [...state.maze.rooms, ...state.maze.corridors].some((rect) => rectContains(rect, x, y, radius));
+        if (!insidePath) return false;
+        const closedGate = state.gate && !state.chapterCleared ? gateRect() : null;
+        return !(closedGate && rectContains(closedGate, x, y, radius));
+      }
+
+      function maxHealth() {
+        return 100 + state.talentLevels.vitality * 18;
+      }
+
+      function bulletDamage() {
+        return 22 + state.talentLevels.damage * 6;
+      }
+
+      function movePower() {
+        return 1180 + state.talentLevels.mobility * 145;
+      }
+
+      function dashCooldownSeconds() {
+        return 1.05 - state.talentLevels.dash * 0.16;
+      }
+
+      function makeSpores() {
+        state.spores = [];
+        for (let i = 0; i < 90; i += 1) {
+          state.spores.push({
+            x: rand(i) * state.world.width,
+            y: 110 + rand(i + 12) * 660,
+            r: 1.5 + rand(i + 23) * 4.5,
+            speed: 0.12 + rand(i + 31) * 0.42,
+            alpha: 0.16 + rand(i + 44) * 0.3,
+          });
+        }
+      }
+
+      function renderHome() {
+        const map = currentMap();
+        const route = chapterFlow.map((chapter, index) => `
+          <div class="chapter-step ${index === state.currentChapterIndex ? "is-current" : ""}">
+            <b>${index + 1}</b>
+            <span>${chapter.name}</span>
+            <span class="chapter-type">${chapter.label}</span>
+          </div>
+        `).join("");
+
+        campaignPanel.innerHTML = `
+          <section class="campaign-card">
+            <strong>${state.campaignComplete ? "全区域清理完成" : map.name}</strong>
+            <span>${state.campaignComplete ? "荧孢体已经完成这轮体内清理。重新开始会回到第一个区域。" : map.note}</span>
+          </section>
+          <div class="chapter-route">${route}</div>
+        `;
+
+        talentPointsNode.textContent = String(state.talentPoints);
+        startRun.textContent = state.campaignComplete ? "重新开始战役" : state.started ? "继续战役" : "开始战役";
+        talentList.innerHTML = talents.map((talent) => {
+          const level = state.talentLevels[talent.id];
+          const meter = Array.from({ length: talent.max }, (_, index) => (
+            `<i class="${index < level ? "is-on" : ""}"></i>`
+          )).join("");
+          return `
+            <button class="talent-button" type="button" disabled>
+              <span class="talent-copy">
+                <strong>${talent.name}</strong>
+                <span>${talent.note}</span>
+              </span>
+              <span class="talent-level">
+                <span>${level}/${talent.max}</span>
+                <span class="talent-meter" aria-hidden="true">${meter}</span>
+              </span>
+            </button>
+          `;
+        }).join("");
+      }
+
+      function showHome() {
+        state.mode = "menu";
+        state.mouse.down = false;
+        state.keys.clear();
+        hideShop();
+        zoneTitle.textContent = "荧孢战场";
+        homeScreen.classList.remove("is-hidden");
+        document.body.classList.add("is-menu");
+        document.body.classList.remove("is-cleared");
+        renderHome();
+      }
+
+      function startCampaign() {
+        if (state.campaignComplete) resetCampaign();
+        state.started = true;
+        state.mode = "game";
+        homeScreen.classList.add("is-hidden");
+        document.body.classList.remove("is-menu", "is-cleared");
+        if (!state.chapterLoaded) loadChapter();
+        else {
+          zoneTitle.textContent = chapterTitle();
+          if (currentChapter().type === "shop" && !state.shopChoiceTaken && !state.chapterCleared) showShop();
+          if (state.chapterCleared) document.body.classList.add("is-cleared");
+        }
+      }
+
+      function resetCampaign() {
+        state.currentMapIndex = 0;
+        state.currentChapterIndex = 0;
+        state.started = false;
+        state.chapterLoaded = false;
+        state.chapterCleared = false;
+        state.shopChoiceTaken = false;
+        state.campaignComplete = false;
+        state.clearedMaps.clear();
+        state.talentPoints = 0;
+        state.talentLevels = { damage: 0, vitality: 0, mobility: 0, dash: 0 };
+        state.gate = null;
+        state.maze = null;
+      }
+
+      function applyTalent(id) {
+        const talent = talents.find((item) => item.id === id);
+        if (!talent || state.talentLevels[id] >= talent.max) return false;
+        state.talentLevels[id] += 1;
+        state.talentPoints += 1;
+        return true;
+      }
+
+      function hideShop() {
+        shopOverlay.classList.add("is-hidden");
+      }
+
+      function showShop() {
+        const available = talents.filter((talent) => state.talentLevels[talent.id] < talent.max);
+        const start = available.length > 0 ? state.currentMapIndex % available.length : 0;
+        const choices = available.length <= 3
+          ? available
+          : [0, 1, 2].map((offset) => available[(start + offset) % available.length]);
+        shopHint.textContent = choices.length > 0
+          ? "选择一个技能强化。选择完成后，继续向右走到下一段。"
+          : "技能已经全部满级。继续向右走到下一段。";
+        shopChoices.innerHTML = choices.map((talent) => `
+          <button class="shop-choice" type="button" data-shop-talent="${talent.id}">
+            <strong>${talent.name}</strong>
+            <span>${talent.note} 当前 ${state.talentLevels[talent.id]}/${talent.max}</span>
+          </button>
+        `).join("");
+        shopOverlay.classList.toggle("is-hidden", state.shopChoiceTaken || choices.length === 0);
+        if (choices.length === 0) openGate();
+      }
+
+      function loadChapter(keepPlayer = false) {
+        const map = currentMap();
+        const chapter = currentChapter();
+        state.mode = "game";
+        if (!state.maze || !keepPlayer) state.maze = buildMaze(state.currentMapIndex);
+        const room = chapterRoom();
+        state.chapterLoaded = true;
+        state.chapterCleared = false;
+        state.mapCleared = false;
+        state.shopChoiceTaken = false;
+        state.engaged = false;
+        state.mouse.down = false;
+        state.keys.delete("fire");
+        state.gate = gateForChapter();
+        hideShop();
+        document.body.classList.remove("is-cleared");
+        zoneTitle.textContent = chapterTitle();
+        state.world.width = state.maze.width;
+        state.world.height = state.maze.height;
+        if (!keepPlayer) {
+          state.player.x = room.cx;
+          state.player.y = room.cy;
+        } else {
+          state.player.x = clamp(state.player.x, room.x + 90, room.x + room.w - 90);
+          state.player.y = clamp(state.player.y, room.y + 90, room.y + room.h - 90);
+        }
+        state.player.vx = 0;
+        state.player.vy = 0;
+        state.player.hp = maxHealth();
+        state.player.fireCooldown = 0;
+        state.player.dashCooldown = 0;
+        state.player.invulnerable = 1.2;
+        state.enemies = [];
+        state.bullets = [];
+        state.particles = [];
+        state.damageTexts = [];
+        state.pickups = [];
+        state.kills = 0;
+        state.totalEnemies = 0;
+        makeSpores();
+
+        if (chapter.type === "shop") {
+          state.chapterCleared = false;
+          showShop();
+          return;
+        }
+
+        spawnChapterEnemies();
+      }
+
+      function openGate() {
+        state.chapterCleared = true;
+        state.mapCleared = true;
+        state.mouse.down = false;
+        if (state.gate) state.gate.label = nextPathLabel();
+        document.body.classList.add("is-cleared");
+        emit(state.gate.cx, state.gate.cy, 42, "#95ff2f", 1.1);
+      }
+
+      function advanceChapter() {
+        if (!state.chapterCleared || !state.gate) return;
+        if (state.currentChapterIndex < chapterFlow.length - 1) {
+          state.currentChapterIndex += 1;
+          loadChapter(true);
+          return;
+        }
+
+        state.clearedMaps.add(currentMap().id);
+        if (state.currentMapIndex < maps.length - 1) {
+          state.currentMapIndex += 1;
+          state.currentChapterIndex = 0;
+          state.maze = null;
+          loadChapter();
+          return;
+        }
+
+        state.campaignComplete = true;
+        state.chapterLoaded = false;
+        showHome();
+      }
+
+      function spawnChapterEnemies() {
+        const map = currentMap();
+        const chapter = currentChapter();
+        const room = chapterRoom();
+        let placements = map.enemies;
+
+        if (chapter.type === "mob") {
+          placements = map.enemies.filter((_, index) => index % 3 === state.currentChapterIndex);
+        }
+
+        if (chapter.type === "boss") {
+          state.enemies.push({
+            x: room.cx,
+            y: room.cy,
+            vx: 0,
+            vy: 0,
+            hp: 260 + state.currentMapIndex * 70,
+            maxHp: 260 + state.currentMapIndex * 70,
+            radius: 58,
+            speed: 82,
+            phase: rand(state.currentMapIndex + 900) * Math.PI * 2,
+            bite: 0,
+            brute: true,
+            boss: true,
+            kind: "parasite",
+            hurt: 0,
+          });
+          placements = map.enemies.filter((_, index) => index % 5 === 0).slice(0, 4);
+        }
+
+        state.totalEnemies = state.enemies.length + placements.length;
+        for (let i = 0; i < placements.length; i += 1) {
+          const [, , brute] = placements[i];
+          const x = room.x + 110 + rand(i + 11 + state.currentChapterIndex * 17) * Math.max(120, room.w - 220);
+          const y = room.y + 100 + rand(i + 22 + state.currentMapIndex * 19) * Math.max(120, room.h - 200);
+          const hpBonus = state.currentMapIndex * 5 + state.currentChapterIndex * 4;
+          state.enemies.push({
+            x,
+            y,
+            vx: 0,
+            vy: 0,
+            hp: (brute ? 92 : 42) + hpBonus,
+            maxHp: (brute ? 92 : 42) + hpBonus,
+            radius: brute ? 33 : 23,
+            speed: brute ? 105 : 150 + rand(i + 3) * 34,
+            phase: rand(i + 9) * Math.PI * 2,
+            bite: 0,
+            brute,
+            kind: brute ? "tail" : "immune",
+            hurt: 0,
+          });
+        }
+      }
+
+      function emit(x, y, count, color, power = 1) {
+        for (let i = 0; i < count; i += 1) {
+          const angle = Math.random() * Math.PI * 2;
+          const speed = (60 + Math.random() * 260) * power;
+          state.particles.push({
+            x,
+            y,
+            vx: Math.cos(angle) * speed,
+            vy: Math.sin(angle) * speed,
+            life: 0.28 + Math.random() * 0.56,
+            maxLife: 0.7,
+            size: 2 + Math.random() * 8,
+            color,
+          });
+        }
+      }
+
+      function popDamage(x, y, value, color = "#fff1b8") {
+        state.damageTexts.push({
+          x: x + (Math.random() - 0.5) * 22,
+          y: y - 8 + (Math.random() - 0.5) * 12,
+          vy: -62 - Math.random() * 36,
+          life: 0.62,
+          maxLife: 0.62,
+          value,
+          color,
+        });
+      }
+
+      function shoot() {
+        const p = state.player;
+        if (state.chapterCleared || currentChapter().type === "shop" || p.fireCooldown > 0 || p.hp <= 0) return;
+        state.engaged = true;
+        const angle = Math.atan2(state.mouse.worldY - p.y, state.mouse.worldX - p.x);
+        p.aim = angle;
+        p.fireCooldown = 0.105;
+        state.shake = Math.max(state.shake, 4);
+
+        const speed = 720;
+        const muzzleX = p.x + Math.cos(angle) * 48;
+        const muzzleY = p.y + Math.sin(angle) * 48;
+        state.bullets.push({
+          x: muzzleX,
+          y: muzzleY,
+          prevX: muzzleX - Math.cos(angle) * 34,
+          prevY: muzzleY - Math.sin(angle) * 34,
+          vx: Math.cos(angle) * speed,
+          vy: Math.sin(angle) * speed,
+          life: 0.95,
+          radius: 7,
+          damage: bulletDamage(),
+          kind: state.talentLevels.damage >= 3 ? "pierce" : "spore",
+        });
+        emit(muzzleX, muzzleY, 10, state.talentLevels.damage >= 3 ? "#ff70d2" : "#95ff2f", 0.65);
+      }
+
+      function dash() {
+        const p = state.player;
+        if (p.dashCooldown > 0 || p.hp <= 0 || currentChapter().type === "shop") return;
+        state.engaged = true;
+
+        let dx = 0;
+        let dy = 0;
+        if (state.keys.has("up")) dy -= 1;
+        if (state.keys.has("down")) dy += 1;
+        if (state.keys.has("left")) dx -= 1;
+        if (state.keys.has("right")) dx += 1;
+        if (dx === 0 && dy === 0) {
+          dx = Math.cos(p.aim);
+          dy = Math.sin(p.aim);
+        }
+        const length = Math.hypot(dx, dy) || 1;
+        dx /= length;
+        dy /= length;
+        p.vx += dx * 760;
+        p.vy += dy * 760;
+        p.dashCooldown = dashCooldownSeconds();
+        p.invulnerable = 0.42;
+        state.shake = Math.max(state.shake, 6);
+        emit(p.x - dx * 16, p.y - dy * 16, 24, "#ffe45c", 1.1);
+      }
+
+      function drawBranch(points, width, color) {
+        ctx.save();
+        ctx.lineCap = "round";
+        ctx.lineJoin = "round";
+        ctx.strokeStyle = color;
+        ctx.lineWidth = width;
+        ctx.beginPath();
+        ctx.moveTo(points[0][0], points[0][1]);
+        for (let i = 1; i < points.length - 1; i += 1) {
+          const midX = (points[i][0] + points[i + 1][0]) / 2;
+          const midY = (points[i][1] + points[i + 1][1]) / 2;
+          ctx.quadraticCurveTo(points[i][0], points[i][1], midX, midY);
+        }
+        ctx.lineTo(points[points.length - 1][0], points[points.length - 1][1]);
+        ctx.stroke();
+        ctx.restore();
+      }
+
+      function traceBlobPath(x, y, r, seed = 1, squash = 1) {
+        ctx.beginPath();
+        for (let i = 0; i <= 12; i += 1) {
+          const angle = i / 12 * Math.PI * 2;
+          const rr = r * (0.78 + rand(seed + i) * 0.34);
+          const px = x + Math.cos(angle) * rr;
+          const py = y + Math.sin(angle) * rr * squash;
+          if (i === 0) ctx.moveTo(px, py);
+          else ctx.lineTo(px, py);
+        }
+        ctx.closePath();
+      }
+
+      function drawBlob(x, y, r, color, seed = 1, squash = 1) {
+        traceBlobPath(x, y, r, seed, squash);
+        ctx.fillStyle = color;
+        ctx.fill();
+      }
+
+      function drawOutlinedBlob(x, y, r, fill, stroke, seed = 1, squash = 1, lineWidth = 5) {
+        traceBlobPath(x, y, r, seed, squash);
+        ctx.fillStyle = fill;
+        ctx.fill();
+        ctx.strokeStyle = stroke;
+        ctx.lineWidth = lineWidth;
+        ctx.lineJoin = "round";
+        ctx.stroke();
+      }
+
+      function drawCellModule(x, y, r, fill, core, seed, rotation = 0) {
+        ctx.save();
+        ctx.translate(x, y);
+        ctx.rotate(rotation);
+        drawOutlinedBlob(0, 0, r, fill, "rgba(6, 13, 8, 0.88)", seed, 0.78, 4);
+        ctx.fillStyle = core;
+        ctx.shadowColor = core;
+        ctx.shadowBlur = 10;
+        ctx.beginPath();
+        ctx.ellipse(0, 0, r * 0.36, r * 0.52, 0.2, 0, Math.PI * 2);
+        ctx.fill();
+        ctx.shadowBlur = 0;
+        ctx.restore();
+      }
+
+      function drawBackground() {
+        const w = state.width;
+        const h = state.height;
+        const t = state.time;
+        const camX = state.camera.x;
+        const camY = state.camera.y;
+        const palette = currentMap().background;
+
+        const sky = ctx.createLinearGradient(0, 0, 0, h);
+        sky.addColorStop(0, palette[0]);
+        sky.addColorStop(0.3, palette[1]);
+        sky.addColorStop(0.64, palette[2]);
+        sky.addColorStop(1, palette[3]);
+        ctx.fillStyle = sky;
+        ctx.fillRect(0, 0, w, h);
+
+        ctx.save();
+        ctx.globalAlpha = 0.33;
+        for (let i = 0; i < 18; i += 1) {
+          const x = ((rand(i) * 1800 - camX * 0.08 + t * 8) % (w + 500)) - 250;
+          const y = h * (0.14 + rand(i + 20) * 0.68) - camY * 0.035;
+          const g = ctx.createRadialGradient(x, y, 10, x, y, 90 + rand(i + 2) * 110);
+          g.addColorStop(0, "rgba(255, 241, 184, 0.22)");
+          g.addColorStop(1, "rgba(255, 241, 184, 0)");
+          ctx.fillStyle = g;
+          ctx.fillRect(x - 180, y - 180, 360, 360);
+        }
+        ctx.restore();
+
+        ctx.save();
+        ctx.translate(-camX * 0.14, -camY * 0.04);
+        for (let i = -2; i < 9; i += 1) {
+          const baseX = i * 410 + 80;
+          drawBranch([
+            [baseX, h + 80],
+            [baseX + 90, h * 0.72],
+            [baseX + 42, h * 0.4],
+            [baseX + 180, -80],
+          ], 28 + rand(i + 2) * 20, "rgba(61, 29, 17, 0.34)");
+          drawBranch([
+            [baseX + 40, h * 0.58],
+            [baseX + 250, h * 0.36],
+            [baseX + 520, h * 0.22],
+          ], 22, "rgba(61, 29, 17, 0.3)");
+        }
+        ctx.restore();
+
+        ctx.save();
+        ctx.translate(-camX * 0.34, -camY * 0.11);
+        for (let i = -1; i < 12; i += 1) {
+          const baseX = i * 330 + 20;
+          const lean = rand(i) * 190 - 70;
+          drawBranch([
+            [baseX, h + 160],
+            [baseX + lean * 0.28, h * 0.7],
+            [baseX + lean, h * 0.35],
+            [baseX + lean * 1.25, -120],
+          ], 18 + rand(i + 8) * 14, "rgba(45, 20, 14, 0.54)");
+          drawBranch([
+            [baseX + lean * 0.45, h * 0.5],
+            [baseX + 180, h * 0.34],
+            [baseX + 390, h * 0.28],
+          ], 13, "rgba(45, 20, 14, 0.48)");
+        }
+        ctx.restore();
+
+        ctx.save();
+        ctx.translate(-camX * 0.62, -camY * 0.17);
+        for (let i = -2; i < 16; i += 1) {
+          const x = i * 260 + rand(i + 40) * 90;
+          const y = h * (0.72 + rand(i + 50) * 0.2);
+          drawBlob(x, y, 100 + rand(i) * 90, "rgba(52, 26, 22, 0.5)", i + 70, 0.44);
+        }
+        ctx.restore();
+
+        for (const spore of state.spores) {
+          const x = ((spore.x - camX * spore.speed + Math.sin(t * 0.7 + spore.x) * 18) % (w + 80) + w + 80) % (w + 80) - 40;
+          const y = ((spore.y - camY * 0.12 + Math.cos(t * 0.6 + spore.y) * 12) % (h + 60) + h + 60) % (h + 60) - 30;
+          ctx.fillStyle = `rgba(255, 235, 151, ${spore.alpha})`;
+          ctx.beginPath();
+          ctx.arc(x, y, spore.r, 0, Math.PI * 2);
+          ctx.fill();
+        }
+      }
+
+      function drawWorldGround() {
+        ctx.save();
+        ctx.translate(-state.camera.x, -state.camera.y);
+
+        ctx.fillStyle = "rgba(7, 8, 18, 0.92)";
+        ctx.fillRect(0, 0, state.world.width, state.world.height);
+
+        if (state.maze) {
+          const path = [...state.maze.corridors, ...state.maze.rooms];
+          for (let i = 0; i < 180; i += 1) {
+            const x = rand(i + 1800) * state.world.width;
+            const y = rand(i + 1900) * state.world.height;
+            const r = 24 + rand(i + 1910) * 34;
+            ctx.strokeStyle = "rgba(70, 45, 114, 0.16)";
+            ctx.lineWidth = 2;
+            ctx.beginPath();
+            ctx.ellipse(x, y, r, r * (0.58 + rand(i + 1920) * 0.36), rand(i + 1930) * Math.PI, 0, Math.PI * 2);
+            ctx.stroke();
+          }
+
+          for (const rect of path) {
+            ctx.shadowColor = "rgba(33, 161, 255, 0.24)";
+            ctx.shadowBlur = 28;
+            ctx.fillStyle = "rgba(12, 31, 46, 0.9)";
+            ctx.beginPath();
+            ctx.roundRect(rect.x - 20, rect.y - 20, rect.w + 40, rect.h + 40, 58);
+            ctx.fill();
+            ctx.shadowBlur = 0;
+
+            ctx.strokeStyle = "rgba(142, 31, 58, 0.86)";
+            ctx.lineWidth = 20;
+            ctx.beginPath();
+            ctx.roundRect(rect.x - 8, rect.y - 8, rect.w + 16, rect.h + 16, 48);
+            ctx.stroke();
+
+            const g = ctx.createLinearGradient(rect.x, rect.y, rect.x + rect.w * 0.35, rect.y + rect.h);
+            g.addColorStop(0, "rgba(66, 138, 39, 0.88)");
+            g.addColorStop(0.48, "rgba(31, 92, 40, 0.9)");
+            g.addColorStop(1, "rgba(13, 46, 35, 0.96)");
+            ctx.fillStyle = g;
+            ctx.beginPath();
+            ctx.roundRect(rect.x, rect.y, rect.w, rect.h, 36);
+            ctx.fill();
+
+            ctx.strokeStyle = "rgba(151, 255, 70, 0.16)";
+            ctx.lineWidth = 3;
+            ctx.beginPath();
+            ctx.roundRect(rect.x + 8, rect.y + 8, rect.w - 16, rect.h - 16, 28);
+            ctx.stroke();
+          }
+
+          for (const room of state.maze.rooms) {
+            const glow = ctx.createRadialGradient(room.cx, room.cy, 20, room.cx, room.cy, room.w * 0.46);
+            glow.addColorStop(0, "rgba(173, 255, 57, 0.24)");
+            glow.addColorStop(0.52, "rgba(40, 185, 62, 0.1)");
+            glow.addColorStop(1, "rgba(0, 0, 0, 0)");
+            ctx.fillStyle = glow;
+            ctx.beginPath();
+            ctx.ellipse(room.cx, room.cy, room.w * 0.42, room.h * 0.37, 0, 0, Math.PI * 2);
+            ctx.fill();
+
+            for (let i = 0; i < 8; i += 1) {
+              const a = i / 8 * Math.PI * 2 + rand(i + room.cx) * 0.25;
+              const sx = room.cx + Math.cos(a) * room.w * 0.08;
+              const sy = room.cy + Math.sin(a) * room.h * 0.08;
+              const ex = room.cx + Math.cos(a) * room.w * (0.32 + rand(i + room.cy) * 0.08);
+              const ey = room.cy + Math.sin(a) * room.h * (0.28 + rand(i + room.cy + 8) * 0.08);
+              drawBranch([[sx, sy], [(sx + ex) / 2 + Math.sin(a) * 42, (sy + ey) / 2 + Math.cos(a) * 32], [ex, ey]], 7, "rgba(170, 70, 35, 0.34)");
+              drawBranch([[sx, sy], [(sx + ex) / 2, (sy + ey) / 2], [ex, ey]], 2.5, "rgba(216, 255, 114, 0.16)");
+            }
+          }
+
+          for (let i = 0; i < 170; i += 1) {
+            const room = state.maze.rooms[i % state.maze.rooms.length];
+            const x = room.x + rand(i + 400) * room.w;
+            const y = room.y + rand(i + 430) * room.h;
+            const red = rand(i + 460) > 0.44;
+            const color = red ? "rgba(215, 44, 54, 0.42)" : "rgba(111, 255, 65, 0.22)";
+            drawBlob(x, y, 10 + rand(i + 470) * 24, color, i + 480, 0.52);
+          }
+        }
+
+        ctx.restore();
+      }
+
+      function drawOrganicFrame() {
+        const w = state.width;
+        const h = state.height;
+        ctx.save();
+
+        const vignette = ctx.createRadialGradient(w / 2, h / 2, h * 0.26, w / 2, h / 2, h * 0.82);
+        vignette.addColorStop(0, "rgba(0, 0, 0, 0)");
+        vignette.addColorStop(0.72, "rgba(72, 18, 10, 0.12)");
+        vignette.addColorStop(1, "rgba(0, 0, 0, 0.52)");
+        ctx.fillStyle = vignette;
+        ctx.fillRect(0, 0, w, h);
+
+        ctx.translate(-state.camera.x * 0.94, -state.camera.y * 0.02);
+        for (let i = -3; i < Math.ceil(w / 92) + 8; i += 1) {
+          const x = i * 92 + rand(i + 200) * 24;
+          drawBlob(x, 32 + Math.sin(i) * 10, 46 + rand(i + 210) * 26, "rgba(186, 37, 25, 0.72)", i + 220, 0.45);
+          drawBlob(x + 24, 70, 38 + rand(i + 230) * 26, "rgba(105, 62, 25, 0.64)", i + 240, 0.62);
+          drawBlob(x, h - 18 + Math.sin(i * 1.7) * 12, 54 + rand(i + 250) * 31, "rgba(200, 39, 24, 0.76)", i + 260, 0.5);
+        }
+        ctx.restore();
+
+        ctx.save();
+        ctx.globalAlpha = 0.76;
+        for (let i = -1; i < Math.ceil(h / 66) + 2; i += 1) {
+          drawBlob(0 + Math.sin(i) * 8, i * 66 + 18, 48 + rand(i + 300) * 20, "rgba(17, 102, 128, 0.72)", i + 310, 0.9);
+          drawBlob(w + Math.cos(i) * 9, i * 66 + 30, 48 + rand(i + 330) * 22, "rgba(19, 88, 132, 0.72)", i + 340, 0.9);
+        }
+        ctx.restore();
+
+        ctx.strokeStyle = "rgba(111, 24, 12, 0.72)";
+        ctx.lineWidth = 18;
+        ctx.beginPath();
+        ctx.ellipse(w / 2, h / 2, w * 0.56, h * 0.55, 0, 0, Math.PI * 2);
+        ctx.stroke();
+        ctx.restore();
+      }
+
+      function drawPlayer() {
+        const p = state.player;
+        const s = worldToScreen(p.x, p.y);
+        const hurtBlink = p.invulnerable > 0 && Math.floor(state.time * 18) % 2 === 0;
+        if (hurtBlink) return;
+
+        ctx.save();
+        ctx.translate(s.x, s.y);
+        ctx.rotate(p.aim);
+
+        ctx.fillStyle = "rgba(0, 0, 0, 0.32)";
+        ctx.beginPath();
+        ctx.ellipse(-8, 40, 58, 15, 0, 0, Math.PI * 2);
+        ctx.fill();
+
+        const pulse = Math.sin(state.time * 6) * 0.5 + 0.5;
+        const shellGlow = ctx.createRadialGradient(-8, -2, 4, -8, -2, 62);
+        shellGlow.addColorStop(0, "rgba(21, 70, 24, 0.98)");
+        shellGlow.addColorStop(0.72, "rgba(11, 43, 22, 0.98)");
+        shellGlow.addColorStop(1, "rgba(2, 14, 7, 0.98)");
+
+        const tailSwing = Math.sin(p.wing) * 16;
+        ctx.lineCap = "round";
+
+        ctx.strokeStyle = "rgba(74, 22, 92, 0.92)";
+        ctx.lineWidth = 12;
+        for (const side of [-1, 1]) {
+          ctx.beginPath();
+          ctx.moveTo(-22, side * 22);
+          ctx.quadraticCurveTo(-72, side * (44 + tailSwing * 0.12), -118, side * (38 + tailSwing * 0.42));
+          ctx.stroke();
+          ctx.strokeStyle = "rgba(255, 102, 222, 0.42)";
+          ctx.lineWidth = 4;
+          ctx.stroke();
+          ctx.strokeStyle = "rgba(74, 22, 92, 0.92)";
+          ctx.lineWidth = 12;
+        }
+
+        ctx.strokeStyle = "rgba(54, 175, 53, 0.9)";
+        ctx.lineWidth = 10;
+        for (const a of [-0.45, 0.45]) {
+          const len = 78 + state.talentLevels.damage * 7;
+          ctx.beginPath();
+          ctx.moveTo(20, Math.sin(a) * 24);
+          ctx.quadraticCurveTo(46, Math.sin(a) * 42, len, Math.sin(a) * 54);
+          ctx.stroke();
+          ctx.strokeStyle = "rgba(255, 194, 58, 0.78)";
+          ctx.lineWidth = 4;
+          ctx.stroke();
+          ctx.strokeStyle = "rgba(54, 175, 53, 0.9)";
+          ctx.lineWidth = 10;
+          drawCellModule(len + 8, Math.sin(a) * 54, 15, "rgba(137, 255, 45, 0.92)", "#12351a", 880 + a * 100, a);
+        }
+
+        ctx.strokeStyle = "rgba(188, 86, 24, 0.82)";
+        ctx.lineWidth = 8;
+        ctx.beginPath();
+        ctx.moveTo(-8, -32);
+        ctx.quadraticCurveTo(10, -66 - pulse * 9, 38, -86 - pulse * 7);
+        ctx.stroke();
+        drawCellModule(42, -92 - pulse * 5, 15, "rgba(194, 31, 24, 0.94)", "#ffcf4d", 710, -0.18);
+
+        ctx.shadowColor = "#95ff2f";
+        ctx.shadowBlur = 18 + p.regenPulse * 42;
+        drawOutlinedBlob(-8, -2, 44 + pulse * 2, shellGlow, "rgba(4, 12, 8, 0.96)", 608, 1.06, 7);
+        ctx.shadowBlur = 0;
+
+        for (let i = 0; i < 10; i += 1) {
+          const a = i / 10 * Math.PI * 2 + state.time * 0.04;
+          const inner = 10;
+          const outer = 36;
+          ctx.strokeStyle = i % 2 === 0 ? "rgba(255, 172, 35, 0.46)" : "rgba(94, 255, 56, 0.28)";
+          ctx.lineWidth = 3;
+          ctx.beginPath();
+          ctx.moveTo(-8 + Math.cos(a) * inner, -2 + Math.sin(a) * inner);
+          ctx.lineTo(-8 + Math.cos(a) * outer, -2 + Math.sin(a) * outer);
+          ctx.stroke();
+        }
+
+        const modules = [
+          [16, -28, 13, "rgba(45, 198, 255, 0.9)", "#041b30", 0.28],
+          [23, 16, 13, "rgba(255, 210, 69, 0.9)", "#2ac6ff", -0.18],
+          [-29, 19, 13 + state.talentLevels.vitality, "rgba(255, 80, 205, 0.92)", "#d8ff72", 0.36],
+          [-32, -19, 10, "rgba(149, 255, 47, 0.9)", "#09260e", -0.4],
+        ];
+        modules.forEach(([mx, my, mr, fill, core, rot], index) => {
+          drawCellModule(mx, my, mr, fill, core, 620 + index * 17, rot);
+        });
+
+        ctx.fillStyle = "#2ac6ff";
+        ctx.shadowColor = "#2ac6ff";
+        ctx.shadowBlur = 18;
+        ctx.beginPath();
+        for (let i = 0; i < 7; i += 1) {
+          const a = i / 7 * Math.PI * 2 + state.time * 0.8;
+          ctx.ellipse(-8 + Math.cos(a) * 9, -2 + Math.sin(a) * 9, 4, 7, a, 0, Math.PI * 2);
+        }
+        ctx.fill();
+        ctx.shadowBlur = 0;
+
+        ctx.strokeStyle = "rgba(216, 255, 114, 0.94)";
+        ctx.lineWidth = 7;
+        ctx.beginPath();
+        ctx.moveTo(30, 0);
+        ctx.quadraticCurveTo(54, Math.sin(state.time * 12) * 4, 80, 0);
+        ctx.stroke();
+        ctx.fillStyle = "rgba(216, 255, 114, 0.9)";
+        ctx.beginPath();
+        ctx.arc(82, 0, 6 + pulse * 2, 0, Math.PI * 2);
+        ctx.fill();
+        ctx.restore();
+      }
+
+      function drawEnemyHealth(enemy) {
+        const hpWidth = enemy.radius * (enemy.boss ? 3.1 : 2.05);
+        const y = -enemy.radius - (enemy.boss ? 28 : 17);
+        ctx.fillStyle = "rgba(7, 4, 8, 0.62)";
+        ctx.fillRect(-hpWidth / 2, y, hpWidth, 6);
+        ctx.fillStyle = enemy.boss ? "#f13a22" : "#95ff2f";
+        ctx.shadowColor = enemy.boss ? "#f13a22" : "#95ff2f";
+        ctx.shadowBlur = 9;
+        ctx.fillRect(-hpWidth / 2, y, hpWidth * Math.max(0, enemy.hp / enemy.maxHp), 6);
+        ctx.shadowBlur = 0;
+        ctx.strokeStyle = "rgba(255, 241, 184, 0.28)";
+        ctx.lineWidth = 1;
+        ctx.strokeRect(-hpWidth / 2, y, hpWidth, 6);
+      }
+
+      function drawEnemy(enemy) {
+        const s = worldToScreen(enemy.x, enemy.y);
+        const pulse = Math.sin(state.time * 7 + enemy.phase) * 0.5 + 0.5;
+        ctx.save();
+        ctx.translate(s.x, s.y);
+
+        ctx.fillStyle = "rgba(0, 0, 0, 0.32)";
+        ctx.beginPath();
+        ctx.ellipse(0, enemy.radius + 13, enemy.radius * 1.25, 9, 0, 0, Math.PI * 2);
+        ctx.fill();
+
+        if (enemy.kind === "parasite") {
+          ctx.rotate(Math.sin(state.time + enemy.phase) * 0.25);
+          ctx.shadowColor = "#ff3159";
+          ctx.shadowBlur = 18;
+          for (let i = 0; i < 7; i += 1) {
+            const y = (i - 3) * enemy.radius * 0.45;
+            const r = enemy.radius * (0.72 - Math.abs(i - 3) * 0.045);
+            drawOutlinedBlob(Math.sin(i + state.time * 3) * 10, y, r, enemy.hurt > 0 ? "#ffe45c" : "#4b174e", "rgba(13, 4, 20, 0.94)", enemy.phase * 100 + i, 0.72, 5);
+            ctx.fillStyle = "rgba(255, 92, 68, 0.95)";
+            ctx.beginPath();
+            ctx.arc(18, y - 6, 7, 0, Math.PI * 2);
+            ctx.fill();
+          }
+          ctx.shadowBlur = 0;
+          ctx.strokeStyle = "rgba(255, 92, 68, 0.78)";
+          ctx.lineWidth = 8;
+          for (const side of [-1, 1]) {
+            ctx.beginPath();
+            ctx.moveTo(-enemy.radius * 0.2, side * enemy.radius * 0.4);
+            ctx.quadraticCurveTo(-enemy.radius * 1.1, side * enemy.radius * 0.75, -enemy.radius * 1.55, side * enemy.radius * 1.1);
+            ctx.stroke();
+          }
+          ctx.fillStyle = "#fff1b8";
+          ctx.shadowColor = "#fff1b8";
+          ctx.shadowBlur = 15;
+          ctx.beginPath();
+          ctx.arc(0, 0, 11 + pulse * 4, 0, Math.PI * 2);
+          ctx.fill();
+          ctx.shadowBlur = 0;
+          drawEnemyHealth(enemy);
+          ctx.restore();
+          return;
+        }
+
+        if (enemy.kind === "tail") {
+          ctx.rotate(Math.sin(state.time * 1.5 + enemy.phase) * 0.42);
+          ctx.shadowColor = "#b020ca";
+          ctx.shadowBlur = 12;
+          for (let i = 0; i < 5; i += 1) {
+            const y = i * enemy.radius * 0.46;
+            drawOutlinedBlob(Math.sin(i + enemy.phase) * 7, y, enemy.radius * (0.78 - i * 0.06), enemy.hurt > 0 ? "#ffe45c" : "#401547", "rgba(10, 4, 15, 0.92)", enemy.phase * 120 + i, 0.82, 4);
+            ctx.fillStyle = "rgba(255, 103, 74, 0.95)";
+            ctx.beginPath();
+            ctx.arc(enemy.radius * 0.42, y - 3, 6, 0, Math.PI * 2);
+            ctx.fill();
+          }
+          ctx.shadowBlur = 0;
+          ctx.strokeStyle = "rgba(255, 101, 218, 0.55)";
+          ctx.lineWidth = 4;
+          ctx.beginPath();
+          ctx.moveTo(-enemy.radius * 0.65, enemy.radius * 0.1);
+          ctx.quadraticCurveTo(-enemy.radius * 1.18, enemy.radius * 0.9, -enemy.radius * 0.34, enemy.radius * 2.2);
+          ctx.stroke();
+          drawEnemyHealth(enemy);
+          ctx.restore();
+          return;
+        }
+
+        const fill = enemy.hurt > 0 ? "#ffe45c" : "rgba(230, 235, 221, 0.92)";
+        drawOutlinedBlob(0, 0, enemy.radius, fill, "rgba(34, 35, 40, 0.86)", enemy.phase * 100, 0.86, 4);
+
+        ctx.fillStyle = "rgba(255, 241, 184, 0.72)";
+        for (let i = 0; i < 5; i += 1) {
+          const a = i / 5 * Math.PI * 2 + pulse * 0.25;
+          ctx.beginPath();
+          ctx.ellipse(Math.cos(a) * enemy.radius * 0.64, Math.sin(a) * enemy.radius * 0.42, enemy.radius * 0.28, enemy.radius * 0.13, a, 0, Math.PI * 2);
+          ctx.fill();
+        }
+
+        ctx.fillStyle = "#f13a22";
+        ctx.shadowColor = "#f13a22";
+        ctx.shadowBlur = 10;
+        ctx.beginPath();
+        ctx.arc(enemy.radius * 0.16, -enemy.radius * 0.1, 5, 0, Math.PI * 2);
+        ctx.arc(-enemy.radius * 0.2, enemy.radius * 0.08, 4, 0, Math.PI * 2);
+        ctx.arc(enemy.radius * 0.02, enemy.radius * 0.18, 3.5, 0, Math.PI * 2);
+        ctx.fill();
+        ctx.shadowBlur = 0;
+
+        drawEnemyHealth(enemy);
+        ctx.restore();
+      }
+
+      function drawBullet(bullet) {
+        const s = worldToScreen(bullet.x, bullet.y);
+        const prev = worldToScreen(bullet.prevX ?? bullet.x, bullet.prevY ?? bullet.y);
+        const angle = Math.atan2(bullet.vy, bullet.vx);
+        const trailColor = bullet.kind === "pierce" ? "#ff70d2" : "#95ff2f";
+
+        ctx.save();
+        ctx.strokeStyle = trailColor;
+        ctx.shadowColor = trailColor;
+        ctx.shadowBlur = bullet.kind === "pierce" ? 22 : 18;
+        ctx.lineWidth = bullet.kind === "pierce" ? 8 : 6;
+        ctx.lineCap = "round";
+        ctx.globalAlpha = 0.58;
+        ctx.beginPath();
+        ctx.moveTo(prev.x, prev.y);
+        ctx.lineTo(s.x, s.y);
+        ctx.stroke();
+        ctx.globalAlpha = 1;
+        ctx.restore();
+
+        ctx.save();
+        ctx.translate(s.x, s.y);
+        ctx.rotate(angle);
+        if (bullet.kind === "pierce") {
+          ctx.shadowColor = "#ff70d2";
+          ctx.shadowBlur = 24;
+          ctx.strokeStyle = "#ff70d2";
+          ctx.lineWidth = 7;
+          ctx.beginPath();
+          ctx.moveTo(-30, 0);
+          ctx.quadraticCurveTo(-5, -9, 38, 0);
+          ctx.stroke();
+          ctx.strokeStyle = "rgba(255, 241, 184, 0.9)";
+          ctx.lineWidth = 2;
+          ctx.beginPath();
+          ctx.moveTo(-18, -1);
+          ctx.lineTo(34, -1);
+          ctx.stroke();
+          ctx.fillStyle = "#fff1b8";
+          ctx.beginPath();
+          ctx.arc(34, 0, 6, 0, Math.PI * 2);
+          ctx.fill();
+        } else {
+          ctx.shadowColor = "#95ff2f";
+          ctx.shadowBlur = 24;
+          ctx.fillStyle = "#95ff2f";
+          ctx.beginPath();
+          ctx.roundRect(-15, -5, 32, 10, 5);
+          ctx.fill();
+          ctx.strokeStyle = "rgba(6, 18, 7, 0.86)";
+          ctx.lineWidth = 2;
+          ctx.stroke();
+          ctx.shadowBlur = 0;
+          ctx.fillStyle = "rgba(255, 241, 184, 0.8)";
+          ctx.fillRect(3, -2, 13, 4);
+        }
+        ctx.restore();
+      }
+
+      function drawParticle(bit) {
+        const s = worldToScreen(bit.x, bit.y);
+        const alpha = clamp(bit.life / bit.maxLife, 0, 1);
+        ctx.save();
+        ctx.globalAlpha = alpha;
+        ctx.fillStyle = bit.color;
+        ctx.shadowColor = bit.color;
+        ctx.shadowBlur = 12 * alpha;
+        ctx.beginPath();
+        ctx.arc(s.x, s.y, bit.size * alpha, 0, Math.PI * 2);
+        ctx.fill();
+        ctx.restore();
+      }
+
+      function drawDamageText(item) {
+        const s = worldToScreen(item.x, item.y);
+        const alpha = clamp(item.life / item.maxLife, 0, 1);
+        ctx.save();
+        ctx.globalAlpha = alpha;
+        ctx.font = "950 18px Avenir Next, sans-serif";
+        ctx.textAlign = "center";
+        ctx.lineWidth = 5;
+        ctx.strokeStyle = "rgba(8, 4, 6, 0.92)";
+        ctx.fillStyle = item.color;
+        ctx.shadowColor = item.color;
+        ctx.shadowBlur = 12 * alpha;
+        ctx.strokeText(String(item.value), s.x, s.y);
+        ctx.fillText(String(item.value), s.x, s.y);
+        ctx.restore();
+      }
+
+      function drawReticle() {
+        const x = state.mouse.x;
+        const y = state.mouse.y;
+        ctx.save();
+        ctx.strokeStyle = "rgba(255, 241, 184, 0.86)";
+        ctx.lineWidth = 2;
+        ctx.beginPath();
+        ctx.arc(x, y, 18 + Math.sin(state.time * 5) * 1.5, 0.1, 1.0);
+        ctx.arc(x, y, 18, 1.68, 2.58);
+        ctx.arc(x, y, 18, 3.22, 4.12);
+        ctx.arc(x, y, 18, 4.78, 5.68);
+        ctx.stroke();
+        ctx.fillStyle = "#fff1b8";
+        ctx.beginPath();
+        ctx.arc(x, y, 2.5, 0, Math.PI * 2);
+        ctx.fill();
+        ctx.restore();
+      }
+
+      function drawStatusOverlay(title, subtitle, accent) {
+        const w = Math.min(460, state.width - 36);
+        const h = 142;
+        const x = (state.width - w) / 2;
+        const y = (state.height - h) / 2;
+
+        ctx.save();
+        ctx.fillStyle = "rgba(12, 4, 4, 0.54)";
+        ctx.fillRect(0, 0, state.width, state.height);
+
+        ctx.shadowColor = "rgba(0, 0, 0, 0.42)";
+        ctx.shadowBlur = 34;
+        ctx.fillStyle = "rgba(31, 12, 10, 0.88)";
+        ctx.strokeStyle = "rgba(255, 241, 184, 0.3)";
+        ctx.lineWidth = 1;
+        ctx.beginPath();
+        ctx.roundRect(x, y, w, h, 8);
+        ctx.fill();
+        ctx.stroke();
+        ctx.shadowBlur = 0;
+
+        ctx.fillStyle = accent;
+        ctx.fillRect(x + 22, y + 24, w - 44, 4);
+
+        ctx.fillStyle = "#fff1b8";
+        ctx.textAlign = "center";
+        ctx.font = "900 34px Avenir Next, sans-serif";
+        ctx.fillText(title, state.width / 2, y + 76);
+        ctx.font = "800 14px Avenir Next, sans-serif";
+        ctx.fillStyle = "rgba(255, 241, 184, 0.78)";
+        ctx.fillText(subtitle, state.width / 2, y + 107);
+        ctx.restore();
+      }
+
+      function updateInput(dt) {
+        const p = state.player;
+        let dx = 0;
+        let dy = 0;
+        if (state.keys.has("up")) dy -= 1;
+        if (state.keys.has("down")) dy += 1;
+        if (state.keys.has("left")) dx -= 1;
+        if (state.keys.has("right")) dx += 1;
+
+        const length = Math.hypot(dx, dy);
+        if (length > 0 && p.hp > 0) {
+          state.engaged = true;
+          dx /= length;
+          dy /= length;
+          p.vx += dx * movePower() * dt;
+          p.vy += dy * movePower() * dt;
+          p.wing += dt * 16;
+        } else {
+          p.wing += dt * 5;
+        }
+
+        p.vx *= Math.pow(0.035, dt);
+        p.vy *= Math.pow(0.035, dt);
+        const nextX = clamp(p.x + p.vx * dt, 70, state.world.width - 70);
+        const nextY = clamp(p.y + p.vy * dt, 120, state.world.height - 170);
+        if (isWalkable(nextX, p.y, p.radius * 0.72)) {
+          p.x = nextX;
+        } else {
+          p.vx = 0;
+        }
+        if (isWalkable(p.x, nextY, p.radius * 0.72)) {
+          p.y = nextY;
+        } else {
+          p.vy = 0;
+        }
+
+        p.aim = Math.atan2(state.mouse.worldY - p.y, state.mouse.worldX - p.x);
+        if (state.gate && state.chapterCleared) {
+          const nextRoom = state.currentChapterIndex < chapterFlow.length - 1 ? chapterRoom(state.currentChapterIndex + 1) : null;
+          const reachedNextRoom = nextRoom && rectContains(nextRoom, p.x, p.y, p.radius);
+          const reachedExit = !nextRoom && rectContains(gateRect(), p.x, p.y, p.radius * 0.4);
+          if (reachedNextRoom || reachedExit) {
+            advanceChapter();
+            return;
+          }
+        }
+        if (state.mouse.down) shoot();
+      }
+
+      function updateBullets(dt) {
+        for (let i = state.bullets.length - 1; i >= 0; i -= 1) {
+          const bullet = state.bullets[i];
+          bullet.prevX = bullet.x;
+          bullet.prevY = bullet.y;
+          bullet.x += bullet.vx * dt;
+          bullet.y += bullet.vy * dt;
+          bullet.life -= dt;
+
+          let hit = false;
+          for (const enemy of state.enemies) {
+            const distance = Math.hypot(enemy.x - bullet.x, enemy.y - bullet.y);
+            if (distance < enemy.radius + bullet.radius) {
+              enemy.hp -= bullet.damage;
+              enemy.hurt = 0.12;
+              enemy.vx += bullet.vx * 0.16;
+              enemy.vy += bullet.vy * 0.16;
+              const hitColor = bullet.kind === "pierce" ? "#ff70d2" : "#95ff2f";
+              emit(bullet.x, bullet.y, bullet.kind === "pierce" ? 18 : 12, hitColor, 0.95);
+              popDamage(enemy.x, enemy.y - enemy.radius * 0.72, Math.round(bullet.damage), hitColor);
+              state.player.hitChain += 1;
+              if (state.talentLevels.vitality > 0 && state.player.hitChain >= 10) {
+                state.player.hitChain = 0;
+                state.player.regenPulse = 0.5;
+                state.player.hp = Math.min(maxHealth(), state.player.hp + state.talentLevels.vitality * 3);
+                emit(state.player.x, state.player.y, 28, "#d8ff72", 0.85);
+              }
+              state.shake = Math.max(state.shake, 3);
+              hit = bullet.kind !== "pierce";
+              break;
+            }
+          }
+
+          if (hit || bullet.life <= 0 || bullet.x < 0 || bullet.x > state.world.width || bullet.y < 0 || bullet.y > state.world.height) {
+            state.bullets.splice(i, 1);
+          }
+        }
+      }
+
+      function updateEnemies(dt) {
+        const p = state.player;
+        for (let i = state.enemies.length - 1; i >= 0; i -= 1) {
+          const enemy = state.enemies[i];
+          const dx = p.x - enemy.x;
+          const dy = p.y - enemy.y;
+          const distance = Math.hypot(dx, dy) || 1;
+          const nx = dx / distance;
+          const ny = dy / distance;
+
+          if (state.engaged) {
+            enemy.vx += nx * enemy.speed * dt * 3.2;
+            enemy.vy += ny * enemy.speed * dt * 3.2;
+          } else {
+            enemy.vx += Math.sin(state.time * 1.4 + enemy.phase) * enemy.speed * dt * 0.22;
+            enemy.vy += Math.cos(state.time * 1.1 + enemy.phase) * enemy.speed * dt * 0.12;
+          }
+          enemy.vx *= Math.pow(0.08, dt);
+          enemy.vy *= Math.pow(0.08, dt);
+          enemy.x += enemy.vx * dt;
+          enemy.y += enemy.vy * dt;
+          const room = chapterRoom();
+          enemy.x = clamp(enemy.x, room.x + 50, room.x + room.w - 50);
+          enemy.y = clamp(enemy.y, room.y + 70, room.y + room.h - 70);
+          enemy.bite = Math.max(0, enemy.bite - dt);
+          enemy.hurt = Math.max(0, enemy.hurt - dt);
+
+          if (state.engaged && distance < enemy.radius + p.radius && enemy.bite <= 0 && p.invulnerable <= 0 && p.hp > 0) {
+            p.hp = Math.max(0, p.hp - (enemy.brute ? 18 : 11));
+            p.vx -= nx * 420;
+            p.vy -= ny * 420;
+            p.invulnerable = 0.72;
+            enemy.bite = 0.58;
+            state.shake = 12;
+            emit(p.x, p.y, 18, "#f13a22", 1);
+          }
+
+          if (enemy.hp <= 0) {
+            emit(enemy.x, enemy.y, enemy.brute ? 42 : 26, enemy.brute ? "#f13a22" : "#ffcf4d", 1.3);
+            state.enemies.splice(i, 1);
+            state.kills += 1;
+            if (Math.random() > 0.62) {
+              state.pickups.push({ x: enemy.x, y: enemy.y, life: 10, radius: 13 });
+            }
+          }
+        }
+
+        if (!state.chapterCleared && state.totalEnemies > 0 && state.kills >= state.totalEnemies && state.enemies.length === 0) {
+          state.engaged = false;
+          state.shake = 10;
+          openGate();
+        }
+      }
+
+      function updatePickups(dt) {
+        const p = state.player;
+        for (let i = state.pickups.length - 1; i >= 0; i -= 1) {
+          const item = state.pickups[i];
+          item.life -= dt;
+          const distance = Math.hypot(p.x - item.x, p.y - item.y);
+          if (distance < 90) {
+            item.x += (p.x - item.x) * dt * 6;
+            item.y += (p.y - item.y) * dt * 6;
+          }
+          if (distance < p.radius + item.radius) {
+            p.hp = Math.min(maxHealth(), p.hp + 12);
+            emit(item.x, item.y, 16, "#95ff2f", 0.75);
+            state.pickups.splice(i, 1);
+            continue;
+          }
+          if (item.life <= 0) state.pickups.splice(i, 1);
+        }
+      }
+
+      function drawPickups() {
+        for (const item of state.pickups) {
+          const s = worldToScreen(item.x, item.y);
+          const pulse = Math.sin(state.time * 8) * 0.35 + 0.65;
+          ctx.save();
+          ctx.translate(s.x, s.y);
+          ctx.shadowColor = "#95ff2f";
+          ctx.shadowBlur = 16;
+          ctx.fillStyle = `rgba(149, 255, 47, ${pulse})`;
+          ctx.beginPath();
+          ctx.arc(0, 0, item.radius, 0, Math.PI * 2);
+          ctx.fill();
+          ctx.shadowBlur = 0;
+          ctx.fillStyle = "rgba(255, 241, 184, 0.9)";
+          ctx.fillRect(-7, -2, 14, 4);
+          ctx.fillRect(-2, -7, 4, 14);
+          ctx.restore();
+        }
+      }
+
+      function drawGate() {
+        if (!state.gate) return;
+        const gateX = state.gate.cx;
+        const gateY = state.gate.cy;
+        const s = worldToScreen(gateX, gateY);
+        const pulse = Math.sin(state.time * 4) * 0.5 + 0.5;
+        ctx.save();
+        ctx.translate(s.x, s.y);
+
+        if (state.chapterCleared) {
+          ctx.shadowColor = "#95ff2f";
+          ctx.shadowBlur = 18 + pulse * 12;
+          ctx.fillStyle = "rgba(149, 255, 47, 0.18)";
+        } else {
+          ctx.shadowColor = "#f13a22";
+          ctx.shadowBlur = 14;
+          ctx.fillStyle = "rgba(93, 23, 14, 0.58)";
+        }
+
+        ctx.beginPath();
+        ctx.roundRect(-state.gate.w / 2, -state.gate.h / 2, state.gate.w, state.gate.h, 20);
+        ctx.fill();
+        ctx.shadowBlur = 0;
+        ctx.strokeStyle = state.chapterCleared ? "rgba(149, 255, 47, 0.72)" : "rgba(255, 183, 67, 0.56)";
+        ctx.lineWidth = 3;
+        ctx.strokeRect(-state.gate.w / 2 + 3, -state.gate.h / 2 + 3, state.gate.w - 6, state.gate.h - 6);
+
+        ctx.fillStyle = state.chapterCleared ? "#95ff2f" : "#fff1b8";
+        for (let i = -4; i <= 4; i += 1) {
+          ctx.globalAlpha = state.chapterCleared ? 0.25 + pulse * 0.22 : 0.32;
+          ctx.fillRect(-Math.min(15, state.gate.w * 0.34), i * 24, Math.min(30, state.gate.w * 0.68), 4);
+        }
+        ctx.globalAlpha = 1;
+        ctx.strokeStyle = state.chapterCleared ? "rgba(149, 255, 47, 0.48)" : "rgba(241, 58, 34, 0.46)";
+        ctx.beginPath();
+        ctx.moveTo(0, -state.gate.h / 2 - 12);
+        ctx.lineTo(0, state.gate.h / 2 + 12);
+        ctx.stroke();
+
+        ctx.fillStyle = "#fff1b8";
+        ctx.textAlign = "center";
+        ctx.font = "900 13px Avenir Next, sans-serif";
+        ctx.fillText(state.gate.label || "清理后开放", 0, state.gate.h / 2 + 32);
+        ctx.restore();
+      }
+
+      function updateParticles(dt) {
+        for (let i = state.particles.length - 1; i >= 0; i -= 1) {
+          const bit = state.particles[i];
+          bit.x += bit.vx * dt;
+          bit.y += bit.vy * dt;
+          bit.vx *= Math.pow(0.16, dt);
+          bit.vy *= Math.pow(0.16, dt);
+          bit.life -= dt;
+          if (bit.life <= 0) state.particles.splice(i, 1);
+        }
+      }
+
+      function updateDamageTexts(dt) {
+        for (let i = state.damageTexts.length - 1; i >= 0; i -= 1) {
+          const item = state.damageTexts[i];
+          item.y += item.vy * dt;
+          item.vy += 42 * dt;
+          item.life -= dt;
+          if (item.life <= 0) state.damageTexts.splice(i, 1);
+        }
+      }
+
+      function updateCamera(dt) {
+        const p = state.player;
+        const leadX = p.x + p.vx * 0.14;
+        const leadY = p.y + p.vy * 0.1;
+        const targetX = clamp(leadX - state.width * 0.5, 0, Math.max(0, state.world.width - state.width));
+        const targetY = clamp(leadY - state.height * 0.54, 0, Math.max(0, state.world.height - state.height));
+        const follow = 1 - Math.pow(0.001, dt);
+        state.camera.x += (targetX - state.camera.x) * follow;
+        state.camera.y += (targetY - state.camera.y) * follow;
+      }
+
+      function update(dt) {
+        state.time += dt;
+        if (state.mode === "menu") {
+          state.camera.x = (Math.sin(state.time * 0.12) * 0.5 + 0.5) * 260;
+          state.camera.y = 0;
+          return;
+        }
+
+        const p = state.player;
+
+        state.mouse.worldX = state.mouse.x + state.camera.x;
+        state.mouse.worldY = state.mouse.y + state.camera.y;
+        p.fireCooldown = Math.max(0, p.fireCooldown - dt);
+        p.dashCooldown = Math.max(0, p.dashCooldown - dt);
+        p.invulnerable = Math.max(0, p.invulnerable - dt);
+        p.regenPulse = Math.max(0, p.regenPulse - dt);
+        state.shake = Math.max(0, state.shake - dt * 24);
+
+        updateInput(dt);
+        updateBullets(dt);
+        updateEnemies(dt);
+        updatePickups(dt);
+        updateParticles(dt);
+        updateDamageTexts(dt);
+        updateCamera(dt);
+
+        if (p.hp <= 0 && state.keys.has("fire")) {
+          restart();
+        }
+
+        if (state.time - state.lastHud > 0.08) {
+          healthFill.style.transform = `scaleX(${p.hp / maxHealth()})`;
+          waveNode.textContent = String(Math.max(0, state.totalEnemies - state.kills));
+          killsNode.textContent = String(state.kills);
+          dashNode.textContent = String(Math.round((1 - p.dashCooldown / dashCooldownSeconds()) * 100));
+          state.lastHud = state.time;
+        }
+      }
+
+      function draw() {
+        const sx = (Math.random() - 0.5) * state.shake;
+        const sy = (Math.random() - 0.5) * state.shake;
+        ctx.save();
+        ctx.translate(sx, sy);
+
+        drawBackground();
+        if (state.mode === "menu") {
+          drawOrganicFrame();
+          ctx.restore();
+          return;
+        }
+
+        drawWorldGround();
+        drawGate();
+
+        const actors = [
+          ...state.enemies.map((enemy) => ({ type: "enemy", y: enemy.y, item: enemy })),
+          { type: "player", y: state.player.y, item: state.player },
+        ].sort((a, b) => a.y - b.y);
+
+        drawPickups();
+        for (const bullet of state.bullets) drawBullet(bullet);
+        for (const actor of actors) {
+          if (actor.type === "enemy") drawEnemy(actor.item);
+          else drawPlayer();
+        }
+        for (const bit of state.particles) drawParticle(bit);
+        for (const item of state.damageTexts) drawDamageText(item);
+        if (currentChapter().type !== "shop") drawReticle();
+        drawOrganicFrame();
+
+        if (state.player.hp <= 0) {
+          drawStatusOverlay("菌巢吞没了你", "点击或按 J 重新进入战场", "#f13a22");
+        }
+
+        ctx.restore();
+      }
+
+      function restart() {
+        loadChapter();
+      }
+
+      let previous = performance.now();
+      function frame(now) {
+        const dt = Math.min(0.033, (now - previous) / 1000);
+        previous = now;
+        update(dt);
+        draw();
+        requestAnimationFrame(frame);
+      }
+
+      window.addEventListener("resize", resize);
+      window.addEventListener("mousemove", (event) => {
+        state.mouse.x = event.clientX;
+        state.mouse.y = event.clientY;
+      });
+      window.addEventListener("mousedown", (event) => {
+        if (state.mode !== "game") return;
+        state.mouse.x = event.clientX;
+        state.mouse.y = event.clientY;
+        if (state.player.hp <= 0) restart();
+        if (state.chapterCleared || currentChapter().type === "shop") return;
+        state.mouse.down = true;
+      });
+      window.addEventListener("mouseup", () => {
+        state.mouse.down = false;
+      });
+      window.addEventListener("keydown", (event) => {
+        const key = event.key.toLowerCase();
+        if (key === "h" && state.mode === "game") {
+          event.preventDefault();
+          showHome();
+          return;
+        }
+        if (state.mode !== "game") return;
+        const dir = moveKeys.get(key);
+        if (dir) {
+          event.preventDefault();
+          state.keys.add(dir);
+        }
+        if (key === " " || key === "shift") {
+          event.preventDefault();
+          dash();
+        }
+        if (key === "j" || key === "k") {
+          event.preventDefault();
+          if (state.player.hp <= 0) restart();
+          if (state.chapterCleared || currentChapter().type === "shop") return;
+          state.keys.add("fire");
+          state.mouse.down = true;
+        }
+      });
+      window.addEventListener("keyup", (event) => {
+        const key = event.key.toLowerCase();
+        const dir = moveKeys.get(key);
+        if (dir) {
+          event.preventDefault();
+          state.keys.delete(dir);
+        }
+        if (key === "j" || key === "k") {
+          event.preventDefault();
+          state.keys.delete("fire");
+          state.mouse.down = false;
+        }
+      });
+
+      document.querySelectorAll(".pad-button").forEach((button) => {
+        const dir = button.dataset.dir;
+        const hold = (event) => {
+          event.preventDefault();
+          button.classList.add("is-held");
+          state.keys.add(dir);
+        };
+        const release = (event) => {
+          event.preventDefault();
+          button.classList.remove("is-held");
+          state.keys.delete(dir);
+        };
+        button.addEventListener("pointerdown", hold);
+        button.addEventListener("pointerup", release);
+        button.addEventListener("pointercancel", release);
+        button.addEventListener("pointerleave", release);
+      });
+
+      document.querySelectorAll(".action-button").forEach((button) => {
+        const action = button.dataset.action;
+        const hold = (event) => {
+          event.preventDefault();
+          button.classList.add("is-held");
+          if (action === "fire") state.mouse.down = true;
+          if (action === "dash") dash();
+        };
+        const release = (event) => {
+          event.preventDefault();
+          button.classList.remove("is-held");
+          if (action === "fire") state.mouse.down = false;
+        };
+        button.addEventListener("pointerdown", hold);
+        button.addEventListener("pointerup", release);
+        button.addEventListener("pointercancel", release);
+        button.addEventListener("pointerleave", release);
+      });
+
+      startRun.addEventListener("click", () => {
+        startCampaign();
+      });
+
+      shopChoices.addEventListener("click", (event) => {
+        const button = event.target.closest("[data-shop-talent]");
+        if (!button) return;
+        if (!applyTalent(button.dataset.shopTalent)) return;
+        state.shopChoiceTaken = true;
+        hideShop();
+        openGate();
+        renderHome();
+      });
+
+      returnHome.addEventListener("click", () => {
+        showHome();
+      });
+
+      resize();
+      makeSpores();
+      state.mouse.x = state.width * 0.62;
+      state.mouse.y = state.height * 0.46;
+      showHome();
+      requestAnimationFrame(frame);
+    })();
+  </script>
+</body>
+</html>
