@@ -102,29 +102,6 @@
       letter-spacing: 0;
     }
 
-    .intro {
-      margin: 0;
-      max-width: 38rem;
-      color: var(--muted);
-      font-size: 0.96rem;
-      line-height: 1.65;
-    }
-
-    .summary {
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      gap: 12px;
-      margin: 18px 0 12px;
-      color: var(--muted);
-      font-size: 0.88rem;
-    }
-
-    .count {
-      color: var(--ink);
-      font-weight: 800;
-    }
-
     .collection {
       display: grid;
       gap: 12px;
@@ -317,12 +294,7 @@
     <header class="masthead">
       <div class="mark" aria-hidden="true">QTEQPID COLLECTION</div>
       <h1 id="pageTitle">Qteqpid 的更多宝藏 App</h1>
-      <p class="intro" id="pageIntro">这里收集了 Qteqpid 的 17 款 iPhone App 和 Mac 工具。点开任意条目即可前往详情页或下载页面。</p>
     </header>
-
-    <div class="summary" aria-live="polite">
-      <span><span class="count" id="appCount">0</span> <span id="countLabel">款 iPhone App</span></span>
-    </div>
 
     <section class="collection" aria-labelledby="iphoneTitle">
       <div class="section-heading">
@@ -350,8 +322,6 @@
       zh: {
         htmlLang: "zh-CN",
         pageTitle: "Qteqpid 的更多宝藏 App",
-        pageIntro: "这里收集了 Qteqpid 的 17 款 iPhone App 和 Mac 工具。点开任意条目即可前往详情页或下载页面。",
-        countLabel: "款 iPhone App",
         download: "下载",
         open: "查看",
         comingSoon: "待上线",
@@ -366,8 +336,6 @@
       en: {
         htmlLang: "en",
         pageTitle: "More Qteqpid Apps",
-        pageIntro: "A compact collection of 17 Qteqpid iPhone apps and Mac utilities. Open any item for details or downloads.",
-        countLabel: "iPhone apps",
         download: "Get",
         open: "Open",
         comingSoon: "Soon",
@@ -509,10 +477,7 @@
 
     const appList = document.querySelector("#appList");
     const macAppList = document.querySelector("#macAppList");
-    const appCount = document.querySelector("#appCount");
     const pageTitle = document.querySelector("#pageTitle");
-    const pageIntro = document.querySelector("#pageIntro");
-    const countLabel = document.querySelector("#countLabel");
     const iphoneTitle = document.querySelector("#iphoneTitle");
     const iphoneIntro = document.querySelector("#iphoneIntro");
     const macTitle = document.querySelector("#macTitle");
@@ -621,8 +586,6 @@
       document.documentElement.lang = text.htmlLang;
       document.title = text.pageTitle;
       pageTitle.textContent = text.pageTitle;
-      pageIntro.textContent = text.pageIntro;
-      countLabel.textContent = text.countLabel;
       iphoneTitle.textContent = text.iphoneTitle;
       iphoneIntro.textContent = text.iphoneIntro;
       macTitle.textContent = text.macTitle;
@@ -659,7 +622,6 @@
 
     const lang = currentLanguage();
     renderStaticText(lang);
-    appCount.textContent = String(apps.length);
     renderApps(appList, apps, lang);
     renderApps(macAppList, macApps, lang, { action: "open" });
     hydrateCachedImages(appList);
