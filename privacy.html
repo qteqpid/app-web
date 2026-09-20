@@ -48,6 +48,7 @@
             <button class="app-tab" data-app="18" data-hash="softcycle">软记</button>
             <button class="app-tab" data-app="19" data-hash="smth">水木拾光</button>
             <button class="app-tab" data-app="20" data-hash="appstop">App时记</button>
+            <button class="app-tab" data-app="21" data-hash="pinly">pinly</button>
         </div>
         <div id="policy-0" class="policy-section active">
             <p>开心学口算高度重视您的隐私和数据安全。本应用严格遵循以下隐私保护原则：</p>
@@ -368,13 +369,30 @@
             <p class="section-title">联系我们</p>
             <p>如您有任何关于隐私的疑问或建议，请通过开发者邮箱（glloveyp@163.com）与我们联系。我们承诺持续为您提供安全、可靠、无忧的使用体验。</p>
         </div>
+        <div id="policy-21" class="policy-section">
+            <p>Pinly（去哪玩）高度重视您的隐私和数据安全。本应用严格遵循以下隐私保护原则：</p>
+            <p class="section-title">本地数据</p>
+            <p>您在本应用中收藏的城市、景点、美食以及创建的行程、城市安排和每日计划，主要保存在您的本地设备上。核心浏览和行程规划功能无需注册账号或登录。</p>
+            <p class="section-title">联网内容获取</p>
+            <p>为了展示更完整的旅行内容，应用可能会通过网络获取远程图片、城市数据覆盖文件和远程通知配置。这些请求用于更新城市、景点、美食、攻略图和必要通知内容；网络不可用时，应用会优先使用内置数据或已缓存数据。</p>
+            <p class="section-title">外部服务</p>
+            <p>当您主动使用路线、查看更多攻略、更多 App、评分、分享或邮件反馈等功能时，应用可能会打开 Apple Maps、高德地图、百度地图、腾讯地图、Google Maps、Waze、小红书、App Store、Safari、邮件或系统分享面板。相关第三方服务可能会按照其自身隐私政策处理信息。</p>
+            <p class="section-title">权限说明</p>
+            <p>本应用当前核心功能不要求相机、相册、麦克风或定位等敏感系统权限。路线功能会基于地点名称和坐标打开用户选择的地图服务，不需要在应用内获取您的实时位置。</p>
+            <p class="section-title">不收集用户信息</p>
+            <p>本应用不要求账号登录，不主动收集、存储、分析或分享您的姓名、联系方式、精确位置、通讯录等个人信息，也不集成第三方广告或统计分析服务。</p>
+            <p class="section-title">缓存与删除</p>
+            <p>应用可能会在本地缓存远程图片和远程城市数据，以提升加载速度。您可以在应用的设置页面清除缓存；删除应用也会移除保存在设备上的本地收藏和行程数据。</p>
+            <p class="section-title">联系我们</p>
+            <p>如您有任何关于隐私的疑问或建议，请通过开发者邮箱（glloveyp@163.com）与我们联系。我们承诺持续为您提供安全、可靠、无忧的使用体验。</p>
+        </div>
         <p style="text-align:center;"><a href="index.html">返回首页</a></p>
     </div>
     <script>
         const tabs = document.querySelectorAll('.app-tab');
         const policies = document.querySelectorAll('.policy-section');
-        const hashToIdx = { kousuan: 0, lingguang: 1, shengzi: 2, mima: 3, cleaner: 4, kecheng: 5, huihua: 6, haigui: 7, cards: 8, english: 9, girl: 10, chinese: 11, wrong: 12, ishots: 13, goodnight: 14, bookreader: 15, '3d': 16, lumi: 17, softcycle: 18, smth: 19, appstop: 20};
-        const idxToHash = ['kousuan', 'lingguang', 'shengzi', 'mima', 'cleaner', 'kecheng', 'huihua', 'haigui', 'cards', 'english', 'girl', 'chinese', 'wrong', 'ishots', 'goodnight', 'bookreader', '3d', 'lumi', 'softcycle', 'smth', 'appstop'];
+        const hashToIdx = { kousuan: 0, lingguang: 1, shengzi: 2, mima: 3, cleaner: 4, kecheng: 5, huihua: 6, haigui: 7, cards: 8, english: 9, girl: 10, chinese: 11, wrong: 12, ishots: 13, goodnight: 14, bookreader: 15, '3d': 16, lumi: 17, softcycle: 18, smth: 19, appstop: 20, pinly: 21};
+        const idxToHash = ['kousuan', 'lingguang', 'shengzi', 'mima', 'cleaner', 'kecheng', 'huihua', 'haigui', 'cards', 'english', 'girl', 'chinese', 'wrong', 'ishots', 'goodnight', 'bookreader', '3d', 'lumi', 'softcycle', 'smth', 'appstop', 'pinly'];
 
         function activateTab(idx) {
             tabs.forEach(t => t.classList.remove('active'));
