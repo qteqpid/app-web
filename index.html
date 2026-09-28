@@ -1,466 +1,1685 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>轻松学汉字 App</title>
-    <style>
-        body {
-            background: #fafaf6;
-            font-family: 'Helvetica Neue', Helvetica, Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif;
-            margin: 0;
-            padding: 0;
-            color: #444;
-            transition: background 0.4s;
-        }
-        .container {
-            display: flex;
-            justify-content: center;
-            align-items: flex-start;
-            min-height: 70vh;
-            max-width: 900px;
-            margin: 40px auto 0 auto;
-            background: #fff;
-            border-radius: 18px;
-            box-shadow: 0 4px 24px rgba(0,0,0,0.07);
-            padding: 40px 32px 32px 32px;
-            position: relative;
-        }
-        .arrow-btn {
-            position: absolute;
-            top: 50%;
-            transform: translateY(-50%);
-            width: 60px;
-            height: 60px;
-            background: rgba(230,237,234,0.55);
-            border: none;
-            border-radius: 50%;
-            box-shadow: 0 4px 16px rgba(0,0,0,0.13);
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            cursor: pointer;
-            z-index: 2;
-            transition: background 0.2s, opacity 0.18s, transform 0.18s;
-        }
-        .arrow-btn:hover {
-            background: rgba(198,215,185,0.75);
-            transform: translateY(-50%) scale(1.08);
-        }
-        .arrow-left {
-            left: -70px;
-        }
-        .arrow-right {
-            right: -70px;
-        }
-        .arrow-icon {
-            width: 36px;
-            height: 36px;
-            display: block;
-        }
-        .arrow-svg {
-            width: 100%;
-            height: 100%;
-            stroke: #4a5c3c;
-            stroke-width: 4.5;
-            stroke-linecap: round;
-            stroke-linejoin: round;
-            fill: none;
-        }
-        .left {
-            flex: 1;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-        }
-        .app-mockup {
-            width: 260px;
-            /* height: 540px; */
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
-            position: relative;
-        }
-        .app-mockup img {
-            width: 260px;
-            height: 520px;
-            border-radius: 0;
-            object-fit: contain;
-            margin: 0;
-            box-shadow: none;
-            background: none;
-            display: block;
-        }
-        .right {
-            flex: 1.2;
-            padding-left: 48px;
-            padding-top: 48px;
-            display: flex;
-            flex-direction: column;
-            justify-content: flex-start;
-        }
-        .app-title {
-            font-size: 2.1rem;
-            font-weight: bold;
-            color: #3a4d3f;
-            margin-bottom: 10px;
-            letter-spacing: 1px;
-        }
-        .app-desc {
-            font-size: 1.1rem;
-            color: #6b7a6a;
-            margin-bottom: 4px;
-        }
-        .features {
-            margin-bottom: 32px;
-        }
-        .features li {
-            margin-bottom: 8px;
-            font-size: 1rem;
-            line-height: 1.7;
-            padding-left: 0;
-        }
-        .download-section {
-            margin-top: 18px;
-            display: flex;
-            flex-direction: column;
-            align-items: flex-start;
-        }
-        .download-label {
-            font-size: 1rem;
-            color: #3a4d3f;
-            margin-bottom: 8px;
-            font-weight: 500;
-        }
-        .qr-code {
-            width: 120px;
-            height: 120px;
-            background: #f3f3f3;
-            border-radius: 12px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            box-shadow: 0 1px 6px rgba(0,0,0,0.06);
-        }
-        .qr-code img {
-            width: 100px;
-            height: 100px;
-        }
-        footer {
-            margin-top: 48px;
-            text-align: center;
-            color: #fff;
-            font-size: 0.98rem;
-            padding-bottom: 24px;
-        }
-        .footer-links {
-            margin-bottom: 8px;
-        }
-        .footer-links a {
-            color: #fff;
-            text-decoration: none;
-            margin: 0 16px;
-            font-weight: 500;
-            transition: color 0.2s;
-        }
-        .footer-links a:hover {
-            color: #000;
-        }
-        @media (max-width: 1000px) {
-            .arrow-left { left: -24px; }
-            .arrow-right { right: -24px; }
-        }
-        @media (max-width: 800px) {
-            .container {
-                flex-direction: column;
-                padding: 24px 8px;
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="color-scheme" content="dark">
+  <title>Qteqpid Apps - 独立开发者的 iPhone App 作品集</title>
+  <meta name="description" content="Gongliang Zhang 的个人 App 作品集：海龟汤来了、ins课程表、青灯拾卷、DepthVR 等 16 款 iPhone 应用，涵盖学习、阅读、效率、生活与娱乐，提供 App 简介及 App Store 下载入口。">
+  <meta name="author" content="Gongliang Zhang">
+  <meta name="robots" content="index, follow, max-image-preview:large">
+  <meta name="theme-color" content="#07090d">
+  <link rel="canonical" href="https://qteqpid.github.io/app-web/">
+  <link rel="sitemap" type="application/xml" href="https://qteqpid.github.io/app-web/sitemap.xml">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="zh_CN">
+  <meta property="og:site_name" content="Qteqpid Apps">
+  <meta property="og:title" content="Qteqpid Apps - 独立开发者的 iPhone App 作品集">
+  <meta property="og:description" content="探索 Gongliang Zhang 开发的 16 款 iPhone App，涵盖学习、阅读、效率、生活与娱乐，查看介绍并前往 App Store 下载。">
+  <meta property="og:url" content="https://qteqpid.github.io/app-web/">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Qteqpid Apps - iPhone App 作品集">
+  <meta name="twitter:description" content="16 款独立开发的 iPhone App：学习、阅读、效率、生活与娱乐。">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://qteqpid.github.io/app-web/#author",
+      "name": "Gongliang Zhang",
+      "alternateName": "Qteqpid",
+      "url": "https://qteqpid.github.io/app-web/"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://qteqpid.github.io/app-web/#website",
+      "url": "https://qteqpid.github.io/app-web/",
+      "name": "Qteqpid Apps",
+      "inLanguage": "zh-CN",
+      "creator": {
+        "@id": "https://qteqpid.github.io/app-web/#author"
+      }
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://qteqpid.github.io/app-web/#webpage",
+      "url": "https://qteqpid.github.io/app-web/",
+      "name": "Qteqpid Apps - 独立开发者的 iPhone App 作品集",
+      "description": "Gongliang Zhang 的个人 App 作品集，收录学习、阅读、效率、生活和娱乐类 iPhone 应用，提供 App 简介与 App Store 下载入口。",
+      "inLanguage": "zh-CN",
+      "isPartOf": {
+        "@id": "https://qteqpid.github.io/app-web/#website"
+      },
+      "author": {
+        "@id": "https://qteqpid.github.io/app-web/#author"
+      },
+      "mainEntity": {
+        "@id": "https://qteqpid.github.io/app-web/#apps"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://qteqpid.github.io/app-web/#apps",
+      "name": "iPhone App 作品",
+      "numberOfItems": 16,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "SoftwareApplication",
+            "name": "海龟汤来了",
+            "description": "风靡全球推理游戏",
+            "operatingSystem": "iOS",
+            "url": "https://apps.apple.com/app/id6749227316",
+            "downloadUrl": "https://apps.apple.com/app/id6749227316",
+            "image": "https://qteqpid.github.io/app-web/mini_icons/app_logo_moon_big.jpg",
+            "screenshot": "https://qteqpid.github.io/app-web/screenshots/haigui.jpg",
+            "author": {
+              "@id": "https://qteqpid.github.io/app-web/#author"
             }
-            .right {
-                padding-left: 0;
-                margin-top: 32px;
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "item": {
+            "@type": "SoftwareApplication",
+            "name": "ins课程表",
+            "description": "超好用好看的课程表",
+            "operatingSystem": "iOS",
+            "url": "https://apps.apple.com/app/id6748935753",
+            "downloadUrl": "https://apps.apple.com/app/id6748935753",
+            "image": "https://qteqpid.github.io/app-web/mini_icons/app_logo_class_big.jpg",
+            "screenshot": "https://qteqpid.github.io/app-web/screenshots/ins-schedule.jpg",
+            "author": {
+              "@id": "https://qteqpid.github.io/app-web/#author"
             }
-            .left, .right {
-                width: 100%;
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "item": {
+            "@type": "SoftwareApplication",
+            "name": "晚安电台",
+            "description": "聆听世界的声音",
+            "operatingSystem": "iOS",
+            "url": "https://apps.apple.com/app/id6757656997",
+            "downloadUrl": "https://apps.apple.com/app/id6757656997",
+            "image": "https://qteqpid.github.io/app-web/mini_icons/app_logo_radio_big.jpg",
+            "screenshot": "https://qteqpid.github.io/app-web/screenshots/goodnight-radio.jpg",
+            "author": {
+              "@id": "https://qteqpid.github.io/app-web/#author"
             }
-            .arrow-left, .arrow-right {
-                top: unset;
-                bottom: -60px;
-                left: 30%;
-                right: 30%;
-                transform: none;
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "item": {
+            "@type": "SoftwareApplication",
+            "name": "青灯拾卷",
+            "description": "做有态度的读书人",
+            "operatingSystem": "iOS",
+            "url": "https://apps.apple.com/app/id6779840110",
+            "downloadUrl": "https://apps.apple.com/app/id6779840110",
+            "image": "https://qteqpid.github.io/app-web/mini_icons/app_logo_reader_big.jpg",
+            "screenshot": "https://qteqpid.github.io/app-web/screenshots/qingdeng-reader.jpg",
+            "author": {
+              "@id": "https://qteqpid.github.io/app-web/#author"
             }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "item": {
+            "@type": "SoftwareApplication",
+            "name": "DepthVR",
+            "description": "3D视频制作神器",
+            "operatingSystem": "iOS",
+            "url": "https://apps.apple.com/app/id6783583346",
+            "downloadUrl": "https://apps.apple.com/app/id6783583346",
+            "image": "https://qteqpid.github.io/app-web/mini_icons/app_logo_vr_big.jpg",
+            "screenshot": "https://qteqpid.github.io/app-web/screenshots/depthvr.jpg",
+            "author": {
+              "@id": "https://qteqpid.github.io/app-web/#author"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "item": {
+            "@type": "SoftwareApplication",
+            "name": "嗨玩",
+            "description": "团建聚会破冰游戏",
+            "operatingSystem": "iOS",
+            "url": "https://apps.apple.com/app/id6752017904",
+            "downloadUrl": "https://apps.apple.com/app/id6752017904",
+            "image": "https://qteqpid.github.io/app-web/mini_icons/app_logo_fun_big.jpg",
+            "screenshot": "https://qteqpid.github.io/app-web/screenshots/hiwan.jpg",
+            "author": {
+              "@id": "https://qteqpid.github.io/app-web/#author"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "item": {
+            "@type": "SoftwareApplication",
+            "name": "超级错题本",
+            "description": "拍照整理作业错题",
+            "operatingSystem": "iOS",
+            "url": "https://apps.apple.com/app/id6753838149",
+            "downloadUrl": "https://apps.apple.com/app/id6753838149",
+            "image": "https://qteqpid.github.io/app-web/mini_icons/app_logo_wrong_big.jpg",
+            "screenshot": "https://qteqpid.github.io/app-web/screenshots/mistake-notebook.jpg",
+            "author": {
+              "@id": "https://qteqpid.github.io/app-web/#author"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "item": {
+            "@type": "SoftwareApplication",
+            "name": "灵光一现",
+            "description": "帮你随时记录想法",
+            "operatingSystem": "iOS",
+            "url": "https://apps.apple.com/app/id6748610782",
+            "downloadUrl": "https://apps.apple.com/app/id6748610782",
+            "image": "https://qteqpid.github.io/app-web/mini_icons/app_logo_idea_big.jpg",
+            "screenshot": "https://qteqpid.github.io/app-web/screenshots/spark.jpg",
+            "author": {
+              "@id": "https://qteqpid.github.io/app-web/#author"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "item": {
+            "@type": "SoftwareApplication",
+            "name": "贝塔英语",
+            "description": "背单词很轻松",
+            "operatingSystem": "iOS",
+            "url": "https://apps.apple.com/app/id6748849691",
+            "downloadUrl": "https://apps.apple.com/app/id6748849691",
+            "image": "https://qteqpid.github.io/app-web/mini_icons/app_logo_english_big.jpg",
+            "screenshot": "https://qteqpid.github.io/app-web/screenshots/beta-english.jpg",
+            "author": {
+              "@id": "https://qteqpid.github.io/app-web/#author"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "item": {
+            "@type": "SoftwareApplication",
+            "name": "小爱口算",
+            "description": "小学生口算练习神器",
+            "operatingSystem": "iOS",
+            "url": "https://apps.apple.com/app/id6748607355",
+            "downloadUrl": "https://apps.apple.com/app/id6748607355",
+            "image": "https://qteqpid.github.io/app-web/mini_icons/app_logo_math_big.jpg",
+            "screenshot": "https://qteqpid.github.io/app-web/screenshots/math-practice.jpg",
+            "author": {
+              "@id": "https://qteqpid.github.io/app-web/#author"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "item": {
+            "@type": "SoftwareApplication",
+            "name": "汉字卡片",
+            "description": "幼儿识字好帮手",
+            "operatingSystem": "iOS",
+            "url": "https://apps.apple.com/app/id6753268205",
+            "downloadUrl": "https://apps.apple.com/app/id6753268205",
+            "image": "https://qteqpid.github.io/app-web/mini_icons/app_logo_chinese_big.jpg",
+            "screenshot": "https://qteqpid.github.io/app-web/screenshots/chinese-cards.jpg",
+            "author": {
+              "@id": "https://qteqpid.github.io/app-web/#author"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "item": {
+            "@type": "SoftwareApplication",
+            "name": "密码柜",
+            "description": "生活密码全记住",
+            "operatingSystem": "iOS",
+            "url": "https://apps.apple.com/app/id6748747342",
+            "downloadUrl": "https://apps.apple.com/app/id6748747342",
+            "image": "https://qteqpid.github.io/app-web/mini_icons/app_logo_passbox_big.jpg",
+            "screenshot": "https://qteqpid.github.io/app-web/screenshots/passbox.png",
+            "author": {
+              "@id": "https://qteqpid.github.io/app-web/#author"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "item": {
+            "@type": "SoftwareApplication",
+            "name": "相册清理助手",
+            "description": "相似照片与大视频清理",
+            "operatingSystem": "iOS",
+            "url": "https://apps.apple.com/app/id6748892725",
+            "downloadUrl": "https://apps.apple.com/app/id6748892725",
+            "image": "https://qteqpid.github.io/app-web/mini_icons/app_logo_cleaner_big.jpg",
+            "screenshot": "https://qteqpid.github.io/app-web/screenshots/photo-cleaner.jpg",
+            "author": {
+              "@id": "https://qteqpid.github.io/app-web/#author"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "item": {
+            "@type": "SoftwareApplication",
+            "name": "iShots",
+            "description": "App上架预览截图制作工具",
+            "operatingSystem": "iOS",
+            "url": "https://apps.apple.com/app/id6754618226",
+            "downloadUrl": "https://apps.apple.com/app/id6754618226",
+            "image": "https://qteqpid.github.io/app-web/mini_icons/app_logo_ishots_big.jpg",
+            "screenshot": "https://qteqpid.github.io/app-web/screenshots/ishots.jpg",
+            "author": {
+              "@id": "https://qteqpid.github.io/app-web/#author"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "item": {
+            "@type": "SoftwareApplication",
+            "name": "AppKeeper",
+            "description": "自律防沉迷手机app",
+            "operatingSystem": "iOS",
+            "url": "https://apps.apple.com/app/id6806521687",
+            "downloadUrl": "https://apps.apple.com/app/id6806521687",
+            "image": "https://qteqpid.github.io/app-web/mini_icons/app_logo_appstop_big.jpg",
+            "screenshot": "https://qteqpid.github.io/app-web/screenshots/appkeeper.jpg",
+            "author": {
+              "@id": "https://qteqpid.github.io/app-web/#author"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 16,
+          "item": {
+            "@type": "SoftwareApplication",
+            "name": "软记",
+            "description": "软萌可爱的例假记录神器",
+            "operatingSystem": "iOS",
+            "url": "https://apps.apple.com/app/id6794283570",
+            "downloadUrl": "https://apps.apple.com/app/id6794283570",
+            "image": "https://qteqpid.github.io/app-web/mini_icons/app_logo_softcycle_big.jpg",
+            "screenshot": "https://qteqpid.github.io/app-web/screenshots/softcycle.jpg",
+            "author": {
+              "@id": "https://qteqpid.github.io/app-web/#author"
+            }
+          }
         }
-        .modal-page {
-            display: none;
-            position: fixed;
-            z-index: 9999;
-            left: 0; top: 0; right: 0; bottom: 0;
-            width: 100vw;
-            height: 100vh;
-            background: #fff;
-            color: #222;
-            align-items: center;
-            justify-content: center;
-            text-align: center;
-            flex-direction: column;
-            padding: 0 16px;
-        }
-        .modal-page.active {
-            display: flex;
-        }
-        .modal-title {
-            font-size: 2.1rem;
-            font-weight: bold;
-            margin-bottom: 18px;
-            margin-top: 0;
-            text-align: center;
-        }
-        .modal-content {
-            font-size: 1.15rem;
-            text-align: center;
-            margin-bottom: 32px;
-            max-width: 480px;
-            margin-left: auto;
-            margin-right: auto;
-        }
-        .modal-back {
-            display: inline-block;
-            margin: 0 auto;
-            padding: 10px 28px;
-            background: #fdbf0a;
-            color: #222;
-            border-radius: 22px;
-            font-size: 1.08rem;
-            font-weight: 500;
-            text-decoration: none;
-            box-shadow: 0 2px 8px rgba(0,0,0,0.07);
-            transition: background 0.18s;
-        }
-        .modal-back:hover {
-            background: #ffe066;
-        }
-    </style>
+      ]
+    }
+  ]
+}
+  </script>
+  <style>
+    :root {
+      --bg: #07090d;
+      --panel: rgba(13, 18, 27, 0.72);
+      --ink: #f5f7fb;
+      --muted: #a2adbd;
+      --soft: rgba(245, 247, 251, 0.64);
+      --line: rgba(116, 227, 220, 0.18);
+      --line-strong: rgba(116, 227, 220, 0.38);
+      --accent: #74e3dc;
+      --shadow: 0 26px 90px rgba(0, 0, 0, 0.52);
+      --radius: 18px;
+      --phone-w: min(42vw, 390px);
+      --orbit-r: min(43vw, 510px);
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html {
+      min-height: 100%;
+      background: var(--bg);
+      color: var(--ink);
+      overflow-x: hidden;
+      -webkit-text-size-adjust: 100%;
+      text-size-adjust: 100%;
+    }
+
+    body {
+      min-height: 100dvh;
+      margin: 0;
+      overflow-x: hidden;
+      font-family: "Avenir Next", "SF Pro Display", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+      letter-spacing: 0;
+      background:
+        radial-gradient(circle at 20% 12%, rgba(116, 227, 220, 0.16), transparent 28vw),
+        radial-gradient(circle at 80% 72%, rgba(116, 227, 220, 0.09), transparent 32vw),
+        linear-gradient(145deg, #07090d 0%, #0a1119 48%, #07090d 100%);
+    }
+
+    body::before,
+    body::after {
+      content: "";
+      position: fixed;
+      inset: 0;
+      pointer-events: none;
+    }
+
+    body::before {
+      z-index: 0;
+      background:
+        linear-gradient(90deg, rgba(116, 227, 220, 0.07) 1px, transparent 1px),
+        linear-gradient(0deg, rgba(116, 227, 220, 0.05) 1px, transparent 1px);
+      background-size: 54px 54px;
+      mask-image: radial-gradient(circle at 50% 42%, #000 0 44%, transparent 72%);
+      opacity: 0.58;
+    }
+
+    body::after {
+      z-index: 5;
+      opacity: 0.12;
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160' viewBox='0 0 160 160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.8' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='160' height='160' filter='url(%23n)' opacity='.42'/%3E%3C/svg%3E");
+      mix-blend-mode: screen;
+    }
+
+    a {
+      color: inherit;
+      text-decoration: none;
+    }
+
+    button {
+      font: inherit;
+    }
+
+    .stage {
+      position: relative;
+      z-index: 1;
+      min-height: 100dvh;
+      display: grid;
+      grid-template-rows: auto 1fr auto;
+      padding: calc(18px + env(safe-area-inset-top)) clamp(16px, 3vw, 42px) calc(20px + env(safe-area-inset-bottom));
+    }
+
+    .topbar {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: space-between;
+      gap: 18px;
+      min-height: 62px;
+    }
+
+    .brand {
+      display: grid;
+      gap: 3px;
+    }
+
+    .brand h1 {
+      margin: 0;
+      max-width: none;
+      line-height: 1.35;
+      font-size: clamp(1rem, 2vw, 1.2rem);
+      font-weight: 800;
+      letter-spacing: 0;
+    }
+
+    .brand span,
+    .system-line,
+    .gesture-state {
+      color: var(--muted);
+      font-family: "SF Mono", "Menlo", "Consolas", monospace;
+      font-size: 0.75rem;
+      line-height: 1.35;
+    }
+
+    .nav-actions {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .site-link {
+      display: inline-flex;
+      align-items: center;
+      min-height: 38px;
+      padding: 0 8px;
+      border: 0;
+      background: transparent;
+      cursor: pointer;
+      color: var(--muted);
+      font-size: 0.86rem;
+      white-space: nowrap;
+    }
+
+    .site-link:hover,
+    .site-link:focus-visible {
+      color: var(--accent);
+    }
+
+    .gallery-actions {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .contact-dialog {
+      width: min(420px, calc(100% - 32px));
+      max-height: calc(100dvh - 32px);
+      padding: 28px;
+      border: 1px solid var(--line-strong);
+      border-radius: 8px;
+      background: #0d121b;
+      color: var(--ink);
+      box-shadow: var(--shadow);
+    }
+
+    .contact-dialog::backdrop {
+      background: rgba(0, 0, 0, 0.72);
+      backdrop-filter: blur(6px);
+    }
+
+    .contact-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 16px;
+    }
+
+    .contact-header h2 {
+      margin: 0;
+      font-size: 22px;
+    }
+
+    .contact-close {
+      flex: 0 0 36px;
+      height: 36px;
+      padding: 0;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: transparent;
+      color: var(--muted);
+      font-size: 26px;
+      cursor: pointer;
+    }
+
+    .contact-close:hover {
+      color: var(--ink);
+      background: rgba(116, 227, 220, 0.1);
+    }
+
+    .contact-dialog p {
+      margin: 20px 0;
+      color: var(--muted);
+      font-size: 15px;
+      line-height: 1.7;
+    }
+
+    .contact-email {
+      display: inline-block;
+      max-width: 100%;
+      padding: 8px 0;
+      color: var(--accent);
+      overflow-wrap: anywhere;
+      text-decoration: underline;
+      text-underline-offset: 4px;
+    }
+
+    .contact-dialog :focus-visible {
+      outline: 2px solid var(--accent);
+      outline-offset: 4px;
+    }
+
+    .ghost-link,
+    .camera-button,
+    .nav-button {
+      border: 1px solid var(--line);
+      color: var(--ink);
+      background: rgba(255, 255, 255, 0.05);
+      backdrop-filter: blur(18px);
+      -webkit-backdrop-filter: blur(18px);
+      box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.08);
+      cursor: pointer;
+      transition: transform 180ms ease, border-color 180ms ease, background 180ms ease;
+    }
+
+    .ghost-link,
+    .camera-button {
+      min-height: 38px;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      border-radius: 999px;
+      padding: 0 15px;
+      white-space: nowrap;
+      font-size: 0.86rem;
+      font-weight: 700;
+    }
+
+    .ghost-link:hover,
+    .camera-button:hover,
+    .nav-button:hover {
+      border-color: var(--line-strong);
+      background: rgba(116, 227, 220, 0.1);
+    }
+
+    .ghost-link:active,
+    .camera-button:active,
+    .nav-button:active {
+      transform: translateY(1px);
+    }
+
+    .camera-button.is-live {
+      border-color: rgba(116, 227, 220, 0.64);
+      background: rgba(116, 227, 220, 0.14);
+      color: #dffffc;
+    }
+
+    .hero {
+      position: relative;
+      display: grid;
+      grid-template-columns: minmax(0, 1fr);
+      align-items: center;
+      gap: clamp(18px, 4vw, 56px);
+      width: min(100%, 1440px);
+      margin: 0 auto;
+      padding: 22px 0 16px;
+    }
+
+    .copy-panel {
+      display: grid;
+      align-content: center;
+      gap: 22px;
+      min-width: 0;
+    }
+
+    h1 {
+      margin: 0;
+      max-width: 8.4em;
+      font-size: clamp(2.55rem, 6vw, 6.8rem);
+      line-height: 0.94;
+      letter-spacing: 0;
+      font-weight: 900;
+    }
+
+    .intro {
+      max-width: 33ch;
+      margin: 0;
+      color: var(--soft);
+      font-size: clamp(1rem, 1.25vw, 1.12rem);
+      line-height: 1.72;
+    }
+
+    .system-line {
+      display: inline-flex;
+      width: fit-content;
+      padding: 8px 11px;
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      background: rgba(116, 227, 220, 0.07);
+      color: #c4fffb;
+    }
+
+    .app-meta {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: center;
+      gap: 12px 24px;
+      min-width: 0;
+    }
+
+    .counter {
+      color: var(--accent);
+      font-family: "SF Mono", "Menlo", "Consolas", monospace;
+      font-size: 0.82rem;
+      font-weight: 700;
+    }
+
+    .app-name {
+      margin: 0;
+      font-size: clamp(2.2rem, 4vw, 4.8rem);
+      line-height: 0.98;
+      letter-spacing: 0;
+      font-weight: 900;
+      overflow-wrap: anywhere;
+    }
+
+    .tagline {
+      margin: 0;
+      max-width: 28ch;
+      color: var(--soft);
+      font-size: clamp(1.05rem, 1.7vw, 1.42rem);
+      line-height: 1.5;
+    }
+
+    .meta-actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 11px;
+      align-items: center;
+      margin-top: 4px;
+    }
+
+    .primary-link {
+      min-height: 44px;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      border-radius: 999px;
+      padding: 0 18px;
+      background: var(--accent);
+      color: #031010;
+      font-weight: 850;
+      box-shadow: 0 14px 34px rgba(116, 227, 220, 0.2);
+      white-space: nowrap;
+      transition: transform 180ms ease, box-shadow 180ms ease;
+    }
+
+    .primary-link:hover {
+      transform: translateY(-1px);
+      box-shadow: 0 20px 46px rgba(116, 227, 220, 0.27);
+    }
+
+    .primary-link:active {
+      transform: translateY(1px);
+    }
+
+    .gesture-state {
+      color: rgba(245, 247, 251, 0.7);
+    }
+
+    .visual-core {
+      position: relative;
+      min-height: min(82dvh, 760px);
+      display: grid;
+      place-items: center;
+      perspective: 1400px;
+      isolation: isolate;
+    }
+
+    .orbit {
+      position: absolute;
+      inset: 0;
+      z-index: 1;
+      transform-style: preserve-3d;
+      pointer-events: none;
+    }
+
+    .orbit::before {
+      content: "";
+      position: absolute;
+      inset: 50% auto auto 50%;
+      width: calc(var(--orbit-r) * 2);
+      height: calc(var(--orbit-r) * 0.96);
+      border: 1px solid rgba(116, 227, 220, 0.16);
+      border-radius: 50%;
+      transform: translate(-50%, -50%) rotateX(64deg);
+      box-shadow:
+        0 0 46px rgba(116, 227, 220, 0.1),
+        inset 0 0 46px rgba(116, 227, 220, 0.08);
+    }
+
+    .orbit-item {
+      position: absolute;
+      left: 50%;
+      top: 50%;
+      width: 70px;
+      height: 70px;
+      margin: -35px 0 0 -35px;
+      border: 1px solid rgba(255, 255, 255, 0.14);
+      border-radius: 18px;
+      padding: 0;
+      background: rgba(12, 18, 27, 0.7);
+      box-shadow: 0 18px 44px rgba(0, 0, 0, 0.34);
+      overflow: hidden;
+      cursor: pointer;
+      pointer-events: auto;
+      transform: translate3d(var(--x), var(--y), 0) scale(var(--s));
+      opacity: var(--o);
+      filter: blur(var(--b));
+      transition: transform 620ms cubic-bezier(0.16, 1, 0.3, 1), opacity 620ms ease, filter 620ms ease, border-color 180ms ease;
+      will-change: transform, opacity;
+    }
+
+    .orbit-item:hover,
+    .orbit-item:focus-visible {
+      border-color: rgba(116, 227, 220, 0.68);
+      outline: none;
+    }
+
+    .orbit-item.is-active {
+      opacity: 0;
+      pointer-events: none;
+    }
+
+    .orbit-item img {
+      width: 100%;
+      height: 100%;
+      display: block;
+      object-fit: cover;
+    }
+
+    .phone-cluster {
+      position: relative;
+      z-index: 2;
+      display: flex;
+      align-items: flex-end;
+      justify-content: center;
+      gap: clamp(10px, 2.4vw, 22px);
+    }
+
+    .phone-shell {
+      position: relative;
+      width: var(--phone-w);
+      aspect-ratio: auto;
+      border-radius: clamp(30px, 5vw, 48px);
+      padding: clamp(10px, 1.4vw, 14px);
+      background:
+        linear-gradient(145deg, rgba(255, 255, 255, 0.18), rgba(255, 255, 255, 0.04)),
+        #070b12;
+      border: 1px solid rgba(255, 255, 255, 0.2);
+      box-shadow:
+        var(--shadow),
+        0 0 0 1px rgba(116, 227, 220, 0.1),
+        inset 0 1px 0 rgba(255, 255, 255, 0.16);
+    }
+
+    .phone-screen {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 1179 / 2556;
+      overflow: hidden;
+      border-radius: clamp(24px, 4vw, 38px);
+      border: 1px solid rgba(116, 227, 220, 0.18);
+      background:
+        radial-gradient(circle at 50% 28%, rgba(116, 227, 220, 0.24), transparent 32%),
+        linear-gradient(155deg, #111827, #07090d 56%, #0b171c);
+      display: grid;
+      place-items: center;
+    }
+
+    .phone-screen::before {
+      content: "";
+      position: absolute;
+      top: 10px;
+      left: 50%;
+      width: 34%;
+      height: 24px;
+      border-radius: 999px;
+      background: #05070a;
+      transform: translateX(-50%);
+      box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1);
+    }
+
+    .phone-screen::after {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background:
+        linear-gradient(110deg, transparent 0 36%, rgba(255, 255, 255, 0.16) 42%, transparent 52%),
+        linear-gradient(180deg, transparent, rgba(116, 227, 220, 0.08));
+      opacity: 0.46;
+      pointer-events: none;
+    }
+
+    .phone-screen.has-screenshot {
+      background: #000;
+    }
+
+    .phone-screen.has-screenshot::after {
+      display: none;
+    }
+
+    .phone-screenshot[hidden],
+    .wallpaper-slot[hidden] {
+      display: none;
+    }
+
+    .phone-screenshot {
+      position: absolute;
+      inset: 0;
+      z-index: 0;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      opacity: 1;
+      filter: none;
+    }
+
+    .wallpaper-slot {
+      position: relative;
+      z-index: 1;
+      height: 100%;
+      width: 100%;
+      min-width: 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: flex-end;
+      gap: 10px;
+      text-align: left;
+      padding: 0 18px 28px;
+    }
+
+    .wallpaper-slot::before {
+      content: "";
+      position: absolute;
+      inset: auto 0 0;
+      z-index: 0;
+      height: 36%;
+      background: linear-gradient(180deg, transparent 0%, rgba(0, 0, 0, 0.78) 34%, rgba(0, 0, 0, 0.94) 100%);
+      pointer-events: none;
+    }
+
+    .wallpaper-slot > * {
+      position: relative;
+      z-index: 1;
+    }
+
+    .app-summary {
+      display: grid;
+      grid-template-columns: auto minmax(0, 1fr);
+      align-items: center;
+      gap: 13px;
+      width: 100%;
+      min-width: 0;
+    }
+
+    .app-summary > img {
+      width: 68px;
+      height: auto;
+      aspect-ratio: 1;
+      border-radius: 17px;
+      box-shadow: 0 12px 28px rgba(0, 0, 0, 0.42);
+      object-fit: cover;
+      margin-bottom: 0;
+    }
+
+    .app-copy {
+      min-width: 0;
+      display: grid;
+      gap: 5px;
+    }
+
+    .app-copy h2 {
+      margin: 0;
+      max-width: 100%;
+      font-size: 26px;
+      line-height: 1.12;
+      font-weight: 900;
+      overflow-wrap: anywhere;
+      text-shadow: 0 2px 16px rgba(0, 0, 0, 0.72);
+    }
+
+    .app-copy .tagline {
+      max-width: 100%;
+      font-size: 14px;
+      line-height: 1.35;
+      overflow-wrap: anywhere;
+      text-shadow: 0 2px 14px rgba(0, 0, 0, 0.72);
+    }
+
+    .store-qr {
+      display: grid;
+      justify-items: center;
+      gap: 8px;
+      flex: 0 0 auto;
+      width: 126px;
+      margin-bottom: clamp(24px, 5vw, 56px);
+      padding: 10px 10px 12px;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: rgba(8, 12, 18, 0.78);
+      backdrop-filter: blur(18px);
+      -webkit-backdrop-filter: blur(18px);
+      font-size: 11px;
+      color: rgba(245, 247, 251, 0.82);
+      text-align: center;
+      box-shadow: 0 18px 42px rgba(0, 0, 0, 0.34);
+      text-shadow: none;
+    }
+
+    .store-qr:focus-visible {
+      outline: 2px solid var(--accent);
+      outline-offset: 6px;
+    }
+
+    .qr-code {
+      display: block;
+      width: 102px;
+      max-width: 100%;
+      aspect-ratio: 1;
+      background: #fff;
+    }
+
+    .qr-code svg {
+      display: block;
+      width: 100%;
+      height: 100%;
+      shape-rendering: crispEdges;
+    }
+
+    @media (max-width: 380px) {
+      .wallpaper-slot {
+        gap: 8px;
+        padding: 0 12px 22px;
+      }
+
+      .app-summary {
+        gap: 10px;
+      }
+
+      .app-summary > img {
+        width: 48px;
+      }
+
+      .app-copy h2 {
+        font-size: 20px;
+      }
+
+      .qr-code {
+        width: 64px;
+      }
+    }
+
+    .nav-button {
+      position: absolute;
+      z-index: 3;
+      top: 50%;
+      width: 54px;
+      height: 54px;
+      border-radius: 50%;
+      color: var(--accent);
+      font-size: 1.7rem;
+      line-height: 1;
+    }
+
+    .nav-button.prev {
+      left: 3%;
+    }
+
+    .nav-button.next {
+      right: 3%;
+    }
+
+    .camera-feed {
+      position: fixed;
+      right: 18px;
+      bottom: 18px;
+      z-index: 4;
+      width: 150px;
+      aspect-ratio: 16 / 10;
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      object-fit: cover;
+      transform: scaleX(-1);
+      background: #05070a;
+      box-shadow: 0 18px 52px rgba(0, 0, 0, 0.42);
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity 240ms ease;
+    }
+
+    .camera-feed.is-visible {
+      opacity: 0.72;
+    }
+
+    .dock {
+      display: grid;
+      gap: 14px;
+      width: min(100%, 1440px);
+      margin: 0 auto;
+      padding-top: 8px;
+    }
+
+    .app-strip {
+      display: flex;
+      gap: 10px;
+      overflow-x: auto;
+      padding: 6px 2px 12px;
+      scrollbar-width: thin;
+      scrollbar-color: rgba(116, 227, 220, 0.44) transparent;
+    }
+
+    .app-chip {
+      flex: 0 0 auto;
+      display: inline-flex;
+      align-items: center;
+      gap: 9px;
+      max-width: 210px;
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      padding: 7px 12px 7px 8px;
+      color: rgba(245, 247, 251, 0.82);
+      background: rgba(255, 255, 255, 0.045);
+      cursor: pointer;
+      transition: transform 180ms ease, border-color 180ms ease, background 180ms ease;
+    }
+
+    .app-chip:hover,
+    .app-chip:focus-visible,
+    .app-chip.is-active {
+      border-color: rgba(116, 227, 220, 0.62);
+      background: rgba(116, 227, 220, 0.1);
+      outline: none;
+    }
+
+    .app-chip:active {
+      transform: translateY(1px);
+    }
+
+    .app-chip img {
+      width: 34px;
+      height: 34px;
+      border-radius: 10px;
+      object-fit: cover;
+    }
+
+    .app-chip span {
+      min-width: 0;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      font-size: 0.86rem;
+      font-weight: 760;
+    }
+
+    .mac-links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      color: rgba(245, 247, 251, 0.66);
+      font-size: 0.84rem;
+    }
+
+    .mac-links a {
+      border-bottom: 1px solid rgba(116, 227, 220, 0.34);
+    }
+
+    .copyright {
+      margin: 8px 0 0;
+      padding-top: 18px;
+      border-top: 1px solid var(--line);
+      color: var(--muted);
+      font-size: 0.75rem;
+      line-height: 1.6;
+      text-align: center;
+    }
+
+    @media (max-width: 1040px) {
+      :root {
+        --phone-w: min(58vw, 360px);
+        --orbit-r: min(47vw, 430px);
+      }
+
+      .hero {
+        grid-template-columns: 1fr;
+        gap: 18px;
+        padding-top: 12px;
+      }
+
+      .copy-panel,
+      .app-meta {
+        justify-items: center;
+        text-align: center;
+      }
+
+      h1 {
+        max-width: 9.2em;
+      }
+
+      .intro,
+      .tagline {
+        max-width: 42ch;
+      }
+
+      .visual-core {
+        min-height: 58dvh;
+        order: -1;
+      }
+    }
+
+    @media (max-width: 720px) {
+      :root {
+        --phone-w: min(65vw, 310px);
+        --orbit-r: min(50vw, 260px);
+      }
+
+      .stage {
+        padding-left: 14px;
+        padding-right: 14px;
+      }
+
+      .topbar {
+        align-items: flex-start;
+        flex-direction: column;
+      }
+
+      .nav-actions {
+        width: 100%;
+        overflow-x: auto;
+        padding-bottom: 4px;
+      }
+
+      .hero {
+        padding-bottom: 4px;
+      }
+
+      h1 {
+        font-size: clamp(2.25rem, 12vw, 3.9rem);
+      }
+
+      .app-name {
+        font-size: clamp(2rem, 11vw, 3.5rem);
+      }
+
+      .visual-core {
+        min-height: 52dvh;
+      }
+
+      .phone-cluster {
+        width: 100%;
+        gap: 8px;
+      }
+
+      .store-qr {
+        width: 72px;
+        margin-bottom: 28px;
+        padding: 7px 7px 8px;
+        font-size: 10px;
+      }
+
+      .store-qr .qr-code {
+        width: 58px;
+      }
+
+      .orbit-item {
+        width: 52px;
+        height: 52px;
+        margin: -26px 0 0 -26px;
+        border-radius: 14px;
+      }
+
+      .nav-button {
+        width: 46px;
+        height: 46px;
+      }
+
+      .nav-button.prev {
+        left: 0;
+      }
+
+      .nav-button.next {
+        right: 0;
+      }
+
+      .camera-feed {
+        width: 118px;
+        right: 12px;
+        bottom: 12px;
+      }
+
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      *,
+      *::before,
+      *::after {
+        animation-duration: 1ms !important;
+        animation-iteration-count: 1 !important;
+        scroll-behavior: auto !important;
+        transition-duration: 1ms !important;
+      }
+
+    }
+  </style>
 </head>
 <body>
-    <div class="container">
-        <button class="arrow-btn arrow-left" onclick="prevApp()" title="上一个App">
-            <span class="arrow-icon">
-                <svg class="arrow-svg" viewBox="0 0 36 36">
-                    <polyline points="24,6 12,18 24,30" />
-                </svg>
-            </span>
-        </button>
-        <div class="left">
-            <div class="app-mockup">
-                <img id="app-img" src="https://via.placeholder.com/220x440.png?text=App+Screenshot" alt="App Screenshot" />
-            </div>
+  <main class="stage">
+    <header class="topbar">
+      <a class="brand" href="./" aria-label="Qteqpid Apps 首页">
+        <h1>Qteqpid Apps</h1>
+        <span>Gongliang Zhang / iPhone App 作品集</span>
+      </a>
+      <nav class="nav-actions" aria-label="页面操作">
+        <button class="site-link" id="contactButton" type="button" aria-haspopup="dialog" aria-controls="contactDialog">联系作者</button>
+        <a class="site-link" href="privacy.html">隐私政策</a>
+        <div class="gallery-actions">
+          <a class="ghost-link" href="treasures.html">全部 App</a>
+          <button class="camera-button" id="cameraButton" type="button">开启手势</button>
         </div>
-        <div class="right">
-            <div class="app-title" id="app-title">生字天天练</div>
-            <div class="app-desc" id="app-desc">面向儿童和家长的现代化汉字学习App，科学管理学习进度，丰富字库，趣味动画，助力高效掌握常用汉字和基础英语词汇。</div>
-            <ul class="features" id="app-features">
-                <li>《四五快读》精选汉字</li>
-                <li>KET、PET常见词汇</li>
-                <li>语音朗读生字和例句</li>
-                <li>科学学习进度管理</li>
-            </ul>
-            <div class="download-section">
-                <div class="download-label">扫码下载 App</div>
-                <div class="qr-code">
-                    <img id="app-qr" src="https://api.qrserver.com/v1/create-qr-code/?size=100x100&data=https://your-app-download-link.com" alt="下载二维码" />
+      </nav>
+    </header>
+
+    <section class="hero" aria-label="iPhone App 作品展示">
+      <div class="visual-core" aria-label="App 轮播展示">
+        <div class="orbit" id="orbit" aria-hidden="true"></div>
+        <button class="nav-button prev" id="prevButton" type="button" aria-label="上一个 App">‹</button>
+        <div class="phone-cluster">
+          <article class="phone-shell" aria-live="polite">
+            <div class="phone-screen" id="phoneScreen">
+              <img class="phone-screenshot" id="activeScreenshot" src="screenshots/haigui.jpg" alt="海龟汤来了 App 屏幕截图" width="1179" height="2556" fetchpriority="high">
+              <div class="wallpaper-slot" id="appDetails">
+                <div class="app-summary">
+                  <img id="activeIcon" src="mini_icons/app_logo_moon_big.jpg" alt="海龟汤来了 图标" width="104" height="104" fetchpriority="high">
+                  <div class="app-copy">
+                    <h2 id="activeName">海龟汤来了</h2>
+                    <p class="tagline" id="tagline">风靡全球推理游戏</p>
+                  </div>
                 </div>
+              </div>
             </div>
+          </article>
+          <a class="store-qr" id="storeLink" href="https://apps.apple.com/app/id6749227316" target="_blank" rel="noreferrer" aria-label="海龟汤来了 App Store">
+            <span class="qr-code" id="storeQr" role="img"></span>
+            <span>App Store</span>
+          </a>
         </div>
-        <button class="arrow-btn arrow-right" onclick="nextApp()" title="下一个App">
-            <span class="arrow-icon">
-                <svg class="arrow-svg" viewBox="0 0 36 36">
-                    <polyline points="12,6 24,18 12,30" />
-                </svg>
-            </span>
-        </button>
-    </div>
-    <footer>
-        <div class="footer-links">
-            <a href="about.html">关于网站</a> |
-            <a href="contact.html">联系作者</a> |
-            <a href="privacy.html">隐私政策</a>
-        </div>
-        <div>© 2025 Gongliang Zhang. All rights reserved.</div>
+        <button class="nav-button next" id="nextButton" type="button" aria-label="下一个 App">›</button>
+      </div>
+
+      <div class="app-meta">
+        <span class="counter" id="counter">01 / 16</span>
+        <span class="gesture-state" id="gestureState">手势未开启</span>
+      </div>
+    </section>
+
+    <footer class="dock">
+      <div class="app-strip" id="appStrip" aria-label="App 快速切换">
+        <a class="app-chip is-active" data-index="0" data-tagline="风靡全球推理游戏" data-screenshot="screenshots/haigui.jpg" href="https://apps.apple.com/app/id6749227316" title="海龟汤来了：风靡全球推理游戏">
+          <img src="mini_icons/app_logo_moon_big.jpg" alt="" width="34" height="34" loading="lazy" decoding="async">
+          <span>海龟汤来了</span>
+        </a>
+        <a class="app-chip" data-index="1" data-tagline="超好用好看的课程表" data-screenshot="screenshots/ins-schedule.jpg" href="https://apps.apple.com/app/id6748935753" title="ins课程表：超好用好看的课程表">
+          <img src="mini_icons/app_logo_class_big.jpg" alt="" width="34" height="34" loading="lazy" decoding="async">
+          <span>ins课程表</span>
+        </a>
+        <a class="app-chip" data-index="2" data-screenshot="screenshots/goodnight-radio.jpg" data-tagline="聆听世界的声音" href="https://apps.apple.com/app/id6757656997" title="晚安电台：聆听世界的声音">
+          <img src="mini_icons/app_logo_radio_big.jpg" alt="" width="34" height="34" loading="lazy" decoding="async">
+          <span>晚安电台</span>
+        </a>
+        <a class="app-chip" data-index="3" data-screenshot="screenshots/qingdeng-reader.jpg" data-tagline="做有态度的读书人" href="https://apps.apple.com/app/id6779840110" title="青灯拾卷：做有态度的读书人">
+          <img src="mini_icons/app_logo_reader_big.jpg" alt="" width="34" height="34" loading="lazy" decoding="async">
+          <span>青灯拾卷</span>
+        </a>
+        <a class="app-chip" data-index="4" data-screenshot="screenshots/depthvr.jpg" data-tagline="3D视频制作神器" href="https://apps.apple.com/app/id6783583346" title="DepthVR：3D视频制作神器">
+          <img src="mini_icons/app_logo_vr_big.jpg" alt="" width="34" height="34" loading="lazy" decoding="async">
+          <span>DepthVR</span>
+        </a>
+        <a class="app-chip" data-index="5" data-screenshot="screenshots/hiwan.jpg" data-tagline="团建聚会破冰游戏" href="https://apps.apple.com/app/id6752017904" title="嗨玩：团建聚会破冰游戏">
+          <img src="mini_icons/app_logo_fun_big.jpg" alt="" width="34" height="34" loading="lazy" decoding="async">
+          <span>嗨玩</span>
+        </a>
+        <a class="app-chip" data-index="6" data-screenshot="screenshots/mistake-notebook.jpg" data-tagline="拍照整理作业错题" href="https://apps.apple.com/app/id6753838149" title="超级错题本：拍照整理作业错题">
+          <img src="mini_icons/app_logo_wrong_big.jpg" alt="" width="34" height="34" loading="lazy" decoding="async">
+          <span>超级错题本</span>
+        </a>
+        <a class="app-chip" data-index="7" data-screenshot="screenshots/spark.jpg" data-tagline="帮你随时记录想法" href="https://apps.apple.com/app/id6748610782" title="灵光一现：帮你随时记录想法">
+          <img src="mini_icons/app_logo_idea_big.jpg" alt="" width="34" height="34" loading="lazy" decoding="async">
+          <span>灵光一现</span>
+        </a>
+        <a class="app-chip" data-index="8" data-screenshot="screenshots/beta-english.jpg" data-tagline="背单词很轻松" href="https://apps.apple.com/app/id6748849691" title="贝塔英语：背单词很轻松">
+          <img src="mini_icons/app_logo_english_big.jpg" alt="" width="34" height="34" loading="lazy" decoding="async">
+          <span>贝塔英语</span>
+        </a>
+        <a class="app-chip" data-index="9" data-screenshot="screenshots/math-practice.jpg" data-tagline="小学生口算练习神器" href="https://apps.apple.com/app/id6748607355" title="小爱口算：小学生口算练习神器">
+          <img src="mini_icons/app_logo_math_big.jpg" alt="" width="34" height="34" loading="lazy" decoding="async">
+          <span>小爱口算</span>
+        </a>
+        <a class="app-chip" data-index="10" data-screenshot="screenshots/chinese-cards.jpg" data-tagline="幼儿识字好帮手" href="https://apps.apple.com/app/id6753268205" title="汉字卡片：幼儿识字好帮手">
+          <img src="mini_icons/app_logo_chinese_big.jpg" alt="" width="34" height="34" loading="lazy" decoding="async">
+          <span>汉字卡片</span>
+        </a>
+        <a class="app-chip" data-index="11" data-screenshot="screenshots/passbox.png" data-tagline="生活密码全记住" href="https://apps.apple.com/app/id6748747342" title="密码柜：生活密码全记住">
+          <img src="mini_icons/app_logo_passbox_big.jpg" alt="" width="34" height="34" loading="lazy" decoding="async">
+          <span>密码柜</span>
+        </a>
+        <a class="app-chip" data-index="12" data-screenshot="screenshots/photo-cleaner.jpg" data-tagline="相似照片与大视频清理" href="https://apps.apple.com/app/id6748892725" title="相册清理助手：相似照片与大视频清理">
+          <img src="mini_icons/app_logo_cleaner_big.jpg" alt="" width="34" height="34" loading="lazy" decoding="async">
+          <span>相册清理助手</span>
+        </a>
+        <a class="app-chip" data-index="13" data-screenshot="screenshots/ishots.jpg" data-tagline="App上架预览截图制作工具" href="https://apps.apple.com/app/id6754618226" title="iShots：App上架预览截图制作工具">
+          <img src="mini_icons/app_logo_ishots_big.jpg" alt="" width="34" height="34" loading="lazy" decoding="async">
+          <span>iShots</span>
+        </a>
+        <a class="app-chip" data-index="14" data-screenshot="screenshots/appkeeper.jpg" data-tagline="自律防沉迷手机app" href="https://apps.apple.com/app/id6806521687" title="AppKeeper：自律防沉迷手机app">
+          <img src="mini_icons/app_logo_appstop_big.jpg" alt="" width="34" height="34" loading="lazy" decoding="async">
+          <span>AppKeeper</span>
+        </a>
+        <a class="app-chip" data-index="15" data-screenshot="screenshots/softcycle.jpg" data-tagline="软萌可爱的例假记录神器" href="https://apps.apple.com/app/id6794283570" title="软记：软萌可爱的例假记录神器">
+          <img src="mini_icons/app_logo_softcycle_big.jpg" alt="" width="34" height="34" loading="lazy" decoding="async">
+          <span>软记</span>
+        </a>
+      </div>
+      <div class="mac-links" aria-label="Mac App">
+        <span>Mac App</span>
+        <a href="mac-desktop-buddy/">MacDesktopBuddy</a>
+        <a href="browser-time-tracker/">Browser Time Tracker</a>
+      </div>
+      <p class="copyright">&copy; 2025 Gongliang Zhang. All rights reserved. <a href="sitemap.xml">站点地图</a></p>
     </footer>
-    <div id="modalPage" class="modal-page">
-        <div>
-            <h2 class="modal-title" id="modalTitle">标题</h2>
-            <div class="modal-content" id="modalContent">内容</div>
-            <a href="#" class="modal-back" onclick="closeModal();return false;">返回首页</a>
-        </div>
+  </main>
+
+  <dialog class="contact-dialog" id="contactDialog" aria-labelledby="contactTitle" aria-describedby="contactDescription">
+    <div class="contact-header">
+      <h2 id="contactTitle">联系作者</h2>
+      <button class="contact-close" id="contactClose" type="button" aria-label="关闭" title="关闭" autofocus>&times;</button>
     </div>
-    <script>
-        // 假设有多个App信息
-        const apps = [
-            {
-                title: '开心学口算',
-                desc: '专为学生和家长设计的数学口算练习App，互动口算、趣味排行榜，轻松掌握四则运算。',
-                img: './app1.png',
-                qr: './kousuan.png',
-                features: [
-                    '加减乘除全支持',
-                    '积分激励更有动力',
-                    '界面友好孩子喜欢',
-                    '增加24点,让口算更有趣'
-                ],
-                bg: '#8aae36'
-            },
-            {
-                title: '灵光一现',
-                desc: '随时记录你的想法。',
-                img: './app3.png',
-                qr: './lingguang.png',
-                features: [
-                    '语音输入，快捷又高效',
-                    '支持编辑最新添加的想法',
-                    '支持收藏和删除'
-                ],
-                bg: '#ea4a60'
-            },
-            {
-                title: '密码柜',
-                desc: '方便管理你的生活密码。',
-                img: './app4.png',
-                qr: './mima.png',
-                features: [
-                    '登录码、查看码双重保障',
-                    '支持密码导入导出功能',
-                    '界面清爽无广告'
-                ],
-                bg: '#6dabde'
-            },
-            {
-                title: '生字天天练',
-                desc: '面向儿童的现代化英汉学习App，科学管理学习进度，丰富字库，助力高效掌握常用汉字和基础英语词汇。',
-                img: './app2.png',
-                qr: './shengzi.png',
-                features: [
-                    '精选《四五快读》字库',
-                    'KET、PET常见词汇',
-                    '语音朗读生字和例句',
-                    '科学学习进度管理'
-                ],
-                bg: '#fdbf0a'
-            },
-            {
-                title: '相册清理助手',
-                desc: '随时清理并释放您的相册空间。',
-                img: './app5.png',
-                qr: './xiangce.png',
-                features: [
-                    '智能识别：AI算法精准找出重复和相似照片',
-                    '批量操作：一键删除多张重复照片，省时省力',
-                    '视频清理：一键筛选大视频，快速释放空间'
-                ],
-                bg: '#f3bdd5'
-            },
-            {
-                title: '简易课程表',
-                desc: '让课程安排一目了然，学习生活更高效！快来体验高效、智能、好用的课程表工具！',
-                img: './app6.png',
-                qr: './kecheng.png',
-                features: [
-                    '支持自定义课程名称，轻松添加、删除、编辑',
-                    '课程表行列灵活增删',
-                    '中午时段内容可直接编辑，操作便捷',
-                    '多种主题背景色可选',
-					'一键导出高清课程表图片，方便打印或分享'
-                ],
-                bg: '#fdbf0a'
-            },
-            {
-                title: '绘图白板',
-                desc: '指尖绘世界，随时释放你的艺术灵感',
-                img: './app7.png',
-                qr: './huitu.png',
-                features: [
-                    '多种画笔类型',
-                    '橡皮擦和图形等工具',
-                    '实时保存和收藏夹',
-                    '支持取色器和调色盘等功能'
-                ],
-                bg: '#2f116a'
-            },
-            {
-                title: '海龟汤来了',
-                desc: '这是一款经典的推理游戏，挑战你的逻辑思维和推理能力',
-                img: './app8.png',
-                qr: './haigui.png',
-                features: [
-                    '经典海龟汤谜题，考验你的推理智慧',
-                    '精美的卡片式界面，流畅的翻面动画',
-                    '丰富的谜题库，每次体验都是新的挑战'
-                ],
-                bg: '#b676e8'
-            },
-            {
-                title: '聚会卡牌',
-                desc: '全新聚会卡牌游戏应用，为您的派对、聚餐、团建活动增添无限乐趣！',
-                img: './app9.png',
-                qr: './cards.png',
-                features: [
-                    '精美界面设计，流畅动画效果',
-                    '多游戏模式，满足不同聚会场景',
-                    '适配iPhone和iPad，随时随地畅玩'
-                ],
-                bg: '#ea4a60'
-            },
-            {
-                title: '打卡背单词',
-                desc: '一款创新的英语学习应用，通过语音识别和互动练习帮助用户高效提升英语听说读写能力！',
-                img: './app10.jpg',
-                qr: './english.png',
-                features: [
-                    '分级英语词汇学习，涵盖基础到高级的英语单词和例句',
-                    '智能语音朗读和实时语音识别，检测并评估用户的英语口语水平',
-                    '拼写测试功能，强化单词记忆和拼写能力'
-                ],
-                bg: '#fdbf0a'
-            }
+    <p id="contactDescription">如有建议、合作或问题，欢迎通过邮箱联系作者。</p>
+    <a class="contact-email" href="mailto:glloveyp@163.com">glloveyp@163.com</a>
+  </dialog>
 
-        ];
-        let current = 0;
-        function renderApp(idx) {
-            const app = apps[idx];
-            document.getElementById('app-title').textContent = app.title;
-            document.getElementById('app-desc').textContent = app.desc;
-            document.getElementById('app-img').src = app.img;
-            document.getElementById('app-img').alt = app.title + ' 截图';
-            const downloadSection = document.querySelector('.download-section');
-            if (app.qr && app.qr.trim() !== '') {
-                downloadSection.style.display = '';
-                document.getElementById('app-qr').src = app.qr;
-                document.getElementById('app-qr').alt = app.title + ' 下载二维码';
-            } else {
-                downloadSection.style.display = 'none';
-            }
-            const features = document.getElementById('app-features');
-            features.innerHTML = '';
-            app.features.forEach(f => {
-                const li = document.createElement('li');
-                li.textContent = f;
-                features.appendChild(li);
-            });
-            // 设置背景色
-            document.body.style.background = app.bg || '#fafaf6';
-        }
-        function prevApp() {
-            current = (current - 1 + apps.length) % apps.length;
-            renderApp(current);
-        }
-        function nextApp() {
-            current = (current + 1) % apps.length;
-            renderApp(current);
-        }
-        // 初始化
-        renderApp(current);
+  <video class="camera-feed" id="cameraFeed" playsinline muted></video>
 
-    </script>
+  <script src="tools/qrcode.js"></script>
+  <script>
+    const apps = Array.from(document.querySelectorAll(".app-chip"), (link) => ({
+      name: link.querySelector("span").textContent,
+      tagline: link.dataset.tagline,
+      screenshot: link.dataset.screenshot || null,
+      appleId: new URL(link.href).pathname.split("/id")[1],
+      icon: link.querySelector("img").getAttribute("src")
+    }));
+
+    const orbit = document.querySelector("#orbit");
+    const appStrip = document.querySelector("#appStrip");
+    const activeIcon = document.querySelector("#activeIcon");
+    const activeName = document.querySelector("#activeName");
+    const storeQr = document.querySelector("#storeQr");
+    const tagline = document.querySelector("#tagline");
+    const counter = document.querySelector("#counter");
+    const storeLink = document.querySelector("#storeLink");
+    const gestureState = document.querySelector("#gestureState");
+    const cameraButton = document.querySelector("#cameraButton");
+    const cameraFeed = document.querySelector("#cameraFeed");
+    const prevButton = document.querySelector("#prevButton");
+    const nextButton = document.querySelector("#nextButton");
+    const contactDialog = document.querySelector("#contactDialog");
+    const phoneScreen = document.querySelector("#phoneScreen");
+    const activeScreenshot = document.querySelector("#activeScreenshot");
+
+    activeScreenshot.addEventListener("error", () => {
+      activeScreenshot.hidden = true;
+    });
+
+    document.querySelector("#contactButton").addEventListener("click", () => contactDialog.showModal());
+    document.querySelector("#contactClose").addEventListener("click", () => contactDialog.close());
+    contactDialog.addEventListener("click", (event) => {
+      if (event.target !== contactDialog) return;
+      const rect = contactDialog.getBoundingClientRect();
+      if (event.clientX < rect.left || event.clientX > rect.right || event.clientY < rect.top || event.clientY > rect.bottom) {
+        contactDialog.close();
+      }
+    });
+
+    let current = 0;
+    let lastGestureAt = 0;
+    let handSamples = [];
+    let camera = null;
+    let hands = null;
+
+    function appStoreUrl(appleId) {
+      return `https://apps.apple.com/app/id${appleId}`;
+    }
+
+    function padIndex(index) {
+      return String(index + 1).padStart(2, "0");
+    }
+
+    function wrapIndex(index) {
+      return (index + apps.length) % apps.length;
+    }
+
+    function signedOffset(index) {
+      const total = apps.length;
+      let offset = index - current;
+      if (offset > total / 2) offset -= total;
+      if (offset < -total / 2) offset += total;
+      return offset;
+    }
+
+    function renderOrbit() {
+      orbit.innerHTML = apps.map((app, index) => `
+        <button class="orbit-item" type="button" data-index="${index}" aria-label="切换到 ${app.name}">
+          <img src="${app.icon}" alt="">
+        </button>
+      `).join("");
+
+      orbit.querySelectorAll(".orbit-item").forEach((item) => {
+        item.addEventListener("click", () => setCurrent(Number(item.dataset.index)));
+      });
+    }
+
+    function renderStrip() {
+      appStrip.querySelectorAll(".app-chip").forEach((chip) => {
+        chip.addEventListener("click", (event) => {
+          if (event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return;
+          event.preventDefault();
+          setCurrent(Number(chip.dataset.index));
+        });
+      });
+    }
+
+    function positionOrbit() {
+      const total = apps.length;
+      const items = orbit.querySelectorAll(".orbit-item");
+
+      items.forEach((item, index) => {
+        const offset = signedOffset(index);
+        const angle = (offset / total) * Math.PI * 2 - Math.PI / 2;
+        const x = Math.cos(angle) * 100;
+        const y = Math.sin(angle) * 24;
+        const depth = (Math.sin(angle) + 1) / 2;
+        const sideFade = Math.min(1, Math.max(0.24, 1 - Math.abs(offset) / 8));
+        const scale = 0.56 + depth * 0.5;
+        const blur = Math.max(0, (1 - depth) * 1.7);
+
+        item.style.setProperty("--x", `calc(${x / 100} * var(--orbit-r))`);
+        item.style.setProperty("--y", `calc(${y / 100} * var(--orbit-r))`);
+        item.style.setProperty("--s", scale.toFixed(3));
+        item.style.setProperty("--o", sideFade.toFixed(3));
+        item.style.setProperty("--b", `${blur.toFixed(2)}px`);
+        item.classList.toggle("is-active", index === current);
+      });
+    }
+
+    function renderActive() {
+      const app = apps[current];
+      if (app.screenshot) {
+        activeScreenshot.src = app.screenshot;
+        activeScreenshot.alt = `${app.name} App 屏幕截图`;
+        activeScreenshot.hidden = false;
+        phoneScreen.classList.add("has-screenshot");
+      } else {
+        activeScreenshot.hidden = true;
+        phoneScreen.classList.remove("has-screenshot");
+      }
+      activeIcon.src = app.icon;
+      activeIcon.alt = `${app.name} 图标`;
+      activeName.textContent = app.name;
+      tagline.textContent = app.tagline;
+      counter.textContent = `${padIndex(current)} / ${apps.length}`;
+      storeLink.href = appStoreUrl(app.appleId);
+      storeLink.setAttribute("aria-label", `${app.name} App Store`);
+      if (typeof qrcode === "function") {
+        const qr = qrcode(0, "M");
+        qr.addData(appStoreUrl(app.appleId));
+        qr.make();
+        storeQr.innerHTML = qr.createSvgTag({ cellSize: 4, margin: 16, scalable: true });
+        storeQr.setAttribute("aria-label", `${app.name} App Store 链接二维码`);
+      }
+
+      document.querySelectorAll(".app-chip").forEach((chip) => {
+        chip.classList.toggle("is-active", Number(chip.dataset.index) === current);
+        if (Number(chip.dataset.index) === current) chip.setAttribute("aria-current", "true");
+        else chip.removeAttribute("aria-current");
+      });
+      positionOrbit();
+    }
+
+    function setCurrent(index) {
+      if (contactDialog.open) return;
+      current = wrapIndex(index);
+      renderActive();
+    }
+
+    function nextApp() {
+      setCurrent(current + 1);
+    }
+
+    function prevApp() {
+      setCurrent(current - 1);
+    }
+
+    function onGestureMove(direction) {
+      const now = Date.now();
+      if (now - lastGestureAt < 950) return;
+      lastGestureAt = now;
+
+      if (direction === "left") {
+        gestureState.textContent = "识别到左挥，切到下一个";
+        nextApp();
+      } else {
+        gestureState.textContent = "识别到右挥，切到上一个";
+        prevApp();
+      }
+    }
+
+    function trackHand(results) {
+      if (!results.multiHandLandmarks || !results.multiHandLandmarks.length) {
+        if (cameraButton.classList.contains("is-live")) gestureState.textContent = "等待手掌进入画面";
+        return;
+      }
+
+      const wrist = results.multiHandLandmarks[0][0];
+      const now = performance.now();
+      handSamples.push({ x: wrist.x, t: now });
+      handSamples = handSamples.filter((sample) => now - sample.t < 650);
+
+      const first = handSamples[0];
+      const last = handSamples[handSamples.length - 1];
+      if (!first || !last) return;
+
+      const delta = last.x - first.x;
+      if (Math.abs(delta) > 0.26) {
+        handSamples = [];
+        onGestureMove(delta > 0 ? "right" : "left");
+      } else {
+        gestureState.textContent = "手势识别中";
+      }
+    }
+
+    function loadGestureScript(url) {
+      return new Promise((resolve, reject) => {
+        const script = document.createElement("script");
+        script.src = url;
+        script.onload = resolve;
+        script.onerror = () => {
+          script.remove();
+          reject(new Error("Gesture library failed to load"));
+        };
+        document.head.appendChild(script);
+      });
+    }
+
+    async function startGestureControl() {
+      if (camera || cameraButton.disabled) return;
+      cameraButton.disabled = true;
+      gestureState.textContent = "正在加载手势识别";
+      try {
+        if (!window.Hands) await loadGestureScript("https://cdn.jsdelivr.net/npm/@mediapipe/hands/hands.js");
+        if (!window.Camera) await loadGestureScript("https://cdn.jsdelivr.net/npm/@mediapipe/camera_utils/camera_utils.js");
+      } catch (error) {
+        gestureState.textContent = "手势库加载失败，可用按钮切换";
+        cameraButton.disabled = false;
+        return;
+      }
+      gestureState.textContent = "正在请求摄像头";
+
+      hands = new Hands({
+        locateFile: (file) => `https://cdn.jsdelivr.net/npm/@mediapipe/hands/${file}`
+      });
+
+      hands.setOptions({
+        maxNumHands: 1,
+        modelComplexity: 0,
+        minDetectionConfidence: 0.68,
+        minTrackingConfidence: 0.62
+      });
+      hands.onResults(trackHand);
+
+      camera = new Camera(cameraFeed, {
+        width: 640,
+        height: 400,
+        onFrame: async () => {
+          await hands.send({ image: cameraFeed });
+        }
+      });
+
+      try {
+        await camera.start();
+        cameraFeed.classList.add("is-visible");
+        cameraButton.classList.add("is-live");
+        cameraButton.textContent = "手势已开启";
+        gestureState.textContent = "对着摄像头左右挥手";
+      } catch (error) {
+        camera = null;
+        gestureState.textContent = "摄像头不可用，可用按钮切换";
+      } finally {
+        cameraButton.disabled = false;
+      }
+    }
+
+    prevButton.addEventListener("click", prevApp);
+    nextButton.addEventListener("click", nextApp);
+    cameraButton.addEventListener("click", startGestureControl);
+
+    window.addEventListener("keydown", (event) => {
+      if (event.key === "ArrowLeft") prevApp();
+      if (event.key === "ArrowRight") nextApp();
+    });
+
+    let touchStartX = 0;
+    window.addEventListener("touchstart", (event) => {
+      touchStartX = event.changedTouches[0].clientX;
+    }, { passive: true });
+
+    window.addEventListener("touchend", (event) => {
+      const delta = event.changedTouches[0].clientX - touchStartX;
+      if (Math.abs(delta) < 48) return;
+      if (delta < 0) nextApp();
+      if (delta > 0) prevApp();
+    }, { passive: true });
+
+    renderOrbit();
+    renderStrip();
+    renderActive();
+  </script>
 </body>
-</html> 
+</html>

@@ -3,27 +3,31 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="color-scheme" content="dark">
     <title>隐私政策 - App Privacy</title>
     <style>
         :root {
-            --page: #f6f4ec;
-            --surface: #fffdf7;
-            --surface-muted: #eee9dc;
-            --ink: #24231f;
-            --ink-muted: #6d675d;
-            --line: #d7cfbd;
-            --accent: #b88712;
-            --accent-soft: #fff1c2;
-            --shadow: 0 18px 60px rgba(48, 41, 24, 0.12);
+            color-scheme: dark;
+            --page: #07090d;
+            --surface: #0d121b;
+            --surface-muted: #101b23;
+            --ink: #f5f7fb;
+            --ink-muted: #a2adbd;
+            --line: rgba(116, 227, 220, 0.18);
+            --accent: #74e3dc;
+            --accent-soft: rgba(116, 227, 220, 0.12);
         }
 
         * { box-sizing: border-box; }
 
         body {
-            font-family: 'Helvetica Neue', Helvetica, Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+            font-family: 'Avenir Next', 'SF Pro Display', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif;
+            min-height: 100dvh;
             background:
-                linear-gradient(135deg, rgba(255, 255, 255, 0.62), rgba(255, 255, 255, 0) 42%),
+                linear-gradient(90deg, rgba(116, 227, 220, 0.025) 1px, transparent 1px),
+                linear-gradient(0deg, rgba(116, 227, 220, 0.025) 1px, transparent 1px),
                 var(--page);
+            background-size: 54px 54px;
             color: var(--ink);
             margin: 0;
             padding: 0;
@@ -47,13 +51,13 @@
             color: var(--accent);
             font-size: 0.86rem;
             font-weight: 700;
-            letter-spacing: 0.04em;
+            letter-spacing: 0;
         }
 
         h1 {
             margin: 0;
             color: var(--ink);
-            font-size: clamp(2rem, 4vw, 3.4rem);
+            font-size: 2.5rem;
             letter-spacing: 0;
             line-height: 1.08;
         }
@@ -75,10 +79,21 @@
             padding: 0 18px;
             border: 1px solid var(--line);
             border-radius: 999px;
-            background: rgba(255, 253, 247, 0.72);
+            background: rgba(255, 255, 255, 0.05);
             color: var(--ink);
             text-decoration: none;
             font-weight: 700;
+        }
+
+        .home-link:hover {
+            border-color: var(--accent);
+            background: var(--accent-soft);
+        }
+
+        a:focus-visible,
+        button:focus-visible {
+            outline: 2px solid var(--accent);
+            outline-offset: 3px;
         }
 
         .privacy-layout {
@@ -90,10 +105,8 @@
 
         .app-panel,
         .policy-card {
-            border: 1px solid var(--line);
-            border-radius: 18px;
-            background: rgba(255, 253, 247, 0.92);
-            box-shadow: var(--shadow);
+            border-top: 1px solid var(--line);
+            background: var(--surface);
         }
 
         .app-panel {
@@ -136,8 +149,8 @@
             width: 100%;
             height: 42px;
             border: 1px solid var(--line);
-            border-radius: 12px;
-            background: #fffaf0;
+            border-radius: 8px;
+            background: var(--page);
             color: var(--ink);
             padding: 0 12px;
             font-size: 0.98rem;
@@ -145,8 +158,12 @@
         }
 
         .app-search:focus {
-            border-color: #2a2925;
-            box-shadow: 0 0 0 3px rgba(184, 135, 18, 0.16);
+            border-color: var(--accent);
+            box-shadow: 0 0 0 3px var(--accent-soft);
+        }
+
+        .app-search::placeholder {
+            color: var(--ink-muted);
         }
 
         .app-list {
@@ -155,13 +172,15 @@
             max-height: calc(100dvh - 180px);
             overflow: auto;
             padding: 2px 2px 4px;
+            scrollbar-color: rgba(116, 227, 220, 0.38) transparent;
+            scrollbar-width: thin;
         }
 
         .app-tab {
             width: 100%;
             min-height: 40px;
             padding: 8px 12px;
-            border-radius: 12px;
+            border-radius: 8px;
             border: 1px solid transparent;
             background: transparent;
             color: var(--ink);
@@ -173,7 +192,7 @@
         }
 
         .app-tab:hover {
-            background: rgba(255, 241, 194, 0.55);
+            background: var(--surface-muted);
         }
 
         .app-tab:active {
@@ -182,8 +201,8 @@
 
         .app-tab.active {
             background: var(--accent-soft);
-            border-color: #c79518;
-            color: #272115;
+            border-color: rgba(116, 227, 220, 0.48);
+            color: var(--accent);
             font-weight: 800;
         }
 
@@ -201,6 +220,7 @@
 
         .policy-card {
             padding: clamp(24px, 4vw, 44px);
+            overflow-wrap: anywhere;
         }
 
         .policy-section { display: none; }
@@ -236,40 +256,6 @@
         .page-footer {
             margin-top: 18px;
             text-align: center;
-        }
-
-        @media (prefers-color-scheme: dark) {
-            :root {
-                --page: #171613;
-                --surface: #232018;
-                --surface-muted: #302b20;
-                --ink: #f4efe4;
-                --ink-muted: #c8beaa;
-                --line: #4a402e;
-                --accent: #e2b44e;
-                --accent-soft: #3e321a;
-                --shadow: 0 18px 60px rgba(0, 0, 0, 0.32);
-            }
-
-            body {
-                background:
-                    linear-gradient(135deg, rgba(255, 255, 255, 0.06), rgba(255, 255, 255, 0) 42%),
-                    var(--page);
-            }
-
-            .app-panel,
-            .policy-card,
-            .home-link {
-                background: rgba(35, 32, 24, 0.92);
-            }
-
-            .app-search {
-                background: #211e17;
-            }
-
-            .app-tab.active {
-                color: var(--ink);
-            }
         }
 
         @media (max-width: 820px) {
@@ -310,9 +296,6 @@
                 white-space: nowrap;
             }
 
-            .policy-card {
-                border-radius: 16px;
-            }
         }
     </style>
 </head>
@@ -353,7 +336,7 @@
             <button class="app-tab" data-app="13" data-hash="ishots">iShots</button>
             <button class="app-tab" data-app="14" data-hash="goodnight">晚安</button>
             <button class="app-tab" data-app="15" data-hash="bookreader">青灯拾卷</button>
-            <button class="app-tab" data-app="16" data-hash="3d">景深VR</button>
+            <button class="app-tab" data-app="16" data-hash="3d">DepthVR</button>
             <button class="app-tab" data-app="17" data-hash="lumi">LumiAI</button>
             <button class="app-tab" data-app="18" data-hash="softcycle">软记</button>
             <button class="app-tab" data-app="19" data-hash="smth">水木拾光</button>
@@ -604,7 +587,7 @@
             <p>如您有任何关于隐私的疑问或建议，请通过开发者邮箱（glloveyp@163.com）与我们联系。我们承诺持续为您提供安全、可靠、无忧的使用体验。</p>
         </div>
         <div id="policy-16" class="policy-section">
-            <p>景深VR高度重视您的隐私和数据安全。本应用严格遵循以下隐私保护原则：</p>
+            <p>DepthVR 高度重视您的隐私和数据安全。本应用严格遵循以下隐私保护原则：</p>
             <p class="section-title">本地视频处理</p>
             <p>您导入的视频、生成的预览视频和导出的SBS 3D视频，均仅在您的本地设备上处理。应用不会将视频、音频或转换结果上传至服务器或第三方平台。</p>
             <p class="section-title">不收集用户信息</p>
