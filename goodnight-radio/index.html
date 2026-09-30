@@ -1,0 +1,904 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="color-scheme" content="dark">
+  <title>GoodNight Radio - 晚安电台</title>
+  <meta name="description" content="晚安电台是一款可以在网页和 macOS 桌面使用的全球电台应用。拖动地球，发现世界各地正在播放的声音。">
+  <meta property="og:title" content="GoodNight Radio - 晚安电台">
+  <meta property="og:description" content="拖动地球，听见世界各地的电台。支持收藏、搜索、睡眠定时和 macOS 桌面版。">
+  <meta property="og:image" content="https://qteqpid.github.io/app-web/goodnight-radio/assets/goodnight-radio-mac.jpg">
+  <meta property="og:type" content="website">
+  <style>
+    :root {
+      --ink: #f5fff8;
+      --muted: rgba(221, 240, 232, 0.72);
+      --deep: #020409;
+      --panel: rgba(8, 20, 18, 0.82);
+      --panel-strong: rgba(14, 31, 26, 0.94);
+      --line: rgba(117, 255, 190, 0.18);
+      --accent: #57f39b;
+      --accent-ink: #02140c;
+      --radio: #ffcf55;
+      --pink: #ff5f80;
+      --radius: 18px;
+      --shadow: 0 28px 86px rgba(0, 0, 0, 0.42);
+    }
+
+    * { box-sizing: border-box; }
+
+    html {
+      scroll-behavior: smooth;
+      background: var(--deep);
+      color: var(--ink);
+      -webkit-text-size-adjust: 100%;
+      text-size-adjust: 100%;
+    }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      overflow-x: hidden;
+      font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "SF Pro Text", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+      letter-spacing: 0;
+      background:
+        radial-gradient(circle at 78% 28%, rgba(87, 243, 155, 0.16), transparent 30%),
+        linear-gradient(180deg, #061014 0%, #020409 54%, #000 100%);
+    }
+
+    body::before {
+      content: "";
+      position: fixed;
+      inset: 0;
+      pointer-events: none;
+      background-image:
+        radial-gradient(circle, rgba(255, 255, 255, 0.72) 0 1px, transparent 1.5px),
+        radial-gradient(circle, rgba(87, 243, 155, 0.36) 0 1px, transparent 1.5px),
+        radial-gradient(circle, rgba(164, 207, 255, 0.26) 0 1px, transparent 1.5px);
+      background-position: 0 0, 41px 67px, 96px 32px;
+      background-size: 120px 120px, 183px 183px, 270px 270px;
+      opacity: 0.46;
+    }
+
+    a { color: inherit; }
+
+    .nav {
+      position: fixed;
+      z-index: 20;
+      top: 20px;
+      left: 50%;
+      width: min(1120px, calc(100% - 32px));
+      transform: translateX(-50%);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 18px;
+      padding: 10px 12px;
+      border: 1px solid rgba(255, 255, 255, 0.13);
+      border-radius: 999px;
+      background: rgba(3, 8, 12, 0.72);
+      backdrop-filter: blur(24px);
+      -webkit-backdrop-filter: blur(24px);
+      box-shadow: 0 18px 48px rgba(0, 0, 0, 0.28);
+    }
+
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      min-width: 0;
+      color: var(--ink);
+      text-decoration: none;
+      font-weight: 900;
+    }
+
+    .brand img {
+      width: 38px;
+      height: 38px;
+      border-radius: 12px;
+      object-fit: cover;
+    }
+
+    .nav-links,
+    .nav-actions {
+      display: flex;
+      align-items: center;
+      gap: 20px;
+    }
+
+    .nav-links {
+      color: var(--muted);
+      font-size: 14px;
+      font-weight: 760;
+    }
+
+    .nav-links a {
+      text-decoration: none;
+    }
+
+    .language-toggle,
+    .download-small {
+      min-height: 38px;
+      border: 0;
+      border-radius: 999px;
+      font: inherit;
+      font-weight: 860;
+      cursor: pointer;
+    }
+
+    .language-toggle {
+      padding: 0 14px;
+      color: var(--ink);
+      background: rgba(255, 255, 255, 0.1);
+      box-shadow: inset 0 0 0 1px var(--line);
+    }
+
+    .download-small {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      padding: 0 18px;
+      color: var(--accent-ink);
+      text-decoration: none;
+      background: var(--accent);
+      box-shadow: 0 14px 30px rgba(87, 243, 155, 0.24);
+    }
+
+    .button:active,
+    .language-toggle:active,
+    .download-small:active {
+      transform: translateY(1px);
+    }
+
+    .hero {
+      position: relative;
+      min-height: 96vh;
+      display: grid;
+      align-items: center;
+      overflow: hidden;
+      padding: 116px 0 74px;
+    }
+
+    .hero-inner,
+    .section-inner {
+      position: relative;
+      z-index: 2;
+      width: min(1120px, calc(100% - 40px));
+      margin: 0 auto;
+    }
+
+    .hero-grid {
+      display: grid;
+      grid-template-columns: minmax(320px, 0.78fr) minmax(520px, 1.22fr);
+      align-items: center;
+      gap: 52px;
+    }
+
+    .hero-copy {
+      min-width: 0;
+    }
+
+    .eyebrow {
+      display: inline-flex;
+      align-items: center;
+      margin: 0 0 32px;
+      padding: 8px 12px;
+      border-radius: 999px;
+      color: #9bffca;
+      background: rgba(87, 243, 155, 0.08);
+      font-size: 14px;
+      font-weight: 850;
+      box-shadow: inset 0 0 0 1px rgba(87, 243, 155, 0.2);
+    }
+
+    h1 {
+      margin: 0;
+      max-width: 740px;
+      font-size: clamp(50px, 7vw, 92px);
+      line-height: 0.96;
+      letter-spacing: 0;
+      text-wrap: balance;
+    }
+
+    .hero-copy p {
+      max-width: 600px;
+      margin: 26px 0 0;
+      color: var(--muted);
+      font-size: clamp(19px, 2vw, 25px);
+      line-height: 1.46;
+      font-weight: 650;
+    }
+
+    .actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 13px;
+      margin-top: 32px;
+    }
+
+    .button {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 52px;
+      padding: 0 22px;
+      border-radius: 12px;
+      text-decoration: none;
+      font-weight: 900;
+      transition: transform 160ms ease, box-shadow 160ms ease, background 160ms ease;
+    }
+
+    .button.primary {
+      color: var(--accent-ink);
+      background: var(--accent);
+      box-shadow: 0 18px 42px rgba(87, 243, 155, 0.28);
+    }
+
+    .button.secondary {
+      color: var(--ink);
+      background: rgba(255, 255, 255, 0.1);
+      box-shadow: inset 0 0 0 1px var(--line);
+    }
+
+    .hero-card {
+      position: relative;
+      padding: 14px;
+      border: 1px solid rgba(255, 255, 255, 0.14);
+      border-radius: 28px;
+      background: rgba(4, 10, 16, 0.78);
+      box-shadow: var(--shadow);
+      transform: rotate(1.6deg);
+    }
+
+    .hero-card::before {
+      content: "";
+      position: absolute;
+      inset: -1px;
+      border-radius: inherit;
+      background: linear-gradient(135deg, rgba(87, 243, 155, 0.38), transparent 38%, rgba(255, 207, 85, 0.24));
+      opacity: 0.54;
+      pointer-events: none;
+    }
+
+    .hero-card img {
+      position: relative;
+      z-index: 1;
+      display: block;
+      width: 100%;
+      max-height: 560px;
+      object-fit: contain;
+      object-position: center;
+      border-radius: 18px;
+      box-shadow: 0 18px 44px rgba(0, 0, 0, 0.34);
+    }
+
+    .signal {
+      display: grid;
+      grid-template-columns: 58px minmax(0, 1fr);
+      align-items: center;
+      gap: 14px;
+      width: min(460px, 100%);
+      margin-top: 36px;
+      padding: 16px;
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      background: var(--panel);
+      box-shadow: 0 18px 50px rgba(0, 0, 0, 0.26);
+    }
+
+    .signal-logo {
+      width: 58px;
+      height: 58px;
+      border-radius: 16px;
+      object-fit: cover;
+    }
+
+    .signal strong {
+      display: block;
+      font-size: 17px;
+    }
+
+    .signal span {
+      display: block;
+      margin-top: 5px;
+      color: var(--muted);
+      font-size: 14px;
+      font-weight: 680;
+    }
+
+    section {
+      position: relative;
+      padding: 82px 0;
+    }
+
+    .section-title {
+      max-width: 760px;
+      margin: 0 0 18px;
+      font-size: clamp(34px, 5vw, 60px);
+      line-height: 1;
+      letter-spacing: 0;
+      text-wrap: balance;
+    }
+
+    .section-lead {
+      max-width: 720px;
+      margin: 0 0 34px;
+      color: var(--muted);
+      font-size: 19px;
+      line-height: 1.55;
+      font-weight: 650;
+    }
+
+    .feature-grid {
+      display: grid;
+      grid-template-columns: 1.2fr 0.8fr 1fr;
+      gap: 16px;
+    }
+
+    .feature-card,
+    .install-card {
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      background: rgba(8, 20, 18, 0.72);
+      box-shadow: 0 18px 56px rgba(0, 0, 0, 0.24);
+      backdrop-filter: blur(18px);
+      -webkit-backdrop-filter: blur(18px);
+    }
+
+    .feature-card {
+      min-height: 214px;
+      padding: 24px;
+    }
+
+    .feature-card.large {
+      grid-row: span 2;
+      min-height: 444px;
+      background:
+        linear-gradient(160deg, rgba(87, 243, 155, 0.13), rgba(5, 15, 19, 0.84)),
+        var(--panel-strong);
+    }
+
+    .feature-card.warm {
+      background:
+        linear-gradient(150deg, rgba(255, 207, 85, 0.16), rgba(8, 20, 18, 0.74)),
+        var(--panel);
+    }
+
+    .feature-card h3,
+    .install-card h3 {
+      margin: 0;
+      font-size: 23px;
+      line-height: 1.15;
+    }
+
+    .feature-card p,
+    .install-card p {
+      margin: 12px 0 0;
+      color: var(--muted);
+      font-size: 16px;
+      line-height: 1.55;
+      font-weight: 620;
+    }
+
+    .feature-mark {
+      display: grid;
+      place-items: center;
+      width: 48px;
+      height: 48px;
+      margin-bottom: 20px;
+      border-radius: 15px;
+      color: var(--accent-ink);
+      background: var(--accent);
+      font-size: 22px;
+      font-weight: 950;
+    }
+
+    .showcase {
+      display: grid;
+      grid-template-columns: minmax(0, 0.78fr) minmax(460px, 1.18fr);
+      align-items: center;
+      gap: 42px;
+    }
+
+    .showcase-visual {
+      display: grid;
+      place-items: center;
+      padding: 24px;
+      border-radius: 30px;
+      background:
+        linear-gradient(145deg, rgba(87, 243, 155, 0.12), rgba(80, 138, 255, 0.12)),
+        rgba(255, 255, 255, 0.05);
+      border: 1px solid rgba(255, 255, 255, 0.14);
+      box-shadow: var(--shadow);
+    }
+
+    .showcase-visual img {
+      width: min(780px, 100%);
+      max-height: 520px;
+      object-fit: contain;
+      object-position: center;
+      border-radius: 18px;
+      box-shadow: 0 22px 58px rgba(0, 0, 0, 0.46);
+    }
+
+    .install-grid {
+      display: grid;
+      grid-template-columns: 1.05fr 0.95fr;
+      gap: 16px;
+    }
+
+    .install-card {
+      padding: 28px;
+    }
+
+    .install-card.download {
+      display: grid;
+      align-content: space-between;
+      min-height: 250px;
+      background:
+        linear-gradient(150deg, rgba(87, 243, 155, 0.18), rgba(255, 207, 85, 0.12)),
+        var(--panel-strong);
+    }
+
+    .install-list {
+      display: grid;
+      gap: 14px;
+      margin: 0;
+      padding: 0;
+      list-style: none;
+    }
+
+    .install-list li {
+      padding: 18px;
+      border-radius: 14px;
+      background: rgba(255, 255, 255, 0.06);
+      color: var(--muted);
+      font-weight: 700;
+    }
+
+    .footer {
+      position: relative;
+      z-index: 2;
+      padding: 38px 0 52px;
+      color: var(--muted);
+      font-size: 14px;
+      font-weight: 650;
+    }
+
+    .footer .section-inner {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 18px;
+      border-top: 1px solid var(--line);
+      padding-top: 24px;
+    }
+
+    .app-modal {
+      position: fixed;
+      z-index: 50;
+      inset: 0;
+      display: none;
+      place-items: center;
+      padding: 22px;
+      background: rgba(0, 0, 0, 0.62);
+      backdrop-filter: blur(14px);
+      -webkit-backdrop-filter: blur(14px);
+    }
+
+    .app-modal.is-open {
+      display: grid;
+    }
+
+    .app-modal-card {
+      position: relative;
+      width: min(380px, 100%);
+      padding: 28px;
+      border: 1px solid rgba(255, 255, 255, 0.16);
+      border-radius: 24px;
+      background: rgba(6, 14, 17, 0.96);
+      box-shadow: var(--shadow);
+      text-align: center;
+    }
+
+    .app-modal-close {
+      position: absolute;
+      top: 12px;
+      right: 12px;
+      display: grid;
+      place-items: center;
+      width: 38px;
+      height: 38px;
+      border: 0;
+      border-radius: 999px;
+      color: var(--ink);
+      background: rgba(255, 255, 255, 0.14);
+      font: inherit;
+      font-size: 24px;
+      line-height: 1;
+      cursor: pointer;
+    }
+
+    .app-modal-logo {
+      width: 58px;
+      height: 58px;
+      margin: 0 auto 14px;
+      border-radius: 16px;
+      object-fit: cover;
+    }
+
+    .app-modal-card h2 {
+      margin: 0;
+      font-size: 25px;
+      line-height: 1.12;
+    }
+
+    .app-modal-card p {
+      margin: 10px auto 0;
+      max-width: 280px;
+      color: var(--muted);
+      font-size: 15px;
+      line-height: 1.5;
+      font-weight: 650;
+    }
+
+    .app-modal-qr {
+      display: block;
+      width: 178px;
+      height: 178px;
+      margin: 20px auto 16px;
+      border-radius: 14px;
+      background: #fff;
+    }
+
+    .app-store-link {
+      color: var(--accent);
+      font-weight: 900;
+      text-decoration: none;
+    }
+
+    @media (prefers-reduced-motion: no-preference) {
+      body::before {
+        animation: twinkle 4.8s ease-in-out infinite alternate;
+      }
+      .hero-card {
+        animation: floaty 5.6s ease-in-out infinite;
+      }
+    }
+
+    @keyframes twinkle {
+      from { opacity: 0.28; }
+      to { opacity: 0.62; }
+    }
+
+    @keyframes floaty {
+      0%, 100% { transform: translateY(0) rotate(1.6deg); }
+      50% { transform: translateY(-14px) rotate(1.6deg); }
+    }
+
+    @media (max-width: 880px) {
+      .nav-links { display: none; }
+      .download-small { display: none; }
+      .nav { top: 14px; }
+      .hero {
+        min-height: auto;
+        padding: 104px 0 58px;
+      }
+      .hero-grid,
+      .showcase,
+      .install-grid {
+        grid-template-columns: 1fr;
+      }
+      .hero-card {
+        transform: none;
+      }
+      .feature-grid {
+        grid-template-columns: 1fr;
+      }
+      .feature-card.large {
+        grid-row: auto;
+        min-height: 214px;
+      }
+      .footer .section-inner {
+        align-items: flex-start;
+        flex-direction: column;
+      }
+      .app-modal-card {
+        padding: 24px;
+      }
+      .app-modal-qr {
+        width: 148px;
+        height: 148px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <nav class="nav" aria-label="Primary">
+    <a class="brand" href="#top" aria-label="GoodNight Radio">
+      <img src="../mini_icons/app_logo_radio_big.jpg" alt="">
+      <span>GoodNight Radio</span>
+    </a>
+    <div class="nav-links">
+      <a href="https://github.com/qteqpid/globalRadioWeb" data-i18n="navGitHub">GitHub</a>
+      <a href="#features" data-i18n="navFeatures">功能</a>
+      <a href="#showcase" data-i18n="navShowcase">界面</a>
+      <a href="#install" data-i18n="navInstall">安装</a>
+      <a href="../index.html" data-i18n="navTreasures">更多作品</a>
+    </div>
+    <div class="nav-actions">
+      <button class="language-toggle" type="button" aria-label="Switch language">EN</button>
+      <a class="download-small" href="https://github.com/qteqpid/app-web/releases/download/goodnight-radio-v0.1.0/goodnight-radio-v0.1.0-arm64.dmg" data-i18n="download">下载</a>
+    </div>
+  </nav>
+
+  <header class="hero" id="top">
+    <div class="hero-inner">
+      <div class="hero-grid">
+        <div class="hero-copy">
+          <p class="eyebrow" data-i18n="eyebrow">全球电台，放在你的 Mac 桌面上</p>
+          <h1 data-i18n="heroTitle">晚安电台</h1>
+          <p data-i18n="heroText">拖动地球，听见世界各地的广播。夜里、路上、工作间隙，都能找到一个正在发声的地方。</p>
+          <div class="actions">
+            <a class="button primary" href="https://github.com/qteqpid/app-web/releases/download/goodnight-radio-v0.1.0/goodnight-radio-v0.1.0-arm64.dmg" data-i18n="downloadMac">下载 Mac 版</a>
+            <a class="button secondary js-app-download" href="https://apps.apple.com/app/id6757656997" data-i18n="downloadApp">下载 App 版</a>
+            <a class="button secondary" href="https://radio.qteqpid.xyz/" data-i18n="openWeb">打开网页版</a>
+          </div>
+          <div class="signal" aria-label="Station preview">
+            <img class="signal-logo" src="../mini_icons/app_logo_radio_big.jpg" alt="">
+            <div>
+              <strong data-i18n="signalTitle">晚安电台，聆听世界的声音</strong>
+              <span data-i18n="signalText">收藏、搜索、睡眠定时和全球电台地图，都在一个窗口里。</span>
+            </div>
+          </div>
+        </div>
+        <div class="hero-card" aria-label="GoodNight Radio preview">
+          <img src="assets/goodnight-radio-mac.jpg" alt="GoodNight Radio Mac app screenshot">
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section id="features">
+      <div class="section-inner">
+        <h2 class="section-title" data-i18n="featuresTitle">像转动一颗小小星球一样找电台。</h2>
+        <p class="section-lead" data-i18n="featuresLead">界面保持安静，操作尽量直接。你可以拖动地球，也可以从左侧列表快速切换正在播放的电台。</p>
+        <div class="feature-grid">
+          <article class="feature-card large">
+            <div class="feature-mark">01</div>
+            <h3 data-i18n="featureGlobeTitle">全球电台地图</h3>
+            <p data-i18n="featureGlobeText">地球上的站点和真实经纬度对应。把站点转进圆圈，左侧列表会展示附近电台。</p>
+          </article>
+          <article class="feature-card warm">
+            <div class="feature-mark">02</div>
+            <h3 data-i18n="featureDesktopTitle">Mac 桌面版</h3>
+            <p data-i18n="featureDesktopText">复用网页版宽屏界面，独立窗口运行，不需要一直开着浏览器标签。</p>
+          </article>
+          <article class="feature-card">
+            <div class="feature-mark">03</div>
+            <h3 data-i18n="featureSearchTitle">搜索与收藏</h3>
+            <p data-i18n="featureSearchText">按电台名、城市或国家搜索。常听的电台可以收藏，切换时自动清空搜索框。</p>
+          </article>
+          <article class="feature-card">
+            <div class="feature-mark">04</div>
+            <h3 data-i18n="featureTimerTitle">睡眠定时</h3>
+            <p data-i18n="featureTimerText">睡前听一会儿，设定时间到了会自动停止播放，适合夜里安静收尾。</p>
+          </article>
+          <article class="feature-card warm">
+            <div class="feature-mark">05</div>
+            <h3 data-i18n="featureLanguageTitle">中英文界面</h3>
+            <p data-i18n="featureLanguageText">支持手动切换中文和英文，也可以通过 URL 参数设置网页语言。</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section id="showcase">
+      <div class="section-inner showcase">
+        <div>
+          <h2 class="section-title" data-i18n="showcaseTitle">左边是播放器，右边是世界。</h2>
+          <p class="section-lead" data-i18n="showcaseLead">宽屏布局适合 Mac 桌面：左侧负责播放、搜索和收藏，右侧留给地球、电台点和星空背景。</p>
+          <div class="actions">
+            <a class="button secondary js-app-download" href="https://apps.apple.com/app/id6757656997" data-i18n="downloadIos">查看 iOS 版</a>
+          </div>
+        </div>
+        <div class="showcase-visual">
+          <img src="assets/goodnight-radio-mac.jpg" alt="GoodNight Radio desktop layout preview">
+        </div>
+      </div>
+    </section>
+
+    <section id="install">
+      <div class="section-inner install-grid">
+        <article class="install-card download">
+          <div>
+            <h2 class="section-title" data-i18n="installTitle">下载后拖进 Applications。</h2>
+            <p class="section-lead" data-i18n="installLead">当前 Mac 版适合 Apple Silicon。正式发布包会使用 Developer ID 签名和 Apple 公证。</p>
+          </div>
+          <div class="actions">
+            <a class="button primary" href="https://github.com/qteqpid/app-web/releases/download/goodnight-radio-v0.1.0/goodnight-radio-v0.1.0-arm64.dmg" data-i18n="downloadRelease">前往下载</a>
+          </div>
+        </article>
+        <article class="install-card">
+          <h3 data-i18n="stepsTitle">安装方式</h3>
+          <ul class="install-list">
+            <li data-i18n="stepOne">下载最新版 DMG 或 zip 文件。</li>
+            <li data-i18n="stepTwo">打开后把晚安电台拖到 Applications。</li>
+            <li data-i18n="stepThree">首次打开后点击播放器区域开始播放。</li>
+          </ul>
+        </article>
+      </div>
+    </section>
+
+  </main>
+
+  <footer class="footer">
+    <div class="section-inner">
+      <span>GoodNight Radio</span>
+      <span data-i18n="footerText">晚安电台，聆听世界的声音。</span>
+    </div>
+  </footer>
+
+  <div class="app-modal" id="appDownloadModal" aria-hidden="true">
+    <div class="app-modal-card" role="dialog" aria-modal="true" aria-labelledby="appDownloadTitle">
+      <button class="app-modal-close" type="button" aria-label="Close">×</button>
+      <img class="app-modal-logo" src="../mini_icons/app_logo_radio_big.jpg" alt="">
+      <h2 id="appDownloadTitle" data-i18n="appModalTitle">扫码下载 iOS 版</h2>
+      <p data-i18n="appModalText">用 iPhone 相机扫码打开 App Store。也可以直接点击下面的链接。</p>
+      <img class="app-modal-qr" src="assets/app-store-qr.svg" alt="GoodNight Radio App Store QR code">
+      <a class="app-store-link" href="https://apps.apple.com/app/id6757656997" data-i18n="appModalLink">直接打开 App Store</a>
+    </div>
+  </div>
+
+  <script>
+    const copy = {
+      zh: {
+        navGitHub: "GitHub",
+        navFeatures: "功能",
+        navShowcase: "界面",
+        navInstall: "安装",
+        navTreasures: "更多作品",
+        download: "下载",
+        heroTitle: "晚安电台",
+        eyebrow: "全球电台，放在你的 Mac 桌面上",
+        heroText: "拖动地球，听见世界各地的广播。夜里、路上、工作间隙，都能找到一个正在发声的地方。",
+        downloadMac: "下载 Mac 版",
+        downloadApp: "下载 App 版",
+        openWeb: "打开网页版",
+        appModalTitle: "扫码下载 iOS 版",
+        appModalText: "用 iPhone 相机扫码打开 App Store。也可以直接点击下面的链接。",
+        appModalLink: "直接打开 App Store",
+        signalTitle: "晚安电台，聆听世界的声音",
+        signalText: "收藏、搜索、睡眠定时和全球电台地图，都在一个窗口里。",
+        featuresTitle: "像转动一颗小小星球一样找电台。",
+        featuresLead: "界面保持安静，操作尽量直接。你可以拖动地球，也可以从左侧列表快速切换正在播放的电台。",
+        featureGlobeTitle: "全球电台地图",
+        featureGlobeText: "地球上的站点和真实经纬度对应。把站点转进圆圈，左侧列表会展示附近电台。",
+        featureDesktopTitle: "Mac 桌面版",
+        featureDesktopText: "复用网页版宽屏界面，独立窗口运行，不需要一直开着浏览器标签。",
+        featureSearchTitle: "搜索与收藏",
+        featureSearchText: "按电台名、城市或国家搜索。常听的电台可以收藏，切换时自动清空搜索框。",
+        featureTimerTitle: "睡眠定时",
+        featureTimerText: "睡前听一会儿，设定时间到了会自动停止播放，适合夜里安静收尾。",
+        featureLanguageTitle: "中英文界面",
+        featureLanguageText: "支持手动切换中文和英文，也可以通过 URL 参数设置网页语言。",
+        showcaseTitle: "左边是播放器，右边是世界。",
+        showcaseLead: "宽屏布局适合 Mac 桌面：左侧负责播放、搜索和收藏，右侧留给地球、电台点和星空背景。",
+        downloadIos: "查看 iOS 版",
+        installTitle: "下载后拖进 Applications。",
+        installLead: "当前 Mac 版适合 Apple Silicon。正式发布包会使用 Developer ID 签名和 Apple 公证。",
+        downloadRelease: "前往下载",
+        stepsTitle: "安装方式",
+        stepOne: "下载最新版 DMG 或 zip 文件。",
+        stepTwo: "打开后把晚安电台拖到 Applications。",
+        stepThree: "首次打开后点击播放器区域开始播放。",
+        footerText: "晚安电台，聆听世界的声音。"
+      },
+      en: {
+        navGitHub: "GitHub",
+        navFeatures: "Features",
+        navShowcase: "Interface",
+        navInstall: "Install",
+        navTreasures: "More Apps",
+        download: "Download",
+        heroTitle: "GoodNight Radio",
+        eyebrow: "Global radio for your Mac desktop",
+        heroText: "Drag the globe and hear radio stations from around the world. Find a live place to listen at night, on the road, or between tasks.",
+        downloadMac: "Download for Mac",
+        downloadApp: "Download iOS App",
+        openWeb: "Open Web App",
+        appModalTitle: "Scan to download on iPhone",
+        appModalText: "Scan with the iPhone camera to open the App Store, or use the link below.",
+        appModalLink: "Open in the App Store",
+        signalTitle: "GoodNight Radio, listen to the world",
+        signalText: "Favorites, search, sleep timer, and a global station map in one window.",
+        featuresTitle: "Find stations by turning a small planet.",
+        featuresLead: "The interface stays quiet and direct. Drag the globe, or switch stations quickly from the list on the left.",
+        featureGlobeTitle: "Global station map",
+        featureGlobeText: "Station dots follow real coordinates. Move stations into the circle to list nearby radio stations.",
+        featureDesktopTitle: "Mac desktop app",
+        featureDesktopText: "It reuses the wide web interface in its own window, so you do not need to keep a browser tab open.",
+        featureSearchTitle: "Search and favorites",
+        featureSearchText: "Search by station name, city, or country. Save stations you like and return to them quickly.",
+        featureTimerTitle: "Sleep timer",
+        featureTimerText: "Listen before bed and stop playback automatically when the timer ends.",
+        featureLanguageTitle: "Chinese and English",
+        featureLanguageText: "Switch the interface manually, or set the web language with a URL parameter.",
+        showcaseTitle: "Player on the left, the world on the right.",
+        showcaseLead: "The wide layout suits macOS: playback, search, and favorites on the left, globe and starfield on the right.",
+        downloadIos: "View iOS App",
+        installTitle: "Download, then drag to Applications.",
+        installLead: "The current Mac build is for Apple Silicon. Release builds use Developer ID signing and Apple notarization.",
+        downloadRelease: "Go to Download",
+        stepsTitle: "Install",
+        stepOne: "Download the latest DMG or zip file.",
+        stepTwo: "Open it and drag GoodNight Radio to Applications.",
+        stepThree: "Click the player area once to start playback.",
+        footerText: "GoodNight Radio, listen to the world."
+      }
+    };
+
+    let language = new URLSearchParams(window.location.search).get("lang") === "en" ? "en" : "zh";
+    const toggle = document.querySelector(".language-toggle");
+    const nodes = document.querySelectorAll("[data-i18n]");
+    const appModal = document.querySelector("#appDownloadModal");
+    const appModalClose = document.querySelector(".app-modal-close");
+    const appDownloadLinks = document.querySelectorAll(".js-app-download");
+    const shouldOpenAppStoreDirectly = () => window.matchMedia("(max-width: 720px), (pointer: coarse)").matches;
+
+    function openAppModal() {
+      appModal.classList.add("is-open");
+      appModal.setAttribute("aria-hidden", "false");
+      appModalClose.focus();
+    }
+
+    function closeAppModal() {
+      appModal.classList.remove("is-open");
+      appModal.setAttribute("aria-hidden", "true");
+    }
+
+    function applyLanguage(nextLanguage) {
+      language = nextLanguage;
+      document.documentElement.lang = language === "zh" ? "zh-CN" : "en";
+      document.title = language === "zh" ? "GoodNight Radio - 晚安电台" : "GoodNight Radio - Global radio for Mac";
+      document.querySelector("meta[name='description']").setAttribute(
+        "content",
+        language === "zh"
+          ? "晚安电台是一款可以在网页和 macOS 桌面使用的全球电台应用。拖动地球，发现世界各地正在播放的声音。"
+          : "GoodNight Radio is a global radio app for web and macOS. Drag the globe and discover live stations around the world."
+      );
+      nodes.forEach((node) => {
+        const key = node.dataset.i18n;
+        node.textContent = copy[language][key] || node.textContent;
+      });
+      toggle.textContent = language === "zh" ? "EN" : "中";
+    }
+
+    toggle.addEventListener("click", () => {
+      applyLanguage(language === "zh" ? "en" : "zh");
+    });
+
+    appDownloadLinks.forEach((link) => {
+      link.addEventListener("click", (event) => {
+        if (shouldOpenAppStoreDirectly()) return;
+        event.preventDefault();
+        openAppModal();
+      });
+    });
+
+    appModalClose.addEventListener("click", closeAppModal);
+    appModal.addEventListener("click", (event) => {
+      if (event.target === appModal) closeAppModal();
+    });
+    window.addEventListener("keydown", (event) => {
+      if (event.key === "Escape" && appModal.classList.contains("is-open")) {
+        closeAppModal();
+      }
+    });
+
+    applyLanguage(language);
+  </script>
+</body>
+</html>
