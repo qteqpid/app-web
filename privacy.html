@@ -342,6 +342,7 @@
             <button class="app-tab" data-app="19" data-hash="smth">水木拾光</button>
             <button class="app-tab" data-app="20" data-hash="appstop">App时记</button>
             <button class="app-tab" data-app="21" data-hash="pinly">pinly</button>
+            <button class="app-tab" data-app="22" data-hash="jingting">千千静听</button>
                 </div>
                 <div class="empty-result">没有找到匹配的应用。</div>
             </aside>
@@ -682,6 +683,23 @@
             <p class="section-title">联系我们</p>
             <p>如您有任何关于隐私的疑问或建议，请通过开发者邮箱（glloveyp@163.com）与我们联系。我们承诺持续为您提供安全、可靠、无忧的使用体验。</p>
         </div>
+        <div id="policy-22" class="policy-section">
+            <p>千千静听高度重视您的隐私和数据安全。本应用严格遵循以下隐私保护原则：</p>
+            <p class="section-title">本地数据</p>
+            <p>您在本应用中创建或导入的专辑、音频文件、封面、收藏状态、播放进度、播放速度和播放模式等数据，均保存在您的本地设备上。应用不会将这些数据上传至开发者服务器或第三方平台。</p>
+            <p class="section-title">联网内容获取</p>
+            <p>当您导入包含远程音频或远程封面的专辑文件时，应用会通过网络加载这些链接对应的内容，并可能在本地缓存音频或封面，以提升后续播放和显示速度。相关请求仅用于播放和展示您主动导入的内容，不用于追踪、分析或建立用户画像。</p>
+            <p class="section-title">导入与分享</p>
+            <p>应用支持导入和分享专辑文件。分享专辑时，您选择的专辑信息以及必要的音频、封面数据会由系统分享面板发送给您选择的接收方；分享行为完全由您主动触发。</p>
+            <p class="section-title">权限说明</p>
+            <p>应用仅在您主动导入本地音频、选择专辑封面或分享专辑文件时使用系统文件选择、照片选择或分享能力。相关文件仅用于本地播放、展示、导入或分享，不会被上传至开发者服务器。</p>
+            <p class="section-title">不收集用户信息</p>
+            <p>本应用不要求账号登录，不主动收集、存储、分析或分享您的姓名、联系方式、精确位置、通讯录等个人信息，也不集成第三方广告或统计分析服务。</p>
+            <p class="section-title">缓存与删除</p>
+            <p>应用可能会在本地缓存远程音频和封面图片。您可以在应用的设置页面清理缓存；删除应用也会移除保存在设备上的本地专辑、音频、封面、播放记录和缓存数据。</p>
+            <p class="section-title">联系我们</p>
+            <p>如您有任何关于隐私的疑问或建议，请通过开发者邮箱（glloveyp@163.com）与我们联系。我们承诺持续为您提供安全、可靠、无忧的使用体验。</p>
+        </div>
             </main>
         </div>
         <p class="page-footer"><a href="index.html">返回首页</a></p>
@@ -692,8 +710,8 @@
         const appSearch = document.getElementById('appSearch');
         const emptyResult = document.querySelector('.empty-result');
         const appCount = document.querySelector('.app-count');
-        const hashToIdx = { kousuan: 0, lingguang: 1, shengzi: 2, mima: 3, cleaner: 4, kecheng: 5, huihua: 6, haigui: 7, cards: 8, english: 9, girl: 10, chinese: 11, wrong: 12, ishots: 13, goodnight: 14, bookreader: 15, '3d': 16, lumi: 17, softcycle: 18, smth: 19, appstop: 20, pinly: 21};
-        const idxToHash = ['kousuan', 'lingguang', 'shengzi', 'mima', 'cleaner', 'kecheng', 'huihua', 'haigui', 'cards', 'english', 'girl', 'chinese', 'wrong', 'ishots', 'goodnight', 'bookreader', '3d', 'lumi', 'softcycle', 'smth', 'appstop', 'pinly'];
+        const hashToIdx = { kousuan: 0, lingguang: 1, shengzi: 2, mima: 3, cleaner: 4, kecheng: 5, huihua: 6, haigui: 7, cards: 8, english: 9, girl: 10, chinese: 11, wrong: 12, ishots: 13, goodnight: 14, bookreader: 15, '3d': 16, lumi: 17, softcycle: 18, smth: 19, appstop: 20, pinly: 21, jingting: 22};
+        const idxToHash = ['kousuan', 'lingguang', 'shengzi', 'mima', 'cleaner', 'kecheng', 'huihua', 'haigui', 'cards', 'english', 'girl', 'chinese', 'wrong', 'ishots', 'goodnight', 'bookreader', '3d', 'lumi', 'softcycle', 'smth', 'appstop', 'pinly', 'jingting'];
 
         if (appCount) {
             appCount.textContent = `${tabs.length} 个`;

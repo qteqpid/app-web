@@ -1,0 +1,925 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="color-scheme" content="dark">
+  <title>千千静听 - 本地音频音乐播放器</title>
+  <meta name="description" content="千千静听是一款为听书、播客和本地音频音乐设计的 iPhone 播放器。">
+  <link rel="canonical" href="https://qteqpid.github.io/app-web/qianqian-jingting/">
+  <meta property="og:title" content="千千静听 - 本地音频音乐播放器">
+  <meta property="og:description" content="把听书、播客和本地音频音乐放进一个极简好用的播放器里，支持倍速播放、进度管理和播放列表。">
+  <meta property="og:image" content="https://qteqpid.github.io/app-web/screenshots/qianqian-jingting.jpg">
+  <meta property="og:url" content="https://qteqpid.github.io/app-web/qianqian-jingting/">
+  <meta property="og:type" content="website">
+  <style>
+    :root {
+      --ink: #f7fbff;
+      --muted: rgba(227, 234, 244, 0.72);
+      --deep: #0a0d0e;
+      --panel: rgba(18, 22, 24, 0.78);
+      --panel-strong: rgba(23, 28, 31, 0.94);
+      --line: rgba(86, 162, 255, 0.22);
+      --accent: #2f8cff;
+      --accent-soft: #70d7ff;
+      --accent-ink: #f7fbff;
+      --warm: #f6c644;
+      --radius: 18px;
+      --shadow: 0 28px 86px rgba(0, 0, 0, 0.46);
+    }
+
+    * { box-sizing: border-box; }
+
+    html {
+      scroll-behavior: smooth;
+      background: var(--deep);
+      color: var(--ink);
+      -webkit-text-size-adjust: 100%;
+      text-size-adjust: 100%;
+    }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      overflow-x: hidden;
+      font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "SF Pro Text", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+      letter-spacing: 0;
+      background:
+        radial-gradient(circle at 76% 24%, rgba(47, 140, 255, 0.22), transparent 30%),
+        radial-gradient(circle at 18% 78%, rgba(246, 198, 68, 0.13), transparent 28%),
+        linear-gradient(180deg, #151919 0%, #0a0d0e 52%, #020303 100%);
+    }
+
+    body::before {
+      content: "";
+      position: fixed;
+      inset: 0;
+      pointer-events: none;
+      background:
+        repeating-radial-gradient(circle at 50% 42%, rgba(255, 255, 255, 0.08) 0 1px, transparent 1px 9px),
+        linear-gradient(90deg, transparent 0 49%, rgba(47, 140, 255, 0.12) 50%, transparent 51% 100%);
+      background-size: 620px 620px, 120px 100%;
+      opacity: 0.18;
+      mask-image: linear-gradient(180deg, #000 0 70%, transparent 100%);
+    }
+
+    a { color: inherit; }
+
+    .nav {
+      position: fixed;
+      z-index: 20;
+      top: 20px;
+      left: 50%;
+      width: min(1120px, calc(100% - 32px));
+      transform: translateX(-50%);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 18px;
+      padding: 10px 12px;
+      border: 1px solid rgba(255, 255, 255, 0.13);
+      border-radius: 999px;
+      background: rgba(5, 7, 8, 0.72);
+      backdrop-filter: blur(24px);
+      -webkit-backdrop-filter: blur(24px);
+      box-shadow: 0 18px 48px rgba(0, 0, 0, 0.32);
+    }
+
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      min-width: 0;
+      color: var(--ink);
+      text-decoration: none;
+      font-weight: 900;
+    }
+
+    .brand img {
+      width: 38px;
+      height: 38px;
+      border-radius: 12px;
+      object-fit: cover;
+    }
+
+    .nav-links,
+    .nav-actions {
+      display: flex;
+      align-items: center;
+      gap: 20px;
+    }
+
+    .nav-links {
+      margin-left: auto;
+      color: var(--muted);
+      font-size: 14px;
+      font-weight: 760;
+    }
+
+    .nav-links a {
+      text-decoration: none;
+    }
+
+    .language-toggle,
+    .download-small {
+      min-height: 38px;
+      border: 0;
+      border-radius: 999px;
+      font: inherit;
+      font-weight: 860;
+      cursor: pointer;
+    }
+
+    .language-toggle {
+      padding: 0 14px;
+      color: var(--ink);
+      background: rgba(255, 255, 255, 0.1);
+      box-shadow: inset 0 0 0 1px var(--line);
+    }
+
+    .download-small {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      padding: 0 18px;
+      color: var(--accent-ink);
+      text-decoration: none;
+      background: var(--accent);
+      box-shadow: 0 14px 30px rgba(47, 140, 255, 0.28);
+    }
+
+    .button:active,
+    .language-toggle:active,
+    .download-small:active {
+      transform: translateY(1px);
+    }
+
+    .hero {
+      position: relative;
+      min-height: 96vh;
+      display: grid;
+      align-items: center;
+      overflow: hidden;
+      padding: 116px 0 74px;
+    }
+
+    .hero-inner,
+    .section-inner {
+      position: relative;
+      z-index: 2;
+      width: min(1120px, calc(100% - 40px));
+      margin: 0 auto;
+    }
+
+    .hero-grid {
+      display: grid;
+      grid-template-columns: minmax(360px, 1fr) minmax(320px, 0.72fr);
+      align-items: center;
+      gap: 44px;
+    }
+
+    .hero-copy {
+      position: relative;
+      z-index: 4;
+      min-width: 0;
+      color: var(--ink);
+    }
+
+    h1 {
+      margin: 0;
+      max-width: 740px;
+      font-size: clamp(52px, 7vw, 94px);
+      line-height: 0.98;
+      letter-spacing: 0;
+      text-wrap: balance;
+    }
+
+    .hero-copy p {
+      max-width: 600px;
+      margin: 26px 0 0;
+      color: var(--muted);
+      font-size: clamp(19px, 2vw, 25px);
+      line-height: 1.46;
+      font-weight: 650;
+      overflow-wrap: anywhere;
+    }
+
+    .actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 13px;
+      margin-top: 32px;
+    }
+
+    .button {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 52px;
+      padding: 0 22px;
+      border-radius: 12px;
+      text-decoration: none;
+      font-weight: 900;
+      transition: transform 160ms ease, box-shadow 160ms ease, background 160ms ease;
+    }
+
+    .button.primary {
+      color: var(--accent-ink);
+      background: var(--accent);
+      box-shadow: 0 18px 42px rgba(47, 140, 255, 0.32);
+    }
+
+    .button.secondary {
+      color: var(--ink);
+      background: rgba(255, 255, 255, 0.1);
+      box-shadow: inset 0 0 0 1px var(--line);
+    }
+
+    .phone-stage {
+      position: relative;
+      display: grid;
+      place-items: center;
+      min-height: 620px;
+      overflow: hidden;
+    }
+
+    .phone-frame {
+      position: relative;
+      width: min(276px, 74vw);
+      padding: 10px;
+      border-radius: 42px;
+      background: linear-gradient(145deg, #33383d, #08090a 46%, #50565c);
+      box-shadow: var(--shadow);
+      transform: rotate(1.4deg);
+    }
+
+    .phone-frame::before {
+      content: "";
+      position: absolute;
+      top: 11px;
+      left: 50%;
+      width: 37%;
+      height: 26px;
+      transform: translateX(-50%);
+      border-radius: 0 0 18px 18px;
+      background: #050607;
+      z-index: 2;
+    }
+
+    .phone-frame img {
+      display: block;
+      width: 100%;
+      height: auto;
+      max-height: 598px;
+      aspect-ratio: 1179 / 2556;
+      object-fit: cover;
+      border-radius: 32px;
+      background: #111;
+    }
+
+    .now-playing {
+      display: grid;
+      grid-template-columns: 58px minmax(0, 1fr);
+      align-items: center;
+      gap: 14px;
+      width: min(460px, 100%);
+      max-width: 100%;
+      margin-top: 36px;
+      padding: 16px;
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      background: var(--panel);
+      box-shadow: 0 18px 50px rgba(0, 0, 0, 0.28);
+    }
+
+    .now-playing img {
+      width: 58px;
+      height: 58px;
+      border-radius: 16px;
+      object-fit: cover;
+    }
+
+    .now-playing div {
+      min-width: 0;
+    }
+
+    .now-playing strong {
+      display: block;
+      font-size: 17px;
+      overflow-wrap: anywhere;
+    }
+
+    .now-playing span {
+      display: block;
+      margin-top: 5px;
+      color: var(--muted);
+      font-size: 14px;
+      font-weight: 680;
+      overflow-wrap: anywhere;
+    }
+
+    section {
+      position: relative;
+      padding: 82px 0;
+    }
+
+    .section-title {
+      max-width: 760px;
+      margin: 0 0 18px;
+      font-size: clamp(34px, 5vw, 60px);
+      line-height: 1;
+      letter-spacing: 0;
+      text-wrap: balance;
+    }
+
+    .section-lead {
+      max-width: 720px;
+      margin: 0 0 34px;
+      color: var(--muted);
+      font-size: 19px;
+      line-height: 1.55;
+      font-weight: 650;
+      overflow-wrap: anywhere;
+    }
+
+    .resources-panel,
+    .resource-card {
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      background: rgba(18, 22, 24, 0.72);
+      box-shadow: 0 18px 56px rgba(0, 0, 0, 0.24);
+      backdrop-filter: blur(18px);
+      -webkit-backdrop-filter: blur(18px);
+    }
+
+    .resources-panel {
+      padding: 22px;
+    }
+
+    .resource-toolbar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 14px;
+      margin-bottom: 16px;
+    }
+
+    .resource-status {
+      color: var(--muted);
+      font-size: 14px;
+      font-weight: 760;
+    }
+
+    .resource-list {
+      display: grid;
+      gap: 12px;
+      min-height: 144px;
+      max-height: min(560px, 58vh);
+      overflow-y: auto;
+      padding-right: 6px;
+      overscroll-behavior: contain;
+      scrollbar-color: rgba(47, 140, 255, 0.62) rgba(255, 255, 255, 0.06);
+      scrollbar-width: thin;
+    }
+
+    .resource-list::-webkit-scrollbar {
+      width: 8px;
+    }
+
+    .resource-list::-webkit-scrollbar-track {
+      border-radius: 999px;
+      background: rgba(255, 255, 255, 0.06);
+    }
+
+    .resource-list::-webkit-scrollbar-thumb {
+      border-radius: 999px;
+      background: rgba(47, 140, 255, 0.62);
+    }
+
+    .resource-card {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) auto;
+      align-items: center;
+      gap: 14px;
+      padding: 18px;
+      background:
+        linear-gradient(135deg, rgba(47, 140, 255, 0.12), rgba(246, 198, 68, 0.06)),
+        rgba(18, 22, 24, 0.72);
+    }
+
+    .resource-card h3 {
+      margin: 0;
+      font-size: 18px;
+      line-height: 1.22;
+      overflow-wrap: anywhere;
+    }
+
+    .resource-card p {
+      margin: 6px 0 0;
+      color: var(--muted);
+      font-size: 13px;
+      line-height: 1.4;
+      font-weight: 650;
+      overflow-wrap: anywhere;
+    }
+
+    .resource-download {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 40px;
+      padding: 0 16px;
+      border-radius: 999px;
+      color: var(--accent-ink);
+      background: var(--accent);
+      text-decoration: none;
+      font-size: 14px;
+      font-weight: 900;
+      white-space: nowrap;
+      box-shadow: 0 12px 26px rgba(47, 140, 255, 0.24);
+    }
+
+    .resource-message {
+      display: grid;
+      place-items: center;
+      min-height: 144px;
+      padding: 22px;
+      border-radius: 14px;
+      color: var(--muted);
+      background: rgba(255, 255, 255, 0.05);
+      text-align: center;
+      font-weight: 720;
+    }
+
+    .footer {
+      position: relative;
+      z-index: 2;
+      padding: 38px 0 52px;
+      color: var(--muted);
+      font-size: 14px;
+      font-weight: 650;
+    }
+
+    .footer .section-inner {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 18px;
+      border-top: 1px solid var(--line);
+      padding-top: 24px;
+    }
+
+    .app-modal {
+      position: fixed;
+      z-index: 50;
+      inset: 0;
+      display: none;
+      place-items: center;
+      padding: 22px;
+      background: rgba(0, 0, 0, 0.62);
+      backdrop-filter: blur(14px);
+      -webkit-backdrop-filter: blur(14px);
+    }
+
+    .app-modal.is-open {
+      display: grid;
+    }
+
+    .app-modal-card {
+      position: relative;
+      width: min(380px, 100%);
+      padding: 28px;
+      border: 1px solid rgba(255, 255, 255, 0.16);
+      border-radius: 24px;
+      background: rgba(12, 15, 17, 0.96);
+      box-shadow: var(--shadow);
+      text-align: center;
+    }
+
+    .app-modal-close {
+      position: absolute;
+      top: 12px;
+      right: 12px;
+      display: grid;
+      place-items: center;
+      width: 38px;
+      height: 38px;
+      border: 0;
+      border-radius: 999px;
+      color: var(--ink);
+      background: rgba(255, 255, 255, 0.14);
+      font: inherit;
+      font-size: 24px;
+      line-height: 1;
+      cursor: pointer;
+    }
+
+    .app-modal-logo {
+      width: 58px;
+      height: 58px;
+      margin: 0 auto 14px;
+      border-radius: 16px;
+      object-fit: cover;
+    }
+
+    .app-modal-card h2 {
+      margin: 0;
+      font-size: 25px;
+      line-height: 1.12;
+    }
+
+    .app-modal-card p {
+      margin: 10px auto 0;
+      max-width: 280px;
+      color: var(--muted);
+      font-size: 15px;
+      line-height: 1.5;
+      font-weight: 650;
+    }
+
+    .app-modal-qr {
+      display: grid;
+      place-items: center;
+      width: 178px;
+      height: 178px;
+      margin: 20px auto 16px;
+      border-radius: 14px;
+      background: #fff;
+      overflow: hidden;
+    }
+
+    .app-modal-qr svg {
+      display: block;
+      width: 100%;
+      height: 100%;
+    }
+
+    .app-store-link {
+      color: #9ed0ff;
+      font-weight: 900;
+      text-decoration: none;
+    }
+
+    @media (prefers-reduced-motion: no-preference) {
+      .phone-frame {
+        animation: floaty 5.6s ease-in-out infinite;
+      }
+    }
+
+    @keyframes floaty {
+      0%, 100% { transform: translateY(0) rotate(1.4deg); }
+      50% { transform: translateY(-14px) rotate(1.4deg); }
+    }
+
+    @media (max-width: 880px) {
+      .nav-links { display: none; }
+      .download-small { display: none; }
+      .nav { top: 14px; }
+      .hero-inner,
+      .section-inner {
+        width: min(1120px, calc(100% - 32px));
+      }
+      .hero {
+        min-height: auto;
+        padding: 104px 0 58px;
+      }
+      h1 {
+        font-size: clamp(44px, 14vw, 60px);
+      }
+      .hero-copy p,
+      .section-lead {
+        font-size: 17px;
+      }
+      .hero-grid {
+        grid-template-columns: 1fr;
+      }
+      .phone-stage {
+        min-height: auto;
+        padding-top: 24px;
+      }
+      .phone-frame {
+        transform: none;
+      }
+      .resource-toolbar,
+      .resource-card {
+        align-items: stretch;
+        grid-template-columns: 1fr;
+      }
+      .resource-toolbar {
+        flex-direction: column;
+      }
+      .resource-download {
+        width: 100%;
+      }
+      .footer .section-inner {
+        align-items: flex-start;
+        flex-direction: column;
+      }
+      .app-modal-card {
+        padding: 24px;
+      }
+      .app-modal-qr {
+        width: 148px;
+        height: 148px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <nav class="nav" aria-label="Primary">
+    <a class="brand" href="#top" aria-label="千千静听">
+      <img src="../mini_icons/app_logo_qqjt_big.jpg" alt="">
+      <span>千千静听</span>
+    </a>
+    <div class="nav-links">
+      <a href="#resources" data-i18n="navResources">资源</a>
+      <a href="../index.html" data-i18n="navTreasures">更多作品</a>
+    </div>
+    <div class="nav-actions">
+      <button class="language-toggle" type="button" aria-label="Switch language">EN</button>
+      <a class="download-small js-app-download" href="https://apps.apple.com/app/id6818349860" data-i18n="download">下载</a>
+    </div>
+  </nav>
+
+  <header class="hero" id="top">
+    <div class="hero-inner">
+      <div class="hero-grid">
+        <div class="hero-copy">
+          <h1 data-i18n="heroTitle">千千静听</h1>
+          <p data-i18n="heroText">一款极简设计的本地音频音乐播放器，强迫党的最爱。</p>
+          <div class="actions">
+            <a class="button primary js-app-download" href="https://apps.apple.com/app/id6818349860" data-i18n="downloadApp">下载 iPhone 版</a>
+            <a class="button secondary" href="../index.html" data-i18n="moreApps">查看更多作品</a>
+          </div>
+          <div class="now-playing" aria-label="Now playing preview">
+            <img src="../mini_icons/app_logo_qqjt_big.jpg" alt="">
+            <div>
+              <strong data-i18n="signalTitle">本地远程音频播放器</strong>
+              <span data-i18n="signalText">适合听书、播客和课程，速度与进度都可控。</span>
+            </div>
+          </div>
+        </div>
+        <div class="phone-stage" aria-label="Qianqian Audio preview">
+          <div class="phone-frame">
+            <img src="../screenshots/qianqian-jingting.jpg" alt="千千静听 App 播放界面截图" width="1179" height="2556" fetchpriority="high">
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section id="resources">
+      <div class="section-inner">
+        <h2 class="section-title" data-i18n="resourcesTitle">资源下载</h2>
+        <p class="section-lead" data-i18n="resourcesLead">下载 `.qqjtalbum` 文件，并在千千静听App里直接导入和播放。</p>
+        <div class="resources-panel">
+          <div class="resource-toolbar">
+            <span class="resource-status" id="resourceStatus">正在读取资源列表...</span>
+          </div>
+          <div class="resource-list" id="resourceList" aria-live="polite"></div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="section-inner">
+      <span>千千静听</span>
+      <span data-i18n="footerText">本地远程听书播客倍速播放。</span>
+    </div>
+  </footer>
+
+  <div class="app-modal" id="appDownloadModal" aria-hidden="true">
+    <div class="app-modal-card" role="dialog" aria-modal="true" aria-labelledby="appDownloadTitle">
+      <button class="app-modal-close" type="button" aria-label="Close">×</button>
+      <img class="app-modal-logo" src="../mini_icons/app_logo_qqjt_big.jpg" alt="">
+      <h2 id="appDownloadTitle" data-i18n="appModalTitle">扫码下载 iPhone 版</h2>
+      <p data-i18n="appModalText">用 iPhone 相机扫码打开 App Store。也可以直接点击下面的链接。</p>
+      <div class="app-modal-qr" id="appStoreQr" aria-label="千千静听 App Store 链接二维码"></div>
+      <a class="app-store-link" href="https://apps.apple.com/app/id6818349860" data-i18n="appModalLink">直接打开 App Store</a>
+    </div>
+  </div>
+
+  <script src="../tools/qrcode.js"></script>
+  <script>
+    const appStoreUrl = "https://apps.apple.com/app/id6818349860";
+    const resourceManifestUrl = "https://gitee.com/api/v5/repos/qteqpid/jjqt/contents/albums.json?ref=master";
+    const copy = {
+      zh: {
+        navResources: "资源",
+        navTreasures: "更多作品",
+        download: "下载",
+        heroTitle: "千千静听",
+        heroText: "一款极简设计的本地音频音乐播放器，强迫党的最爱。",
+        downloadApp: "下载 iPhone 版",
+        moreApps: "查看更多作品",
+        appModalTitle: "扫码下载 iPhone 版",
+        appModalText: "用 iPhone 相机扫码打开 App Store。也可以直接点击下面的链接。",
+        appModalLink: "直接打开 App Store",
+        signalTitle: "本地远程音频播放器",
+        signalText: "适合听书、播客和课程，速度与进度都可控。",
+        resourcesTitle: "资源下载",
+        resourcesLead: "下载 .qqjtalbum 文件，并在千千静听App里直接导入和播放。",
+        resourceLoading: "正在读取资源列表...",
+        resourceLoaded: "共 {count} 个资源",
+        resourceEmpty: "暂无可下载资源",
+        resourceError: "资源列表暂时无法读取",
+        resourceInvalid: "资源清单格式不正确",
+        resourceDownload: "下载",
+        resourceFile: "千千静听专辑文件",
+        footerText: "本地远程听书播客倍速播放。"
+      },
+      en: {
+        navResources: "Resources",
+        navTreasures: "More Apps",
+        download: "Download",
+        heroTitle: "Qianqian Audio",
+        heroText: "Bring local files and remote audio into one listening space. Speed control, progress, playlists, and an immersive player are designed for long sessions.",
+        downloadApp: "Download for iPhone",
+        moreApps: "More Apps",
+        appModalTitle: "Scan to download on iPhone",
+        appModalText: "Scan with the iPhone camera to open the App Store, or use the link below.",
+        appModalLink: "Open in the App Store",
+        signalTitle: "Local and remote audio player",
+        signalText: "Made for audiobooks, podcasts, and courses, with speed and progress in your control.",
+        resourcesTitle: "Resource Downloads",
+        resourcesLead: "This page loads importable album files from a remote manifest. Download a .qqjtalbum file, then import it in Qianqian Audio.",
+        resourceLoading: "Loading resources...",
+        resourceLoaded: "{count} resources",
+        resourceEmpty: "No downloadable resources yet",
+        resourceError: "The resource list is unavailable",
+        resourceInvalid: "The resource manifest format is invalid",
+        resourceDownload: "Download",
+        resourceFile: "Qianqian Audio album file",
+        footerText: "Local and remote audiobook and podcast player."
+      }
+    };
+
+    let language = new URLSearchParams(window.location.search).get("lang") === "en" ? "en" : "zh";
+    const toggle = document.querySelector(".language-toggle");
+    const nodes = document.querySelectorAll("[data-i18n]");
+    const appModal = document.querySelector("#appDownloadModal");
+    const appModalClose = document.querySelector(".app-modal-close");
+    const appDownloadLinks = document.querySelectorAll(".js-app-download");
+    const resourceList = document.querySelector("#resourceList");
+    const resourceStatus = document.querySelector("#resourceStatus");
+    const shouldOpenAppStoreDirectly = () => window.matchMedia("(max-width: 720px), (pointer: coarse)").matches;
+    let loadedResources = null;
+    let resourceMessageKey = "resourceLoading";
+
+    function renderQr() {
+      if (typeof qrcode !== "function") return;
+      const qr = qrcode(0, "M");
+      qr.addData(appStoreUrl);
+      qr.make();
+      document.querySelector("#appStoreQr").innerHTML = qr.createSvgTag({ cellSize: 4, margin: 16, scalable: true });
+    }
+
+    function openAppModal() {
+      appModal.classList.add("is-open");
+      appModal.setAttribute("aria-hidden", "false");
+      appModalClose.focus();
+    }
+
+    function closeAppModal() {
+      appModal.classList.remove("is-open");
+      appModal.setAttribute("aria-hidden", "true");
+    }
+
+    function applyLanguage(nextLanguage) {
+      language = nextLanguage;
+      document.documentElement.lang = language === "zh" ? "zh-CN" : "en";
+      document.title = language === "zh" ? "千千静听 - 本地远程听书播客倍速播放" : "Qianqian Audio - Audiobooks, Podcasts, Local Audio";
+      document.querySelector("meta[name='description']").setAttribute(
+        "content",
+        language === "zh"
+          ? "千千静听是一款为听书、播客和本地音频设计的 iPhone 播放器，支持本地与远程音频、倍速播放、播放列表和安静专注的沉浸界面。"
+          : "Qianqian Audio is an iPhone player for audiobooks, podcasts, and local audio, with local and remote playback, speed control, playlists, and a calm player interface."
+      );
+      nodes.forEach((node) => {
+        const key = node.dataset.i18n;
+        node.textContent = copy[language][key] || node.textContent;
+      });
+      toggle.textContent = language === "zh" ? "EN" : "中";
+      if (loadedResources) {
+        renderResources(loadedResources);
+      } else {
+        renderResourceMessage(text(resourceMessageKey));
+      }
+    }
+
+    function text(key, replacements = {}) {
+      let value = copy[language][key] || "";
+      Object.entries(replacements).forEach(([name, replacement]) => {
+        value = value.replace(`{${name}}`, replacement);
+      });
+      return value;
+    }
+
+    function escapeHTML(value) {
+      return String(value).replace(/[&<>"']/g, (char) => ({
+        "&": "&amp;",
+        "<": "&lt;",
+        ">": "&gt;",
+        "\"": "&quot;",
+        "'": "&#39;"
+      }[char]));
+    }
+
+    function normalizeResources(payload) {
+      const source = Array.isArray(payload) ? payload : payload && typeof payload === "object" ? payload.albums || payload.resources || payload : null;
+      if (!source || typeof source !== "object") throw new Error("Invalid manifest");
+
+      const entries = Array.isArray(source)
+        ? source.map((item) => [item && item.name, item && item.url])
+        : Object.entries(source);
+
+      const resources = entries
+        .map(([name, url]) => ({
+          name: String(name || "").trim(),
+          url: String(url || "").trim()
+        }))
+        .filter((item) => item.name && /^https?:\/\//i.test(item.url) && /\.qqjtalbum($|[?#])/i.test(item.url));
+
+      if (entries.length > 0 && resources.length === 0) throw new Error("Invalid manifest");
+      return resources;
+    }
+
+    function decodeGiteeContent(payload) {
+      if (!payload || payload.encoding !== "base64" || typeof payload.content !== "string") return payload;
+
+      const binary = atob(payload.content.replace(/\s/g, ""));
+      const bytes = Uint8Array.from(binary, (char) => char.charCodeAt(0));
+      return JSON.parse(new TextDecoder("utf-8").decode(bytes));
+    }
+
+    function renderResourceMessage(message) {
+      resourceStatus.textContent = message;
+      resourceList.innerHTML = `<div class="resource-message">${escapeHTML(message)}</div>`;
+    }
+
+    function renderResources(resources) {
+      loadedResources = resources;
+      if (resources.length === 0) {
+        resourceMessageKey = "resourceEmpty";
+        renderResourceMessage(text("resourceEmpty"));
+        return;
+      }
+
+      resourceMessageKey = "";
+      resourceStatus.textContent = text("resourceLoaded", { count: resources.length });
+      resourceList.innerHTML = resources.map((resource) => `
+        <article class="resource-card">
+          <div>
+            <h3>${escapeHTML(resource.name)}</h3>
+            <p>${escapeHTML(text("resourceFile"))}</p>
+          </div>
+          <a class="resource-download" href="${escapeHTML(resource.url)}" download>${escapeHTML(text("resourceDownload"))}</a>
+        </article>
+      `).join("");
+    }
+
+    async function loadResources() {
+      loadedResources = null;
+      resourceMessageKey = "resourceLoading";
+      renderResourceMessage(text("resourceLoading"));
+      try {
+        const response = await fetch(resourceManifestUrl, { cache: "no-store" });
+        if (!response.ok) throw new Error(`Manifest request failed: ${response.status}`);
+        renderResources(normalizeResources(decodeGiteeContent(await response.json())));
+      } catch (error) {
+        loadedResources = null;
+        resourceMessageKey = error.message === "Invalid manifest" ? "resourceInvalid" : "resourceError";
+        renderResourceMessage(text(resourceMessageKey));
+      }
+    }
+
+    toggle.addEventListener("click", () => {
+      applyLanguage(language === "zh" ? "en" : "zh");
+    });
+
+    appDownloadLinks.forEach((link) => {
+      link.addEventListener("click", (event) => {
+        if (shouldOpenAppStoreDirectly()) return;
+        event.preventDefault();
+        openAppModal();
+      });
+    });
+
+    appModalClose.addEventListener("click", closeAppModal);
+    appModal.addEventListener("click", (event) => {
+      if (event.target === appModal) closeAppModal();
+    });
+    window.addEventListener("keydown", (event) => {
+      if (event.key === "Escape" && appModal.classList.contains("is-open")) {
+        closeAppModal();
+      }
+    });
+
+    renderQr();
+    applyLanguage(language);
+    loadResources();
+  </script>
+</body>
+</html>
