@@ -616,7 +616,7 @@
       <a href="#showcase" data-i18n="navShowcase">界面</a>
       <a href="#install" data-i18n="navInstall">安装</a>
       <a href="#privacy" data-i18n="navPrivacy">隐私</a>
-      <a id="treasuresLink" href="https://qteqpid.github.io/app-web/treasures.html" data-i18n="navTreasures">更多作品</a>
+      <a id="treasuresLink" href="https://qteqpid.xyz/" data-i18n="navTreasures">更多作品</a>
     </div>
     <div class="nav-actions">
       <button class="language-toggle" type="button" aria-label="Switch language">EN</button>
@@ -899,8 +899,8 @@
         node.textContent = copy[language][key] || node.textContent;
       });
       treasuresLink.href = language === "zh"
-        ? "https://qteqpid.github.io/app-web/treasures.html"
-        : "https://qteqpid.github.io/app-web/treasures.html?lang=en";
+        ? "https://qteqpid.xyz/"
+        : "https://qteqpid.xyz/?lang=en";
       toggle.textContent = language === "zh" ? "EN" : "中";
     }
 

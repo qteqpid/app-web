@@ -5,13 +5,41 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <meta name="color-scheme" content="dark">
   <title>水木拾光 - 水木社区第三方移动客户端</title>
-  <meta name="description" content="水木拾光是一款为水木社区用户设计的第三方 iPhone 水木客户端，支持浏览十大、版面帖子、收藏、私信和社区互动。">
-  <link rel="canonical" href="https://qteqpid.github.io/app-web/smth/">
+  <meta name="description" content="水木拾光是水木社区第三方移动客户端，支持浏览、搜索、收藏、私信和社区互动。iPhone 版可在 App Store 查看，Android 版可在官网下载。">
+  <link rel="canonical" href="https://smth.qteqpid.xyz/">
+  <link rel="icon" href="assets/app-icon.jpg">
   <meta property="og:title" content="水木拾光 - 第三方水木客户端">
   <meta property="og:description" content="为水木社区用户设计的第三方移动水木客户端，轻快浏览帖子，安静收藏好内容。">
-  <meta property="og:image" content="https://qteqpid.github.io/app-web/screenshots/smth-hero.jpg">
-  <meta property="og:url" content="https://qteqpid.github.io/app-web/smth/">
+  <meta property="og:image" content="https://smth.qteqpid.xyz/assets/app-preview.jpg">
+  <meta property="og:url" content="https://smth.qteqpid.xyz/">
   <meta property="og:type" content="website">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "水木拾光",
+  "url": "https://smth.qteqpid.xyz/",
+  "description": "水木社区第三方移动客户端，支持浏览、搜索、收藏、私信和社区互动。iPhone 版提供复古、白天、Term 和黑夜主题。",
+  "applicationCategory": "SocialNetworkingApplication",
+  "operatingSystem": "iOS 18.6 或更高版本；Android 8.0 或更高版本",
+  "author": {
+    "@type": "Person",
+    "name": "功亮 张"
+  },
+  "image": "https://smth.qteqpid.xyz/assets/theme-retro.webp",
+  "installUrl": "https://apps.apple.com/cn/app/id6804379914",
+  "downloadUrl": [
+    "https://apps.apple.com/cn/app/id6804379914",
+    "https://smth.qteqpid.xyz/downloads/smth-1.0.apk"
+  ],
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "CNY",
+    "url": "https://apps.apple.com/cn/app/id6804379914"
+  }
+}
+  </script>
   <style>
     :root {
       --ink: #f7fbff;
@@ -44,10 +72,7 @@
       overflow-x: hidden;
       font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "SF Pro Text", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
       letter-spacing: 0;
-      background:
-        radial-gradient(circle at 76% 24%, rgba(47, 140, 255, 0.22), transparent 30%),
-        radial-gradient(circle at 18% 78%, rgba(246, 198, 68, 0.13), transparent 28%),
-        linear-gradient(180deg, #151919 0%, #0a0d0e 52%, #020303 100%);
+      background: var(--deep);
     }
 
     body::before {
@@ -59,7 +84,7 @@
         repeating-radial-gradient(circle at 50% 42%, rgba(255, 255, 255, 0.08) 0 1px, transparent 1px 9px),
         linear-gradient(90deg, transparent 0 49%, rgba(47, 140, 255, 0.12) 50%, transparent 51% 100%);
       background-size: 620px 620px, 120px 100%;
-      opacity: 0.18;
+      opacity: 0;
       mask-image: linear-gradient(180deg, #000 0 70%, transparent 100%);
     }
 
@@ -78,7 +103,7 @@
       gap: 18px;
       padding: 10px 12px;
       border: 1px solid rgba(255, 255, 255, 0.13);
-      border-radius: 999px;
+      border-radius: 8px;
       background: rgba(5, 7, 8, 0.72);
       backdrop-filter: blur(24px);
       -webkit-backdrop-filter: blur(24px);
@@ -120,7 +145,6 @@
       text-decoration: none;
     }
 
-    .language-toggle,
     .download-small {
       min-height: 38px;
       border: 0;
@@ -128,13 +152,6 @@
       font: inherit;
       font-weight: 860;
       cursor: pointer;
-    }
-
-    .language-toggle {
-      padding: 0 14px;
-      color: var(--ink);
-      background: rgba(255, 255, 255, 0.1);
-      box-shadow: inset 0 0 0 1px var(--line);
     }
 
     .download-small {
@@ -149,18 +166,17 @@
     }
 
     .button:active,
-    .language-toggle:active,
     .download-small:active {
       transform: translateY(1px);
     }
 
     .hero {
       position: relative;
-      min-height: 96vh;
+      min-height: auto;
       display: grid;
       align-items: center;
       overflow: hidden;
-      padding: 116px 0 74px;
+      padding: 124px 0 32px;
     }
 
     .hero-inner,
@@ -173,9 +189,10 @@
 
     .hero-grid {
       display: grid;
-      grid-template-columns: minmax(360px, 1fr) minmax(320px, 0.72fr);
+      grid-template-columns: minmax(0, 1.3fr) minmax(0, 1fr);
       align-items: center;
-      gap: 44px;
+      gap: 64px;
+      text-align: left;
     }
 
     .hero-copy {
@@ -188,7 +205,7 @@
     h1 {
       margin: 0;
       max-width: 740px;
-      font-size: clamp(52px, 7vw, 94px);
+      font-size: 56px;
       line-height: 0.98;
       letter-spacing: 0;
       text-wrap: balance;
@@ -196,9 +213,9 @@
 
     .hero-copy p {
       max-width: 600px;
-      margin: 26px 0 0;
+      margin: 20px 0 0;
       color: var(--muted);
-      font-size: clamp(19px, 2vw, 25px);
+      font-size: 20px;
       line-height: 1.46;
       font-weight: 650;
       overflow-wrap: anywhere;
@@ -209,6 +226,7 @@
       flex-wrap: wrap;
       gap: 13px;
       margin-top: 32px;
+      justify-content: flex-start;
     }
 
     .button {
@@ -235,47 +253,56 @@
       box-shadow: inset 0 0 0 1px var(--line);
     }
 
+    .button:disabled {
+      border: 0;
+      cursor: not-allowed;
+      opacity: 0.7;
+      font: inherit;
+      font-weight: 900;
+    }
+
+    .android-download {
+      display: grid;
+      justify-items: center;
+      gap: 6px;
+    }
+
+    .android-download .button { position: relative; }
+    .android-beta {
+      position: absolute;
+      top: -8px;
+      right: -6px;
+      padding: 3px 6px;
+      border-radius: 4px;
+      background: #9ae6c4;
+      color: #12382b;
+      font-size: 11px;
+      font-weight: 700;
+      line-height: 1.2;
+      white-space: nowrap;
+    }
+    .actions { align-items: flex-start; }
+
     .phone-stage {
       position: relative;
       display: grid;
       place-items: center;
-      min-height: 620px;
+      min-height: auto;
       overflow: hidden;
     }
 
-    .phone-frame {
-      position: relative;
-      width: min(276px, 74vw);
-      padding: 10px;
-      border-radius: 42px;
-      background: linear-gradient(145deg, #33383d, #08090a 46%, #50565c);
-      box-shadow: var(--shadow);
-      transform: rotate(1.4deg);
-    }
+    .theme-carousel { width: min(280px, 100%); }
+    .theme-images { display: grid; }
+    .theme-images img { grid-area: 1 / 1; width: 100%; height: auto; opacity: 0; transition: opacity 450ms ease-out; pointer-events: none; }
+    .theme-images img.is-active { opacity: 1; }
+    .theme-controls { display: flex; justify-content: center; gap: 0; margin-top: 14px; }
+    .theme-controls button { display: grid; place-items: center; width: 20px; height: 28px; padding: 0; border: 0; background: transparent; cursor: pointer; }
+    .theme-controls button::before { content: ""; width: 7px; height: 7px; border-radius: 50%; background: #66717c; transition: background 180ms ease; }
+    .theme-controls button[aria-pressed="true"]::before { background: #f7fbff; }
+    .theme-controls button:hover::before { background: #b9c7d5; }
+    .theme-controls button:focus-visible { outline: 2px solid var(--accent-soft); outline-offset: 1px; border-radius: 50%; }
+    @media (prefers-reduced-motion: reduce) { .theme-images img { transition: none; } }
 
-    .phone-frame::before {
-      content: "";
-      position: absolute;
-      top: 11px;
-      left: 50%;
-      width: 37%;
-      height: 26px;
-      transform: translateX(-50%);
-      border-radius: 0 0 18px 18px;
-      background: #050607;
-      z-index: 2;
-    }
-
-    .phone-frame img {
-      display: block;
-      width: 100%;
-      height: auto;
-      max-height: 598px;
-      aspect-ratio: 1179 / 2556;
-      object-fit: cover;
-      border-radius: 32px;
-      background: #111;
-    }
 
     .now-playing {
       display: grid;
@@ -334,7 +361,18 @@
       gap: 18px;
       border-top: 1px solid var(--line);
       padding-top: 24px;
+      flex-wrap: wrap;
     }
+
+    .content-section { padding: 48px 0; border-top: 1px solid rgba(255,255,255,.12); scroll-margin-top: 100px; }
+    .content-section h2 { font-size: 28px; margin: 0 0 24px; }
+    .feature-list { display: grid; grid-template-columns: repeat(3, minmax(0,1fr)); gap: 32px; }
+    .feature-list h3 { margin: 0 0 12px; font-size: 20px; }
+    .content-section p, .content-section details { color: var(--muted); line-height: 1.8; }
+    .content-section details { padding: 16px 0; border-bottom: 1px solid rgba(255,255,255,.12); }
+    .content-section summary { cursor: pointer; color: var(--ink); font-weight: 700; }
+    .notice { font-size: 13px !important; font-weight: 400 !important; }
+    a:focus-visible, button:focus-visible, summary:focus-visible { outline: 2px solid var(--accent-soft); outline-offset: 4px; }
 
     .app-modal {
       position: fixed;
@@ -429,7 +467,7 @@
 
     @media (prefers-reduced-motion: no-preference) {
       .phone-frame {
-        animation: floaty 5.6s ease-in-out infinite;
+        animation: none;
       }
     }
 
@@ -448,24 +486,29 @@
       }
       .hero {
         min-height: auto;
-        padding: 104px 0 58px;
+        padding: 96px 0 24px;
       }
       h1 {
-        font-size: clamp(44px, 14vw, 60px);
+        font-size: 40px;
       }
       .hero-copy p {
         font-size: 17px;
       }
       .hero-grid {
         grid-template-columns: 1fr;
+        gap: 24px;
+        text-align: center;
       }
+      .hero-copy h1 { margin-inline: auto; }
+      .hero-copy p { margin-inline: auto; }
+      .actions { justify-content: center; }
+      .actions .help-button { display: none; }
       .phone-stage {
         min-height: auto;
-        padding-top: 24px;
+        padding-top: 0;
       }
-      .phone-frame {
-        transform: none;
-      }
+      .theme-carousel { width: 220px; }
+      .feature-list { grid-template-columns: 1fr; gap: 24px; }
       .footer .section-inner {
         align-items: flex-start;
         flex-direction: column;
@@ -478,20 +521,32 @@
         height: 148px;
       }
     }
+    .changelog-disclosure { border: 0; padding: 0; }
+    .changelog-disclosure > summary { cursor: pointer; }
+    .changelog-disclosure > summary h2 { display: inline; margin: 0; }
+    .changelog-source { color: var(--muted); line-height: 1.7; }
+    .changelog-source a { color: var(--accent-soft); }
+    .changelog-list article { display: grid; grid-template-columns: 72px 120px minmax(0, 1fr); gap: 20px; padding: 24px 0; border-bottom: 1px solid var(--line); }
+    .changelog-list article h2 { font-size: 22px; margin: 0; }
+    .changelog-list time { color: var(--muted); font-size: 14px; line-height: 1.7; }
+    .changelog-list ul { margin: 0; padding-left: 20px; line-height: 1.7; color: var(--muted); }
+    @media (max-width: 600px) { .changelog-list article { grid-template-columns: 1fr auto; gap: 10px; } .changelog-list ul { grid-column: 1 / -1; } }
   </style>
 </head>
 <body>
-  <nav class="nav" aria-label="Primary">
+  <nav class="nav" aria-label="主导航">
     <a class="brand" href="#top" aria-label="水木拾光">
-      <img src="../mini_icons/app_logo_smth_big.jpg" alt="">
+      <img src="assets/app-icon.jpg" alt="">
       <span>水木拾光</span>
     </a>
     <div class="nav-links">
-      <a href="../index.html" data-i18n="navTreasures">更多作品</a>
+      <a href="https://qteqpid.xyz/">更多作品</a>
+      <a href="#help">Q&A</a>
+      <a href="#changelog">Changelog</a>
+      <a href="privacy.html">隐私政策</a>
     </div>
     <div class="nav-actions">
-      <button class="language-toggle" type="button" aria-label="Switch language">EN</button>
-      <a class="download-small js-app-download" href="https://apps.apple.com/app/id6804379914" data-i18n="download">下载</a>
+      <a class="download-small js-app-download" href="https://apps.apple.com/app/id6804379914">下载</a>
     </div>
   </nav>
 
@@ -499,98 +554,124 @@
     <div class="hero-inner">
       <div class="hero-grid">
         <div class="hero-copy">
-          <h1 data-i18n="heroTitle">水木拾光</h1>
-          <p data-i18n="heroText">一款为水木社区用户设计的第三方 iPhone 水木客户端，浏览帖子非非非常丝滑。</p>
+          <h1>水木拾光</h1>
+          <p>水木社区第三方移动客户端，追求极致的阅读与交流体验。</p>
           <div class="actions">
-            <a class="button primary js-app-download" href="https://apps.apple.com/app/id6804379914" data-i18n="downloadApp">下载 iPhone 版</a>
-            <a class="button secondary" href="../index.html" data-i18n="moreApps">查看更多作品</a>
-          </div>
-          <div class="now-playing" aria-label="Now playing preview">
-            <img src="../mini_icons/app_logo_smth_big.jpg" alt="">
-            <div>
-              <strong data-i18n="signalTitle">水木社区移动客户端</strong>
-              <span data-i18n="signalText">适合浏览十大、版面、帖子、收藏、私信与社区互动。</span>
+            <a class="button primary js-app-download" href="https://apps.apple.com/app/id6804379914">下载 iPhone 版</a>
+            <div class="android-download">
+              <a class="button secondary" href="downloads/smth-1.0.apk" download><span>下载 Android 版</span><span class="android-beta">内测版</span></a>
             </div>
+            <a class="button secondary help-button" href="#help">Q&A</a>
           </div>
         </div>
-        <div class="phone-stage" aria-label="ShuiMu Time preview">
-          <div class="phone-frame">
-            <img src="../screenshots/smth-hero.jpg" alt="水木拾光 App 界面截图" width="945" height="2049" fetchpriority="high">
+        <div class="phone-stage">
+          <div class="theme-carousel" role="region" aria-roledescription="轮播" aria-label="四种主题界面预览">
+            <div class="theme-images">
+              <img src="assets/theme-retro.webp" alt="水木拾光复古主题界面" width="600" height="1215" class="is-active" aria-hidden="false" fetchpriority="high">
+              <img src="assets/theme-light.webp" alt="水木拾光白天主题界面" width="600" height="1215" class="" aria-hidden="true" loading="lazy">
+              <img src="assets/theme-term.webp" alt="水木拾光Term 主题界面" width="600" height="1215" class="" aria-hidden="true" loading="lazy">
+              <img src="assets/theme-dark.webp" alt="水木拾光黑夜主题界面" width="600" height="1215" class="" aria-hidden="true" loading="lazy">
+            </div>
+            <div class="theme-controls">
+              <button type="button" data-theme="0" aria-pressed="true" aria-label="复古主题" title="复古主题"></button>
+              <button type="button" data-theme="1" aria-pressed="false" aria-label="白天主题" title="白天主题"></button>
+              <button type="button" data-theme="2" aria-pressed="false" aria-label="Term 主题" title="Term 主题"></button>
+              <button type="button" data-theme="3" aria-pressed="false" aria-label="黑夜主题" title="黑夜主题"></button>
+            </div>
           </div>
         </div>
       </div>
     </div>
   </header>
 
+  <main>
+    <section class="content-section" id="features"><div class="section-inner">
+      <h2>在水木，读帖子，也聊生活</h2>
+      <div class="feature-list">
+        <div><h3>浏览与搜索</h3><p>浏览首页热门帖子与各个版面，搜索感兴趣的话题，通过浏览历史找回读过的内容。</p></div>
+        <div><h3>收藏与交流</h3><p>收藏帖子与版面，关注用户，发帖、回复、Like 评价及收发私信。</p></div>
+        <div><h3>按习惯阅读</h3><p>切换主题、字体大小以及圆角或扁平风格，调整首页板块顺序。</p></div>
+      </div>
+    </div></section>
+    <section class="content-section" id="changelog"><div class="section-inner">
+      <details class="changelog-disclosure">
+      <summary><h2>Changelog</h2></summary>
+      <p class="changelog-source">iPhone 版历史更新，整理自 <a href="https://apps.apple.com/cn/app/id6804379914">App Store</a>。核对日期：2026-11-05，日期按北京时间展示。</p>
+      <div class="changelog-list">
+<article><h2>3.0</h2><time datetime="2026-11-05">2026-11-05</time><ul><li>新增「复古」主题样式，把水木的热闹染成泛黄书页里的旧时光，等你来翻开。</li></ul></article>
+<article><h2>2.6</h2><time datetime="2026-11-03">2026-11-03</time><ul><li>1. 优化问题反馈界面</li></ul></article>
+<article><h2>2.5</h2><time datetime="2026-10-24">2026-10-24</time><ul><li>1. 适配全新 iPhone Duo 布局</li></ul></article>
+<article><h2>2.3</h2><time datetime="2026-10-21">2026-10-21</time><ul><li>1. 支持扁平风格</li></ul></article>
+<article><h2>2.2</h2><time datetime="2026-10-21">2026-10-21</time><ul><li>1. 支持编辑帖子和回复的内容</li><li>2. 我的收藏接入水木官方数据</li><li>3. 支持移除黑名单用户</li><li>4. 支持左滑操作： 收藏、草稿、关注、黑名单</li><li>5. 支持错误统计</li><li>6. 一系列小的页面优化</li></ul></article>
+<article><h2>2.1</h2><time datetime="2026-10-20">2026-10-20</time><ul><li>1. 一些小的页面优化</li></ul></article>
+<article><h2>2.0</h2><time datetime="2026-10-18">2026-10-18</time><ul><li>1. 支持各种类型附件的上传和显示，包括视频、音频、图片、文件等</li><li>2. 发帖时可带入草稿</li><li>3. 支持图片宽屏/缩略图显示切换</li><li>4. 支持帖子已读未读样式区分</li><li>5. 其他一些小的页面优化</li></ul></article>
+<article><h2>1.5</h2><time datetime="2026-10-16">2026-10-16</time><ul><li>1. 我的消息增加 全部标为已读</li><li>2. “回复我的”和“@我的”增加直接回复功能</li><li>3. 字体大小设置更细粒度</li><li>4. 适配竖版ipad布局</li><li>5. 一些小的页面优化</li></ul></article>
+<article><h2>1.4</h2><time datetime="2026-10-15">2026-10-15</time><ul><li>1. 支持我的个人信息查看</li><li>2. 支持版面列表按最新发帖/回复排序</li><li>3. 一些小的页面优化</li></ul></article>
+<article><h2>1.3</h2><time datetime="2026-10-14">2026-10-14</time><ul><li>1. 支持存草稿功能</li><li>2. 一些小的页面优化</li></ul></article>
+<article><h2>1.2</h2><time datetime="2026-10-13">2026-10-13</time><ul><li>1. 支持视频附件展示</li><li>2. 支持以图片形式发送内容</li><li>3. 支持只看TA/楼主的回复</li><li>其他一些小的页面优化</li></ul></article>
+<article><h2>1.1</h2><time datetime="2026-10-11">2026-10-11</time><ul><li>1. 优化图片交互手势体验</li><li>2. 显示版面版主</li></ul></article>
+<article><h2>1.0</h2><time datetime="2026-10-09">2026-10-09</time><ul><li>App Store 未提供此版本的更新说明。</li></ul></article>
+      </div>
+      </details>
+    </div></section>
+    <section class="content-section" id="help"><div class="section-inner">
+      <h2>Q&A</h2>
+      <details><summary>水木拾光是什么？</summary><p>水木拾光是一款面向水木社区用户的第三方移动客户端，支持热门帖子、版面浏览、搜索、收藏、发帖回复及私信。iPhone 版提供复古、白天、Term 和黑夜四种主题；复古主题采用橄榄绿配色与纸张质感。</p></details>
+      <details><summary>iPhone 怎么浏览水木社区？</summary><p>从 <a href="https://apps.apple.com/cn/app/id6804379914">App Store 下载水木拾光</a>，即可浏览水木社区热门帖子与版面；发帖、回复、私信等操作需要登录水木社区账号。当前 iPhone 版要求 iOS 18.6 或更高版本。</p></details>
+      <details><summary>水木拾光是否免费？</summary><p>目前水木拾光在中国区 App Store 可免费下载，实际价格以 App Store 产品页为准。</p></details>
+      <details><summary>与水木社区官方客户端是什么关系？</summary><p>水木拾光由独立开发者开发，是第三方客户端，非水木社区官方出品。论坛内容及社区规则归水木社区；使用已有的水木社区账号参与互动。</p></details>
+      <details><summary>如何登录？</summary><p>使用已有的水木社区账号登录。账号验证和论坛业务请求直接发送至水木社区服务器，本网站不提供账号注册或登录服务。</p></details>
+      <details><summary>为什么 App Store 无法下载？</summary><p>下载取决于 App Store 账号所在地区、设备兼容性及当前上架状态。官网完成备案不代表 App 已在所有地区上架，实际可用状态以 App Store 产品页为准。</p></details>
+      <details><summary>Android 版在哪里下载？</summary><p>点击本页「下载 Android 版」直接下载 APK，支持 Android 8.0 及以上版本。微信内如无法下载，请在浏览器中打开。安装时可能需要允许浏览器安装未知来源应用，请确认安装包来自本官网。</p></details>
+      <details><summary>遇到问题如何反馈？</summary><p>可通过 App「我的」页面的「意见反馈」向 qteqpid 发送站内信，或发送邮件至 <a href="mailto:glloveyp@163.com">glloveyp@163.com</a>。请说明复现步骤；邮件反馈时请注明设备型号、系统版本及 App 版本。可附截图，但请遮挡密码、Cookie 和私信等敏感信息。</p></details>
+      <details><summary>如何查看版本更新？</summary><p>在本站的 <a href="#changelog">Changelog</a> 或 App Store 产品页查看已发布版本的更新内容。</p></details>
+    </div></section>
+    <section class="content-section" id="contact"><div class="section-inner">
+      <h2>联系开发者</h2><p><a href="mailto:glloveyp@163.com">glloveyp@163.com</a></p>
+      <p>本站仅提供 App 介绍、Q&A及隐私说明，不提供论坛内容发布或私信服务。</p>
+    </div></section>
+  </main>
+
   <footer class="footer">
     <div class="section-inner">
       <span>水木拾光</span>
-      <span data-i18n="footerText">清爽好用的水木社区移动阅读体验。</span>
+      <a href="privacy.html">隐私政策</a>
+      <a href="#contact">联系开发者</a>
+      <a href="https://beian.miit.gov.cn/" target="_blank" rel="noopener noreferrer">京ICP备2026074113号</a>
+      <span>清爽好用的水木社区移动阅读体验。</span>
     </div>
   </footer>
 
   <div class="app-modal" id="appDownloadModal" aria-hidden="true">
     <div class="app-modal-card" role="dialog" aria-modal="true" aria-labelledby="appDownloadTitle">
-      <button class="app-modal-close" type="button" aria-label="Close">×</button>
-      <img class="app-modal-logo" src="../mini_icons/app_logo_smth_big.jpg" alt="">
-      <h2 id="appDownloadTitle" data-i18n="appModalTitle">扫码下载 iPhone 版</h2>
-      <p data-i18n="appModalText">用 iPhone 相机扫码打开 App Store。也可以直接点击下面的链接。</p>
+      <button class="app-modal-close" type="button" aria-label="关闭">×</button>
+      <img class="app-modal-logo" src="assets/app-icon.jpg" alt="">
+      <h2 id="appDownloadTitle">扫码下载 iPhone 版</h2>
+      <p>扫码前往 App Store，也可以直接点击下面的链接。</p>
       <div class="app-modal-qr" id="appStoreQr" aria-label="水木拾光 App Store 链接二维码"></div>
-      <a class="app-store-link" href="https://apps.apple.com/app/id6804379914" data-i18n="appModalLink">直接打开 App Store</a>
+      <a class="app-store-link" href="https://apps.apple.com/app/id6804379914">直接打开 App Store</a>
     </div>
   </div>
 
-  <script src="../tools/qrcode.js"></script>
+  <script src="assets/qrcode.js"></script>
   <script>
     const appStoreUrl = "https://apps.apple.com/app/id6804379914";
-    const copy = {
-      zh: {
-        navTreasures: "更多作品",
-        download: "下载",
-        heroTitle: "水木拾光",
-        heroText: "一款为水木社区用户设计的第三方 iPhone 水木客户端，浏览帖子非非非常丝滑。",
-        downloadApp: "下载 iPhone 版",
-        moreApps: "查看更多作品",
-        appModalTitle: "扫码下载 iPhone 版",
-        appModalText: "用 iPhone 相机扫码打开 App Store。也可以直接点击下面的链接。",
-        appModalLink: "直接打开 App Store",
-        signalTitle: "水木社区移动客户端",
-        signalText: "适合浏览十大、版面、帖子、收藏、私信与社区互动。",
-        footerText: "清爽好用的水木社区移动阅读体验。"
-      },
-      en: {
-        navTreasures: "More Apps",
-        download: "Download",
-        heroTitle: "ShuiMu Time",
-        heroText: "A third-party iPhone client for ShuiMu Community, designed for quick reading, calm collecting, and everyday discussion.",
-        downloadApp: "Download for iPhone",
-        moreApps: "More Apps",
-        appModalTitle: "Scan to download on iPhone",
-        appModalText: "Scan with the iPhone camera to open the App Store, or use the link below.",
-        appModalLink: "Open in the App Store",
-        signalTitle: "ShuiMu mobile client",
-        signalText: "Browse hot topics, boards, posts, collections, messages, and community interactions.",
-        footerText: "A clean mobile reading experience for ShuiMu Community."
-      }
-    };
-
-    let language = new URLSearchParams(window.location.search).get("lang") === "en" ? "en" : "zh";
-    const toggle = document.querySelector(".language-toggle");
-    const nodes = document.querySelectorAll("[data-i18n]");
     const appModal = document.querySelector("#appDownloadModal");
     const appModalClose = document.querySelector(".app-modal-close");
     const appDownloadLinks = document.querySelectorAll(".js-app-download");
-    const shouldOpenAppStoreDirectly = () => window.matchMedia("(max-width: 720px), (pointer: coarse)").matches;
 
-    function renderQr() {
+    function renderQr(url) {
       if (typeof qrcode !== "function") return;
       const qr = qrcode(0, "M");
-      qr.addData(appStoreUrl);
+      qr.addData(url);
       qr.make();
       document.querySelector("#appStoreQr").innerHTML = qr.createSvgTag({ cellSize: 4, margin: 16, scalable: true });
     }
 
+    let previousFocus;
     function openAppModal() {
+      previousFocus = document.activeElement;
+      document.body.style.overflow = "hidden";
       appModal.classList.add("is-open");
       appModal.setAttribute("aria-hidden", "false");
       appModalClose.focus();
@@ -599,32 +680,12 @@
     function closeAppModal() {
       appModal.classList.remove("is-open");
       appModal.setAttribute("aria-hidden", "true");
+      document.body.style.overflow = "";
+      previousFocus?.focus();
     }
-
-    function applyLanguage(nextLanguage) {
-      language = nextLanguage;
-      document.documentElement.lang = language === "zh" ? "zh-CN" : "en";
-      document.title = language === "zh" ? "水木拾光 - 水木社区第三方移动客户端" : "ShuiMu Time - Third-party ShuiMu Client";
-      document.querySelector("meta[name='description']").setAttribute(
-        "content",
-        language === "zh"
-          ? "水木拾光是一款为水木社区用户设计的第三方 iPhone 客户端，支持浏览十大、版面帖子、收藏、私信和社区互动。"
-          : "ShuiMu Time is a third-party iPhone client for ShuiMu Community, with hot topics, boards, posts, collections, messages, and community interactions."
-      );
-      nodes.forEach((node) => {
-        const key = node.dataset.i18n;
-        node.textContent = copy[language][key] || node.textContent;
-      });
-      toggle.textContent = language === "zh" ? "EN" : "中";
-    }
-
-    toggle.addEventListener("click", () => {
-      applyLanguage(language === "zh" ? "en" : "zh");
-    });
 
     appDownloadLinks.forEach((link) => {
       link.addEventListener("click", (event) => {
-        if (shouldOpenAppStoreDirectly()) return;
         event.preventDefault();
         openAppModal();
       });
@@ -635,13 +696,44 @@
       if (event.target === appModal) closeAppModal();
     });
     window.addEventListener("keydown", (event) => {
+      if (event.key === "Tab" && appModal.classList.contains("is-open")) {
+        const items = [...appModal.querySelectorAll("button, a[href]")];
+        if (event.shiftKey && document.activeElement === items[0]) { event.preventDefault(); items.at(-1).focus(); }
+        else if (!event.shiftKey && document.activeElement === items.at(-1)) { event.preventDefault(); items[0].focus(); }
+      }
       if (event.key === "Escape" && appModal.classList.contains("is-open")) {
         closeAppModal();
       }
     });
 
-    renderQr();
-    applyLanguage(language);
+
+    const carousel = document.querySelector('.theme-carousel');
+    const slides = [...carousel.querySelectorAll('.theme-images img')];
+    const themeButtons = [...carousel.querySelectorAll('[data-theme]')];
+    const reducedMotion = matchMedia('(prefers-reduced-motion: reduce)');
+    let activeTheme = 0, paused = reducedMotion.matches, visible = true, timer;
+    function showTheme(index) {
+      activeTheme = index;
+      slides.forEach((slide, i) => { slide.classList.toggle('is-active', i === index); slide.setAttribute('aria-hidden', String(i !== index)); });
+      themeButtons.forEach((button, i) => button.setAttribute('aria-pressed', String(i === index)));
+    }
+    function scheduleTheme() {
+      clearInterval(timer);
+      if (!paused && visible && !document.hidden && !carousel.matches(':hover') && !carousel.contains(document.activeElement)) {
+        timer = setInterval(() => showTheme((activeTheme + 1) % slides.length), 4500);
+      }
+    }
+    themeButtons.forEach((button, index) => button.addEventListener('click', () => { showTheme(index); scheduleTheme(); }));
+    carousel.addEventListener('mouseenter', scheduleTheme);
+    carousel.addEventListener('mouseleave', scheduleTheme);
+    carousel.addEventListener('focusin', scheduleTheme);
+    carousel.addEventListener('focusout', () => setTimeout(scheduleTheme, 0));
+    document.addEventListener('visibilitychange', scheduleTheme);
+    reducedMotion.addEventListener('change', () => { paused = reducedMotion.matches; scheduleTheme(); });
+    new IntersectionObserver(([entry]) => { visible = entry.isIntersecting; scheduleTheme(); }).observe(carousel);
+    scheduleTheme();
+
+    renderQr(appStoreUrl);
   </script>
 </body>
 </html>
