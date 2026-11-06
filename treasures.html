@@ -287,6 +287,7 @@
         grid-template-columns: repeat(3, minmax(0, 1fr));
       }
     }
+    .name a { color: inherit; text-decoration: underline; text-decoration-color: currentColor; text-underline-offset: 4px; }
   </style>
 </head>
 <body>
@@ -301,7 +302,13 @@
         <h2 id="iphoneTitle">iPhone App</h2>
         <p id="iphoneIntro">轻量工具、学习应用和创意小作品，均可从 App Store 下载。</p>
       </div>
-      <div class="list" id="appList" aria-label="Qteqpid iPhone App 列表"></div>
+      <div class="list" id="appList" aria-label="Qteqpid iPhone App 列表">
+        <article class="work">
+          <div class="icon-wrap"><img class="icon" src="mini_icons/app_logo_smth_big.jpg" alt="水木拾光图标" loading="lazy" decoding="async"></div>
+          <div class="content"><h2 class="name"><a href="https://smth.qteqpid.xyz/">水木拾光</a></h2><p class="desc">水木社区第三方移动客户端</p></div>
+          <a class="download" href="https://apps.apple.com/app/id6804379914" aria-label="在 App Store 下载水木拾光">下载</a>
+        </article>
+      </div>
     </section>
 
     <section class="collection" aria-labelledby="macTitle">
@@ -313,7 +320,7 @@
     </section>
 
     <noscript>
-      <p class="footnote">当前浏览器未启用 JavaScript，App 列表无法渲染。</p>
+      <p class="footnote">当前浏览器未启用 JavaScript，仅展示部分 App；启用后可查看完整列表。</p>
     </noscript>
   </main>
 
@@ -456,6 +463,7 @@
         name: { zh: "水木拾光", en: "ShuiMu Time" },
         tagline: { zh: "水木社区第三方移动客户端", en: "A third-party mobile client for ShuiMu Community" },
         appleId: "6804379914",
+        website: "https://smth.qteqpid.xyz/",
         icon: "mini_icons/app_logo_smth_big.jpg"
       }
     ];
@@ -626,7 +634,7 @@
               <img class="icon" src="${ICON_PLACEHOLDER}" data-icon-src="${escapeHTML(app.icon)}" alt="${escapeHTML(`${name} ${text.iconAlt}`)}" loading="lazy" decoding="async">
             </div>
             <div class="content">
-              <h2 class="name">${escapeHTML(name)}</h2>
+              <h2 class="name">${app.website ? `<a href="${escapeHTML(app.website)}">${escapeHTML(name)}</a>` : escapeHTML(name)}</h2>
               ${tagline ? `<p class="desc">${escapeHTML(tagline)}</p>` : ""}
             </div>
             ${actionHTML}

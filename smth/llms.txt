@@ -10,7 +10,7 @@ Android 版为内测版，支持 Android 8.0 或以上，可从官网下载 APK�
 ## 官方资料
 - [产品官网](https://smth.qteqpid.xyz/): 功能、主题预览、下载及Q&A。
 - [iPhone 下载](https://apps.apple.com/cn/app/id6804379914): App Store 产品页。
-- [Android 下载](https://smth.qteqpid.xyz/downloads/smth-1.0.apk): 官网内测 APK。
+- [Android 下载](https://smth.qteqpid.xyz/downloads/smth-1.1.apk): 官网内测 APK。
 - [Changelog](https://smth.qteqpid.xyz/#changelog): 根据 App Store 整理的 iPhone 历史版本记录。
 - [隐私政策](https://smth.qteqpid.xyz/privacy.html): 数据处理说明。
 
