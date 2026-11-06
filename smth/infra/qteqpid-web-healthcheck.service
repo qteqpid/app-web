@@ -1,0 +1,8 @@
+[Unit]
+Description=Qteqpid websites local health check
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+ExecStart=/usr/local/sbin/qteqpid-web-healthcheck

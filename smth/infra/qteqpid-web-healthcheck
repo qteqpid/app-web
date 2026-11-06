@@ -1,0 +1,7 @@
+#!/bin/sh
+if ! /usr/bin/curl --fail --silent --show-error --max-time 15 \
+  --resolve qteqpid.xyz:443:127.0.0.1 \
+  https://qteqpid.xyz/ >/dev/null; then
+  /usr/bin/logger -t qteqpid-web-healthcheck "HTTPS check failed; restarting nginx"
+  /usr/bin/systemctl restart nginx
+fi
