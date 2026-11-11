@@ -3,6 +3,9 @@
 本目录维护 `smth.qteqpid.xyz` 的静态页面、Android APK，以及共享给
 `qteqpid.xyz`、`apps.qteqpid.xyz` 的 Nginx 和 systemd 配置。
 
+新电脑安装、认证、项目获取与迁移清理步骤见
+[Workbench 迁移与部署指南](../WORKBENCH_MIGRATION.md)。
+
 ## 前置条件
 
 - 本机已安装并登录 Workbench CLI。
