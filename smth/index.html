@@ -177,7 +177,7 @@
       min-height: auto;
       display: grid;
       align-items: center;
-      overflow: hidden;
+      overflow: visible;
       padding: 124px 0 32px;
     }
 
@@ -263,13 +263,66 @@
       font-weight: 900;
     }
 
-    .android-download {
-      display: grid;
-      justify-items: center;
-      gap: 6px;
+    /* finesse · component: android-download · register=brand · tokens: inherited */
+    .android-download { position: relative; }
+    .android-download > summary {
+      position: relative;
+      gap: 10px;
+      border: 0;
+      font: inherit;
+      font-weight: 900;
+      list-style: none;
+      white-space: nowrap;
+      cursor: pointer;
     }
-
-    .android-download .button { position: relative; }
+    .android-download > summary::-webkit-details-marker { display: none; }
+    .android-chevron { width: 16px; height: 16px; transition: transform 160ms ease; }
+    .android-download[open] .android-chevron { transform: rotate(180deg); }
+    .android-options {
+      position: absolute;
+      z-index: 10;
+      top: calc(100% + 10px);
+      left: 0;
+      width: min(330px, calc(100vw - 32px));
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      list-style: none;
+      text-align: left;
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      background: var(--deep);
+      box-shadow: var(--shadow);
+    }
+    .android-options li + li { border-top: 1px solid var(--line); }
+    .android-option {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 16px;
+      min-height: 90px;
+      padding: 18px 20px;
+      text-decoration: none;
+      background: var(--panel-strong);
+    }
+    .android-option-copy { display: grid; gap: 5px; min-width: 0; }
+    .android-option strong { color: var(--accent-soft); font-size: 16px; line-height: 1.4; }
+    .android-option small { color: var(--muted); font-size: 13px; font-weight: 500; line-height: 1.5; }
+    .android-option > svg { width: 24px; height: 24px; flex: none; color: var(--accent-soft); }
+    .android-option:focus-visible { outline: 2px solid var(--accent-soft); outline-offset: -4px; }
+    .android-option:active { background: var(--deep); }
+    @media (hover: hover) {
+      .android-download > summary:hover { background: var(--panel-strong); }
+      .android-option:hover { background: var(--panel); }
+    }
+    @media (max-width: 880px) {
+      .actions { position: relative; }
+      .android-download { position: static; }
+      .android-options { left: 50%; transform: translateX(-50%); }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .android-chevron { transition: none; }
+    }
     .android-beta {
       position: absolute;
       top: -8px;
@@ -557,9 +610,27 @@
           <p>水木社区第三方移动客户端，追求极致的阅读与交流体验。</p>
           <div class="actions">
             <a class="button primary js-app-download" href="https://apps.apple.com/app/id6804379914">下载 iPhone 版</a>
-            <div class="android-download">
-              <a class="button secondary" href="https://qteqpid.github.io/app-web/downloads/smth-6.0.apk" download><span>下载 Android 版</span><span class="android-beta">内测版</span></a>
-            </div>
+            <details class="android-download">
+              <summary class="button secondary" aria-controls="androidDownloadOptions">
+                <span>下载 Android 版</span>
+                <svg class="android-chevron" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true" focusable="false"><path d="m4 6 4 4 4-4"/></svg>
+                <span class="android-beta">内测版</span>
+              </summary>
+              <ul class="android-options" id="androidDownloadOptions" aria-label="Android 下载途径">
+                <li><a class="android-option" href="https://wwbtg.lanzoub.com/b01i6082qd" target="_blank" rel="noopener noreferrer">
+                  <span class="android-option-copy"><strong>蓝奏云</strong><small>网盘下载 · 提取码 8888</small></span>
+                  <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true" focusable="false"><path d="M6.3 6.2 4.9 3.8a.6.6 0 0 1 1-.6l1.5 2.5a11 11 0 0 1 9.2 0l1.5-2.5a.6.6 0 1 1 1 .6l-1.4 2.4A10 10 0 0 1 22 14H2a10 10 0 0 1 4.3-7.8ZM7.5 9a1 1 0 1 0 0 2 1 1 0 0 0 0-2Zm9 0a1 1 0 1 0 0 2 1 1 0 0 0 0-2ZM3 15h18v5a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1v-5Z"/></svg>
+                </a></li>
+                <li><a class="android-option" href="https://qteqpid.github.io/app-web/downloads/smth-6.0.apk" download>
+                  <span class="android-option-copy"><strong>GitHub 下载</strong><small>Android 6.0 · APK 直接下载</small></span>
+                  <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true" focusable="false"><path d="M6.3 6.2 4.9 3.8a.6.6 0 0 1 1-.6l1.5 2.5a11 11 0 0 1 9.2 0l1.5-2.5a.6.6 0 1 1 1 .6l-1.4 2.4A10 10 0 0 1 22 14H2a10 10 0 0 1 4.3-7.8ZM7.5 9a1 1 0 1 0 0 2 1 1 0 0 0 0-2Zm9 0a1 1 0 1 0 0 2 1 1 0 0 0 0-2ZM3 15h18v5a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1v-5Z"/></svg>
+                </a></li>
+                <li><a class="android-option" href="https://gitee.com/qsmth/smth" target="_blank" rel="noopener noreferrer">
+                  <span class="android-option-copy"><strong>Gitee 下载</strong><small>备用下载 · 可能需要登录</small></span>
+                  <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true" focusable="false"><path d="M6.3 6.2 4.9 3.8a.6.6 0 0 1 1-.6l1.5 2.5a11 11 0 0 1 9.2 0l1.5-2.5a.6.6 0 1 1 1 .6l-1.4 2.4A10 10 0 0 1 22 14H2a10 10 0 0 1 4.3-7.8ZM7.5 9a1 1 0 1 0 0 2 1 1 0 0 0 0-2Zm9 0a1 1 0 1 0 0 2 1 1 0 0 0 0-2ZM3 15h18v5a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1v-5Z"/></svg>
+                </a></li>
+              </ul>
+            </details>
             <a class="button secondary help-button" href="#help">Q&A</a>
           </div>
         </div>
@@ -614,7 +685,7 @@
       <details><summary>与水木社区官方客户端是什么关系？</summary><p>水木拾光由独立开发者开发，是第三方客户端，非水木社区官方出品。论坛内容及社区规则归水木社区；使用已有的水木社区账号参与互动。</p></details>
       <details><summary>如何登录？</summary><p>使用已有的水木社区账号登录。账号验证和论坛业务请求直接发送至水木社区服务器，本网站不提供账号注册或登录服务。</p></details>
       <details><summary>为什么 App Store 无法下载？</summary><p>下载取决于 App Store 账号所在地区、设备兼容性及当前上架状态。官网完成备案不代表 App 已在所有地区上架，实际可用状态以 App Store 产品页为准。</p></details>
-      <details><summary>Android 版在哪里下载？</summary><p>点击本页「下载 Android 版」直接下载 APK，支持 Android 8.0 及以上版本。微信内如无法下载，请在浏览器中打开。安装时可能需要允许浏览器安装未知来源应用，请确认安装包来自本官网。</p></details>
+      <details><summary>Android 版在哪里下载？</summary><p>点击本页「下载 Android 版」，选择蓝奏云、GitHub 或 Gitee 下载。蓝奏云提取码为 8888，Gitee 下载可能需要登录。支持 Android 8.0 及以上版本。微信内如无法下载，请在浏览器中打开。安装时可能需要允许浏览器安装未知来源应用，请确认安装包来自本官网。</p></details>
       <details><summary>遇到问题如何反馈？</summary><p>可通过 App「我的」页面的「意见反馈」向 qteqpid 发送站内信，或发送邮件至 <a href="mailto:glloveyp@163.com">glloveyp@163.com</a>。请说明复现步骤；邮件反馈时请注明设备型号、系统版本及 App 版本。可附截图，但请遮挡密码、Cookie 和私信等敏感信息。</p></details>
       <details><summary>如何查看版本更新？</summary><p>在本站的 <a href="#changelog">Changelog</a> 或 App Store 产品页查看已发布版本的更新内容。</p></details>
     </div></section>
@@ -647,6 +718,22 @@
 
   <script src="assets/qrcode.js"></script>
   <script>
+    const androidDownload = document.querySelector(".android-download");
+    document.addEventListener("click", (event) => {
+      if (!androidDownload.contains(event.target) || event.target.closest(".android-option")) {
+        androidDownload.open = false;
+      }
+    });
+    document.addEventListener("focusin", (event) => {
+      if (!androidDownload.contains(event.target)) androidDownload.open = false;
+    });
+    document.addEventListener("keydown", (event) => {
+      if (event.key === "Escape" && androidDownload.open) {
+        androidDownload.open = false;
+        androidDownload.querySelector("summary").focus();
+      }
+    });
+
     const appStoreUrl = "https://apps.apple.com/app/id6804379914";
     const appModal = document.querySelector("#appDownloadModal");
     const appModalClose = document.querySelector(".app-modal-close");
