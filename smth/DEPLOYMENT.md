@@ -6,6 +6,79 @@
 新电脑安装、认证、项目获取与迁移清理步骤见
 [Workbench 迁移与部署指南](../WORKBENCH_MIGRATION.md)。
 
+## 通过网页版 Workbench 部署（当前方式）
+
+当前仓库提供 `deploy-site.sh`，在云服务器执行。需要 Bash 和 Python 3，
+不需要本地 Workbench CLI。默认网站目录为 `/var/www/smth`，备份目录为
+`/var/backups/smth`；首次部署前通过 `nginx -T` 核对官网的 `root`。
+
+### 1. 在本地电脑打包
+
+压缩包根目录直接放网页和 `assets/`，不要再套一层 `smth/` 目录。
+在 Mac 本地终端执行：
+
+```bash
+cd ~/Desktop/ios开发/app-web/smth
+COPYFILE_DISABLE=1 tar -czf /tmp/smth-site.tar.gz \
+  index.html changelog.html privacy.html robots.txt sitemap.xml llms.txt \
+  a395924ca50b4cbb96440bc6b435c8d3.txt assets
+```
+
+### 2. 首次安装部署脚本
+
+在网页版 Workbench 连接官网 ECS，使用文件管理将本仓库的 `deploy-site.sh`
+上传到服务器 `/tmp/`。以 root 用户执行：
+
+```bash
+install -m 755 /tmp/deploy-site.sh /usr/local/bin/deploy-smth-site
+```
+
+这一步只需要执行一次。以后脚本有更新时，再上传并执行同一安装命令。
+
+### 3. 每次上传压缩包并部署
+
+使用 Workbench 文件管理把本地压缩包上传至服务器 `/tmp/smth-site.tar.gz`，
+然后在服务器终端执行：
+
+```bash
+deploy-smth-site /tmp/smth-site.tar.gz
+```
+
+也可以不安装，直接执行上传的脚本：
+
+```bash
+bash /tmp/deploy-site.sh /tmp/smth-site.tar.gz
+```
+
+脚本会先检查压缩包路径和文件类型、解压到独立临时目录，再备份旧站点。
+备份排除 `downloads/` 和站点内的 `backups/`，存放在网站目录之外。
+部署先更新资源和辅助页面、最后替换首页，每个文件采用临时文件加原子替换，
+并核对 SHA-256。脚本只接受约定的网页文件和静态资源，不删除站点的其他文件。
+并发部署会被拒绝。部署完成后无需重启 Nginx，浏览器强制刷新官网即可验证。
+
+如命令报错，不要仅凭存在备份文件认为已完成部署。上传包检查失败时站点不会改变；
+部署过程中失败时可能已替换部分文件，脚本会返回非零状态并打印备份路径。
+需要回滚时，核对脚本打印的备份文件，在服务器执行：
+
+```bash
+tar -xzf /var/backups/smth/实际的备份文件名.tar.gz -C /var/www/smth
+```
+
+回滚会覆盖备份中的同名文件，新发布中额外新增的静态资源会保留。
+
+脚本可选的第二、第三个参数用于指定网站目录和备份目录，例如本地测试；
+备份目录必须在网站目录之外：
+
+```bash
+bash deploy-site.sh /tmp/smth-site.tar.gz /tmp/test-site /tmp/test-backups
+```
+
+## 旧版 CLI 部署说明
+
+以下为历史 CLI 流程，供迁移和基础设施维护时参考；其中的 `deploy.sh`、
+`deploy-apk.sh` 和 `deploy-infra.sh` 当前不在本仓库中。日常部署使用上面的
+网页版 Workbench 和 `deploy-site.sh`。
+
 ## 前置条件
 
 - 本机已安装并登录 Workbench CLI。
